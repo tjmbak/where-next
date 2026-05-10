@@ -285,6 +285,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                       eventLabel={event.title}
                       destinationSlug={destination.slug}
                       provider={event.ticketUrl ? "viagogo" : "raw"}
+                      preview={{ kind: "event", eventId: event.id }}
                       className="mt-4 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
                     >
                       official source
@@ -305,6 +306,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                     href={venue.officialUrl}
                     eventLabel={venue.name}
                     destinationSlug={destination.slug}
+                    preview={{ kind: "venue", venueId: venue.id }}
                     className="group flex flex-col gap-2 bg-[var(--background)] p-6 transition hover:bg-[var(--surface)]"
                   >
                     <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">

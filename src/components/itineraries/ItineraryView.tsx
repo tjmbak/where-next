@@ -150,8 +150,9 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
                   <TrackedOutboundLink
                     href={event.ticketUrl}
                     eventLabel={`itinerary-${event.id}`}
-                    destinationSlug={destination.slug}
+                    destinationSlug={dayDestination.slug}
                     provider="viagogo"
+                    preview={{ kind: "event", eventId: event.id }}
                     className="mt-5 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
                   >
                     grab tickets ↗
@@ -160,7 +161,8 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
                   <TrackedOutboundLink
                     href={event.sourceUrl}
                     eventLabel={`itinerary-${event.id}-source`}
-                    destinationSlug={destination.slug}
+                    destinationSlug={dayDestination.slug}
+                    preview={{ kind: "event", eventId: event.id }}
                     className="mt-5 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
                   >
                     official source ↗
@@ -169,7 +171,8 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
                   <TrackedOutboundLink
                     href={venue.officialUrl}
                     eventLabel={`itinerary-venue-${venue.id}`}
-                    destinationSlug={destination.slug}
+                    destinationSlug={dayDestination.slug}
+                    preview={{ kind: "venue", venueId: venue.id }}
                     className="mt-5 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
                   >
                     venue site ↗

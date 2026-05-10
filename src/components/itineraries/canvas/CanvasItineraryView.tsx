@@ -20,6 +20,7 @@ import { arrayMove, SortableContext, sortableKeyboardCoordinates, verticalListSo
 import { AnchorCard, type AnchorPayload } from "@/components/itineraries/canvas/AnchorCard";
 import { AnchorLibrary } from "@/components/itineraries/canvas/AnchorLibrary";
 import { DayCardCanvas } from "@/components/itineraries/canvas/DayCardCanvas";
+import { StatsPanel } from "@/components/itineraries/canvas/StatsPanel";
 import { MiniMap } from "@/components/visual/MiniMap";
 import { getDestinationBySlug } from "@/data/music-travel";
 import type { Itinerary } from "@/lib/itineraries/generate";
@@ -214,8 +215,9 @@ export function CanvasItineraryView({ itinerary, destination, onChange }: Canvas
           </SortableContext>
         </div>
 
-        {/* Anchor library sidebar */}
-        <div className="lg:sticky lg:top-4 lg:self-start">
+        {/* Right rail: live stats + anchor library, both sticky */}
+        <div className="lg:sticky lg:top-4 lg:self-start space-y-4">
+          <StatsPanel itinerary={itinerary} />
           <AnchorLibrary legSlugs={legSlugs} usedAnchorIds={usedAnchorIds} />
         </div>
       </div>

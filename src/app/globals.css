@@ -181,6 +181,28 @@
   animation: wn-day-in 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
 }
 
+@keyframes wn-swap-pulse {
+  0% {
+    box-shadow:
+      0 0 0 0 rgba(255, 139, 61, 0.55),
+      0 0 0 0 rgba(255, 139, 61, 0.2);
+  }
+  60% {
+    box-shadow:
+      0 0 0 10px rgba(255, 139, 61, 0),
+      0 0 0 22px rgba(255, 139, 61, 0);
+  }
+  100% {
+    box-shadow:
+      0 0 0 10px rgba(255, 139, 61, 0),
+      0 0 0 22px rgba(255, 139, 61, 0);
+  }
+}
+
+.wn-day-content {
+  animation: wn-fade-in 0.4s cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+}
+
 .cursor-blink::after {
   content: "";
   display: inline-block;
