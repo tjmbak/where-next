@@ -1,0 +1,198 @@
+{
+  "slug": "seoul",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:39:42.033Z",
+  "responseId": "resp_022fc932115397d6006a009872bfec819785ccf5f7a5d670b6",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Seoul was especially strong for arena-scale K-pop and hip-hop concerts, with a busy Itaewon/Hongdae club calendar anchored by Faust, vurt., Cakeshop and RA-listed international DJ bookings.",
+    "events": [
+      {
+        "id": "seoul-txt-moa-con-2026",
+        "title": "2026 TXT MOA CON",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-03-01",
+        "importance": 88,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26000321?placeCode=26000055",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26000321?placeCode=26000055",
+        "summary": "TOMORROW X TOGETHER held a three-night MOA CON run at KSPO Dome, closing on March 1. NOL World lists the concert dates, venue and ticket categories.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-lee-youngji-world-tour-2026",
+        "title": "2026 LEE YOUNGJI WORLD TOUR 〈2.0〉 IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-08",
+        "importance": 84,
+        "venueName": "Olympic Hall",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26001856?placeCode=26000128",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26001856?placeCode=26000128",
+        "summary": "Rapper and vocalist Lee Youngji opened her 〈2.0〉 world tour with two Seoul shows at Olympic Hall. NOL World confirms the March 7–8 dates and the Olympic Hall venue.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-zerobaseone-here-now-encore-2026",
+        "title": "2026 ZEROBASEONE WORLD TOUR［HERE＆NOW］ENCORE IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 90,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26000832?placeCode=26000058",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26000832?placeCode=26000058",
+        "summary": "ZEROBASEONE brought the encore edition of the HERE＆NOW world tour to KSPO Dome for three Seoul performances. The official NOL World ticket page lists March 13–15, 2026 and the 2 hr 30 min runtime.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-illit-press-start-2026",
+        "title": "ILLIT LIVE ‘PRESS START♥’ in SEOUL",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-15",
+        "importance": 86,
+        "venueName": "TicketLINK LIVE ARENA",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26001049?placeCode=26000075",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26001049?placeCode=26000075",
+        "summary": "ILLIT staged two Seoul shows for ‘PRESS START♥’ at TicketLINK LIVE ARENA. NOL World confirms the March 14–15 performance window and ticket tiers including sound check and M&G packages.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-central-cee-global-calling-2026",
+        "title": "GLOBAL CALLING: CENTRAL CEE",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 82,
+        "venueName": "Lion Super Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2384500",
+        "ticketUrl": "https://ra.co/events/2384500",
+        "summary": "UK rapper Central Cee was billed for Lion Super Club’s GLOBAL CALLING party in Gangnam. Resident Advisor lists the event for March 14, 2026 from 23:00 to 06:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-vurt-resident-night-ii-2026",
+        "title": "Resident Night II",
+        "type": "residency",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 78,
+        "venueName": "Vurt",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://de.ra.co/events/2388876",
+        "ticketUrl": "https://de.ra.co/events/2388876",
+        "summary": "vurt.’s Resident Night II featured ANSOL, SUNA and SJK as part of a two-night showcase of the club’s resident techno sound. Resident Advisor lists the event for March 14, 2026 at vurt.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-ive-dive-into-ive-2026",
+        "title": "2026 IVE THE 4TH FAN CONCERT 〈DIVE into IVE〉",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-22",
+        "importance": 88,
+        "venueName": "INSPIRE ARENA",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/26000110/products/26001600",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000110/products/26001600",
+        "summary": "IVE presented the 4th fan concert 〈DIVE into IVE〉 across two performances at INSPIRE ARENA, in the Seoul metro area. NOL World confirms March 21–22, 2026 and lists VIP and general ticket categories.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-faust-invites-dbbd-2026",
+        "title": "INVITES: DBBD",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 76,
+        "venueName": "Faust",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2385021",
+        "ticketUrl": "https://ra.co/events/2385021",
+        "summary": "Faust’s INVITES series brought DBBD to Itaewon alongside Marcus L, Suman, Mars Parck and Sol. Resident Advisor lists the event as an RA Pick on March 21, 2026 from 23:00 to 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-cakeshop-gwangheungchang-jensen-interceptor-2026",
+        "title": "광흥창 Gwangheungchang ‘NOT Good bye NET GALA’ with Jensen Interceptor",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 82,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2388520",
+        "ticketUrl": "https://ra.co/events/2388520",
+        "summary": "Cakeshop hosted Gwangheungchang’s ‘NOT Good bye NET GALA’ with Jensen Interceptor, NET GALA, Yetsuby and a packed local lineup. Resident Advisor marks it as an RA Pick for March 28, 2026.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "seoul-carl-craig-modeci-2026",
+        "title": "Carl Craig (Detroit Love, US)",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 84,
+        "venueName": "Modeci",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395284",
+        "ticketUrl": "https://ra.co/events/2395284",
+        "summary": "Detroit techno figure Carl Craig headlined Modeci with BYUNGHO, SINAHILL and DJ 6ts. Resident Advisor lists the event for March 28, 2026 from 22:00 to 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-tws-42-club-fanmeeting-2026",
+        "title": "2026 TWS 2ND FANMEETING 〈42:CLUB〉 IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 82,
+        "venueName": "TicketLINK LIVE ARENA (Olympic Handball Gymnasium)",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/26000183/products/26002502",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000183/products/26002502",
+        "summary": "TWS held a three-day 〈42:CLUB〉 Seoul fanmeeting at TicketLINK LIVE ARENA. NOL World confirms March 27–29, 2026 and the Olympic Park venue address.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

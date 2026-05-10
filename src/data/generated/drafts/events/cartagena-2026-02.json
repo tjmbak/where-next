@@ -1,0 +1,197 @@
+{
+  "slug": "cartagena",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:50:13.247Z",
+  "responseId": "resp_06c15d172675c0c5006a009aa55f788190a1a739c697cf33cb",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 2,
+    "year": 2026,
+    "notes": "February’s strongest confirmed music calendar in Cartagena centered on heritage programming around Candelaria/Hay Festival, with a handful of verified club and concert one-offs rather than a dense international touring schedule.",
+    "events": [
+      {
+        "id": "cartagena-hay-porro-concert-2026",
+        "title": "Hay Festival Cartagena: El porro en concierto",
+        "type": "concert",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-01",
+        "importance": 82,
+        "venueName": "Teatro Adolfo Mejía",
+        "venueId": null,
+        "sourceUrl": "https://www.hayfestival.com/m-222-cartagena-2026.aspx?categoryfilterid=0&genrefilterID=14&localesetting=es-ES&sectionfilterid=0&skinid=5&vectorfilterid=0",
+        "ticketUrl": null,
+        "summary": "Rafael Pérez Alviz and Daniel Samper Pizano led a conversation on porro, followed by a live concert from Acorbanda de Colombia as part of Hay Festival Cartagena 2026.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "cartagena-festival-cumbia-2026",
+        "title": "XXVI Festival de la Cumbia a la manera cartagenera",
+        "type": "festival",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-02",
+        "importance": 78,
+        "venueName": "Tarima del Frito – Monumento a los Zapatos Viejos",
+        "venueId": null,
+        "sourceUrl": "https://www.cartagena.gov.co/index.php/noticias/cartagena-celebra-herencia-sus-ancestros-el-xxvi-festival-cumbia-manera-cartagenera",
+        "ticketUrl": null,
+        "summary": "The city-backed cumbia festival presented competitions and gala performances by folkloric music groups, dancers and new-song contestants within the Fiestas de la Candelaria program.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-simon-olano-guitarras-2026",
+        "title": "Simón Olano: Una noche en Cartagena",
+        "type": "concert",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 72,
+        "venueName": "Teatro Adolfo Mejía",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/simon-olano-una-noche-en-cartagena",
+        "ticketUrl": "https://www.passline.com/eventos/simon-olano-una-noche-en-cartagena",
+        "summary": "Cartagenero singer-composer Simón Olano performed a romantic bolero and balada program under the Festival de Guitarras banner at Teatro Adolfo Mejía.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-charanga-mirador-2026",
+        "title": "Charanga Joven en El Mirador",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-14",
+        "importance": 63,
+        "venueName": "El Mirador Cafe Bar",
+        "venueId": null,
+        "sourceUrl": "https://cartagenaplay.com/event/charanga-joven-en-el-mirador/",
+        "ticketUrl": null,
+        "summary": "El Mirador Culture Bar hosted Charanga Joven for a live Caribbean-music night with doors listed at 8:00 p.m.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "cartagena-candlelight-vivaldi-2026",
+        "title": "Candlelight: Las Cuatro Estaciones de Vivaldi",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 66,
+        "venueName": "Palacio de la Proclamación",
+        "venueId": null,
+        "sourceUrl": "https://concerts50.com/es/show/candlelight-las-cuatro-estaciones-de-vivaldi-in-cartagena-tickets-feb-20-2026",
+        "ticketUrl": "https://feverup.com/m/500235/en",
+        "summary": "The Candlelight series presented Vivaldi’s Four Seasons in a one-hour candlelit string-quartet concert at Palacio de la Proclamación.",
+        "genres": []
+      },
+      {
+        "id": "cartagena-candlelight-adele-2026",
+        "title": "Candlelight: Tributo a Adele",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 65,
+        "venueName": "Palacio de la Proclamación",
+        "venueId": null,
+        "sourceUrl": "https://concerts50.com/show/candlelight-tributo-a-adele-in-cartagena-tickets-feb-20-2026",
+        "ticketUrl": "https://feverup.com/m/499773/en",
+        "summary": "A Candlelight tribute concert reworked Adele songs for a live chamber setting at Palacio de la Proclamación.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-dragon-caballero-andres-2026",
+        "title": "Dragón y Caballero en Andrés",
+        "type": "concert",
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "importance": 68,
+        "venueName": "Andrés Carne de Res Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://cartagenaplay.com/event/dragon-y-caballero-en-andres/",
+        "ticketUrl": null,
+        "summary": "The Colombian duo Dragón y Caballero were listed for a live show at Andrés Carne de Res Cartagena, billed as a night of romance, party energy and live performance.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-ipcc-trio-plaza-variedades-2026",
+        "title": "Trío Musical del IPCC at Plaza de Variedades",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 62,
+        "venueName": "Plaza de Variedades, Parque Espíritu del Manglar",
+        "venueId": null,
+        "sourceUrl": "https://www.cartagena.gov.co/noticias/el-plan-este-fin-semana-plaza-variedades-cartagena-dj-dever-sus-amigos-entre-shows-principales",
+        "ticketUrl": null,
+        "summary": "The official city program for Plaza de Variedades opened its weekend with a free presentation by the Trío Musical del IPCC following an IDER rumbaterapia session.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "cartagena-rueda-bullerengue-2026",
+        "title": "Rueda de Bullerengue: la plaza es de todos y para todos",
+        "type": "festival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 67,
+        "venueName": "Plaza de Variedades, Parque Espíritu del Manglar",
+        "venueId": null,
+        "sourceUrl": "https://www.cartagena.gov.co/noticias/el-plan-este-fin-semana-plaza-variedades-cartagena-dj-dever-sus-amigos-entre-shows-principales",
+        "ticketUrl": null,
+        "summary": "The free Plaza de Variedades program featured a bullerengue-focused cultural afternoon with cantadora Emelia Reyes “La Burgo,” Vivian Pérez and Irving Vanegas.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-taboo-jossi-guerra-2026",
+        "title": "Miércoles en Taboo Disco Club with DJ Jossi Guerra",
+        "type": "club-night",
+        "startDate": "2026-02-25",
+        "endDate": "2026-02-25",
+        "importance": 60,
+        "venueName": "Taboo Disco Club",
+        "venueId": null,
+        "sourceUrl": "https://cartagenaplay.com/event/miercoles-en-taboo-disco-club/",
+        "ticketUrl": null,
+        "summary": "Taboo Disco Club listed a Wednesday club night with DJ Jossi Guerra at its Getsemaní venue.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-tinderparty-viajero-2026",
+        "title": "#TinderParty en el rooftop de Viajero Getsemaní",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-03-01",
+        "importance": 60,
+        "venueName": "El Viajero Hostel - Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://cartagenaplay.com/event/tinderparty-en-el-rooftop-de-viajero-getsemani/",
+        "ticketUrl": null,
+        "summary": "Viajero Getsemaní’s rooftop hosted a free public #TinderParty with live DJs from late afternoon into the night.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

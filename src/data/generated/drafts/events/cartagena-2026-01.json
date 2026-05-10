@@ -1,0 +1,167 @@
+{
+  "slug": "cartagena",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:49:38.652Z",
+  "responseId": "resp_0a188ef5d6e1048f006a009a9c0b188193ad23ddad52077fdc",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Cartagena was anchored by the 20th Cartagena Festival de Música, with additional high-end electronic parties and Hay Festival music programming later in the month.",
+    "events": [
+      {
+        "id": "cartagena-festival-musica-2026",
+        "title": "Cartagena XX Festival de Música 2026",
+        "type": "festival",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-12",
+        "importance": 90,
+        "venueName": "Various venues in Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://cartagenamusicfestival.com/convocatoria-becarios/",
+        "ticketUrl": null,
+        "summary": "The 20th Cartagena Festival de Música ran under the theme “El Alma y el Cuerpo,” with concerts across Teatro Adolfo Mejía, Centro de Convenciones, Sofitel Santa Clara, Palacio de la Proclamación and other city venues.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-cfm-inaugural-2026",
+        "title": "Cartagena Festival de Música: Concierto inaugural",
+        "type": "concert",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 82,
+        "venueName": "Teatro Adolfo Mejía",
+        "venueId": null,
+        "sourceUrl": "https://cartagenamusicfestival.com/show-item/concierto-inaugural-2026/",
+        "ticketUrl": "https://tuboleta.com/",
+        "summary": "The festival opened with the Orquesta de Cámara Franz Liszt conducted by István Várdai, with violinist Simon Zhu performing a program including Mozart, Tchaikovsky and Paganini.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-rumors-2026",
+        "title": "RUMORS Cartagena: Guy Gerber & Jan Blomqvist",
+        "type": "club-night",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-05",
+        "importance": 82,
+        "venueName": "TBA - Museo Naval Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2329559",
+        "ticketUrl": "https://www.eventbrite.com/",
+        "summary": "Resident Advisor listed RUMORS Cartagena with Guy Gerber, Jan Blomqvist, Monobase and Kuda, running 20:00–03:00 at a Museo Naval Cartagena location.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-grandbrothers-2026",
+        "title": "Grandbrothers Elsewhere Tour 2026",
+        "type": "concert",
+        "startDate": "2026-01-06",
+        "endDate": "2026-01-06",
+        "importance": 76,
+        "venueName": "Capilla del Hotel Sofitel Santa Clara",
+        "venueId": null,
+        "sourceUrl": "https://cartagenamusicfestival.com/show-item/clasicos-con-alma-electronica/",
+        "ticketUrl": "https://tuboleta.com/",
+        "summary": "Grandbrothers brought their Elsewhere live show to the Cartagena Festival de Música, pairing acoustic piano with electronic textures, synthesizers and drum-machine-driven rhythms.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-lost-miracle-2026",
+        "title": "Lost Miracle Cartagena: Sébastien Léger & Roy Rosenfeld",
+        "type": "beach-club",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 78,
+        "venueName": "Atolón, Isla Tierra Bomba",
+        "venueId": null,
+        "sourceUrl": "https://web.fourvenues.com/en/3nomadsx/events/lost-miracle---cartagena---sebastien-leger--roy-rosenfeld-09-01-2026-E9E9",
+        "ticketUrl": "https://web.fourvenues.com/en/3nomadsx/events/lost-miracle---cartagena---sebastien-leger--roy-rosenfeld-09-01-2026-E9E9",
+        "summary": "Lost Miracle’s Cartagena date featured Sébastien Léger and Roy Rosenfeld at Atolón on Isla Tierra Bomba, with the ticket page listing a 14:00–02:00 schedule.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-cody-fry-2026",
+        "title": "Cody Fry: Música para un nuevo mundo",
+        "type": "concert",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-11",
+        "importance": 77,
+        "venueName": "Auditorio Getsemaní, Centro de Convenciones",
+        "venueId": null,
+        "sourceUrl": "https://cartagenamusicfestival.com/show-item/cody-fry-musica-para-un-nuevo-mundo/",
+        "ticketUrl": null,
+        "summary": "Cody Fry performed with the Filarmónica Joven de Colombia as part of Cartagena Festival de Música, presenting a symphonic-pop program at Auditorio Getsemaní.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-paquito-sinfonico-2026",
+        "title": "Paquito sinfónico: entre lo clásico y el jazz",
+        "type": "concert",
+        "startDate": "2026-01-12",
+        "endDate": "2026-01-12",
+        "importance": 82,
+        "venueName": "Plaza de la Aduana",
+        "venueId": null,
+        "sourceUrl": "https://cartagenamusicfestival.com/show-item/paquito-sinfonico-entre-lo-clasico-y-el-jazz/",
+        "ticketUrl": null,
+        "summary": "Paquito d’Rivera Quinteto closed the Cartagena Festival de Música calendar with a free Plaza de la Aduana concert joining jazz improvisation, orchestral writing and Latin repertoire.",
+        "genres": [
+          "jazz",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-hay-la-pambele-2026",
+        "title": "Hay Festival Cartagena: Concierto de La Pambelé",
+        "type": "concert",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 72,
+        "venueName": "Centro de Convenciones, Explanada",
+        "venueId": null,
+        "sourceUrl": "https://download.hayfestival.com/downloads/cartagena/Cartagena_Programa_Mano_2026.pdf",
+        "ticketUrl": null,
+        "summary": "Hay Festival Cartagena programmed La Pambelé for a 21:00 salsa-brava concert at the Centro de Convenciones Explanada, presenting material from Nací mestizo.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "cartagena-gioli-assia-2026",
+        "title": "Giolì & Assia - Cartagena",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 78,
+        "venueName": "TBA - Casa Real Getsemaní",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2342609",
+        "ticketUrl": "https://www.eventbrite.co/",
+        "summary": "Resident Advisor listed Italian electronic duo Giolì & Assia in Cartagena for a 19:00–04:00 melodic-house event promoted by Booth and Los Calvitos Events.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

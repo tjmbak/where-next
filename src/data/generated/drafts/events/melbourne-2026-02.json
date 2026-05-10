@@ -1,0 +1,227 @@
+{
+  "slug": "melbourne",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:48:05.091Z",
+  "responseId": "resp_09d27a0a493f22aa006a009a2df4d48194b6290a3c519048be",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 combined major summer festivals, Fed Square free programs, and a strong late-month electronic run across Northcote and the bayside club circuit.",
+    "events": [
+      {
+        "id": "melbourne-laneway-festival-2026",
+        "title": "Laneway Festival Melbourne 2026",
+        "type": "festival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 98,
+        "venueName": "Flemington Park",
+        "venueId": null,
+        "sourceUrl": "https://www.lanewayfestival.com/melbourne/event-info",
+        "ticketUrl": "https://premier.ticketek.com.au/",
+        "summary": "Laneway Melbourne landed at Flemington Park with a lineup led by Chappell Roan, Alex G, BENEE, Lucy Dacus, Wet Leg, PinkPantheress, Wolf Alice and Yung Lean & Bladee. The official event page lists Friday 13 February 2026 and Flemington Park as the venue.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-st-kilda-festival-2026",
+        "title": "St Kilda Festival 2026",
+        "type": "festival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-15",
+        "importance": 94,
+        "venueName": "St Kilda Foreshore",
+        "venueId": null,
+        "sourceUrl": "https://www.stkildafestival.com.au/festival-info/news/kick-off-2026-with-our-st-kilda-festival-headliners/",
+        "ticketUrl": null,
+        "summary": "The free, all-ages St Kilda Festival returned for two days, with First Peoples First on 14 February and Big Festival Sunday on 15 February. Announced headliners included BARKAA and Selve on Saturday, plus Jessica Mauboy, Sneaky Sound System and Mental As Anything on Sunday.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-sugar-mountain-2026",
+        "title": "Sugar Mountain 2026",
+        "type": "festival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 91,
+        "venueName": "The Paddock – Fed Square",
+        "venueId": null,
+        "sourceUrl": "https://sugarmountainfestival.com/",
+        "ticketUrl": "https://sugarmountainfestival.com/",
+        "summary": "Sugar Mountain returned as a standalone CBD festival at The Paddock with a 360-degree stage format. The lineup featured Baby G, Danilo Plessow aka MCDE, Paula Tape, Pretty Girl (Live), salute, Tiga and Yikes.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-lorde-ultrasound-2026",
+        "title": "Lorde – Ultrasound World Tour",
+        "type": "concert",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-22",
+        "importance": 88,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/Show.aspx?sh=VERELUMI26",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/Show.aspx?sh=VERELUMI26",
+        "summary": "Lorde brought the Ultrasound World Tour to Rod Laver Arena for two Melbourne arena shows on Saturday 21 and Sunday 22 February 2026. Ticketek listed the shows as presented by Frontier Touring.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-kesha-tits-out-tour-2026",
+        "title": "Kesha – The Tits Out Tour",
+        "type": "concert",
+        "startDate": "2026-02-22",
+        "endDate": "2026-02-22",
+        "importance": 85,
+        "venueName": "John Cain Arena",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/events/KESHAT26/venues/VFA/performances/EVFA2026654KS/tickets",
+        "ticketUrl": "https://premier.ticketek.com.au/events/KESHAT26/venues/VFA/performances/EVFA2026654KS/tickets",
+        "summary": "Kesha played Melbourne’s John Cain Arena on Sunday 22 February 2026 as part of The Tits Out Tour. The Ticketek listing confirms the 6:30pm performance time and venue.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-nts-naarm-2026",
+        "title": "NTS Naarm 2026",
+        "type": "festival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-03-01",
+        "importance": 86,
+        "venueName": "Northcote Theatre and High Note",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2249187",
+        "ticketUrl": "https://ra.co/events/2249187",
+        "summary": "NTS returned to Naarm for a two-day program at Northcote Theatre and High Note. The lineup included POiSON GiRL FRiEND, Nabihah Iqbal, Yu Su, Smerz, Lyra Pramuk, Wilson Tanner, James K and many more.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-eat-the-beat-festival-2026",
+        "title": "Eat The Beat Festival 2026",
+        "type": "festival",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 82,
+        "venueName": "Riviera Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2299066",
+        "ticketUrl": "https://ra.co/events/2299066",
+        "summary": "Eat The Beat Festival returned for a summer edition at Riviera Beach Club on Friday 27 February 2026. The lineup was led by Alok, Nicole Moudaber, Space 92, Space Motion and Liquid Soul across two stages.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-afro-caribbean-carnival-2026",
+        "title": "Afro Caribbean Carnival 2026",
+        "type": "carnival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 79,
+        "venueName": "Fed Square Main Square",
+        "venueId": null,
+        "sourceUrl": "https://fedsquare.com/events/afro-caribbean-carnival",
+        "ticketUrl": null,
+        "summary": "Fed Square and Stick Mareebo Productions presented a free day-to-night sound-system celebration featuring Sister Nancy and General Levy. The event was part of Open Air at the Square and ran from 6pm to 10pm.",
+        "genres": [
+          "festival",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-big-freedia-friends-2026",
+        "title": "Big Freedia + Friends",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 78,
+        "venueName": "Fed Square Main Square",
+        "venueId": null,
+        "sourceUrl": "https://fedsquare.com/events/big-freedia-and-friends",
+        "ticketUrl": null,
+        "summary": "New Orleans bounce icon Big Freedia headlined a free Fed Square program celebrating hip-hop, rap and queer culture. The event was presented by Fed Square and All The Queens Men as part of Open Air at the Square.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-max-cooper-3d-av-2026",
+        "title": "Morning After presents Max Cooper 3D / AV Live",
+        "type": "concert",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 78,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2318486",
+        "ticketUrl": "https://ra.co/events/2318486",
+        "summary": "Morning After marked its 10th year by bringing Max Cooper’s immersive 3D/AV live show to Northcote Theatre. Resident Advisor lists the one-night Melbourne performance for Saturday 7 February 2026.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "melbourne-major-league-djz-2026",
+        "title": "Major League DJz – Riviera Beach Club Pavilion",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 76,
+        "venueName": "Riviera Beach Club Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2361741",
+        "ticketUrl": "https://ra.co/events/2361741",
+        "summary": "South African duo Major League DJz played Riviera Beach Club Pavilion on Saturday 28 February 2026. The listing highlighted their Balcony Mixes and Africa Is Not A Jungle platform as part of the event context.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-francois-k-stella-ganavya-2026",
+        "title": "François K | Σtella | Ganavya Live",
+        "type": "concert",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 76,
+        "venueName": "Fed Square Main Square",
+        "venueId": null,
+        "sourceUrl": "https://fedsquare.com/events/francois-k-stella-ganavya-live",
+        "ticketUrl": null,
+        "summary": "Open Air at the Square closed with a free live program featuring house pioneer François K, Greek pop artist Σtella and vocalist/multi-instrumentalist Ganavya. Fed Square lists the event for Saturday 28 February 2026 from 6pm to 9:30pm.",
+        "genres": [
+          "house",
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

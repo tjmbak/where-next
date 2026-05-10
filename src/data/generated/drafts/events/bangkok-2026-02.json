@@ -1,0 +1,217 @@
+{
+  "slug": "bangkok",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:44:49.700Z",
+  "responseId": "resp_0770c607410f663a006a00995d8cd081959b94c9f22882d232",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 skewed toward big arena and hall concerts around Bangkok, with K-pop/T-pop fan events, international touring artists, and a few credible underground electronic nights.",
+    "events": [
+      {
+        "id": "bangkok-giveon-dear-beloved-feb-2026",
+        "title": "GIVĒON - Dear Beloved, The Tour",
+        "type": "concert",
+        "startDate": "2026-02-02",
+        "endDate": "2026-02-02",
+        "importance": 82,
+        "venueName": "UOB Live, EmSphere",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/giveon-dear-beloved-the-tour.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/giveon-dear-beloved-the-tour.html",
+        "summary": "GIVĒON brought his Dear Beloved tour to UOB Live, EmSphere, with the Bangkok date listed for February 2, 2026 at 20:00.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-japan-expo-hi-project-feb-2026",
+        "title": "Hi! Project x JAPAN EXPO THAILAND 2026",
+        "type": "festival",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-08",
+        "importance": 78,
+        "venueName": "CentralwOrld Outdoor Zone, Kaze Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/127081/japanexpo2026",
+        "ticketUrl": "https://www.eventpop.me/e/127081/japanexpo2026",
+        "summary": "Japan Expo Thailand 2026 ran February 6–8 at centralwOrld, with Hi! Project access to the Kaze Stage concert area on February 7–8.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-bi-last-parade-encore-feb-2026",
+        "title": "2026 B.I TOUR: The Last Parade Tour ENCORE in Bangkok",
+        "type": "concert",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 85,
+        "venueName": "Thunder Dome, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/2026-b-i-tour-the-last-parade-tour-encore-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/2026-b-i-tour-the-last-parade-tour-encore-in-bangkok.html",
+        "summary": "B.I returned to Thunder Dome for a Thailand/Korea-only encore edition of The Last Parade Tour, scheduled for February 7, 2026 at 18:00.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-pryvt-back-to-reality-feb-2026",
+        "title": "PRYVT 'Back to Reality' World Tour",
+        "type": "concert",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 74,
+        "venueName": "Lido Connect Hall 3",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/pryvt-back-to-reality-world-tour.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/pryvt-back-to-reality-world-tour.html",
+        "summary": "PRYVT’s Back to Reality World Tour stopped at Lido Connect Hall 3 on February 8, 2026, with the show listed for 19:00.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-club-seven-bells-feb-2026",
+        "title": "Club Seven Bells with Capablanca, Odopt, Benjamin",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 72,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2356203",
+        "ticketUrl": null,
+        "summary": "Club Seven Bells returned to Elsewhere on February 13 with Capablanca, Odopt, DZ GAS and Benjamin for left-field dance music, acid and club sounds.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bangkok-smtown-live-feb-2026",
+        "title": "SMTOWN LIVE 2025-26 [THE CULTURE, THE FUTURE] in Bangkok",
+        "type": "concert",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 96,
+        "venueName": "Rajamangala National Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.weverse.io/hearts2hearts/notice/32216",
+        "ticketUrl": "https://www.allticket.com/event/SMTOWNLIVE2026inBKK",
+        "summary": "SM Entertainment’s family concert took over Rajamangala National Stadium on February 14, 2026, with artists including KANGTA, BoA, TVXQ!, SUPER JUNIOR, SHINee, EXO, Red Velvet, NCT units, aespa, RIIZE, NCT WISH and Hearts2Hearts listed in the official notice.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-riser-first-rise-feb-2026",
+        "title": "RISER CONCERT: THE FIRST RISE",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 86,
+        "venueName": "IMPACT Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/riser-concert-the-first-rise.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/riser-concert-the-first-rise.html",
+        "summary": "RISER Music’s first large-scale label concert ran February 13–15 at IMPACT Arena, featuring LYKN, JASP.ER, KRIST, NANON, WIN, GEMINI, FOURTH, PHUWIN, PERTH, FELIZZ and CLO’VER.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-ichiko-aoba-across-oceans-feb-2026",
+        "title": "Ichiko Aoba 'Across the Oceans Tour'",
+        "type": "concert",
+        "startDate": "2026-02-19",
+        "endDate": "2026-02-19",
+        "importance": 78,
+        "venueName": "KBank SiamPic Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/ichiko-aoba-across-the-oceans-tour.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/ichiko-aoba-across-the-oceans-tour.html",
+        "summary": "Japanese singer-songwriter Ichiko Aoba played KBank SiamPic Hall on February 19, 2026, with showtime listed as 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-one-ok-rock-detox-feb-2026",
+        "title": "ONE OK ROCK DETOX Asia Tour 2026 in Bangkok",
+        "type": "concert",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 88,
+        "venueName": "IMPACT Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/one-ok-rock-detox-asia-tour-2026-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/one-ok-rock-detox-asia-tour-2026-in-bangkok.html",
+        "summary": "ONE OK ROCK’s DETOX Asia Tour hit IMPACT Arena on February 21, 2026, with ThaiTicketMajor listing the show at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-another-world-sanctuary-feb-2026",
+        "title": "Another World: The Sanctuary Concert",
+        "type": "concert",
+        "startDate": "2026-02-22",
+        "endDate": "2026-02-22",
+        "importance": 80,
+        "venueName": "Thunder Dome, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://www.impact.co.th/en/visitors/event-calendar/concert/another-world-the-sanctuary-concert",
+        "ticketUrl": null,
+        "summary": "Another World: The Sanctuary Concert was scheduled at Thunder Dome on February 22, 2026 at 17:00, promoted by Balance Music Entertainment with SARAN’s project at the center.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-bunker-horn-feb-2026",
+        "title": "BUNKER with elila.b / MAYTAE / Bconscious",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 66,
+        "venueName": "Horn",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2377044",
+        "ticketUrl": null,
+        "summary": "HORN’s BUNKER night on February 28 featured elila.b, MAYTAE and Bconscious, with RA listing the night as techno and IDM from 22:00 to 03:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-mark-tuan-silhouette-feb-2026",
+        "title": "MARK TUAN Silhouette: The Shape of You FANCON 2026 in Bangkok",
+        "type": "concert",
+        "startDate": "2026-02-28",
+        "endDate": "2026-03-01",
+        "importance": 84,
+        "venueName": "IMPACT Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/mark-tuan-silhouette-the-shape-of-you-fancon-2026-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/mark-tuan-silhouette-the-shape-of-you-fancon-2026-in-bangkok.html",
+        "summary": "GOT7 member Mark Tuan’s Silhouette: The Shape of You fan concert ran for two nights at IMPACT Arena on February 28 and March 1, 2026, each listed at 19:00.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

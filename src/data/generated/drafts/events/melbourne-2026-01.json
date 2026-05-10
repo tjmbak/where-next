@@ -1,0 +1,224 @@
+{
+  "slug": "melbourne",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:48:20.516Z",
+  "responseId": "resp_07cc98ac8d57a896006a009a2a62a481978cac995a910a4186",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 leaned heavily electronic, with NYD festivals, Australian Open live programming, Ibiza-branded parties, and strong club bookings across Melbourne.",
+    "events": [
+      {
+        "id": "melbourne-ltecnyd-2026",
+        "title": "LTECNYD 26",
+        "type": "festival",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 94,
+        "venueName": "Coburg Velodrome",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2261166",
+        "ticketUrl": "https://ltecnyd.com",
+        "summary": "Let Them Eat Cake’s New Year’s Day edition took over Coburg Velodrome with a lineup including 1tbsp, Folamour, DJ Heartstring, TSHA, VTSS, Sleep D and Moxie.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "melbourne-glaive-yall-2026",
+        "title": "glaive – Y’all Australia Tour 2026",
+        "type": "concert",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 70,
+        "venueName": "170 Russell",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/glaive-%E2%80%93-y%E2%80%99all-australia-tour-2026/186272",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/glaive-%E2%80%93-y%E2%80%99all-australia-tour-2026/186272",
+        "summary": "glaive brought his Y’all Australia Tour to 170 Russell, with Moshtix listing the Melbourne/Naarm date as Saturday 3 January 2026.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-i-hate-models-2026",
+        "title": "I Hate Models - Melbourne",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 83,
+        "venueName": "PICA (Port Melbourne Industrial Centre for the Arts)",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2260076",
+        "ticketUrl": "https://www.untitledgroup.com.au",
+        "summary": "Untitled Group presented French techno headliner I Hate Models at PICA, joined by Patrick Mason, Pegassi, Mikalah Watego and Hannah D.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-rising-sun-festival-2026",
+        "title": "Rising Sun Festival 2026",
+        "type": "festival",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-12",
+        "importance": 76,
+        "venueName": "5623 Geelong-Ballan Rd, Ballan",
+        "venueId": null,
+        "sourceUrl": "https://events.humanitix.com/rising-sun-festival-2026",
+        "ticketUrl": "https://events.humanitix.com/rising-sun-festival-2026",
+        "summary": "Rising Sun Festival returned to Ballan for a bush-weekend program of music, art, performance, wellness and workshops, with the event page tagging doof, techno, house and disco.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-vida-latin-summer-2026",
+        "title": "Vida Melbourne Latin Summer Festival",
+        "type": "festival",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-11",
+        "importance": 72,
+        "venueName": "Tom’s Block, Kings Domain Gardens",
+        "venueId": null,
+        "sourceUrl": "https://www.melbournelatinsummerfestival.com/",
+        "ticketUrl": null,
+        "summary": "Vida Melbourne Latin Summer Festival ran as a free two-day Latin music and dance event, with Salsodromo Salsa Band, La Descarga Band, Beatriz Aréval and multiple DJs listed for 2026.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-ao-live-2026",
+        "title": "AO Live 2026",
+        "type": "festival",
+        "startDate": "2026-01-13",
+        "endDate": "2026-02-01",
+        "importance": 86,
+        "venueName": "Melbourne Park / TOPCOURT / John Cain Arena",
+        "venueId": null,
+        "sourceUrl": "https://ausopen.com/aolive",
+        "ticketUrl": "https://ausopen.com/aolive",
+        "summary": "Australian Open’s AO Live program spanned multiple January dates, with Hot Chip, Elderbrook, Cassian, The Presets, The Kid LAROI, Spacey Jane, The Veronicas, SOFI TUKKER and Reneé Rapp on the official lineup.",
+        "genres": [
+          "pop",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-very-very-gay-day-party-2026",
+        "title": "A Very Very Gay Day Party - Melbourne",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 76,
+        "venueName": "Bourke Street Courtyard",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2331533",
+        "ticketUrl": "https://ra.co/events/2331533",
+        "summary": "A Very Very Gay returned to Melbourne for an RA Pick day party at Bourke Street Courtyard, with DJ Sarah, Flow, Reenie (UK), Rojdar, Ryan Marshall and more.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-tom-odell-2026",
+        "title": "Tom Odell - Wonderful Life Tour 2026",
+        "type": "concert",
+        "startDate": "2026-01-21",
+        "endDate": "2026-01-21",
+        "importance": 78,
+        "venueName": "Festival Hall Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/tom-odell-wonderful-life-tour-2026-west-melbourne-21-01-2026/event/13006321D0933CFE",
+        "ticketUrl": "https://www.ticketmaster.com.au/tom-odell-wonderful-life-tour-2026-west-melbourne-21-01-2026/event/13006321D0933CFE",
+        "summary": "Tom Odell’s Wonderful Life Tour stopped at Festival Hall Melbourne on Wednesday 21 January 2026, according to Ticketmaster Australia.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-andy-c-revolver-2026",
+        "title": "Andy C",
+        "type": "club-night",
+        "startDate": "2026-01-22",
+        "endDate": "2026-01-22",
+        "importance": 78,
+        "venueName": "Revolver Upstairs",
+        "venueId": "revolver-upstairs",
+        "sourceUrl": "https://theguide.live/guide/andy-c",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/andy-c/189410",
+        "summary": "Drum & bass figurehead Andy C played an exclusive Melbourne show at Revolver Upstairs, listed for Thursday 22 January 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-dangerous-goods-6xxl-2026",
+        "title": "Dangerous Goods 6XXL Festival",
+        "type": "festival",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 85,
+        "venueName": "Footscray Park",
+        "venueId": null,
+        "sourceUrl": "https://tixel.com/au/music-tickets/2026/01/24/dangerous-goods-6xxl-festival",
+        "ticketUrl": "https://tixel.com/au/music-tickets/2026/01/24/dangerous-goods-6xxl-festival",
+        "summary": "Dangerous Goods 6XXL Festival was listed at Footscray Park with Boris Brejcha, Timmy Trumpet and Will Sparks among the announced lineup.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-circoloco-2026",
+        "title": "CircoLoco Melbourne",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 90,
+        "venueName": "The Nursery at Flemington",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2292686",
+        "ticketUrl": "https://ra.co/events/2292686",
+        "summary": "CircoLoco’s Melbourne edition returned to The Nursery at Flemington with Adriatique, Arapu, Beltran, Jimi Jules, Michael Bibi, Priku, Seth Troxler and Aldonna.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-kia-all-night-long-2026",
+        "title": "Kia [All Night Long]",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 79,
+        "venueName": "24 Moons",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2331207",
+        "ticketUrl": "https://ra.co/events/2331207",
+        "summary": "Animalia boss Kia played an all-night-long set at 24 Moons, with RA marking the Saturday 24 January event as an RA Pick.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

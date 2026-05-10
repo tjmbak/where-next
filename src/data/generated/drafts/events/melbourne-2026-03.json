@@ -1,0 +1,221 @@
+{
+  "slug": "melbourne",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:48:44.569Z",
+  "responseId": "resp_08d9e3e16f832e51006a009a505b488195b1390b569e617061",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 was unusually stacked for Melbourne/Naarm, with Labour Day weekend festivals, major arena touring, K-pop, hip-hop and several high-grade electronic club bookings.",
+    "events": [
+      {
+        "id": "melbourne-brunswick-music-festival-2026",
+        "title": "Brunswick Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-08",
+        "importance": 85,
+        "venueName": "Multiple locations across Brunswick",
+        "venueId": null,
+        "sourceUrl": "https://www.merri-bek.vic.gov.au/exploring-merri-bek/events/events-from-public/public-event/brunswick-music-festival-2026/",
+        "ticketUrl": "https://www.brunswickmusicfestival.com.au/",
+        "summary": "Merri-bek City Council’s week-long Brunswick Music Festival returned with Sydney Road Street Party, international headline acts, local venue shows and a free outdoor concert at Gilpin Park.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-ateez-rod-laver-2026",
+        "title": "ATEEZ — In Your Fantasy Tour",
+        "type": "concert",
+        "startDate": "2026-03-02",
+        "endDate": "2026-03-03",
+        "importance": 83,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/our-space/",
+        "ticketUrl": null,
+        "summary": "K-pop group ATEEZ brought the In Your Fantasy Tour to Rod Laver Arena for two Melbourne arena dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-pitch-music-arts-2026",
+        "title": "Pitch Music & Arts 2026",
+        "type": "festival",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-10",
+        "importance": 95,
+        "venueName": "Moyston, VIC",
+        "venueId": "pitch-music-arts",
+        "sourceUrl": "https://themusic.com.au/news/pitch-music-arts-festival-drops-2026-line-up/kvkohIeGiYg/22-10-25",
+        "ticketUrl": "https://www.pitchfestival.com.au/",
+        "summary": "Pitch Music & Arts returned to Moyston for its ninth edition with Charlotte de Witte, Eris Drew & Octo Octa, MARRØN, Girls Don’t Sync, Job Jobse, Yung Singh and a large international electronic lineup.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-hilltop-hoods-rod-laver-2026",
+        "title": "Hilltop Hoods — Never Coming Home Tour",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 82,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/our-space/",
+        "ticketUrl": null,
+        "summary": "Australian hip-hop mainstays Hilltop Hoods played two Rod Laver Arena dates on the Never Coming Home Tour.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-in-the-moment-radio-launch-2026",
+        "title": "In The Moment Radio — Launch Weekender",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 78,
+        "venueName": "The Quadraphonic Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2331616",
+        "ticketUrl": null,
+        "summary": "Zepherin Saint launched In The Moment Radio with a two-night program at The Quadraphonic Club, including François K, Finn Rees Ensemble, Ella Thompson, Soul Chamber Trio and Mike Gurrieri.",
+        "genres": [
+          "house",
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "melbourne-golden-plains-2026",
+        "title": "Golden Plains Eighteen",
+        "type": "festival",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-09",
+        "importance": 95,
+        "venueName": "Meredith Supernatural Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.goldenplains.com.au/",
+        "ticketUrl": null,
+        "summary": "Golden Plains Eighteen took over Meredith Supernatural Amphitheatre with a one-stage lineup headed by Basement Jaxx, Marlon Williams, Smerz, Cut Copy, BadBadNotGood, Ty Segall, DJRUM and more.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-linkin-park-rod-laver-2026",
+        "title": "Linkin Park — From Zero World Tour",
+        "type": "concert",
+        "startDate": "2026-03-08",
+        "endDate": "2026-03-10",
+        "importance": 90,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/our-space/",
+        "ticketUrl": null,
+        "summary": "Linkin Park’s From Zero World Tour stopped at Rod Laver Arena for Melbourne arena shows across 8–10 March.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-hello-melbourne-kpop-2026",
+        "title": "2026 [안녕, MELBOURNE] Music Festival",
+        "type": "festival",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 89,
+        "venueName": "Flemington Racecourse",
+        "venueId": null,
+        "sourceUrl": "https://megatix.com.au/events/hello-melbourne-music-festival-2026",
+        "ticketUrl": "https://megatix.com.au/events/hello-melbourne-music-festival-2026",
+        "summary": "APPLEWOOD and Untitled Group staged the one-day 안녕, MELBOURNE K-pop festival at Flemington Racecourse, with ENHYPEN, TREASURE and TAEMIN promoted across official event listings.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-paul-woolford-revolver-2026",
+        "title": "Paul Woolford — Revolver Fridays & Dance Technique",
+        "type": "club-night",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 78,
+        "venueName": "Revolver Upstairs",
+        "venueId": "revolver-upstairs",
+        "sourceUrl": "https://ra.co/events/2380358",
+        "ticketUrl": "https://tinyurl.com/",
+        "summary": "Revolver Upstairs hosted Paul Woolford for a Friday night Revolver Fridays and Dance Technique session, with local support across the Cage and Stage rooms.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-reminisce-2026",
+        "title": "Reminisce 2026",
+        "type": "festival",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 84,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395649",
+        "ticketUrl": "https://eventflo.io/event/reminisce-2026/",
+        "summary": "Hardware Presents brought Reminisce back to the Sidney Myer Music Bowl for a full day of house, rave and nostalgia, with Felix Da Housecat, Digitalism, Princess Superstar, CJ Bolland and Thomas Schumacher listed on RA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-wu-tang-rod-laver-2026",
+        "title": "Wu-Tang Clan — Wu-Tang Forever: The Final Chamber",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 86,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event-venues/rod-laver-arena/page/3/",
+        "ticketUrl": null,
+        "summary": "Wu-Tang Clan brought the Wu-Tang Forever: The Final Chamber tour to Rod Laver Arena for a major Melbourne hip-hop arena date.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-discolei-riviera-2026",
+        "title": "DISCOLEIL ft JNETT, Jesse Boyd",
+        "type": "beach-club",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 70,
+        "venueName": "Riviera Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2381272",
+        "ticketUrl": "https://www.eventbrite.com/",
+        "summary": "DISCOLEIL returned to Riviera Beach Club in Elwood with DJ JNETT, Jesse Boyd, Wunderkind, Peter Apostle, Von Emyl, Michaél Beaty and Marcelo for an afternoon-to-evening disco and house party.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

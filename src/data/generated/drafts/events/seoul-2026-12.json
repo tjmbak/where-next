@@ -1,0 +1,16 @@
+{
+  "slug": "seoul",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:42:37.295Z",
+  "responseId": "resp_08728d59dd3601ea006a00993455588195a8d8b50f9dc0f8a6",
+  "searchCalls": 8,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": []
+  }
+}

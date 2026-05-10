@@ -1,0 +1,222 @@
+{
+  "slug": "goa",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:46:40.074Z",
+  "responseId": "resp_0d568fb924d721dd006a0099e5f3008193b17a7d8d566d32fe",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Goa combined beachside electronic festivals, psytrance gatherings, Carnival parades, and several classical/world-music festivals around Old Goa and Panaji.",
+    "events": [
+      {
+        "id": "goa-monte-music-festival-2026",
+        "title": "Monte Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-01-30",
+        "endDate": "2026-02-01",
+        "importance": 78,
+        "venueName": "Courtyard of the Chapel of Our Lady of the Mount, Old Goa",
+        "venueId": null,
+        "sourceUrl": "https://www.foriente.pt/detalhe.php?area=delegacoes&id=E1E9C823-0F58-4F1F-9448-61FB9DD661EE",
+        "ticketUrl": null,
+        "summary": "Fundação Oriente’s 24th Monte Music Festival ran 30 January to 1 February with free-entry performances including Sónia Shirsat & Friends, Ao Naga Choir, Asad Khan & Friends, Stuti Choral and String Ensemble, Raul & Mitali, and Ricardo Ribeiro.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-forestdelic-gathering-feb-2026",
+        "title": "Forestdelic Gathering 2026 in Goa",
+        "type": "festival",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-08",
+        "importance": 73,
+        "venueName": "North Goa",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/forestdelic-gathering-2026-in-goa-on-7th-8th-feb/ET00480139",
+        "ticketUrl": "https://in.bookmyshow.com/events/forestdelic-gathering-2026-in-goa-on-7th-8th-feb/ET00480139",
+        "summary": "Forestdelic Records’ two-day North Goa gathering was listed for 7–8 February with a trance-focused programme and 16-hour format.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-casa-bacardi-feb-2026",
+        "title": "Casa BACARDÍ Goa 2026: Tropical Edition",
+        "type": "festival",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-08",
+        "importance": 90,
+        "venueName": "W Goa",
+        "venueId": null,
+        "sourceUrl": "https://loudest.in/author/events/casa-bacard-launches-first-tropical-edition-festival-in-goa-celebrating-music-culture-19097.html",
+        "ticketUrl": null,
+        "summary": "Casa BACARDÍ’s first Tropical Edition was set for 7–8 February at W Goa with ARTBAT, Sistek, Kilimanjaro, Anyasa, Da Capo, Lifafa, and TechPanda x Kenzani on the lineup.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-carnaval-2026",
+        "title": "Viva Carnaval 2026 Float Parades",
+        "type": "carnival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-17",
+        "importance": 88,
+        "venueName": "Porvorim, Panaji, Margao, Vasco, Mapusa and Morjim",
+        "venueId": null,
+        "sourceUrl": "https://goatourism.gov.in/wp-content/uploads/2018/12/Carnaval-Entry-Form-2026-DoT.pdf",
+        "ticketUrl": null,
+        "summary": "Goa Tourism’s official Carnaval schedule ran 13–17 February across multiple centres, with each float required to be accompanied by traditional instruments, recorded music, brass band, or live band.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-mount-festival-feb-2026",
+        "title": "The Mount Festival",
+        "type": "festival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 62,
+        "venueName": "The Mount, Palolem",
+        "venueId": null,
+        "sourceUrl": "https://tickets.partyhunt.com/events/the-mount-festival-13-feb-2026-the-mount-buy-tickets",
+        "ticketUrl": "https://tickets.partyhunt.com/events/the-mount-festival-13-feb-2026-the-mount-buy-tickets",
+        "summary": "The Mount Festival in Palolem ran 13–15 February with a live concert, Goa Espiritu programme, ecstatic dance, sound healing, and DJ-pass ticketing.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-jungle-calling-feb-2026",
+        "title": "Jungle Calling",
+        "type": "festival",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-22",
+        "importance": 80,
+        "venueName": "Orion Beach Club, Morjim",
+        "venueId": null,
+        "sourceUrl": "https://axess.zone/event/jungle-calling-goa/",
+        "ticketUrl": "https://axess.zone/event/jungle-calling-goa/",
+        "summary": "Believe Lab presented Jungle Calling at Orion Beach Club, Morjim from 20–22 February with Arjuna, Drip Drop, Giuseppe, Djantrix, Arjuna vs Govinda, ActOne, and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-arjun-vagale-budxloft-2026",
+        "title": "Arjun Vagale & Rashi Jey",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 72,
+        "venueName": "Budxloft",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2373826",
+        "ticketUrl": "https://ra.co/events/2373826",
+        "summary": "OddX brought Indian techno figure Arjun Vagale to Budxloft on 21 February, with Rashi Jey also on the lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-we-are-lost-festival-2026",
+        "title": "We Are Lost Festival — Goa Debut",
+        "type": "festival",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/we-are-lost-festival/ET00488438",
+        "ticketUrl": "https://in.bookmyshow.com/events/we-are-lost-festival/ET00488438",
+        "summary": "We Are Lost Festival’s Goa debut was listed for Friday, 27 February, led by Guy J and Guy Mantzur with melodic, progressive, and underground house/techno sounds.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-ketevan-music-festival-2026",
+        "title": "Ketevan Music Festival",
+        "type": "festival",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-28",
+        "importance": 75,
+        "venueName": "Ruins of St Augustine Church, Old Goa",
+        "venueId": null,
+        "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/ketevan-music-fest-to-bring-global-sounds-to-old-goas-historic-ruins/articleshow/128824678.cms",
+        "ticketUrl": null,
+        "summary": "Ketevan Music Festival took place on 27–28 February at the ruins of St Augustine Church, featuring Baul music, Ensemble Sathanao, Kathak-meets-jazz, Imran Khan’s String Concerto for Peace, and Nadia Rebelo.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "goa-juna-liquid-earth-2026",
+        "title": "JUNA Sound Room: Liquid Earth + MÚDEE",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 70,
+        "venueName": "JUNA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2380908",
+        "ticketUrl": "https://ra.co/events/2380908",
+        "summary": "JUNA hosted Liquid Earth and MÚDEE on 27 February for a deep house and electro-focused Sound Room session in Anjuna.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-kesarbai-kerkar-sangeet-samaroha-2026",
+        "title": "42nd Surashree Kesarbai Kerkar Sangeet Samaroha",
+        "type": "festival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-03-01",
+        "importance": 76,
+        "venueName": "Dinanath Mangeshkar Kala Mandir, Panaji",
+        "venueId": null,
+        "sourceUrl": "https://kalaacademygoa.co.in/category/latest-news/page/2/",
+        "ticketUrl": null,
+        "summary": "Kala Academy Goa’s 42nd Surashree Kesarbai Kerkar Sangeet Samaroha began on 28 February, opening with vocal concerts by Pallavi Patil and Bhagyesh Marathe before continuing on 1 March.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-scion-weekender-budxloft-2026",
+        "title": "Scion Weekender: Sleep D, Von Riu + Residents",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 70,
+        "venueName": "Budxloft",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2373832",
+        "ticketUrl": "https://ra.co/events/2373832",
+        "summary": "Budxloft’s Scion Weekender second night on 28 February featured Melbourne/Naarm duo Sleep D, France’s Von Riu, and residents in a house-and-techno programme.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

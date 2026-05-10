@@ -1,0 +1,169 @@
+{
+  "slug": "seoul",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:42:16.700Z",
+  "responseId": "resp_02e2f88753949363006a0098d818a48194851d6e921314d591",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is unusually festival-heavy around Seoul, with K-pop arena runs overlapping EDM, hip-hop, and picnic-style outdoor festivals.",
+    "events": [
+      {
+        "id": "seoul-weverse-con-festival-jun-2026",
+        "title": "2026 Weverse Con Festival",
+        "type": "festival",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 92,
+        "venueName": "Olympic Park, KSPO Dome & 88 Lawn Field",
+        "venueId": null,
+        "sourceUrl": "https://weverseconfestival.weverse.io/en/",
+        "ticketUrl": "https://concerts.weverse.io/events/2026-weverse-con-festival",
+        "summary": "HYBE/Weverse’s annual K-pop festival returns to Olympic Park over two days, with official programming split between Weverse Park and Weverse Con stages.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-world-dj-festival-jun-2026",
+        "title": "2026 World DJ Festival",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 88,
+        "venueName": "Seoul Land",
+        "venueId": null,
+        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/10558",
+        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/10558",
+        "summary": "Korea’s long-running EDM festival is confirmed for two days at Seoul Land, with official ticketing listing 14:00–22:00 running hours and 19+ admission.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "seoul-xia-gravity-jun-2026",
+        "title": "2026 XIA 6th Asia Tour Concert 'GRAVITY' in Seoul",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-14",
+        "importance": 78,
+        "venueName": "KSPO Dome",
+        "venueId": null,
+        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/13389",
+        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/13389",
+        "summary": "Kim Junsu (XIA) opens his GRAVITY Asia tour with three KSPO Dome performances on June 12, 13, and 14.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-treasure-the-stage-jun-2026",
+        "title": "TREASURE THE STAGE 2026 in Seoul",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-21",
+        "importance": 82,
+        "venueName": "Korea University Hwajeong Tiger Dome",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/treasure/notice/34819",
+        "ticketUrl": null,
+        "summary": "TREASURE’s official Weverse notice confirms three Seoul concerts at Korea University Hwajeong Tiger Dome on June 19, 20, and 21.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-and2ble-welcome-to-qurious-jun-2026",
+        "title": "2026 AND2BLE Show Concert: Welcome to Qurious",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-21",
+        "importance": 76,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/and2ble/notice/35451",
+        "ticketUrl": null,
+        "summary": "AND2BLE’s official Weverse schedule lists the Seoul opening run of Welcome to Qurious at Jamsil Indoor Stadium from June 19 to 21.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-rapbeat-festival-jun-2026",
+        "title": "RAPBEAT 2026",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 86,
+        "venueName": "Oil Tank Culture Park",
+        "venueId": null,
+        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/12790",
+        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/12790",
+        "summary": "RAPBEAT 2026 is confirmed for two days at Oil Tank Culture Park in Mapo-gu, returning as a large-scale urban music festival centered on hip-hop and related Korean pop scenes.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-park-music-festival-jun-2026",
+        "title": "2026 Seoul Park Music Festival",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 84,
+        "venueName": "Olympic Park 88 Lawn Field & Ticketlink Live Arena",
+        "venueId": null,
+        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/13045",
+        "ticketUrl": "https://world.nol.com/ticket/places/26000243/products/26003322",
+        "summary": "Seoul Park Music Festival is confirmed at Olympic Park’s 88 Lawn Field and Ticketlink Live Arena for a two-day early-summer picnic-and-music format.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-babymonster-choom-jun-2026",
+        "title": "2026-27 BABYMONSTER World Tour [춤 (CHOOM)] in Seoul",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-28",
+        "importance": 84,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/babymonster/notice/34281",
+        "ticketUrl": "https://weverse.io/babymonster/notice/34538",
+        "summary": "BABYMONSTER starts the CHOOM world tour with three Seoul shows at Jamsil Indoor Stadium on June 26, 27, and 28.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-tws-247-for-you-jun-2026",
+        "title": "2026 TWS Tour '24/7:FOR:YOU' in Seoul",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-28",
+        "importance": 80,
+        "venueName": "KSPO Dome",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/tws/notice/35445",
+        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/13706",
+        "summary": "PLEDIS and HYBE confirm TWS’s Seoul tour dates at KSPO Dome on June 27 and 28, with both in-person and online live-streaming planned.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

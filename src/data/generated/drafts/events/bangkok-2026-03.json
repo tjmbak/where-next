@@ -1,0 +1,220 @@
+{
+  "slug": "bangkok",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:44:57.301Z",
+  "responseId": "resp_00ff6c864fbc48c2006a009966f3e48196ace7896013e7d1b0",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Bangkok was anchored by arena-scale K-pop and T-pop concerts, a major touring rap date, and a busy underground electronic calendar spanning rooftops, warehouses, clubs and boat parties.",
+    "events": [
+      {
+        "id": "bangkok-galaxy-of-love-mar-2026",
+        "title": "Amazing Thailand Galaxy of Love 2026",
+        "type": "festival",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-08",
+        "importance": 72,
+        "venueName": "One Bangkok Park",
+        "venueId": null,
+        "sourceUrl": "https://www.tatnewsthai.org/article-infos/6233",
+        "ticketUrl": "https://www.eventpop.me/e/140747/galaxy-of-love",
+        "summary": "Tourism Authority of Thailand’s immersive art, music and technology festival ran 6–8 March at One Bangkok Park. The music programme included Thai pop artists such as Burin Boonvisut, NuNew Chawarin and Karn The Parkinson alongside 360-degree visual and sound experiences.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-avantgardey-lets-groove-mar-2026",
+        "title": "AVANTGARDEY 2026 LET’S GROOVE!! IN Bangkok",
+        "type": "concert",
+        "startDate": "2026-03-09",
+        "endDate": "2026-03-09",
+        "importance": 72,
+        "venueName": "KBank SiamPic Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/performance/avantgardey-asia-tour-2026-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/performance/avantgardey-asia-tour-2026-in-bangkok.html",
+        "summary": "The Osaka performance group Avantgardey played its first full Bangkok show on 9 March at KBank SiamPic Hall. The show blended synchronized choreography with retro J-pop-driven stage performance.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-billkin-feelquency-mar-2026",
+        "title": "BILLKIN FEELQUENCY CONCERT PRESENTED BY CP",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 88,
+        "venueName": "IMPACT Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.impact.co.th/th/visitors/event-calendar/concert/billkin-feelquency-concert-presented-by-cp",
+        "ticketUrl": "https://www.impact.co.th/th/visitors/event-calendar/concert/billkin-feelquency-concert-presented-by-cp",
+        "summary": "Billkin staged a three-night arena run at IMPACT Arena from 13–15 March. The large-scale T-pop production focused on his live vocals and emotional concert storytelling.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-seventeen-new-mar-2026",
+        "title": "SEVENTEEN WORLD TOUR [NEW_] IN BANGKOK",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-15",
+        "importance": 94,
+        "venueName": "Suphachalasai National Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/seventeen-world-tour-new-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/seventeen-world-tour-new-in-bangkok.html",
+        "summary": "SEVENTEEN brought their [NEW_] world tour to Bangkok for two stadium shows on 14–15 March. The Suphachalasai National Stadium dates were among the month’s biggest K-pop events in the city.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-central-cee-cant-rush-greatness-mar-2026",
+        "title": "Central Cee – CAN’T RUSH GREATNESS WORLD TOUR – Asia 2026",
+        "type": "concert",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-21",
+        "importance": 86,
+        "venueName": "UOB LIVE, EmSphere",
+        "venueId": null,
+        "sourceUrl": "https://uoblive.asia/event/central-cee-cant-rush-greatness-world-tour-asia-2026",
+        "ticketUrl": "https://uoblive.asia/event/central-cee-cant-rush-greatness-world-tour-asia-2026",
+        "summary": "Central Cee played Bangkok across 20–21 March at UOB LIVE as part of his CAN’T RUSH GREATNESS Asia tour. The shows brought UK drill and contemporary rap to one of Bangkok’s main indoor concert venues.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bangkok-alle-farben-mustache-mar-2026",
+        "title": "ALLE FARBEN at Mustache Bangkok",
+        "type": "club-night",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 77,
+        "venueName": "Mustache Bangkok",
+        "venueId": "mustache-bangkok",
+        "sourceUrl": "https://megatix.in.th/events/alle-farben-at-mustache-bangkok-friday20march",
+        "ticketUrl": "https://megatix.in.th/events/alle-farben-at-mustache-bangkok-friday20march",
+        "summary": "German DJ and producer Alle Farben played Mustache Bangkok on Friday 20 March. The booking gave the Silom club a recognizable international house and electronic headliner for the month.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-idle-syncopation-mar-2026",
+        "title": "2026 i-dle WORLD TOUR [Syncopation] IN BANGKOK",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 88,
+        "venueName": "IMPACT Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.impact.co.th/en/visitors/event-calendar/concert/2026-i-dle-world-tour-syncopation-in-bangkok?layout=grid",
+        "ticketUrl": "https://www.impact.co.th/en/visitors/event-calendar/concert/2026-i-dle-world-tour-syncopation-in-bangkok?layout=grid",
+        "summary": "i-dle’s Syncopation world tour stopped at IMPACT Arena on 21 March. The show marked a major K-pop arena date for Bangkok fans following the group’s rebrand to i-dle.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-darker-than-wax-ritual-rhythm-mar-2026",
+        "title": "Darker Than Wax 15 Yrs x Ritual Rhythm Weekend",
+        "type": "festival",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 80,
+        "venueName": "The Warehouse Talat Noi",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/darker-than-wax-15-yrs-x-ritual-rhythm-weekend",
+        "ticketUrl": "https://megatix.in.th/events/darker-than-wax-15-yrs-x-ritual-rhythm-weekend",
+        "summary": "Singapore-rooted label and collective Darker Than Wax celebrated its 15th anniversary in Bangkok with Ritual Rhythm Weekend on 21 March. The lineup featured Dean Chew, Dexter Colt, Pam Anantr, Isaac Aesili live, Ziggy Zeitgeist live, Maft Sai, Sunju Hargun and more across club spaces, an ambient rooftop stage and market programming.",
+        "genres": [
+          "house",
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "bangkok-mustache-techno-boat-mar-2026",
+        "title": "Mustache Takeover TECHNO BOAT PARTY",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 74,
+        "venueName": "Bangkok Island",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386589",
+        "ticketUrl": "https://ra.co/events/2386589",
+        "summary": "Mustache took over Bangkok Island for a one-off techno boat party on 21 March. The event featured Mustache residents Jules Blons, VAS, Theodgl and Elliot for a river cruise followed by an optional after-party.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-sacristy-rave-culture-mar-2026",
+        "title": "SACRISTY HARD TECHNO RAVE CULTURE",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 72,
+        "venueName": "Avve",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2371771",
+        "ticketUrl": "https://ra.co/events/2371771",
+        "summary": "SACRISTY’s hard techno rave culture night at Avve was listed for 28 March as part of its two-week March run. The lineup included REIKS, NØSYNC, POKOLENIE MIKROZAYMOV, The3RD, iamhollow, GLCK and InRemission across techno, industrial and harder rave sounds.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-taeyong-ty-track-mar-2026",
+        "title": "2026 TAEYONG CONCERT <TY TRACK - REMASTERED> in BANGKOK",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 84,
+        "venueName": "Thunder Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.impact.co.th/en/visitors/event-calendar/concert/2026-taeyong-concert-in-bangkok",
+        "ticketUrl": "https://www.impact.co.th/en/visitors/event-calendar/concert/2026-taeyong-concert-in-bangkok",
+        "summary": "NCT leader Taeyong held two Bangkok solo concerts at Thunder Dome on 28–29 March. The TY TRACK - REMASTERED shows were promoted as his first solo concert in Thailand.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-mondello-rave-times-mar-2026",
+        "title": "Hard Techno with MONDELLO! by Rave Times",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 73,
+        "venueName": "Subwerk Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2400077",
+        "ticketUrl": "https://ra.co/events/2400077",
+        "summary": "Rave Times booked MONDELLO for a hard techno night at Subwerk Club on 28 March, billed as the artist’s first time in Thailand. Support came from Cotrax and Sam Laxton for a 150–160 BPM hard techno and hard dance programme.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

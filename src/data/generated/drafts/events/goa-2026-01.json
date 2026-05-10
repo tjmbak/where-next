@@ -1,0 +1,215 @@
+{
+  "slug": "goa",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:46:02.115Z",
+  "responseId": "resp_01d90471a673e06e006a0099e4f8e88190aac20f065f37fbfb",
+  "searchCalls": 6,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Goa was led by reggae/sound-system festivals, boutique electronic nights around Anjuna/Vagator, and cultural music festivals in Old Goa, Panaji, Margao, and Bambolim.",
+    "events": [
+      {
+        "id": "goa-mystic-moon-ecstatic-dance-2026",
+        "title": "Mystic Moon Ecstatic Dance Festival Goa 2026",
+        "type": "festival",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-06",
+        "importance": 72,
+        "venueName": "Sohum Spiritual Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.mysticmoonecstaticdancefestival.com/",
+        "ticketUrl": "https://anbocas.com/events/mystic-moon-ecstatic-dance-festival-03-jan-2026-sohum-spiritual-resort-buy-tickets",
+        "summary": "Four-day ecstatic dance and world-electronic gathering at Sohum Spiritual Resort in Arambol. The announced lineup included Esta Polyesta, IZADORÄ, DJ Ganisch, Shiva Girish and WHITEDOVE.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-monophonik-budxloft-2026",
+        "title": "Monophonik (Extended Set)",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 62,
+        "venueName": "BudXLoft",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2337141",
+        "ticketUrl": null,
+        "summary": "BudXLoft opened 2026 with an extended all-night Monophonik set focused on techno and acid-leaning electronic music.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-goamassive-budxloft-2026",
+        "title": "#GoaMassive",
+        "type": "club-night",
+        "startDate": "2026-01-15",
+        "endDate": "2026-01-15",
+        "importance": 64,
+        "venueName": "BudXLoft",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2347609",
+        "ticketUrl": "https://www.skillboxes.com/",
+        "summary": "DNB India brought #GoaMassive to BudXLoft with Omi, Arra, Master Mario and The Untitled One on the lineup.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-sunsplash-2026",
+        "title": "Goa Sunsplash 2026",
+        "type": "festival",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 95,
+        "venueName": "Thalassa Beach Boutique Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.goasunsplash.com/post/goa-sunsplash-2026-final-lineup-announced",
+        "ticketUrl": "https://www.district.in/",
+        "summary": "Goa Sunsplash marked its 10-year anniversary at Thalassa Beach Boutique Resort in Ashwem. The final lineup included Luciano, Macka B, O.B.F. Sound System, Iration Steppas, Hempress Sativa, Paolo Baldini DubFiles, Prem Joshua & Band and Reggae Rajahs.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-lokotsav-2026",
+        "title": "Lokotsav 2026",
+        "type": "festival",
+        "startDate": "2026-01-20",
+        "endDate": "2026-01-29",
+        "importance": 78,
+        "venueName": "Darya Sangam, Kala Academy Goa",
+        "venueId": null,
+        "sourceUrl": "https://www.goa.gov.in/wp-content/uploads/2026/01/Press-Note-Lokostav-2026.pdf",
+        "ticketUrl": null,
+        "summary": "The Government of Goa’s Directorate of Art & Culture presented Lokotsav 2026 with folk dances and music from Goa and other Indian states. The programme listed daily cultural performances from 6:30 PM to 9:30 PM.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-rural-budxloft-2026",
+        "title": "Rural 2026",
+        "type": "festival",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-24",
+        "importance": 76,
+        "venueName": "BudXLoft",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2342737",
+        "ticketUrl": "https://www.district.in/",
+        "summary": "Japanese festival/collective Rural came to Goa for a two-day electronic gathering at BudXLoft. The RA-listed roster included Atsushi Maeda, Dr. Nishimura, Gonno, Jane Fitz, Nao, Occa, Sunju Hargun and Zequenx.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-jasmine-sandlas-leela-club-2026",
+        "title": "Jasmine Sandlas - Live at The Leela Club Goa",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 69,
+        "venueName": "The Leela Club",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/jasmine-sandlas-live-at-the-leela-club-goa/ET00481650?webview=true",
+        "ticketUrl": "https://in.bookmyshow.com/events/jasmine-sandlas-live-at-the-leela-club-goa/ET00481650?webview=true",
+        "summary": "Punjabi pop singer Jasmine Sandlas performed a late-night live show at The Leela Club in Vagator.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "goa-sound-of-estuary-62-2026",
+        "title": "Sound of Estuary 62.0",
+        "type": "club-night",
+        "startDate": "2026-01-28",
+        "endDate": "2026-01-29",
+        "importance": 65,
+        "venueName": "Dynamo",
+        "venueId": null,
+        "sourceUrl": "https://www.district.in/events/sound-of-estuary-620-jan28-2026-buy-tickets",
+        "ticketUrl": "https://www.district.in/events/sound-of-estuary-620-jan28-2026-buy-tickets",
+        "summary": "Sound of Estuary 62.0 ran overnight at Dynamo in Vagator with MISHA from Russia as headliner, supported by SAVAA, Dark Fluid, Beat Frequency and Sawrav.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "goa-monte-music-festival-2026",
+        "title": "Festival de Música do Monte 2026",
+        "type": "festival",
+        "startDate": "2026-01-30",
+        "endDate": "2026-02-01",
+        "importance": 82,
+        "venueName": "Chapel of Our Lady of the Mount",
+        "venueId": null,
+        "sourceUrl": "https://www.foriente.pt/detalhe.php?area=delegacoes&id=E1E9C823-0F58-4F1F-9448-61FB9DD661EE",
+        "ticketUrl": null,
+        "summary": "Fundação Oriente’s 24th Monte Music Festival took place in Old Goa with free-entry evening concerts. The programme included Sónia Shirsat & Friends, Ao Naga Choir, Asad Khan & Friends, Stuti Choral and String Ensemble, Raul & Mitali and Ricardo Ribeiro.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-vivaan-handpan-2026",
+        "title": "Vivaan Handpan & World Music Festival",
+        "type": "festival",
+        "startDate": "2026-01-30",
+        "endDate": "2026-02-01",
+        "importance": 80,
+        "venueName": "Bambolim Beach Resort",
+        "venueId": null,
+        "sourceUrl": "https://vivaanfestival.com/",
+        "ticketUrl": "https://anbocas.com/events/vivaan-handpan-world-music-30-jan-2026-bambolim-beach-resort-buy-tickets",
+        "summary": "Vivaan’s 10th-year edition was billed as a three-day handpan and world music festival at Bambolim Beach Resort with performances, workshops and three stages.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-stomp-experience-35-2026",
+        "title": "Stomp Experience 35.0",
+        "type": "club-night",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-31",
+        "importance": 66,
+        "venueName": "House Of Chapora",
+        "venueId": null,
+        "sourceUrl": "https://www.district.in/events/stomp-experience-350-jan30-2026-buy-tickets",
+        "ticketUrl": "https://www.district.in/events/stomp-experience-350-jan30-2026-buy-tickets",
+        "summary": "Stomp Experience 35.0 was an overnight electronic party in Vagator. The lineup listed Carbon C, V Society, Rave Nine, Mirage, Zameer and Vrshaba.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-anahat-naad-2026",
+        "title": "Anahat Naad 2026",
+        "type": "festival",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 70,
+        "venueName": "Gomant Vidya Niketan",
+        "venueId": null,
+        "sourceUrl": "https://indianclassical.net/event/anahat-naad-2026-two-day-music-festival-margao-goa-1256",
+        "ticketUrl": null,
+        "summary": "Anahat Naad 2026 was a two-day Indian classical music festival in Margao. The listing named artists including Rudraksha Vaze, Dattatray Mhalshi, Mayank Bedekar, Sarang Kulkarni, Shafique Khan, Chhote Rahimat Khan and Ustad Rafique Khan.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

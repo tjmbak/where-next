@@ -1,0 +1,203 @@
+{
+  "slug": "goa",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:46:05.698Z",
+  "responseId": "resp_0c5375e9fff5b208006a0099e98f3c81969b655bc0bbf49e18",
+  "searchCalls": 8,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Goa was anchored by Holi/Shigmo celebrations plus a run of Anjuna/Vagator electronic and underground club events.",
+    "events": [
+      {
+        "id": "goa-holi-therapy-2026",
+        "title": "HOLI THERAPY 5.0",
+        "type": "festival",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-04",
+        "importance": 82,
+        "venueName": "House of Chapora",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/holi-therapy-5-0/ET00489883",
+        "ticketUrl": "https://in.bookmyshow.com/events/holi-therapy-5-0/ET00489883",
+        "summary": "Two-day Holi music event at House of Chapora with a tech-to-trance first night and a March 4 outdoor-stage program. Listed artists include Mother of Valar, Astridakini, Bastel, Akhlad Ahmed Live, Fibre Stomp, Nirmal and others.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-floral-holi-juna-2026",
+        "title": "Discokid & Friends presents Floral HOLI",
+        "type": "club-night",
+        "startDate": "2026-03-04",
+        "endDate": "2026-03-04",
+        "importance": 68,
+        "venueName": "JUNA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2385808",
+        "ticketUrl": "https://ra.co/events/2385808",
+        "summary": "JUNA’s Holi courtyard party featured Discokid with Peach Blok, Mohomo, Lizzie, That Guy and SAM2024. The RA listing describes a floral and dry Holi format running from 6 PM till late.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-shigmo-festival-2026",
+        "title": "Shigmo Festival 2026",
+        "type": "carnival",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-18",
+        "importance": 88,
+        "venueName": "Multiple centres across Goa",
+        "venueId": null,
+        "sourceUrl": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-State-Festival-2025-2026.pdf",
+        "ticketUrl": null,
+        "summary": "Goa Tourism’s calendar confirms the statewide Shigmo festival from March 5 to 18, 2026, with centre-wise dates across Ponda, Calangute, Panaji, Mapusa, Margao, Vasco and other towns. The festival is a major Goan spring carnival with folk performance, parades and music traditions.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-sultry-mist-2026",
+        "title": "Sultry Mist Festival",
+        "type": "festival",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-08",
+        "importance": 90,
+        "venueName": "TBA - Aldona, Goa",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2342644",
+        "ticketUrl": "https://ra.co/events/2342644",
+        "summary": "Sultry Mist returned as a March 6–8 music and arts festival spread around Aldona and Corjuem. RA lists Tom of England, UMA DJ, Party Smith, Pulpy Shilpy, Laxmi Bomb, ART ATTACK and others on the lineup.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-qilla-juna-tetra-ii-2026",
+        "title": "Qilla Records x JUNA present Tetra II feat. Adam Pits & Kamari",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 75,
+        "venueName": "JUNA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2383124",
+        "ticketUrl": "https://ra.co/events/2383124",
+        "summary": "Qilla Records and JUNA hosted the second Tetra monthly club-night edition with London’s Adam Pits and Goa-based Kamari. The night focused on trance, techno and electro-leaning psychedelic club music.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-original-sin-budxloft-2026",
+        "title": "Original Sin",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 70,
+        "venueName": "Budxloft",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2389494",
+        "ticketUrl": "https://ra.co/events/2389494",
+        "summary": "Original Sin’s Budxloft night brought together AB:SK, One Above, SHFT and Vishal Unni. The listing frames the event around leftfield rhythms, minimal grooves, techno and psychedelic breaks.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-tropical-transmission-2026",
+        "title": "Amnap Records presents: Tropical Transmission (Part 1)",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 78,
+        "venueName": "Laguna Anjuna",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2388747",
+        "ticketUrl": "https://ra.co/events/2388747",
+        "summary": "Amnap Records’ Tropical Transmission brought breakbeat and jungle-focused programming to Anjuna. RA lists Denham Audio b2b Borai, KHX and Deej on the Laguna Anjuna bill.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-lfo-four-years-2026",
+        "title": "4 Years of LFO",
+        "type": "club-night",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-16",
+        "importance": 77,
+        "venueName": "Twice In Nature",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2382099",
+        "ticketUrl": "https://ra.co/events/2382099",
+        "summary": "LFO celebrated four years with Artefakt, Innerworld and Majestic 88 at Twice In Nature. The RA listing highlights hardware energy, deep rhythms, techno and IDM-focused programming.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-juna-sound-room-mar-2026",
+        "title": "JUNA Sound Room: Valentin Ginies +++ Vridian",
+        "type": "club-night",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 72,
+        "venueName": "JUNA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2398707",
+        "ticketUrl": "https://ra.co/events/2398707",
+        "summary": "JUNA’s Sound Room hosted Berlin-based Valentin Ginies alongside Vridian. The RA listing describes the night as hypnotic, psychedelic techno with a warm, groove-led counterpoint from Vridian.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-discovery-tom-bolas-2026",
+        "title": "Discovery presents Tom Bolas (Average Records) +++ DJ Pants",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 70,
+        "venueName": "JUNA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2398708",
+        "ticketUrl": "https://ra.co/events/2398708",
+        "summary": "Discovery brought Tom Bolas of Average Records to JUNA with DJ Pants. The RA listing cites house and Italo disco, with references to South African house and Kwaito influences in Bolas’s sets.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-space-nectar-2026",
+        "title": "Space Nectar",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 72,
+        "venueName": "Da Luna Vagator",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/space-nectar-28-mar-2026-16721-panchayat-road-near-bharat-petrol-pump-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/space-nectar-28-mar-2026-16721-panchayat-road-near-bharat-petrol-pump-buy-tickets",
+        "summary": "Space Nectar’s March edition ran overnight at Da Luna Vagator with Efrat MoonStone, Tom Orion, Buzuku, Zameer, Exact Opposite and Strobe. The ticket listing confirms a March 28 start and March 29 end.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "cartagena",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:49:59.982Z",
+  "responseId": "resp_0797c0c1dc7df528006a009ac07bac8190a08bc01683e81ad0",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 4,
+    "year": 2026,
+    "notes": "Confirmed April listings are relatively sparse, with the strongest anchors being Semana Santa choral programming, a local urban/champeta concert, and a mid-month afro-house DJ night.",
+    "events": [
+      {
+        "id": "cartagena-coros-musica-sacra-apr-2026",
+        "title": "XVI Festival de Coros y Música Sacra",
+        "type": "festival",
+        "startDate": "2026-03-28",
+        "endDate": "2026-04-05",
+        "importance": 72,
+        "venueName": "Plaza de Variedades, Chambacú",
+        "venueId": null,
+        "sourceUrl": "https://www.eluniversal.com.co/cartagena/2026/03/29/asi-vive-cartagena-el-domingo-de-ramos-el-inicio-de-la-semana-santa-2026/",
+        "ticketUrl": null,
+        "summary": "Semana Santa choral and sacred-music program running 6:00–8:00 p.m. at Plaza de Variedades, Chambacú, as part of Cartagena’s official cultural agenda. The event centers on free presentations by choirs and sacred-music ensembles.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-luister-prestige-apr-2026",
+        "title": "Luister La Voz at Prestige Club Alta Gama",
+        "type": "concert",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 65,
+        "venueName": "Prestige Club Alta Gama",
+        "venueId": null,
+        "sourceUrl": "https://cartagenaplay.com/event/concierto-de-luisterlavoz-en-prestige/",
+        "ticketUrl": "https://cartagenaplay.com/event/concierto-de-luisterlavoz-en-prestige/",
+        "summary": "Cartagenaplay lists a live performance by Luister La Voz at Prestige Club Alta Gama, with DJs Bryan Rodríguez, Luham24, and Luis Borja also billed. The event is presented as a ticketed “SuperConcierto” in Cartagena.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-moojo-museo-naval-apr-2026",
+        "title": "Moojo Cartagena",
+        "type": "club-night",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 78,
+        "venueName": "Museo Naval del Caribe",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2397165",
+        "ticketUrl": "https://ra.co/events/2397165",
+        "summary": "French DJ/producer Moojo headlines an intimate Los Calvitos Events night at Museo Naval del Caribe. Resident Advisor lists the event with house and afro-house genres and an 8:00 p.m.–3:00 a.m. schedule.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-dj-stailin-green-moon-apr-2026",
+        "title": "DJ Stailin at Green Moon Bar Disco",
+        "type": "club-night",
+        "startDate": "2026-04-30",
+        "endDate": "2026-04-30",
+        "importance": 60,
+        "venueName": "Green Moon Bar Disco",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/bf6f0b76-ba82-472b-a91a-d7bd4cf6781f",
+        "ticketUrl": null,
+        "summary": "Shazam/Bandsintown lists DJ Stailin for a confirmed April 30 appearance at Green Moon Bar Disco in Cartagena. The listing connects the show to the artist’s 2026 tour schedule and recent amapiano/urban releases.",
+        "genres": [
+          "amapiano",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

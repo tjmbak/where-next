@@ -1,0 +1,131 @@
+{
+  "slug": "melbourne",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:47:39.968Z",
+  "responseId": "resp_05511ed456b7bd98006a009a2223cc819690b55b20b14b5823",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 12,
+    "year": 2026,
+    "notes": "December 2026 is already anchored by stadium pop/rock, a major dance-orchestra event, and the confirmed return of Meredith, while many club calendars are not yet announced this far out.",
+    "events": [
+      {
+        "id": "melbourne-joost-klein-dec-2026",
+        "title": "Joost Klein - World Tour",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 78,
+        "venueName": "Festival Hall Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/joost-klein-world-tour-west-melbourne-02-12-2026/event/13006463B6FE4CB0",
+        "ticketUrl": "https://www.ticketmaster.com.au/joost-klein-world-tour-west-melbourne-02-12-2026/event/13006463B6FE4CB0",
+        "summary": "Dutch artist Joost Klein brings his World Tour to Festival Hall Melbourne on Wednesday 2 December 2026. Ticketmaster and the Festival Hall venue listing confirm the 7:00pm event time.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-harry-styles-dec-2026",
+        "title": "Harry Styles: Together, Together",
+        "type": "residency",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 93,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.marvelstadium.com.au/harry-styles-together-together-coming-to-marvel-stadium",
+        "ticketUrl": "https://www.ticketmaster.com.au/artist/2366444?venueId=303717",
+        "summary": "Harry Styles’ global stadium residency run includes a confirmed Melbourne date at Marvel Stadium on Wednesday 2 December 2026. The official Marvel Stadium announcement lists this as the added third Melbourne show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-wolf-alice-live-at-the-gardens-dec-2026",
+        "title": "Live at the Gardens - Wolf Alice",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 76,
+        "venueName": "Royal Botanic Gardens Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.liveatthegardens.com.au/wolfalice",
+        "ticketUrl": "https://www.liveatthegardens.com.au/wolfalice",
+        "summary": "Wolf Alice headline Live at the Gardens at Royal Botanic Gardens Melbourne on Saturday 5 December 2026. The official event page confirms the one-night Melbourne performance and gates at 5:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-a-perfect-circle-dec-2026",
+        "title": "A Perfect Circle with Puscifer",
+        "type": "concert",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 82,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/a-perfect-circle-melbourne-2026/",
+        "ticketUrl": "https://rodlaverarena.com.au/event/a-perfect-circle-melbourne-2026/",
+        "summary": "A Perfect Circle return to Melbourne for a Rod Laver Arena show on Sunday 6 December 2026, with Puscifer listed as special guest. The official venue page confirms the 6:45pm start time.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-ministry-of-sound-dec-2026",
+        "title": "Ministry of Sound Melbourne 2026",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 86,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/ministry-of-sound-melbourne-2026/188744",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/ministry-of-sound-melbourne-2026/188744",
+        "summary": "Ministry of Sound returns to Sidney Myer Music Bowl on Friday 11 December 2026 for an 18+ summer dance festival. Moshtix lists Ministry of Sound Classical Orchestra, international headliners, Australian electronic pioneers, local talent, and three stages.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-guns-n-roses-dec-2026",
+        "title": "Guns N' Roses: World Tour 2026 with Airbourne",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 91,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/intl_1657743/guns-n-roses-world-tour-2026",
+        "ticketUrl": "https://www.livenation.com.au/",
+        "summary": "Guns N’ Roses play Marvel Stadium in Melbourne on Friday 11 December 2026 as part of their World Tour 2026. Live Nation lists Airbourne on the lineup for the Melbourne stadium date.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-meredith-music-festival-dec-2026",
+        "title": "Meredith Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13",
+        "importance": 90,
+        "venueName": "Meredith Supernatural Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://mmf.com.au/",
+        "ticketUrl": null,
+        "summary": "The 34th Meredith Music Festival is confirmed for 11, 12 and 13 December 2026 at the Meredith Supernatural Amphitheatre, near Melbourne. The official festival site confirms the dates, with the lineup still to be announced.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

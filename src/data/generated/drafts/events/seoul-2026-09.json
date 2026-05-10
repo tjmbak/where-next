@@ -1,0 +1,83 @@
+{
+  "slug": "seoul",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:42:21.705Z",
+  "responseId": "resp_097903a1962a873c006a0098e06b68819487175b9e66e13d8a",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 9,
+    "year": 2026,
+    "notes": "Confirmed September 2026 music programming around Seoul is currently strongest for J-pop/J-rock arena shows and large outdoor/pop festivals, while club calendars are not yet published that far ahead.",
+    "events": [
+      {
+        "id": "seoul-sound-planet-festival-sep-2026",
+        "title": "Sound Planet Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 86,
+        "venueName": "Paradise City",
+        "venueId": null,
+        "sourceUrl": "https://soundplanetfestival.co.kr/news-2/?execute_uid=40&mod=document&pageid=1&uid=40",
+        "ticketUrl": null,
+        "summary": "Two-day festival at Paradise City in Incheon, confirmed for September 5–6, 2026. Announced lineups include major Korean and Japanese rock/pop acts such as YB, UVERworld, Kim Junsu (XIA), Cherry Filter, CNBLUE and others across the Sound Planet program.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-back-number-grateful-yesterdays-sep-2026",
+        "title": "back number “Grateful Yesterdays Tour 2026” in Seoul",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 80,
+        "venueName": "KINTEX Hall 9",
+        "venueId": null,
+        "sourceUrl": "https://backnumber.info/special_site/stadiumtour2026/detail/309?lang=en",
+        "ticketUrl": "https://backnumber.info/stadiumtour2026_ticket",
+        "summary": "Japanese band back number bring their Grateful Yesterdays Tour 2026 to the Seoul metro area for two concerts at KINTEX Hall 9. The official tour announcement lists Seoul dates on September 12 and 13, both opening at 16:30 and starting at 18:00 local time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-vaundy-horo-sep-2026",
+        "title": "Vaundy ASIA ARENA TOUR 2026 “HORO” in Seoul",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 82,
+        "venueName": "INSPIRE ARENA",
+        "venueId": null,
+        "sourceUrl": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000240/products/26003199?_normalbrowse_=1",
+        "summary": "Vaundy’s official Asia arena tour schedule confirms two Seoul-area shows at INSPIRE ARENA on September 19 and 20, 2026. The concerts are part of the multi-city “HORO” tour with linked NOL Ticket sales for Korea.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-seoripul-music-festival-sep-2026",
+        "title": "2026 Seoripul Music Festival",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 72,
+        "venueName": "Banpo-daero area",
+        "venueId": null,
+        "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=678",
+        "ticketUrl": null,
+        "summary": "Seoul’s official FUN SEOUL festival listing confirms the 2026 Seoripul Music Festival for September 19–20 along Banpo-daero in Seocho-gu. The program is described as an urban music festival with main performances including an opening classical night and a closing K-pop night with fireworks.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "bangkok",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:45:51.828Z",
+  "responseId": "resp_081871fa73f27220006a0099a6c1688194b8a1e3fbf426c5a1",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Bangkok was dominated by Songkran-scale electronic and water festivals, with major K-pop arena concerts and T-pop city stages around the holiday window.",
+    "events": [
+      {
+        "id": "bangkok-marmosets-horn-apr-2026",
+        "title": "ALL NIGHT LONG with Marmosets",
+        "type": "club-night",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 70,
+        "venueName": "Horn",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2402239",
+        "ticketUrl": "https://ra.co/events/2402239",
+        "summary": "Bangkok electronic mainstay Marmosets played an open-to-close Friday night set at Horn, presented as an extended all-night concept.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-nct-wish-bitec-apr-2026",
+        "title": "NCT WISH 1st Concert Tour ‘INTO THE WISH : Our WISH’ in Bangkok",
+        "type": "concert",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 83,
+        "venueName": "BITEC LIVE",
+        "venueId": null,
+        "sourceUrl": "https://www.bitec.co.th/event/nct-wish-1st-concert-tour-into-the-wish-our-wish-in-bangkok",
+        "ticketUrl": "https://www.allticket.com/",
+        "summary": "NCT WISH brought their first full-scale Thailand concert to BITEC LIVE, with the official event listing confirming the April 4 Bangkok date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-ateez-impact-apr-2026",
+        "title": "ATEEZ 2026 World Tour [IN YOUR FANTASY] in Bangkok",
+        "type": "concert",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 86,
+        "venueName": "IMPACT Exhibition Center Hall 5-6",
+        "venueId": null,
+        "sourceUrl": "https://www.impact.co.th/en/visitors/event-calendar/concert/ateez-2026-world-tour-in-your-fantasy-in-bangkok",
+        "ticketUrl": "https://www.ateezlive.com/",
+        "summary": "ATEEZ closed the Asia leg of their 2026 world tour in the Bangkok area with a large-scale K-pop concert at IMPACT Exhibition Center Hall 5-6.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-gcircuit-songkran-apr-2026",
+        "title": "GCIRCUIT Songkran 2026",
+        "type": "festival",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-13",
+        "importance": 88,
+        "venueName": "EmSphere",
+        "venueId": null,
+        "sourceUrl": "https://everythingbkk.com/event/gcircuit-songkran-2026/",
+        "ticketUrl": null,
+        "summary": "GCIRCUIT’s 20th-anniversary Songkran edition returned to EmSphere with four themed night parties and daytime pool parties, reinforcing its role as Asia’s flagship gay circuit festival.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-kyvo-phoenix-apr-2026",
+        "title": "KYVO // 004 – PHOENIX",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-11",
+        "importance": 72,
+        "venueName": "River City Bangkok Helipad",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/kyvo-004-phoenix-ga-tickets",
+        "ticketUrl": "https://megatix.in.th/events/kyvo-004-phoenix-ga-tickets",
+        "summary": "KYVO returned with a two-day Songkran rooftop chapter on the River City Bangkok Helipad, staging an open-air fire-and-water arena over the Chao Phraya River.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bangkok-splash-songkran-rca-apr-2026",
+        "title": "SPLASH SONGKRAN RCA 2026 – TO SPACE",
+        "type": "festival",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-15",
+        "importance": 84,
+        "venueName": "ONYX Bangkok / RCA",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/splash2026-day6",
+        "ticketUrl": "https://megatix.in.th/events/splash2026-day6",
+        "summary": "ONYX’s long-running RCA Songkran night festival ran six nights with water-party production and headline nights featuring NERVO, 4B, Bonka, Sally, Amber Na, and TPA & Friends.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bangkok-s2o-songkran-apr-2026",
+        "title": "Singha Life presents S2O Songkran Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-13",
+        "importance": 96,
+        "venueName": "S2O LAND | Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/87299/s2o2026",
+        "ticketUrl": "https://www.eventpop.me/e/87299/s2o2026",
+        "summary": "S2O returned as Bangkok’s global Songkran EDM flagship, confirming April 11–13 at S2O LAND with large-scale water effects and international DJ programming.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-siam-songkran-apr-2026",
+        "title": "SIAM Songkran Music Festival 2026: The Melora",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-14",
+        "importance": 94,
+        "venueName": "Bravo BKK Arena Area",
+        "venueId": null,
+        "sourceUrl": "https://www.klook.com/en-US/event-detail/102000802-siam-song-kran-music-festival/",
+        "ticketUrl": "https://www.klook.com/en-US/event-detail/102000802-siam-song-kran-music-festival/",
+        "summary": "SIAM Songkran’s four-day 2026 edition at Bravo BKK Arena Area featured international EDM headliners across Songkran, including Martin Garrix, Marshmello, John Summit, and Afrojack B2B R3HAB.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-superfluid-king-power-apr-2026",
+        "title": "SUPERFLUID 2026 presented by King Power",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-13",
+        "importance": 82,
+        "venueName": "King Power Rangnam",
+        "venueId": null,
+        "sourceUrl": "https://www.thailandexhibition.com/thai-event-details/superfluid-songkran-music-festival-2026/27992",
+        "ticketUrl": null,
+        "summary": "SUPERFLUID staged a free Songkran music-and-water festival at King Power Rangnam with a 20-plus-artist lineup including Jeff Satur, Ink Waruntorn, PiXXie, The Toys, LYKN, PERSES, PROXIE, and more.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bangkok-k2o-songkran-apr-2026",
+        "title": "K2O Songkran Music Festival",
+        "type": "festival",
+        "startDate": "2026-04-14",
+        "endDate": "2026-04-14",
+        "importance": 85,
+        "venueName": "S2O LAND | Ratchada",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/134917/k2o2026",
+        "ticketUrl": "https://www.eventpop.me/e/134917/k2o2026",
+        "summary": "K2O debuted as a one-day K-pop Songkran water festival from the S2O team, combining Korean pop performances with large-scale water, lighting, and stage production.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-fwd-music-live-fest-5-apr-2026",
+        "title": "FWD Music Live Fest 5",
+        "type": "festival",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-19",
+        "importance": 76,
+        "venueName": "centralwOrld",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/144592/fwd-music-live-fest-5",
+        "ticketUrl": "https://www.eventpop.me/e/144592/fwd-music-live-fest-5",
+        "summary": "FWD Music Live Fest 5 ran for three days at centralwOrld, continuing the post-Songkran live music calendar with a free city-center concert format.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bangkok-mustache-kollectiv-apr-2026",
+        "title": "MUSTACHE x KOLLECTIV — Underground Techno Night",
+        "type": "club-night",
+        "startDate": "2026-04-23",
+        "endDate": "2026-04-23",
+        "importance": 65,
+        "venueName": "Mustache Bangkok",
+        "venueId": "mustache-bangkok",
+        "sourceUrl": "https://ra.co/events/2420651",
+        "ticketUrl": "https://ra.co/events/2420651",
+        "summary": "Mustache partnered with Bangkok DJ collective Kollectiv for a Thursday underground techno night featuring Martin Sanka, Anchun, Theo DGL, Sadia, and other local selectors.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

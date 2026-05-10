@@ -1,0 +1,134 @@
+{
+  "slug": "bangkok",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:44:00.750Z",
+  "responseId": "resp_024071b7fc4be7ae006a00994959d88193a545571816821839",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 11,
+    "year": 2026,
+    "notes": "November 2026 is already anchored by several confirmed arena-scale touring shows plus Eurovision Song Contest Asia, while club calendars are still mostly unannounced this far out.",
+    "events": [
+      {
+        "id": "bangkok-afrokiz-edition-4-2026",
+        "title": "AfroKiz Bangkok Edition 4",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-02",
+        "importance": 65,
+        "venueName": "Shanghai Mansion Hotel Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/131424/https-www",
+        "ticketUrl": "https://www.eventpop.me/e/131424/https-www",
+        "summary": "Eventpop lists AfroKiz Bangkok Edition 4 from 30 Oct 2026 09:00 to 2 Nov 2026 05:00, with the event description naming Shanghai Mansion Hotel Bangkok in Chinatown. The programme bills international artists and DJs, all-day music and dance, two dance rooms, and a cruise party.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-latin-fiesta-2026",
+        "title": "Latin Bangkok Fiesta 2026",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-09",
+        "importance": 70,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.attndnce.com/",
+        "ticketUrl": "https://www.attndnce.com/",
+        "summary": "The official Latin Bangkok Fiesta page confirms the 20th edition for 6–9 Nov 2026 in Bangkok. It is billed around salsa, bachata, kizomba, zouk and lambada, with live band nights and top DJs.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-5-seconds-of-summer-2026",
+        "title": "5 Seconds of Summer: Everyone’s A Star! World Tour",
+        "type": "concert",
+        "startDate": "2026-11-09",
+        "endDate": "2026-11-09",
+        "importance": 84,
+        "venueName": "UOB LIVE, EmSphere",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationtero.co.th/en/event/5-seconds-of-summer-everyone-s-a-star-world-tour-bangkok-tickets-edp1669966",
+        "ticketUrl": "https://www.thaiticketmajor.com/",
+        "summary": "Live Nation Tero confirms 5 Seconds of Summer at UOB LIVE, EmSphere on 9 Nov 2026. The page lists 5 Seconds of Summer as the headliner for the Bangkok stop of the Everyone’s A Star! World Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-lany-soft-world-tour-2026",
+        "title": "LANY: Soft World Tour",
+        "type": "concert",
+        "startDate": "2026-11-10",
+        "endDate": "2026-11-10",
+        "importance": 82,
+        "venueName": "UOB Live, EmSphere",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationtero.co.th/en/event/lany-soft-world-tour-bangkok-tickets-edp1660038",
+        "ticketUrl": "https://www.thaiticketmajor.com/",
+        "summary": "Live Nation Tero confirms LANY’s Soft World Tour at UOB Live, EmSphere on 10 Nov 2026. The official event page lists LANY as the headliner and links ticketing through ThaiTicketMajor.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-eurovision-asia-2026",
+        "title": "Eurovision Song Contest Asia 2026 Grand Final",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 96,
+        "venueName": "Bangkok, Thailand",
+        "venueId": null,
+        "sourceUrl": "https://www.eurovision.com/asia/",
+        "ticketUrl": null,
+        "summary": "Eurovision’s official Asia page confirms Bangkok, Thailand for Saturday 14 Nov 2026. The inaugural contest is announced as a live Grand Final bringing together broadcasters and artists from 10 confirmed Asian countries, with more expected.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-my-chemical-romance-2026",
+        "title": "My Chemical Romance",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 85,
+        "venueName": "Impact Challenger Hall 1",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/42684982-my-chemical-romance-at-impact-challenger-hall-1",
+        "ticketUrl": "https://megatix.in.th/events/my-chemical-romance",
+        "summary": "Songkick lists My Chemical Romance at Impact Challenger Hall 1 in Bangkok on Tuesday 17 Nov 2026, with doors at 19:00. The show is billed as the band’s Bangkok concert and a major stop for fans of alternative rock and pop-punk.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-joji-solaris-2026",
+        "title": "JOJI: SOLARIS",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-24",
+        "importance": 83,
+        "venueName": "Impact Exhibition Hall 5",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationtero.co.th/en/event/joji-solaris-bangkok-tickets-edp1668830",
+        "ticketUrl": "https://www.thaiticketmajor.com/",
+        "summary": "Live Nation Tero confirms Joji’s Solaris Tour at Impact Exhibition Hall 5 on Tuesday 24 Nov 2026. The official event page lists Joji as the headliner and states that he is bringing the Solaris Tour to Bangkok.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

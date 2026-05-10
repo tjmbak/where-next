@@ -1,0 +1,202 @@
+{
+  "slug": "seoul",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:41:56.058Z",
+  "responseId": "resp_050f8357f6cd37a3006a0098ae48f08194a888396dc0ee9cc9",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 5,
+    "year": 2026,
+    "notes": "May is unusually dense around Seoul, with hip-hop, jazz, indie-pop festivals, arena-scale K-pop, and international electronic club bookings clustered across the month.",
+    "events": [
+      {
+        "id": "seoul-hiphopplaya-may-2026",
+        "title": "HIPHOPPLAYA Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 88,
+        "venueName": "KINTEX Exhibition Center 2, Halls 9 & 10",
+        "venueId": null,
+        "sourceUrl": "https://sports.khan.co.kr/en/article/202603202045007",
+        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/12998",
+        "summary": "Korea’s major hip-hop festival returns near Seoul with a final lineup including Jay Park, E Sens, Crush, Lee Young-ji, C Jamm x Black Nut, Lil Moshpit, and label/project stages.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-undercity-space92-2026",
+        "title": "UNDERCITY presents Space 92",
+        "type": "club-night",
+        "startDate": "2026-05-04",
+        "endDate": "2026-05-04",
+        "importance": 78,
+        "venueName": "UNDERCITY",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396747",
+        "ticketUrl": "https://ra.co/events/2396747",
+        "summary": "French techno headliner Space 92 plays UNDERCITY with KIMNA, HOZONE, ØNSEMIRO, and SEAN XXX supporting.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-qtopia-hard-mode-dungeon-2026",
+        "title": "QTOPIA Seoul: HARD MODE DUNGEON",
+        "type": "club-night",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 72,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2427634",
+        "ticketUrl": "https://ra.co/events/2427634",
+        "summary": "RA-listed Cakeshop night focused on bass, hard drum, and high-BPM club sounds, with Hiru, Siyoou_u, Mobymobimo:3, Tanya, Autopilot77_77, DDD, and Saika.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-forestella-legacy-symphony-2026",
+        "title": "Forestella — THE LEGACY: SYMPHONY In Seoul",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-10",
+        "importance": 75,
+        "venueName": "Jangchung Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108181006-forestella-at-jangchung-arena",
+        "ticketUrl": "https://ticket.yes24.com/English/",
+        "summary": "Crossover vocal group Forestella brings its fourth-album tour, THE LEGACY: SYMPHONY, to Jangchung Arena for two Seoul dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-faust-invites-perfo-2026",
+        "title": "INVITES: Perfo",
+        "type": "club-night",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 70,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2427049",
+        "ticketUrl": "https://ra.co/events/2427049",
+        "summary": "Faust’s INVITES series hosts Perfo with gezibe and NUSNOOM in the main room, plus Ginger and YAREE in Tanz Bar.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-jazz-festival-2026",
+        "title": "The 18th Seoul Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-24",
+        "importance": 96,
+        "venueName": "Olympic Park",
+        "venueId": null,
+        "sourceUrl": "https://sports.khan.co.kr/en/article/202604161700007",
+        "ticketUrl": "https://www.seouljazz.co.kr/",
+        "summary": "Seoul’s flagship international jazz festival runs three days at Olympic Park with a 60-act lineup including Janelle Monáe, Herbie Hancock, Jon Batiste, FKJ, Arturo Sandoval, Ezra Collective, and Of Monsters and Men.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-peak-festival-2026",
+        "title": "PEAK Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-24",
+        "importance": 84,
+        "venueName": "Nanji Hangang Park",
+        "venueId": null,
+        "sourceUrl": "https://sports.khan.co.kr/en/article/202604100014007",
+        "ticketUrl": "https://ticket.yes24.com/English/",
+        "summary": "Two-day outdoor band festival at Nanji Hangang Park, with the final lineup featuring NELL, Jaurim, SPYAIR, Thornapple, QWER, 10CM, Idiotape, and more.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-lost-frequencies-lion-2026",
+        "title": "GLOBAL CALLING: FOUND FREQUENCIES — Lost Frequencies",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 80,
+        "venueName": "Lion Super Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2436320",
+        "ticketUrl": "https://ra.co/events/2436320",
+        "summary": "Belgian DJ-producer Lost Frequencies headlines Lion Super Club for a late-night GLOBAL CALLING / FOUND FREQUENCIES party.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-ioi-loop-2026",
+        "title": "2026 I.O.I Concert Tour: LOOP in Seoul",
+        "type": "concert",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-31",
+        "importance": 86,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26004139?placeCode=26000297",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26004139?placeCode=26000297",
+        "summary": "I.O.I’s 10th-anniversary reunion tour opens with three Seoul concerts at Jamsil Indoor Stadium.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-beautiful-mint-life-2026",
+        "title": "Beautiful Mint Life 2026",
+        "type": "festival",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-31",
+        "importance": 85,
+        "venueName": "Oil Tank Culture Park",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26002268?placeCode=26000159",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26002268?placeCode=26000159",
+        "summary": "The long-running spring indie-pop festival returns to Oil Tank Culture Park for two days, with acts listed across May 30 and May 31 including LUCY, N.Flying, Peppertones, TOUCHED, Car, the Garden, and more.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-show-me-the-money12-concert-2026",
+        "title": "SHOW ME THE MONEY 12 Concert",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-31",
+        "importance": 78,
+        "venueName": "YES24 Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.mk.co.kr/en/musics/11999352",
+        "ticketUrl": "https://ticket.yes24.com/English/",
+        "summary": "Mnet’s Show Me the Money 12 concert brings participating rappers to YES24 Live Hall, with the reported lineup including Kim Ha-on, MILLI, Zene the Zilla, Flowsik, Fleeky Bang, and other season performers.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

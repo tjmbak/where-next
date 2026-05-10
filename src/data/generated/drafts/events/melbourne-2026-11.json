@@ -1,0 +1,208 @@
+{
+  "slug": "melbourne",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:47:55.781Z",
+  "responseId": "resp_0349fcfbd74368e8006a009a2016c481978d028b0eb166771d",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 11,
+    "year": 2026,
+    "notes": "Confirmed November listings are currently strongest for major touring concerts and a few electronic/indie outdoor or club-leaning events; more Melbourne club and festival programs may still be announced closer to the month.",
+    "events": [
+      {
+        "id": "melbourne-james-morrison-mahalia-barnes-2026",
+        "title": "James Morrison with special guest Mahalia Barnes",
+        "type": "concert",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 70,
+        "venueName": "Hamer Hall",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=JAMESMOR26",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=JAMESMOR26",
+        "summary": "James Morrison and Mahalia Barnes bring a swing-and-soul concert to Hamer Hall, with a band and horn section paying tribute to classics associated with Aretha Franklin, Ray Charles and Tina Turner.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-charlie-puth-whatevers-clever-2026",
+        "title": "Charlie Puth – Whatever’s Clever! World Tour",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 84,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/charlie-puth-whatevers-clever-world-tour-melbourne-2026/",
+        "ticketUrl": "https://rodlaverarena.com.au/event/charlie-puth-whatevers-clever-world-tour-melbourne-2026/",
+        "summary": "Charlie Puth returns to Melbourne with the Whatever’s Clever! World Tour, billed as a full-band arena show at Rod Laver Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-bunt-pica-2026",
+        "title": "BUNT. | In the Round | Melbourne",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 74,
+        "venueName": "PICA",
+        "venueId": null,
+        "sourceUrl": "https://www.linesapp.co/event/bunt-in-the-round-melbourne-2026-11-07-pica-melbourne",
+        "ticketUrl": "https://www.linesapp.co/event/bunt-in-the-round-melbourne-2026-11-07-pica-melbourne",
+        "summary": "German producer BUNT. brings his stutter-house sound to PICA in Port Melbourne for an in-the-round headline date promoted by TEG Live and Fuzzy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-robbie-williams-britpop-2026",
+        "title": "Robbie Williams – BRITPOP World Tour",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 91,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-docklands-11-11-2026/event/2500646DCF7389BE",
+        "ticketUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-docklands-11-11-2026/event/2500646DCF7389BE",
+        "summary": "Robbie Williams brings the BRITPOP World Tour to Marvel Stadium, with G Flip and The Lottery Winners listed on the Melbourne bill by Ticketmaster.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-death-cab-margaret-court-2026",
+        "title": "Death Cab for Cutie",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 80,
+        "venueName": "Margaret Court Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/show/1666844/death-cab-for-cutie/melbourne/2026-11-13/en",
+        "ticketUrl": "https://www.livenation.com.au/show/1666844/death-cab-for-cutie/melbourne/2026-11-13/en",
+        "summary": "Death Cab for Cutie play Margaret Court Arena as part of their 2026 Australian dates, with Live Nation listing Melbourne on Friday 13 November.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-iron-maiden-aami-park-2026",
+        "title": "Iron Maiden – Run For Your Lives World Tour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 90,
+        "venueName": "AAMI Park",
+        "venueId": null,
+        "sourceUrl": "https://aamipark.com.au/event/iron-maiden-run-for-your-lives-world-tour-2026/",
+        "ticketUrl": "https://aamipark.com.au/event/iron-maiden-run-for-your-lives-world-tour-2026/",
+        "summary": "Iron Maiden bring their 50th-anniversary Run For Your Lives World Tour to AAMI Park, joined by special guests Megadeth.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-foo-fighters-marvel-2026",
+        "title": "Foo Fighters – Take Cover Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 92,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/au/events/1328219/foo-fighters-melbourne-tickets",
+        "ticketUrl": "https://www.axs.com/au/events/1328219/foo-fighters-melbourne-tickets",
+        "summary": "Foo Fighters play Marvel Stadium on the Take Cover Tour, with The Belair Lip Bombs and FRENZEE listed as Melbourne supports.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-men-i-trust-equus-2026",
+        "title": "Men I Trust – Equus Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 78,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/men-i-trust-equus-tour-melbourne-tickets-edp1652540",
+        "ticketUrl": "https://www.livenation.com.au/event/men-i-trust-equus-tour-melbourne-tickets-edp1652540",
+        "summary": "Men I Trust bring the Equus Tour to Forum Melbourne for two listed Melbourne dates, following their Equus Asinus and Equus Caballus album project.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-lany-soft-world-tour-2026",
+        "title": "LANY – soft world tour",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 78,
+        "venueName": "John Cain Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.frontiertouring.com/lany",
+        "ticketUrl": "https://www.frontiertouring.com/lany",
+        "summary": "LANY return to Australia on the soft world tour, with Frontier Touring listing the Melbourne date at John Cain Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-two-door-cinema-club-tourist-history-2026",
+        "title": "Two Door Cinema Club – Tourist History 15th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 80,
+        "venueName": "John Cain Arena",
+        "venueId": null,
+        "sourceUrl": "https://johncainarena.com.au/event/two-door-cinema-club-tourist-history-15th-anniversary-tour-melbourne-2026/",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=BEEACONM26",
+        "summary": "Two Door Cinema Club perform Tourist History in full plus greatest hits at John Cain Arena, with The Vaccines listed as special guests on the Ticketek event page.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-harry-styles-together-together-2026",
+        "title": "Harry Styles – Together, Together",
+        "type": "residency",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 96,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/harry-styles-together-together-docklands-27-11-2026/event/25006436CFC6E40D",
+        "ticketUrl": "https://www.ticketmaster.com.au/harry-styles-together-together-docklands-27-11-2026/event/25006436CFC6E40D",
+        "summary": "Harry Styles opens his Melbourne Together, Together run at Marvel Stadium, with Fousheé and Baby J listed on the Ticketmaster bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-live-at-the-gardens-dmas-2026",
+        "title": "Live At The Gardens – DMA’S",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 79,
+        "venueName": "Royal Botanic Gardens Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/live-at-the-gardens/",
+        "ticketUrl": "https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/live-at-the-gardens/",
+        "summary": "Live At The Gardens returns to the Observatory Lawn at Royal Botanic Gardens Melbourne, with DMA’S confirmed for the Saturday 28 November date.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

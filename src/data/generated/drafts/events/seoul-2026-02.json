@@ -1,0 +1,181 @@
+{
+  "slug": "seoul",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:41:24.936Z",
+  "responseId": "resp_0cf8917fa3a9cdc2006a0098728d2081958c24bb45b749f6cc",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 leaned heavily toward arena-scale K-pop and pop concerts, with Itaewon clubs supplying techno and bass counterprogramming.",
+    "events": [
+      {
+        "id": "seoul-le-sserafim-easy-crazy-hot-encore-feb-2026",
+        "title": "LE SSERAFIM TOUR ‘EASY CRAZY HOT’ ENCORE IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 91,
+        "venueName": "JAMSIL INDOOR STADIUM",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/25016712?placeCode=25001570",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/25016712?placeCode=25001570",
+        "summary": "LE SSERAFIM’s Seoul encore for the ‘EASY CRAZY HOT’ tour ran across Jan. 31 and Feb. 1 at Jamsil Indoor Stadium. NOL World lists the event as a two-day concert with VIP, M&G, and general ticket categories.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-itzy-tunnel-vision-feb-2026",
+        "title": "ITZY The 3rd World Tour ‘TUNNEL VISION’ in Seoul",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 90,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/festas/019b7d4d-64a5-75f0-aded-a9ba63de60be",
+        "ticketUrl": null,
+        "summary": "ITZY opened their third world tour, ‘TUNNEL VISION,’ with three Seoul dates at Jamsil Indoor Stadium. NOL World lists the Seoul run for Feb. 13–15, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-hanteo-music-awards-feb-2026",
+        "title": "33rd Hanteo Music Awards 2025",
+        "type": "concert",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 87,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://www.hanteonews.com/en/article/88174",
+        "ticketUrl": null,
+        "summary": "Hanteo Global’s 33rd Hanteo Music Awards took place at KSPO DOME on Feb. 15, with a 23-team lineup including ATEEZ, Lee Youngji, ARTMS, PENTAGON, tripleS, Billlie, xikers, and others. Lee Chanwon and Tiffany Young hosted the ceremony.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-idle-syncopation-feb-2026",
+        "title": "2026 i-dle WORLD TOUR [Syncopation] IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-22",
+        "importance": 92,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5059&mid=a20301010100",
+        "ticketUrl": null,
+        "summary": "i-dle opened their ‘Syncopation’ world tour with two Seoul concerts at KSPO DOME. Olympic Park’s official event page lists the dates as Feb. 21–22, with Cube Entertainment as organizer.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-onerepublic-from-asia-with-love-feb-2026",
+        "title": "ONEREPUBLIC “From Asia, With Love” 2026 in Seoul",
+        "type": "concert",
+        "startDate": "2026-02-23",
+        "endDate": "2026-02-23",
+        "importance": 85,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/11831",
+        "ticketUrl": "https://tickets.interpark.com/goods/25016782",
+        "summary": "OneRepublic brought the ‘From Asia, With Love’ tour to Seoul for a one-night concert on Feb. 23 at Jamsil Indoor Stadium. Interpark’s notice lists the show time as 8 PM and confirms OneRepublic as the casting.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-txt-moa-con-feb-2026",
+        "title": "2026 TXT MOA CON",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-03-01",
+        "importance": 90,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/txt/notice/32951",
+        "ticketUrl": null,
+        "summary": "TOMORROW X TOGETHER held ‘2026 TXT MOA CON’ at KSPO DOME from Feb. 27 through Mar. 1. Weverse lists the three in-person show times and notes that the event was held both offline and online.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-faust-linear-system-feb-2026",
+        "title": "INVITES: LINEAR SYSTEM",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 78,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2360483",
+        "ticketUrl": null,
+        "summary": "Faust’s INVITES series hosted Linear System with Kim Bo Yeon, Marcus L, Nocturnal, and NUKiD. Resident Advisor lists the event as an RA Pick on Feb. 13 from 23:00 to 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-faust-pearl-feb-2026",
+        "title": "INVITES: P.E.A.R.L",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 80,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2360495",
+        "ticketUrl": null,
+        "summary": "P.E.A.R.L. headlined Faust Seoul with Stann Lumo, NUSNOOM, Minish, and Nocturnal. Resident Advisor lists the Feb. 21 event as an RA Pick focused on stripped-back techno.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-cakeshop-locked-up-feb-2026",
+        "title": "LOCKED UP",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 72,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2364441",
+        "ticketUrl": null,
+        "summary": "LOCKED UP brought Moruka, GODOT, rom & BAAWLA, DDD, SZO, and others to Cakeshop. Resident Advisor lists the Feb. 27 party as an RA Pick spanning bass, electro, baile funk, UK bass, jungle, and hardcore sounds.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-faust-shdw-feb-2026",
+        "title": "INVITES: SHDW",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 82,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2360499",
+        "ticketUrl": null,
+        "summary": "Mutual Rytm founder SHDW headlined Faust Seoul with Marcus L, Mars Parck, Yuriko, and Ginger. Resident Advisor lists the Feb. 28 event as an RA Pick centered on loopy techno and modern sound design.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "slug": "new-orleans",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:40:35.649Z",
+  "responseId": "resp_0611a7cc867d0dbd006a0098729e7081979c6ddb00075744e6",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 11,
+    "year": 2026,
+    "notes": "November 2026’s confirmed New Orleans calendar already mixes fall festivals, stadium R&B, and heritage brass/jazz programming, with more club listings likely to fill in closer to the month.",
+    "events": [
+      {
+        "id": "new-orleans-beignet-fest-2026",
+        "title": "Beignet Fest 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 78,
+        "venueName": "New Orleans City Park Festival Grounds",
+        "venueId": null,
+        "sourceUrl": "https://beignetfest.com/",
+        "ticketUrl": "https://beignetfest.com/tickets/",
+        "summary": "Beignet Fest is confirmed for Saturday, November 7, 2026 at New Orleans City Park Festival Grounds, with local music programming alongside the food festival.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-hawthorne-heights-hob-2026",
+        "title": "Hawthorne Heights - 20th Anniversary of If Only You Were Lonely",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/949561",
+        "ticketUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/949561",
+        "summary": "Hawthorne Heights bring the 20th anniversary tour for If Only You Were Lonely to House of Blues New Orleans, with letlive. and Creeper listed on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-treme-creole-gumbo-fest-2026",
+        "title": "Tremé Creole Gumbo Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 82,
+        "venueName": "Louis Armstrong Park",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzandheritage.org/events/2026-treme-creole-gumbo-festival/",
+        "ticketUrl": null,
+        "summary": "The New Orleans Jazz & Heritage Foundation confirms Tremé Creole Gumbo Festival for November 14–15, 2026 at Louis Armstrong Park, with two full days of live music, R&B, funk, brass bands, food, and dance.",
+        "genres": [
+          "festival",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-buena-vista-orchestra-2026",
+        "title": "Buena Vista Orchestra",
+        "type": "concert",
+        "startDate": "2026-11-16",
+        "endDate": "2026-11-16",
+        "importance": 74,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/buena-vista-orchestra-tickets/artist/717599",
+        "ticketUrl": "https://www.ticketmaster.com/buena-vista-orchestra-tickets/artist/717599",
+        "summary": "Buena Vista Orchestra is listed for House of Blues New Orleans on Monday, November 16, 2026, bringing Cuban son and Latin repertoire to the French Quarter venue.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-kurt-vile-joy-2026",
+        "title": "Kurt Vile & the Violators",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 72,
+        "venueName": "The Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kurt-vile-the-violators-tickets/artist/1356400?page=1",
+        "ticketUrl": "https://www.ticketmaster.com/kurt-vile-the-violators-tickets/artist/1356400?page=1",
+        "summary": "Kurt Vile & the Violators are confirmed at The Joy Theater on Wednesday, November 18, 2026, with Twisted Teens listed on the lineup.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-rb-tour-superdome-2026",
+        "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 90,
+        "venueName": "Caesars Superdome",
+        "venueId": null,
+        "sourceUrl": "https://www.caesarssuperdome.com/events/detail/chris-brown-usher",
+        "ticketUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-new-orleans-louisiana-11-20-2026/event/1B00647D23818850",
+        "summary": "Usher and Chris Brown bring The R&B Tour to Caesars Superdome for two confirmed nights, Friday, November 20 and Saturday, November 21, 2026.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-fruit-bats-tipitinas-2026",
+        "title": "Fruit Bats",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 68,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.ticketweb.com/event/fruit-bats-tipitinas-tickets/14736993",
+        "ticketUrl": "https://www.ticketweb.com/event/fruit-bats-tipitinas-tickets/14736993",
+        "summary": "Tipitina's Presents lists Fruit Bats for Friday, November 20, 2026, with doors at 7:00 PM and show at 8:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-nick-shoulders-tipitinas-2026",
+        "title": "Nick Shoulders",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 67,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.ticketweb.com/event/nick-shoulders-tipitinas-tickets/14793943",
+        "ticketUrl": "https://www.ticketweb.com/event/nick-shoulders-tipitinas-tickets/14793943",
+        "summary": "Tipitina's Presents confirms Nick Shoulders for Wednesday, November 4, 2026, with doors at 7:00 PM and show at 8:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-bayou-classic-battle-bands-2026",
+        "title": "2026 Bayou Classic Battle of the Bands & Greek Show",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 78,
+        "venueName": "Caesars Superdome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/2026-bayou-classic-battle-of-the-bands-greek-show-new-orleans-11-27-2026/event/1B0064968BF28435",
+        "ticketUrl": "https://www.ticketmaster.com/2026-bayou-classic-battle-of-the-bands-greek-show-new-orleans-11-27-2026/event/1B0064968BF28435",
+        "summary": "The 2026 Bayou Classic Battle of the Bands & Greek Show is confirmed for Friday, November 27, 2026 at Caesars Superdome, with the Southern University Human Jukebox and Grambling State marching-band tradition anchoring the event.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-pj-morton-black-friday-2026",
+        "title": "PJ Morton: Annual Black Friday Show",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 84,
+        "venueName": "Orpheum Theater New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://orpheumnola.com/",
+        "ticketUrl": "https://www.ticketmaster.com/pj-morton-annual-black-friday-show-new-orleans-louisiana-11-27-2026/event/1B0064947BA9443A",
+        "summary": "New Orleans native PJ Morton’s Annual Black Friday Show is confirmed at Orpheum Theater New Orleans on Friday, November 27, 2026 at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

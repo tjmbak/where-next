@@ -1,0 +1,100 @@
+{
+  "slug": "cartagena",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:49:49.412Z",
+  "responseId": "resp_057061622af19998006a009ab4cab08197917462293a5939d5",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026’s confirmed music calendar in Cartagena leans cultural and local, with ConCuerda and Semana Santa sacred-music programming rather than major international touring concerts.",
+    "events": [
+      {
+        "id": "cartagena-concuerda-festival-mar-2026",
+        "title": "Festival ConCuerda",
+        "type": "festival",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-13",
+        "importance": 70,
+        "venueName": "Various cultural spaces",
+        "venueId": null,
+        "sourceUrl": "https://www.cartagena.gov.co/noticias/heroica-vivira-cultura-todo-el-ano-alcaldia-cartagena-presenta-agenda-cultural-2026",
+        "ticketUrl": null,
+        "summary": "The Cartagena city cultural agenda confirms Festival ConCuerda from March 3 to 13, 2026. The program is listed as part of the city’s March cultural calendar, focused on music and local artistic activity.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-yo-me-llamo-felipe-pelaez-2026",
+        "title": "Yo Me Llamo Felipe Peláez at Mallplaza Cartagena",
+        "type": "concert",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 60,
+        "venueName": "Mallplaza Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://lasnoticiascartagena.com.co/mallplaza-presenta-temporada-de-conciertos-con-estrellas-de-yo-me-llamo/",
+        "ticketUrl": null,
+        "summary": "Mallplaza Cartagena hosted a free 4:00 p.m. performance by the Yo Me Llamo Felipe Peláez tribute act in its food court. The show was part of Mallplaza’s March 2026 series of free concerts with Yo Me Llamo performers.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-yo-me-llamo-martin-elias-2026",
+        "title": "Yo Me Llamo Martín Elías at Mallplaza Cartagena",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 60,
+        "venueName": "Mallplaza Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://lasnoticiascartagena.com.co/mallplaza-presenta-temporada-de-conciertos-con-estrellas-de-yo-me-llamo/",
+        "ticketUrl": null,
+        "summary": "Mallplaza Cartagena listed a free 4:00 p.m. performance by the Yo Me Llamo Martín Elías tribute act in its food court. The event formed part of a three-Saturday March concert program across Mallplaza centers.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-yo-me-llamo-wisin-y-yandel-2026",
+        "title": "Yo Me Llamo Wisin & Yandel at Mallplaza Cartagena",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 61,
+        "venueName": "Mallplaza Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://lasnoticiascartagena.com.co/mallplaza-presenta-temporada-de-conciertos-con-estrellas-de-yo-me-llamo/",
+        "ticketUrl": null,
+        "summary": "Mallplaza Cartagena scheduled a free 4:00 p.m. show by the Yo Me Llamo Wisin & Yandel tribute act in the food court. It was the Cartagena stop on the mall group’s March 2026 live-music series.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "cartagena-musica-sacra-semana-santa-2026",
+        "title": "Festival de Música Sacra / XVI Encuentro de Coros, Orquestas y Música Sacra",
+        "type": "festival",
+        "startDate": "2026-03-29",
+        "endDate": "2026-04-05",
+        "importance": 70,
+        "venueName": "Temples and public spaces around Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://www.cartagena.gov.co/noticias/heroica-vivira-cultura-todo-el-ano-alcaldia-cartagena-presenta-agenda-cultural-2026",
+        "ticketUrl": null,
+        "summary": "Cartagena’s official 2026 cultural agenda confirms the Festival de Música Sacra from March 29 to April 5 as part of Semana Santa. IPCC materials identify the program as the XVI Encuentro de Coros, Orquestas y Música Sacra, focused on local choral and orchestral sacred-music presentations.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "seoul",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:42:19.610Z",
+  "responseId": "resp_04abb42b26e31973006a0098e3e85c8195b913dbf6e23288b5",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 10,
+    "year": 2026,
+    "notes": "Confirmed October listings currently skew toward large Seoul-metro stadium and arena pop concerts, with club/festival calendars still thin this far out.",
+    "events": [
+      {
+        "id": "seoul-post-malone-oct-2026",
+        "title": "Post Malone Presents The BIG Stadium World Tour in Seoul",
+        "type": "concert",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 90,
+        "venueName": "Goyang Stadium / Goyang Sports Complex",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/post-malone-presents-the-big-stadium-world-tour-seoul-tickets-edp1664856",
+        "ticketUrl": "https://world.nol.com/ticket/places/26000336/products/26004944",
+        "summary": "Post Malone headlines the Seoul-area stop of The BIG Stadium World Tour at Goyang Sports Complex, with Don Toliver listed as support by Live Nation Korea.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-lany-soft-world-tour-oct-2026",
+        "title": "LANY: soft world tour in Korea",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 76,
+        "venueName": "KINTEX 2 Exhibition Hall 9",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/lany-soft-world-tour-seoul-tickets-edp1663105",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26004771?placeCode=26000326",
+        "summary": "LANY bring their soft world tour to KINTEX Hall 9 in the Seoul metro area for a one-night pop concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-gangnam-festival-kpop-oct-2026",
+        "title": "Gangnam Festival 2026 — Yeongdong-daero K-Pop Concert",
+        "type": "festival",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 80,
+        "venueName": "Yeongdong-daero / COEX area",
+        "venueId": null,
+        "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=610",
+        "ticketUrl": null,
+        "summary": "Seoul’s official festival listing schedules Gangnam Festival from October 2–5, with the Yeongdong-daero K-Pop Concert specifically listed for October 4. Artist lineup has not yet been published on the source page.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-charlie-puth-oct-2026",
+        "title": "Charlie Puth - Whatever's Clever! World Tour in Seoul",
+        "type": "concert",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 88,
+        "venueName": "Goyang Stadium / Goyang Sports Complex",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/charlie-puth-whatever-s-clever-world-tour-seoul-tickets-edp1668245",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26005759?placeCode=26000413",
+        "summary": "Charlie Puth’s Whatever's Clever! World Tour is confirmed for the Seoul metro area at Goyang Sports Complex on October 11.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "bangkok",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:43:50.498Z",
+  "responseId": "resp_049616780632b18f006a00994bde988196a8c61adb0f5398e4",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 12,
+    "year": 2026,
+    "notes": "Confirmed December 2026 anchors are concentrated in the Bangkok–Chonburi/Pattaya corridor, with major festival dates announced but most artist lineups still pending.",
+    "events": [
+      {
+        "id": "bangkok-wonderfruit-dec-2026",
+        "title": "Wonderfruit 2026",
+        "type": "festival",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-07",
+        "importance": 91,
+        "venueName": "The Fields at Siam Country Club",
+        "venueId": "wonderfruit-pattaya",
+        "sourceUrl": "https://wonderfruit.co/tickets",
+        "ticketUrl": "https://wonderfruit.co/tickets",
+        "summary": "Wonderfruit’s official ticket page confirms a five-day, four-night edition from 3–7 December 2026 at The Fields in Chonburi. The programme is framed around Mind, Nature and Sound; 2026 artist details were not yet listed on the verified source.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-tomorrowland-thailand-dec-2026",
+        "title": "Tomorrowland Thailand 2026",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13",
+        "importance": 99,
+        "venueName": "Wisdom Valley, Pattaya",
+        "venueId": null,
+        "sourceUrl": "https://faq.tomorrowlandthailand.com/hc/en-us/articles/45512608043668-Where-and-when-will-Tomorrowland-Thailand-2026-take-place",
+        "ticketUrl": "https://thailand.tomorrowland.com/th/passes-packages/festival-passes/",
+        "summary": "Tomorrowland’s official Thailand FAQ confirms the festival at Wisdom Valley in Pattaya from 11–13 December 2026. The official lineup page says artists will be announced soon, so no headliners are confirmed yet.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "cartagena",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:48:32.214Z",
+  "responseId": "resp_0037c5b6c4bbb428006a009a8c3d848195bed195b259389428",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": []
+  }
+}

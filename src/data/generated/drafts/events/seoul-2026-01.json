@@ -1,0 +1,222 @@
+{
+  "slug": "seoul",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:40:32.157Z",
+  "responseId": "resp_0035d530ff412e9f006a009872afa481959501a52a97b2f390",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Seoul was unusually dense, with arena-scale K-pop encores alongside active Itaewon and Hapjeong club programming.",
+    "events": [
+      {
+        "id": "seoul-baekhyun-reverie-2026",
+        "title": "2025 BAEKHYUN WORLD TOUR ‘Reverie [dot]’",
+        "type": "concert",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-04",
+        "importance": 88,
+        "venueName": "KSPO Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5044&mid=a20301010200",
+        "ticketUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5044&mid=a20301010200",
+        "summary": "Baekhyun played three Seoul dates at KSPO Dome for the ‘Reverie [dot]’ world tour, with performances listed for January 2, 3, and 4, 2026.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-cakeshop-unluckyme-2026",
+        "title": "Unluckyme",
+        "type": "club-night",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 70,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2326875",
+        "ticketUrl": null,
+        "summary": "Unluckyme opened its 2026 run at Cakeshop with CCR, Shimeunboss, Citi Jeong, Ugly Duck, and Javi Suh, framed by the promoter as a ghetto-tech and bass-focused night.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-hwasa-mi-casa-2026",
+        "title": "2026 HWASA CONCERT <MI CASA>",
+        "type": "concert",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 84,
+        "venueName": "Kyung Hee University Grand Peace Hall",
+        "venueId": null,
+        "sourceUrl": "https://m.ticketlink.co.kr/help/notice/63729",
+        "ticketUrl": "https://m.ticketlink.co.kr/help/notice/63729",
+        "summary": "Hwasa’s <MI CASA> concert was listed by Ticketlink for January 17 and 18, 2026 at Kyung Hee University Grand Peace Hall, organized and hosted by P NATION.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-vurt-guchuk-recursion-2026",
+        "title": "GUCHUK present: Recursion",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 76,
+        "venueName": "Vurt",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://ra.co/events/2347433",
+        "ticketUrl": null,
+        "summary": "Guchuk Records brought Recursion to Vurt with Joshüa, Einox live, SIJIN, and Philipp Kim, with Resident Advisor flagging the event as an RA Pick.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-taeyong-ty-track-2026",
+        "title": "2026 TAEYONG CONCERT 〈TY TRACK - REMASTERED〉",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-25",
+        "importance": 86,
+        "venueName": "Ticketlink Live Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5050&mid=a20301010300",
+        "ticketUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5050&mid=a20301010300",
+        "summary": "Taeyong’s SM Entertainment-backed 〈TY TRACK - REMASTERED〉 concert was scheduled for January 24 and 25, 2026 at Ticketlink Live Arena in Olympic Park.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-men-i-trust-kbs-arena-2026",
+        "title": "Men I Trust Seoul Concert",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 82,
+        "venueName": "KBS Arena",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/25001317/products/25014700",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/25001317/products/25014700",
+        "summary": "NOL World listed Men I Trust’s Seoul concert for January 24, 2026 at KBS Arena, with standing and reserved-seat tickets available.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-faust-long-take-2026",
+        "title": "Long Take",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 77,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2338707",
+        "ticketUrl": null,
+        "summary": "Faust’s Long Take night featured Kim Bo Yeon, Stann Lumo, Suman, and theia, with the concept centered on extended storytelling sets.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-sigala-live-2026",
+        "title": "Sigala Live in Seoul",
+        "type": "concert",
+        "startDate": "2026-01-25",
+        "endDate": "2026-01-25",
+        "importance": 80,
+        "venueName": "YES24 Wanderloch Hall",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2346438",
+        "ticketUrl": "https://ra.co/events/2346438",
+        "summary": "Sigala’s Seoul DJ live was confirmed for January 25, 2026 at YES24 Wanderloch Hall, with R.TEE, Juncoco, and Jeonghyeon listed as support.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-monsta-x-nexus-2026",
+        "title": "2026 MONSTA X WORLD TOUR [THE X : NEXUS]",
+        "type": "concert",
+        "startDate": "2026-01-30",
+        "endDate": "2026-02-01",
+        "importance": 89,
+        "venueName": "KSPO Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5052&mid=a20301010300",
+        "ticketUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5052&mid=a20301010300",
+        "summary": "MONSTA X launched [THE X : NEXUS] with three KSPO Dome shows from January 30 to February 1, 2026, with the venue calendar listing Friday, Saturday, and Sunday performance times.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-le-sserafim-easy-crazy-hot-2026",
+        "title": "LE SSERAFIM TOUR ‘EASY CRAZY HOT’ ENCORE IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 91,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/ticket/genre/CONCERT/products/25016712?placeCode=25001570",
+        "ticketUrl": "https://world.nol.com/ticket/genre/CONCERT/products/25016712?placeCode=25001570",
+        "summary": "LE SSERAFIM’s ‘EASY CRAZY HOT’ Seoul encore was ticketed through NOL World for January 31 to February 1, 2026 at Jamsil Indoor Stadium.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-onew-percent-encore-2026",
+        "title": "2025-26 ONEW WORLD TOUR [ONEW THE LIVE : PERCENT (%)] ENCORE",
+        "type": "concert",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 86,
+        "venueName": "Ticketlink Live Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5053&mid=a20301010200",
+        "ticketUrl": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoView.es?evtSeq=5053&mid=a20301010200",
+        "summary": "Onew’s [ONEW THE LIVE : PERCENT (%)] encore was scheduled for January 31 and February 1, 2026 at Ticketlink Live Arena in Olympic Park.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-vurt-hvl-2026",
+        "title": "vurtnight: HVL (Bassiani / Tbilisi)",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 82,
+        "venueName": "Vurt",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://ra.co/events/2336803",
+        "ticketUrl": null,
+        "summary": "Vurt hosted HVL of Bassiani/Tbilisi on January 31, 2026, supported by resident DJs ANSOL and SUNA for a techno-focused vurtnight.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      }
+    ]
+  }
+}

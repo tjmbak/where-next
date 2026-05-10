@@ -1,0 +1,198 @@
+{
+  "slug": "seoul",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:40:23.819Z",
+  "responseId": "resp_09b2aaedfda82d57006a0098729dd081959a93454fb3099f0d",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 was unusually stacked around Seoul, with major K-pop arena/stadium runs, spring outdoor band festivals, and underground techno nights clustered across the same weekends.",
+    "events": [
+      {
+        "id": "seoul-super-show-10-apr-2026",
+        "title": "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in SEOUL",
+        "type": "concert",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-05",
+        "importance": 90,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/superjunior/notice/33314",
+        "ticketUrl": "https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=212702",
+        "summary": "SUPER JUNIOR brought the 20th-anniversary SUPER SHOW 10 run to KSPO DOME for three Seoul performances on April 3, 4, and 5. The Weverse notice confirms the dates, venue, ticket vendor, and ticket tiers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-faust-double-trouble-2026",
+        "title": "DOUBLE TROUBLE with Pink Concrete, Ksenia Kamikaza",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 68,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2409563",
+        "ticketUrl": "https://ra.co/events/2409563",
+        "summary": "Faust hosted a techno-focused DOUBLE TROUBLE night headlined by Pink Concrete and Ksenia Kamikaza. The RA listing also names Stann Lumo, TRUST, and Nocturnal across Faust and Tanz Bar rooms.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-seventeen-new-encore-2026",
+        "title": "SEVENTEEN WORLD TOUR [NEW_] ENCORE",
+        "type": "concert",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-05",
+        "importance": 94,
+        "venueName": "Incheon Asiad Main Stadium",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/seventeen/notice/33293",
+        "ticketUrl": "https://www.globalinterpark.com/",
+        "summary": "SEVENTEEN staged two encore stadium concerts just west of Seoul at Incheon Asiad Main Stadium on April 4 and 5. The official Weverse announcement lists the dates, venue, ticketing, and that the concerts were offered both in-person and online.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-bts-arirang-goyang-2026",
+        "title": "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG",
+        "type": "concert",
+        "startDate": "2026-04-09",
+        "endDate": "2026-04-12",
+        "importance": 100,
+        "venueName": "Goyang Sports Complex Main Stadium",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/bts/notice/33155",
+        "ticketUrl": "https://www.globalinterpark.com/en/product/25008141",
+        "summary": "BTS opened the ARIRANG world tour with three Goyang stadium dates on April 9, 11, and 12, close to Seoul. The official Weverse notice confirms the concert location and the three show-day soundcheck schedule.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-guchuk-recursion-2026",
+        "title": "GUCHUK Present: Recursion",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 65,
+        "venueName": "Vurt",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://ra.co/events/2408013",
+        "ticketUrl": "https://ra.co/events/2408013",
+        "summary": "GUCHUK Records brought its Recursion party to Vurt with CHAERIN, Einox live, Joshüa, and Roxy. The event description frames the night around techno, breakbeat, and IDM-adjacent electronic music.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-exo-exhorizon-2026",
+        "title": "EXO PLANET #6 - EXhOrizon in SEOUL",
+        "type": "concert",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-12",
+        "importance": 94,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/exo/notice/33570",
+        "ticketUrl": "http://ticket.melon.com/",
+        "summary": "EXO held three EXhOrizon concerts at KSPO DOME on April 10, 11, and 12. The official Weverse notice lists SUHO, CHANYEOL, D.O., KAI, and SEHUN as participating members.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-art-bei-ton-vurt-2026",
+        "title": "Art Bei Ton 8th Anniversary Night",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 72,
+        "venueName": "Vurt",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://ra.co/events/2406682",
+        "ticketUrl": "https://ra.co/events/2406682",
+        "summary": "Vurt hosted Art Bei Ton’s 8th anniversary night with Hypnotic Black Magic, Dana Nada, and Gobi. RA lists the Seoul date as April 11 and tags the event as techno.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-cakeshop-lightning-party-2026",
+        "title": "Cakeshop Guerrilla: Lightning Party",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 64,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2408457",
+        "ticketUrl": "https://ra.co/events/2408457",
+        "summary": "Cakeshop hosted a guerrilla-style Lightning Party built around short DJ slots and surprise B2B sessions. The RA lineup includes rom & BAAWLA, Moruka, xixo, Sevi, Juuno, Yenn, AEIDA, LFT, and more.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-nct-wish-our-wish-encore-2026",
+        "title": "NCT WISH 1st CONCERT TOUR ‘INTO THE WISH : Our WISH’ ENCORE IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-19",
+        "importance": 88,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/nctwish/notice/33548",
+        "ticketUrl": "https://tkglobal.melon.com/",
+        "summary": "NCT WISH played a three-night encore run at KSPO DOME on April 17, 18, and 19. The official Weverse notice confirms the Seoul encore dates, venue, and Melon Ticket Global as ticket vendor.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-awesome-music-festival-2026",
+        "title": "2026 Awesome Music Festival",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 82,
+        "venueName": "Nanji Hangang Park",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/26000197/products/26002763",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000197/products/26002763",
+        "summary": "Awesome Music Festival returned to Nanji Hangang Park for a two-day outdoor program on April 25 and 26. NOL World confirms the dates, venue, ticket categories, and all-ages festival format.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-hero-rock-festival-2026",
+        "title": "2026 Seoul Hero Rock Festival x Tree Hundred",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 80,
+        "venueName": "Oil Tank Culture Park",
+        "venueId": null,
+        "sourceUrl": "https://www.kotourlive.com/en/concerts/2026-seoul-hero-rock-festival-x-three-hundred-early-bird",
+        "ticketUrl": "https://www.kotourlive.com/en/concerts/2026-seoul-hero-rock-festival-x-three-hundred-early-bird",
+        "summary": "Seoul Hero Rock Festival x Tree Hundred took place at Oil Tank Culture Park in Mapo on April 25 and 26. The ticketing page lists the first-wave lineup including Cherry Filter, Daybreak, Crying Nut, QWER, Romantic Punch, The Solutions, Galaxy Express, Rolling Quartz, and more.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

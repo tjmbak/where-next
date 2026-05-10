@@ -1,0 +1,49 @@
+{
+  "slug": "goa",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:45:53.866Z",
+  "responseId": "resp_09a3922568dc84f6006a0099e1fc888190a78f89e643bd14f5",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 12,
+    "year": 2026,
+    "notes": "Confirmed December 2026 listings are still sparse, with the most solid music-related confirmations currently clustered around Serendipity Arts Festival and New Year’s Eve psytrance programming.",
+    "events": [
+      {
+        "id": "goa-serendipity-arts-festival-2026",
+        "title": "Serendipity Arts Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-13",
+        "endDate": "2026-12-20",
+        "importance": 82,
+        "venueName": "Multiple venues across Panjim, Goa",
+        "venueId": null,
+        "sourceUrl": "https://goanewslink.com/serendipity-arts-festival-announces-dates-for-its-11th-edition-and-a-curator-led-vision-for-2026/",
+        "ticketUrl": null,
+        "summary": "South Asia’s multidisciplinary arts festival returns to Panjim from 13–20 December 2026. The 2026 music programme is confirmed to be shaped by Aruna Sairam and Ankur Tiwari, spanning classical depth and contemporary soundscapes.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-vanaghotra-decade-ritual-2026",
+        "title": "Vanaghotra: The Decade Ritual",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 70,
+        "venueName": "D’Pedro Inn, Mandrem",
+        "venueId": null,
+        "sourceUrl": "https://idamoss.com/listing/vanaghotra-the-decade-ritual-nye-dec-31st-dpedro-goa/",
+        "ticketUrl": "https://idamoss.com/listing/vanaghotra-the-decade-ritual-nye-dec-31st-dpedro-goa/",
+        "summary": "Vanaghotra’s 10th-anniversary New Year’s Eve gathering is listed for D’Pedro Inn in Goa from 31 December 2026 to 1 January 2027. The listing describes a psychedelic, underground electronic soundscape and tribal gathering format.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

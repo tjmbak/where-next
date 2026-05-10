@@ -1,0 +1,220 @@
+{
+  "slug": "bangkok",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T14:44:52.704Z",
+  "responseId": "resp_00222ea77c637061006a00994df4dc8195ac08583d90305b24",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Bangkok was anchored by Bangkok Music City, Thai pop festival formats, arena-scale T-pop, touring indie/R&B concerts, and a strong underground electronic calendar.",
+    "events": [
+      {
+        "id": "bangkok-bangkok-music-city-2026",
+        "title": "Bangkok Music City 2026",
+        "type": "festival",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-25",
+        "importance": 92,
+        "venueName": "Charoenkrung Creative District",
+        "venueId": null,
+        "sourceUrl": "https://bangkokmusiccity.com/",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/bangkok-music-city-2026.html",
+        "summary": "Thailand’s international music showcase festival and conference returned to Charoenkrung with 86 artists across eight stages. The official site lists the dates as January 24–25, 2026.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-ma-der-land-2026",
+        "title": "มาเด้อแลนด์ 2026 (Ma Der Land 2026)",
+        "type": "festival",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-10",
+        "importance": 78,
+        "venueName": "Rangsit Phase Klong 6",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/ma-der-land-2026.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/ma-der-land-2026.html",
+        "summary": "A two-day Rangsit-area music festival blending Thai indie bands and molam performance. ThaiTicketMajor lists the event for January 9–10, 2026 at Rangsit Phase Klong 6.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-cat-radio-mue-thi-song-2026",
+        "title": "Cat Radio Presents Cat มือที่สอง",
+        "type": "festival",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 82,
+        "venueName": "MCC Hall, The Mall Lifestore Bangkapi",
+        "venueId": null,
+        "sourceUrl": "https://www.ihaveticket.com/events/Ccat-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%87",
+        "ticketUrl": "https://www.ihaveticket.com/events/Ccat-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%87",
+        "summary": "Cat Radio’s two-day artist market and concert event paired secondhand stalls with a one-stage Thai music lineup. I Have Ticket lists the dates as January 17–18, 2026 at MCC Hall, The Mall Lifestore Bangkapi.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-proxie-proxima-b-2026",
+        "title": "PEPSI Presents PROXIE The 3rd Concert ‘PROXIMA-B’",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 84,
+        "venueName": "Impact Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://www.thailandexhibition.com/en/thai-event-details/proxie-the-3rd-concert-proxima-b/23914",
+        "ticketUrl": null,
+        "summary": "Thai pop group PROXIE staged its third major concert, ‘PROXIMA-B,’ at Impact Arena. Thailand Exhibition lists the show for Saturday, January 24, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-wolf-alice-2026",
+        "title": "Wolf Alice | Bangkok 2026",
+        "type": "concert",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-11",
+        "importance": 80,
+        "venueName": "Ambience Space Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://megatix.asia/events/wolf-alice-bangkok-2026%C2%A0",
+        "ticketUrl": "https://megatix.asia/events/wolf-alice-bangkok-2026%C2%A0",
+        "summary": "British alternative-rock band Wolf Alice played the Bangkok stop of its Asia run at Ambience Space. Megatix lists the concert for Sunday, January 11, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-colde-blueprint-tour-2026",
+        "title": "Colde ‘BLUEPRINT+’ Tour | Asia and Oceania 2026 - Bangkok",
+        "type": "concert",
+        "startDate": "2026-01-20",
+        "endDate": "2026-01-20",
+        "importance": 76,
+        "venueName": "Melt Livehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107675825?app_id=szm_feed&came_from=283",
+        "ticketUrl": null,
+        "summary": "Korean R&B singer-songwriter Colde brought the BLUEPRINT+ Tour to Bangkok with guest artists Khakii and SKOPE. Bandsintown lists the show at Melt Livehouse on January 20, 2026.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-wisp-live-2026",
+        "title": "Wisp Live in Bangkok 2026",
+        "type": "concert",
+        "startDate": "2026-01-27",
+        "endDate": "2026-01-27",
+        "importance": 73,
+        "venueName": "Mr. FOX Live House",
+        "venueId": null,
+        "sourceUrl": "https://www.bandwagon.asia/articles/wisp-brings-if-not-winter-tour-to-bangkok-singapore-kuala-lumpur-jakarta-more",
+        "ticketUrl": "https://www.skeshmm.com/",
+        "summary": "Wisp brought her ‘If Not Winter’ Southeast Asia tour to Bangkok at Mr. FOX Live House. Bandwagon’s tour listing confirms the Bangkok date as January 27, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-mustache-alle-farben-2026",
+        "title": "Mustache presents Alle Farben [Berlin]",
+        "type": "club-night",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 78,
+        "venueName": "Mustache Bangkok",
+        "venueId": "mustache-bangkok",
+        "sourceUrl": "https://ra.co/events/2341056",
+        "ticketUrl": "https://ra.co/events/2341056",
+        "summary": "Berlin DJ and producer Alle Farben headlined Mustache Bangkok with support from Jules Blons. Resident Advisor lists the event for Saturday, January 10, 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-fvture-kolsch-goodboys-2026",
+        "title": "FVTURE: Kölsch, Goodboys",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 80,
+        "venueName": "FVTURE Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/fvture-kolsch-goodboys",
+        "ticketUrl": "https://megatix.in.th/events/fvture-kolsch-goodboys",
+        "summary": "FVTURE Bangkok hosted a DJMAG-linked night led by Kölsch and Goodboys. Megatix lists the event for January 3, 2026 at FVTURE Bangkok.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-roger-sanchez-levels-2026",
+        "title": "Roger Sanchez at Levels Bangkok",
+        "type": "club-night",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 77,
+        "venueName": "Levels Club",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/roger-sanchez-at-levels-bangkok-thursday-29-january-2026",
+        "ticketUrl": "https://megatix.in.th/events/roger-sanchez-at-levels-bangkok-thursday-29-january-2026",
+        "summary": "House music DJ Roger Sanchez headlined Levels Bangkok. Megatix lists the show for Thursday, January 29, 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-jungle-jam-fatman-d-2026",
+        "title": "Jungle Jam BKK x BLURRED presents: 30 Years of Fatman D [Drum & Bass]",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 76,
+        "venueName": "Jungle Jam BKK",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/jungle-jam-bkk-january-2026?source=home",
+        "ticketUrl": "https://megatix.in.th/events/jungle-jam-bkk-january-2026?source=home",
+        "summary": "Jungle Jam BKK and BLURRED celebrated MC Fatman D with Nicky Blackmarket b2b Millz, Dogger, Slay, and local residents. Megatix lists the drum & bass night for Saturday, January 17, 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-jon-dasilva-siwilai-2026",
+        "title": "Jon Dasilva, CHÉ WAX, Malissa & Overmars",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 72,
+        "venueName": "Siwilai Radical Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2353468",
+        "ticketUrl": "https://ra.co/events/2353468",
+        "summary": "Original Haçienda resident Jon Dasilva played an acid house set at Siwilai Radical Club with CHÉ WAX, Malissa, and Overmars. Resident Advisor lists the event for Friday, January 23, 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}
