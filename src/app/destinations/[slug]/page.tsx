@@ -190,13 +190,22 @@ export default async function DestinationPage({ params, searchParams }: Destinat
             <Stat label="months" value={`${destination.activeMonths.length}`} suffix="active" />
           </div>
 
-          <Link
-            href="/methodology"
-            className="mt-6 inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-white/55 transition hover:text-white"
-          >
-            how scores work
-            <span aria-hidden>→</span>
-          </Link>
+          <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3">
+            <Link
+              href={`/destinations/${destination.slug}/plan`}
+              className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-medium text-[#0a0a0a] transition hover:bg-[var(--signal)] hover:text-white"
+            >
+              plan a trip
+              <span aria-hidden>→</span>
+            </Link>
+            <Link
+              href="/methodology"
+              className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-white/55 transition hover:text-white"
+            >
+              how scores work
+              <span aria-hidden>→</span>
+            </Link>
+          </div>
         </div>
 
         <div className="pointer-events-none absolute bottom-6 right-6 z-10 hidden font-mono text-[10px] uppercase tracking-[0.22em] text-white/50 md:block">
