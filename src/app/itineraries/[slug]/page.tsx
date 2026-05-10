@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BoardingPassHeader } from "@/components/itineraries/BoardingPassHeader";
+import { CollaboratorPanel } from "@/components/itineraries/CollaboratorPanel";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
 import { ShareButtons } from "@/components/sharing/ShareButtons";
 import { getDestinationBySlug } from "@/data/music-travel";
@@ -22,13 +23,36 @@ type ItineraryRow = {
   start_date: string | null;
   end_date: string | null;
   duration_days: number;
+  legs: Itinerary["legs"];
   vibe_tags: string[];
   budget_band: "low" | "medium" | "high" | "luxury";
   days: Itinerary["days"];
   visibility: "public" | "unlisted" | "private";
   created_at: string;
   generation_meta: { model?: string; generatedAt?: string } | null;
+  fork_count: number;
 };
+
+async function loadCollaborators(itineraryId: string) {
+  const service = createSupabaseServiceClient();
+  if (!service) return [];
+  const { data: rows } = await service
+    .from("itinerary_collaborators")
+    .select("user_id, role")
+    .eq("itinerary_id", itineraryId);
+  if (!rows || rows.length === 0) return [];
+  const userIds = rows.map((r) => r.user_id as string);
+  const { data: usersData } = await service.auth.admin.listUsers({ perPage: 1000 });
+  const emailById = new Map<string, string>();
+  for (const u of (usersData?.users ?? []) as Array<{ id: string; email?: string | null }>) {
+    if (u.email) emailById.set(u.id, u.email);
+  }
+  return rows.filter((r) => userIds.includes(r.user_id as string)).map((r) => ({
+    user_id: r.user_id as string,
+    role: r.role as string,
+    email: emailById.get(r.user_id as string) ?? null
+  }));
+}
 
 async function loadItinerary(slug: string): Promise<ItineraryRow | null> {
   const service = createSupabaseServiceClient();
@@ -36,7 +60,7 @@ async function loadItinerary(slug: string): Promise<ItineraryRow | null> {
   const { data } = await service
     .from("itineraries")
     .select(
-      "id, slug, owner_id, destination_slug, title, start_date, end_date, duration_days, vibe_tags, budget_band, days, visibility, created_at, generation_meta"
+      "id, slug, owner_id, destination_slug, title, start_date, end_date, duration_days, legs, vibe_tags, budget_band, days, visibility, created_at, generation_meta, fork_count"
     )
     .eq("slug", slug)
     .maybeSingle();
@@ -108,6 +132,7 @@ export default async function ItineraryPage({ params }: RouteContext) {
     startDate: itinerary.start_date,
     endDate: itinerary.end_date,
     durationDays: itinerary.duration_days as Itinerary["durationDays"],
+    legs: itinerary.legs ?? [{ destinationSlug: itinerary.destination_slug, days: itinerary.duration_days }],
     vibeTags: itinerary.vibe_tags,
     budgetBand: itinerary.budget_band,
     days: itinerary.days,
@@ -115,6 +140,7 @@ export default async function ItineraryPage({ params }: RouteContext) {
     model: itinerary.generation_meta?.model ?? "saved"
   };
 
+  const collaborators = await loadCollaborators(itinerary.id);
   const shareUrl = `${siteUrl()}/itineraries/${itinerary.slug}`;
 
   return (
@@ -160,7 +186,15 @@ export default async function ItineraryPage({ params }: RouteContext) {
           <ItineraryView itinerary={itineraryShape} destination={destination} hideSummary />
         </div>
 
-        <div className="mt-12 border-t border-[var(--border)] pt-6">
+        <div className="mt-12">
+          <CollaboratorPanel
+            itineraryId={itinerary.id}
+            isOwner={isOwner}
+            collaborators={collaborators}
+          />
+        </div>
+
+        <div className="mt-8 border-t border-[var(--border)] pt-6">
           <ShareButtons url={shareUrl} title={itinerary.title} />
         </div>
 

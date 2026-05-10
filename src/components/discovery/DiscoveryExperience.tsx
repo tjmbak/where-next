@@ -321,37 +321,54 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
           >
             methodology
           </Link>
-          <a
-            href="#waitlist"
-            className="inline-flex items-center gap-1.5 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-3 py-1.5 text-[var(--background)] transition hover:bg-transparent hover:text-[var(--foreground)]"
-          >
-            join waitlist
-            <span aria-hidden>→</span>
-          </a>
+          {isAuthenticated ? (
+            <>
+              <Link
+                href="/me/itineraries"
+                className="hidden transition hover:text-[var(--foreground)] sm:inline"
+              >
+                trips
+              </Link>
+              <Link
+                href="/settings"
+                className="hidden transition hover:text-[var(--foreground)] sm:inline"
+              >
+                settings
+              </Link>
+            </>
+          ) : (
+            <a
+              href="#waitlist"
+              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-3 py-1.5 text-[var(--background)] transition hover:bg-transparent hover:text-[var(--foreground)]"
+            >
+              join waitlist
+              <span aria-hidden>→</span>
+            </a>
+          )}
         </nav>
       </header>
 
       <section className="grid gap-8 pt-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] lg:items-center lg:gap-14 lg:pt-14">
         <div className="order-2 lg:order-1">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+          <p className="animate-fade-in font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]" style={{ animationDelay: "0.05s" }}>
             <span className="text-[var(--foreground)]">{getMonthLabel(filters.month).toLowerCase()} 2026</span>
             {"  ·  "}
             {liveCount.toString().padStart(2, "0")} cities
             {"  ·  "}
             <span className="text-[var(--signal)]">{peakCount.toString().padStart(2, "0")} peak</span>
           </p>
-          <h1 className="mt-5 text-[clamp(2.25rem,5.5vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
+          <h1 className="animate-fade-in mt-5 text-[clamp(2.25rem,5.5vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]" style={{ animationDelay: "0.18s" }}>
             Where should
             <br />
             <span className="text-[var(--muted)]">you go next</span>
             <span className="text-[var(--foreground)]">.</span>
           </h1>
-          <p className="mt-5 max-w-md text-[14px] leading-7 text-[var(--muted)]">
+          <p className="animate-fade-in mt-5 max-w-md text-[14px] leading-7 text-[var(--muted)]" style={{ animationDelay: "0.42s" }}>
             Festivals, club seasons, and cultural moments worth flying for &mdash; curated city by city, month by month.
           </p>
         </div>
 
-        <div className="relative order-1 lg:order-2">
+        <div className="animate-fade-in relative order-1 lg:order-2" style={{ animationDelay: "0.28s" }}>
           <ActivityMap
             month={filters.month}
             destinations={filteredDestinations}

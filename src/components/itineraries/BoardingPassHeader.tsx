@@ -1,4 +1,5 @@
 import { MiniMap } from "@/components/visual/MiniMap";
+import { getDestinationBySlug } from "@/data/music-travel";
 import type { Itinerary } from "@/lib/itineraries/generate";
 import type { Destination } from "@/types/content";
 
@@ -17,12 +18,21 @@ export function BoardingPassHeader({
   totalLow,
   totalHigh
 }: BoardingPassHeaderProps) {
-  const dot = {
-    lat: destination.coordinates.lat,
-    lng: destination.coordinates.lng,
-    label: destination.city,
-    size: "peak" as const
-  };
+  const legSlugs = itinerary.legs?.map((l) => l.destinationSlug) ?? [destination.slug];
+  const legDestinations = legSlugs
+    .map((slug) => getDestinationBySlug(slug))
+    .filter((d): d is Destination => Boolean(d));
+  const dots = legDestinations.map((d, i) => ({
+    lat: d.coordinates.lat,
+    lng: d.coordinates.lng,
+    label: d.city,
+    size: i === 0 ? ("peak" as const) : ("regular" as const)
+  }));
+  const isMultiCity = legDestinations.length > 1;
+  const routeLabel = isMultiCity
+    ? legDestinations.map((d) => d.city).join(" → ")
+    : `${destination.city}, ${destination.country}`;
+
   const dateLabel =
     itinerary.startDate && itinerary.endDate
       ? `${formatDate(itinerary.startDate)} → ${formatDate(itinerary.endDate)}`
@@ -51,22 +61,30 @@ export function BoardingPassHeader({
 
       <div className="relative mt-6 grid gap-7 sm:grid-cols-[auto_1fr] sm:gap-8">
         <div className="flex flex-col items-center sm:items-start">
-          <MiniMap dots={[dot]} size={104} />
+          <MiniMap dots={dots} size={isMultiCity ? 120 : 104} connect={isMultiCity} />
           <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            {destination.region.toLowerCase()}
+            {isMultiCity ? `${legDestinations.length} cities` : destination.region.toLowerCase()}
           </p>
         </div>
 
         <div className="flex flex-col gap-4">
           <div>
             <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              destination
+              {isMultiCity ? "circuit" : "destination"}
             </p>
-            <h1 className="mt-1 text-[clamp(2rem,5.5vw,3.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
-              {destination.city}
-            </h1>
+            {isMultiCity ? (
+              <h1 className="mt-1 text-[clamp(1.6rem,4vw,2.6rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
+                {routeLabel}
+              </h1>
+            ) : (
+              <h1 className="mt-1 text-[clamp(2rem,5.5vw,3.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
+                {destination.city}
+              </h1>
+            )}
             <p className="mt-1 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              {destination.country}
+              {isMultiCity
+                ? legDestinations.map((d) => d.country).join(" · ")
+                : destination.country}
             </p>
           </div>
 

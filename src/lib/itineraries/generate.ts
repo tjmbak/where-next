@@ -11,12 +11,13 @@ import type { Budget, Destination, Event, MonthNumber, Venue } from "@/types/con
 // Types
 // ---------------------------------------------------------------------------
 
-export const ITINERARY_DURATIONS = [3, 4, 5, 7] as const;
+export const ITINERARY_DURATIONS = [3, 4, 5, 7, 10, 14] as const;
 export type ItineraryDuration = (typeof ITINERARY_DURATIONS)[number];
 
 export type ItineraryDay = {
   day: number;
   dateISO: string | null;
+  legSlug?: string;
   anchorKind: "event" | "venue" | "free";
   anchorId: string | null;
   anchorTitle: string;
@@ -28,12 +29,20 @@ export type ItineraryDay = {
   costBandUsd: { low: number; high: number };
 };
 
+export type ItineraryLeg = {
+  destinationSlug: string;
+  days: number;
+};
+
 export type Itinerary = {
+  // Primary destination — for single-city, the only leg. For multi-city, the
+  // first leg (used for SEO canonical and OG image).
   destinationSlug: string;
   title: string;
   startDate: string | null;
   endDate: string | null;
   durationDays: ItineraryDuration;
+  legs: ItineraryLeg[];
   vibeTags: string[];
   budgetBand: Budget;
   days: ItineraryDay[];
@@ -45,71 +54,118 @@ export type Itinerary = {
 // Input validation
 // ---------------------------------------------------------------------------
 
-export const generateItinerarySchema = z.object({
+const legSchema = z.object({
   destinationSlug: z.string().trim().min(1).max(80),
-  durationDays: z.union([z.literal(3), z.literal(4), z.literal(5), z.literal(7)]),
-  startDate: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
-  vibeTags: z.array(z.string().trim().max(40)).max(6).optional(),
-  budgetBand: z.enum(["low", "medium", "high", "luxury"]).optional()
+  days: z.number().int().min(1).max(14)
 });
 
+export const generateItinerarySchema = z
+  .object({
+    // Single-city shorthand. Either this OR `legs[]` must be present.
+    destinationSlug: z.string().trim().min(1).max(80).optional(),
+    durationDays: z.union([z.literal(3), z.literal(4), z.literal(5), z.literal(7), z.literal(10), z.literal(14)]).optional(),
+    legs: z.array(legSchema).min(1).max(4).optional(),
+    startDate: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
+    vibeTags: z.array(z.string().trim().max(40)).max(6).optional(),
+    budgetBand: z.enum(["low", "medium", "high", "luxury"]).optional()
+  })
+  .refine(
+    (v) => Boolean(v.legs?.length) || Boolean(v.destinationSlug && v.durationDays),
+    { message: "Provide either legs[] or (destinationSlug + durationDays)" }
+  );
+
 export type GenerateItineraryInput = z.infer<typeof generateItinerarySchema>;
+
+function normalizeLegs(input: GenerateItineraryInput): ItineraryLeg[] {
+  if (input.legs?.length) return input.legs;
+  if (!input.destinationSlug || !input.durationDays) {
+    throw new Error("invalid input: missing legs or single-city shorthand");
+  }
+  return [{ destinationSlug: input.destinationSlug, days: input.durationDays }];
+}
 
 // ---------------------------------------------------------------------------
 // Main entry point
 // ---------------------------------------------------------------------------
 
 export async function generateItinerary(input: GenerateItineraryInput): Promise<Itinerary> {
-  const destination = getDestinationBySlug(input.destinationSlug);
-  if (!destination) {
-    throw new Error(`unknown destination: ${input.destinationSlug}`);
-  }
+  const legs = normalizeLegs(input);
+  const totalDays = legs.reduce((sum, l) => sum + l.days, 0);
+  const durationDays = (ITINERARY_DURATIONS as readonly number[]).includes(totalDays)
+    ? (totalDays as ItineraryDuration)
+    : (Math.min(14, Math.max(3, totalDays)) as ItineraryDuration);
 
-  const startDate = input.startDate ? new Date(input.startDate) : pickDefaultStartDate(destination);
-  const dates = expandDates(startDate, input.durationDays);
+  // Resolve destinations + sanity-check
+  const destinations = legs.map((leg) => {
+    const d = getDestinationBySlug(leg.destinationSlug);
+    if (!d) throw new Error(`unknown destination: ${leg.destinationSlug}`);
+    return d;
+  });
+  const primary = destinations[0];
 
-  const months = uniqueMonths(dates);
-  const events = collectRelevantEvents(destination.slug, months);
-  const venues = getVenuesForDestination(destination.slug);
+  const startDate = input.startDate ? new Date(input.startDate) : pickDefaultStartDate(primary);
+  const allDates = expandDates(startDate, totalDays);
 
-  const budgetBand = input.budgetBand ?? destination.budget;
-  const vibeTags = input.vibeTags?.length ? input.vibeTags : destination.vibes.slice(0, 2);
+  const budgetBand = input.budgetBand ?? primary.budget;
+  const vibeTags = input.vibeTags?.length ? input.vibeTags : primary.vibes.slice(0, 2);
 
   const apiKey = process.env.OPENAI_API_KEY;
-  let days: ItineraryDay[];
-  let model: string;
 
-  if (apiKey) {
-    const result = await callOpenAI({
-      apiKey,
-      destination,
-      dates,
-      events,
-      venues,
-      vibeTags,
-      budgetBand,
-      durationDays: input.durationDays
-    });
-    days = result.days;
-    model = result.model;
-  } else {
-    days = fallbackHeuristicPlan({ destination, dates, events, venues });
-    model = "heuristic-fallback";
+  // Walk through legs sequentially, generating per-leg days, then concatenate.
+  const allDays: ItineraryDay[] = [];
+  let cursorDay = 0;
+  let modelUsed = "heuristic-fallback";
+
+  for (let li = 0; li < legs.length; li++) {
+    const leg = legs[li];
+    const destination = destinations[li];
+    const legDates = allDates.slice(cursorDay, cursorDay + leg.days);
+    const months = uniqueMonths(legDates);
+    const events = collectRelevantEvents(destination.slug, months);
+    const venues = getVenuesForDestination(destination.slug);
+
+    let legDays: ItineraryDay[];
+    if (apiKey) {
+      try {
+        const result = await callOpenAI({
+          apiKey,
+          destination,
+          dates: legDates,
+          events,
+          venues,
+          vibeTags,
+          budgetBand,
+          durationDays: leg.days,
+          dayOffset: cursorDay,
+          legContext: legs.length > 1 ? { index: li, total: legs.length } : null
+        });
+        legDays = result.days;
+        modelUsed = result.model;
+      } catch (err) {
+        console.warn(`[itinerary] OpenAI failed for leg ${li}, using fallback:`, err);
+        legDays = fallbackHeuristicPlan({ destination, dates: legDates, events, venues, dayOffset: cursorDay });
+      }
+    } else {
+      legDays = fallbackHeuristicPlan({ destination, dates: legDates, events, venues, dayOffset: cursorDay });
+    }
+
+    const validated = legDays.map((d) => ({ ...normalizeDay(d, destination, events, venues), legSlug: leg.destinationSlug }));
+    allDays.push(...validated);
+    cursorDay += leg.days;
   }
 
-  const validated = days.map((d) => normalizeDay(d, destination, events, venues));
-
   return {
-    destinationSlug: destination.slug,
-    title: defaultTitle(destination, vibeTags, input.durationDays),
-    startDate: dates[0]?.toISOString().slice(0, 10) ?? null,
-    endDate: dates[dates.length - 1]?.toISOString().slice(0, 10) ?? null,
-    durationDays: input.durationDays,
+    destinationSlug: primary.slug,
+    title: defaultMultiCityTitle(destinations, vibeTags, totalDays),
+    startDate: allDates[0]?.toISOString().slice(0, 10) ?? null,
+    endDate: allDates[allDates.length - 1]?.toISOString().slice(0, 10) ?? null,
+    durationDays,
+    legs,
     vibeTags,
     budgetBand,
-    days: validated,
+    days: allDays,
     generatedAt: new Date().toISOString(),
-    model
+    model: modelUsed
   };
 }
 
@@ -117,9 +173,13 @@ export async function generateItinerary(input: GenerateItineraryInput): Promise<
 // Internal helpers
 // ---------------------------------------------------------------------------
 
-function defaultTitle(d: Destination, vibe: string[], days: number) {
+function defaultMultiCityTitle(destinations: Destination[], vibe: string[], days: number) {
   const tag = vibe[0] ? `${vibe[0].replace("-", " ")} ` : "";
-  return `${days}-day ${tag}trip · ${d.city}`.trim();
+  if (destinations.length === 1) {
+    return `${days}-day ${tag}trip · ${destinations[0].city}`.trim();
+  }
+  const route = destinations.map((d) => d.city).join(" → ");
+  return `${days}-day ${tag}circuit · ${route}`.trim();
 }
 
 function pickDefaultStartDate(destination: Destination): Date {
@@ -215,6 +275,10 @@ type OpenAICallArgs = {
   vibeTags: string[];
   budgetBand: Budget;
   durationDays: number;
+  // Day numbering offset for this leg in the larger trip (0 for single-city)
+  dayOffset?: number;
+  // Multi-city leg context for the LLM prompt
+  legContext?: { index: number; total: number } | null;
 };
 
 async function callOpenAI(args: OpenAICallArgs): Promise<{ days: ItineraryDay[]; model: string }> {
@@ -257,10 +321,13 @@ async function callOpenAI(args: OpenAICallArgs): Promise<{ days: ItineraryDay[];
 }
 
 function buildUserPrompt(args: OpenAICallArgs): string {
-  const { destination, dates, events, venues, vibeTags, budgetBand, durationDays } = args;
+  const { destination, dates, events, venues, vibeTags, budgetBand, durationDays, dayOffset = 0, legContext } = args;
+  const legHeader = legContext
+    ? `Leg ${legContext.index + 1} of ${legContext.total} — ${destination.city}, ${destination.country}`
+    : `${destination.city}, ${destination.country} (${destination.region})`;
   const dayLines = dates.map((d, i) => {
     const dow = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][d.getUTCDay()];
-    return `  Day ${i + 1} — ${dow} ${d.toISOString().slice(0, 10)}`;
+    return `  Day ${dayOffset + i + 1} — ${dow} ${d.toISOString().slice(0, 10)}`;
   });
 
   const eventLines = events.slice(0, 18).map((e) => {
@@ -275,7 +342,7 @@ function buildUserPrompt(args: OpenAICallArgs): string {
   );
 
   return [
-    `Destination: ${destination.city}, ${destination.country} (${destination.region})`,
+    legHeader,
     `Tagline: ${destination.tagline}`,
     `Summary: ${destination.summary}`,
     `Budget band: ${budgetBand} (per-person daily spend $${destination.averageDailySpendUsd.low}-$${destination.averageDailySpendUsd.high})`,
@@ -321,8 +388,9 @@ function fallbackHeuristicPlan(args: {
   dates: Date[];
   events: Event[];
   venues: Venue[];
+  dayOffset?: number;
 }): ItineraryDay[] {
-  const { destination, dates, events, venues } = args;
+  const { destination, dates, events, venues, dayOffset = 0 } = args;
   const used = new Set<string>();
   return dates.map((d, i) => {
     let anchor: { kind: "event" | "venue"; id: string; title: string; why: string } | null = null;
@@ -348,7 +416,7 @@ function fallbackHeuristicPlan(args: {
       }
     }
     return {
-      day: i + 1,
+      day: dayOffset + i + 1,
       dateISO: d.toISOString().slice(0, 10),
       anchorKind: anchor ? anchor.kind : "free",
       anchorId: anchor?.id ?? null,

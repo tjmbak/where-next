@@ -1,4 +1,6 @@
+import { Fragment } from "react";
 import {
+  getDestinationBySlug,
   getEventsForDestination,
   getVenuesForDestination
 } from "@/data/music-travel";
@@ -6,7 +8,7 @@ import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink"
 import { StayAndTravel } from "@/components/destinations/StayAndTravel";
 import { ItineraryDayEditor } from "@/components/itineraries/ItineraryDayEditor";
 import type { Itinerary, ItineraryDay } from "@/lib/itineraries/generate";
-import type { Destination } from "@/types/content";
+import type { Destination, Event, Venue } from "@/types/content";
 
 type ItineraryViewProps = {
   itinerary: Itinerary;
@@ -21,10 +23,25 @@ type ItineraryViewProps = {
 const DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
 export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }: ItineraryViewProps) {
-  const events = getEventsForDestination(destination.slug);
-  const venues = getVenuesForDestination(destination.slug);
-  const eventById = new Map(events.map((e) => [e.id, e]));
-  const venueById = new Map(venues.map((v) => [v.id, v]));
+  // Build per-leg event/venue lookup so multi-city days find their anchors.
+  const legSlugs = itinerary.legs?.map((l) => l.destinationSlug) ?? [destination.slug];
+  const eventById = new Map<string, Event>();
+  const venueById = new Map<string, Venue>();
+  const destinationBySlug = new Map<string, Destination>();
+  for (const slug of legSlugs) {
+    const d = getDestinationBySlug(slug);
+    if (d) destinationBySlug.set(slug, d);
+    for (const e of getEventsForDestination(slug)) eventById.set(e.id, e);
+    for (const v of getVenuesForDestination(slug)) venueById.set(v.id, v);
+  }
+  // Fallback legacy: if legs not present, single destination
+  if (!destinationBySlug.has(destination.slug)) {
+    destinationBySlug.set(destination.slug, destination);
+    for (const e of getEventsForDestination(destination.slug)) eventById.set(e.id, e);
+    for (const v of getVenuesForDestination(destination.slug)) venueById.set(v.id, v);
+  }
+
+  const isMultiCity = (itinerary.legs?.length ?? 1) > 1;
 
   const totalLow = itinerary.days.reduce((sum, d) => sum + d.costBandUsd.low, 0);
   const totalHigh = itinerary.days.reduce((sum, d) => sum + d.costBandUsd.high, 0);
@@ -66,16 +83,35 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
       )}
 
       <ol className={`${hideSummary ? "mt-12" : "mt-10"} space-y-10`}>
-        {itinerary.days.map((day) => {
+        {itinerary.days.map((day, index) => {
           const event = day.anchorKind === "event" && day.anchorId ? eventById.get(day.anchorId) : null;
           const venue = day.anchorKind === "venue" && day.anchorId ? venueById.get(day.anchorId) : null;
+          const dayDestination = day.legSlug ? destinationBySlug.get(day.legSlug) ?? destination : destination;
+          const prevDay = index > 0 ? itinerary.days[index - 1] : null;
+          const showLegHeader = isMultiCity && (!prevDay || prevDay.legSlug !== day.legSlug);
           const dateLabel = day.dateISO
             ? `${DOW[new Date(day.dateISO + "T12:00:00Z").getUTCDay()]} ${day.dateISO}`
             : `Day ${day.day}`;
 
           return (
+            <Fragment key={day.day}>
+            {showLegHeader ? (
+              <li
+                className="wn-itinerary-day relative pt-2"
+                style={{ animationDelay: `${(day.day - 1) * 0.12}s` }}
+              >
+                <div className="flex items-center gap-3 border-t border-dashed border-[var(--border-strong)] pt-5">
+                  <span className="font-mono text-[10px] uppercase tracking-[0.32em] text-[var(--muted)]">
+                    {index === 0 ? "starts in" : "next stop"}
+                  </span>
+                  <span className="h-px flex-1 bg-[var(--border)]" />
+                  <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+                    {dayDestination.city}
+                  </span>
+                </div>
+              </li>
+            ) : null}
             <li
-              key={day.day}
               className="wn-itinerary-day grid gap-4 border-l border-[var(--border)] pl-5 sm:grid-cols-[120px_1fr] sm:gap-6 sm:pl-0 sm:border-l-0"
               style={{ animationDelay: `${(day.day - 1) * 0.12}s` }}
             >
@@ -142,7 +178,7 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
 
                 {onSwapDay ? (
                   <ItineraryDayEditor
-                    destination={destination}
+                    destination={dayDestination}
                     day={day}
                     excludeAnchorIds={allAnchorIds}
                     onSwap={(patch) => onSwapDay(day.day, patch)}
@@ -150,6 +186,7 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
                 ) : null}
               </div>
             </li>
+            </Fragment>
           );
         })}
       </ol>
