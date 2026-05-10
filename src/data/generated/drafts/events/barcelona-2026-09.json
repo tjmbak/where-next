@@ -1,0 +1,220 @@
+{
+  "slug": "barcelona",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:50:11.368Z",
+  "responseId": "resp_00d619fcb3fb30010069ff573d12f081a09d78d33f5ff16aeb",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is already anchored by a stadium pop date, Festival•B at Parc del Fòrum, and a run of Razzmatazz/La Terrrazza club and concert bookings, with some civic festival programming still likely to be announced later.",
+    "events": [
+      {
+        "id": "barcelona-the-weeknd-2026",
+        "title": "The Weeknd: After Hours til Dawn Tour",
+        "type": "concert",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 95,
+        "venueName": "Estadi Olímpic Lluís Companys",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.es/noticias/the-weeknd-bcn",
+        "ticketUrl": "https://www.livenation.es/event/the-weeknd-after-hours-til-dawn-tour-barcelona-tickets-edp1624452",
+        "summary": "The Weeknd brings the After Hours til Dawn Tour to Barcelona’s Estadi Olímpic Lluís Companys on 1 September 2026. The Barcelona date is listed by promoter Live Nation Spain.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "barcelona-festival-b-2026",
+        "title": "Festival•B 2026",
+        "type": "festival",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-19",
+        "importance": 88,
+        "venueName": "Parc del Fòrum",
+        "venueId": null,
+        "sourceUrl": "https://fstvlb.com/es/",
+        "ticketUrl": "https://fstvlb.com/tickets/",
+        "summary": "Festival•B returns to Parc del Fòrum from 17–19 September 2026 with confirmed artists including Rusowsky, Yung Beef, La Plazuela, Mushka, Akriila, Maria Arnal and C Marí. The festival focuses on emerging alternative, urban and electronic scenes.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-jackies-open-air-2026",
+        "title": "Jackies Open Air Daytime w/ Very Special Guest",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 78,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392549",
+        "ticketUrl": "https://ra.co/events/2392549",
+        "summary": "Barcelona house label and party brand Jackies hosts an open-air daytime session at La Terrrazza on 5 September 2026. The lineup is listed as a special guest TBA playing open-to-close.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-output-apollonia-sonja-moonear-2026",
+        "title": "Output pres. Apollonia + Sonja Moonear",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 82,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2401260",
+        "ticketUrl": "https://ra.co/events/2401260",
+        "summary": "Output Barcelona, Les Enfants Brillants and Seaseaclub present Apollonia and Sonja Moonear at Seaseaclub Barcelona on 5 September 2026. RA lists the event as running from Saturday afternoon into Sunday evening, with additional artists TBC.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-living-tombstone-2026",
+        "title": "The Living Tombstone: The Multiplayer Tour",
+        "type": "concert",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-07",
+        "importance": 78,
+        "venueName": "Razzmatazz 1",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/07-09-2026-the-living-tombstone/",
+        "ticketUrl": "https://www.livenation.es/event/the-living-tombstone-the-multiplayer-tour-barcelona-tickets-edp1656376",
+        "summary": "Electronic-rock duo The Living Tombstone play Razzmatazz 1 on 7 September 2026 as part of The Multiplayer Tour. The venue lists the show with an 8:30 PM start and tickets via Live Nation/Ticketmaster.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-sina-bathaie-2026",
+        "title": "Sina Bathaie: White Lotus World Tour",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 70,
+        "venueName": "Luz de Gas",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2359241",
+        "ticketUrl": "https://ra.co/events/2359241",
+        "summary": "Multi-instrumentalist and producer Sina Bathaie brings the White Lotus World Tour to Luz de Gas on 10 September 2026. RA lists the show with deep-house and downtempo tags.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-ciro-y-los-persas-2026",
+        "title": "Ciro y Los Persas",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 76,
+        "venueName": "Razzmatazz 1",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/18-09-2026-ciro-y-los-persas/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/18-09-2026-ciro-y-los-persas/",
+        "summary": "Argentine rock act Ciro y Los Persas play Razzmatazz 1 on 18 September 2026. The venue lists the Barcelona show in the context of the band’s return to Spanish stages in September 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-throwback-anniversary-2026",
+        "title": "Throwback - 8th Anniversary at La Terrrazza",
+        "type": "club-night",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 72,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420229",
+        "ticketUrl": "https://ra.co/events/2420229",
+        "summary": "Throwback Barcelona celebrates its 8th anniversary at La Terrrazza on 18 September 2026 with an open-air party focused on 80s, 90s and 00s classics. RA lists Mr Majestyk plus TBA on the lineup.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-tylas-dogs-damour-2026",
+        "title": "Tyla's Dogs D'Amour: Celebrating 40 Years of Rains & 65 Years of Disgrace",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 70,
+        "venueName": "Razzmatazz 3",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/12-09-2026-tylas-dogs-damour/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/12-09-2026-tylas-dogs-damour/",
+        "summary": "Tyla’s Dogs D’Amour play Razzmatazz 3 on 12 September 2026 as part of a September tour. The venue bills the show around Tyla’s rock’n’roll catalogue and 40 years of Rains & Disgrace.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-transvision-vamp-2026",
+        "title": "Transvision Vamp - Spain 2026",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 72,
+        "venueName": "Razzmatazz 2",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/2026-09-25-transvision-vamp-spain-2026/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/2026-09-25-transvision-vamp-spain-2026/",
+        "summary": "British band Transvision Vamp play Razzmatazz 2 on 25 September 2026. The venue describes the show as a return to the stage featuring the band’s best-known hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-the-damned-2026",
+        "title": "The Damned",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 80,
+        "venueName": "Razzmatazz 2",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/26-09-2026-the-damned/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/26-09-2026-the-damned/",
+        "summary": "UK punk pioneers The Damned play Razzmatazz 2 on 26 September 2026 as part of a Spain run marking 50 years of the band. The venue notes a set spanning their punk and gothic-rock eras.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-fat-freddys-drop-2026",
+        "title": "Fat Freddy's Drop: 21st Anniversary of Based On A True Story",
+        "type": "concert",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 82,
+        "venueName": "Razzmatazz 1",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/27-09-2026-fat-freddys-drop/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/27-09-2026-fat-freddys-drop/",
+        "summary": "New Zealand band Fat Freddy’s Drop play Razzmatazz 1 on 27 September 2026, celebrating the 21st anniversary of Based On A True Story. The venue highlights the group’s blend of reggae, soul, dub, jazz-funk and electronic influences.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

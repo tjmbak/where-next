@@ -1,0 +1,222 @@
+{
+  "slug": "london",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:00:21.068Z",
+  "responseId": "resp_095b81ffa5fc264b0069ff597eb48081a09ce57cb5f5de7898",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually dense for London, with stadium-scale pop and metal, major park shows, and a strong electronic-festival run across Silverworks Island, Alexandra Palace and Boston Manor Park.",
+    "events": [
+      {
+        "id": "london-harry-styles-wembley-jul-2026",
+        "title": "Harry Styles: Together, Together",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 96,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2026/Harry-Styles",
+        "ticketUrl": "https://www.wembleystadium.com/events/2026/Harry-Styles",
+        "summary": "Harry Styles brings his Together, Together residency to Wembley Stadium, with Shania Twain listed as special guest for the London run. The 4 July date is one of the confirmed July Wembley shows.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-metallica-london-stadium-2026",
+        "title": "Metallica: M72 World Tour",
+        "type": "concert",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-03",
+        "importance": 95,
+        "venueName": "London Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.queenelizabetholympicpark.co.uk/whats-on/metallica-london-stadium",
+        "ticketUrl": "https://www.queenelizabetholympicpark.co.uk/whats-on/metallica-london-stadium",
+        "summary": "Metallica play London Stadium as part of their M72 World Tour, with two London dates confirmed on 3 and 5 July 2026. The source notes the two-night format with no repeated songs across the shows.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-biffy-clyro-finsbury-2026",
+        "title": "Biffy Clyro at Finsbury Park",
+        "type": "concert",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-03",
+        "importance": 82,
+        "venueName": "Finsbury Park",
+        "venueId": null,
+        "sourceUrl": "https://festivalrepublic.com/events/biffy-clyro/",
+        "ticketUrl": "https://festivalrepublic.com/events/biffy-clyro/",
+        "summary": "Biffy Clyro headline Finsbury Park with Nothing But Thieves, Don Broco, Marmozets and Wavves also listed on the bill. Festival Republic lists the show for Friday 3 July 2026.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-kasabian-finsbury-2026",
+        "title": "Kasabian at Finsbury Park",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 82,
+        "venueName": "Finsbury Park",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalrepublic.com/events/finsbury-park/kasabian",
+        "ticketUrl": "https://www.festivalrepublic.com/events/finsbury-park/kasabian",
+        "summary": "Kasabian headline what Festival Republic bills as their biggest ever London headline show at Finsbury Park. Support is confirmed from Louis Dunford, Razorlight, The K’s, Miles Kane and SOFY.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-wolf-alice-finsbury-2026",
+        "title": "Wolf Alice at Finsbury Park",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 84,
+        "venueName": "Finsbury Park",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalrepublic.com/events/finsbury-park/wolf-alice",
+        "ticketUrl": "https://www.festivalrepublic.com/events/finsbury-park/wolf-alice",
+        "summary": "Wolf Alice play a major homecoming show at Finsbury Park, described by Festival Republic as their biggest show to date. The bill includes The Last Dinner Party, Lykke Li, Rachel Chinouriri, Keo and Florence Road.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-above-beyond-silverworks-2026",
+        "title": "Above & Beyond: Bigger Than All Of Us",
+        "type": "club-night",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-03",
+        "importance": 80,
+        "venueName": "Silverworks Island",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2314112",
+        "ticketUrl": "https://ra.co/events/2314112",
+        "summary": "Above & Beyond bring their Bigger Than All Of Us production to Silverworks Island for a Friday open-air electronic show. Resident Advisor lists Yotto among the announced support.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-wah-in-the-city-2026",
+        "title": "WAH In The City",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 83,
+        "venueName": "Silverworks Island",
+        "venueId": null,
+        "sourceUrl": "https://wah.london/",
+        "ticketUrl": "https://wah.london/",
+        "summary": "WAH In The City returns to Silverworks Island as a major drum & bass open-air festival. The confirmed lineup includes Pendulum live, Andy C: Alive, Bou feat. Eksman, Kanine and K Motionz.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-kaleidoscope-alexandra-palace-2026",
+        "title": "Kaleidoscope Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 84,
+        "venueName": "Alexandra Palace Park",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival/",
+        "summary": "Kaleidoscope Festival returns to Alexandra Palace Park for a one-day programme headlined by Rudimental. The music bill also includes Groove Armada DJ set, MJ Cole live, Black Grape, Roni Size and The Amy Winehouse Band.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-bst-duran-duran-2026",
+        "title": "BST Hyde Park: Duran Duran",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 93,
+        "venueName": "Hyde Park",
+        "venueId": null,
+        "sourceUrl": "https://www.royalparks.org.uk/whats-on/bst-hyde-park-2026",
+        "ticketUrl": "https://www.royalparks.org.uk/whats-on/bst-hyde-park-2026",
+        "summary": "BST Hyde Park’s July run includes a confirmed Duran Duran headline date on Sunday 5 July 2026. The Royal Parks page lists the broader BST 2026 concert series in Hyde Park.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-somerset-summer-series-2026",
+        "title": "Somerset House Summer Series with American Express",
+        "type": "festival",
+        "startDate": "2026-07-16",
+        "endDate": "2026-07-26",
+        "importance": 86,
+        "venueName": "Somerset House",
+        "venueId": null,
+        "sourceUrl": "https://www.somersethouse.org.uk/press/somerset-house-summer-series-with-american-express-announces-2026-festival-line-up",
+        "ticketUrl": "https://www.somersethouse.org.uk/whats-on/somerset-house-summer-series",
+        "summary": "Somerset House Summer Series returns for 11 nights in the courtyard from 16–26 July 2026. Confirmed headliners include Naïka, Palace, Thee Sacred Souls, Lightning Seeds, The Cribs, Agnes Obel, Black Country, New Road, Venna, Raf-Saperra, The Flaming Lips and Benjamin Clementine.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-junction2-fabric-2026",
+        "title": "Junction 2 x fabric",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 88,
+        "venueName": "Boston Manor Park",
+        "venueId": null,
+        "sourceUrl": "https://www.fabriclondon.com/event/fabric-x-junction-2",
+        "ticketUrl": "https://www.fabriclondon.com/event/fabric-x-junction-2",
+        "summary": "fabric and Junction 2 team up at Boston Manor Park for a full-day electronic programme. The confirmed bill includes Nina Kraviz, Jeff Mills, Marcel Dettmann b2b DJ Hell, GiGi FM b2b Polygonia, Nicolas Lutz and Francesco Del Garda.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-villalobos-2026",
+        "title": "fabric: Ricardo Villalobos, Sonja Moonear b2b OMAR and more",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2424604",
+        "ticketUrl": "https://ra.co/events/2424604",
+        "summary": "fabric hosts a July Saturday night led by Ricardo Villalobos, with Sonja Moonear b2b OMAR all night in Room 2. The lineup also includes Foehn & Jerome, Harry McCanna, ELODIE, Alexandria and CHKLTE.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

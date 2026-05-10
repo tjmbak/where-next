@@ -1,0 +1,198 @@
+{
+  "slug": "tokyo",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:44:27.215Z",
+  "responseId": "resp_06d1daf79fd02f7e0069ff63e3f86c8193a4af57fd0d5e4744",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is already anchored by Ultra Japan plus several large arena and international touring dates in Tokyo and the Greater Tokyo area.",
+    "events": [
+      {
+        "id": "tokyo-ultra-japan-sep-2026",
+        "title": "Ultra Japan 2026",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 96,
+        "venueName": "Odaiba Ultra Park",
+        "venueId": null,
+        "sourceUrl": "https://ultrajapan.com/en/",
+        "ticketUrl": "https://ultrajapan.com/tickets-2026",
+        "summary": "Ultra Japan is confirmed for September 19–20, 2026 at Odaiba Ultra Park. The official ticket page lists 1-day and 2-day passes on sale for the Tokyo edition.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-sakanaquarium-budokan-2026",
+        "title": "sakanaction — SAKANAQUARIUM 2026 透明",
+        "type": "concert",
+        "startDate": "2026-09-08",
+        "endDate": "2026-09-19",
+        "importance": 86,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://sakanaction.jp/feature/tour2026",
+        "ticketUrl": "https://sakanaction.jp/feature/tour2026",
+        "summary": "sakanaction’s official tour page lists four September 2026 Tokyo dates at Nippon Budokan: September 8, 9, 18 and 19. The run is part of the band’s SAKANAQUARIUM 2026 arena tour.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-one-ok-rock-zozo-2026",
+        "title": "ONE OK ROCK — DETOX JAPAN TOUR FINAL 2026",
+        "type": "concert",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 86,
+        "venueName": "ZOZO Marine Stadium",
+        "venueId": null,
+        "sourceUrl": "https://sogotokyo.com/live_information/detail/2895",
+        "ticketUrl": null,
+        "summary": "Promoter SOGO TOKYO confirms ONE OK ROCK’s DETOX JAPAN TOUR FINAL 2026 for September 5–6 at ZOZO Marine Stadium in Chiba, very near Tokyo. Both dates list 16:00 doors and 18:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-vaundy-makuhari-2026",
+        "title": "Vaundy — ASIA ARENA TOUR 2026 “HORO”",
+        "type": "concert",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 84,
+        "venueName": "Makuhari Messe Halls 9 & 11",
+        "venueId": null,
+        "sourceUrl": "https://vaundy.jp/news/detail/11144?lang=en",
+        "ticketUrl": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026",
+        "summary": "Vaundy’s official site confirms the Tokyo-area opening dates of ASIA ARENA TOUR 2026 “HORO” at Makuhari Messe on September 5 and 6, 2026. The announced ticket price is standing ¥9,900.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-hoshimachi-suisei-yokohama-2026",
+        "title": "Hoshimachi Suisei — HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar",
+        "type": "concert",
+        "startDate": "2026-09-08",
+        "endDate": "2026-09-09",
+        "importance": 82,
+        "venueName": "K-Arena Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://hoshimachi-suisei-fc.jp/s/hs/ticket/detail/260322",
+        "ticketUrl": "https://hoshimachi-suisei-fc.jp/s/hs/ticket/detail/260322",
+        "summary": "Hoshimachi Suisei’s official fan-club ticket page confirms two Yokohama dates at K-Arena Yokohama on September 8 and 9, 2026. The arena tour is titled Once Upon a Stellar.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-rikon-densetsu-budokan-2026",
+        "title": "Rikon Densetsu — 2026 ONEMAN LIVE",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-11",
+        "importance": 77,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://eplus.jp/sf/detail/3983870001",
+        "ticketUrl": "https://eplus.jp/sf/detail/3983870001",
+        "summary": "Ticketing platform eplus lists Rikon Densetsu at Nippon Budokan on September 10 and 11, 2026. The shows are the band’s 2026 ONEMAN LIVE dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-belle-sebastian-kanadevia-2026",
+        "title": "Belle & Sebastian — Japan Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-25",
+        "importance": 78,
+        "venueName": "Kanadevia Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/belle-sebastian_2026/",
+        "ticketUrl": "https://eplus.tickets/belleandsebastian/",
+        "summary": "Creativeman confirms Belle & Sebastian’s Tokyo dates at Kanadevia Hall on September 24 and 25, 2026. The September 24 show performs Tigermilk and September 25 performs If You’re Feeling Sinister.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-the-damned-toyosu-2026",
+        "title": "The Damned — Final Damnation 50 Japan",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 76,
+        "venueName": "Toyosu PIT",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/the-damned26/",
+        "ticketUrl": "https://www.creativeman.co.jp/event/the-damned26/",
+        "summary": "Creativeman confirms The Damned’s Final Damnation 50 Japan Tokyo show for September 19, 2026 at Toyosu PIT. The page notes that a support act is planned and tickets go on sale May 30.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-cave-god-eye-autumn-rave-2026",
+        "title": "Cave of God Eye Vol.7 — The Autumn Rave / Regan Nano Japan Tour 2026",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 72,
+        "venueName": "Ooba Camping Village",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2382745",
+        "ticketUrl": "https://ra.co/events/2382745",
+        "summary": "Resident Advisor confirms Cave of God Eye Vol.7 at Ooba Camping Village in Tokyo from September 19–20, 2026. The psytrance-focused lineup includes Regan, ATMOS, Atomic Pulse, E-VO, Jikooha, Tomocomo, Ree.K and TSUYOSHI SUZUKI.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-kuroyume-garden-theater-2026",
+        "title": "Kuroyume — The Perfect Days to Die",
+        "type": "concert",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-06",
+        "importance": 70,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/schedule/4270/",
+        "ticketUrl": "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/schedule/4270/",
+        "summary": "Tokyo Garden Theater’s official schedule confirms Kuroyume’s The Perfect Days to Die concert on September 6, 2026. The listing gives 14:30 doors and 16:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-salad-music-festival-2026",
+        "title": "TOKYO MET SaLaD MUSIC FESTIVAL 2026",
+        "type": "festival",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-13",
+        "importance": 68,
+        "venueName": "Tokyo Metropolitan Theatre / Ikebukuro area",
+        "venueId": null,
+        "sourceUrl": "https://www.geigeki.jp/performance/concert373/",
+        "ticketUrl": "https://www.geigeki.jp/performance/concert373/",
+        "summary": "Tokyo Metropolitan Theatre confirms the main program of TOKYO MET SaLaD MUSIC FESTIVAL 2026 for September 11–13, 2026. The festival program includes a main concert, orchestra programming, children’s opera, dance and mini-concerts around Ikebukuro.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "tulum",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:05:39.597Z",
+  "responseId": "resp_099a30b50c3e6e9e0069ff5affbf2481908950c4b092539ce1",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "tulum-zamna-multipass-2026",
+        "title": "Multipass Zamna Tulum 2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 90,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://www.zamnafestival.com/events/multipass-zamna-tulum-2027",
+        "ticketUrl": "https://www.tixr.com/groups/zamnafestival/events/multipass-zamna-tulum-2027-175296",
+        "summary": "Zamna’s official listing confirms its 2026/2027 Tulum season multipass on December 31, 2026 at Zamna Tulum. Individual party lineups are not yet announced on the source page, but the pass is sold for Zamna Festival events at the jungle venue.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-ppp-nye-2026",
+        "title": "PPP Presents - New Years Eve 2026-2027",
+        "type": "beach-club",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 80,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/ppp-presents-nye-2026-2027-31dec2026",
+        "ticketUrl": "https://www.ticketfairy.com/event/ppp-presents-nye-2026-2027-31dec2026",
+        "summary": "Papaya Playa Project’s ticketing page confirms a New Year’s Eve celebration on December 31, 2026 at 6:00 PM in Tulum. The listing describes a beachfront night with music, art, and performance, but does not yet name artists.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "london",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:02:14.112Z",
+  "responseId": "resp_0aa3cc19eb33abd40069ff5a04520c8192b5d5a98c79c245a9",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 12,
+    "year": 2026,
+    "notes": "December 2026 is already anchored by arena-scale pop nostalgia, electronic orchestral shows, and strong mid-size pop/R&B concerts, with more club calendars likely to firm up closer to the month.",
+    "events": [
+      {
+        "id": "london-abba-voyage-dec-2026",
+        "title": "ABBA Voyage",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 95,
+        "venueName": "ABBA Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/uk/events/861176/abba-voyage-friday-4th-december-2026-tickets",
+        "ticketUrl": "https://www.axs.com/uk/events/861176/abba-voyage-friday-4th-december-2026-tickets",
+        "summary": "A representative December performance of ABBA Voyage at ABBA Arena, the purpose-built London residency presenting ABBA’s songs as a high-production digital concert. The AXS listing confirms the Friday 4 December 2026 show at 19:45.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-bleachers-eventim-2026",
+        "title": "Bleachers",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-04",
+        "importance": 78,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/bleachers/",
+        "ticketUrl": "https://www.eventimapollo.com/events/bleachers/",
+        "summary": "Bleachers bring their 2026 UK and European tour to Eventim Apollo for two London dates in support of the album Everyone for ten minutes. The venue lists performances on 3 and 4 December 2026 with doors at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-level-42-indigo-2026",
+        "title": "Level 42",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 70,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/level-42-london-04-12-2026/event/35006454AB614C24",
+        "ticketUrl": "https://www.ticketmaster.co.uk/level-42-london-04-12-2026/event/35006454AB614C24",
+        "summary": "Level 42 play indigo at The O2 on Friday 4 December 2026. Ticketmaster confirms the London date at 19:00, with the band’s jazz-funk and pop catalogue at the centre of the show.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-elmiene-eventim-2026",
+        "title": "Elmiene",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 74,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/elmiene/",
+        "ticketUrl": "https://www.eventimapollo.com/events/elmiene/",
+        "summary": "British-Sudanese vocalist Elmiene brings the Sounds For Someone Tour to Eventim Apollo on Tuesday 8 December 2026. The venue confirms the show and highlights his stripped-back, voice-led live performance style.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-ocean-colour-scene-o2-2026",
+        "title": "Ocean Colour Scene: Moseley Shoals 30th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2026-12-09",
+        "endDate": "2026-12-09",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/ocean-colour-scene",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/ocean-colour-scene",
+        "summary": "Ocean Colour Scene celebrate the 30th anniversary of Moseley Shoals at The O2, with The Enemy as special guests. The O2 confirms the Wednesday 9 December 2026 date and a career-spanning set alongside highlights from the album.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-pete-tong-ibiza-classics-2026",
+        "title": "Pete Tong Presents Ibiza Classics 2026",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12",
+        "importance": 90,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/pete-tong-presents-ibiza-classics-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/pete-tong-presents-ibiza-classics-2026",
+        "summary": "Pete Tong returns to The O2 with Ibiza Classics, joined by The Essential Orchestra for orchestral reworkings of dance anthems. The O2 confirms shows on Friday 11 and Saturday 12 December 2026.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-kodaline-roundhouse-2026",
+        "title": "Kodaline - Farewell Tour",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 75,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/en/event/kodaline-farewell-tour-london-tickets-edp1661617",
+        "ticketUrl": "https://www.livenation.co.uk/en/event/kodaline-farewell-tour-london-tickets-edp1661617",
+        "summary": "Kodaline’s Farewell Tour includes a London Roundhouse show on Saturday 12 December 2026. Live Nation confirms the Roundhouse date, 19:00 doors, and Kodaline as headliner.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-artemas-brixton-2026",
+        "title": "Artemas: Getting Up to No Good",
+        "type": "concert",
+        "startDate": "2026-12-14",
+        "endDate": "2026-12-14",
+        "importance": 73,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/show/1663217/artemas-getting-up-to-no-good/london/2026-12-14/en",
+        "ticketUrl": "https://www.livenation.co.uk/show/1663217/artemas-getting-up-to-no-good/london/2026-12-14/en",
+        "summary": "Artemas brings the Getting Up to No Good tour to O2 Academy Brixton, with Henry Morris listed as support. Live Nation confirms the Monday 14 December 2026 London date and 19:00 doors.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-amy-winehouse-band-roundhouse-2026",
+        "title": "The Amy Winehouse Band: Back to Black 20th Anniversary",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 76,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/the-amy-winehouse-band-2/",
+        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/the-amy-winehouse-band-2/",
+        "summary": "The Amy Winehouse Band, led by Amy Winehouse’s long-time musical director Dale Davis, performs at Roundhouse to mark the 20th anniversary of Back to Black. The venue confirms the Friday 18 December 2026 date and 19:00 start time.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

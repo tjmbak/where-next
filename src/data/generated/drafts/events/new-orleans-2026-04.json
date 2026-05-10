@@ -1,0 +1,219 @@
+{
+  "slug": "new-orleans",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:56:47.781Z",
+  "responseId": "resp_0e1da828ab324f9d0069ffd736d03c81a0966106eaf95a95bf",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 is unusually dense in New Orleans, anchored by French Quarter Festival and the opening weekend of Jazz Fest, with strong arena R&B, brass-band, and electronic club programming around them.",
+    "events": [
+      {
+        "id": "new-orleans-new-edition-apr-2026",
+        "title": "New Edition: The New Edition Way Tour with Boyz II Men and Toni Braxton",
+        "type": "concert",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 82,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.smoothiekingcenter.com/events/detail/new-edition-1",
+        "ticketUrl": "https://www.smoothiekingcenter.com/events/detail/new-edition-1",
+        "summary": "New Edition brings The New Edition Way Tour to Smoothie King Center with special guests Boyz II Men and Toni Braxton. The venue lists the New Orleans show for April 3, 2026 at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-rebirth-brass-band-apr-2026",
+        "title": "Rebirth Brass Band at Tipitina's",
+        "type": "concert",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 74,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.ticketweb.com/event/rebirth-brass-band-tipitinas-tickets/14114354?pl=tipitina",
+        "ticketUrl": "https://www.ticketweb.com/event/rebirth-brass-band-tipitinas-tickets/14114354?pl=tipitina",
+        "summary": "Tipitina's presents Grammy-winning New Orleans institution Rebirth Brass Band for an 18+ show on April 4, 2026. TicketWeb lists the show at 8:30 PM with doors at 7:30 PM.",
+        "genres": [
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-mariah-scientist-apr-2026",
+        "title": "Mariah the Scientist: Hearts Sold Separately Tour",
+        "type": "concert",
+        "startDate": "2026-04-07",
+        "endDate": "2026-04-07",
+        "importance": 73,
+        "venueName": "Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/mariah-the-scientist-hearts-sold-separately-new-orleans-louisiana-04-07-2026/event/1B006324A0AC8E93",
+        "ticketUrl": "https://www.ticketmaster.com/mariah-the-scientist-hearts-sold-separately-new-orleans-louisiana-04-07-2026/event/1B006324A0AC8E93",
+        "summary": "Mariah the Scientist's Hearts Sold Separately Tour stops at Fillmore New Orleans on April 7, 2026. Ticketmaster lists 4batz on the lineup for the 7:00 PM show.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-hogs-cause-apr-2026",
+        "title": "Hogs for the Cause 2026",
+        "type": "festival",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-11",
+        "importance": 80,
+        "venueName": "UNO Lakefront Arena Festival Grounds",
+        "venueId": null,
+        "sourceUrl": "https://www.jambase.com/festival/hogs-for-the-cause-2026",
+        "ticketUrl": null,
+        "summary": "Hogs for the Cause returns April 10–11, 2026 at the UNO Lakefront Arena Festival Grounds. The music lineup includes Stephen Wilson Jr. on Friday and Charles Wesley Godwin, The Castellows, Southern Avenue and others on Saturday.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-subject-matter-premovement-apr-2026",
+        "title": "Subject Matter Official PreMovement Party",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 65,
+        "venueName": "The Domino",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392188",
+        "ticketUrl": "https://ra.co/events/2392188",
+        "summary": "Resident Advisor lists Subject Matter's Official PreMovement Party at The Domino on April 10, 2026 from 23:00 to 04:00. The techno/electro lineup features BEIGE, Tristan Dufrene and Dykelonius.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-french-quarter-festival-apr-2026",
+        "title": "French Quarter Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-19",
+        "importance": 92,
+        "venueName": "French Quarter",
+        "venueId": null,
+        "sourceUrl": "https://frenchquarterfest.org/press-release-french-quarter-festival-2026-unveils-full-music-lineup-culinary-delights-and-exciting-highlights/",
+        "ticketUrl": null,
+        "summary": "French Quarter Festival 2026 runs April 16–19 with 302 performances across 20 stages and the official parade. The announced highlights include PJ Morton headlining the Abita Beer Stage plus a broad local lineup across the French Quarter and riverfront.",
+        "genres": [
+          "festival",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-dj-soul-sister-apr-2026",
+        "title": "Soul Sister Presents Off the Wall: The All Michael Party",
+        "type": "club-night",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 70,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://djsoulsister.com/",
+        "ticketUrl": null,
+        "summary": "DJ Soul Sister lists Off the Wall: The All Michael Party at Tipitina's on April 17, 2026 at 9:00 PM. The party is part of her April 2026 New Orleans event calendar.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-fantasia-anthony-hamilton-apr-2026",
+        "title": "Fantasia & Anthony Hamilton",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 78,
+        "venueName": "UNO Lakefront Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/fantasia-anthony-hamilton-new-orleans-louisiana-04-17-2026/event/1B0062F9E29B9010",
+        "ticketUrl": "https://www.ticketmaster.com/fantasia-anthony-hamilton-new-orleans-louisiana-04-17-2026/event/1B0062F9E29B9010",
+        "summary": "Fantasia and Anthony Hamilton perform at UNO Lakefront Arena on April 17, 2026. Ticketmaster lists the concert start time as 8:00 PM.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-jazz-fest-apr-2026",
+        "title": "New Orleans Jazz & Heritage Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-23",
+        "endDate": "2026-05-03",
+        "importance": 98,
+        "venueName": "New Orleans Jazz & Heritage Festival",
+        "venueId": "jazz-fest-nola",
+        "sourceUrl": "https://www.jazzandheritage.org/2026-new-orleans-jazz-fest/",
+        "ticketUrl": null,
+        "summary": "The 2026 New Orleans Jazz & Heritage Festival takes place April 23–26 and April 30–May 3. The announced lineup includes Eagles, Stevie Nicks, Rod Stewart, Kings of Leon, Lorde, Jon Batiste, Tyler Childers, David Byrne, The Black Keys, T-Pain, Nas and many more.",
+        "genres": [
+          "festival",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-mt-joy-apr-2026",
+        "title": "Mt. Joy",
+        "type": "concert",
+        "startDate": "2026-04-23",
+        "endDate": "2026-04-23",
+        "importance": 75,
+        "venueName": "Champions Square",
+        "venueId": null,
+        "sourceUrl": "https://www.champions-square.com/",
+        "ticketUrl": "https://www.champions-square.com/",
+        "summary": "Champions Square lists Mt. Joy for April 23, 2026. The outdoor downtown venue page confirms the New Orleans date and ticket link.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-badbadnotgood-apr-2026",
+        "title": "BADBADNOTGOOD with Cleo Reed",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 72,
+        "venueName": "Civic Theatre",
+        "venueId": null,
+        "sourceUrl": "https://civicnola.com/tm-attraction/badbadnotgood/",
+        "ticketUrl": "https://civicnola.com/tm-attraction/badbadnotgood/",
+        "summary": "Civic Theatre lists BADBADNOTGOOD with Cleo Reed on April 24, 2026 at 9:00 PM. The show is marked all ages on the venue's event page.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-tab-benoit-apr-2026",
+        "title": "Tab Benoit at Tipitina's",
+        "type": "concert",
+        "startDate": "2026-04-26",
+        "endDate": "2026-04-26",
+        "importance": 70,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/e/?event_id=14555433",
+        "ticketUrl": "https://tipitinas.com/e/?event_id=14555433",
+        "summary": "Tipitina's presents Louisiana blues guitarist and singer Tab Benoit on April 26, 2026. The venue lists the show at 9:00 PM with doors at 8:00 PM.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:31:37.259Z",
+  "responseId": "resp_07cedcb7686a2bba0069ff60ecbb8c81958bec9c53c67121f8",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 skewed toward arena and theater-scale touring shows in Rio, with a smaller but active underground electronic calendar around Centro, Vidigal, and Trauma.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-macy-gray-2026",
+        "title": "Macy Gray - Rio de Janeiro",
+        "type": "concert",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 84,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/macy-gray-rio-de-janeiro",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/macy-gray-rio-de-janeiro",
+        "summary": "Macy Gray brought her Turnê de Verão 2026 to Vivo Rio, with the source listing a March 5 show at 21:30. The billing focused on her soul/R&B catalog, including a full-album presentation of On How Life Is.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-bryan-adams-2026",
+        "title": "Bryan Adams - World: Roll With The Punches",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 86,
+        "venueName": "Qualistage",
+        "venueId": null,
+        "sourceUrl": "https://www.bryanadams.com/tours/world-roll-with-the-punches/",
+        "ticketUrl": null,
+        "summary": "Bryan Adams’ official tour page listed Qualistage, Rio de Janeiro for March 6, 2026 on the World: Roll With The Punches tour. This was the Rio stop on his South American run following dates in Mexico.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-jason-mraz-2026",
+        "title": "Jason Mraz - Return to South America Tour",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 82,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/jason-mraz-rio-de-janeiro",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/jason-mraz-rio-de-janeiro",
+        "summary": "Jason Mraz played Vivo Rio on March 6, 2026, as part of his Return to South America Tour. Ticketmaster listed doors at 19:30 and show time at 21:30.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-claudia-leitte-intemporal-2026",
+        "title": "Claudia Leitte - Turnê Intemporal",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 78,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://vivorio.com.br/eventos/claudia-leitte/",
+        "ticketUrl": "https://www.ticket360.com.br/",
+        "summary": "Claudia Leitte brought the more intimate Intemporal project to Vivo Rio on March 13, 2026. The venue page lists the event with an axé classification and a 22:00 show time.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-pistuxa-hausu-trauma-2026",
+        "title": "Pistuxa x Hausu no Trauma",
+        "type": "club-night",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-14",
+        "importance": 68,
+        "venueName": "TRAUMA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2389541",
+        "ticketUrl": "https://ra.co/events/2389541",
+        "summary": "São Paulo party Pistuxa linked with Baixada Fluminense collective Hausu for a club night at TRAUMA in Centro. Resident Advisor listed Valesuchi b2b Lucas Kid, D.Silvestre, and Da Bomb b2b Levas from March 13 at 22:00 to March 14 at 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-guilherme-arantes-2026",
+        "title": "Guilherme Arantes - 50 Anos-Luz",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 78,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/guilherme-arantes-no-vivo-rio-rj",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/guilherme-arantes-no-vivo-rio-rj",
+        "summary": "Guilherme Arantes celebrated 50 years of career with the 50 Anos-Luz tour at Vivo Rio. Ticketmaster confirmed the March 14, 2026 presentation at 22:00.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-alceu-valenca-80-girassois-2026",
+        "title": "Alceu Valença - 80 Girassóis",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 84,
+        "venueName": "Farmasi Arena",
+        "venueId": null,
+        "sourceUrl": "https://farmasiarena.com.br/_eventos/alceu-valenca-80-girassois/",
+        "ticketUrl": "https://www.ticket360.com.br/evento/31890/ingressos-para-alceu-valenca",
+        "summary": "Alceu Valença opened the Rio date of his 80 Girassóis celebration at Farmasi Arena. The venue page confirms March 14, 2026 with doors at 19:00 and show time at 21:00.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-steve-hackett-genetics-2026",
+        "title": "Steve Hackett & Genetics - The Best of Genesis Tour 2026",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 76,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://vivorio.com.br/eventos/steve-hackett/",
+        "ticketUrl": "https://www.ticket360.com.br/evento/31864/ingressos-para-steve-hackett-e-genetics",
+        "summary": "Steve Hackett appeared with Genetics at Vivo Rio on the The Best of Genesis Tour 2026. The venue page listed March 21, 2026 at 21:00, with the show built around Genesis-era classics.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-baco-exu-do-blues-hasos-2026",
+        "title": "Baco Exu do Blues - HASOS Show Tour",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 82,
+        "venueName": "Farmasi Arena",
+        "venueId": null,
+        "sourceUrl": "https://farmasiarena.com.br/_eventos/baco-exu-do-blues-hasos/",
+        "ticketUrl": "https://www.ticket360.com.br/evento/32297/ingressos-para-baco-exu-do-blues-hasos-show-tour",
+        "summary": "Baco Exu do Blues brought the HASOS Show Tour to Farmasi Arena. The venue confirmed Saturday, March 21, 2026, with doors at 20:00 and show time at 22:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-chicago-legacy-2026",
+        "title": "Chicago Legacy - Danny Seraphine",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 70,
+        "venueName": "Qualistage",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/chicago-legacy-no-qualistage-rj",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/chicago-legacy-no-qualistage-rj",
+        "summary": "Chicago Legacy, led by founding Chicago drummer Danny Seraphine, played Qualistage in Rio. Ticketmaster listed the March 27, 2026 performance at 21:30.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-as-vozes-pericles-ferrugem-2026",
+        "title": "As Vozes - Péricles e Ferrugem",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 82,
+        "venueName": "Farmasi Arena",
+        "venueId": null,
+        "sourceUrl": "https://farmasiarena.com.br/_eventos/as-vozes/",
+        "ticketUrl": "https://www.ticket360.com.br/evento/32124/ingressos-para-as-vozes-pericles-ferrugem",
+        "summary": "Péricles and Ferrugem teamed up for As Vozes at Farmasi Arena. The venue page confirmed March 28, 2026, with doors at 20:00 and show time at 22:00.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-rave-in-rio-ep8-2026",
+        "title": "Rave In Rio - Ep8, Vidigal",
+        "type": "club-night",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-30",
+        "importance": 66,
+        "venueName": "Rua Major Toja Martinez Filho, 126 - Vidigal",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/raveinrioep8",
+        "ticketUrl": "https://shotgun.live/en/events/raveinrioep8",
+        "summary": "Rave In Rio returned for Ep8 in Vidigal with a lineup including Soppa, Crazy Jeff, Vazz, ZN1, and Remixia. Shotgun listed the event for March 29, 2026 from 18:00 to 02:00.",
+        "genres": [
+          "techno",
+          "house",
+          "afro-house"
+        ]
+      }
+    ]
+  }
+}

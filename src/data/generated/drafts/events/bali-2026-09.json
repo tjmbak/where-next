@@ -1,0 +1,82 @@
+{
+  "slug": "bali",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:23:01.650Z",
+  "responseId": "resp_07ce856fff6e83c30069ff5f23389081938704517d90cb72d5",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026’s confirmed Bali music calendar is currently stronger on cultural performance, folklore, rhythm, and Latin dance gatherings than on large announced DJ lineups.",
+    "events": [
+      {
+        "id": "bali-taman-ayun-barong-sep-2026",
+        "title": "Taman Ayun Barong Festival",
+        "type": "festival",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-06",
+        "importance": 72,
+        "venueName": "Pura Taman Ayun",
+        "venueId": null,
+        "sourceUrl": "https://www.indonesia.travel/id/id/events/event-detail/taman-ayun-barong-festival-2026/",
+        "ticketUrl": null,
+        "summary": "Official Indonesia Travel listing confirms this free cultural festival at Pura Taman Ayun, centered on Barong tradition and a Barong Competition alongside cultural workshops and exhibitions.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-buleleng-rhythm-competition-sep-2026",
+        "title": "Buleleng Bali International Rhythm Competition (BBIRC)",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-28",
+        "importance": 70,
+        "venueName": "Lovina, Buleleng",
+        "venueId": null,
+        "sourceUrl": "https://www.wofafestivals.com/festivals/buleleng-bali-international-rhythm-competition-bbirc/",
+        "ticketUrl": null,
+        "summary": "World Festival Association confirms BBIRC in Lovina, Buleleng, welcoming international dance and rhythm groups with a cultural parade, performance slots, and gala awards program.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-odac-cuban-salsa-fiesta-sep-2026",
+        "title": "ODAC Cuban Salsa Fiesta 2026 Bali Edition",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-28",
+        "importance": 66,
+        "venueName": "Bali, Indonesia",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/odac-cuban-salsa-fiesta-2026-bali-edition-tickets-1982577006195",
+        "ticketUrl": "https://www.eventbrite.com/e/odac-cuban-salsa-fiesta-2026-bali-edition-tickets-1982577006195",
+        "summary": "Eventbrite listing by ODAC Singapore confirms a Bali edition featuring Cuban salsa workshops, masterclasses, and exclusive parties with international Cuban salsa artists.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-nusantara-folklore-ubud-sep-2026",
+        "title": "Nusantara International Folklore Festival – Ubud, Bali",
+        "type": "festival",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-28",
+        "importance": 70,
+        "venueName": "Ubud, Bali",
+        "venueId": null,
+        "sourceUrl": "https://niff.co.id/service/event-details/",
+        "ticketUrl": null,
+        "summary": "NIFF’s official event page confirms a non-competitive folklore gathering in Ubud where dance and music groups from around the world present cultural performances, workshops, and ceremonies.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

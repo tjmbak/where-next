@@ -1,0 +1,217 @@
+{
+  "slug": "paris",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:20:59.155Z",
+  "responseId": "resp_0cdb4d54b1dab6420069ff5e549f6c81929678ab914fc81a09",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is already anchored by major arena pop/rap dates, electronic standouts, and two confirmed multi-day industry/festival events.",
+    "events": [
+      {
+        "id": "paris-celine-dion-oct-residency-2026",
+        "title": "Céline Dion Paris 2026 – October residency dates",
+        "type": "residency",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-17",
+        "importance": 96,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.dion2026.com/",
+        "ticketUrl": "https://www.dion2026.com/",
+        "summary": "Céline Dion’s Paris residency continues through October with confirmed dates on October 2, 3, 7, 9, 10, 14, 16 and 17 at Paris La Défense Arena. The run is billed as sixteen Paris dates from September 12 to October 17, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-dream-nation-oct-2026",
+        "title": "Dream Nation Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 92,
+        "venueName": "Parc des Expositions Paris Nord Villepinte",
+        "venueId": null,
+        "sourceUrl": "https://dreamnation.fr/en/2026/04/20/dream-nation-festival-2026-first-wave-of-artists-announced/",
+        "ticketUrl": "https://dreamnation.fr/en/2026/04/20/dream-nation-festival-2026-first-wave-of-artists-announced/",
+        "summary": "Dream Nation returns for two Halloween-themed electronic nights at Paris Nord Villepinte. The first wave includes Pendulum, Vini Vici, The Bloody Beetroots, Flux Pavilion, Da Tweekaz, Novah, Alignment and more across techno, bass, trance and hard music stages.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-mama-music-convention-2026",
+        "title": "MaMA Music & Convention 2026",
+        "type": "conference",
+        "startDate": "2026-10-14",
+        "endDate": "2026-10-16",
+        "importance": 88,
+        "venueName": "Pigalle & Montmartre venues",
+        "venueId": null,
+        "sourceUrl": "https://mama-musicandconvention.com/en/a-propos/",
+        "ticketUrl": "https://mama-musicandconvention.com/en/a-propos/",
+        "summary": "MaMA returns from Wednesday October 14 to Friday October 16, 2026, combining a music-industry convention with public concerts across Pigalle and Montmartre. The official 2026 artist lineup has not yet been published.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-the-strokes-accor-2026",
+        "title": "The Strokes",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/the-strokes--27510",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/the-strokes--27510",
+        "summary": "The Strokes play a landmark Paris arena show at Accor Arena on October 22, 2026. The venue page confirms the band will perform around the release of their upcoming seventh album, Reality Awaits, alongside catalog material.",
+        "genres": []
+      },
+      {
+        "id": "paris-jungle-accor-2026",
+        "title": "Jungle",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/jungle--13ed4",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/jungle--13ed4",
+        "summary": "British trio Jungle play Accor Arena on October 30, 2026, billed by the venue as their biggest French show to date. The date supports their 2026 album Sunshine.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-bigflo-oli-accor-2026",
+        "title": "Bigflo & Oli",
+        "type": "concert",
+        "startDate": "2026-10-19",
+        "endDate": "2026-10-20",
+        "importance": 82,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/bigflo-and-oli--2fa59",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/bigflo-and-oli--2fa59",
+        "summary": "French rap duo Bigflo & Oli bring their Karma tour to Accor Arena for two confirmed nights on October 19 and 20, 2026. The venue lists both concerts at 20:00.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-autechre-bataclan-2026",
+        "title": "Autechre",
+        "type": "concert",
+        "startDate": "2026-10-14",
+        "endDate": "2026-10-14",
+        "importance": 80,
+        "venueName": "Le Bataclan",
+        "venueId": null,
+        "sourceUrl": "https://www.bataclan.fr/evenement/autechre_2026-10-14_en/",
+        "ticketUrl": "https://www.bataclan.fr/evenement/autechre_2026-10-14_en/",
+        "summary": "Autechre perform at Le Bataclan on October 14, 2026. The Bataclan listing frames the date as part of Sean Booth and Rob Brown’s European shows in September and October 2026.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-gradur-accor-2026",
+        "title": "Gradur",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 80,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/gradur--54712",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/gradur--54712",
+        "summary": "French trap artist Gradur plays his first Accor Arena show on October 16, 2026. The venue bills it as a landmark night in French rap history.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-meryl-accor-2026",
+        "title": "Meryl",
+        "type": "concert",
+        "startDate": "2026-10-26",
+        "endDate": "2026-10-27",
+        "importance": 78,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/meryl--98b3e",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/meryl--98b3e",
+        "summary": "Meryl is confirmed for two Accor Arena concerts on October 26 and 27, 2026. The venue describes the run as her first show at the arena and highlights her cross-style vocal approach.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-mosimann-zenith-2026",
+        "title": "Mosimann Live",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 78,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Mosimann%20Live-21536",
+        "ticketUrl": "https://le-zenith.com/shows/Mosimann%20Live-21536",
+        "summary": "Mosimann brings his live electronic show to Zénith Paris - La Villette on October 17 and 18, 2026. The venue positions the show as a stage-designed live performance tied to his 2026 creative cycle.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-alizee-zenith-2026",
+        "title": "Alizée",
+        "type": "concert",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 75,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Aliz%C3%A9e-21859",
+        "ticketUrl": "https://le-zenith.com/shows/Aliz%C3%A9e-21859",
+        "summary": "Alizée plays Zénith Paris - La Villette on October 4, 2026, as part of her 25th-anniversary return to the stage. The official venue page confirms the single Paris date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-lake-street-dive-bataclan-2026",
+        "title": "Lake Street Dive",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 74,
+        "venueName": "Le Bataclan",
+        "venueId": null,
+        "sourceUrl": "https://www.bataclan.fr/evenement/lake-street-dive_2026-10-16_en/",
+        "ticketUrl": "https://www.bataclan.fr/evenement/lake-street-dive_2026-10-16_en/",
+        "summary": "Lake Street Dive perform at Le Bataclan on October 16, 2026. The venue describes the show around their album Good Together, mixing soul, pop, groove and jazz influences.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

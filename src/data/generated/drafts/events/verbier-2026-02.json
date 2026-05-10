@@ -1,0 +1,115 @@
+{
+  "slug": "verbier",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:38:21.339Z",
+  "responseId": "resp_01ab66d67c776c0e0069ff62adfb788196bdb8be455ea38a65",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Verbier/Val de Bagnes leaned toward alpine après-ski, carnival brass/DJ culture, and a few classical/family music-programming highlights rather than large standalone music festivals.",
+    "events": [
+      {
+        "id": "verbier-verdi-requiem-2026",
+        "title": "Requiem de Verdi",
+        "type": "concert",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-01",
+        "importance": 72,
+        "venueName": "Eglise du Châble",
+        "venueId": null,
+        "sourceUrl": "https://ev-martigny.ch/requiem-de-verdi/",
+        "ticketUrl": null,
+        "summary": "Ensemble Vocal de Martigny and the Symphonistes d’Octodure performed Giuseppe Verdi’s Requiem at Eglise du Châble, with solists Franziska Heinzen, Sonja Leutwyler, Sascha Kramer and Patrice Berger.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-reverence-fiesta-chris-liebing-2026",
+        "title": "Reverence Fiesta with Chris Liebing and NikoBeats",
+        "type": "club-night",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-12",
+        "importance": 76,
+        "venueName": "Rabbit Hutch / Verbier",
+        "venueId": null,
+        "sourceUrl": "https://eventfrog.ch/en/p/party/house-techno/reverence-fiesta-with-chris-liebing-and-nikobeats-7412866546547093931.html",
+        "ticketUrl": "https://eventfrog.ch/en/p/party/house-techno/reverence-fiesta-with-chris-liebing-and-nikobeats-7412866546547093931.html",
+        "summary": "A ticketed house and techno night in Verbier featuring Chris Liebing and NikoBeats, with the main party listed from 21:00 to 02:00 at Rabbit Hutch.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-volleges-carnival-2026",
+        "title": "Vollèges Carnival",
+        "type": "carnival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 68,
+        "venueName": "Salle du Casino, Vollèges",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/offers/volleges-carnival-volleges-en-6184956/",
+        "ticketUrl": null,
+        "summary": "A Val de Bagnes carnival event with guggen bands, floats and a DJ, centred on Salle du Casino in Vollèges and listed from 13 to 15 February 2026.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-guggen-de-bagnes-concert-2026",
+        "title": "Aperitif and concert of the Guggen de Bagnes",
+        "type": "concert",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 62,
+        "venueName": "Place Centrale",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/vibe-events-entertainment/aperitif-and-concert-of-the-guggen-de-bagnes-verbier-en-4054986/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourisme hosted a free aperitif and concert by the Guggen from Bagnes, Chenegouga, on Place Centrale from 17:00 to 18:00.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-peter-wolf-magic-piano-2026",
+        "title": "Peter & The Wolf / The Magic Piano",
+        "type": "concert",
+        "startDate": "2026-02-19",
+        "endDate": "2026-02-19",
+        "importance": 61,
+        "venueName": "Cinéma de Verbier",
+        "venueId": null,
+        "sourceUrl": "https://verbierfestival.com/show/kids2026-02-19-peter-and-the-wolf-the-magic-piano/",
+        "ticketUrl": "https://ticketing.verbierfestival.com/",
+        "summary": "Verbier Festival KiDS presented a family screening of two music-led animated films: Peter and the Wolf and The Magic Piano, the latter featuring Chopin music performed by Lang Lang.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-ski-et-son-bruson-2026",
+        "title": "Ski et Son Bruson",
+        "type": "festival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 66,
+        "venueName": "Bruson ski area",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/app/uploads/ot-verbier/2026/02/Programme_semaine_Verbier-21-28.02.26-EN.pdf",
+        "ticketUrl": null,
+        "summary": "Bruson staged a one-day ski-and-music event with musical entertainment across the resort and a festive on-slope atmosphere from 09:00 to 22:00.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

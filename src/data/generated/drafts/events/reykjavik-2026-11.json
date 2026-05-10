@@ -1,0 +1,87 @@
+{
+  "slug": "reykjavik",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:51:39.551Z",
+  "responseId": "resp_08511c5f414a76c40069ffd65a84bc8192ba89536eb4a6e664",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "reykjavik",
+    "month": 11,
+    "year": 2026,
+    "notes": "Iceland Airwaves dominates Reykjavík’s November 2026 calendar, with the official showcase weekend and separate Harpa special events already confirmed.",
+    "events": [
+      {
+        "id": "reykjavik-iceland-airwaves-2026",
+        "title": "Iceland Airwaves 2026",
+        "type": "festival",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-07",
+        "importance": 96,
+        "venueName": "Downtown Reykjavík venues",
+        "venueId": null,
+        "sourceUrl": "https://icelandairwaves.is/lineup/",
+        "ticketUrl": "https://tix.is/en/event/20516/iceland-airwaves-2026",
+        "summary": "Iceland Airwaves’ official 2026 program runs November 5–7 across official venues in Reykjavík. Confirmed lineup names include Adult DVD, MAMMÚT, Skeler, Yaelokre, Dove Ellis, Arima Ederra, Júníus Meyvant, Emmsjé Gauti and more.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-shygirl-airwaves-2026",
+        "title": "Iceland Airwaves Special Event: Shygirl",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 86,
+        "venueName": "Silfurberg, Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://icelandairwaves.is/shygirl/",
+        "ticketUrl": null,
+        "summary": "Shygirl plays an Iceland Airwaves-presented special event at Silfurberg, Harpa on November 4 at 20:00. The show is listed as a separately ticketed event and highlights her blend of experimental club music, hip-hop, house and electronic pop.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-dadi-freyr-sinfo-2026",
+        "title": "Daði Freyr & The Iceland Symphony Orchestra",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-05",
+        "importance": 89,
+        "venueName": "Eldborg, Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21287",
+        "ticketUrl": "https://www.harpa.is/en/events/21287",
+        "summary": "Daði Freyr performs with the Iceland Symphony Orchestra at Eldborg, Harpa on November 5 at 19:00 as an Iceland Airwaves 2026 special event. The concert reimagines his synth-pop songs with orchestral arrangements conducted by Daníel Bjarnason.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-the-streets-airwaves-2026",
+        "title": "Iceland Airwaves Special Event: The Streets",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 88,
+        "venueName": "Eldborg, Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://icelandairwaves.is/the-streets/",
+        "ticketUrl": null,
+        "summary": "The Streets play Eldborg, Harpa on November 8 at 20:00 in a separately ticketed Iceland Airwaves special event. The show is billed around a full performance of A Grand Don’t Come for Free plus selections from Mike Skinner’s wider catalogue.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

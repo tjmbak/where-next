@@ -1,0 +1,189 @@
+{
+  "slug": "berlin",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:51:18.430Z",
+  "responseId": "resp_0e3c65448c3b73e10069ff578484488194ac86b96d08621ad1",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Berlin is anchored by winter experimental festivals, CTM and Ultraschall, alongside Berghain’s post-New-Year club calendar and a run of large arena pop/hip-hop concerts.",
+    "events": [
+      {
+        "id": "berlin-ctm-festival-2026",
+        "title": "CTM Festival 2026: dissonate < > resonate",
+        "type": "festival",
+        "startDate": "2026-01-23",
+        "endDate": "2026-02-01",
+        "importance": 96,
+        "venueName": "Various venues",
+        "venueId": null,
+        "sourceUrl": "https://www.ctm-festival.de/festival-2026/welcome",
+        "ticketUrl": "https://www.ctm-festival.de/festival-2026/tickets",
+        "summary": "CTM Festival’s 27th edition runs across Radialsystem, Berghain, RSO.Berlin, Volksbühne, Morphine Raum and Haus der Visionäre, with highlights including Earth, Sote, Corin, Shapednoise, Oroko Radio collaborations and more experimental club and concert programming.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-ultraschall-festival-2026",
+        "title": "Ultraschall Berlin – Festival für neue Musik 2026",
+        "type": "festival",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-18",
+        "importance": 90,
+        "venueName": "Various venues / Radialsystem",
+        "venueId": null,
+        "sourceUrl": "https://ultraschallberlin.de/",
+        "ticketUrl": null,
+        "summary": "Ultraschall Berlin’s 2026 edition presents contemporary and new-music concerts from 14–18 January, including programmes with Deutsches Symphonie-Orchester Berlin, Rundfunk-Sinfonieorchester Berlin, ensemble mosaik and other contemporary ensembles.",
+        "genres": [
+          "festival",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-berghain-silvester-klubnacht-2026",
+        "title": "Silvester Klubnacht",
+        "type": "club-night",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 90,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/events/80867/",
+        "ticketUrl": null,
+        "summary": "Berghain’s New Year’s Day Silvester Klubnacht starts at 01:00 with a multi-floor lineup including Juri Heidemann, Temudo, Philippa Pacho, Lolsnake, John Talabot, Ogazón, André Galluzzi, The Hacker and Sound Metaphors DJs.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-jan10-2026",
+        "title": "Klubnacht",
+        "type": "club-night",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 87,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/events/80709/",
+        "ticketUrl": null,
+        "summary": "The 10 January Klubnacht pairs Berghain techno from Rødhåd, UFO95 live, Fadi Mohem, Reka Zalan and Mary Lake with Panorama Bar sets from Doreen, Tijana T, Biesmans, Fantastic Man and BASHKKA.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-ctm-itcz-many-tongues-2026",
+        "title": "CTM x transmediale: An ITCZ of Many Tongues",
+        "type": "club-night",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-30",
+        "importance": 88,
+        "venueName": "Berghain / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.ctm-festival.de/festival-2026/programme/schedule/event/an-itcz-of-many-tongues",
+        "ticketUrl": "https://ra.co/events/2300027",
+        "summary": "A CTM x transmediale night at Berghain’s Säule with Microhm, Dengue Dengue Dengue, DJ Love, Aunty Rayzor with Catu Diosis, Clementaum and Miss Tacacá, focused on bass, Latin club mutations, budots, rap and Amazonian soundsystem energy.",
+        "genres": [
+          "electronic",
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-ctm-rso1-2026",
+        "title": "CTM 2026: RSO 1 feat. NGHTCRWLR, Container, TOCCORORO, Catnapp",
+        "type": "club-night",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-31",
+        "importance": 86,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2300028",
+        "ticketUrl": "https://ra.co/events/2300028",
+        "summary": "CTM’s RSO 1 club night features Yetsuby, Cortisa Star, NGHTCRWLR, Catnapp, RONI, Container, TOCCORORO, Opium Hum and more across uncompromising club, bass, rap, hyperpop and noise-informed electronic music.",
+        "genres": [
+          "electronic",
+          "techno",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-halsey-2026",
+        "title": "Halsey: Back to Badlands",
+        "type": "concert",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 82,
+        "venueName": "Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.velodrom.de/en/events-tickets/event/detail/halsey-4071",
+        "ticketUrl": "https://www.ticketmaster.com/search?q=halsey+berlin",
+        "summary": "Halsey brings the Back to Badlands anniversary tour to Berlin’s Velodrom on 23 January 2026, presented locally by Trinity Music.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-raye-2026",
+        "title": "RAYE: This Tour May Contain New Music",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 83,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/raye/2026-01-24-2000",
+        "ticketUrl": "https://www.ticketmaster.de/event/raye-this-tour-may-contain-new-music-tickets/1744227625?language=en-us",
+        "summary": "RAYE plays Uber Arena on 24 January 2026 with special guests Absolutely and Amma as part of the This Tour May Contain New Music tour.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-apache207-jan29-2026",
+        "title": "Apache 207 at Uber Arena",
+        "type": "concert",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 84,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/apache207-2026/2026-01-29-2000",
+        "ticketUrl": "https://www.uber-arena.de/en/events/tickets/detail/apache207-2026/2026-01-28-2000/",
+        "summary": "Apache 207 returns to Uber Arena for a multi-night Berlin run; this representative confirmed date is the 29 January 2026 concert at 20:00.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-alter-bridge-2026",
+        "title": "Alter Bridge – What Lies Within Tour",
+        "type": "concert",
+        "startDate": "2026-01-25",
+        "endDate": "2026-01-25",
+        "importance": 76,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2026-01-25-alter-bridge",
+        "ticketUrl": "https://www.eventim.de/",
+        "summary": "Alter Bridge bring the What Lies Within Tour to Columbiahalle on 25 January 2026 with special guests Daughtry and Sevendust.",
+        "genres": []
+      }
+    ]
+  }
+}

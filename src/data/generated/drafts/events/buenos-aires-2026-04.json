@@ -1,0 +1,219 @@
+{
+  "slug": "buenos-aires",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:49:21.927Z",
+  "responseId": "resp_0bef16d169f42d0a0069ff65198f98819597c26ca12b56c9d3",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 mixed arena-scale Latin/pop and rock concerts with a strong electronic slate led by Sunsetstrip, Punta Carrasco and Groove club nights.",
+    "events": [
+      {
+        "id": "buenos-aires-emanero-apr-2026",
+        "title": "Emanero - Todo por un beso Tour 2026",
+        "type": "concert",
+        "startDate": "2026-04-09",
+        "endDate": "2026-04-09",
+        "importance": 74,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/emanero",
+        "ticketUrl": null,
+        "summary": "Emanero brought his Todo por un beso Tour 2026 to Movistar Arena, presenting his new conceptual album and a large-scale stage production.",
+        "genres": [
+          "latin",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "buenos-aires-fito-paez-apr-2026",
+        "title": "Fito Páez - Sale el Sol Tour 2026",
+        "type": "concert",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 88,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/fito-p%C3%A1ez",
+        "ticketUrl": null,
+        "summary": "Fito Páez returned to Buenos Aires with the Sale el Sol Tour 2026, combining career-defining songs with material from his recent album Novela.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-sunsetstrip-cattaneo-apr-2026",
+        "title": "Sunsetstrip Buenos Aires with Hernán Cattaneo",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 92,
+        "venueName": "Ciudad Universitaria",
+        "venueId": null,
+        "sourceUrl": "https://www.buenalive.com/event/hernan-cattaneo-sunsetstrip-2026",
+        "ticketUrl": "https://www.buenalive.com/event/hernan-cattaneo-sunsetstrip-2026",
+        "summary": "Hernán Cattaneo's flagship Sunsetstrip event returned to Ciudad Universitaria for two sunset-focused electronic music dates.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "buenos-aires-cassian-deckhaus-apr-2026",
+        "title": "Deckhaus presenta: Cassian",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 72,
+        "venueName": "Punta Carrasco",
+        "venueId": null,
+        "sourceUrl": "https://es.ra.co/events/2387337",
+        "ticketUrl": "https://es.ra.co/events/2387337",
+        "summary": "Deckhaus hosted Australian DJ/producer Cassian at Punta Carrasco for a late-night melodic house and techno event.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "buenos-aires-sebastian-yatra-apr-2026",
+        "title": "Sebastián Yatra - Entre Tanta Gente Tour",
+        "type": "concert",
+        "startDate": "2026-04-15",
+        "endDate": "2026-04-15",
+        "importance": 85,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/concerts/42943222-sebastian-yatra-at-movistar-arena",
+        "ticketUrl": null,
+        "summary": "Sebastián Yatra brought the Latin American leg of his Entre Tanta Gente Tour to Movistar Arena in Buenos Aires.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-roxette-apr-2026",
+        "title": "Roxette",
+        "type": "concert",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-16",
+        "importance": 84,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/roxette",
+        "ticketUrl": null,
+        "summary": "Roxette's new-era live show came to Movistar Arena, with Per Gessle and Lena Philipsson performing the band's classic catalog.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-jorge-drexler-taraca-apr-2026",
+        "title": "Jorge Drexler - TARACÁ",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-18",
+        "importance": 84,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/jorge-drexler",
+        "ticketUrl": null,
+        "summary": "Jorge Drexler played two Movistar Arena dates presenting his album TARACÁ, with candombe-informed arrangements and a seven-musician band.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-dream-theater-apr-2026",
+        "title": "Dream Theater",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/concerts/42943217-dream-theater-at-movistar-arena",
+        "ticketUrl": null,
+        "summary": "Progressive metal band Dream Theater played Movistar Arena in Buenos Aires, with Songkick listing the show for fans of metal and rock.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-no-te-va-gustar-apr-2026",
+        "title": "No Te Va a Gustar - Florece en el caos",
+        "type": "concert",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 78,
+        "venueName": "Estadio Ferro Carril Oeste",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/no-te-va-gustar",
+        "ticketUrl": null,
+        "summary": "Uruguayan band No Te Va a Gustar presented Florece en el caos at Estadio Ferro Carril Oeste, launching an extensive Argentina and international tour cycle.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-t78-utopic-apr-2026",
+        "title": "Utopic pres.: T78 3 HOURS, Kessler (AR) & ALYOSHA",
+        "type": "club-night",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 70,
+        "venueName": "Groove",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395726",
+        "ticketUrl": "https://ra.co/events/2395726",
+        "summary": "Utopic brought Italian techno artist T78 to Groove Palermo for a three-hour set with local support from Kessler (AR) and ALYOSHA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-lumineers-apr-2026",
+        "title": "The Lumineers - The Automatic Tour",
+        "type": "concert",
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "importance": 86,
+        "venueName": "Estadio Malvinas Argentinas",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/lumineers",
+        "ticketUrl": null,
+        "summary": "The Lumineers played Buenos Aires on The Automatic tour at Estadio Malvinas Argentinas in Paternal.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-paradoks-deckhaus-apr-2026",
+        "title": "Paradoks & More Artists by DUSK & Deckhaus",
+        "type": "club-night",
+        "startDate": "2026-04-30",
+        "endDate": "2026-04-30",
+        "importance": 70,
+        "venueName": "Oasis, Punta Carrasco",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393760",
+        "ticketUrl": "https://ra.co/events/2393760",
+        "summary": "DUSK and Deckhaus closed April at Oasis, Punta Carrasco with Paradoks, BAEZ & SAINT and Maximiliano on a progressive house and techno bill.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

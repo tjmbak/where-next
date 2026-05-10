@@ -1,0 +1,232 @@
+{
+  "slug": "ibiza",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:43:20.745Z",
+  "responseId": "resp_014e8f9644d056170069ff55a342a48197ae78842d448683a6",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 5,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "ibiza-black-coffee-hi-opening-2026",
+        "title": "Black Coffee Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 92,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/es/events/2026/black-coffee/2026-05-02",
+        "ticketUrl": null,
+        "summary": "Black Coffee opens his Saturday Hï Ibiza residency, with Shoba in the Theatre and Skepta’s Más Tiempo hosting the Club Room.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-i-love-reggaeton-2026",
+        "title": "I Love Reggaeton Ibiza Residency",
+        "type": "residency",
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "importance": 84,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://preview.ushuaiaibiza.com/en/club/news/big-names-revealed-for-i-love-reggaeton-ibiza",
+        "ticketUrl": null,
+        "summary": "I Love Reggaeton begins its first Ibiza residency at Ushuaïa, with the announced season lineup including Juan Magán, J. Álvarez, Nacho, Alexis & Fido, RKM and Cali & El Dandee.",
+        "genres": [
+          "latin",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ibiza-ants-day-night-may-2026",
+        "title": "ANTS Day & Night",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 89,
+        "venueName": "Ushuaïa Ibiza / [UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://preview.ushuaiaibiza.com/es/club/eventos/ants-on-2026-05-09",
+        "ticketUrl": null,
+        "summary": "ANTS runs a day-into-night May series linking Ushuaïa Ibiza and [UNVRS]; the 9 May Ushuaïa bill lists Nic Fanciulli, SOSA, VIOT, Ranger Trucco and Raul Rodriguez.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-amnesia-opening-party-2026",
+        "title": "Amnesia Opening Party 2026",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 91,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.amnesia.es/en/party-info/amnesia-opening-party-2026",
+        "ticketUrl": null,
+        "summary": "Amnesia opens its 50th-anniversary season with a Terrace lineup including Caal, Enzo Siragusa, Joseph Capriati, Josh Baker, Max Dean and Seth Troxler, plus Amelie Lens, 999999999 and Alan Fitzpatrick in the Main Room.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-pure-pacha-purple-disco-machine-2026",
+        "title": "Purple Disco Machine | Pure Pacha Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 86,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/purple-disco-machine--pure-pacha---opening-party-09-05-2026",
+        "ticketUrl": null,
+        "summary": "Pure Pacha opens its season with Purple Disco Machine, Cerrone, Deer Jade and David Bay at Pacha Ibiza.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "ibiza-music-on-pacha-opening-2026",
+        "title": "Marco Carola Presents Music On Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-15",
+        "importance": 88,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/marco-carola-presents-music-on---opening-party-15-05-2026",
+        "ticketUrl": null,
+        "summary": "Marco Carola opens Music On’s Friday season at Pacha with Paco Osuna, Ilario Alicante, Mason Collective and Da Vid.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-glitterbox-amnesia-opening-2026",
+        "title": "Glitterbox Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-15",
+        "importance": 88,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.amnesia.es/en/party-info/glitterbox",
+        "ticketUrl": null,
+        "summary": "Glitterbox starts its new Friday residency at Amnesia with Armand Van Helden, Jayda G, Louie Vega, Skream performing a disco set, Sophie Ellis-Bextor live, Horse Meat Disco and Melvo Baptiste.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "ibiza-tomorrowland-dvlm-ushuaia-2026",
+        "title": "Tomorrowland and Dimitri Vegas & Like Mike",
+        "type": "residency",
+        "startDate": "2026-05-27",
+        "endDate": "2026-05-27",
+        "importance": 86,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://preview.ushuaiaibiza.com/en/club/events/tomorrowland-and-dimitri-vegas-like-mike-on-2026-05-27",
+        "ticketUrl": null,
+        "summary": "Tomorrowland and Dimitri Vegas & Like Mike continue their Wednesday Ushuaïa Ibiza residency, with Dimitri Vegas, Joel Corry, Bassjackers, Wukong and James Carter listed for 27 May.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "ibiza-calvin-harris-ushuaia-opening-2026",
+        "title": "Calvin Harris Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 92,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://preview.ushuaiaibiza.com/en/club/events/calvin-harris",
+        "ticketUrl": null,
+        "summary": "Calvin Harris opens his Friday Ushuaïa Ibiza residency on 29 May with MK and Tyson O’Brien.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ibiza-charlotte-de-witte-unvrs-2026",
+        "title": "Charlotte de Witte at [UNVRS]",
+        "type": "club-night",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 87,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/charlotte-de-witte/29-05-2026",
+        "ticketUrl": null,
+        "summary": "Charlotte de Witte returns to [UNVRS] for a one-night-only takeover on Friday 29 May, with Enzo Siragusa named for the Main Room.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-mestiza-hi-opening-2026",
+        "title": "MËSTIZA Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-31",
+        "endDate": "2026-05-31",
+        "importance": 85,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/es/events/2026/mestiza/2026-05-31",
+        "ticketUrl": null,
+        "summary": "MËSTIZA open their Hï Ibiza Sunday run with Patrick Mason, Nooriyah and Burlak in the Theatre, while Indira Paganotto’s ARTCORE hosts the Club Room with 999999999, Shdw and Juno.",
+        "genres": [
+          "house",
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "ibiza-solomun-pacha-opening-2026",
+        "title": "Solomun+1 Opening Party",
+        "type": "residency",
+        "startDate": "2026-05-31",
+        "endDate": "2026-05-31",
+        "importance": 90,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/solomun1---opening-party-31-05-2026",
+        "ticketUrl": null,
+        "summary": "Solomun+1 opens its Sunday Pacha Ibiza season on 31 May, with Solomun confirmed on the lineup.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

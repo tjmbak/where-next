@@ -1,0 +1,189 @@
+{
+  "slug": "miami",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:04:10.211Z",
+  "responseId": "resp_05156b3b605d360c0069ff5a8657f081a19684b37e4d87d872",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is anchored by III Points and Miami Carnival, with a strong run of Latin arena and stadium concerts around the same weekends.",
+    "events": [
+      {
+        "id": "miami-karol-g-tropitour-2026",
+        "title": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+        "type": "concert",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 90,
+        "venueName": "Hard Rock Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_a38LpR5/karol-g-viajando-por-el-mundo-tropitour",
+        "ticketUrl": "https://www.ticketmaster.com/karol-g-tickets/artist/2412593",
+        "summary": "Karol G brings her Viajando Por El Mundo Tropitour to Hard Rock Stadium in Miami Gardens for a large-scale Latin pop/reggaeton stadium date.",
+        "genres": [
+          "latin",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-kany-garcia-2026",
+        "title": "Kany Garcia - Puerta Abierta Tour",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 76,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/kany-garcia-1",
+        "ticketUrl": "https://www.ticketmaster.com/kany-garcia-puerta-abierta-tour-miami-florida-10-03-2026/event/0D006488B386B2C2",
+        "summary": "Puerto Rican singer-songwriter Kany Garcia brings her Puerta Abierta Tour to Kaseya Center for a Saturday night Latin pop concert.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-black-country-new-road-2026",
+        "title": "Black Country, New Road",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 70,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/black-country-new-road/39667",
+        "ticketUrl": "https://www.axs.com/",
+        "summary": "Black Country, New Road perform at Miami Beach Bandshell in a show presented by AEG, highlighting the band’s post-rock, jazz and chamber-pop direction.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-camilo-usa-tour-2026",
+        "title": "Camilo - USA 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 78,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/camilo-1",
+        "ticketUrl": "https://www.ticketmaster.com/camilo-tickets/artist/2773173",
+        "summary": "Camilo’s USA 2026 Tour stop at Kaseya Center is a rescheduled Miami date, with the Colombian artist bringing his Latin pop catalog to the arena.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-stamped-jerk-jollof-carnival-2026",
+        "title": "STAMPED x Jerk X Jollof: Miami Carnival Poolside",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 70,
+        "venueName": "Arlo Wynwood",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/stamped-x-jerk-x-jollof-miami-carnival-%28poolside%29/38619",
+        "ticketUrl": "https://www.eventbrite.com/",
+        "summary": "STAMPED and Jerk x Jollof team up for an eight-hour Miami Carnival poolside party at Arlo Wynwood, focused on African and Caribbean diaspora club sounds.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "miami-reggae-fest-blaze-2026",
+        "title": "Reggae Fest Blaze Miami with Aidonia",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 75,
+        "venueName": "Wynwood Marketplace",
+        "venueId": null,
+        "sourceUrl": "https://www.reggaefest.com/miami",
+        "ticketUrl": null,
+        "summary": "Reggae Fest Blaze Miami returns to Wynwood Marketplace with Jamaican dancehall artist Aidonia headlining, plus DJ-driven reggae, soca and Caribbean party sets.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-bethel-music-2026",
+        "title": "Bethel Music 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 70,
+        "venueName": "The Fillmore Miami Beach at The Jackie Gleason Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZby59vjM5/bethel-music-2026-tour",
+        "ticketUrl": "https://www.ticketmaster.com/bethel-music-2026-tour-miami-beach-florida-10-11-2026/event/0D006392D705CDCB",
+        "summary": "Bethel Music brings its 2026 Tour to The Fillmore Miami Beach for a Sunday evening contemporary worship concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-carnival-parade-concert-2026",
+        "title": "Miami Carnival Parade of Bands & Concert",
+        "type": "carnival",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 92,
+        "venueName": "Miami-Dade County Fairgrounds",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/miami-carnival/35",
+        "ticketUrl": "https://www.caribtix.com/",
+        "summary": "Miami Carnival’s grand finale brings the Parade of Bands & Concert to Miami-Dade County Fairgrounds, with Caribbean music, masquerade bands, steelpan, soca, reggae and dancehall culture.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-iii-points-2026",
+        "title": "III Points Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 95,
+        "venueName": "Mana Wynwood",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/",
+        "ticketUrl": "https://iiipoints.frontgatetickets.com/",
+        "summary": "III Points returns to Mana Wynwood for its 2026 edition, with Phase I announced and more than 100 additional artists still to be added.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-eros-ramazzotti-2026",
+        "title": "Eros Ramazzotti - Una Historia Importante",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/eros-ramazzotti-3",
+        "ticketUrl": "https://www.ticketmaster.com/eros-ramazzotti-una-historia-importante-miami-florida-10-31-2026/event/0D00628388B04C45",
+        "summary": "Italian pop star Eros Ramazzotti brings his Una Historia Importante tour to Kaseya Center for a Halloween-night Miami concert.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

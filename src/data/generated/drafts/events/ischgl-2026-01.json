@@ -1,0 +1,35 @@
+{
+  "slug": "ischgl",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:40:01.381Z",
+  "responseId": "resp_03767dd5e61865a90069ff62facc2c8195bc7f3e09af95d002",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 had few verifiable flagship music events in Ischgl; the confirmed listings found were après-ski DJ club dates rather than major Top of the Mountain concerts.",
+    "events": [
+      {
+        "id": "ischgl-sebastian-bronk-schatzi-jan-2026",
+        "title": "Sebastian Bronk at Schatzi Bar",
+        "type": "club-night",
+        "startDate": "2026-01-08",
+        "endDate": "2026-01-08",
+        "importance": 62,
+        "venueName": "Schatzi Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107657819-sebastian-bronk-at-schatzi-bar?came_from=253",
+        "ticketUrl": "https://www.bandsintown.com/e/107657819-sebastian-bronk-at-schatzi-bar?came_from=253",
+        "summary": "Bandsintown listed Dutch producer/DJ Sebastian Bronk at Schatzi Bar in Ischgl on January 8, 2026 at 16:00, with free admission. The listing describes his sound as spanning bass, disco, house, tech house, techno and harder styles.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

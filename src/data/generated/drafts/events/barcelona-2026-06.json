@@ -1,0 +1,231 @@
+{
+  "slug": "barcelona",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:50:01.303Z",
+  "responseId": "resp_007a66b4b4b5fc060069ff571f3cc08195a611244ca0ff1dd6",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is anchored by Primavera Sound and Sónar, with OFFSónar turning the same week into a citywide electronic-music cluster.",
+    "events": [
+      {
+        "id": "barcelona-primavera-sound-2026",
+        "title": "Primavera Sound Barcelona 2026",
+        "type": "festival",
+        "startDate": "2026-06-03",
+        "endDate": "2026-06-07",
+        "importance": 100,
+        "venueName": "Parc del Fòrum",
+        "venueId": "primavera",
+        "sourceUrl": "https://www.primaverasound.com/en/barcelona",
+        "ticketUrl": "https://www.primaverasound.com/en/barcelona",
+        "summary": "Primavera Sound returns to Parc del Fòrum with a confirmed 2026 bill led by The Cure, Doja Cat, Gorillaz, Massive Attack, The xx, Addison Rae and My Bloody Valentine. The programme spans pop, indie, electronic and experimental acts across the festival week.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-sonar-2026",
+        "title": "Sónar Barcelona 2026",
+        "type": "festival",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-20",
+        "importance": 96,
+        "venueName": "Fira Gran Via",
+        "venueId": null,
+        "sourceUrl": "https://sonar.es/en",
+        "ticketUrl": "https://sonar.es/en/tickets",
+        "summary": "Sónar’s 2026 edition is confirmed for 18–20 June at Fira Gran Via, with its music programme and Sónar+D access on the same festival pass. Confirmed artists include The Prodigy, Charlotte de Witte, Amelie Lens, Skepta, Boys Noize, Nia Archives and Sammy Virji.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-baddest-behaviour-2026",
+        "title": "OFFSónar 2026: Baddest Behaviour – Mau P",
+        "type": "club-night",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 82,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Mau P brings his Baddest Behaviour concept to OFFSónar at Poble Espanyol’s Monasterio Stage. The confirmed event runs from 5pm to 2am on Thursday 18 June.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-keinemusik-2026",
+        "title": "OFFSónar 2026: Rampa & Adam Port – Keinemusik",
+        "type": "club-night",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 88,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "OFFSónar confirms Rampa & Adam Port of Keinemusik for a Plaza Mayor session at Poble Espanyol. The show is listed for Thursday 18 June from 5pm to 2am.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-lone-romantic-maceo-plex-2026",
+        "title": "OFFSónar 2026: Lone Romantic by Maceo Plex",
+        "type": "club-night",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 82,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Maceo Plex presents Lone Romantic at OFFSónar on the Carpa&Picnic stage. The confirmed Poble Espanyol event takes place Thursday 18 June from 5pm to 2am.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-adriatique-x-2026",
+        "title": "OFFSónar 2026: Adriatique Present X",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 86,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Adriatique’s Present X takeover is confirmed at OFFSónar for Friday 19 June at Poble Espanyol. The event is scheduled from 5pm to 2am and focuses on forward-thinking melodic and club electronics.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-fuse-london-2026",
+        "title": "OFFSónar 2026: FUSE London",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 82,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "FUSE London is confirmed as part of OFFSónar’s Saturday 20 June programme at Poble Espanyol. The event runs from 5pm to 2am.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-mochakk-calling-2026",
+        "title": "OFFSónar 2026: Mochakk Calling",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 83,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Mochakk Calling is confirmed for OFFSónar at Poble Espanyol on Saturday 20 June. The official listing gives a 5pm to 2am schedule.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-elrow-2026",
+        "title": "OFFSónar 2026: elrow",
+        "type": "club-night",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 86,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": "https://www.enterticket.es/",
+        "summary": "elrow closes the OFFSónar 2026 run at Poble Espanyol on Sunday 21 June. The official event is listed as a takeover running from 4pm to midnight.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-kany-garcia-2026",
+        "title": "Kany García",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 72,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/kany-garcia-0",
+        "ticketUrl": "https://www.ticketmaster.es/",
+        "summary": "Puerto Rican singer-songwriter Kany García brings her European tour to Palau Sant Jordi. The venue confirms the Barcelona concert for Thursday 18 June at 20:30.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-grupo-frontera-2026",
+        "title": "Grupo Frontera",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 74,
+        "venueName": "Olimpic Arena Badalona",
+        "venueId": null,
+        "sourceUrl": "https://www.olimpicarena.com/en/agenda/grupo-frontera-concert-olimpic-arena/",
+        "ticketUrl": "https://www.ticketmaster.es/",
+        "summary": "Grupo Frontera’s ‘Triste pero bien C*brón’ tour stops at Olimpic Arena in nearby Badalona on Friday 26 June. The venue lists the show at 21:00 as the first Spanish stop of the tour.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-barts-festival-2026",
+        "title": "BARTS Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-28",
+        "endDate": "2026-07-24",
+        "importance": 78,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://www.barcelonaturisme.com/wv3/en/agenda/amp/20541/barts-festival.html",
+        "ticketUrl": "https://www.barts.cat/landing_festival/",
+        "summary": "BARTS Festival launches at Poble Espanyol from 28 June to 24 July, carrying the legacy of the former Barcelona venue into an outdoor summer-concert format. The opening programme includes BEAT performing the music of King Crimson, with further confirmed names including Biffy Clyro, Belle & Sebastian, ZZ Top and Elvis Crespo.",
+        "genres": [
+          "festival",
+          "pop",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

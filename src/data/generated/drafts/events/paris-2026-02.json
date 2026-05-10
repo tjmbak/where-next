@@ -1,0 +1,215 @@
+{
+  "slug": "paris",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:18:28.511Z",
+  "responseId": "resp_040f2d80ebb77fc40069ff5dd4de00819ca3f62afb9f074a96",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Paris combined arena-scale pop and rock dates with Radio France experimental festivals and a strong techno/electronic club thread.",
+    "events": [
+      {
+        "id": "paris-presences-festival-2026",
+        "title": "Festival Présences 2026",
+        "type": "festival",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-08",
+        "importance": 90,
+        "venueName": "Maison de la Radio et de la Musique",
+        "venueId": null,
+        "sourceUrl": "https://www.maisondelaradioetdelamusique.fr/sites/default/files/2026-01/Presences%202026%20ok.pdf",
+        "ticketUrl": null,
+        "summary": "Radio France’s 36th Festival Présences presented 13 concerts and 54 works, with the 2026 edition centered on composer Georges Aperghis. The official programme lists the festival running through February 8 at Maison de la Radio et de la Musique and related Paris venues.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-presences-electronique-2026",
+        "title": "Présences électronique 2026",
+        "type": "festival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 85,
+        "venueName": "Maison de la Radio et de la Musique - Studio 104",
+        "venueId": null,
+        "sourceUrl": "https://www.maisondelaradioetdelamusique.fr/sites/default/files/2026-02/PE26_low.pdf",
+        "ticketUrl": null,
+        "summary": "INA GRM’s Présences électronique took over Studio 104 for three days of electroacoustic, experimental and electronic music. The programme listed works and artists including Włodzimierz Kotoński, Julia Giertz, Perila, Aho Ssan, Amma Ateria and Rhys Chatham.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-biffy-clyro-2026",
+        "title": "Biffy Clyro",
+        "type": "concert",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-01",
+        "importance": 76,
+        "venueName": "L’Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/en/upcoming-events/biffy-clyro/",
+        "ticketUrl": "https://www.olympiahall.com/en/upcoming-events/biffy-clyro/",
+        "summary": "Scottish trio Biffy Clyro played L’Olympia on February 1 as part of their European tour around the album Futique. Bartrees Strange was listed as special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-feu-chatterton-2026",
+        "title": "Feu! Chatterton",
+        "type": "concert",
+        "startDate": "2026-02-10",
+        "endDate": "2026-02-11",
+        "importance": 82,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/feu-chatterton--ab663",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/feu-chatterton--ab663",
+        "summary": "French art-rock/pop band Feu! Chatterton played two Accor Arena dates on February 10 and 11. The venue described the shows as a return after the platinum-certified Palais d’argile era.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-raye-2026",
+        "title": "RAYE – This Tour May Contain New Music",
+        "type": "concert",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/raye-this-tour-may-contain-new-music--7ff72",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/raye-this-tour-may-contain-new-music--7ff72",
+        "summary": "British artist RAYE brought her This Tour May Contain New Music tour to Accor Arena on February 15. The official venue listing named ABSOLUTELY and AMMA as accompanying acts.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-mika-2026",
+        "title": "MIKA",
+        "type": "concert",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/mika--0ba7e",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/mika--0ba7e",
+        "summary": "MIKA returned to Accor Arena on February 16 for a large-scale pop show. The venue listing framed the date around his post-2023 comeback and a new English-language project in progress.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-clara-luciani-2026",
+        "title": "Clara Luciani",
+        "type": "concert",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-19",
+        "importance": 83,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/clara-luciani--d1750",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/clara-luciani--d1750",
+        "summary": "Clara Luciani played two additional Accor Arena dates on February 18 and 19. The official page highlighted her 2024 album Mon sang and her status as a major figure in modern French pop.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-florence-machine-2026",
+        "title": "Florence + The Machine",
+        "type": "concert",
+        "startDate": "2026-02-22",
+        "endDate": "2026-02-22",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/florence-the-machine--8e392",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/florence-the-machine--8e392",
+        "summary": "Florence + The Machine played Accor Arena on February 22, led by Florence Welch. Paris Paloma was listed as opening act on the official venue page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-indochine-2026",
+        "title": "Indochine – Arena Tour",
+        "type": "concert",
+        "startDate": "2026-02-24",
+        "endDate": "2026-03-07",
+        "importance": 90,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/indochine--07b34",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/indochine--07b34",
+        "summary": "Indochine’s massive Accor Arena run began in February and continued into March, with listed Paris dates on February 24, 25, 27 and 28 plus March dates. The venue described the shows as part of the band’s Arena Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-kiki-phantom-2026",
+        "title": "KI/KI at Phantom",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 80,
+        "venueName": "Phantom, Paris",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2252569",
+        "ticketUrl": "https://ra.co/events/2252569",
+        "summary": "Dutch DJ KI/KI headlined Phantom on February 14 for a late-night techno and electro set. Resident Advisor listed the event from 23:00 to 06:00 at the Bercy venue.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-acid-arab-la-hafla-2026",
+        "title": "Acid Arab Présente LA HAFLA: Acid Arab, Nesa Azadikhah",
+        "type": "club-night",
+        "startDate": "2026-02-19",
+        "endDate": "2026-02-19",
+        "importance": 78,
+        "venueName": "Rex Club",
+        "venueId": "rex-club",
+        "sourceUrl": "https://ra.co/events/2361145",
+        "ticketUrl": "https://ra.co/events/2361145",
+        "summary": "Acid Arab’s LA HAFLA returned to Rex Club on February 19 with Acid Arab and Nesa Azadikhah. The RA listing placed the party at Rex Club and tagged it across techno, house and electronic sounds.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-raw-unreal-kuko-2026",
+        "title": "RAW x Unreal • KUKO All Night Long",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 78,
+        "venueName": "Parc Floral de Paris",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2315647",
+        "ticketUrl": "https://ra.co/events/2315647",
+        "summary": "RAW and Unreal presented KUKO all night long at Parc Floral de Paris on February 20, with Alex Nantaya opening. Resident Advisor listed the event as a large-scale techno production running from 23:00 to 07:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

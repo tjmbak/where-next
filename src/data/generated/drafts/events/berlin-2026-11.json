@@ -1,0 +1,218 @@
+{
+  "slug": "berlin",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:54:25.224Z",
+  "responseId": "resp_002e787efb7f98b30069ff5838289081a09ea23cfe3195462f",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 11,
+    "year": 2026,
+    "notes": "Berlin’s November 2026 calendar is already strong on confirmed arena-scale pop/electronic tours, Jazzfest Berlin, and music-industry showcases, while most late-night club lineups are not yet announced this far out.",
+    "events": [
+      {
+        "id": "berlin-jazzfest-2026",
+        "title": "Jazzfest Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-10-29",
+        "endDate": "2026-11-01",
+        "importance": 95,
+        "venueName": "Haus der Berliner Festspiele and other venues",
+        "venueId": null,
+        "sourceUrl": "https://www.berlinerfestspiele.de/jazzfest-berlin/programm/2026/jazzfest-berlin-2026",
+        "ticketUrl": null,
+        "summary": "Berliner Festspiele confirms Jazzfest Berlin 2026 for 29 October to 1 November at Haus der Berliner Festspiele and other locations. The 2026 programme is not yet fully announced, but the dates and festival edition are confirmed.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-most-wanted-music-2026",
+        "title": "Most Wanted: Music 2026",
+        "type": "conference",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-05",
+        "importance": 82,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://berlin-music-commission.de/projekte/most-wanted-music/",
+        "ticketUrl": null,
+        "summary": "Berlin Music Commission confirms MW:M26 for 3–5 November 2026 in Berlin. The event combines music-business conference programming with MW:M Live showcases and the Listen to Berlin Awards ecosystem.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-dabeull-live-band-2026",
+        "title": "Dabeull Live Band in Berlin",
+        "type": "concert",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-03",
+        "importance": 76,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/dabeull_2026-11-03_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/dabeull_2026-11-03_20/",
+        "summary": "Tempodrom lists Dabeull Live Band for 3 November 2026, with doors at 19:00 and show start at 20:00. The French producer brings an analog live-band format focused on funk, retro synths and groove-led electronic music.",
+        "genres": [
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-tokio-hotel-2026",
+        "title": "Tokio Hotel",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/tokio-hotel-2026",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/tokio-hotel-2026",
+        "summary": "Uber Arena confirms Tokio Hotel for 7 November 2026 in Berlin. The German pop band is booked for a large-scale arena show with a 20:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-enter-shikari-columbiahalle-2026",
+        "title": "Enter Shikari + Holding Absence + The Callous Daoboys",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 78,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.entershikari.com/events/2026-11-07-lose-your-self-tour-2026-columbiahalle",
+        "ticketUrl": "https://www.entershikari.com/events/2026-11-07-lose-your-self-tour-2026-columbiahalle",
+        "summary": "Enter Shikari’s official tour page confirms the Lose Your Self Tour 2026 at Columbiahalle on 7 November 2026. Holding Absence and The Callous Daoboys are listed as supports.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-jungle-uber-arena-2026",
+        "title": "Jungle",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 83,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/jungle-26",
+        "ticketUrl": null,
+        "summary": "Uber Arena confirms London neo-soul group Jungle for 8 November 2026 in Berlin. The venue page lists Rio Kosta as special guest and a 20:00 show start.",
+        "genres": [
+          "r-and-b",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-bloc-party-interpol-2026",
+        "title": "Bloc Party & Interpol",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 83,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/bloc-party-interpol/2026-11-11-1915",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/bloc-party-interpol/2026-11-11-1915",
+        "summary": "Uber Arena confirms the Bloc Party and Interpol co-headline show for 11 November 2026. The venue lists doors at 18:00 and show start at 19:15.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-hatsune-miku-miku-expo-2026",
+        "title": "Hatsune Miku: MIKU EXPO 2026 EUROPE",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 82,
+        "venueName": "Velodrom Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.velodrom.de/events-tickets/event/detail/hatsune-miku-4092",
+        "ticketUrl": "https://www.velodrom.de/events-tickets/event/detail/hatsune-miku-4092",
+        "summary": "Velodrom confirms Hatsune Miku’s MIKU EXPO 2026 EUROPE stop for 17 November 2026. The listing describes the show as a live production with band, light show and animated choreography.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-apsilon-glanz-null-2026",
+        "title": "Apsilon: Glanz Null Tour",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 75,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://shop.apsilon.de/events/apsilon-glanz-null-tour-columbiahalle-2026-11-19",
+        "ticketUrl": "https://shop.apsilon.de/events/apsilon-glanz-null-tour-columbiahalle-2026-11-19",
+        "summary": "Apsilon’s official shop confirms the Glanz Null Tour stop at Columbiahalle on 19 November 2026. The Berlin rapper’s event page lists doors at 18:30 and start at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-the-prodigy-2026",
+        "title": "The Prodigy: The European Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 87,
+        "venueName": "Velodrom Berlin",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2026-11-21-the-prodigy",
+        "ticketUrl": "https://trinitymusic.de/event/2026-11-21-the-prodigy",
+        "summary": "Trinity Music confirms The Prodigy at Velodrom on 21 November 2026. It is the Berlin stop of the band’s European Tour 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-grossstadtgefluester-2026",
+        "title": "Grossstadtgeflüster: 23 2/3 Jahre Jubiläumstour 2026",
+        "type": "concert",
+        "startDate": "2026-11-26",
+        "endDate": "2026-11-26",
+        "importance": 79,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.greyzone-tickets.de/produkte/1208-tickets-grossstadtgefluester-columbiahalle-berlin-am-26-11-2026",
+        "ticketUrl": "https://www.greyzone-tickets.de/produkte/1208-tickets-grossstadtgefluester-columbiahalle-berlin-am-26-11-2026",
+        "summary": "Greyzone’s ticket page confirms Berlin electro-pop band Grossstadtgeflüster at Columbiahalle on 26 November 2026. The show is part of the band’s 23 2/3-year anniversary tour.",
+        "genres": [
+          "electronic",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-fatoni-drama-endet-nie-2026",
+        "title": "Fatoni: Drama endet nie Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 75,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://loft.de/event/20261128-fatoni/",
+        "ticketUrl": "https://loft.de/event/20261128-fatoni/",
+        "summary": "Loft Concerts confirms Fatoni at Columbiahalle on 28 November 2026 for the Drama endet nie Tour. The German rapper’s tour is presented with new material and a best-of component.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

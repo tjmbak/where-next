@@ -1,0 +1,203 @@
+{
+  "slug": "port-of-spain",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:51:30.493Z",
+  "responseId": "resp_09c2b97572bc39380069ff65a5c140819087b7dcbc8b7d9b75",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "port-of-spain",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 was heavy on pre-Carnival soca, calypso and steelpan programming around Port of Spain, with major fetes clustering on the final weekend of the month.",
+    "events": [
+      {
+        "id": "port-of-spain-french-toast-2026",
+        "title": "French Toast \"The Breakfast & Bacchanal Fete\"",
+        "type": "club-night",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 74,
+        "venueName": "Queen Hall, St Ann",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/frenchtoast26",
+        "ticketUrl": "https://islandetickets.com/event/frenchtoast26",
+        "summary": "House of Siete billed French Toast as the official breakfast fete to start Trinidad Carnival 2026. The event was confirmed for Queen Hall, St Ann on Sunday, January 4, 2026.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-mical-teja-mas-experience-2026",
+        "title": "Mical Teja | MAS The Experience '26",
+        "type": "concert",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-12",
+        "importance": 82,
+        "venueName": "Queen's Hall Gardens",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/mastheexperience",
+        "ticketUrl": "https://islandetickets.com/event/mastheexperience",
+        "summary": "Mical Teja presented MAS The Experience as a Carnival culture-and-music event at Queen's Hall Gardens. The ticket page listed it for January 11–12, 2026 from 5:00 PM to midnight.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-neon-lit-fete-2026",
+        "title": "NEON - The Lit Fete",
+        "type": "club-night",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-17",
+        "importance": 73,
+        "venueName": "Queen's Park Oval",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketgateway.com/event/completed/neonthelitfete",
+        "ticketUrl": "https://www.ticketgateway.com/event/completed/neonthelitfete",
+        "summary": "WinerBoy Entertainment's NEON - The Lit Fete was listed as a music and Carnival event at Queen's Park Oval. TicketGateway confirmed the date as January 16–17, 2026, 9:00 PM–3:00 AM.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-phoenix-festival-2026",
+        "title": "Phoenix The Festival",
+        "type": "festival",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 72,
+        "venueName": "Holy Name Convent Secondary School",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/HNCPhoenix8",
+        "ticketUrl": "https://islandetickets.com/event/HNCPhoenix8",
+        "summary": "Holy Name Convent's Phoenix The Festival returned as a food-inclusive cooler experience with a soca-artiste lineup. The event page confirmed January 17, 2026 at 2 Queen's Park East, Port of Spain.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-junior-panorama-finals-2026",
+        "title": "National Junior Panorama Finals 2026",
+        "type": "festival",
+        "startDate": "2026-01-18",
+        "endDate": "2026-01-18",
+        "importance": 86,
+        "venueName": "Queen's Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.pantrinbago.co.tt/Events/TabId/140/ArtMID/776/ArticleID/5551/National-Junior-Panorama-Finals.aspx",
+        "ticketUrl": null,
+        "summary": "Pan Trinbago confirmed the National Junior Panorama Finals for January 18, 2026 at Queen's Park Savannah. The steelpan finals featured 21 & Under and 19 & Under categories.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-dkaiso-dynasty-2026",
+        "title": "D'Kaiso Dynasty",
+        "type": "residency",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 78,
+        "venueName": "Radisson Hotel",
+        "venueId": null,
+        "sourceUrl": "https://socanews.com/events/dkaiso-dynasty-2-2/",
+        "ticketUrl": "https://islandetickets.com/event/dkaisodynasty-2026",
+        "summary": "D'Kaiso Dynasty was a TUCO calypso-tent night at the Radisson Hotel on Wrightson Road. The January 31 listing named a large cast including Brother Valentino, Gypsy, Karene Asche, Yung Bredda, Rikki Jai, Preedy and others.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-soaka-arts-music-fest-2026",
+        "title": "Soaka Arts + Music Fest Weekend",
+        "type": "festival",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-25",
+        "importance": 89,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.travelhaeven.com/events/soaka-arts-music-fest",
+        "ticketUrl": "https://www.travelhaeven.com/events/soaka-arts-music-fest",
+        "summary": "Soaka Arts + Music Fest Weekend bundled three official events from January 23–25, 2026: Iron Park, wOw Carnival Market and Soaka Till Sunrise. The festival focused on Carnival music, steelpan culture, DJs, paint, powder and soca energy.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-soca-village-2026",
+        "title": "Soca Village - For the Love of Soca Music",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-25",
+        "importance": 76,
+        "venueName": "Rock Back, Chaguaramas",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/Socavillage26",
+        "ticketUrl": "https://islandetickets.com/event/Socavillage26",
+        "summary": "House of Siete's Soca Village was positioned as a throwback soca fete focused on soca from the 1980s through the present. Island E-Tickets confirmed it for January 24–25, 2026 at Rock Back, Chaguaramas.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-qrc-fete-ramajay-2026",
+        "title": "QRC Fete: Ramajay",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 80,
+        "venueName": "Queen's Royal College Grounds",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/qrcfeteramajay",
+        "ticketUrl": "https://islandetickets.com/event/qrcfeteramajay",
+        "summary": "QRC Events confirmed Fete Royal: Ramajay as a Carnival 2026 fete at Queen's Royal College Grounds. The event was scheduled for January 31–February 1, 2026 from 6:30 PM to 2:00 AM.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-fete-gala-2026",
+        "title": "Fete Gala",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 82,
+        "venueName": "Queen's Park Oval",
+        "venueId": null,
+        "sourceUrl": "https://socanews.com/events/fete-gala-3/",
+        "ticketUrl": "https://islandetickets.com/",
+        "summary": "Fete Gala was listed as an all-inclusive Carnival experience at Queen's Park Oval. Soca News confirmed the event for January 31–February 1, 2026 from 6:00 PM to 2:00 AM.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-enamour-2026",
+        "title": "SOTU presents Enamour",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 78,
+        "venueName": "Club Vice",
+        "venueId": null,
+        "sourceUrl": "https://socanews.com/events/enamour/",
+        "ticketUrl": null,
+        "summary": "SOTU presented Enamour at Club Vice on Cipriani Boulevard. The listing described Enamour's sound as deep house, progressive and dark techno, with the event running January 31–February 1, 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

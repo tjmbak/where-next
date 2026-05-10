@@ -1,0 +1,225 @@
+{
+  "slug": "london",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:00:04.162Z",
+  "responseId": "resp_0a32d6aaff21807b0069ff5989d4688194a2f1c8e2312bfeba",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is unusually strong for London outdoor music, led by Victoria Park, Crystal Palace Bowl, Greenwich’s Old Royal Naval College, Gunnersbury Park and Wembley Stadium programming.",
+    "events": [
+      {
+        "id": "london-all-points-east-2026",
+        "title": "All Points East 2026",
+        "type": "festival",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-30",
+        "importance": 96,
+        "venueName": "Victoria Park",
+        "venueId": null,
+        "sourceUrl": "https://www.allpointseastfestival.com/",
+        "ticketUrl": "https://www.allpointseastfestival.com/tickets/",
+        "summary": "All Points East returns to Victoria Park with major headline days including Jorja Smith + Tems, Lorde, Outbreak Fest with Deftones, two Tyler, The Creator days and Twenty One Pilots.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-the-weeknd-wembley-2026",
+        "title": "The Weeknd: After Hours Til Dawn Stadium Tour",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-19",
+        "importance": 96,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.theweeknd.com/tour/",
+        "ticketUrl": "https://www.livenation.co.uk/",
+        "summary": "The Weeknd plays a five-date Wembley Stadium run on August 14, 15, 16, 18 and 19 as part of the After Hours Til Dawn tour.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-jazz-cafe-festival-2026",
+        "title": "Jazz Cafe Festival 2026: Ari Lennox",
+        "type": "festival",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 82,
+        "venueName": "Burgess Park",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/v3kgg6-jazz-cafe-festival-2026-2nd-aug-burgess-park-london-tickets",
+        "ticketUrl": "https://dice.fm/event/v3kgg6-jazz-cafe-festival-2026-2nd-aug-burgess-park-london-tickets",
+        "summary": "Jazz Cafe Festival returns to Burgess Park with Ari Lennox listed as a lead draw, plus Greentea Peng, Smino and more on the DICE lineup listing.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-peggy-gou-thames-2026",
+        "title": "Peggy Gou on the Thames",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 86,
+        "venueName": "Old Royal Naval College",
+        "venueId": null,
+        "sourceUrl": "https://www.labyrinthevents.com/events/preggy-gou",
+        "ticketUrl": "https://www.labyrinthevents.com/events/preggy-gou",
+        "summary": "Labyrinth presents Peggy Gou at the Old Royal Naval College, with Prospa, Kelly Lee Owens and MPH also listed on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-overmono-pure-devotion-2026",
+        "title": "Overmono present Pure Devotion",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 80,
+        "venueName": "Old Royal Naval College",
+        "venueId": null,
+        "sourceUrl": "https://www.labyrinthevents.com/events/overmono",
+        "ticketUrl": "https://www.labyrinthevents.com/events/overmono",
+        "summary": "Overmono curate a Labyrinth on the Thames date at the Old Royal Naval College, joined by Erika de Casier, Nick León b2b Verraco, Loukeman, Carista and Leod.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-anjunadeep-thames-2026",
+        "title": "Anjunadeep Open Air on the Thames",
+        "type": "club-night",
+        "startDate": "2026-08-09",
+        "endDate": "2026-08-09",
+        "importance": 78,
+        "venueName": "Old Royal Naval College",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/partner/tickets/event/k6aagl-anjunadeep-open-air-on-the-thames-9th-aug-old-royal-naval-college-london-tickets",
+        "ticketUrl": "https://dice.fm/partner/tickets/event/k6aagl-anjunadeep-open-air-on-the-thames-9th-aug-old-royal-naval-college-london-tickets",
+        "summary": "Anjunadeep Open Air returns to the Old Royal Naval College for a Labyrinth-presented afternoon and evening event, with Marsh, Catching Flies and James Grant among the listed artists.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-michael-bibi-thames-2026",
+        "title": "Michael Bibi on the Thames",
+        "type": "club-night",
+        "startDate": "2026-08-16",
+        "endDate": "2026-08-16",
+        "importance": 84,
+        "venueName": "Old Royal Naval College",
+        "venueId": null,
+        "sourceUrl": "https://www.labyrinthevents.com/michael-bibi-2026?ref=pr",
+        "ticketUrl": "https://www.labyrinthevents.com/michael-bibi-2026?ref=pr",
+        "summary": "Michael Bibi plays a London 2026 exclusive extended set at the Old Royal Naval College as part of Labyrinth on the Thames.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-roots-picnic-2026",
+        "title": "Roots Picnic London",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 91,
+        "venueName": "Crystal Palace Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.palacebowlpresents.co.uk/events/the-roots-picnic/",
+        "ticketUrl": "https://www.palacebowlpresents.co.uk/events/the-roots-picnic/",
+        "summary": "Roots Picnic stages its first international edition at Crystal Palace Bowl, running across Saturday 8 and Sunday 9 August.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-davido-friends-2026",
+        "title": "Davido & Friends",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 83,
+        "venueName": "Crystal Palace Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.palacebowlpresents.co.uk/events/davido/",
+        "ticketUrl": "https://www.palacebowlpresents.co.uk/events/davido/",
+        "summary": "Davido headlines Crystal Palace Bowl with Omah Lay, Black Sherif, Gabzy, T x C, Jazzwrld & Thukuthela, Ecool, Morravey and Boi Chase listed as guests.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-lenny-kravitz-2026",
+        "title": "Lenny Kravitz Live 2026",
+        "type": "concert",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-15",
+        "importance": 84,
+        "venueName": "Gunnersbury Park",
+        "venueId": null,
+        "sourceUrl": "https://goldenmile.london/event/lenny-kravitz/",
+        "ticketUrl": "https://www.ticketmaster.co.uk/",
+        "summary": "Lenny Kravitz plays an open-air Gunnersbury Park show with special guests Leon Thomas, Joss Stone, Brooke Combe and De’Wayne.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-signal-festival-2026",
+        "title": "Signal Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 82,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2239194",
+        "ticketUrl": "https://ra.co/events/2239194",
+        "summary": "Signal Festival returns to The Cause with a drum & bass, jungle and dubstep lineup including Goldie, Dillinja, DJ Storm, Doc Scott, Coki, Loefah, Photek, Break and many more.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-rally-festival-2026",
+        "title": "RALLY 2026",
+        "type": "festival",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 86,
+        "venueName": "Southwark Park",
+        "venueId": null,
+        "sourceUrl": "https://rallyrallyrally.co.uk/programme",
+        "ticketUrl": "https://ra.co/events/2298367",
+        "summary": "RALLY returns to Southwark Park with Blood Orange, Daniel Avery live, Smerz, Optimo, Voice Actor, Roman Flügel and more on the announced programme.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

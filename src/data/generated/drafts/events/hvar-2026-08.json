@@ -1,0 +1,132 @@
+{
+  "slug": "hvar",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:50:31.640Z",
+  "responseId": "resp_0fbfd261f33e479f0069ffd60786a881a098caa1deec2a9899",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 8,
+    "year": 2026,
+    "notes": "Confirmed August programming is weighted toward island cultural festivals, jazz/blues and local live concerts; major Hvar beach-club DJ lineups were not yet posted on primary sources.",
+    "events": [
+      {
+        "id": "hvar-summer-jazz-milna-2026",
+        "title": "Summer Jazz in Milna 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 74,
+        "venueName": "Milna, Island of Hvar",
+        "venueId": null,
+        "sourceUrl": "https://visithvar.hr/summer-jazz-in-milna-2026-jazz-blues-festival-on-the-island-of-hvar/",
+        "ticketUrl": null,
+        "summary": "Visit Hvar confirms Summer Jazz in Milna returns July 31–August 2, 2026, with jazz and blues performances at locations around Milna on Hvar. The full program is still to be announced.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-mudri-brk-festival-2026",
+        "title": "‘MUDRI BRK’ Festival",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-01",
+        "importance": 67,
+        "venueName": "Jelsa Summer Cinema",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/mudri-brk-festival-2/",
+        "ticketUrl": null,
+        "summary": "Visit Jelsa confirms the Mudri Brk micro-label festival runs July 31–August 1, 2026 at Jelsa Summer Cinema. The event spotlights young indie, alternative, rock and pop bands from the label’s orbit.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-in-honor-homeland-concert-2026",
+        "title": "Concert “In Honor of the Homeland” in Jelsa",
+        "type": "concert",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 61,
+        "venueName": "Croatian National Revival Square, Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/gala-concert-in-honor-of-the-homeland-in-jelsa-2/",
+        "ticketUrl": null,
+        "summary": "Visit Jelsa confirms a gala concert on August 5, 2026 at 9:30 PM, marking Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders. The announced format is an evening with artists and ensembles in central Jelsa.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-fishermens-night-jelsa-2026",
+        "title": "Fishermen’s Night in Jelsa",
+        "type": "festival",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 62,
+        "venueName": "Veli Most, Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/fishermens-night-in-jelsa-4/",
+        "ticketUrl": null,
+        "summary": "Visit Jelsa confirms Fishermen’s Night on August 6, 2026 at Veli Most in Jelsa. The traditional seaside celebration includes Dalmatian songs and live music alongside local food and wine.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-jelsa-assumption-concert-2026",
+        "title": "The Jelsa Municipality Day and the Feast of the Assumption",
+        "type": "festival",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-15",
+        "importance": 68,
+        "venueName": "Pjaca, Jelsa Main Square",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/municipality-of-jelsa-day-and-the-feast-of-the-assumption/",
+        "ticketUrl": null,
+        "summary": "Visit Jelsa confirms the central August 15 celebration begins at 9:30 PM on Jelsa’s main square. The music program features a major concert by Marko Pecotić followed by the band Elite.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-ukulele-hideaway-croatia-2026",
+        "title": "Ukulele Hideaway: Croatia",
+        "type": "conference",
+        "startDate": "2026-08-17",
+        "endDate": "2026-08-21",
+        "importance": 62,
+        "venueName": "Jelsa, Island of Hvar",
+        "venueId": null,
+        "sourceUrl": "https://www.musicworldretreats.com/ukulele-hideaway-croatia",
+        "ticketUrl": "https://www.musicworldretreats.com/ukulele-hideaway-croatia",
+        "summary": "Music World Retreats confirms Ukulele Hideaway: Croatia takes place August 17–21, 2026 in Jelsa with James Hill and friends. The schedule includes workshops, jam sessions, open mic programming, a faculty concert and a final student performance.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-jelsa-wine-festival-2026",
+        "title": "74. Jelsa’s Wine Festival",
+        "type": "festival",
+        "startDate": "2026-08-27",
+        "endDate": "2026-08-29",
+        "importance": 75,
+        "venueName": "Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/74-festa-vina-jelsa/",
+        "ticketUrl": null,
+        "summary": "Visit Jelsa confirms the 74th Jelsa Wine Festival runs August 27–29, 2026. The long-running island festival includes concerts by local cultural groups, visiting klapa singers, famous musicians and fireworks alongside the wine program.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

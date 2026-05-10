@@ -1,0 +1,193 @@
+{
+  "slug": "accra",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:17:49.275Z",
+  "responseId": "resp_05da013e2156f5f70069ff5db894dc8191812d05f9cf806daa",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "accra",
+    "month": 1,
+    "year": 2026,
+    "notes": "January’s confirmed calendar was strongest in the New Year/Detty December spillover window, then shifted into showcase, live-band, and homecoming-concert programming later in the month.",
+    "events": [
+      {
+        "id": "accra-music-is-my-life-2026",
+        "title": "Music Is My Life Concert 2026",
+        "type": "concert",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-02",
+        "importance": 88,
+        "venueName": "Big Base Street, Tema Community 2",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/music-is-my-life-concert-2026",
+        "ticketUrl": "https://egotickets.com/events/music-is-my-life-concert-2026",
+        "summary": "Free New Year’s Day concert in Tema featuring Sarkodie, Kweku Smoke, King Promise, Asakaa Boys, Mista Myles, Kimilist, Ras Kuuku, Lasmid and more. The event is presented by Mimlife Records as a major annual opener for Ghana’s concert calendar.",
+        "genres": [
+          "hip-hop",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-water-xperience-2026",
+        "title": "The Water Xperience",
+        "type": "beach-club",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 70,
+        "venueName": "Sunset Banana Beach Resort, Lower Prampram",
+        "venueId": null,
+        "sourceUrl": "https://ghananewsonline.com.gh/new-year-new-waves-prampram-hosts-the-water-xperience-2026/",
+        "ticketUrl": null,
+        "summary": "New Year’s Day beach festival in Lower Prampram with performances from Yaa Pono, Tulenkey, Rashid Metal, Jay Winning, Fryday Celeb, Big Busy, Tonnah Lee and DJs including DJ Wobeti, DJ Lighter and DJ Flame. The programme also included water sports, live bands and a night beach jam.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-fuego-on-the-beach-2026",
+        "title": "FUEGO on the Beach – Curated by Smallgod",
+        "type": "beach-club",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-03",
+        "importance": 75,
+        "venueName": "Polo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.thepolobeachclub.com/event/fuego-on-the-beach-curated-by-smallgod/",
+        "ticketUrl": "https://www.thepolobeachclub.com/event/fuego-on-the-beach-curated-by-smallgod/",
+        "summary": "Smallgod-curated late-night beach-club event at Polo Beach Club. The venue described the night as focused on Afrobeats, trap and global street sounds.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-brunch-n-vibes-2026",
+        "title": "Brunch n Vibes Presents Accra",
+        "type": "club-night",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 70,
+        "venueName": "BloomBar",
+        "venueId": null,
+        "sourceUrl": "https://thebeatsofafrica.com/beats-event/brunch-n-vibes-presents-accra-2/",
+        "ticketUrl": "https://dice.fm/event/6dx267-brunch-n-vibes-presents-accra-2nd-jan-bloom-bar-accra-tickets",
+        "summary": "Afrobeats edition of Brunch n Vibes in Accra, promoted as a return to BloomBar. The event ran on Friday, 2 January 2026 from 7:00 PM to 11:59 PM GMT.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-one-day-only-headie-one-2026",
+        "title": "One Day Only – Headie One Live",
+        "type": "concert",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-05",
+        "importance": 74,
+        "venueName": "Polo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.thepolobeachclub.com/event/one-day-only-4th-january-2026/",
+        "ticketUrl": "https://www.thepolobeachclub.com/event/one-day-only-4th-january-2026/",
+        "summary": "Late-night Polo Beach Club event billed as “One Day Only – 4th January 2026,” with the page title identifying Headie One Live at Polo Beach Club. The event ran from 10:00 PM on 4 January to 4:00 AM on 5 January.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-obis-house-2026",
+        "title": "OBI’S House",
+        "type": "beach-club",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-06",
+        "importance": 78,
+        "venueName": "Polo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.thepolobeachclub.com/event/obis-house/",
+        "ticketUrl": "https://www.thepolobeachclub.com/event/obis-house/",
+        "summary": "Obi’s House took over Polo Beach Club for a late-night Afrobeats party running from 10:00 PM to 4:00 AM. The listing positions it as one of the venue’s major early-January season events.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-live-life-large-2026",
+        "title": "ACCRA - LIVE LIFE LARGE",
+        "type": "club-night",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-05",
+        "importance": 70,
+        "venueName": "Front/Back",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/yonq7a-accra-live-life-large-5th-jan-frontback-accra-tickets",
+        "ticketUrl": "https://dice.fm/event/yonq7a-accra-live-life-large-5th-jan-frontback-accra-tickets",
+        "summary": "1WAY and LTL brought the Live Life Large Africa tour to Front/Back in Osu. The DICE listing billed the event as an 18+ party with an international DJ and host lineup.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-amaarae-blackout-2026",
+        "title": "The Blackout: Amaarae Homecoming Concert",
+        "type": "concert",
+        "startDate": "2026-01-07",
+        "endDate": "2026-01-07",
+        "importance": 84,
+        "venueName": "The Underbridge Annex",
+        "venueId": null,
+        "sourceUrl": "https://chaleapp.com/eventcheck/amaarae-concert/176",
+        "ticketUrl": "https://chaleapp.com/eventcheck/amaarae-concert/176",
+        "summary": "Amaarae homecoming concert in Accra, presented with music powered by iMullar Sound System. The Chale App ticket page listed the show for 7 January 2026 from 6:20 PM to 11:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "accra-afroson1c-x-2026",
+        "title": "AFROSON1C X 2026",
+        "type": "conference",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 85,
+        "venueName": "Treehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.afroson1cx.com/",
+        "ticketUrl": "https://tix.africa/discover/afroson1cx",
+        "summary": "West Africa showcase platform and conference at Treehouse, Accra, with The Cavemen. announced as headliner. The programme combined live showcases, panels, A&R listening rooms, industry networking and a regional music-tech-arts focus.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-fraternity-festival-2026",
+        "title": "FRA!ternity Festival 2026",
+        "type": "festival",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-17",
+        "importance": 78,
+        "venueName": "British Council / Alliance Française d'Accra",
+        "venueId": null,
+        "sourceUrl": "https://www.thebandfra.com/fraternity26",
+        "ticketUrl": "https://paystack.shop/frafest",
+        "summary": "Flagship annual festival curated by Ghanaian highlife-funk band FRA!, with a 16 January workshop at the British Council and a 17 January main event at Alliance Française d’Accra. The festival centres live bands, original Ghanaian music, highlife, funk and contemporary African sounds.",
+        "genres": [
+          "jazz",
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

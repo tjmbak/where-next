@@ -1,0 +1,222 @@
+{
+  "slug": "mykonos",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:45:45.347Z",
+  "responseId": "resp_0747f8fb596347040069ff56377f308196814ecc82d982e06b",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mykonos",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is already anchored by confirmed electronic headliners across Cavo Paradiso, Scorpios, SantAnna, and Alemagou, with more lineups likely to fill in closer to summer.",
+    "events": [
+      {
+        "id": "mykonos-alex-wann-cavo-jul-2026",
+        "title": "Alex Wann at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 76,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2379901",
+        "ticketUrl": null,
+        "summary": "Alex Wann is confirmed for a late-night Cavo Paradiso show on Saturday, July 4. Resident Advisor lists the event at Cavo Paradiso with afro-house and afrobeats tags.",
+        "genres": [
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-max-styler-cavo-jul-2026",
+        "title": "Max Styler at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 75,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43014123-max-styler-at-cavo-paradiso",
+        "ticketUrl": null,
+        "summary": "Max Styler is confirmed for Cavo Paradiso on Sunday, July 5. The event is listed by Songkick at the Paradise Beach club.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-james-hype-cavo-jul-2026",
+        "title": "James Hype at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-13",
+        "importance": 80,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/venues/1381026-cavo-paradiso",
+        "ticketUrl": null,
+        "summary": "Songkick’s Cavo Paradiso venue calendar confirms James Hype for Monday, July 13. It is part of the club’s July run of international electronic bookings.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-whomadewho-scorpios-jul-2026",
+        "title": "WhoMadeWho at Scorpios Beach Club",
+        "type": "concert",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 80,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://www.songkick.com/concerts/43091713-whomadewho-at-scorpios-beach-club",
+        "ticketUrl": null,
+        "summary": "WhoMadeWho are confirmed for Scorpios Beach Club on Friday, July 17. Songkick lists the Danish electronic group as the headliner at the Paraga venue.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-blondish-alemagou-jul-2026",
+        "title": "BLOND:ISH at Abracadabra @ Alemagou",
+        "type": "beach-club",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 78,
+        "venueName": "Abracadabra @ Alemagou",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43186531-blondish-at-abracadabra-alemagou",
+        "ticketUrl": null,
+        "summary": "BLOND:ISH is confirmed for Abracadabra @ Alemagou on Saturday, July 18. Songkick lists the event as an outdoor Mykonos date at the Alemagou party concept.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-valeron-scorpios-jul-2026",
+        "title": "Valeron at Scorpios Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 72,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://www.songkick.com/concerts/43198947-valeron-at-scorpios-beach-club",
+        "ticketUrl": null,
+        "summary": "Valeron is confirmed for Scorpios Beach Club on Saturday, July 18. The booking reflects Scorpios’ signature local-electronic sunset sound.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-dj-snake-cavo-jul-2026",
+        "title": "DJ Snake at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-24",
+        "importance": 84,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43199405-dj-snake-at-cavo-paradiso",
+        "ticketUrl": null,
+        "summary": "DJ Snake is confirmed for Cavo Paradiso on Friday, July 24, with doors listed at 23:00. Songkick lists the event as an electronic, pop, and R&B-area concert at the Mykonos club.",
+        "genres": [
+          "electronic",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mykonos-martinez-brothers-seth-troxler-santanna-jul-2026",
+        "title": "The Martinez Brothers & Seth Troxler at SantAnna Mykonos",
+        "type": "beach-club",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-24",
+        "importance": 84,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396862",
+        "ticketUrl": null,
+        "summary": "SantAnna Mykonos and Blend Athens present The Martinez Brothers with Seth Troxler on Friday, July 24. Resident Advisor lists the event as a house-focused evening at SantAnna.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-black-coffee-santanna-residency-jul-2026",
+        "title": "Black Coffee - The 2026 Residency at SantAnna",
+        "type": "residency",
+        "startDate": "2026-07-27",
+        "endDate": "2026-07-27",
+        "importance": 89,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2422462",
+        "ticketUrl": null,
+        "summary": "Black Coffee’s SantAnna residency is confirmed for Monday, July 27, one of six listed Monday performances from mid-July through August. Resident Advisor lists Blend Athens and SantAnna Mykonos as promoters.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-timmy-trumpet-cavo-jul-2026",
+        "title": "Timmy Trumpet at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-07-28",
+        "endDate": "2026-07-28",
+        "importance": 81,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43149108-timmy-trumpet-at-cavo-paradiso",
+        "ticketUrl": null,
+        "summary": "Timmy Trumpet is confirmed for Cavo Paradiso on Tuesday, July 28. Songkick lists the Australian electronic artist as the headliner at the Paradise Beach venue.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-innervisions-scorpios-jul-2026",
+        "title": "Innervisions Mykonos at Scorpios",
+        "type": "club-night",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "importance": 86,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://ra.co/events/2412595",
+        "ticketUrl": null,
+        "summary": "Innervisions Mykonos is confirmed for Scorpios on Thursday, July 30. Resident Advisor lists Âme DJ, Dixon, Jimi Jules, Julya Karma, and Trikk on the lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-richie-hawtin-cavo-jul-2026",
+        "title": "Richie Hawtin at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": "2026-07-31",
+        "importance": 85,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43167840-richie-hawtin-at-cavo-paradiso",
+        "ticketUrl": null,
+        "summary": "Richie Hawtin is confirmed for Cavo Paradiso on Friday, July 31. Songkick lists the techno headliner at the Mykonos club with tickets on sale.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "slug": "amsterdam",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:55:25.176Z",
+  "responseId": "resp_0b0c4a3f78ca3afc0069ff5867899c819fa1c679a6d3ac52fd",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Amsterdam was anchored by Easter-weekend electronic festivals, a packed King’s Day calendar, and a few major arena and club-tour concerts.",
+    "events": [
+      {
+        "id": "amsterdam-dgtl-amsterdam-apr-2026",
+        "title": "DGTL Amsterdam 2026",
+        "type": "festival",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-05",
+        "importance": 94,
+        "venueName": "NDSM Docklands / NDSM-werf",
+        "venueId": null,
+        "sourceUrl": "https://www.ndsm.nl/agenda/dgtl-festival-dc0f9",
+        "ticketUrl": null,
+        "summary": "DGTL returned to the NDSM-werf for a weekend of electronic music, art and production, with listed names including Dom Dolla, CamelPhat, Jayda G, I Hate Models, Gerd Janson, Luuk van Dijk and Weval live.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-spielraum-weekender-2026",
+        "title": "SPIELRAUM Weekender",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-06",
+        "importance": 84,
+        "venueName": "CLUB RAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2375057",
+        "ticketUrl": "https://shop.paylogic.com/",
+        "summary": "SPIELRAUM’s Easter weekender ran from Saturday night into Monday morning at CLUB RAUM. The RA-listed lineup included Bambounou, Buttechno live, Cio D’Or, Dee Diggs, livwutang, Mama Snake, Rey Colino and Tasha.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-cosmic-gate-open-to-close-2026",
+        "title": "Cosmic Gate: Open To Close Amsterdam",
+        "type": "club-night",
+        "startDate": "2026-04-05",
+        "endDate": "2026-04-05",
+        "importance": 76,
+        "venueName": "Melkweg OZ",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/cosmic-gate-05-04-2026/",
+        "ticketUrl": null,
+        "summary": "Cosmic Gate played an exclusive five-hour open-to-close Amsterdam show at Melkweg OZ on Easter Sunday. The event focused on the duo’s long-running trance and progressive sound.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-ratherlost-easter-sunday-2026",
+        "title": "Ratherlost Easter Sunday",
+        "type": "club-night",
+        "startDate": "2026-04-05",
+        "endDate": "2026-04-06",
+        "importance": 84,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://lofi.amsterdam/events/",
+        "ticketUrl": null,
+        "summary": "Ratherlost’s Easter Sunday edition at Lofi ran from afternoon into the next morning. Lofi’s listing named Altinbas b2b Efdemin, Oscar Mulero, Skee Mask, Polygonia, mad miran and others.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-amsterdam-calling-2026",
+        "title": "Amsterdam Calling 2026",
+        "type": "concert",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 70,
+        "venueName": "Melkweg OZ",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/amsterdam-calling-2026-10-04-2026/",
+        "ticketUrl": null,
+        "summary": "Amsterdam Calling returned to Melkweg as a Eurovision-focused live event and party. The programme promised live performances by Eurovision stars plus DJ sets of Eurovision classics.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-we-are-it-festival-2026",
+        "title": "We are iT Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 73,
+        "venueName": "Thuishaven",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2282740",
+        "ticketUrl": null,
+        "summary": "We are iT Festival 2026 took over Thuishaven with a Golden Age of House Music theme. The RA-listed lineup included Jean, ROOG, Erick E, Joost van Bellen, Lucien Foort, Remy Unger and Funkerman.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "amsterdam-minimal-music-festival-2026",
+        "title": "Minimal Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-19",
+        "importance": 80,
+        "venueName": "Muziekgebouw aan ’t IJ and BIMHUIS",
+        "venueId": null,
+        "sourceUrl": "https://www.muziekgebouw.nl/en/minimal-music-festival-2026-yhnj",
+        "ticketUrl": null,
+        "summary": "The ninth Minimal Music Festival presented four days of hypnotic minimal, contemporary and electronic-leaning performance. The programme included Bang on a Can All-Stars’ Terry Riley 90th Birthday Celebration, Sarathy Korwar, Bendik Giske + Sam Barker, Mohammad Reza Mortazavi, Julianna Barwick and Mary Lattimore.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-rosalia-lux-tour-2026",
+        "title": "ROSALÍA: LUX TOUR 2026",
+        "type": "concert",
+        "startDate": "2026-04-22",
+        "endDate": "2026-04-23",
+        "importance": 91,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.mojo.nl/concerten/2026/rosalia",
+        "ticketUrl": null,
+        "summary": "ROSALÍA brought her LUX TOUR 2026 to Ziggo Dome for two Amsterdam dates on 22 and 23 April. MOJO described the show around her modern flamenco-inflected pop, reggaeton, hip-hop and R&B sound.",
+        "genres": [
+          "pop",
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "amsterdam-krezip-melkweg-2026",
+        "title": "Krezip",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 75,
+        "venueName": "Melkweg MAX",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/krezip-24-04-2026/",
+        "ticketUrl": null,
+        "summary": "Dutch pop band Krezip played Melkweg MAX with support from Tape Toy. Melkweg listed the show as part of Krezip’s 2026 club tour through the Netherlands and Belgium.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-lofi-speedy-j-2026",
+        "title": "Lofi by Speedy J",
+        "type": "club-night",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 78,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://lofi.amsterdam/events/",
+        "ticketUrl": null,
+        "summary": "Lofi hosted a late-night techno session headlined by Speedy J. The venue listing also named Claudio PRC b2b Isabel Soto and Megan Leber for the Club room.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-free-your-mind-oranjebloesem-kingsday-2026",
+        "title": "FYM x Oranjebloesem Kingsday Amsterdam",
+        "type": "festival",
+        "startDate": "2026-04-27",
+        "endDate": "2026-04-27",
+        "importance": 88,
+        "venueName": "RAI Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://freeyourmindfestival.nl/events/fym-x-oranjebloesem-kingsday-amsterdam/",
+        "ticketUrl": "https://shop.tickets.cm.com/",
+        "summary": "Free Your Mind and Oranjebloesem joined forces for a King’s Day event at RAI Amsterdam from 12:00 to 22:00. RA’s listing included Sara Landry, Reinier Zonneveld live, Maddix, MALUGI, Michel de Hey and Prunk among the lineup.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-kingsland-amsterdam-2026",
+        "title": "Kingsland Amsterdam 2026",
+        "type": "festival",
+        "startDate": "2026-04-27",
+        "endDate": "2026-04-27",
+        "importance": 90,
+        "venueName": "Olympisch Stadion",
+        "venueId": null,
+        "sourceUrl": "https://www.kingslandfestival.nl/en/amsterdam",
+        "ticketUrl": "https://tickets.kingslandfestival.nl/",
+        "summary": "Kingsland Amsterdam staged its King’s Day edition at the Olympic Stadium on 27 April 2026. The official site listed the date, venue and line-up section for the city’s large-scale orange-day pop and dance celebration.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_note": "Already added to the dataset. Kept here as a reference profile.",
+
+  "slug": "new-orleans",
+  "city": "New Orleans",
+  "country": "United States",
+  "region": "North America",
+  "coordinates": { "lat": 29.9511, "lng": -90.0715 },
+
+  "tagline": "Jazz Fest, Mardi Gras, Frenchmen Street — the most distinct music DNA in America.",
+  "summary": "New Orleans runs on three calendars — Mardi Gras in February, the New Orleans Jazz & Heritage Festival across two weekends in late April / early May, and year-round Frenchmen Street live music. Tipitina's, Preservation Hall, and the Maple Leaf Bar host the city's signature programming through every other month.",
+
+  "activeMonths": [1, 2, 3, 4, 5, 9, 10, 11],
+  "peakMonths": [2, 5],
+  "genres": ["jazz", "hip-hop", "festival", "r-and-b", "afro-house"],
+  "vibes": ["festival", "cultural", "city", "late-night", "group-trip"],
+  "budget": "medium",
+  "averageDailySpendUsd": { "low": 130, "high": 380 },
+
+  "whoFor": ["Jazz Fest travelers", "Mardi Gras crews", "Live-music nerds"],
+  "whenToBook": "Book Mardi Gras (Feb) and Jazz Fest (late April / early May) hotels 4-6 months ahead — French Quarter inventory disappears first.",
+  "travelNotes": "Stay in the Marigny, Bywater, or French Quarter for venue density. Streetcars connect Uptown clubs (Tipitina's, Maple Leaf) to downtown.",
+
+  "peakHook": "Mardi Gras in February and Jazz Fest's two-weekend run in late April / early May concentrate the city's biggest music-travel windows.",
+
+  "heroScenes": {
+    "peak": "a French Quarter New Orleans street at golden hour, ornate iron-lace balconies, gas lamps starting to glow, cobbled pavement, warm humid spring light, no people",
+    "shoulder": "a Garden District New Orleans avenue in late summer, oak trees with Spanish moss arched over the street, a single streetcar in the distance, soft humid afternoon light, no people",
+    "detail": "interior of a Frenchmen Street New Orleans jazz club at night, exposed brick walls, a brass tuba on a stand, soft amber pendant lights, no people"
+  },
+
+  "venues": [
+    { "id": "jazz-fest-nola", "name": "New Orleans Jazz & Heritage Festival", "type": "festival", "sceneTags": ["festival", "cultural"], "officialUrl": "https://www.nojazzfest.com/" },
+    { "id": "preservation-hall-nola", "name": "Preservation Hall", "type": "venue", "sceneTags": ["cultural", "city"], "officialUrl": "https://www.preservationhall.com/" },
+    { "id": "tipitinas-nola", "name": "Tipitina's", "type": "venue", "sceneTags": ["city", "late-night", "cultural"], "officialUrl": "https://www.tipitinas.com/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "nola-mardi-gras",
+      "title": "Mardi Gras",
+      "type": "carnival",
+      "startMonth": 2, "startDay": 14, "endMonth": 2, "endDay": 17,
+      "importance": 95,
+      "summary": "Mardi Gras stretches from Twelfth Night through Fat Tuesday, with parades by the Krewe of Endymion, Bacchus, and Zulu drawing global crowds; brass-band programming spills into bars across the French Quarter and Marigny.",
+      "sourceUrl": "https://www.mardigrasneworleans.com/",
+      "genres": ["festival", "jazz", "r-and-b"]
+    },
+    {
+      "id": "nola-jazz-fest",
+      "title": "New Orleans Jazz & Heritage Festival",
+      "type": "festival",
+      "startMonth": 4, "startDay": 23, "endMonth": 5, "endDay": 3,
+      "importance": 96,
+      "summary": "Jazz Fest spans two weekends across the Fair Grounds Race Course with twelve stages of jazz, blues, R&B, gospel, and global-touring headliners.",
+      "venueId": "jazz-fest-nola",
+      "sourceUrl": "https://www.nojazzfest.com/",
+      "genres": ["jazz", "festival", "r-and-b"]
+    },
+    {
+      "id": "nola-tipitinas-residency",
+      "title": "Tipitina's Year-Round Programming",
+      "type": "residency",
+      "startMonth": 1, "startDay": 1, "endMonth": 12, "endDay": 31,
+      "importance": 78,
+      "summary": "Tipitina's Uptown stage hosts brass-band, funk, jazz, and touring-rock programming through the year; its Sunday Night Funk dances are a New Orleans institution.",
+      "venueId": "tipitinas-nola",
+      "sourceUrl": "https://www.tipitinas.com/",
+      "genres": ["jazz", "r-and-b", "hip-hop"]
+    }
+  ]
+}

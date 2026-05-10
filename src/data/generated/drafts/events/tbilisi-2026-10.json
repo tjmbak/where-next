@@ -1,0 +1,101 @@
+{
+  "slug": "tbilisi",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:55:32.190Z",
+  "responseId": "resp_0fcf8ffe68b2a7dc0069ff66a99b34819ea9f07e0ebb317765",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 has few major club calendars confirmed this far out; the verified calendar is led by classical, choral, and folk-arts events rather than announced Bassiani/KHIDI residencies.",
+    "events": [
+      {
+        "id": "tbilisi-piano-competition-2026",
+        "title": "The VIII Tbilisi International Piano Competition",
+        "type": "concert",
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-16",
+        "importance": 78,
+        "venueName": "Vano Sarajishvili Tbilisi State Conservatoire Grand Hall",
+        "venueId": null,
+        "sourceUrl": "https://tbilisipiano.org.ge/en/competitions/details?n=1",
+        "ticketUrl": null,
+        "summary": "The quadrennial Tbilisi International Piano Competition is confirmed for October 5–16, 2026 in Tbilisi. The public competition features four rounds for young pianists, with finalists performing concertos with symphony orchestra and prize winners taking part in a gala concert.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tbilisi-sing-smile-2026",
+        "title": "Sing & Smile – A Choir Festival-Contest in Georgia",
+        "type": "festival",
+        "startDate": "2026-10-20",
+        "endDate": "2026-10-25",
+        "importance": 64,
+        "venueName": "Tbilisi and church/auditorium venues",
+        "venueId": null,
+        "sourceUrl": "https://fiestalonia.net/fest/sas-en/",
+        "ticketUrl": null,
+        "summary": "Fiestalonia’s Sing & Smile choir festival-contest is confirmed for October 20–25, 2026 in Tbilisi, with competition performances, awards, and choral performances in Georgian church settings. Categories include vocal ensembles, adult choirs, world sacred music, folklore, pop, jazz, gospel, and academic singing.",
+        "genres": [
+          "festival",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-fiestalonia-georgia-2026",
+        "title": "Fiestalonia Georgia",
+        "type": "festival",
+        "startDate": "2026-10-20",
+        "endDate": "2026-10-23",
+        "importance": 63,
+        "venueName": "Tbilisi",
+        "venueId": null,
+        "sourceUrl": "https://fiestalonia.net/fest/fiestalonia-georgia/",
+        "ticketUrl": null,
+        "summary": "Fiestalonia Georgia is confirmed for October 20–23, 2026 in Tbilisi as an international festival-contest supported by the Mayor of Tbilisi. Its performance categories include instrumental groups, singing, jazz singing, rock/rap, folk singing, pop singing, and dance.",
+        "genres": [
+          "festival",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-rhythms-of-fall-2026",
+        "title": "International Festival \"Rhythms of Fall\"",
+        "type": "festival",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-26",
+        "importance": 60,
+        "venueName": "Tbilisi / regional festival venues",
+        "venueId": null,
+        "sourceUrl": "https://eaff.eu/en/festivals/129-5697-international-festival-rhythms-of-fall",
+        "ticketUrl": null,
+        "summary": "The EAFF-listed International Festival \"Rhythms of Fall\" is confirmed for October 22–26, 2026 with Tbilisi, Georgia listed as the festival location. The program is a folklore-focused arts festival with dance, choirs/songs, and live or recorded music performances.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tbilisi-art-folk-fest-2026",
+        "title": "International Festival \"Art-Folk Fest\" (Autumn Edition)",
+        "type": "festival",
+        "startDate": "2026-10-29",
+        "endDate": "2026-11-02",
+        "importance": 61,
+        "venueName": "Tbilisi",
+        "venueId": null,
+        "sourceUrl": "https://eaff.eu/en/festivals/611-5692-international-festival-art-folk-fest-autumn-edition",
+        "ticketUrl": null,
+        "summary": "The autumn edition of Art-Folk Fest is confirmed for October 29–November 2, 2026 in Tbilisi. The EAFF member festival presents folklore dances, folklore songs, songs and romances, and a final concluding concert by participating artists.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

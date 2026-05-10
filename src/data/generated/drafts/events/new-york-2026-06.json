@@ -1,0 +1,228 @@
+{
+  "slug": "new-york",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:12:34.005Z",
+  "responseId": "resp_060dc8a76405ce170069ff5c4bed308192ad614a9549a0746d",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 in New York is anchored by Governors Ball, major arena pop/R&B/Latin/electronic dates, and a dense Pride-weekend run of queer and electronic festivals.",
+    "events": [
+      {
+        "id": "new-york-governors-ball-jun-2026",
+        "title": "Governors Ball Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 97,
+        "venueName": "Flushing Meadows Corona Park",
+        "venueId": null,
+        "sourceUrl": "https://newsroom.livenation.com/news/governors-ball-2026-lineup-announced/",
+        "ticketUrl": "https://www.govball.com/tickets",
+        "summary": "New York’s flagship multi-day pop, hip-hop, rock, and electronic festival returns to Queens with headliners Lorde, Stray Kids, and A$AP Rocky. The announced lineup also includes Baby Keem, Kali Uchis, Jennie, Major Lazer, Blood Orange, Clipse, and many more.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-summer-walker-barclays-2026",
+        "title": "Summer Walker: Still Finally Over It Tour",
+        "type": "concert",
+        "startDate": "2026-06-02",
+        "endDate": "2026-06-02",
+        "importance": 78,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/summer-walker-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/summer-walker-2026",
+        "summary": "Summer Walker brings the Still Finally Over It Tour to Brooklyn with Monaleo and Odeal. This is one of the month’s major R&B arena dates in New York.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-carin-leon-barclays-2026",
+        "title": "Carín León: De Sonora Para El Mundo",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 76,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events",
+        "ticketUrl": "https://www.barclayscenter.com/events",
+        "summary": "Carín León brings the De Sonora Para El Mundo Tour to Barclays Center on Friday, June 5. The booking adds a major Latin arena show to New York’s June calendar.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-martin-garrix-barclays-2026",
+        "title": "Martin Garrix: AMERICAS TOUR",
+        "type": "concert",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-13",
+        "importance": 88,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/martin-garrix",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/martin-garrix",
+        "summary": "Martin Garrix plays a three-night Barclays Center run as part of his AMERICAS TOUR. The June 11–13 booking is one of the biggest electronic music arena runs in the city this month.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-bric-celebrate-brooklyn-opening-2026",
+        "title": "BRIC Celebrate Brooklyn! Opening Night: Sheila E. + Leon Knight + DJ Spinna",
+        "type": "festival",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 80,
+        "venueName": "Lena Horne Bandshell, Prospect Park",
+        "venueId": null,
+        "sourceUrl": "https://bricartsmedia.org/celebrate-brooklyn/",
+        "ticketUrl": "https://bricartsmedia.org/celebrate-brooklyn/",
+        "summary": "BRIC Celebrate Brooklyn! opens its 2026 season at the Lena Horne Bandshell with Sheila E., Leon Knight, and DJ Spinna. The free outdoor series is one of Brooklyn’s signature summer music institutions.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-summerstage-opening-night-2026",
+        "title": "SummerStage Opening Night: Ledisi for Dinah + José James + Spilata + DJ Kultured Child",
+        "type": "festival",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-10",
+        "importance": 82,
+        "venueName": "Capital One City Parks Foundation SummerStage, Central Park",
+        "venueId": null,
+        "sourceUrl": "https://cityparksfoundation.org/summerstage/",
+        "ticketUrl": "https://cityparksfoundation.org/summerstage/",
+        "summary": "SummerStage’s 40th anniversary season opens in Central Park with Ledisi for Dinah, José James, Spilata, and DJ Kultured Child. The free program centers jazz and R&B voices across generations.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-michael-bibi-pacha-opening-2026",
+        "title": "Michael Bibi: Pacha New York Opening Weekend",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 88,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://pacha-nyc.com/event/michel-bibi--opening-weekend-20-06-2026",
+        "ticketUrl": "https://pacha-nyc.com/event/michel-bibi--opening-weekend-20-06-2026",
+        "summary": "Michael Bibi headlines Pacha New York’s opening weekend on June 20. The official listing bills the night as deep house and driving club music from 10:00 PM to 4:00 AM.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-black-coffee-pacha-opening-2026",
+        "title": "Black Coffee: Pacha New York Opening Weekend",
+        "type": "club-night",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 90,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://www.pacha-nyc.com/event/black-coffee--opening-weekend-21-06-2026",
+        "ticketUrl": "https://www.pacha-nyc.com/event/black-coffee--opening-weekend-21-06-2026",
+        "summary": "Black Coffee headlines the second night of Pacha New York’s opening weekend. The June 21 event is an official opening-weekend booking from 8:00 PM to 2:00 AM.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-ladyland-pride-2026",
+        "title": "LadyLand Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 90,
+        "venueName": "Under the K Bridge Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393842",
+        "ticketUrl": "https://www.ticketmaster.com/ladyland-2026-ft-kim-petras-21-brooklyn-06-27-2026/event/Z7r9jZ1A7-SFU",
+        "summary": "LadyLand returns for NYC Pride Weekend with Kim Petras, Romy DJ set, CupcakKe, DJ Gigola, Hannah Diamond, BAYLI, and more. The queer festival takes over Under the K Bridge Park across multiple stages.",
+        "genres": [
+          "pop",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-planet-pride-pacha-2026",
+        "title": "Planet Pride 2026",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 88,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://pacha-nyc.com/event/planet-pride-27-06-2026",
+        "ticketUrl": "https://pacha-nyc.com/event/planet-pride-27-06-2026",
+        "summary": "Planet Pride makes its Pacha New York premiere as a 12-hour, multi-stage Pride event. The announced lineup includes Loud Luxury, Don Diablo, Acraze, Ines Rau, Ty Sunderland, and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-dreamland-pride-central-park-2026",
+        "title": "Dreamland: Pride in Central Park with Purple Disco Machine + Kungs + Dani Brasil",
+        "type": "festival",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 85,
+        "venueName": "Capital One City Parks Foundation SummerStage, Central Park",
+        "venueId": null,
+        "sourceUrl": "https://cityparksfoundation.org/events/dreamland-pride-pdm/",
+        "ticketUrl": "https://cityparksfoundation.org/events/dreamland-pride-pdm/",
+        "summary": "Dreamland: Pride in Central Park returns to SummerStage for NYC Pride Sunday with Purple Disco Machine, Kungs, and Dani Brasil. The official listing runs from 3:00 PM to 10:00 PM at Central Park.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-joji-barclays-2026",
+        "title": "Joji: SOLARIS Tour",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 75,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/joji-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/joji-2026",
+        "summary": "Joji brings the SOLARIS tour to Barclays Center with Nate Sib and Corbin. The June 26 arena show is one of the month’s major alternative pop and R&B-leaning concerts in Brooklyn.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

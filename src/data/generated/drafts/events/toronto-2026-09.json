@@ -1,0 +1,215 @@
+{
+  "slug": "toronto",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:30:54.799Z",
+  "responseId": "resp_0047974acc120b960069ff60ac71bc819fab1d1ffee3c5bc35",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is anchored by stadium-scale country and electronic dates plus a dense run of RBC Amphitheatre concerts and a key Canadian music-prize night at Massey Hall.",
+    "events": [
+      {
+        "id": "toronto-chris-stapleton-sep-2026",
+        "title": "Chris Stapleton's All-American Road Show",
+        "type": "concert",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 86,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/event/1000642EF7BC3B4A",
+        "ticketUrl": "https://www.ticketmaster.ca/event/1000642EF7BC3B4A",
+        "summary": "Chris Stapleton brings his All-American Road Show to Rogers Stadium for a large-scale Toronto date.",
+        "genres": []
+      },
+      {
+        "id": "toronto-tlc-salt-n-pepa-sep-2026",
+        "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
+        "type": "concert",
+        "startDate": "2026-09-02",
+        "endDate": "2026-09-02",
+        "importance": 82,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/tlc-salt-n-pepa-with-en-vogue-it-s-iconic-toronto-02-09-2026/event/1000646F1BF8822F",
+        "ticketUrl": "https://www.ticketmaster.ca/tlc-salt-n-pepa-with-en-vogue-it-s-iconic-toronto-02-09-2026/event/1000646F1BF8822F",
+        "summary": "TLC, Salt-N-Pepa and En Vogue share the bill for a nostalgia-heavy R&B and hip-hop amphitheatre concert.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-chris-luno-sep-2026",
+        "title": "Chris Luno Sunset Rooftop Party",
+        "type": "club-night",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-03",
+        "importance": 70,
+        "venueName": "Open Aera",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433313",
+        "ticketUrl": "https://ra.co/events/2433313",
+        "summary": "Plainsight presents Anjunadeep/Realm-associated DJ Chris Luno with Nicholas Nothing for an early-evening rooftop house session at Open Aera.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-rufus-du-sol-sep-2026",
+        "title": "RÜFÜS DU SOL North America 2026",
+        "type": "concert",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 88,
+        "venueName": "Rogers Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/rufus-du-sol-north-america-2026-toronto-ontario-09-05-2026/event/1000644CF6A0BEC5",
+        "ticketUrl": "https://www.ticketmaster.ca/rufus-du-sol-north-america-2026-toronto-ontario-09-05-2026/event/1000644CF6A0BEC5",
+        "summary": "RÜFÜS DU SOL headline Rogers Centre on their North America 2026 tour, with Fcukers listed on the Toronto bill.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-pitbull-lil-jon-sep-2026",
+        "title": "Pitbull - I'm Back with special guest Lil Jon",
+        "type": "concert",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 83,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/pitbull-im-back-with-special-guest-toronto-ontario-09-05-2026/event/10006425BBDF6562",
+        "ticketUrl": "https://www.ticketmaster.ca/pitbull-im-back-with-special-guest-toronto-ontario-09-05-2026/event/10006425BBDF6562",
+        "summary": "Pitbull’s I’m Back tour stops at RBC Amphitheatre with Lil Jon as the announced special guest.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-wu-tang-final-chamber-sep-2026",
+        "title": "Wu-Tang Forever: The Final Chamber",
+        "type": "concert",
+        "startDate": "2026-09-08",
+        "endDate": "2026-09-08",
+        "importance": 86,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/wutang-forever-the-final-chamber-toronto-ontario-09-08-2026/event/10006473B4F4B86A",
+        "ticketUrl": "https://www.ticketmaster.ca/wutang-forever-the-final-chamber-toronto-ontario-09-08-2026/event/10006473B4F4B86A",
+        "summary": "Wu-Tang Clan bring The Final Chamber to Toronto, with Bone Thugs-N-Harmony listed on the tour bill.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-thee-sacred-souls-sep-2026",
+        "title": "Thee Sacred Souls, LA LOM, & The Womack Sisters",
+        "type": "concert",
+        "startDate": "2026-09-20",
+        "endDate": "2026-09-20",
+        "importance": 76,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/thee-sacred-souls-x-la-lom-toronto-ontario-09-20-2026/event/1000644B38EADA95",
+        "ticketUrl": "https://www.ticketmaster.ca/thee-sacred-souls-x-la-lom-toronto-ontario-09-20-2026/event/1000644B38EADA95",
+        "summary": "Thee Sacred Souls team with LA LOM and The Womack Sisters for a soul, R&B and Latin-leaning amphitheatre bill.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "toronto-zach-bryan-sep-2026",
+        "title": "Zach Bryan - With Heaven On Tour",
+        "type": "concert",
+        "startDate": "2026-09-21",
+        "endDate": "2026-09-22",
+        "importance": 90,
+        "venueName": "Rogers Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/zach-bryan-tickets/artist/2811359?venueId=131114",
+        "ticketUrl": "https://www.ticketmaster.ca/zach-bryan-tickets/artist/2811359?venueId=131114",
+        "summary": "Zach Bryan plays two Rogers Centre dates on the With Heaven On Tour, with Trampled By Turtles and Gabriella Rose listed for the Toronto shows.",
+        "genres": []
+      },
+      {
+        "id": "toronto-polaris-concert-award-sep-2026",
+        "title": "2026 Polaris Concert & Award Ceremony",
+        "type": "concert",
+        "startDate": "2026-09-22",
+        "endDate": "2026-09-22",
+        "importance": 88,
+        "venueName": "Massey Hall",
+        "venueId": null,
+        "sourceUrl": "https://polarismusicprize.ca/gala/",
+        "ticketUrl": "https://polarismusicprize.ca/gala/",
+        "summary": "The Polaris Music Prize’s 2026 Concert & Award Ceremony takes place at Massey Hall, featuring live performances by shortlisted Canadian artists and the announcement of the year’s prize winners.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-shaboozey-sep-2026",
+        "title": "Shaboozey - Outlaws Never Die Tour",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 78,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/shaboozey-billets/artist/2194370",
+        "ticketUrl": "https://www.ticketmaster.ca/shaboozey-billets/artist/2194370",
+        "summary": "Shaboozey brings the Outlaws Never Die Tour to RBC Amphitheatre with Noeline Hofmann and BigXthaPlug listed on the Toronto bill.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-sofi-tukker-sep-2026",
+        "title": "SOFI TUKKER Presents: Animal Talk",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 80,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/event/10006497A3E5AD9A",
+        "ticketUrl": "https://www.ticketmaster.ca/event/10006497A3E5AD9A",
+        "summary": "SOFI TUKKER headline RBC Amphitheatre with DRAMA listed as support for the Animal Talk show.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-logic-geazy-sep-2026",
+        "title": "Logic & G-Eazy: The Endless Summer Tour Part II",
+        "type": "concert",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 79,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/logic-g-eazy-the-endless-summer-tour-part-ii-toronto-09-27-2026/event/1000649ADB70532F",
+        "ticketUrl": "https://www.ticketmaster.ca/logic-g-eazy-the-endless-summer-tour-part-ii-toronto-09-27-2026/event/1000649ADB70532F",
+        "summary": "Logic and G-Eazy reunite for The Endless Summer Tour Part II, with Juicy J listed as support for the Toronto stop.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

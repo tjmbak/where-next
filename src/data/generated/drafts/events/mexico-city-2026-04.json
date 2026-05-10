@@ -1,0 +1,221 @@
+{
+  "slug": "mexico-city",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:45:42.748Z",
+  "responseId": "resp_03bc3126a150dcc50069ff6441339881958243fecbc582550c",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Mexico City was unusually strong for music travel, combining stadium-scale rock and pop runs with marquee electronic, jazz, salsa, and underground club programming.",
+    "events": [
+      {
+        "id": "mexico-city-the-xx-pepsi-center-2026",
+        "title": "The xx",
+        "type": "concert",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 87,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/the-xx-mexico-04-04-2026/event/14006453FAAF9A47?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/the-xx-mexico-04-04-2026/event/14006453FAAF9A47?language=en-mx",
+        "summary": "The xx played a confirmed Mexico City date at Pepsi Center WTC on April 4, 2026. Ticketmaster listed the show for 9:00 PM.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-acdc-power-up-2026",
+        "title": "AC/DC - Power Up Tour 2026",
+        "type": "concert",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 93,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/ac-dc-power-up-tour-2026-ciudad-de-mexico-11-04-2026/event/1400635E8E5B5549",
+        "ticketUrl": "https://www.ticketmaster.com.mx/ac-dc-power-up-tour-2026-ciudad-de-mexico-11-04-2026/event/1400635E8E5B5549",
+        "summary": "AC/DC brought the Power Up Tour 2026 to Estadio GNP Seguros on April 11, 2026. Ticketmaster confirmed the Mexico City stadium show at 9:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "mexico-city-mexico-salsa-festival-2026",
+        "title": "México Salsa Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 88,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.mexicosalsafest.mx/",
+        "ticketUrl": "https://www.superboletos.com/",
+        "summary": "México Salsa Festival 2026 returned to Arena CDMX for two days on April 11 and 12. The published lineup included Rey Ruiz, Jerry Rivera, Havana D'Primera and Tony Vega on April 11, followed by Victor Manuelle, India, Sonora Ponceña and Spanish Harlem Orchestra on April 12.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-cultura-subterranea-apr-2026",
+        "title": "Cultura Subterránea Mx",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 70,
+        "venueName": "Symphonie",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2410901",
+        "ticketUrl": "https://ra.co/events/2410901",
+        "summary": "Cultura Subterránea Mx staged a house and tech-house night at Symphonie in Roma Norte on April 11. RA listed Jt - MX, Laza - MX, Malkriado - CA, Max Rite - MX, Polytique - MX and a special guest.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-soda-stereo-palacio-2026",
+        "title": "Soda Stereo",
+        "type": "residency",
+        "startDate": "2026-04-14",
+        "endDate": "2026-04-16",
+        "importance": 88,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-cdmx/venue/163842?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-cdmx/venue/163842?language=en-mx",
+        "summary": "Ticketmaster's Palacio de los Deportes calendar listed Soda Stereo on April 14, 15 and 16, 2026. The run placed the Argentine rock institution in one of Mexico City's major indoor arenas.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-liv-golf-after-play-concerts-2026",
+        "title": "LIV Golf Mexico City After Play Concerts: Los Ángeles Azules and SOFI TUKKER",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-18",
+        "importance": 80,
+        "venueName": "Club de Golf Chapultepec",
+        "venueId": null,
+        "sourceUrl": "https://www.livgolf.com/news/liv-golf-mexico-city-2026-los-angeles-azules-sofi-tukker-to-headline-after-play-concerts",
+        "ticketUrl": "https://events.livgolf.com/mexico-city",
+        "summary": "LIV Golf Mexico City confirmed After Play concerts at Club de Golf Chapultepec, with Los Ángeles Azules headlining on April 17 and SOFI TUKKER on April 18. Same-day concert access was included for ticket holders.",
+        "genres": [
+          "latin",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-estudio-metztli-anniversary-2026",
+        "title": "Estudio Metztli 4º Aniversario",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 70,
+        "venueName": "Underground Paradise",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2401131",
+        "ticketUrl": "https://ra.co/events/2401131",
+        "summary": "Estudio Metztli celebrated its fourth anniversary at Underground Paradise in Tláhuac on April 18. RA listed Ricardo Garduno, Dashmx B2B Iannh, Eisenheim, Kaarpa, Daniel Metztli, Plant Music, RXBA and Sonido Pocas Cosas.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-the-weeknd-after-hours-2026",
+        "title": "The Weeknd: After Hours Til Dawn Tour",
+        "type": "residency",
+        "startDate": "2026-04-20",
+        "endDate": "2026-04-22",
+        "importance": 96,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/The-Weeknd-tickets/artist/1697014",
+        "ticketUrl": "https://www.ticketmaster.com/The-Weeknd-tickets/artist/1697014",
+        "summary": "The Weeknd opened a three-night Mexico City stadium run at Estadio GNP Seguros on April 20, 21 and 22. Ticketmaster listed the dates as part of the After Hours Til Dawn Tour.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-jackson-wang-2026",
+        "title": "Jackson Wang",
+        "type": "concert",
+        "startDate": "2026-04-20",
+        "endDate": "2026-04-20",
+        "importance": 84,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jackson-wang-tickets/artist/2647232?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jackson-wang-tickets/artist/2647232?language=en-mx",
+        "summary": "Jackson Wang played Palacio de los Deportes on April 20, 2026. Ticketmaster confirmed the Mexico City concert for 8:00 PM.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-fka-twigs-body-high-2026",
+        "title": "FKA twigs Body High Tour with Eartheater",
+        "type": "concert",
+        "startDate": "2026-04-23",
+        "endDate": "2026-04-23",
+        "importance": 84,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/event/1400637BDBFEA99F",
+        "ticketUrl": "https://www.ticketmaster.com.mx/event/1400637BDBFEA99F",
+        "summary": "FKA twigs brought the Body High Tour to Pepsi Center WTC on April 23. Ticketmaster listed Eartheater as part of the lineup for the Mexico City show.",
+        "genres": [
+          "r-and-b",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-ben-bohmer-pepsi-2026",
+        "title": "Ben Böhmer",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 78,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/ben-bohmer-boletos/artist/2619193?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/ben-bohmer-boletos/artist/2619193?language=en-mx",
+        "summary": "Ben Böhmer played Pepsi Center WTC on April 24, 2026. Ticketmaster categorized the show under dance/electronic and listed an 8:00 PM start time.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-hiromi-sonicwonder-2026",
+        "title": "Hiromi's Sonicwonder",
+        "type": "concert",
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "importance": 77,
+        "venueName": "El Lunario del Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/hiromi-s-sonicwonder-tickets/artist/4183694?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/hiromi-s-sonicwonder-tickets/artist/4183694?language=en-mx",
+        "summary": "Hiromi's Sonicwonder appeared at El Lunario del Auditorio Nacional on April 29. Ticketmaster listed the Mexico City performance for 9:00 PM.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

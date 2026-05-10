@@ -1,0 +1,130 @@
+{
+  "slug": "tel-aviv",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:57:37.695Z",
+  "responseId": "resp_03eb015395d3099c0069ff67044a408196a7f094c4b1548d0e",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 confirmations are currently strongest around Heichal HaTarbut’s seated concert and musical-theatre calendar rather than club/festival announcements.",
+    "events": [
+      {
+        "id": "tel-aviv-shalom-hanoch-2026",
+        "title": "Shalom Hanoch – Waiting for Messiah",
+        "type": "concert",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 82,
+        "venueName": "Heichal HaTarbut Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.hatarbut.co.il/events/event/%D7%9E%D7%97%D7%9B%D7%99%D7%9D-%D7%9C%D7%9E%D7%A9%D7%99%D7%97-%D7%A9%D7%9C%D7%95%D7%9D-%D7%97%D7%A0%D7%95%D7%9A/",
+        "ticketUrl": "https://www.hatarbut.co.il/events/event/%D7%9E%D7%97%D7%9B%D7%99%D7%9D-%D7%9C%D7%9E%D7%A9%D7%99%D7%97-%D7%A9%D7%9C%D7%95%D7%9D-%D7%97%D7%A0%D7%95%D7%9A/",
+        "summary": "Shalom Hanoch performs the album 'Waiting for Messiah' in full, plus songs from across his career, with around twenty musicians and musical direction by Moshe Levi.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-guys-and-dolls-2026",
+        "title": "Guys and Dolls",
+        "type": "concert",
+        "startDate": "2026-08-09",
+        "endDate": "2026-08-09",
+        "importance": 72,
+        "venueName": "Heichal HaTarbut Tel Aviv – Zucker Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.hatarbut.co.il/events/event/%D7%91%D7%A8%D7%A0%D7%A9%D7%99%D7%9D-%D7%95%D7%97%D7%AA%D7%99%D7%9B%D7%95%D7%AA/",
+        "ticketUrl": "https://www.hatarbut.co.il/events/event/%D7%91%D7%A8%D7%A0%D7%A9%D7%99%D7%9D-%D7%95%D7%97%D7%AA%D7%99%D7%9B%D7%95%D7%AA/",
+        "summary": "The Broadway musical 'Guys and Dolls' is scheduled in English with Hebrew surtitles; this entry uses the explicitly listed August 9 performance date.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-nurit-hirsh-2026",
+        "title": "Celebrating 80 for Nurit Hirsh",
+        "type": "concert",
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-13",
+        "importance": 70,
+        "venueName": "Heichal HaTarbut Tel Aviv – Zucker Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.hatarbut.co.il/events/event/%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-80-%D7%9C%D7%A0%D7%95%D7%A8%D7%99%D7%AA-%D7%94%D7%99%D7%A8%D7%A9-2/",
+        "ticketUrl": "https://www.hatarbut.co.il/events/event/%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-80-%D7%9C%D7%A0%D7%95%D7%A8%D7%99%D7%AA-%D7%94%D7%99%D7%A8%D7%A9-2/",
+        "summary": "A tribute concert for Israel Prize laureate Nurit Hirsh featuring Hirsh, Isaac Sutton and Israeli Opera singer Tal Bergman, with repertory from major Israeli songwriters and performers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-my-fair-lady-2026",
+        "title": "My Fair Lady",
+        "type": "concert",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-22",
+        "importance": 72,
+        "venueName": "Heichal HaTarbut Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.hatarbut.co.il/events/event/%D7%92%D7%91%D7%99%D7%A8%D7%AA%D7%99-%D7%94%D7%A0%D7%90%D7%95%D7%95%D7%94/",
+        "ticketUrl": "https://www.hatarbut.co.il/events/event/%D7%92%D7%91%D7%99%D7%A8%D7%AA%D7%99-%D7%94%D7%A0%D7%90%D7%95%D7%95%D7%94/",
+        "summary": "The Hebrew Theatre production of Lerner and Loewe’s 'My Fair Lady' is staged with the Israeli Camerata and stars Nathan Datner and Mika Tzur.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-sound-of-music-2026",
+        "title": "The Sound of Music – The Musical",
+        "type": "concert",
+        "startDate": "2026-08-30",
+        "endDate": "2026-08-30",
+        "importance": 70,
+        "venueName": "Heichal HaTarbut Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.hatarbut.co.il/events/event/%D7%A6%D7%9C%D7%99%D7%9C%D7%99-%D7%94%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-2/",
+        "ticketUrl": "https://www.hatarbut.co.il/events/event/%D7%A6%D7%9C%D7%99%D7%9C%D7%99-%D7%94%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-2/",
+        "summary": "A full Hebrew-language production of Rodgers and Hammerstein’s 'The Sound of Music,' directed by Nathan Datner with musical direction and conducting by Yossi Ben Nun.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-ofra-musical-2026",
+        "title": "Ofra – The Musical",
+        "type": "concert",
+        "startDate": "2026-08-31",
+        "endDate": "2026-08-31",
+        "importance": 76,
+        "venueName": "Heichal HaTarbut Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://friends-hist.co.il/hall/%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/",
+        "ticketUrl": "https://friends-hist.co.il/hall/%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/",
+        "summary": "A musical based on the life and songs of Ofra Haza, featuring music associated with her career including 'Im Nin'alu,' 'Galbi' and 'Chai.'",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-nuki-2026",
+        "title": "Nuki at Desire Bar",
+        "type": "concert",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 60,
+        "venueName": "Desire Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/1df2e383-0f1c-495c-9407-5d9905a228ca",
+        "ticketUrl": "https://www.shazam.com/event/1df2e383-0f1c-495c-9407-5d9905a228ca",
+        "summary": "Shazam’s concert guide lists electronic artist Nuki at Desire Bar in Tel Aviv-Yafo on August 22, 2026 at 9:00 PM.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

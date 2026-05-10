@@ -1,0 +1,207 @@
+{
+  "slug": "london",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:58:01.693Z",
+  "responseId": "resp_033ed5db14089d340069ff5913c6888193ba3b9fdaa5baa3e7",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in London was unusually strong for arena-scale country, jazz and pop benefit concerts, alongside major electronic takeovers at Drumsheds, Roundhouse and fabric.",
+    "events": [
+      {
+        "id": "london-c2c-country-to-country-mar-2026",
+        "title": "C2C: Country to Country 2026",
+        "type": "festival",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 96,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/c2c-country-to-country-2026",
+        "ticketUrl": null,
+        "summary": "Country To Country returned to The O2 for three days, with Zach Top, Keith Urban and Brooks & Dunn listed among the main headliners. The official O2 page also confirmed additional artists including Scotty McCreery, Russell Dickerson, Drake Milligan and Alana Springsteen.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-teenage-cancer-trust-rah-mar-2026",
+        "title": "Teenage Cancer Trust at Royal Albert Hall 2026",
+        "type": "concert",
+        "startDate": "2026-03-23",
+        "endDate": "2026-03-29",
+        "importance": 92,
+        "venueName": "Royal Albert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.teenagecancertrust.org/events/music-and-entertainment/teenage-cancer-trust-concert-royal-albert-hall",
+        "ticketUrl": null,
+        "summary": "The 2026 Royal Albert Hall benefit concert series was curated by Robert Smith and featured Elbow, Mogwai, Manic Street Preachers, My Bloody Valentine, Garbage with Placebo, and Wolf Alice across the week. The source lists each nightly bill and date from 23 to 29 March.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-southbank-montreux-jazz-mar-2026",
+        "title": "Southbank Centre x Montreux Jazz Festival Residency",
+        "type": "festival",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 86,
+        "venueName": "Southbank Centre",
+        "venueId": null,
+        "sourceUrl": "https://southbank.london/whats-on/southbank-centre-x-montreux-jazz-festival-residency",
+        "ticketUrl": null,
+        "summary": "The Southbank Centre and Montreux Jazz Festival residency returned for a three-day programme themed around “What is Jazz Today?”. Listed highlights included Theo Croker, Children of Zeus, Women in Jazz and corto.alto.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-trans-mission-mar-2026",
+        "title": "Trans Mission",
+        "type": "concert",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-11",
+        "importance": 86,
+        "venueName": "OVO Arena Wembley",
+        "venueId": null,
+        "sourceUrl": "https://www.ovoarena.co.uk/events/detail/trans-mission",
+        "ticketUrl": null,
+        "summary": "Trans Mission was billed by OVO Arena Wembley as a one-night solidarity concert, with Adam Lambert, Beth Ditto, Beverley Knight, Christine and the Queens, Olly Alexander, Romy, Sophie Ellis-Bextor, Sugababes, Tom Grennan and Wolf Alice among the listed performers. The venue page confirms the 11 March 2026 date.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-wu-tang-o2-mar-2026",
+        "title": "Wu-Tang Clan: Wu-Tang Forever - The Final Chamber",
+        "type": "concert",
+        "startDate": "2026-03-17",
+        "endDate": "2026-03-17",
+        "importance": 85,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/wu-tang-clan",
+        "ticketUrl": null,
+        "summary": "Wu-Tang Clan brought the Wu-Tang Forever: The Final Chamber tour to The O2 on Tuesday 17 March 2026, with Havoc of Mobb Deep and DJ Target listed as special guests. The O2 page confirms the 17 March date and venue.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-ants-drumsheds-mar-2026",
+        "title": "ANTS at Drumsheds",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 84,
+        "venueName": "Drumsheds",
+        "venueId": null,
+        "sourceUrl": "https://kaboodle.com/event/ants",
+        "ticketUrl": "https://kaboodle.com/event/ants",
+        "summary": "Ibiza party brand ANTS staged its biggest London show at Drumsheds, with B2B sets including Andrea Oliva b2b Ilario Alicante, Loco Dice b2b Green Velvet, Nic Fanciulli b2b Prunk and TSHA b2b HoneyLuv. Kaboodle lists the event for 6 March 2026 at Drumsheds.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-drumcode-drumsheds-mar-2026",
+        "title": "Drumcode London at Drumsheds",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 84,
+        "venueName": "Drumsheds",
+        "venueId": null,
+        "sourceUrl": "https://register.drumshedslondon.com/drumcode-london",
+        "ticketUrl": "https://register.drumshedslondon.com/drumcode-london",
+        "summary": "Drumcode returned to Drumsheds for a 30-year showcase featuring Adam Beyer, Bart Skils, Cassian, Chris Avantgarde, Eli Brown, Kasia, Kevin de Vries, Marco Faraone and Victor Ruiz among the listed lineup. The Drumsheds registration page confirms Saturday 7 March.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-laufey-o2-mar-2026",
+        "title": "Laufey - A Matter of Time Tour",
+        "type": "concert",
+        "startDate": "2026-03-08",
+        "endDate": "2026-03-09",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/laufey",
+        "ticketUrl": null,
+        "summary": "Laufey played two O2 arena dates on the A Matter of Time Tour, with Alice Phoebe Lou listed as special guest. The official venue page confirms shows on Sunday 8 and Monday 9 March 2026.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fabric-continuum-mar-2026",
+        "title": "Continuum: Craig Richards, Call Super, Nicolas Lutz, DJ Nobu, Channel One, Gabrielle Kwarteng",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 81,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2294967",
+        "ticketUrl": "https://ra.co/events/2294967",
+        "summary": "fabric’s Continuum programme listed Craig Richards, Call Super, Nicolas Lutz, DJ Nobu, Channel One, Gabrielle Kwarteng, Willow, XDB and more for its 28 March edition. Resident Advisor marks the event as an RA Pick and lists techno and house as genres.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "london-labyrinth-oliver-heldens-mar-2026",
+        "title": "Labyrinth presents: Oliver Heldens at Roundhouse",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 78,
+        "venueName": "The Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2318242",
+        "ticketUrl": "https://ra.co/events/2318242",
+        "summary": "Labyrinth presented Oliver Heldens at Roundhouse on 6 March 2026, with BL3SS and GAWP listed as support. Resident Advisor confirms the 19:00–23:00 event time and lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-holi-fest-cause-mar-2026",
+        "title": "HOLI FEST 2026 London",
+        "type": "festival",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 70,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2376964",
+        "ticketUrl": "https://ra.co/events/2376964",
+        "summary": "Desi Beatz and BollywoodLDN presented HOLI FEST 2026 at The Cause, billed as an outdoor colour-throwing festival celebrating South Asian music and culture. The RA listing confirms 7 March 2026 at The Cause with a music policy covering Bollywood, Desi anthems, house, dance and club classics.",
+        "genres": [
+          "house",
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

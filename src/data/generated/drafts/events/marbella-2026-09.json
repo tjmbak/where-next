@@ -1,0 +1,63 @@
+{
+  "slug": "marbella",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:24:46.257Z",
+  "responseId": "resp_0c30534bf8d853d40069ff5f7624dc8196a07527c19ea6a804",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 9,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "marbella-thomas-helmig-04-sep-2026",
+        "title": "Thomas Helmig at Marbella Arena",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 72,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://thomashelmig.dk/events/malaga-04-09-26",
+        "ticketUrl": null,
+        "summary": "Thomas Helmig’s official site lists a Marbella Arena concert on Friday 4 September 2026, with a post-concert DJ party. The page notes the Marbella Arena shows on 4 and 5 September are sold out.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-thomas-helmig-05-sep-2026",
+        "title": "Thomas Helmig at Marbella Arena",
+        "type": "concert",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 72,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://thomashelmig.dk/events/malaga-05-09-26",
+        "ticketUrl": null,
+        "summary": "Thomas Helmig’s official site lists a second Marbella Arena concert on Saturday 5 September 2026. The official event page also states that the Marbella Arena dates are sold out.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-apulanta-2026",
+        "title": "Apulanta at Marenostrum Fuengirola",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 65,
+        "venueName": "Marenostrum Fuengirola – Escenario Fundación Unicaja",
+        "venueId": null,
+        "sourceUrl": "https://marenostrumfuengirola.com/eventos/apulanta/",
+        "ticketUrl": null,
+        "summary": "Marenostrum Fuengirola’s official page confirms Finnish band Apulanta for Saturday 12 September 2026 at the Escenario Fundación Unicaja/Castillo Sohail, a major Costa del Sol venue near Marbella. The special guest is still listed as to be announced.",
+        "genres": []
+      }
+    ]
+  }
+}

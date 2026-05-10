@@ -1,0 +1,149 @@
+{
+  "slug": "dubai",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:21:23.230Z",
+  "responseId": "resp_0a6b9f6bd9db3bc20069ff5e9a57cc8190a806fd4ef099f939",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 10,
+    "year": 2026,
+    "notes": "October currently skews toward confirmed arena pop/heritage concerts and large outdoor festival brands, with several lineups still pending.",
+    "events": [
+      {
+        "id": "dubai-richard-marx-2026",
+        "title": "Richard Marx Live at Coca-Cola Arena",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 78,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://coca-cola-arena.com/music/1837/richard-marx",
+        "ticketUrl": "https://coca-cola-arena.com/music/1837/richard-marx",
+        "summary": "Coca-Cola Arena confirms Richard Marx for Saturday 3 October 2026 at 8:00 PM. The show is billed as his first Middle East performance, covering four decades of hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-kpopz-live-2026",
+        "title": "KPOPZ Live - The Ultimate K-pop Experience",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 62,
+        "venueName": "Theatre by QE2",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/105187/kpopz-live-the-ultimate-k-pop-experience-at-theatre-by-qe2",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/105187/kpopz-live-the-ultimate-k-pop-experience-at-theatre-by-qe2",
+        "summary": "Platinumlist confirms this K-pop tribute production at Theatre by QE2 on Saturday 3 October 2026. The show is built around K-pop choreography, immersive visuals and music associated with major Korean pop acts.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-god-save-the-queen-2026",
+        "title": "God Save the Queen - A Tribute in Dubai",
+        "type": "concert",
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-05",
+        "importance": 64,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104217/god-save-the-queen-a-tribute-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104217/god-save-the-queen-a-tribute-in-dubai",
+        "summary": "Platinumlist confirms the Queen tribute show at Dubai Opera on Monday 5 October 2026 at 8:30 PM. The event is presented by Star System and features the touring tribute act led by Pablo Padín.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-sonny-fodera-playa-pacha-2026",
+        "title": "Sonny Fodera | Playa Pacha",
+        "type": "beach-club",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 82,
+        "venueName": "FIVE Luxe JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/sonny-fodera-playa-pacha-tickets/1704396099",
+        "ticketUrl": "https://www.ticketmaster.ae/event/sonny-fodera-playa-pacha-tickets/1704396099",
+        "summary": "Ticketmaster UAE confirms Sonny Fodera at Playa Pacha, FIVE Luxe JBR, on Saturday 10 October 2026 at 7:00 PM. The event is part of Pacha Icons and is listed as a 21+ dance/electronic show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-elrow-dubai-2026",
+        "title": "Elrow Dubai 2026",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 88,
+        "venueName": "Dubai Media City Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/elrow-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/elrow-dubai",
+        "summary": "Platinumlist confirms elrow Dubai 2026 at Dubai Media City Amphitheatre on Saturday 24 October 2026, with doors at 16:00. The edition uses the Nowmads theme; DJ announcements are still pending on the source page.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-boris-grebenshikov-2026",
+        "title": "Boris Grebenshikov",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 72,
+        "venueName": "The Agenda",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/boris-grebenshikov-tickets/1469116963",
+        "ticketUrl": "https://www.ticketmaster.ae/event/boris-grebenshikov-tickets/1469116963",
+        "summary": "Ticketmaster UAE confirms Boris Grebenshikov at The Agenda on Saturday 24 October 2026 at 8:00 PM. The listing presents the Aquarium founder as performing in Dubai with BG+.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-blue-25th-anniversary-2026",
+        "title": "Blue 25th Anniversary Tour Dubai",
+        "type": "concert",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 76,
+        "venueName": "Dubai Millennium Amphitheatre, Expo City Dubai",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.me/event/blue-25th-anniversary-tour-dubai-dubai-tickets-edp1653105",
+        "ticketUrl": "https://www.ticketmaster.ae/event/blue-tickets/535382587",
+        "summary": "Live Nation Middle East confirms Blue's 25th Anniversary Tour at Dubai Millennium Amphitheatre, Expo City Dubai, on Sunday 25 October 2026. The British pop group is billed for a hits-focused anniversary concert.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "dubai-summer-in-nashville-2026",
+        "title": "Summer in Nashville Dubai 2026",
+        "type": "festival",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 70,
+        "venueName": "Dubai Media City Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.summerinnashville.com/dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/summer-in-nashville",
+        "summary": "The official Summer in Nashville site confirms the Dubai edition at Dubai Media City Amphitheatre on Saturday 31 October 2026. The event is billed as a touring country festival, with detailed artist billing not yet listed on the source page.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

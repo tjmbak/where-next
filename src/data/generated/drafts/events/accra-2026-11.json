@@ -1,0 +1,35 @@
+{
+  "slug": "accra",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:16:32.477Z",
+  "responseId": "resp_08c300f5caa0e51e0069ff5d7f6b608192b82b1cc68796e7be",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "accra",
+    "month": 11,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "accra-tidal-rave-fest-2026",
+        "title": "Tidal Rave Fest",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 85,
+        "venueName": "La Palm Royal Beach Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
+        "ticketUrl": null,
+        "summary": "AccraEvents.GH lists Tidal Rave Fest for November 14, 2026 at La Palm Royal Beach Hotel, describing it as a beach rave with music, dance, fashion, entrepreneurship, content creation, and local artistes.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

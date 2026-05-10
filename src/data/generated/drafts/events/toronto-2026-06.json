@@ -1,0 +1,220 @@
+{
+  "slug": "toronto",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:29:50.000Z",
+  "responseId": "resp_0dcf66a64db3c15a0069ff608a5ad88195a5a26e513c873e4b",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is stacked for Toronto: stadium-scale tours, All Things Go and NXNE, plus Pride-week dance programming are all already confirmed.",
+    "events": [
+      {
+        "id": "toronto-all-things-go-jun-2026",
+        "title": "All Things Go Music Festival Toronto 2026",
+        "type": "festival",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 93,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/all-things-go-music-festival-2-toronto-ontario-06-06-2026/event/10006435516A594B",
+        "ticketUrl": "https://www.ticketmaster.ca/all-things-go-music-festival-2-toronto-ontario-06-06-2026/event/10006435516A594B",
+        "summary": "Two-day Toronto edition of All Things Go at RBC Amphitheatre. Ticketmaster lists Kesha, Lorde, The Beaches, Wet Leg, Rachel Chinouriri, Del Water Gap, Holly Humberstone, Jade LeMac, Momma, Sofia Camara, Bella Kay and Flower Face across the weekend.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-luke-combs-2026",
+        "title": "Luke Combs – My Kinda Saturday Night Tour",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 88,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/luke-combs-tickets/artist/2150342",
+        "ticketUrl": null,
+        "summary": "Luke Combs plays two nights at Rogers Stadium with support listed by Ticketmaster including Dierks Bentley, Ty Myers, Jake Worthington and Thelma & James.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-nxne-2026",
+        "title": "NXNE Music Festival & Conference 2026",
+        "type": "festival",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-14",
+        "importance": 86,
+        "venueName": "Various Toronto venues",
+        "venueId": null,
+        "sourceUrl": "https://www.nxne.com/",
+        "ticketUrl": "https://www.nxne.com/",
+        "summary": "NXNE returns as a multi-venue Toronto music festival and conference from June 10–14. The official site lists confirmed 2026 artists including Accelerant, ALX COOPER, Bitch Stick, Cherrykim, Clay Pigeon, Coda Club, DESIIRE and Elin Hall.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-mumford-sons-2026",
+        "title": "Mumford & Sons – Prizefighter Tour",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 84,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/mumford-sons-prizefighter-tour-toronto-ontario-06-13-2026/event/100064529EC5D66B",
+        "ticketUrl": "https://www.ticketmaster.ca/mumford-sons-prizefighter-tour-toronto-ontario-06-13-2026/event/100064529EC5D66B",
+        "summary": "Mumford & Sons bring the Prizefighter Tour to Rogers Stadium on June 13. Ticketmaster confirms the Toronto date at the stadium.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-rosalia-lux-2026",
+        "title": "ROSALÍA – LUX Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 89,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/rosalia-tickets/artist/2453211",
+        "ticketUrl": "https://www.ticketmaster.ca/rosalia-tickets/artist/2453211",
+        "summary": "ROSALÍA plays Scotiabank Arena on the LUX Tour 2026. Ticketmaster lists the Toronto show for Saturday, June 13 at 8:30 p.m.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-post-malone-2026",
+        "title": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
+        "type": "concert",
+        "startDate": "2026-06-16",
+        "endDate": "2026-06-16",
+        "importance": 88,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/post-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE",
+        "ticketUrl": "https://www.ticketmaster.ca/post-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE",
+        "summary": "Post Malone brings The BIG ASS Stadium Tour Part 2 to Rogers Stadium on June 16. The confirmed Ticketmaster listing gives the Toronto show time as 7:30 p.m.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-joji-solaris-2026",
+        "title": "JOJI: SOLARIS",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 83,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/joji-billets/artist/2503150",
+        "ticketUrl": "https://www.ticketmaster.ca/joji-billets/artist/2503150",
+        "summary": "Joji’s SOLARIS tour stops at Scotiabank Arena on June 19. Ticketmaster lists Nate Sib and Corbin on the Toronto bill.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-strokes-reality-awaits-2026",
+        "title": "The Strokes – Reality Awaits North America",
+        "type": "concert",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 84,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/the-strokes-reality-awaits-north-america-toronto-ontario-06-21-2026/event/10006488B1BCC3B6",
+        "ticketUrl": "https://www.ticketmaster.ca/the-strokes-reality-awaits-north-america-toronto-ontario-06-21-2026/event/10006488B1BCC3B6",
+        "summary": "The Strokes play RBC Amphitheatre on June 21 as part of their Reality Awaits North America tour. Ticketmaster confirms the venue and 7:00 p.m. show time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-green-space-festival-2026",
+        "title": "Green Space Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-24",
+        "endDate": "2026-06-28",
+        "importance": 80,
+        "venueName": "Green Space Festival",
+        "venueId": null,
+        "sourceUrl": "https://greenspaceto.org/",
+        "ticketUrl": "https://greenspaceto.org/",
+        "summary": "Green Space Festival returns during Toronto Pride week from June 24–28. The official site describes the program as outdoor parties with music producers, performers and drag artists, raising funds for The 519.",
+        "genres": [
+          "festival",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "toronto-guy-j-ozmozis-2026",
+        "title": "Ozmozis presents Guy J (All Night Long)",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 75,
+        "venueName": "Evergreen Brick Works / TBA - New Venue",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2397653",
+        "ticketUrl": "https://ra.co/events/2397653",
+        "summary": "Ozmozis presents Guy J for a seven-hour all-night-long set in Toronto on June 20. Resident Advisor lists the event from 7:00 p.m. to 2:00 a.m. with Guy J as the confirmed lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-prism-revival-2026",
+        "title": "PRISM Toronto presents Revival",
+        "type": "club-night",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 82,
+        "venueName": "REBEL",
+        "venueId": "toronto-rebel",
+        "sourceUrl": "https://www.livenation.com/event/16tZkoMGEZAueaaG/revival",
+        "ticketUrl": "https://www.ticketweb.ca/",
+        "summary": "PRISM Toronto’s Pride-week Revival party takes over REBEL on June 28. Live Nation lists Mark Knight and Victor Calderone on the lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-noah-kahan-great-divide-2026",
+        "title": "Noah Kahan – The Great Divide Tour",
+        "type": "concert",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 87,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/noah-kahan-the-great-divide-tour-toronto-ontario-06-28-2026/event/10006441FE5BE5AD",
+        "ticketUrl": "https://www.ticketmaster.ca/noah-kahan-the-great-divide-tour-toronto-ontario-06-28-2026/event/10006441FE5BE5AD",
+        "summary": "Noah Kahan brings The Great Divide Tour to Rogers Stadium on June 28. Ticketmaster confirms the Toronto stadium date and 6:30 p.m. show time.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

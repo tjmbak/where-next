@@ -1,0 +1,214 @@
+{
+  "slug": "los-angeles",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:08:55.735Z",
+  "responseId": "resp_04085edb5c7743f40069ff5b922fc881a2ab2593b4477cf57b",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 9,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "los-angeles-bts-arirang-sofi-2026",
+        "title": "BTS World Tour 'Arirang' in Los Angeles",
+        "type": "concert",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 95,
+        "venueName": "SoFi Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/bts-world-tour-arirang-in-los-inglewood-california-09-01-2026/event/0A006429AB3C5EF1",
+        "ticketUrl": "https://www.ticketmaster.com/bts-world-tour-arirang-in-los-inglewood-california-09-01-2026/event/0A006429AB3C5EF1",
+        "summary": "BTS brings the World Tour 'Arirang' to SoFi Stadium in Inglewood for a confirmed September 1 stadium concert.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-guns-n-roses-rose-bowl-2026",
+        "title": "Guns N' Roses: World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 90,
+        "venueName": "Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/guns-n-roses-world-tour-2026-pasadena-california-09-05-2026/event/0B006375B6DA8A5E",
+        "ticketUrl": "https://www.ticketmaster.com/guns-n-roses-world-tour-2026-pasadena-california-09-05-2026/event/0B006375B6DA8A5E",
+        "summary": "Guns N' Roses' World Tour 2026 is confirmed for the Rose Bowl in Pasadena on September 5.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-bikini-kill-wiltern-2026",
+        "title": "Bikini Kill",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 78,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/bikini-kill-los-angeles-california-09-09-2026/event/09006436E85BAB04",
+        "ticketUrl": "https://www.ticketmaster.com/bikini-kill-los-angeles-california-09-09-2026/event/09006436E85BAB04",
+        "summary": "Bikini Kill is confirmed for an all-ages show at The Wiltern on September 9.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-mana-intuit-dome-2026",
+        "title": "MANÁ: Vivir Sin Aire Tour",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 86,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule/ticketevent-783683006",
+        "ticketUrl": "https://www.ticketmaster.com/mana-vivir-sin-aire-tour-inglewood-california-09-18-2026/event/0900637A9D42855B",
+        "summary": "Maná brings the Vivir Sin Aire Tour to Intuit Dome in Inglewood on September 18.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-peter-hook-palladium-2026",
+        "title": "Peter Hook & The Light - North American Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 76,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
+        "ticketUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
+        "summary": "Peter Hook & The Light are confirmed at the Hollywood Palladium, with the event billed around performing New Order's Get Ready live plus Joy Division and New Order selections.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-carin-leon-bmo-2026",
+        "title": "Carin Leon - De Sonora Para El Mundo Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-20",
+        "endDate": "2026-09-20",
+        "importance": 82,
+        "venueName": "BMO Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/carin-leon-de-sonora-para-el-los-angeles-california-09-20-2026/event/0A00644328E0E003",
+        "ticketUrl": "https://www.ticketmaster.com/carin-leon-de-sonora-para-el-los-angeles-california-09-20-2026/event/0A00644328E0E003",
+        "summary": "Carin León's De Sonora Para El Mundo Tour 2026 is confirmed for BMO Stadium in Los Angeles on September 20.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-robyn-kia-forum-2026",
+        "title": "Robyn - The Sexistential Tour",
+        "type": "concert",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "importance": 85,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/robyn-the-sexistential-tour-inglewood-california-09-23-2026/event/0900643CE7CDE833",
+        "ticketUrl": "https://www.ticketmaster.com/robyn-the-sexistential-tour-inglewood-california-09-23-2026/event/0900643CE7CDE833",
+        "summary": "Robyn is confirmed for The Sexistential Tour at Kia Forum in Inglewood on September 23.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-work-overtime-techno-2026",
+        "title": "WORK OVER/TIME: Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose & Wata Igarashi",
+        "type": "club-night",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-27",
+        "importance": 80,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2428630",
+        "ticketUrl": "https://ra.co/events/2428630",
+        "summary": "WORK OVER/TIME presents an extended Los Angeles techno weekender with Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose and Wata Igarashi listed on the lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-iron-maiden-bmo-2026",
+        "title": "Iron Maiden: Run For Your Lives World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 88,
+        "venueName": "BMO Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-los-angeles-california-09-25-2026/event/0A006355C2E05EEB",
+        "ticketUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-los-angeles-california-09-25-2026/event/0A006355C2E05EEB",
+        "summary": "Iron Maiden's Run For Your Lives World Tour 2026 is confirmed for BMO Stadium in Los Angeles on September 25.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-amelie-lens-grand-park-2026",
+        "title": "Factory 93 presents: Amelie Lens at Grand Park Block 2",
+        "type": "club-night",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 84,
+        "venueName": "Grand Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2400834",
+        "ticketUrl": "https://ra.co/events/2400834",
+        "summary": "Factory 93 brings Amelie Lens to Grand Park Block 2 for an open-air Los Angeles techno event on September 26.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-boiler-room-teletech-2026",
+        "title": "Boiler Room: LA - Teletech",
+        "type": "club-night",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 82,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2404470",
+        "ticketUrl": "https://ra.co/events/2404470",
+        "summary": "Boiler Room's LA edition with Teletech is confirmed for September 27 at a TBA Los Angeles venue, with the lineup still to be announced on the event page.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-dominic-fike-wiltern-2026",
+        "title": "\"Comedy Tragedy Parody\" Dominic Fike in North America",
+        "type": "concert",
+        "startDate": "2026-09-30",
+        "endDate": "2026-09-30",
+        "importance": 78,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/comedy-tragedy-parody-dominic-fike-in-los-angeles-california-09-30-2026/event/0900648FECB8C10C",
+        "ticketUrl": "https://www.ticketmaster.com/comedy-tragedy-parody-dominic-fike-in-los-angeles-california-09-30-2026/event/0900648FECB8C10C",
+        "summary": "Dominic Fike's Comedy Tragedy Parody North America tour is confirmed for The Wiltern on September 30.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

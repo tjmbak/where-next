@@ -1,0 +1,219 @@
+{
+  "slug": "marbella",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:24:40.989Z",
+  "responseId": "resp_0b8ea2f50c6da07a0069ff5f6602b881a29a239ae61ff785d7",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is anchored by Starlite Occident’s international concert run, with Marbella Arena adding a compact electronic/house strand around mid-month.",
+    "events": [
+      {
+        "id": "marbella-danny-ocean-2026",
+        "title": "Danny Ocean at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 82,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/danny-ocean-2/",
+        "ticketUrl": null,
+        "summary": "Danny Ocean performs at Starlite Occident’s Auditorium on July 4, with the festival billing him around hits including “Me Rehúso” and his contemporary Latin-pop catalog.",
+        "genres": [
+          "latin",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-maroon-5-2026",
+        "title": "Maroon 5 at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-07",
+        "importance": 92,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/maroon-5/",
+        "ticketUrl": null,
+        "summary": "Maroon 5 headline Starlite Occident’s Auditorium on July 7, with the official page listing doors at 20:00 and showtime at 22:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-faithless-arena-2026",
+        "title": "Faithless at Marbella Arena",
+        "type": "club-night",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-09",
+        "importance": 82,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2344219",
+        "ticketUrl": "https://ra.co/events/2344219",
+        "summary": "Faithless are listed by Resident Advisor for a live Marbella Arena show on July 9, with support from BL3SS and an 20:00–01:00 event time.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-chris-stussy-arena-2026",
+        "title": "Chris Stussy at Marbella Arena",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 78,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Marbella-Arena/Chris-Stussy-at-Marbella-Arena/42414230/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Marbella-Arena/Chris-Stussy-at-Marbella-Arena/42414230/",
+        "summary": "Chris Stussy plays a Marbella Arena open-air show on July 11, with Skiddle listing Laidlaw and Lauren Lo Sung on the lineup and house as the genre.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-jean-michel-jarre-2026",
+        "title": "Jean-Michel Jarre at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-13",
+        "importance": 88,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/jean-michel-jarre-2/",
+        "ticketUrl": null,
+        "summary": "Jean-Michel Jarre appears at Starlite Occident on July 13, with the official listing placing the electronic-music pioneer in the Auditorium at 22:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-juan-luis-guerra-2026",
+        "title": "Juan Luis Guerra 4.40 at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-15",
+        "endDate": "2026-07-15",
+        "importance": 89,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/juan-luis-guerra-4-40/",
+        "ticketUrl": null,
+        "summary": "Juan Luis Guerra 4.40 returns to Starlite Occident Marbella on July 15, with the official page highlighting his bachata and merengue legacy.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-josh-baker-arena-2026",
+        "title": "Josh Baker at Marbella Arena",
+        "type": "club-night",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 76,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://nl.ra.co/events/2360575",
+        "ticketUrl": "https://nl.ra.co/events/2360575",
+        "summary": "Josh Baker is confirmed by Resident Advisor for Marbella Arena on July 17, with house music listed as the genre and the event running 19:00–01:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-yandel-sinfonico-2026",
+        "title": "Yandel Sinfónico at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 84,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/yandel-sinfonico-2/",
+        "ticketUrl": null,
+        "summary": "Yandel brings his “Yandel Sinfónico” show to Starlite Occident on July 18, reworking his urban and reggaeton catalog with a symphonic format.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-john-legend-2026",
+        "title": "John Legend at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-20",
+        "endDate": "2026-07-20",
+        "importance": 90,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/john-legend-2/",
+        "ticketUrl": null,
+        "summary": "John Legend returns to Starlite Occident on July 20, with the official event page placing the EGOT-winning singer-songwriter in the Auditorium at 22:00.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-diana-krall-2026",
+        "title": "Diana Krall at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-21",
+        "endDate": "2026-07-21",
+        "importance": 86,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/diana-krall/",
+        "ticketUrl": null,
+        "summary": "Diana Krall performs at Starlite Occident on July 21, with the official listing confirming the jazz pianist and singer for a 22:00 Auditorium show.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "marbella-kool-the-gang-2026",
+        "title": "Kool & The Gang at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-23",
+        "importance": 85,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/kool-the-gang-4/",
+        "ticketUrl": null,
+        "summary": "Kool & The Gang are confirmed for Starlite Occident’s Auditorium on July 23, with the festival presenting them as R&B, soul and funk legends.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-manuel-turizo-2026",
+        "title": "Manuel Turizo at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "importance": 84,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/manuel-turizo-2/",
+        "ticketUrl": null,
+        "summary": "Manuel Turizo plays Starlite Occident Marbella on July 30, with the official page highlighting his Latin urban-pop repertoire including “La Bachata.”",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

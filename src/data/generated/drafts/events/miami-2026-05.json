@@ -1,0 +1,220 @@
+{
+  "slug": "miami",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:02:26.624Z",
+  "responseId": "resp_0af2c307a64979c20069ff5a1d911481939e66d9c07b702b84",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is anchored by F1-week electronic programming, Memorial Day weekend Caribbean festivals, and major Latin arena concerts.",
+    "events": [
+      {
+        "id": "miami-f1-hard-rock-beach-club-2026",
+        "title": "Formula 1 Miami Grand Prix 2026: Hard Rock Beach Club Music Lineup",
+        "type": "festival",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-03",
+        "importance": 88,
+        "venueName": "Hard Rock Beach Club at Miami International Autodrome",
+        "venueId": null,
+        "sourceUrl": "https://seminole.hardrock.com/newsroom/2026/04/formula-1-crypto-com-miami-grand-prix-2026",
+        "ticketUrl": "https://f1miamigp.com/",
+        "summary": "Hard Rock’s official race-weekend music program features Zedd and Nelly on May 1, Marshmello and DJ Diesel on May 2, and Loud Luxury and Kane Brown on May 3. Performances take place at the trackside Hard Rock Beach Club during the Formula 1 Crypto.com Miami Grand Prix.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-rampa-race-weekend-2026",
+        "title": "Rampa: Race Weekend",
+        "type": "club-night",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 82,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393803",
+        "ticketUrl": null,
+        "summary": "Keinemusik member Rampa headlines a Race Weekend late-night event at Factory Town. The source lists the event for Saturday, May 2, 2026, from 10:00 PM to 5:00 AM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-ethel-cain-fillmore-2026",
+        "title": "Ethel Cain: The Willoughby Tucker Forever Tour",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 78,
+        "venueName": "The Fillmore Miami Beach at The Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/ethel-cain-the-willoughby-tucker-forever-tour/35428",
+        "ticketUrl": null,
+        "summary": "Ethel Cain brings The Willoughby Tucker Forever Tour to The Fillmore Miami Beach on Saturday, May 9. The show is listed with an 8:00 PM start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-haitian-compas-festival-2026",
+        "title": "Haitian Compas Festival",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 88,
+        "venueName": "The NoMI Village",
+        "venueId": null,
+        "sourceUrl": "https://haitiancompafestival.com/",
+        "ticketUrl": "https://wl.eventim.us/",
+        "summary": "The Haitian Compas Festival’s official site lists the 2026 festival for May 16 at 2:00 PM. The Greater Miami listing names Klass, Kai, Vayb and T-Vice among the featured acts for the North Miami event.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-mau-p-baddest-behaviour-2026",
+        "title": "Mau P(resents): Baddest Behaviour [Open to Close]",
+        "type": "club-night",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-15",
+        "importance": 82,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2325916",
+        "ticketUrl": null,
+        "summary": "Mau P brings his Baddest Behaviour concept to Factory Town for an open-to-close set. Resident Advisor lists the event for Friday, May 15, 2026, from 10:00 PM to 6:00 AM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-i-hate-models-disco-inferno-2026",
+        "title": "I Hate Models presents Disco Inferno",
+        "type": "club-night",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 83,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393804",
+        "ticketUrl": null,
+        "summary": "French techno producer I Hate Models launches his Disco Inferno event series at Factory Town with KUKO, AMMARA and Lara Klart also listed. RA confirms the date as Saturday, May 16, 2026.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-reggae-fest-alkaline-2026",
+        "title": "Reggae Fest Presents Alkaline",
+        "type": "concert",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-22",
+        "importance": 80,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/reggae-fest",
+        "ticketUrl": null,
+        "summary": "Reggae Fest comes to Kaseya Center on Friday, May 22, featuring Jamaican dancehall headliner Alkaline. The venue lists the show start at 8:00 PM with doors at 7:00 PM.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-carlos-vives-tour-al-sol-2026",
+        "title": "Carlos Vives: Tour Al Sol",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 82,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/carlos-vives-5",
+        "ticketUrl": null,
+        "summary": "Carlos Vives brings his Tour Al Sol to Kaseya Center on Saturday, May 23. The official venue page lists the concert start time as 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-carl-cox-club-space-2026",
+        "title": "Carl Cox, Viot & Maher Daniel",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 86,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/carl-cox-viot-and-maher-daniel/39516",
+        "ticketUrl": null,
+        "summary": "Carl Cox headlines a late-night-to-daytime session on the Club Space Terrace with Viot and Maher Daniel. The listing confirms the event for Saturday, May 23, starting at 11:00 PM.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-best-of-the-best-2026",
+        "title": "Best of the Best Music Fest",
+        "type": "festival",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 90,
+        "venueName": "Museum Park",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/best-of-the-best-music-fest/10108",
+        "ticketUrl": "https://www.bestofthebestconcert.com/",
+        "summary": "The 20th annual Best of the Best Music Fest takes over Museum Park on Sunday, May 24. The confirmed lineup includes Sizzla, Beenie Man, Capleton, Tarrus Riley, 450, Voice, Vanessa Bling, Shaneil Muir, Tifa, Skeng, Kraff, Raja Wild and Kkrytical.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-charlotte-de-witte-space-2026",
+        "title": "Charlotte de Witte & Enrico Sangiuliano",
+        "type": "club-night",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 86,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2421594",
+        "ticketUrl": null,
+        "summary": "Charlotte de Witte and Enrico Sangiuliano headline a Sunday night techno session at Club Space, joined by Natalia Roth, Coffintexts and Souls Departed. RA lists the event for May 24, 2026, from 11:00 PM to 2:00 PM.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-miamibash-2026",
+        "title": "MiamiBash 2026 by Alex Sensation",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 88,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/miami-bash-2026",
+        "ticketUrl": null,
+        "summary": "MiamiBash 2026 brings a large urbano and Latin pop lineup to Kaseya Center on Saturday, May 30. The official venue page lists Arcángel, Chencho Corleone, Farruko, Ryan Castro, Zion, Baby Rasta y Gringo, Alexis y Fido, Jory Boy, Gente de Zona, Fariana, Mau y Ricky and Chimbala.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

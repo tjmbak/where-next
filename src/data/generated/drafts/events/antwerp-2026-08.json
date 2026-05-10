@@ -1,0 +1,167 @@
+{
+  "slug": "antwerp",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:54:01.293Z",
+  "responseId": "resp_0804f1f64f47d6080069ffd69bae0c8192bce2f7b26f2f4200",
+  "searchCalls": 22,
+  "citations": [],
+  "data": {
+    "destinationSlug": "antwerp",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is strongest for open-air shows at OLT Rivierenhof, late-summer specialist festivals at Trix and AMUZ, and select electronic festivals in Antwerp and nearby parks.",
+    "events": [
+      {
+        "id": "antwerp-lloss-festival-2026",
+        "title": "LLOSS Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 72,
+        "venueName": "Schans van Landmolen",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2416339",
+        "ticketUrl": "https://shop.weeztix.com",
+        "summary": "Resident Advisor lists LLOSS Festival 2026 for Saturday, August 1 at Schans van Landmolen near Antwerp, with a 16:00–04:00 run and a progressive house/house focus. The lineup is still TBA, so this is included as a confirmed date rather than a lineup-led pick.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-selah-sue-gallands-2026",
+        "title": "Selah Sue & The Gallands",
+        "type": "concert",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 76,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.arenberg.be/nl/programma/selah-sue-the-gallands/a0NP500000NdPcUMAV",
+        "ticketUrl": "https://apps.ticketmatic.com",
+        "summary": "Selah Sue performs with Stéphane and Elvin Galland at OLT Rivierenhof, with K.ZIA listed as support. The venue page describes the project as a genre-crossing live collaboration built around Selah Sue’s vocals and the Gallands’ rhythm-section sound.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-goose-open-air-2026",
+        "title": "GOOSE Open Air Shows @ OLT",
+        "type": "concert",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-13",
+        "importance": 78,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/goose-open-air-shows-olt-night-1-deurne-tickets-edp1653501",
+        "ticketUrl": "https://apps.ticketmatic.com",
+        "summary": "Live Nation Belgium confirms GOOSE for two open-air shows at OLT Rivierenhof on August 12 and 13, 2026. The Belgian electronic-rock crossover act follows its 20Y Celebration Tour with this Antwerp summer run.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-laus-polyphoniae-2026",
+        "title": "Laus Polyphoniae 2026",
+        "type": "festival",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-29",
+        "importance": 82,
+        "venueName": "AMUZ and other Antwerp venues",
+        "venueId": null,
+        "sourceUrl": "https://amuz.be/en/laus-polyphoniae/",
+        "ticketUrl": "https://tix.amuz.be",
+        "summary": "AMUZ confirms Laus Polyphoniae 2026 from August 21 to 29 under the theme “Voices of Europe circa 1600.” The announced programme includes Tenebrae, Les Meslanges, Collegium Vocale Gent, Stile Antico, Huelgas Ensemble, Vox Luminis and The Gesualdo Six.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-bad-habitz-festival-2026",
+        "title": "Bad Habitz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-23",
+        "importance": 74,
+        "venueName": "Antwerp Expo",
+        "venueId": null,
+        "sourceUrl": "https://www.sway.events/event/2566",
+        "ticketUrl": "https://weeztix.shop/ddaqbkve",
+        "summary": "Sway lists Bad Habitz Festival 2026 at Antwerp Expo from August 22 at 14:00 to August 23 at 06:00. The event is billed as a 16-hour drum & bass festival with outdoor and indoor stages, with pre-lineup tickets on sale.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-wilco-olt-2026",
+        "title": "Wilco – A Tour with Wilco",
+        "type": "concert",
+        "startDate": "2026-08-25",
+        "endDate": "2026-08-26",
+        "importance": 80,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/wilco/a0NP500000IRRzXMAX",
+        "ticketUrl": "https://apps.ticketmatic.com",
+        "summary": "OLT Rivierenhof confirms Wilco for two Antwerp shows on August 25 and 26, 2026, with Hovvdy as support. The venue bills the concerts as “An evening with Wilco,” spanning more than 30 years of the band’s catalogue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-sylvie-kreusch-olt-2026",
+        "title": "Sylvie Kreusch with Rosie Stuart",
+        "type": "concert",
+        "startDate": "2026-08-27",
+        "endDate": "2026-08-27",
+        "importance": 73,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/sylvie-kreusch/a0NP500000LnYCYMA3",
+        "ticketUrl": "https://www.ticketswap.nl",
+        "summary": "OLT Rivierenhof lists Sylvie Kreusch with support from Rosie Stuart on August 27 and August 29, 2026; this entry tracks the August 27 performance. The page highlights Kreusch’s experimental pop approach and the live presentation around her album “Comic Trip.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-summer-bummer-festival-2026",
+        "title": "Summer Bummer Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-28",
+        "endDate": "2026-08-29",
+        "importance": 78,
+        "venueName": "Trix",
+        "venueId": "trix-antwerp",
+        "sourceUrl": "https://www.trixonline.be/en/program/festival/summer-bummer-festival-2026/2127/",
+        "ticketUrl": "https://apps.ticketmatic.com",
+        "summary": "Trix confirms Summer Bummer Festival 2026 for August 28–29, with Sound in Motion and Oei! curating the 11th edition. The announced lineup includes Alexander von Schlippenbach/Paal Nilssen-Love, Rodrigo Amado/Joëlle Léandre/Gerald Cleaver, Das B, Erosão Septet, Audrey Chen/Tashi Dorji and more.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-the-day-before-tomorrow-2026",
+        "title": "The Day Before Tomorrow 2026",
+        "type": "festival",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 76,
+        "venueName": "Park van Brasschaat",
+        "venueId": null,
+        "sourceUrl": "https://www.thedaybeforetomorrow.be/",
+        "ticketUrl": "https://www.thedaybeforetomorrow.be/tickets/",
+        "summary": "The Day Before Tomorrow confirms its 13th edition for Saturday, August 29, 2026 at Park van Brasschaat, very near Antwerp. The posted lineup includes Lil Kleine, DJ F.R.A.N.K., Yves Deruyter, Regi, Dave Lambert, USED, Robert Falcon and others across four stages.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

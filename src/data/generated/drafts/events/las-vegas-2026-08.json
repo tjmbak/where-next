@@ -1,0 +1,208 @@
+{
+  "slug": "las-vegas",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:34:49.845Z",
+  "responseId": "resp_0c93d4f0472f028e0069ff61bc50bc81938c1d454da3fbd91b",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is unusually strong for Las Vegas, anchored by stadium-scale rock and Latin pop shows plus Sphere and Strip residencies.",
+    "events": [
+      {
+        "id": "las-vegas-acdc-power-up-2026",
+        "title": "AC/DC: POWER UP Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 92,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/acdc-power-up-tour-2026",
+        "ticketUrl": "https://www.livenation.com/event/1AvjZbgGkMJvBxs/ac-dc-power-up-tour-2026",
+        "summary": "AC/DC bring the POWER UP Tour to Allegiant Stadium with special guest The Pretty Reckless. The venue lists the show for Saturday, August 1, 2026 at 7:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-grupo-frontera-2026",
+        "title": "Grupo Frontera: Triste Pero Bien C*brón Tour",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 82,
+        "venueName": "Michelob ULTRA Arena at Mandalay Bay Resort & Casino",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1358466/grupo-frontera-tickets",
+        "ticketUrl": "https://www.axs.com/events/1358466/grupo-frontera-tickets",
+        "summary": "Grupo Frontera bring their Triste Pero Bien C*brón Tour to Michelob ULTRA Arena. AXS lists the Las Vegas concert for Saturday, August 1, 2026 at 8:00 PM.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-backstreet-boys-sphere-2026",
+        "title": "Backstreet Boys: Into The Millennium",
+        "type": "residency",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 90,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://sphere.backstreetboys.com/",
+        "ticketUrl": "https://www.thesphere.com/shows/backstreet-boys",
+        "summary": "Backstreet Boys continue their Into The Millennium Sphere residency with multiple explicitly listed August 2026 dates; August 1 is one representative confirmed date. The production is built around the band’s Millennium-era catalog and Sphere visuals.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-karol-g-tropitour-2026",
+        "title": "Karol G: Viajando Por El Mundo Tropitour",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 94,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events",
+        "ticketUrl": "https://www.ticketmaster.com/karol-g-viajando-por-el-mundo-tropitour-las-vegas-08-07-2026/event/17006494C9569EDC",
+        "summary": "Karol G’s Viajando Por El Mundo Tropitour comes to Allegiant Stadium. The stadium calendar lists the Las Vegas show for Friday, August 7, 2026 at 7:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-steve-aoki-omnia-2026",
+        "title": "Steve Aoki at OMNIA",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-08",
+        "importance": 72,
+        "venueName": "OMNIA",
+        "venueId": null,
+        "sourceUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-8-7-2026",
+        "ticketUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-8-7-2026",
+        "summary": "Steve Aoki headlines a late-night OMNIA club event. Tao Group lists the event from August 7, 2026 at 10:30 PM to August 8, 2026 at 4:00 AM.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-bini-signals-2026",
+        "title": "BINI: SIGNALS The BINI World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 80,
+        "venueName": "PH Live at Planet Hollywood",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/signals-the-bini-world-tour-2026-las-vegas-08-08-2026/event/39006491AB172BD1",
+        "ticketUrl": "https://www.ticketmaster.com/signals-the-bini-world-tour-2026-las-vegas-08-08-2026/event/39006491AB172BD1",
+        "summary": "Filipino pop group BINI bring the SIGNALS World Tour to PH Live at Planet Hollywood. Ticketmaster lists the Las Vegas show for Saturday, August 8, 2026 at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-kelly-clarkson-studio-sessions-2026",
+        "title": "Kelly Clarkson: Studio Sessions - The Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 86,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://newsroom.caesars.com/press-releases/press-release-details/2025/Kelly-Clarkson-Announces-New-2026-Dates-For-Las-Vegas-Residency-At-The-Colosseum-At-Caesars-Palace-2025-wMQzZoIo-H/default.aspx",
+        "ticketUrl": "https://www.ticketmaster.com/explore/kellyclarksonvegas",
+        "summary": "Kelly Clarkson’s Studio Sessions residency returns to The Colosseum at Caesars Palace with August 2026 dates including August 7. The show is billed as a career-spanning live studio-style residency with her band and longtime collaborators.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-boyz-ii-men-chelsea-2026",
+        "title": "Boyz II Men at The Chelsea",
+        "type": "residency",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 80,
+        "venueName": "The Chelsea at The Cosmopolitan of Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://cosmopolitanlasvegas.mgmresorts.com/en/entertainment/boyz-ii-men.html",
+        "ticketUrl": "https://www.ticketmaster.com/boyz-ii-men-las-vegas-nevada-08-14-2026/event/17006443AA45D69A",
+        "summary": "Boyz II Men return to The Chelsea at The Cosmopolitan for select August 2026 performances; August 14 is one representative confirmed date. The MGM Resorts event page lists shows on August 14, 15, 21, and 22.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-dj-pauly-d-hakkasan-2026",
+        "title": "DJ Pauly D at Hakkasan Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-13",
+        "importance": 70,
+        "venueName": "Hakkasan Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://hakkasan.uvtix.com/event/uv3607772505dt260813/dj-pauly-d/",
+        "ticketUrl": "https://hakkasan.uvtix.com/event/uv3607772505dt260813/dj-pauly-d/",
+        "summary": "DJ Pauly D headlines Hakkasan Nightclub inside MGM Grand. The venue page lists the event for Thursday, August 13, 2026 at 10:30 PM.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-wax-motif-zouk-2026",
+        "title": "Wax Motif at Zouk Nightclub",
+        "type": "club-night",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-21",
+        "importance": 72,
+        "venueName": "Zouk Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1415015/wax-motif-tickets",
+        "ticketUrl": "https://www.axs.com/events/1415015/wax-motif-tickets",
+        "summary": "Wax Motif headlines Zouk Nightclub at Resorts World Las Vegas. AXS lists the event for Friday, August 21, 2026 at 10:30 PM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-guns-n-roses-world-tour-2026",
+        "title": "Guns N' Roses: World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 90,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/guns-n-roses-2026",
+        "ticketUrl": "https://www.ticketmaster.com/guns-n-roses-world-tour-2026-las-vegas-nevada-08-22-2026/event/17006371F298F390",
+        "summary": "Guns N’ Roses bring their 2026 World Tour to Allegiant Stadium. The venue confirms the Las Vegas concert for Saturday, August 22, 2026.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-billy-idol-hot-in-the-city-2026",
+        "title": "Billy Idol: Hot In The City",
+        "type": "residency",
+        "startDate": "2026-08-28",
+        "endDate": "2026-08-28",
+        "importance": 78,
+        "venueName": "BleauLive Theater at Fontainebleau Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.fontainebleaulasvegas.com/event/billy-idol-hot-in-the-city/2026-08-28/",
+        "ticketUrl": "https://www.ticketmaster.com/billy-idol-hot-in-the-city-las-vegas-28-08-2026/event/1700646DB7C28B9A",
+        "summary": "Billy Idol opens his Hot In The City Las Vegas engagement at BleauLive Theater with longtime guitarist Steve Stevens in the band. Fontainebleau lists August 28, 2026 as one of five confirmed dates.",
+        "genres": []
+      }
+    ]
+  }
+}

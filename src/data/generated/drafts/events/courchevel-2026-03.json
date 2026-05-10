@@ -1,0 +1,116 @@
+{
+  "slug": "courchevel",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:38:03.153Z",
+  "responseId": "resp_080fe9d20eb66fbe0069ff627da9d0819c95bcf50d7b71ba89",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "courchevel",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Courchevel leaned toward alpine spectacle and après-ski programming rather than standalone touring concerts, with the strongest confirmed music moments attached to resort festivals, Les Caves, and World Cup side-events.",
+    "events": [
+      {
+        "id": "courchevel-les-caves-alex-wann-2026",
+        "title": "Les Caves: Alex Wann",
+        "type": "club-night",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-01",
+        "importance": 78,
+        "venueName": "Les Caves De Courchevel",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2375557",
+        "ticketUrl": "https://www.sevenrooms.com/explore/lescavesdecourchevel/reservations/create/search/",
+        "summary": "Resident Advisor listed a late-night Les Caves De Courchevel club event on Sunday, March 1, 2026, running 23:00–05:00 with Alex Wann on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-pyrotechnic-1850-dj-2026",
+        "title": "International Festival of Pyrotechnic Art – Courchevel 1850 DJ & Fireworks",
+        "type": "festival",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-03",
+        "importance": 74,
+        "venueName": "Front de neige 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/international-festival-of-pyrotechnic-art-courchevel-1850-6696566/",
+        "ticketUrl": null,
+        "summary": "Courchevel’s official calendar confirmed the March 3, 2026 Courchevel 1850 edition of the International Festival of Pyrotechnic Art, opening with DJ and entertainment before the torchlight descent and Fireworks Lieto display.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "courchevel-trio-czardas-gypsy-concert-2026",
+        "title": "Gypsy Music Concert: Trio Czardas",
+        "type": "concert",
+        "startDate": "2026-03-04",
+        "endDate": "2026-03-04",
+        "importance": 60,
+        "venueName": "Médiathèque - Alpinium",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/pt/a/gypsy-music-concert-7238304/",
+        "ticketUrl": null,
+        "summary": "Courchevel’s official event page confirmed a free March 4, 2026 concert by Trio Czardas, featuring Russian gypsy folklore and Central European music with guitar, balalaika, violin, accordion and vocals.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "courchevel-pyrotechnic-awards-dj-set-2026",
+        "title": "International Festival of Pyrotechnic Art Awards & DJ Set",
+        "type": "festival",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 70,
+        "venueName": "Front de neige 1650",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/descent-of-the-4-schools-and-awards-ceremony-for-the-festival-international-dart-pyrotechnique-7144588/",
+        "ticketUrl": null,
+        "summary": "Courchevel’s official calendar confirmed the March 5, 2026 awards ceremony for the International Festival of Pyrotechnic Art at Courchevel Moriond, followed by Show Time and a 7:30 pm DJ set.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "courchevel-world-cup-post-race-music-2026",
+        "title": "Men’s Alpine Ski World Cup – Post-Race DJ & Concerts",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 76,
+        "venueName": "L’Éclipse slope / Partners’ Village, Courchevel Le Praz",
+        "venueId": null,
+        "sourceUrl": "https://www.les3vallees.com/en/news/men-alpine-ski-world-cup-courchevel",
+        "ticketUrl": "https://www.ski.worldcupcourchevel.com/",
+        "summary": "Les 3 Vallées confirmed music programming alongside the March 13–15, 2026 Men’s Alpine Ski World Cup in Courchevel Le Praz: DJ Jo after Friday’s race, KTR6 on Saturday, and Bloc Off the Wall on Sunday.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "courchevel-roc-merlet-derby-party-2026",
+        "title": "Roc Merlet Derby Street Party – Concerts & Live DJ",
+        "type": "festival",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 70,
+        "venueName": "Front de neige 1650 / Rue des Marquis",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/roc-merlet-derby-7690702/",
+        "ticketUrl": "https://www.helloasso.com/associations/l-amicale-des-moniteurs-de-ski-de-l-esf-courchevel-1650/evenements/inscription-derby-du-roc-merlet-1",
+        "summary": "Courchevel’s official calendar confirmed the March 29, 2026 Roc Merlet Derby, a long-running local ski event ending in Courchevel Moriond with a Derby Street Party, music stage, concerts and live DJ.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

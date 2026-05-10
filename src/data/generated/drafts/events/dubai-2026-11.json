@@ -1,0 +1,153 @@
+{
+  "slug": "dubai",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:21:19.914Z",
+  "responseId": "resp_026085fbfc1464fa0069ff5eb21ad8819ca9be110cf4840c1e",
+  "searchCalls": 9,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 11,
+    "year": 2026,
+    "notes": "November 2026 is currently anchored by UNTOLD Dubai and a run of large-scale Pacha ICONS electronic events, with major arena and opera concerts also confirmed.",
+    "events": [
+      {
+        "id": "dubai-untold-dubai-nov-2026",
+        "title": "UNTOLD Dubai 2026",
+        "type": "festival",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-08",
+        "importance": 96,
+        "venueName": "Dubai Parks and Resorts",
+        "venueId": null,
+        "sourceUrl": "https://untold.ae/",
+        "ticketUrl": "https://www.untold.ae/tickets?direct=true",
+        "summary": "UNTOLD Dubai returns for four days and nights at Dubai Parks and Resorts. The official site confirms the 5–8 November 2026 dates, with 2026 artist announcements still to come.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "dubai-pacha-anotr-nov-2026",
+        "title": "ANOTR | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 84,
+        "venueName": "FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/131126-anotr-five-luxe",
+        "ticketUrl": "https://www.pachaicons.com/dubai/events/131126-anotr-five-luxe",
+        "summary": "ANOTR headline Pacha ICONS at FIVE LUXE JBR, with DiOSA and Fabrice also listed on the official lineup. The official Pacha ICONS page confirms Friday, November 13, 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-pacha-music-on-nov-2026",
+        "title": "Marco Carola presents Music On | Pacha ICONS",
+        "type": "residency",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 89,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/20112026-music-five-luxe",
+        "ticketUrl": "https://www.pachaicons.com/dubai/events/20112026-music-five-luxe",
+        "summary": "Music On returns to Dubai for the season-closing date of its Pacha ICONS series. Marco Carola b2b Chris Stussy headline, joined by Ilario Alicante and DA VID.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-anuv-jain-expo-city-nov-2026",
+        "title": "Anuv Jain Live at Expo City Dubai",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 74,
+        "venueName": "Dubai Millennium Amphitheatre, Expo City Dubai",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104347/anuv-jain-live-in-expo-city-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104347/anuv-jain-live-in-expo-city-dubai",
+        "summary": "Anuv Jain brings his Dastakhat world tour to Expo City Dubai. Platinumlist confirms the concert for Friday, 20 November 2026 at Dubai Millennium Amphitheatre.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-pacha-keinemusik-nov-2026",
+        "title": "Keinemusik | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 90,
+        "venueName": "The Arena, Bab Al Shams",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/21112026-keinemusik-bab-al-shams",
+        "ticketUrl": "https://www.pachaicons.com/dubai/events/21112026-keinemusik-bab-al-shams",
+        "summary": "Keinemusik bring &ME, Rampa and Adam Port to Bab Al Shams Arena for a Pacha ICONS desert show. The official event page confirms Saturday, November 21, 2026.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-hiba-tawaji-ibrahim-maalouf-nov-2026",
+        "title": "Hiba Tawaji & Ibrahim Maalouf – À La Française",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 78,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://www.dubaiopera.com/en-US/product-details?ID=27df1a1a-a705-f111-8406-70a8a51e519d",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104901/hiba-tawaji-ibrahim-maalouf-a-la-francaise-at-dubai-opera",
+        "summary": "Vocalist Hiba Tawaji and trumpeter-composer Ibrahim Maalouf perform À La Française at Dubai Opera. Dubai Opera confirms the one-night performance on 27 November 2026, presented by Live Nation.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-atif-aslam-coca-cola-arena-nov-2026",
+        "title": "Atif Aslam 2026 in Dubai",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 82,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104859/atif-aslam",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104859/atif-aslam",
+        "summary": "Atif Aslam returns to Coca-Cola Arena for a large-scale Dubai concert. Platinumlist confirms the event for Friday, 27 November 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-urja-divine-energy-nov-2026",
+        "title": "URJA – Divine Energy",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29",
+        "importance": 70,
+        "venueName": "Oud Maitha Theater, Zabeel Ladies Club",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104970/urja-divine-energy-at-oud-mehta-theater-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104970/urja-divine-energy-at-oud-mehta-theater-in-dubai",
+        "summary": "URJA – Divine Energy is a three-day Indian classical music festival featuring Sikkil Gurucharan, Kunnakudi Balamuralikrishna and Bharat Sundar on successive nights. Platinumlist confirms the festival dates as 27–29 November 2026.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

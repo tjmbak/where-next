@@ -1,0 +1,215 @@
+{
+  "slug": "mexico-city",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:46:25.376Z",
+  "responseId": "resp_0d5502797558090a0069ff6460c6bc819d885fef4ca55bbd7c",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Mexico City is unusually stacked, with stadium-scale pop, major festival weekends, and a strong electronic-club calendar all overlapping.",
+    "events": [
+      {
+        "id": "mexico-city-sonorama-ribera-mexico-2026",
+        "title": "Sonorama Ribera México 2026",
+        "type": "festival",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 82,
+        "venueName": "Estadio Fray Nano",
+        "venueId": null,
+        "sourceUrl": "https://www.sonoramariberamexico.com/",
+        "ticketUrl": "https://www.superboletos.com/",
+        "summary": "Sonorama Ribera México returns to CDMX at Estadio Fray Nano with a Spanish indie/pop-rock bill including Odisseo, Despistaos, La M.O.D.A., Mäbu, Tu Otra Bonita, Las Dianas and Whisky Caravan.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-bts-arirang-2026",
+        "title": "BTS WORLD TOUR 'ARIRANG' in Mexico City",
+        "type": "concert",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-10",
+        "importance": 98,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://help.ticketmaster.com.mx/hc/en-us/articles/42774694736529-BTS-WORLD-TOUR-ARIRANG",
+        "ticketUrl": "https://www.ticketmaster.com.mx/bts-boletos/artist/2110227",
+        "summary": "BTS plays a three-show Mexico City stadium run at Estadio GNP Seguros on May 7, 9 and 10 as part of the 'ARIRANG' world tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-chayanne-auditorio-2026",
+        "title": "Chayanne",
+        "type": "concert",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 83,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/chayanne-ciudad-de-mexico-07-05-2026/event/3D00637A85BE311B?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/chayanne-ciudad-de-mexico-07-05-2026/event/3D00637A85BE311B?language=en-mx",
+        "summary": "Puerto Rican pop icon Chayanne brings his live show to Auditorio Nacional for a confirmed May 7 performance.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-belle-and-sebastian-album-nights-2026",
+        "title": "Belle & Sebastian: Tigermilk / If You're Feeling Sinister",
+        "type": "concert",
+        "startDate": "2026-05-12",
+        "endDate": "2026-05-13",
+        "importance": 78,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/belle-sebastian-boletos/artist/783750?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/belle-sebastian-boletos/artist/783750?language=en-mx",
+        "summary": "Belle & Sebastian play two Teatro Metropólitan album nights: 'Tigermilk' on May 12 and 'If You're Feeling Sinister' on May 13.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-tecate-emblema-2026",
+        "title": "Tecate Emblema 2026",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 94,
+        "venueName": "Autódromo Hermanos Rodríguez",
+        "venueId": null,
+        "sourceUrl": "https://www.tecate-emblema.mx/informacion",
+        "ticketUrl": "https://www.ticketmaster.com.mx/tecate-emblema-boletos/artist/2740892?venueId=163973",
+        "summary": "Tecate Emblema takes over Autódromo Hermanos Rodríguez for two days, with the official site confirming May 16–17 and the festival location in CDMX.",
+        "genres": [
+          "pop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-all-day-i-dream-2026",
+        "title": "All Day I Dream of Mexico City - Lee Burridge",
+        "type": "club-night",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 84,
+        "venueName": "Ex Hacienda de San Pablo de Enmedio",
+        "venueId": null,
+        "sourceUrl": "https://es.ra.co/events/2422224",
+        "ticketUrl": "https://es.ra.co/events/2422224",
+        "summary": "Lee Burridge’s All Day I Dream lands at Ex Hacienda de San Pablo de Enmedio with Lee Burridge, Monkey Safari, Double Touch, Dim Kelly and Raw Main on the bill.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-porter-robinson-2026",
+        "title": "Porter Robinson",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 82,
+        "venueName": "Pabellón del Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/porter-robinson-mexico-16-05-2026/event/14006464B6418B25",
+        "ticketUrl": "https://www.ticketmaster.com.mx/porter-robinson-mexico-16-05-2026/event/14006464B6418B25",
+        "summary": "Porter Robinson is confirmed for a May 16 electronic headline show at Pabellón del Palacio de los Deportes.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-korn-palacio-2026",
+        "title": "Korn",
+        "type": "concert",
+        "startDate": "2026-05-19",
+        "endDate": "2026-05-19",
+        "importance": 83,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/korn-ciudad-de-mexico-19-05-2026/event/14006348DEB9DBC9",
+        "ticketUrl": "https://www.ticketmaster.com.mx/korn-ciudad-de-mexico-19-05-2026/event/14006348DEB9DBC9",
+        "summary": "Korn are confirmed for a May 19 arena show at Palacio de los Deportes in Ciudad de México.",
+        "genres": []
+      },
+      {
+        "id": "mexico-city-hatsune-miku-expo-2026",
+        "title": "Hatsune Miku - EXPO 2026 North America",
+        "type": "concert",
+        "startDate": "2026-05-19",
+        "endDate": "2026-05-19",
+        "importance": 82,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://mikuexpo.com/na2026/index.html",
+        "ticketUrl": "https://www.ticketmaster.com.mx/hatsune-miku-expo-2026-north-america-mexico-19-05-2026/event/1400634480634E25",
+        "summary": "The official MIKU EXPO 2026 North America schedule lists Mexico City on May 19, with Ticketmaster confirming the Pepsi Center WTC concert.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-wolf-alice-pepsi-2026",
+        "title": "Wolf Alice",
+        "type": "concert",
+        "startDate": "2026-05-20",
+        "endDate": "2026-05-20",
+        "importance": 76,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/wolf-alice-mexico-20-05-2026/event/14006383B585C0AB",
+        "ticketUrl": "https://www.ticketmaster.com.mx/wolf-alice-mexico-20-05-2026/event/14006383B585C0AB",
+        "summary": "Wolf Alice are confirmed at Pepsi Center WTC on May 20 for a CDMX headline concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-batu-laura-bcr-funk-2026",
+        "title": "Batu + Laura BCR + Koi b2b Nico Dubs",
+        "type": "club-night",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-22",
+        "importance": 72,
+        "venueName": "Fünk",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420945",
+        "ticketUrl": "https://ra.co/events/2420945",
+        "summary": "Fünk hosts a dub-techno night on May 22 with Batu, Laura BCR, and a Koi b2b Nico Dubs set.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-caifanes-auditorio-2026",
+        "title": "Caifanes",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 80,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-30-05-2026/event/3D006438E0EF5828",
+        "ticketUrl": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-30-05-2026/event/3D006438E0EF5828",
+        "summary": "Mexican rock mainstays Caifanes close the month with a confirmed May 30 performance at Auditorio Nacional.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

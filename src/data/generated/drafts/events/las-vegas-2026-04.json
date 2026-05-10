@@ -1,0 +1,212 @@
+{
+  "slug": "las-vegas",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:33:36.003Z",
+  "responseId": "resp_0828eef7215db5260069ff61642c80819e904f3db51f716957",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Las Vegas was unusually dense, with Sphere rock residencies, a stadium-scale Bruno Mars tour launch, major niche festivals, and Strip nightclub programming all overlapping.",
+    "events": [
+      {
+        "id": "las-vegas-viva-las-vegas-rockabilly-2026",
+        "title": "Viva Las Vegas Rockabilly Weekend 29",
+        "type": "festival",
+        "startDate": "2026-04-09",
+        "endDate": "2026-04-12",
+        "importance": 88,
+        "venueName": "The Orleans Hotel & Casino",
+        "venueId": null,
+        "sourceUrl": "https://www.vivalasvegas.net/",
+        "ticketUrl": "https://www.vivalasvegas.net/",
+        "summary": "The long-running Viva Las Vegas Rockabilly Weekend returned to The Orleans for its 29th edition, with live bands, DJs, dancing, burlesque, and car-show programming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-bruno-mars-romantic-tour-2026",
+        "title": "Bruno Mars – The Romantic Tour",
+        "type": "concert",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-11",
+        "importance": 94,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/bruno_mars_the_romantic_tour_2026",
+        "ticketUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-las-vegas-nevada-04-10-2026/event/17006392EC27F1D2",
+        "summary": "Bruno Mars brought The Romantic Tour to Allegiant Stadium for two Las Vegas stadium shows on April 10 and 11.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-eagles-sphere-apr-2026",
+        "title": "Eagles Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 90,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-04-10-2026/event/17006449A50FB915",
+        "ticketUrl": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-04-10-2026/event/17006449A50FB915",
+        "summary": "Eagles continued their Sphere residency with a confirmed April 10 performance at the immersive Las Vegas venue.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-phish-sphere-residency-2026",
+        "title": "Phish at Sphere",
+        "type": "residency",
+        "startDate": "2026-04-16",
+        "endDate": "2026-05-02",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://phish.com/news/phish-returns-to-sphere-for-nine-nights-in-2026/",
+        "ticketUrl": "https://www.thesphere.com/shows/phish",
+        "summary": "Phish returned to Sphere for nine shows across three weekends: April 16–18, April 23–25, and April 30–May 2.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-jimmy-jam-terry-lewis-voltaire-2026",
+        "title": "Jimmy Jam & Terry Lewis – Nothing But Hits",
+        "type": "residency",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-26",
+        "importance": 78,
+        "venueName": "Voltaire at The Venetian Resort Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/content/venetian/us/en/entertainment/jimmy-jam-terry-lewis.html",
+        "ticketUrl": "https://voltairelv.com/",
+        "summary": "Jimmy Jam & Terry Lewis brought a limited Las Vegas residency, billed around 40-plus years of hits, to Voltaire on select dates from April 17 through 26.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-b52s-love-shack-2026",
+        "title": "The B-52s – Love Shack: The Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2026-04-22",
+        "endDate": "2026-04-22",
+        "importance": 78,
+        "venueName": "The Venetian Theatre at The Venetian Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-b52s-love-shack-the-las-las-vegas-nevada-04-22-2026/event/1700636FFD376C4A",
+        "ticketUrl": "https://www.ticketmaster.com/the-b52s-love-shack-the-las-las-vegas-nevada-04-22-2026/event/1700636FFD376C4A",
+        "summary": "The B-52s played a confirmed April 22 date of their Love Shack Las Vegas residency at The Venetian Theatre.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-pure-aloha-spring-festival-2026",
+        "title": "Pure Aloha Spring Festival & Concerts",
+        "type": "festival",
+        "startDate": "2026-04-23",
+        "endDate": "2026-04-26",
+        "importance": 74,
+        "venueName": "Rio Hotel & Casino",
+        "venueId": null,
+        "sourceUrl": "https://www.purealohafest.com/",
+        "ticketUrl": "https://www.purealohafest.com/",
+        "summary": "The 23rd Annual Pure Aloha Spring Festival & Concerts ran April 23–26 at Rio, with island and Pacific music programming including Ten Feet, Ekolu, and Kaipo Kapua on the Thursday bill.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-cyndi-lauper-residency-2026",
+        "title": "Cyndi Lauper: Live in Las Vegas",
+        "type": "residency",
+        "startDate": "2026-04-24",
+        "endDate": "2026-05-02",
+        "importance": 86,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/cyndi-lauper-announces-las-vegas-residency-colosseum-caesars",
+        "ticketUrl": "https://www.ticketmaster.com/cyndi-lauper-tickets/artist/734403",
+        "summary": "Cyndi Lauper staged her first-ever Las Vegas residency at The Colosseum at Caesars Palace, running from April 24 through May 2.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-sick-new-world-2026",
+        "title": "Sick New World Las Vegas",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 95,
+        "venueName": "Las Vegas Festival Grounds",
+        "venueId": null,
+        "sourceUrl": "https://www.sicknewworldfest.com/vegas",
+        "ticketUrl": "https://www.sicknewworldfest.com/vegas/tickets",
+        "summary": "Sick New World held its Las Vegas edition at the Las Vegas Festival Grounds on April 25, 2026.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-city-of-lights-jazz-rb-2026",
+        "title": "Las Vegas City of Lights Jazz and R&B Festival",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 76,
+        "venueName": "Government Amphitheater",
+        "venueId": null,
+        "sourceUrl": "https://cityoflightsmusicfestival.com/lineup/",
+        "ticketUrl": "https://tickets.cityoflightsmusicfestival.com/",
+        "summary": "The Las Vegas City of Lights Jazz and R&B Festival confirmed its 2026 edition for April 25–26, with its lineup page dedicated to the weekend program.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-smokey-robinson-gladys-knight-2026",
+        "title": "Smokey Robinson & Gladys Knight: Just the Two of Us",
+        "type": "concert",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 80,
+        "venueName": "Pearl Concert Theater at Palms Casino Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.palms.com/entertainment/pearl-theater/smokey-robinson-gladys-knight-just-the-two-of-us",
+        "ticketUrl": "https://www.palms.com/entertainment/pearl-theater/smokey-robinson-gladys-knight-just-the-two-of-us",
+        "summary": "Soul and Motown legends Smokey Robinson and Gladys Knight co-headlined Pearl Concert Theater at Palms on April 25.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-martin-garrix-omnia-2026",
+        "title": "Martin Garrix with Justin Mylo at OMNIA",
+        "type": "club-night",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 82,
+        "venueName": "OMNIA Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://taogroup.com/event/4-25-2026-martin-garrix-omnia/",
+        "ticketUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-4-25-2026/resend",
+        "summary": "Martin Garrix and Justin Mylo headlined OMNIA Nightclub, with the event listed from April 25 at 10:30 PM into the early morning of April 26.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "berlin",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:52:24.027Z",
+  "responseId": "resp_08df4f5975a250490069ff57984474819ca4930b101ddf4661",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Berlin mixed arena-scale pop/indie concerts with a dense electronic calendar led by Berghain, Panorama Bar, RSO and long-running label parties.",
+    "events": [
+      {
+        "id": "berlin-franz-ferdinand-2026",
+        "title": "Franz Ferdinand – Greater Glasgow European Cultural Exchange 2026",
+        "type": "concert",
+        "startDate": "2026-04-01",
+        "endDate": "2026-04-01",
+        "importance": 80,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/franz_ferdinand_2026-04-01_20/",
+        "ticketUrl": null,
+        "summary": "Franz Ferdinand played Tempodrom on their Greater Glasgow European Cultural Exchange 2026 date. The venue listing named IRNINI MONS as support and The Great Leslie as opener.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-worakls-orchestra-2026",
+        "title": "Worakls Orchestra – Live 2026",
+        "type": "concert",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 76,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/worakls_orchestra_2026-04-03_21/",
+        "ticketUrl": null,
+        "summary": "Worakls Orchestra brought its Live 2026 show to Tempodrom on 3 April. The date was listed by the venue as a 21:00 concert with doors at 19:30.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-get-perlonized-2026",
+        "title": "GET PERLONIZED",
+        "type": "club-night",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 82,
+        "venueName": "ZENNER",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2291566",
+        "ticketUrl": "https://ra.co/events/2291566",
+        "summary": "Perlon’s Berlin institution returned for a spring edition at ZENNER. The confirmed lineup featured Sonja Moonear, Fumiya Tanaka, Ricardo Villalobos and Sammy Dee.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-oster-klubnacht-2026",
+        "title": "Oster Klubnacht",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 92,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/de/events/80719/",
+        "ticketUrl": null,
+        "summary": "Berghain’s extra-long Easter Klubnacht listed Âme DJ, Gerd Janson, DJ Rush, Roman Flügel, Claudio PRC, Fadi Mohem, Kangding Ray and more across Panorama Bar and Berghain. The source states the event date as Saturday, 4 April 2026, beginning 23:59.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-alex-warren-2026",
+        "title": "Alex Warren – Finding Family on the Road",
+        "type": "concert",
+        "startDate": "2026-04-13",
+        "endDate": "2026-04-13",
+        "importance": 80,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/alex-warren/2026-04-13-2000",
+        "ticketUrl": null,
+        "summary": "Alex Warren played the Uber Arena on his Finding Family on the Road tour. The venue listing confirmed Claire Rosinkranz as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-crippled-symmetries-2026",
+        "title": "CRIPPLED SYMMETRIES Festival",
+        "type": "festival",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-19",
+        "importance": 70,
+        "venueName": "St. Elisabeth-Kirche / Villa Elisabeth",
+        "venueId": null,
+        "sourceUrl": "https://www.visitberlin.de/en/event/crippled-symmetries-festival",
+        "ticketUrl": null,
+        "summary": "KNM Berlin’s CRIPPLED SYMMETRIES festival ran 17–19 April with sets at Villa Elisabeth and St. Elisabeth Church. The programme included Cube Band, Ensemble KNM Berlin, Ensemble 0 and works connected to contemporary composition and cross-cultural sound practices.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-reef-10-years-2026",
+        "title": "REEF 10 years",
+        "type": "club-night",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 84,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.ostgut.berlin/de/event/80771/",
+        "ticketUrl": null,
+        "summary": "REEF marked ten years at Berghain and Panorama Bar with a bass-heavy anniversary lineup. Confirmed artists included Calibre, Darwin, RP Boo, Skee Mask, Marylou, Carrier, Esposito and Siete Catorce.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-mala-junta-2026",
+        "title": "Mala Junta",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 82,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2389204",
+        "ticketUrl": "https://ra.co/events/2389204",
+        "summary": "Mala Junta returned to RSO.BERLIN for its spring season. The confirmed lineup included ADAM MUNNINGS, Blue Hour, D.Dan, DJ TOOL, Hanaby, Hyperaktivist, Khloe, Peachlyfe and Why Be b2b Nico Adomako.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-5sos-2026",
+        "title": "5 Seconds of Summer – EVERYONE’S A STAR! World Tour",
+        "type": "concert",
+        "startDate": "2026-04-21",
+        "endDate": "2026-04-21",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/5sos-26",
+        "ticketUrl": null,
+        "summary": "5 Seconds of Summer played Uber Arena as part of the EVERYONE’S A STAR! world tour. The venue confirmed the Berlin date for 21 April 2026 at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-dozzy-night-2026",
+        "title": "Dozzy Night",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 78,
+        "venueName": "Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.ostgut.berlin/de/event/80772/",
+        "ticketUrl": null,
+        "summary": "Donato Dozzy curated a Panorama Bar night with Mary Gehnyei and Fred P. The official listing dated the party Friday, 24 April 2026, beginning 22:00.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-dark-spring-festival-2026",
+        "title": "Dark Spring Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 72,
+        "venueName": "Lido Berlin",
+        "venueId": null,
+        "sourceUrl": "https://traube.club/e/dark-spring-festival-2026",
+        "ticketUrl": "https://traube.club/e/dark-spring-festival-2026",
+        "summary": "Dark Spring Festival returned to Lido Berlin with gothic, darkwave, post-punk and industrial-leaning acts. The listed lineup included Corpus Delicti, Klez.e, Golden Apes, The Devil & The Universe and Varg I Veum.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-tame-impala-2026",
+        "title": "Tame Impala – Deadbeat Tour",
+        "type": "concert",
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "importance": 88,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/tame-impala/",
+        "ticketUrl": null,
+        "summary": "Tame Impala played Uber Arena on 29 April 2026, with RIP MAGIC listed as support. The venue page confirmed the Berlin date and 19:30 start time.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

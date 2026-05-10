@@ -1,0 +1,217 @@
+{
+  "slug": "dubai",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:21:55.116Z",
+  "responseId": "resp_066346ab4dc9aca40069ff5e93b8c8819f96e4c8a8c477866f",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 3,
+    "year": 2026,
+    "notes": "Dubai’s March 2026 music calendar was especially strong in the final week, with arena pop/hip-hop concerts, Dubai Opera recitals, and large-scale house bookings clustered around Eid and Dubai World Cup weekend.",
+    "events": [
+      {
+        "id": "dubai-holi-sundowner-2026",
+        "title": "Holi Sundowner 2026 – Festival of Colors",
+        "type": "festival",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 70,
+        "venueName": "Radisson RED Dubai Silicon Oasis",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2389092",
+        "ticketUrl": "https://ra.co/events/2389092",
+        "summary": "Holi Sundowner returned to Dubai on 21 March with a color-festival format and a music lineup including Tushar, Opposite Dimension, Buddha, SIB, Sarpanch, AJee, Raahyl, Montz and AK.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-jan-blomqvist-valeron-2026",
+        "title": "Bohemia Presents Jan Blomqvist & Valeron",
+        "type": "beach-club",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 78,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.bohemiadubai.com/events/bohemia-presents-jan-blomqvist-valeron?direct=true",
+        "ticketUrl": "https://www.ticketmaster.ae/event/bohemia-presents-jan-blomqvist-valeron-entradas/920998293",
+        "summary": "Bohemia hosted a beachfront electronic night on 21 March with Jan Blomqvist and Valeron, pairing live melodic electronic performance with organic and Afro-house sounds.",
+        "genres": [
+          "house",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "dubai-sonny-fodera-playa-pacha-2026",
+        "title": "Sonny Fodera | Playa Pacha",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-22",
+        "importance": 82,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/210326-sonny-fodera-playa-pacha",
+        "ticketUrl": "https://www.ticketmaster.ae/music/all-events-music/10001/events",
+        "summary": "Australian house headliner Sonny Fodera played Playa Pacha at FIVE LUXE JBR on 21 March, a one-night club booking from the Pacha ICONS ecosystem.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-wu-tang-final-chamber-2026",
+        "title": "Wu-Tang Forever: The Final Chamber",
+        "type": "concert",
+        "startDate": "2026-03-22",
+        "endDate": "2026-03-22",
+        "importance": 88,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/wu-tang-forever-the-final-chamber-tickets/8073",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/wu-tang-forever-the-final-chamber-tickets/8073",
+        "summary": "Wu-Tang Clan brought The Final Chamber tour to Coca-Cola Arena on 22 March, billed as the group’s Dubai stop on its farewell-era international run.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "dubai-omid-jamshid-2026",
+        "title": "Omid & Jamshid Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-03-25",
+        "endDate": "2026-03-25",
+        "importance": 72,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://play.radiojavan.com/event/10404",
+        "ticketUrl": "https://play.radiojavan.com/event/10404",
+        "summary": "Persian singers Omid and Jamshid performed together at Dubai Opera on 25 March, presented as a rare live collaboration for fans of Persian pop and ballads.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-yuja-wang-recital-2026",
+        "title": "Yuja Wang – Piano Recital",
+        "type": "concert",
+        "startDate": "2026-03-26",
+        "endDate": "2026-03-26",
+        "importance": 82,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://www.dubaiopera.com/en-US/product-details?ID=3cdfd151-2fe2-f011-8406-70a8a5226084",
+        "ticketUrl": "https://www.dubaiopera.com/en-US/product-details?ID=3cdfd151-2fe2-f011-8406-70a8a5226084",
+        "summary": "Internationally acclaimed pianist Yuja Wang appeared at Dubai Opera on 26 March for a solo piano recital presented by G42 and promoted by M Premiere.",
+        "genres": []
+      },
+      {
+        "id": "dubai-josh-groban-gems-2026",
+        "title": "Josh Groban: GEMS World Tour",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 82,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/josh-groban-tickets/1050940897",
+        "ticketUrl": "https://www.ticketmaster.ae/event/josh-groban-tickets/1050940897",
+        "summary": "Josh Groban brought his GEMS World Tour to Coca-Cola Arena on 27 March, with Ticketmaster listing the Dubai concert at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-aghany-almosalsalat-2026",
+        "title": "Aghany Almosalsalat",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-28",
+        "importance": 76,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/aghany-almosalsalat",
+        "ticketUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/aghany-almosalsalat",
+        "summary": "Aghany Almosalsalat ran at Dubai Opera on 27–28 March, presenting a live concert of beloved Arabic television theme songs and regional nostalgia.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-keinemusik-pacha-icons-2026",
+        "title": "Keinemusik | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 90,
+        "venueName": "Bab Al Shams Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/keinemusik-pacha-icons-bilety/1658253237",
+        "ticketUrl": "https://www.ticketmaster.ae/event/keinemusik-pacha-icons-bilety/1658253237",
+        "summary": "Pacha ICONS staged Keinemusik’s desert show at Bab Al Shams Arena on 28 March, with &ME, Rampa and Adam Port billed for the open-air late-night event.",
+        "genres": [
+          "house",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "dubai-a1-music-travel-love-2026",
+        "title": "A1 and Music Travel Love Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 76,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://coca-cola-arena.com/music/1621/a1-and-music-travel-love",
+        "ticketUrl": "https://coca-cola-arena.com/music/1621/a1-and-music-travel-love",
+        "summary": "Pop group A1 and acoustic duo Music Travel Love shared a one-night Coca-Cola Arena bill on 28 March, aimed at nostalgic pop and singalong audiences.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-jason-derulo-world-cup-2026",
+        "title": "Jason Derulo at Dubai World Cup After-Race Concert",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 84,
+        "venueName": "Meydan Racecourse",
+        "venueId": null,
+        "sourceUrl": "https://en.aletihad.ae/news/culture/4647657/jason-derulo-to-headline-30th-dubai-world-cup-after-race-con",
+        "ticketUrl": "https://www.mcgettigans.com/shop/events-concerts/apron-views-dubai-world-cup-meydan-racecourse-sat-28th-march-p-822.html",
+        "summary": "Jason Derulo headlined the official after-race entertainment for the 30th Dubai World Cup at Meydan Racecourse on 28 March, closing the race-day programme with a pop concert.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "dubai-robin-schulz-bohemia-2026",
+        "title": "Bohemia Presents Robin Schulz",
+        "type": "beach-club",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 80,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2342827",
+        "ticketUrl": "https://de.ra.co/events/2342827",
+        "summary": "Robin Schulz played Bohemia Beach Club on 28 March, bringing his melodic house and pop-dance crossover sound to FIVE Palm’s beachfront venue.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

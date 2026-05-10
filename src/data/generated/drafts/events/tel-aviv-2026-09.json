@@ -1,0 +1,129 @@
+{
+  "slug": "tel-aviv",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:57:38.214Z",
+  "responseId": "resp_0c3a5216ba2914870069ff670586c48191b788a33fd9610af2",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 9,
+    "year": 2026,
+    "notes": "Confirmed September 2026 listings are still relatively sparse, with stronger visibility so far for ticketed concerts and classical events than for club calendars.",
+    "events": [
+      {
+        "id": "tel-aviv-kakamayka-avihu-pinhasov-sep3-2026",
+        "title": "Kakamayka – Avihu Pinhasov",
+        "type": "concert",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-03",
+        "importance": 75,
+        "venueName": "Bitan 2, Expo Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.megalean.co.il/site/pg/theatre_ProdDesc_nomap%2C454424",
+        "ticketUrl": "https://www.megalean.co.il/site/pg/theatre_ProdDesc_nomap%2C454424",
+        "summary": "Avihu Pinhasov presents “Kakamayka,” a large-scale standing show built around his music, with live band, movement, Georgian ballet and aerial acrobatics. The ticket listing confirms the 3 September 2026 performance at Bitan 2, Expo Tel Aviv.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-symphonic-80s-2026",
+        "title": "Symphonic 80s!",
+        "type": "concert",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-03",
+        "importance": 60,
+        "venueName": "Tel Aviv-Yafo Music Center",
+        "venueId": null,
+        "sourceUrl": "https://soulevents.co.il/en/tel-aviv/simpho80",
+        "ticketUrl": "https://kupatbravo.co.il/announce/80517",
+        "summary": "A Soul Events orchestral concert of 1980s pop hits, featuring SymFunny Orchestra, vocalists Sofi Chudnovski and Arkady Fainitsky, and conductor Daniil Kruglov. The event page confirms 3 September 2026 at 20:00 in Tel Aviv.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-kakamayka-avihu-pinhasov-sep4-2026",
+        "title": "Kakamayka – Avihu Pinhasov",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 75,
+        "venueName": "Bitan 2, Expo Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.megalean.co.il/site/pg/theatre_ProdDesc_nomap%2C454425",
+        "ticketUrl": "https://www.megalean.co.il/site/pg/theatre_ProdDesc_nomap%2C454425",
+        "summary": "A second Tel Aviv performance of Avihu Pinhasov’s “Kakamayka,” a live-band stage production expanding his music into a carnival-style show with dance and acrobatics. Megalean confirms the 4 September 2026 date at Bitan 2, Expo Tel Aviv.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-rubinstein-final-philharmonic-2026",
+        "title": "Arthur Rubinstein Competition – Finals Philharmonic Session 27",
+        "type": "concert",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-07",
+        "importance": 76,
+        "venueName": "Heichal Hatarbut Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.il/en/event/%D7%AA%D7%97%D7%A8%D7%95%D7%AA-%D7%90%D7%A8%D7%AA%D7%95%D7%A8-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-2026-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21291619/",
+        "ticketUrl": "https://www.eventim.co.il/en/event/%D7%AA%D7%97%D7%A8%D7%95%D7%AA-%D7%90%D7%A8%D7%AA%D7%95%D7%A8-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-2026-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21291619/",
+        "summary": "The Arthur Rubinstein International Piano Master Competition’s final stage includes a Philharmonic finals session at Heichal Hatarbut. Eventim confirms this session for 7 September 2026 at 20:00 in Tel Aviv.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-rubinstein-winners-concert-2026",
+        "title": "Arthur Rubinstein Competition – Awards Ceremony & Winners’ Concert",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 78,
+        "venueName": "Charles Bronfman Auditorium, Heichal Hatarbut Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.il/event/%D7%AA%D7%97%D7%A8%D7%95%D7%AA-%D7%90%D7%A8%D7%AA%D7%95%D7%A8-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-2026-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21298304/",
+        "ticketUrl": "https://www.eventim.co.il/event/%D7%AA%D7%97%D7%A8%D7%95%D7%AA-%D7%90%D7%A8%D7%AA%D7%95%D7%A8-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F-2026-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21298304/",
+        "summary": "The competition’s September final stage culminates with an awards ceremony and winners’ concert. Eventim confirms the 9 September 2026 event at the Charles Bronfman Auditorium in Tel Aviv, with the ceremony at 19:00 and concert at 20:00.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-abu-tabla-zappa-2026",
+        "title": "Abu Tabla at Zappa Tel Aviv",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 62,
+        "venueName": "Zappa Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.tickets.bimot.co.il/en/event/%D7%90%D7%91%D7%95-%D7%98%D7%91%D7%9C%D7%94-%D7%96%D7%90%D7%A4%D7%94-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%9E%D7%AA%D7%97%D7%9D-%D7%9E%D7%99%D7%93%D7%98%D7%90%D7%95%D7%9F-21336410/",
+        "ticketUrl": "https://www.tickets.bimot.co.il/en/event/%D7%90%D7%91%D7%95-%D7%98%D7%91%D7%9C%D7%94-%D7%96%D7%90%D7%A4%D7%94-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%9E%D7%AA%D7%97%D7%9D-%D7%9E%D7%99%D7%93%D7%98%D7%90%D7%95%D7%9F-21336410/",
+        "summary": "Abu Tabla is listed for a ticketed concert at Zappa Tel Aviv. Bimot/Eventim confirms the show for 9 September 2026 at 21:30.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-hila-ruach-barby-2026",
+        "title": "Hila Ruach – New Album at Barby",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 68,
+        "venueName": "Barby Jaffa Port",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/concerts/43193923-hila-ruach-at-barby-jaffa-port-brby-nml-ypv",
+        "ticketUrl": "https://barby.co.il/show/5262",
+        "summary": "Israeli indie artist Hila Ruach is confirmed for a Barby Jaffa Port show billed as “New Album #2.” Songkick lists the event for 19 September 2026, with doors at 20:30 and tickets via Barby Bookings.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

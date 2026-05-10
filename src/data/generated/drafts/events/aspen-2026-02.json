@@ -1,0 +1,224 @@
+{
+  "slug": "aspen",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:41:36.495Z",
+  "responseId": "resp_0e8763bdd46045e90069ff636000b881929e1be6b9d5d484c4",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 2,
+    "year": 2026,
+    "notes": "Aspen’s February 2026 calendar was unusually electronic-heavy, led by Palm Tree Music Festival, Snow Lodge après-ski programming, and big-name Belly Up club shows.",
+    "events": [
+      {
+        "id": "aspen-palm-tree-music-festival-2026",
+        "title": "Palm Tree Music Festival Aspen",
+        "type": "festival",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-21",
+        "importance": 96,
+        "venueName": "Rio Grande Park",
+        "venueId": null,
+        "sourceUrl": "https://www.frontgatetickets.com/events/palm-tree-music-festival-aspen",
+        "ticketUrl": "https://www.frontgatetickets.com/events/palm-tree-music-festival-aspen",
+        "summary": "Two-day winter edition of Palm Tree Music Festival in Aspen, with the ticketing source listing Kygo, Calvin Harris, MAU P, Sammy Virji, and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-high-tops-chainsmokers-2026",
+        "title": "High Tops: The Chainsmokers",
+        "type": "concert",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 90,
+        "venueName": "Top of Aspen Mountain",
+        "venueId": null,
+        "sourceUrl": "https://www.aspensnowmass.com/visit/events/the-chainsmokers-concert",
+        "ticketUrl": null,
+        "summary": "Aspen Snowmass and Belly Up Aspen hosted The Chainsmokers for a free, limited-capacity high-alpine concert at the top of Aspen Mountain, with DJ Lo_G opening.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-snow-lodge-kaytranada-2026",
+        "title": "Kaytranada at The Snow Lodge Aspen Music Series",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 88,
+        "venueName": "The Snow Lodge at The St. Regis Aspen",
+        "venueId": null,
+        "sourceUrl": "https://www.thesnowlodge.com/music-lineup-1",
+        "ticketUrl": null,
+        "summary": "The Snow Lodge’s Winter 2025–26 Music Series listed Kaytranada for its Après-Ski Courtyard program on February 13.",
+        "genres": [
+          "electronic",
+          "house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "aspen-snow-lodge-pawsa-2026",
+        "title": "PAWSA at The Snow Lodge Aspen Music Series",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 84,
+        "venueName": "The Snow Lodge at The St. Regis Aspen",
+        "venueId": null,
+        "sourceUrl": "https://www.thesnowlodge.com/music-lineup-1",
+        "ticketUrl": null,
+        "summary": "The Snow Lodge’s February lineup confirmed PAWSA for an Après-Ski Courtyard event on February 14.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-snow-lodge-dennis-cruz-2026",
+        "title": "Dennis Cruz at The Snow Lodge Aspen Music Series",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 82,
+        "venueName": "The Snow Lodge at The St. Regis Aspen",
+        "venueId": null,
+        "sourceUrl": "https://www.thesnowlodge.com/music-lineup-1",
+        "ticketUrl": null,
+        "summary": "The Snow Lodge’s Winter 2025–26 Music Series listed Dennis Cruz for the Après-Ski Courtyard on February 21.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-snow-lodge-lupe-cassian-arodes-2026",
+        "title": "Lupe Fiasco, Cassian & Arodes at The Snow Lodge Aspen Music Series",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 85,
+        "venueName": "The Snow Lodge at The St. Regis Aspen",
+        "venueId": null,
+        "sourceUrl": "https://www.thesnowlodge.com/music-lineup-1",
+        "ticketUrl": null,
+        "summary": "The Snow Lodge’s February schedule closed with an Après-Ski Courtyard bill featuring Lupe Fiasco, Cassian, and Arodes on February 28.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "aspen-deadmau5-belly-up-2026",
+        "title": "deadmau5",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 88,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/deadmau5-6/",
+        "ticketUrl": null,
+        "summary": "Belly Up Aspen confirmed a sold-out 21+ deadmau5 show with support from Lo G on February 27.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "aspen-two-friends-belly-up-2026",
+        "title": "Two Friends",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 83,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/two-friends-2/",
+        "ticketUrl": null,
+        "summary": "Belly Up Aspen listed Two Friends with 9B49 for a sold-out 21+ late show on February 28.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-ghostface-killah-belly-up-2026",
+        "title": "Ghostface Killah",
+        "type": "concert",
+        "startDate": "2026-02-10",
+        "endDate": "2026-02-10",
+        "importance": 82,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/ghostface-killah/",
+        "ticketUrl": null,
+        "summary": "Ghostface Killah brought the Supreme Clientele 2 Tour to Belly Up Aspen with Kid Kamillion on February 10.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "aspen-tank-and-the-bangas-belly-up-2026",
+        "title": "Tank & The Bangas",
+        "type": "concert",
+        "startDate": "2026-02-04",
+        "endDate": "2026-02-04",
+        "importance": 78,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/tank-the-bangas/",
+        "ticketUrl": null,
+        "summary": "Belly Up Aspen confirmed Tank & The Bangas with DJ Zeus for an all-ages show on February 4.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "aspen-meshell-ndegeocello-2026",
+        "title": "Meshell Ndegeocello: The Gospel Of James Baldwin",
+        "type": "concert",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-11",
+        "importance": 80,
+        "venueName": "Wheeler Opera House",
+        "venueId": null,
+        "sourceUrl": "https://wheeleroperahouse.com/event/meshell-ndegeocello-the-gospel-of-james-baldwin/",
+        "ticketUrl": null,
+        "summary": "Wheeler Opera House presented Meshell Ndegeocello’s No More Water: The Gospel of James Baldwin program on February 11, co-presented with Wheeler Associates.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "aspen-band-perry-acoustic-2026",
+        "title": "An Acoustic Evening with The Band Perry",
+        "type": "concert",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 76,
+        "venueName": "Wheeler Opera House",
+        "venueId": null,
+        "sourceUrl": "https://wheeleroperahouse.com/event/the-band-perry/",
+        "ticketUrl": null,
+        "summary": "Wheeler Opera House confirmed an acoustic February 14 performance by The Band Perry, highlighting the Grammy-, CMA-, and ACM-winning act’s new duo chapter.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

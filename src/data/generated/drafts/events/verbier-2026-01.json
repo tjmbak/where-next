@@ -1,0 +1,155 @@
+{
+  "slug": "verbier",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:38:40.702Z",
+  "responseId": "resp_03a34440676823c10069ff629f36f081a2ab694cd1ffbd7dfd",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 1,
+    "year": 2026,
+    "notes": "January’s confirmed music calendar in Verbier is après-ski-led, with Farinet, Soâr, Pub Mont Fort and pop-up DJ nights carrying the scene rather than a major festival.",
+    "events": [
+      {
+        "id": "verbier-pub-mont-fort-nye-2026",
+        "title": "New Year’s Eve Ticket 2025 at Pub Mont Fort",
+        "type": "club-night",
+        "startDate": "2025-12-31",
+        "endDate": "2026-01-01",
+        "importance": 68,
+        "venueName": "Pub Mont Fort",
+        "venueId": "pub-mont-fort-verbier",
+        "sourceUrl": "https://www.pubmontfort.com/event/new-years-eve-ticket-2025/",
+        "ticketUrl": "https://www.pubmontfort.com/event/new-years-eve-ticket-2025/",
+        "summary": "Pub Mont Fort’s ticketed New Year party runs into the early hours of 1 January 2026, with guests invited to dance into 2026 at one of Verbier’s established après-ski venues.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-buffet-sonore-disco-2026",
+        "title": "Buffet Sonore – Disco Evening",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 70,
+        "venueName": "Patinoire du Parc de Loisirs",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/vibe-events-entertainment/buffet-sonore-verbier-en-3911216/",
+        "ticketUrl": null,
+        "summary": "Buffet Sonore brings a mobile vintage-style disco to the Parc de Loisirs ice rink, with DJs playing funky, Afro and Latino sounds; the confirmed special evening on 3 January is a Disco Evening.",
+        "genres": [
+          "electronic",
+          "latin",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "verbier-farinet-apres-ski-live-band-2026",
+        "title": "Farinet Après-ski Live Band Residency",
+        "type": "residency",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 76,
+        "venueName": "Farinet Après-ski",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-apres-ski-verbier-en-2788491/",
+        "ticketUrl": null,
+        "summary": "Farinet Après-ski confirms live band music every evening from 18:00 to 21:00 during its 1 January–12 April 2026 winter run; 1 January is used as the representative January date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-soar-boutique-club-2026",
+        "title": "Soâr Boutique Club Electronic Nights",
+        "type": "residency",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 72,
+        "venueName": "Soâr Boutique Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/soar-boutique-club-verbier-en-6163214/",
+        "ticketUrl": "https://soarverbier.com/",
+        "summary": "Soâr Boutique Club’s winter programme is confirmed from 1 January to 30 April 2026, focused on melodic techno, tech house and Afro-house DJ sets from local and international guests; 1 January is used as the representative January date.",
+        "genres": [
+          "techno",
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "verbier-south-jazz-soul-thursdays-2026",
+        "title": "Jazz & Soul Thursdays at SOUTH Restaurant & Club",
+        "type": "residency",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 66,
+        "venueName": "SOUTH Restaurant & Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/south-restaurant-club-verbier-en-4557637/",
+        "ticketUrl": null,
+        "summary": "SOUTH Restaurant & Club confirms Jazz & Soul Thursdays with live artists from 21:00 during its 1 January–18 April 2026 season, before the room turns into a late-night dance floor.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "house"
+        ]
+      },
+      {
+        "id": "verbier-sons-of-guns-farinet-2026",
+        "title": "The Sons of Guns at Farinet Hotel",
+        "type": "residency",
+        "startDate": "2026-01-13",
+        "endDate": "2026-01-19",
+        "importance": 68,
+        "venueName": "Farinet Hotel",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.thesonsofguns.com/concerts",
+        "ticketUrl": null,
+        "summary": "The Sons of Guns’ official concert page lists a January run at Farinet Hotel in Verbier from the 13th through the 19th, bringing the band’s 70s-inspired rock, blues and folk sound to the après-ski circuit.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-front-left-scarlett-omalley-2026",
+        "title": "Front Left presents Scarlett O’Malley",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-25",
+        "importance": 74,
+        "venueName": "Loft Bar",
+        "venueId": null,
+        "sourceUrl": "https://eventfrog.ch/en/p/concert/electro/front-left-presents-scarlett-o-malley-7417562379574055814.html",
+        "ticketUrl": "https://eventfrog.ch/en/p/concert/electro/front-left-presents-scarlett-o-malley-7417562379574055814.html",
+        "summary": "Front Left brings London DJ and Club Cowgirl founder Scarlett O’Malley to Loft Bar on 24 January, with the event listing describing a deep, soulful house set moving through minimal, tech and Latin-leaning rhythms.",
+        "genres": [
+          "house",
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "verbier-maye-fluo-riddes-2026",
+        "title": "MAYE x FLUO",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 60,
+        "venueName": "Atelier Mécanique",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/offres/maye-x-fluo-riddes-fr-6207379/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourism lists MAYE x FLUO in nearby Riddes on 31 January, a free retro-themed evening with DJ music, 80s sounds and fluorescent lighting.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

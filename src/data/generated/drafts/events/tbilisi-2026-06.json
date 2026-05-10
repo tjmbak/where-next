@@ -1,0 +1,190 @@
+{
+  "slug": "tbilisi",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:55:03.024Z",
+  "responseId": "resp_07a68705b20f61ff0069ff66717c2c819181e1464ebfa73c46",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is unusually dense for Tbilisi, with eZo’s return, KHIDI’s 10th anniversary, Bassiani/Horoom club programming, and several large-scale international concerts all confirmed.",
+    "events": [
+      {
+        "id": "tbilisi-ezo-festival-jun-2026",
+        "title": "Ezo Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 90,
+        "venueName": "eZo Festival",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430057",
+        "ticketUrl": null,
+        "summary": "eZo Festival returns with a house-focused lineup including Barbara Preisinger, Chez Damier, Dana Ruh, Jus-Ed, Session Victim live, Black Loops and Sisyphos Crew. The 2026 edition is listed for June 5 with a weekend run at the eZo Festival site in Tbilisi.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-10th-anniversary-2026",
+        "title": "KHIDI 中 10TH ANNIVERSARY",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 89,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://khidi.ge/event/khidi-10th-anniversary/",
+        "ticketUrl": "https://khidi.ge/event/khidi-10th-anniversary/",
+        "summary": "KHIDI marks its 10th anniversary with a marathon weekend across KHIDI, G2 and HAERI. The announced lineup includes Ancient Methods, Boston 168 live, Fiedel, Pablo Bozzi, Phase Fatale, Remco Beekwilder, Stephanie Sykes and many Georgian artists.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-jun5-2026",
+        "title": "Bassiani - Horoom – Fri, 05.06.2026",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 83,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426616",
+        "ticketUrl": null,
+        "summary": "Bassiani’s June 5 program features Alpha Tracks, Blue Hour, Kancheli, Newa and Salty DJ in the main room, with Jek, HVL and Liquid Earth in Horoom. The night is promoted by Bassiani and listed on Resident Advisor.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-horoom-jun6-2026",
+        "title": "Horoom – Sat, 06.06.2026",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 75,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426617",
+        "ticketUrl": null,
+        "summary": "Horoom hosts Nat Wendell alongside Sophie Phare, skyra and Hamatsuki on June 6. The listing frames the night around deep house, old-school trance, ambient and groove-led club music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-jun12-2026",
+        "title": "Bassiani - Horoom – Fri, 12.06.2026",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 84,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426619",
+        "ticketUrl": null,
+        "summary": "Bassiani’s June 12 event brings Audrey Danza, Aurora Halal, Kasper Marott, Ndrx and Zesknel live to the main room, while Horoom hosts Kvanchi, Nil, Priori and Sportsmanship. The event is promoted by Bassiani and confirmed on Resident Advisor.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-adriatique-mtatsminda-2026",
+        "title": "Adriatique x TBILISI",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 82,
+        "venueName": "Mtatsminda Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2314502",
+        "ticketUrl": "https://biletebi.ge",
+        "summary": "Adriatique headline an open-air electronic event at Mtatsminda Park, presented by Mono Hall and Boom Boom Booking Agency. The lineup also lists Jino Dollini, with the event scheduled for June 12 at 22:30.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-ye-live-concert-2026",
+        "title": "YE LIVE CONCERT",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 88,
+        "venueName": "Dinamo Arena",
+        "venueId": null,
+        "sourceUrl": "https://starringgeorgia.ge/en/events/ye",
+        "ticketUrl": "https://tkt.ge/YE",
+        "summary": "Starring Georgia confirms YE, also known as Kanye West, for a live concert at Dinamo Arena on June 12. The event page bills it as his only performance in Georgia and part of Starring Georgia’s fourth season.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-robin-s-2026",
+        "title": "ROBIN S",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 72,
+        "venueName": "Republic Event Hall",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/robin-s",
+        "ticketUrl": "https://biletebi.ge/en/concerts/robin-s",
+        "summary": "Robin S plays Republic Event Hall in a Billboard Georgia Stage and ARI-presented event, with Levi Love Disco, Bossy Doll Bina and Ucha also billed for house music sets. The event page states the Tbilisi show is on June 13 with doors at 21:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-tom-odell-2026",
+        "title": "TOM ODELL - Tbilisi Concert",
+        "type": "concert",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 80,
+        "venueName": "Loco Park",
+        "venueId": null,
+        "sourceUrl": "https://ticketon.am/en/event/tom-odell-tbilisi-concert-2026",
+        "ticketUrl": "https://ticketon.am/en/event/tom-odell-tbilisi-concert-2026",
+        "summary": "Tom Odell is confirmed for a June 21 concert at Loco Park in Tbilisi. The ticketing page lists the show as part of his European tour, with doors at 18:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-ian-pooley-2026",
+        "title": "Ian Pooley",
+        "type": "club-night",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 70,
+        "venueName": "El Centro",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/ian-pooley",
+        "ticketUrl": "https://biletebi.ge/en/concerts/ian-pooley",
+        "summary": "SoundWave Events presents German house and tech-house producer Ian Pooley at El Centro on June 28 at 23:00. Georgian electronic artists Sumo and Nika Chikovani are also listed for the night.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

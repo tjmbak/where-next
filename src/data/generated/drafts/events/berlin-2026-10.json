@@ -1,0 +1,182 @@
+{
+  "slug": "berlin",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:54:06.590Z",
+  "responseId": "resp_01cec3595ef9b9450069ff5836897481919f2126753f5e2f99",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 10,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "berlin-jazzfest-2026",
+        "title": "Jazzfest Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-10-29",
+        "endDate": "2026-11-01",
+        "importance": 93,
+        "venueName": "Haus der Berliner Festspiele and other venues",
+        "venueId": null,
+        "sourceUrl": "https://www.berlinerfestspiele.de/jazzfest-berlin/programm/2026/jazzfest-berlin-2026",
+        "ticketUrl": null,
+        "summary": "Jazzfest Berlin’s 2026 edition is confirmed for October 29 to November 1 at Haus der Berliner Festspiele and other venues. The full 2026 programme was not yet published on the source page at research time.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-j-cole-2026",
+        "title": "J. Cole – The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-07",
+        "importance": 90,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/j-cole",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/j-cole",
+        "summary": "J. Cole is confirmed at Uber Arena on October 7, 2026 as part of his The Fall-Off Tour. The venue page lists an 20:00 start and tickets on sale.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-niall-horan-2026",
+        "title": "Niall Horan – Dinner Party Live On Tour",
+        "type": "concert",
+        "startDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "importance": 88,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/niall-horan-26/2026-10-08-2000",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/niall-horan-26/2026-10-08-2000",
+        "summary": "Niall Horan is confirmed for Uber Arena on October 8, 2026 with the Dinner Party Live On Tour. The official venue page lists a 20:00 start and tickets available.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-the-strokes-2026",
+        "title": "The Strokes – Reality Awaits Tour",
+        "type": "concert",
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-15",
+        "importance": 88,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/the-strokes/",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/the-strokes/",
+        "summary": "The Strokes are confirmed at Uber Arena on October 15, 2026 on the Reality Awaits tour. The official venue page names Alex Cameron as opener and Fat White Family as special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-jill-scott-2026",
+        "title": "Jill Scott – To Whom This May Concern 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 84,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/jill_scott_2026-10-06_20/",
+        "ticketUrl": "https://www.tempodrom.de/event/jill_scott_2026-10-06_20/",
+        "summary": "Jill Scott is confirmed at Tempodrom on October 6, 2026 on the To Whom This May Concern 2026 Tour. The venue describes it as her only Germany concert on the run and her first German show in more than 10 years.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-anastacia-2026",
+        "title": "Anastacia – #NTK26 Tour",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/anastacia_2026-10-16_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/anastacia_2026-10-16_20/",
+        "summary": "Anastacia is confirmed at Tempodrom on October 16, 2026 for the #NTK26 Tour. The show celebrates 25 years of Not That Kind with a 20:00 start in the Große Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-juliana-huxtable-rso-2026",
+        "title": "Open2Close: Juliana Huxtable all night long",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 78,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2394990",
+        "ticketUrl": "https://ra.co/events/2394990",
+        "summary": "RSO.BERLIN lists Juliana Huxtable for an Open2Close all-night set on October 23, 2026. Resident Advisor lists the event as a techno night in ROBUS from 23:00 to 08:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-four-play-kitkat-2026",
+        "title": "Four Play at KitKatClub",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 74,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2326244",
+        "ticketUrl": "https://de.ra.co/events/2326244",
+        "summary": "Four Play is confirmed at KitKatClub on October 2, 2026. Resident Advisor lists a multi-floor programme covering techno, house, disco, psytrance, jazz, blues, funk and cabaret, with Section 8 Berlin involved in concept and execution.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-the-fray-2026",
+        "title": "The Fray – Autumn Light Tour",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 74,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/the_fray_2026-10-28_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/the_fray_2026-10-28_20/",
+        "summary": "The Fray are confirmed at Tempodrom on October 28, 2026 on the Autumn Light Tour. The venue page lists the show in the Große Arena with doors at 18:30 and a 20:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-kaizers-orchestra-2026",
+        "title": "Kaizers Orchestra – Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 72,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/tickets/pop-rock/kaizers-orchestra/2026-10-09-kaizers-orchestra-tour-2026-bcbf4a09-eea5-4c00-96c9-f25dc648a143/",
+        "ticketUrl": "https://www.berlin.de/tickets/pop-rock/kaizers-orchestra/2026-10-09-kaizers-orchestra-tour-2026-bcbf4a09-eea5-4c00-96c9-f25dc648a143/",
+        "summary": "Kaizers Orchestra are confirmed at Huxleys Neue Welt on October 9, 2026. The Eventim/Berlin.de listing describes the date as part of the Norwegian band’s October 2026 European comeback tour.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

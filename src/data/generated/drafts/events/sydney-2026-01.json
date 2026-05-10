@@ -1,0 +1,219 @@
+{
+  "slug": "sydney",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:53:26.358Z",
+  "responseId": "resp_015be7a7465097ea0069ff65fe1db481978bb18d8d3f9c4a73",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 1,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "sydney-field-day-2026",
+        "title": "Field Day Sydney 2026",
+        "type": "festival",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 95,
+        "venueName": "The Domain",
+        "venueId": null,
+        "sourceUrl": "https://www.linesapp.co/event/field-day-festival-2026",
+        "ticketUrl": null,
+        "summary": "Field Day’s New Year’s Day edition at The Domain featured a dance-heavy lineup led by Carl Cox, Jamie Jones, Deborah de Luca, Patrick Mason and STÜM, with The Presets and Bag Raiders also listed.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-the-works-i-hate-models-2026",
+        "title": "THE WORKS feat. I Hate Models, VTSS, sim0ne, MASSI",
+        "type": "club-night",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 82,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2266352",
+        "ticketUrl": null,
+        "summary": "Part of THE WORKS warehouse series at Carriageworks, this night paired I Hate Models with VTSS, sim0ne and MASSI for a hard-edged techno program.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-the-works-marc-rebillet-2026",
+        "title": "THE WORKS feat. Marc Rebillet, A-Trak, Young Franco, Madame Reve",
+        "type": "concert",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 77,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2266356",
+        "ticketUrl": null,
+        "summary": "THE WORKS brought Marc Rebillet’s loop-based live show to Carriageworks with A-Trak, Young Franco and Madame Reve on support.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-petting-zoo-2026",
+        "title": "Petting Zoo feat. Laidlaw, Jordan Brando, PARKER, Locky, Known Artist, NewTone",
+        "type": "club-night",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 74,
+        "venueName": "Plaza Hotel Sydney",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2315302",
+        "ticketUrl": null,
+        "summary": "Sydney’s Petting Zoo party moved indoors to Plaza Hotel with Laidlaw, Locky, KnownArtist, Jordan Brando, James Parker and NewTone among the listed lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-hot-chip-2026",
+        "title": "Hot Chip: Joy in Repetition + Haiku Hands",
+        "type": "concert",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-15",
+        "importance": 86,
+        "venueName": "Sydney Opera House Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/sydney-festival-2026/hot-chip",
+        "ticketUrl": null,
+        "summary": "Hot Chip played two Sydney Festival nights at the Sydney Opera House Concert Hall, supported by Haiku Hands, around the band’s Joy in Repetition greatest-hits era.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-lumineers-2026",
+        "title": "The Lumineers — The Automatic World Tour",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 82,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://qudosbankarena.com.au/event/the-lumineers",
+        "ticketUrl": null,
+        "summary": "The Lumineers brought their AUTOMATIC World Tour to Qudos Bank Arena as part of their Australia and New Zealand run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-tom-odell-2026",
+        "title": "Tom Odell — Wonderful Life Tour",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 75,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/tomodell/",
+        "ticketUrl": null,
+        "summary": "Tom Odell’s Wonderful Life Tour stopped at Hordern Pavilion, with Them & I listed as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-dangerous-goods-xxl-2026",
+        "title": "Dangerous Goods XXL Sydney",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 80,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2305234",
+        "ticketUrl": null,
+        "summary": "Dangerous Goods XXL took over Carriageworks with Boris Brejcha, Timmy Trumpet, Moritz Hofbauer, Pretty Pink and KAYA across a techno and hardstyle-focused bill.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-nick-cave-domain-2026",
+        "title": "Nick Cave & The Bad Seeds — The Wild God Tour",
+        "type": "concert",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-24",
+        "importance": 92,
+        "venueName": "The Domain Sydney",
+        "venueId": null,
+        "sourceUrl": "https://www.botanicgardens.org.au/whats-on/nick-cave-bad-seeds-wild-god-tour-2026",
+        "ticketUrl": null,
+        "summary": "Nick Cave & The Bad Seeds’ Wild God Tour played outdoor Domain shows on 23 and 24 January, marking the band’s first Australia and New Zealand dates since 2017.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-htid-2026",
+        "title": "HTID 2026",
+        "type": "festival",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 83,
+        "venueName": "Sydney Showground",
+        "venueId": null,
+        "sourceUrl": "https://events.ticketbooth.com.au/event/htid-2026",
+        "ticketUrl": null,
+        "summary": "HSU’s HTID 2026 returned to Sydney Showground with two venue areas: the HTID Main Stage and The Klassics Stage, focused on happy hard, hardstyle, raw and classics.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "sydney-australia-day-live-2026",
+        "title": "Australia Day Live 2026",
+        "type": "concert",
+        "startDate": "2026-01-26",
+        "endDate": "2026-01-26",
+        "importance": 72,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/australia-day-live-2026",
+        "ticketUrl": null,
+        "summary": "Australia Day Live was a free ticketed Sydney Opera House Forecourt concert with listed performers including Kate Ceberano, William Barton, Cody Simpson, Harts, The Fabulous Caprettos and John Foreman’s Australian Pops Orchestra.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-peggy-gou-2026",
+        "title": "Peggy Gou — Australia 2026",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 87,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://www.untitledgroup.com.au/tours/peggygou",
+        "ticketUrl": null,
+        "summary": "Untitled Group presented Peggy Gou for an exclusive Sydney show at Carriageworks, supported by Bryson Hill, Ayebatonye and Mimi J.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

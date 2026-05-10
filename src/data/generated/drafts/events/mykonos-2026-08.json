@@ -1,0 +1,204 @@
+{
+  "slug": "mykonos",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:46:43.328Z",
+  "responseId": "resp_05f13a2a48f0f6010069ff569a8ee481a3a9fd01d184727648",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mykonos",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is anchored by SantAnna’s confirmed electronic music program, Scorpios/Cavo Paradiso highlights, and the multi-venue XLSIOR festival late in the month.",
+    "events": [
+      {
+        "id": "mykonos-mochakk-santanna-2026",
+        "title": "SantAnna presents Mochakk",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 82,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2400326",
+        "ticketUrl": null,
+        "summary": "Mochakk headlines SantAnna Mykonos on Saturday, August 1, with a house-focused poolside set. Resident Advisor lists the event from 18:00 to 00:00 at SantAnna in Paraga Beach.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "mykonos-marco-carola-dennis-cruz-santanna-2026",
+        "title": "Marco Carola & Dennis Cruz",
+        "type": "club-night",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 88,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://www.santannamykonos.com/vibing-sky/marco-carola-dennis-cruz-5-august-2026/",
+        "ticketUrl": "https://www.santannamykonos.com/vibing-sky/marco-carola-dennis-cruz-5-august-2026/",
+        "summary": "SantAnna confirms Marco Carola and Dennis Cruz for a Wednesday, August 5 session. The event is listed for 18:00–00:00 at Paraga Beach.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "mykonos-marlon-hoffstadt-santanna-2026",
+        "title": "Marlon Hoffstadt at SantAnna",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 80,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2424831",
+        "ticketUrl": null,
+        "summary": "Marlon Hoffstadt plays SantAnna Mykonos on Friday, August 7. Resident Advisor lists the event as an 18:00–00:00 session with techno and trance-leaning programming.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-ry-x-scorpios-2026",
+        "title": "RY X at Scorpios Beach Club",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 75,
+        "venueName": "Scorpios Beach Club",
+        "venueId": "scorpios",
+        "sourceUrl": "https://www.songkick.com/concerts/43093890-ry-x-at-scorpios-beach-club",
+        "ticketUrl": null,
+        "summary": "Songkick lists RY X at Scorpios Beach Club in Mykonos on Friday, August 7. The event is confirmed at the Paraga venue with RY X as headliner.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-francis-mercier-soley-santanna-2026",
+        "title": "Francis Mercier presents Solèy at SantAnna",
+        "type": "residency",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 82,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396875",
+        "ticketUrl": null,
+        "summary": "Francis Mercier brings his Solèy residency to SantAnna on Saturday, August 8, with Joezi also listed on the lineup. The concept is framed around house and Afro-house sounds with live-instrument elements.",
+        "genres": [
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "mykonos-black-coffee-santanna-2026",
+        "title": "Black Coffee at SantAnna",
+        "type": "residency",
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-10",
+        "importance": 91,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://www.santannamykonos.com/vibing-sky/black-coffee-10-august-2026/",
+        "ticketUrl": "https://www.santannamykonos.com/vibing-sky/black-coffee-10-august-2026/",
+        "summary": "SantAnna confirms Black Coffee for Monday, August 10 as part of his six-Monday summer residency. The event is listed from 18:00 to 00:00 at Paraga Beach.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-sonny-fodera-roger-sanchez-santanna-2026",
+        "title": "Sonny Fodera & Roger Sanchez at SantAnna",
+        "type": "club-night",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 86,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2422617",
+        "ticketUrl": null,
+        "summary": "Sonny Fodera and Roger Sanchez headline SantAnna on Friday, August 14. Resident Advisor lists the party from 18:00 to 00:00 and categorizes the music as house.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-vintage-culture-santanna-2026",
+        "title": "SantAnna presents Vintage Culture",
+        "type": "club-night",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-15",
+        "importance": 84,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2406759",
+        "ticketUrl": null,
+        "summary": "Vintage Culture plays SantAnna Mykonos on Saturday, August 15. The confirmed Resident Advisor listing places the event at SantAnna from 18:00 to 00:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-xlsior-festival-2026",
+        "title": "XLSIOR Festival Mykonos 2026",
+        "type": "festival",
+        "startDate": "2026-08-20",
+        "endDate": "2026-08-25",
+        "importance": 96,
+        "venueName": "Various venues",
+        "venueId": null,
+        "sourceUrl": "https://xlsiorfestival.com/",
+        "ticketUrl": "https://xlsiorfestival.com/",
+        "summary": "XLSIOR’s official site confirms the 2026 Mykonos edition for August 20–25. The festival is a multi-day, multi-venue LGBTQ+ dance event on the island.",
+        "genres": [
+          "festival",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-david-morales-cavo-2026",
+        "title": "David Morales at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-21",
+        "importance": 78,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431483",
+        "ticketUrl": null,
+        "summary": "David Morales is listed at Cavo Paradiso on Friday, August 21. Resident Advisor confirms the event at the Paradise Beach club from 23:00 to 06:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-mahmut-orhan-rivo-santanna-2026",
+        "title": "SantAnna presents Mahmut Orhan & Rivo",
+        "type": "club-night",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 80,
+        "venueName": "SantAnna Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2401242",
+        "ticketUrl": null,
+        "summary": "Mahmut Orhan and Rivo are confirmed for SantAnna Mykonos on Saturday, August 22. Resident Advisor lists the event as an 18:00–00:00 house and Afro-house session.",
+        "genres": [
+          "house",
+          "afro-house"
+        ]
+      }
+    ]
+  }
+}

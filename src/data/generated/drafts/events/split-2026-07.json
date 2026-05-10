@@ -1,0 +1,53 @@
+{
+  "slug": "split",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:24:43.083Z",
+  "responseId": "resp_0289336884b009560069ff5f7f7a2c819cbe81eefe326ed7bf",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "split",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 in Split is currently anchored by Ultra Europe and its official Adriatic boat-party program; few other major July music calendars are confirmed this far out.",
+    "events": [
+      {
+        "id": "split-ultra-europe-2026",
+        "title": "Ultra Europe 2026",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-12",
+        "importance": 97,
+        "venueName": "Park Mladeži",
+        "venueId": null,
+        "sourceUrl": "https://ultraeurope.com/tickets/festival/",
+        "ticketUrl": "https://ultraeurope.com/tickets/festival/",
+        "summary": "Ultra Europe returns to Park Mladeži in Split for three nights, with official ticketing confirming access to the Main, RESISTANCE, UMF and other stages. The event is the flagship electronic festival week in Split.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "split-ultra-boat-party-2026",
+        "title": "Ultra Europe 2026 Boat Party",
+        "type": "club-night",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-11",
+        "importance": 78,
+        "venueName": "Gradska luka Split",
+        "venueId": null,
+        "sourceUrl": "https://www.entrio.hr/event/ultra-europe-2026-boat-party-30797",
+        "ticketUrl": "https://www.entrio.hr/event/ultra-europe-2026-boat-party-30797",
+        "summary": "The official Ultra Europe Boat Party program runs from Split’s city port across multiple departures on July 9, 10 and 11. The listing describes DJ-led electronic music on the Adriatic with house, techno and other dance styles.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "reykjavik",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:52:15.931Z",
+  "responseId": "resp_0feb30e4e8773eb40069ffd657cbbc81908c53e8a180a88830",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "reykjavik",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 in Reykjavík is unusually strong around the solar eclipse, with Björk’s Echolalia, Árstíðir’s eclipse concert, and Reykjavík Jazz anchoring the month.",
+    "events": [
+      {
+        "id": "reykjavik-latin-night-2026",
+        "title": "LATIN NIGHT IN ICELAND!",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 62,
+        "venueName": "Sykursalurinn, Grósku",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21554/latino-kvold-a-islandi",
+        "ticketUrl": "https://tix.is/en/event/21554/latino-kvold-a-islandi",
+        "summary": "A Latin dance night at Sykursalurinn with DJ Gato Beat from Venezuela and DJ Juanjo Vivanco from Spain, running from salsa, bachata and merengue into late-night perreo.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "reykjavik-pianofest-2026",
+        "title": "Reykjavík International Piano Festival",
+        "type": "festival",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-12",
+        "importance": 60,
+        "venueName": "Tónskóli Sigursveins / Harpa Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.reykjavikpianofestival.com/program",
+        "ticketUrl": null,
+        "summary": "The inaugural Reykjavík International Piano Festival runs August 3–12 with masterclasses, workshops and public performance opportunities at Harpa Concert Hall.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-arstidir-solmyrkvi-2026",
+        "title": "Árstíðir – Sólmyrkvi",
+        "type": "concert",
+        "startDate": "2026-08-11",
+        "endDate": "2026-08-11",
+        "importance": 72,
+        "venueName": "Fríkirkjan í Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/20866/arstidir-solmyrkvi",
+        "ticketUrl": "https://tix.is/en/event/20866/arstidir-solmyrkvi",
+        "summary": "Árstíðir perform a special eclipse-themed concert in central Reykjavík on the night before the total solar eclipse, with a contemplative programme drawing on Icelandic traditions.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-echolalia-2026",
+        "title": "Echolalia – Eclipse x Exhibition Festival",
+        "type": "festival",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-12",
+        "importance": 94,
+        "venueName": "Víðistaðatún, Hafnarfjörður",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21340/echolalia-solmyrkvahatid-bjarkar-smekkleysu",
+        "ticketUrl": "https://tix.is/en/event/21340/echolalia-solmyrkvahatid-bjarkar-smekkleysu",
+        "summary": "Björk hosts a one-day solar-eclipse festival very near Reykjavík with DJ sets by Björk and Arca plus Ronja and Sideproject, tied to Björk’s National Gallery exhibition and Smekkleysa’s 40th birthday.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-barrio-27-salsa-2026",
+        "title": "Salsaball með Barrio 27",
+        "type": "club-night",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 65,
+        "venueName": "Sjálfstæðissalurinn (gamla Nasa)",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21209/salsa-ball-med-barrio-27",
+        "ticketUrl": "https://tix.is/en/event/21209/salsa-ball-med-barrio-27",
+        "summary": "Barrio 27, a 16-piece salsa band, hosts its first full salsa dance night at the former NASA venue, beginning with a beginner lesson before the live set.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "reykjavik-culture-night-2026",
+        "title": "Culture Night / Menningarnótt",
+        "type": "festival",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 78,
+        "venueName": "Reykjavík city centre",
+        "venueId": null,
+        "sourceUrl": "https://reykjavik.is/en/culture-night",
+        "ticketUrl": null,
+        "summary": "Reykjavík’s largest city festival is confirmed for August 22, with city-centre cultural programming that traditionally includes concerts, choirs, DJs, street performances and fireworks.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-aurelio-voltaire-2026",
+        "title": "Aurelio Voltaire á Iðnó",
+        "type": "concert",
+        "startDate": "2026-08-23",
+        "endDate": "2026-08-23",
+        "importance": 68,
+        "venueName": "IÐNÓ",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21553/aurelio-voltaire-a-idno",
+        "ticketUrl": "https://tix.is/en/event/21553/aurelio-voltaire-a-idno",
+        "summary": "Aurelio Voltaire returns to Iceland for a third time, performing his songs at IÐNÓ after more than 30 years of touring as a musician and multidisciplinary artist.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-jazz-festival-2026",
+        "title": "Reykjavík Jazz Festival",
+        "type": "festival",
+        "startDate": "2026-08-25",
+        "endDate": "2026-08-30",
+        "importance": 84,
+        "venueName": "Multiple venues in Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21484/reykjavik-jazz-25-30-agust",
+        "ticketUrl": "https://tix.is/en/event/21484/reykjavik-jazz-25-30-agust",
+        "summary": "Reykjavík Jazz Festival runs August 25–30 across venues including Harpa, Fantasía, Austurbær and Iðnó, with confirmed artists including Ingi Bjarni Quartet, Kosmonauci, Tom Sochas Trio, Matti Klein Soul Trio, LILJA and Anna Gréta.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-asgeir-harpa-2026",
+        "title": "Stórtónleikar Ásgeirs Trausta í Eldborg",
+        "type": "concert",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 82,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://tix.is/en/event/21463/stortonleikar-asgeirs-trausta-i-eldborg",
+        "ticketUrl": "https://tix.is/en/event/21463/stortonleikar-asgeirs-trausta-i-eldborg",
+        "summary": "Ásgeir plays a major Eldborg concert celebrating his album Julia, with songs from across his Icelandic and English-language catalogue plus new material from an upcoming Icelandic-language album.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

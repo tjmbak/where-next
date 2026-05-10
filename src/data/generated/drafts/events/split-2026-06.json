@@ -1,0 +1,82 @@
+{
+  "slug": "split",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:24:47.459Z",
+  "responseId": "resp_044bc77233e17edc0069ff5f7c6de0819e94fc01097840fc74",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "split",
+    "month": 6,
+    "year": 2026,
+    "notes": "June’s confirmed music calendar around Split is anchored by Croatian pop programming at Galerija Meštrović, with a few regional live-music picks just outside the city.",
+    "events": [
+      {
+        "id": "split-goran-karan-porat-2026",
+        "title": "Goran Karan | 'Oćeš doć? | Porat, Split 2026",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 68,
+        "venueName": "Porat Club Split",
+        "venueId": null,
+        "sourceUrl": "https://www.entrio.hr/hr/event/goran-karan-koncert-split-2026-porat-oces-doc-32008",
+        "ticketUrl": "https://www.entrio.hr/hr/event/goran-karan-koncert-split-2026-porat-oces-doc-32008",
+        "summary": "Split pop singer Goran Karan plays Porat Club Split on 5 June 2026, with the ticketing page listing the event as running 05.06.2026–06.06.2026. The listing confirms the venue, start time, and ticket tiers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "split-brkovi-beerfest-dugopolje-2026",
+        "title": "Brkovi at Beerfest Dugopolje",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 62,
+        "venueName": "Lokva Dračanica, Dugopolje",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108284486-brkovi-at-lokva-dracanica?came_from=253&utm_campaign=event&utm_medium=web&utm_source=city_page",
+        "ticketUrl": null,
+        "summary": "Regional punk-folk/rock band Brkovi are listed for Beerfest Dugopolje at Lokva Dračanica on 5 June 2026. Dugopolje is just outside Split, making this a nearby live-music pick rather than an in-city club event.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "split-metno-festival-2026",
+        "title": "XVIII. Metno Festival – Makarska",
+        "type": "festival",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 72,
+        "venueName": "Spomenik na Glavici, Makarska",
+        "venueId": null,
+        "sourceUrl": "https://makarska-info.hr/en/xviii-metno-festival-makarska/",
+        "ticketUrl": "https://shop.adriaticket.com/event-details/4764/metno-festival-2026",
+        "summary": "The 18th Metno Festival runs 19–20 June 2026 in Makarska with a world/ethno lineup including Veja, Lucia de Carvalho, BCUC, Dubioza Kolektiv, DJ Tondini and VJ Lina Rica. The official Makarska tourist-board listing also confirms a 20 June party boat program.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "split-melodije-jadrana-2026",
+        "title": "Melodije Jadrana Split 2026",
+        "type": "festival",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-28",
+        "importance": 82,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://melodijejadrana.hr/",
+        "ticketUrl": "https://shop.adriaticket.com/event-details/4837/melodije-jadrana-2026",
+        "summary": "Melodije Jadrana Split 2026 is confirmed for 25–28 June 2026 at Galerija Meštrović. The program includes Ricchi e Poveri, Jelena Rozga, Zorica Kondža with Joško Banov Acoustic Orchestra, and the Hit Ljeta new-songs night.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

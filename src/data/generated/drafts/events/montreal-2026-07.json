@@ -1,0 +1,219 @@
+{
+  "slug": "montreal",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:28:26.660Z",
+  "responseId": "resp_0b1528fcaafbaf270069ff60484c48819498948d5cfb6d76df",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 in Montréal is anchored by the Jazz Fest closing weekend, Nuits d’Afrique, Piknic/OfF Piknic electronic programming, Osheaga’s opening day, and several major Bell Centre arena concerts.",
+    "events": [
+      {
+        "id": "montreal-jazz-festival-2026",
+        "title": "Festival International de Jazz de Montréal",
+        "type": "festival",
+        "startDate": "2026-06-25",
+        "endDate": "2026-07-04",
+        "importance": 98,
+        "venueName": "Quartier des spectacles / Place des Arts",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/en/festival/montreal-jazz-fest",
+        "ticketUrl": "https://montrealjazzfest.com/en/program/schedule",
+        "summary": "The 46th edition of Montréal’s flagship jazz festival runs into early July with hundreds of indoor and outdoor concerts. Confirmed 2026 programming includes major Place des Arts concerts and free outdoor stages.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-anjunadeep-2026",
+        "title": "OfF Piknic: Anjunadeep with Marsh, Christian Löffler, Eric Luttrell b2b Jody Wisternoff and Nicky Elisabeth",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 82,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://piknicelectronik.com/fr/evenement/2026-off-piknic-04-07-2026",
+        "ticketUrl": "https://billets.piknicelectronik.com",
+        "summary": "OfF Piknic hosts an Anjunadeep-branded open-air electronic bill at Parc Jean-Drapeau. The listed lineup features Marsh, Christian Löffler (Live), Eric Luttrell b2b Jody Wisternoff and Nicky Elisabeth.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-lionel-richie-earth-wind-fire-2026",
+        "title": "Lionel Richie and Earth, Wind & Fire: Sing a Song All Night Long",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 84,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/lionel-richie-and-earth-wind-fire?code=e007381",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/lionel-richie-and-earth-wind-fire?code=e007381",
+        "summary": "Lionel Richie and Earth, Wind & Fire bring the Sing a Song All Night Long tour to the Bell Centre. evenko lists the concert as presented as part of the Festival International de Jazz de Montréal.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-nuits-afrique-2026",
+        "title": "Festival International Nuits d’Afrique",
+        "type": "festival",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-19",
+        "importance": 92,
+        "venueName": "Quartier des spectacles and multiple Montréal venues",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalnuitsdafrique.com/en/accueil/",
+        "ticketUrl": "https://www.festivalnuitsdafrique.com/en/accueil/",
+        "summary": "The 40th edition of Nuits d’Afrique is confirmed for July 7–19, 2026. The festival focuses on music from Africa, the Caribbean and Latin America across indoor venues and outdoor stages.",
+        "genres": [
+          "afro-house",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-zeds-dead-2026",
+        "title": "OfF Piknic: Zeds Dead and Whethan",
+        "type": "club-night",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 82,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-10-07-2026",
+        "ticketUrl": "https://billets.piknicelectronik.com",
+        "summary": "OfF Piknic presents Zeds Dead with Whethan on the Fizz Stage under the Journey of a Lifetime banner. The event is scheduled from 17:00 to 22:00 at Parc Jean-Drapeau.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-billy-talent-alexisonfire-2026",
+        "title": "Billy Talent & Alexisonfire: 20 Years in the Making",
+        "type": "concert",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 78,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/billy-talent-alexisonfire?code=e007540",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/billy-talent-alexisonfire?code=e007540",
+        "summary": "Canadian rock heavyweights Billy Talent and Alexisonfire co-headline the Bell Centre with Faze supporting. The show is billed as 20 Years in the Making.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-tame-impala-2026",
+        "title": "Tame Impala: The Deadbeat Tour",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 84,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/tame-impala?code=e007593",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/tame-impala?code=e007593",
+        "summary": "Tame Impala brings The Deadbeat Tour to the Bell Centre with Djo as support. The evenko listing confirms a 7:00 pm show on July 22, 2026.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-ive-2026",
+        "title": "IVE WORLD TOUR <SHOW WHAT I AM> IN MONTREAL",
+        "type": "concert",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-23",
+        "importance": 80,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/ive?code=e008004",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/ive?code=e008004",
+        "summary": "K-pop group IVE brings the WORLD TOUR <SHOW WHAT I AM> to Montréal. evenko confirms the Bell Centre date for July 23, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-j-cole-2026",
+        "title": "J. Cole: The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 86,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/j-cole?code=e007606",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/j-cole?code=e007606",
+        "summary": "J. Cole’s The Fall-Off Tour stops at the Bell Centre on July 25. The tour supports his 2026 album The Fall Off, according to the evenko event page.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "montreal-piknic-daphni-2026",
+        "title": "Piknic Électronik: Daphni, Raef, pleurire, DJ Karaba, KidCrayola and Mansa",
+        "type": "residency",
+        "startDate": "2026-07-26",
+        "endDate": "2026-07-26",
+        "importance": 78,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://piknicelectronik.com/fr/evenement/2026-off-piknic-26-07-2026",
+        "ticketUrl": "https://billets.piknicelectronik.com",
+        "summary": "Piknic Électronik’s July 26 program is topped by Daphni on the Fizz Stage. The National Bank Stage features Karaba & Friends with DJ Karaba, KidCrayola and Mansa.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-ariana-grande-2026",
+        "title": "Ariana Grande: The Eternal Sunshine Tour",
+        "type": "concert",
+        "startDate": "2026-07-28",
+        "endDate": "2026-07-28",
+        "importance": 90,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/ariana-grande?code=e006362",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/ariana-grande?code=e006362",
+        "summary": "Ariana Grande brings The Eternal Sunshine Tour to the Bell Centre on July 28, with a second Montréal date also listed for July 30. The tour marks her return to the stage after the Sweetener World Tour era.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "montreal-osheaga-2026",
+        "title": "OSHEAGA Music and Arts Festival",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 97,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/osheaga-tickets/artist/2530755",
+        "ticketUrl": "https://www.ticketmaster.com/osheaga-tickets/artist/2530755",
+        "summary": "OSHEAGA opens on July 31 and runs through August 2 at Parc Jean-Drapeau. The confirmed 2026 headliners are Twenty One Pilots on Friday, Tate McRae on Saturday and Lorde on Sunday.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

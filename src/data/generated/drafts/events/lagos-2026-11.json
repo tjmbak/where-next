@@ -1,0 +1,87 @@
+{
+  "slug": "lagos",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:16:20.758Z",
+  "responseId": "resp_01f4e4dd9783974e0069ff5d730bbc81919498bd6b6e58d245",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lagos",
+    "month": 11,
+    "year": 2026,
+    "notes": "Confirmed November 2026 music programming in Lagos is still limited this far out, with Entertainment Week Africa as the main announced anchor.",
+    "events": [
+      {
+        "id": "lagos-ewa-music-festival-2026",
+        "title": "EWA Music Festival",
+        "type": "conference",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-22",
+        "importance": 86,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://ewafrica.com/music-fest/",
+        "ticketUrl": "https://livespot360.eventsair.com/entertainment-week-africa-2025/ewareg2026/Site/Register",
+        "summary": "Entertainment Week Africa’s music track runs during EWA 2026, with music markets, SoundLab, showcases, Turn Up Lagos, and Livespot X Concert programming announced for the Lagos week. Performers are listed as coming soon.",
+        "genres": [
+          "festival",
+          "amapiano",
+          "house"
+        ]
+      },
+      {
+        "id": "lagos-turn-up-lagos-2026",
+        "title": "Turn Up Lagos",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://ewafrica.com/music-events/",
+        "ticketUrl": null,
+        "summary": "EWA lists Turn Up Lagos for 7 PM on Friday, November 20, 2026. The event is billed as a nightlife experience with DJs and artists spanning Afrobeats, Amapiano, house, and global sounds; the lineup is not yet announced.",
+        "genres": [
+          "amapiano",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-livespot-x-festival-2026",
+        "title": "Livespot X Festival",
+        "type": "festival",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 88,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://ewafrica.com/music-events/",
+        "ticketUrl": null,
+        "summary": "EWA lists Livespot X Festival for 6 PM on Sunday, November 22, 2026. The event is described as Livespot360’s flagship large-scale live music event with major African and international performers; the 2026 lineup is not yet announced.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "lagos-ake-arts-book-festival-2026",
+        "title": "Aké Arts & Book Festival",
+        "type": "festival",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-21",
+        "importance": 70,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://akefestival.org/",
+        "ticketUrl": null,
+        "summary": "Aké Arts & Book Festival is confirmed in Lagos from November 19–21, 2026, with the official site stating that the programme includes music alongside panels, book chats, poetry, and other cultural events. The detailed 2026 music programme is still to be announced.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

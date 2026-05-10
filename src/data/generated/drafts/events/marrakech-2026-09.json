@@ -1,0 +1,49 @@
+{
+  "slug": "marrakech",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:36:47.100Z",
+  "responseId": "resp_01a72b1324b1e0740069ff6229f604819fa1744060d63b85c6",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 9,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "marrakech-1001-kiz-2026",
+        "title": "1001 KIZ Festival – Marrakech",
+        "type": "festival",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-07",
+        "importance": 70,
+        "venueName": "Grand Mogador Agdal & Spa",
+        "venueId": null,
+        "sourceUrl": "https://my.weezevent.com/1001-kiz-festival-marrakech",
+        "ticketUrl": "https://my.weezevent.com/1001-kiz-festival-marrakech",
+        "summary": "The third edition of 1001 KIZ Festival runs at Grand Mogador Agdal & Spa with workshops, social dancing and evening parties. Confirmed DJs listed include DJ PUTO X, DJ NAO, DJ ANONY TARRAXA, DJ BAD and DJ YOUSS.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-moroccan-incident-2026",
+        "title": "The Moroccan Incident",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-26",
+        "importance": 82,
+        "venueName": "Villa Marco",
+        "venueId": null,
+        "sourceUrl": "https://themoroccanincident.com/",
+        "ticketUrl": "https://themoroccanincident.com/ga-travel-experiences",
+        "summary": "The String Cheese Incident host a three-night destination gathering in Marrakech, with admission covering performances at Villa Marco on September 24, 25 and 26, 2026. Travel packages also reference an attendee pre-party and a Friday VIP bonus SCI set.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

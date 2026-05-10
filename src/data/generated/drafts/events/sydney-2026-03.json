@@ -1,0 +1,212 @@
+{
+  "slug": "sydney",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:53:36.052Z",
+  "responseId": "resp_0d04906e91688df10069ff661483188193997c57017bb657fd",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 was unusually stacked for Sydney, with Mardi Gras closing parties, Opera House Forecourt shows, arena pop/rock, and heavyweight electronic bookings all landing in the same month.",
+    "events": [
+      {
+        "id": "sydney-mardi-gras-laneway-mar-2026",
+        "title": "Laneway 2026",
+        "type": "club-night",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-01",
+        "importance": 88,
+        "venueName": "The Beresford and Hill Street Laneway",
+        "venueId": null,
+        "sourceUrl": "https://themusic.com.au/gigs/laneway-2026/5vWQsit1mz8",
+        "ticketUrl": null,
+        "summary": "Sydney Mardi Gras’ official closing street party took over The Beresford and Hill Street Laneway with Nadine Coyle, DJ Paul Heron, Amanda Louise, Alex Dugan, Brad James and more. The program billed it as a house, disco and pop finale for the festival.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-basement-jaxx-mar-2026",
+        "title": "Basement Jaxx with special guests Close Counters",
+        "type": "concert",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 86,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/basement-jaxx",
+        "ticketUrl": null,
+        "summary": "Basement Jaxx brought their full live show to the Sydney Opera House Forecourt for the first time in more than 15 years, with Close Counters supporting. The Opera House page lists the date, set times and official ticketing details.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-pendulum-mar-2026",
+        "title": "Pendulum",
+        "type": "concert",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 82,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/pendulum/",
+        "ticketUrl": null,
+        "summary": "Pendulum returned to Sydney with their live drum and bass show at Hordern Pavilion, joined by Ekko & Sidetrack. The venue’s event page confirms the 5 March 2026 date and running times.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-pulp-mar-2026",
+        "title": "Pulp with special guest Tex Crick",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 89,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/pulp",
+        "ticketUrl": null,
+        "summary": "Pulp played two Sydney Opera House Forecourt nights with Tex Crick supporting, marking a rare Australian return for the Britpop band. The Opera House page explicitly lists 6–7 March 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-ateez-mar-2026",
+        "title": "ATEEZ 2026 World Tour [IN YOUR FANTASY] in Australia",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 90,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://qudosbankarena.com.au/event/ateez",
+        "ticketUrl": null,
+        "summary": "ATEEZ played two Sydney arena shows at Qudos Bank Arena as part of their 2026 World Tour [IN YOUR FANTASY] in Australia. The venue page confirms Friday 6 and Saturday 7 March 2026 with a 7:30pm show start.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-leftfield-mar-2026",
+        "title": "Leftfield supported by Late Nite Tuff Guy",
+        "type": "concert",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 78,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.enmoretheatre.com.au/event/leftfield/",
+        "ticketUrl": null,
+        "summary": "Electronic pioneers Leftfield played Enmore Theatre with Late Nite Tuff Guy supporting. The Enmore Theatre page confirms Saturday 7 March 2026 at 8:00pm and lists the running times.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-faithless-mar-2026",
+        "title": "Faithless",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 85,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/faithless/",
+        "ticketUrl": "https://www.untitledgroup.com.au/tours/faithless",
+        "summary": "Faithless brought their Australian tour to Hordern Pavilion, with K.I.M from The Presets opening. The Hordern listing confirms Friday 13 March 2026 and the set times.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-linkin-park-mar-2026",
+        "title": "Linkin Park: From Zero World Tour",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-15",
+        "importance": 94,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://qudosbankarena.com.au/event/linkin-park",
+        "ticketUrl": "https://www.livenation.com.au/en/event/linkin-park-from-zero-world-tour-sydney-tickets-edp1613501",
+        "summary": "Linkin Park played two Sydney dates at Qudos Bank Arena on the From Zero World Tour, with Polaris listed as support. The Qudos Bank Arena page confirms Saturday 14 and Sunday 15 March 2026.",
+        "genres": []
+      },
+      {
+        "id": "sydney-babymetal-mar-2026",
+        "title": "BABYMETAL with Bloodywood and Magnolia Park",
+        "type": "concert",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-20",
+        "importance": 86,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://www.entertainmentquarter.com.au/visit/babymetal-hordern-pavilion/",
+        "ticketUrl": null,
+        "summary": "BABYMETAL played two Hordern Pavilion nights with special guests Bloodywood and Magnolia Park. The Entertainment Quarter listing confirms 19–20 March 2026 and notes the 20 March show was sold out.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-mau-p-mar-2026",
+        "title": "MAU P",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 79,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/mau-p/185276",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/mau-p/185276",
+        "summary": "Untitled presented Dutch house producer Mau P at Roundhouse in Sydney. Moshtix confirms the event for 7:00pm on Friday 27 March 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-g-jones-eprom-mar-2026",
+        "title": "Eighty-Six x Curi Collective pres. G JONES b2b EPROM",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 73,
+        "venueName": "Mary's Underground",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/eighty-six-x-curi-collective-pres-g-jones-b2b-eprom/190435",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/eighty-six-x-curi-collective-pres-g-jones-b2b-eprom/190435",
+        "summary": "Eighty-Six and Curi Collective brought a rare G Jones b2b EPROM bass set to Mary's Underground, supported by No-Syt, Arky Waters and Emdorphins. Moshtix confirms the event for 11:30pm on Friday 27 March 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-anthrax-mar-2026",
+        "title": "Anthrax supported by Alien Weaponry",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 82,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.enmoretheatre.com.au/event/anthrax/",
+        "ticketUrl": "https://premier.ticketek.com.au/Shows/Show.aspx?sh=XARHTNA26",
+        "summary": "Anthrax returned to Sydney for a March 2026 show at Enmore Theatre with Alien Weaponry supporting. The Enmore Theatre page lists the event and running times for the 28 March date.",
+        "genres": []
+      }
+    ]
+  }
+}

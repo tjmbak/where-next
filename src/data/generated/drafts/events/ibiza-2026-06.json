@@ -1,0 +1,229 @@
+{
+  "slug": "ibiza",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:45:50.192Z",
+  "responseId": "resp_0057ded0073a71320069ff5637d5288191adbf9c2934e1cff1",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is already stacked with major Ibiza residencies and opening dates across Hï Ibiza, Ushuaïa Ibiza, Pacha, DC10 and [UNVRS].",
+    "events": [
+      {
+        "id": "ibiza-john-summit-experts-only-2026",
+        "title": "John Summit Presents Experts Only Opening Party",
+        "type": "residency",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-01",
+        "importance": 87,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/john-summit-presents-experts-only/01-06-2026",
+        "ticketUrl": "https://www.unvrs.com/events/2026/john-summit-presents-experts-only/01-06-2026",
+        "summary": "John Summit opens his Experts Only Monday residency at [UNVRS] with Max Styler, AYYBO and Cole Knight. The source lists the residency as running every Monday from 1 June to 27 July 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-solid-grooves-opening-2026",
+        "title": "Solid Grooves Opening 2026",
+        "type": "residency",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 88,
+        "venueName": "DC10 Ibiza",
+        "venueId": "dc10",
+        "sourceUrl": "https://dc10ibiza.com/en/2026/03/16/solid-grooves-opening-2026/",
+        "ticketUrl": "https://dc10ibiza.com/en/2026/03/16/solid-grooves-opening-2026/",
+        "summary": "Solid Grooves begins its 2026 Thursday season at DC10 Ibiza on 4 June. DC10 describes the party as a key underground house and techno residency on the island.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-dom-dolla-hi-opening-2026",
+        "title": "Dom Dolla Opening Party",
+        "type": "residency",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 88,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/dom-dolla/2026-06-05",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/dom-dolla/2026-06-05",
+        "summary": "Dom Dolla opens his Friday Hï Ibiza residency, with Ewan McVicar, Luuk Van Dijk and Dam Swindle listed in the Club Room. The official page confirms every Friday from 5 June to 28 August 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-black-coffee-hi-jun-2026",
+        "title": "Black Coffee at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 90,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-06-06",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-06-06",
+        "summary": "Black Coffee headlines Hï Ibiza’s Saturday Theatre, with Darque also listed and Skepta’s Más Tiempo in the Club Room. The official page confirms the Saturday residency runs from 2 May to 3 October 2026.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-j-balvin-dj-snake-2026",
+        "title": "J Balvin & DJ Snake",
+        "type": "concert",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 91,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/j-balvin-dj-snake",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/j-balvin-dj-snake",
+        "summary": "J Balvin and DJ Snake debut a new collaborative show concept at Ushuaïa Ibiza on 14 June, with a second listed date on 21 June. The official page frames it as a world-premiere meeting of reggaeton, Latin anthems, trap and techno.",
+        "genres": [
+          "latin",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "ibiza-solomun-plus-one-jun-2026",
+        "title": "Solomun+1 with Chloé Caillet",
+        "type": "residency",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 93,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/solomun1-14-06-2026",
+        "ticketUrl": "https://pacha.com/event/solomun1-14-06-2026",
+        "summary": "Solomun brings his long-running Solomun+1 concept to Pacha Ibiza, with Chloé Caillet listed as the guest for 14 June. The Pacha page confirms the 2026 Sunday residency runs from 31 May to 4 October.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-armin-van-buuren-sunset-2026",
+        "title": "One Special Sunset with Armin van Buuren",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 86,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/news/one-special-sunset-with-armin-van-buuren",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/news/one-special-sunset-with-armin-van-buuren",
+        "summary": "Armin van Buuren returns to Ushuaïa Ibiza for a one-off headline sunset show on Thursday 18 June 2026. Ushuaïa describes it as his only outdoor island performance of the year.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-mestiza-artcore-hi-2026",
+        "title": "MESTIZA with Indira Paganotto Presents ARTCORE",
+        "type": "residency",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 87,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/mestiza/2026-06-21",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/mestiza/2026-06-21",
+        "summary": "MESTIZA headline the Hï Ibiza Theatre on 21 June with Floyd Lavine B2B Pomboklap and Padu & Belu; Indira Paganotto’s ARTCORE takes the Club Room with Héctor Oaks, Negitiv and Luna Passos. The official page confirms MESTIZA Sundays from 31 May to 28 June and again from 6 September to 4 October 2026.",
+        "genres": [
+          "house",
+          "latin",
+          "techno"
+        ]
+      },
+      {
+        "id": "ibiza-carl-cox-unvrs-opening-2026",
+        "title": "Carl Cox Opening Party",
+        "type": "residency",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 94,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/carl-cox/21-06-2026",
+        "ticketUrl": "https://www.unvrs.com/events/2026/carl-cox/21-06-2026",
+        "summary": "Carl Cox opens his Sunday [UNVRS] residency with an all-night-long Main Room set and melon bomb listed on the Wild Comet stage. The official page confirms Sundays from 21 June to 4 October 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-calvin-harris-ushuaia-jun-2026",
+        "title": "Calvin Harris at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 94,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-06-26",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-06-26",
+        "summary": "Calvin Harris headlines Ushuaïa Ibiza on Friday 26 June with MK and Tyson O’Brien listed. Ushuaïa confirms Harris’ Friday residency runs from 29 May to 2 October 2026, with additional Tuesday dates beginning in July.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-music-on-pacha-jun-2026",
+        "title": "Marco Carola Presents Music On",
+        "type": "residency",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 91,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/marco-carola-presents-music-on-26-06-2026",
+        "ticketUrl": "https://pacha.com/event/marco-carola-presents-music-on-26-06-2026",
+        "summary": "Marco Carola’s Music On takes over Pacha Ibiza on 26 June with Luciano, Franky Rizardo, Ilario Alicante, Fleur Shore and Prunk listed. Pacha presents Music On as one of Ibiza’s most influential Friday-night tech-house residencies.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-swedish-house-mafia-opening-2026",
+        "title": "Swedish House Mafia Opening Date",
+        "type": "residency",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 94,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia",
+        "summary": "Swedish House Mafia begin their 2026 Sunday residency at Ushuaïa Ibiza on 28 June, with the page listing Swedish House Mafia + TBA. The official source confirms the residency runs every Sunday from 28 June to 13 September 2026.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

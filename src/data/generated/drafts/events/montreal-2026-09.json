@@ -1,0 +1,204 @@
+{
+  "slug": "montreal",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:28:43.291Z",
+  "responseId": "resp_0a35e7108b05fb4e0069ff60524d1481a1bd80746cf8aeaa2f",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is anchored by Piknic Électronik’s late-season outdoor run and POP Montréal’s 25th edition, with select arena, club, and indie concerts already on sale.",
+    "events": [
+      {
+        "id": "montreal-pop-montreal-sep-2026",
+        "title": "POP Montréal International Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-27",
+        "importance": 90,
+        "venueName": "Various venues",
+        "venueId": null,
+        "sourceUrl": "https://popmontreal.com/",
+        "ticketUrl": "https://popmontreal.com/tickets-and-passes",
+        "summary": "POP Montréal’s official site confirms the festival for September 23–27, 2026. The annual curated multi-venue festival presents emerging and celebrated independent artists across music and related arts programming.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-piknic-misstress-barbara-sep-2026",
+        "title": "Piknic Électronik MTL #14: Misstress Barbara / Dameer",
+        "type": "club-night",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-06",
+        "importance": 80,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413783",
+        "ticketUrl": "https://billets.piknicelectronik.com/",
+        "summary": "Piknic Électronik’s September 6 edition features Misstress Barbara and Ossifer on the Fizz Stage, with Dameer, mayalabae and Raf Reza on the National Bank Stage. Resident Advisor lists the event as promoted by Piknic Electronik at Jardin Le Petit Prince, Parc Jean-Drapeau.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-cloudy-no-diploma-sep-2026",
+        "title": "Piknic Électronik MTL #15: Cloudy / No Diploma Records",
+        "type": "club-night",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-07",
+        "importance": 75,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413784",
+        "ticketUrl": "https://billets.piknicelectronik.com/",
+        "summary": "The Labour Day Monday Piknic edition lists Cloudy, No Police and Pyromane on the Fizz Stage, plus a No Diploma Records stage with Teo2k, Kay B and Nether. The event is confirmed for September 7, 2026 at Piknic Électronik / Parc Jean-Drapeau.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-prospa-roche-musique-sep-2026",
+        "title": "Piknic Électronik MTL #16: Prospa, Julian Fijma / Roche Musique",
+        "type": "club-night",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 82,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413786",
+        "ticketUrl": "https://billets.piknicelectronik.com/",
+        "summary": "Piknic’s September 13 lineup features Prospa, Julian Fijma and Elles & U, plus a Roche Musique stage with Cezaire b2b Didi Han. The listing is confirmed on Resident Advisor with Piknic Electronik as promoter.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-egyptian-lover-sep-2026",
+        "title": "Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves",
+        "type": "club-night",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 82,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413790",
+        "ticketUrl": "https://billets.piknicelectronik.com/",
+        "summary": "The September 27 Piknic edition brings Egyptian Lover, Martyn Bootyspoon and livwutang to the Fizz Stage, with a Rêves-hosted National Bank Stage. Resident Advisor confirms the date, venue, promoter and lineup.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-lily-allen-sep-2026",
+        "title": "Lily Allen: Performs West End Girl",
+        "type": "concert",
+        "startDate": "2026-09-08",
+        "endDate": "2026-09-08",
+        "importance": 82,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/lily-allen?code=e008008",
+        "ticketUrl": null,
+        "summary": "Lily Allen brings her West End Girl show to Bell Centre on September 8, 2026. evenko states the concert will feature the album performed in full and in order.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-jungle-place-bell-sep-2026",
+        "title": "JUNGLE: World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 82,
+        "venueName": "Place Bell",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/place-bell/jungle?code=e007996",
+        "ticketUrl": null,
+        "summary": "JUNGLE’s World Tour 2026 stops at Place Bell in nearby Laval on September 13, 2026, with Rio Kosta listed as support. The date and venue are confirmed by evenko.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-bunt-mtelus-sep-2026",
+        "title": "Bunt.",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 75,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/bunt?code=e008238",
+        "ticketUrl": null,
+        "summary": "îLESONIQ presents Bunt. at MTELUS on September 17, 2026. evenko confirms the Montreal club date and show time.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-aldous-harding-sep-2026",
+        "title": "Aldous Harding + Sam Burton",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 76,
+        "venueName": "Le National",
+        "venueId": null,
+        "sourceUrl": "https://popmontreal.com/events/aldous-harding",
+        "ticketUrl": "https://latribu-lenational.tuxedobillet.com/LeNational/aldous-harding-sam-burton",
+        "summary": "POP Montréal and Blue Skies Turn Black present Aldous Harding with Sam Burton at Le National on September 15, 2026. POP Montréal’s official event page confirms the venue, date and 8:00 p.m. show time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-spencer-krug-sep-2026",
+        "title": "Spencer Krug + invité(e)s",
+        "type": "concert",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-24",
+        "importance": 70,
+        "venueName": "La Sala Rossa",
+        "venueId": null,
+        "sourceUrl": "https://popmontreal.com/events/spencer-krug-invitees",
+        "ticketUrl": null,
+        "summary": "Spencer Krug is confirmed for La Sala Rossa on September 24, 2026 as part of POP Montréal-related programming. The official POP Montréal event page lists doors at 7:00 p.m. and show at 8:00 p.m.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-fred-frith-rene-lussier-sep-2026",
+        "title": "Fred Frith + René Lussier",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 72,
+        "venueName": "Théâtre Outremont",
+        "venueId": null,
+        "sourceUrl": "https://popmontreal.com/events/fred-frith-rene-lussier",
+        "ticketUrl": "https://theatreoutremont.tuxedobillet.com/Th%C3%A9%C3%A2treOutremont/fred-frith-rene-lussier",
+        "summary": "POP Montréal, Théâtre Outremont and OK LÀ present Fred Frith with René Lussier on September 26, 2026. The official POP Montréal event page confirms the date, venue and 8:00 p.m. show time.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

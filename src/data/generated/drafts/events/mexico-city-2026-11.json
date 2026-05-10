@@ -1,0 +1,217 @@
+{
+  "slug": "mexico-city",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:47:23.865Z",
+  "responseId": "resp_0a71fa75d15809f50069ff64ab7cd08193b17c7158fc5ab40c",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 11,
+    "year": 2026,
+    "notes": "November 2026 is already anchored by major arena and stadium concerts, plus a heavyweight festival weekend with Corona Capital and Time Warp both confirmed.",
+    "events": [
+      {
+        "id": "mexico-city-lila-downs-nov-2026",
+        "title": "Lila Downs",
+        "type": "concert",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 70,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/lila-downs-ciudad-de-mexico-01-11-2026/event/3D006491A1F453D1",
+        "ticketUrl": "https://www.ticketmaster.com.mx/lila-downs-ciudad-de-mexico-01-11-2026/event/3D006491A1F453D1",
+        "summary": "Lila Downs is confirmed for Auditorio Nacional on November 1, 2026. The Ticketmaster listing places the show at 7:00 p.m. in Ciudad de México.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-morat-yem-nov-2026",
+        "title": "Morat — YEM World Tour",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 84,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-06-11-2026/event/14006482BAB17B03",
+        "ticketUrl": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-06-11-2026/event/14006482BAB17B03",
+        "summary": "Morat is confirmed at Palacio de los Deportes on November 6, 2026. The Mexico City date is part of the Colombian pop group’s YEM World Tour listings.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-aitana-nov-2026",
+        "title": "Aitana",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
+        "ticketUrl": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
+        "summary": "Spanish pop artist Aitana is confirmed for Auditorio Nacional on November 6, 2026. Ticketmaster lists the Mexico City performance at 8:30 p.m.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-zz-top-nov-2026",
+        "title": "ZZ Top",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 76,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
+        "ticketUrl": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
+        "summary": "ZZ Top is confirmed for Auditorio Nacional on November 11, 2026. The Ticketmaster event page lists the concert in Ciudad de México at 9:00 p.m.",
+        "genres": []
+      },
+      {
+        "id": "mexico-city-karol-g-tropitour-nov-2026",
+        "title": "Karol G — Viajando por el Mundo, Tropitour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 94,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
+        "ticketUrl": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
+        "summary": "Karol G brings her Viajando por el Mundo, Tropitour to Estadio GNP Seguros on November 13, 2026. The Ticketmaster listing confirms the stadium show in Ciudad de México at 9:00 p.m.",
+        "genres": [
+          "latin",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-jerry-rivera-nov-2026",
+        "title": "Jerry Rivera",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 70,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
+        "summary": "Salsa singer Jerry Rivera is confirmed for Auditorio Nacional on November 17, 2026. Ticketmaster lists the Mexico City concert at 8:30 p.m.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-time-warp-nov-2026",
+        "title": "Time Warp Mexico",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 88,
+        "venueName": "Expo Santa Fe",
+        "venueId": null,
+        "sourceUrl": "https://www.time-warp.de/mexico/mxcity/",
+        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B?language=en-mx",
+        "summary": "Time Warp Mexico is confirmed for November 20–21, 2026 at Expo Santa Fe. The official page describes the two-day debut as focused on house and techno.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-corona-capital-nov-2026",
+        "title": "Corona Capital 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 96,
+        "venueName": "Corona Capital",
+        "venueId": "corona-capital-cdmx",
+        "sourceUrl": "https://www.excelsior.com.mx/espectaculos/corona-capital-2026-revela-fechas-proxima-edicion",
+        "ticketUrl": null,
+        "summary": "Corona Capital 2026 is confirmed for November 20–22, 2026 at Autódromo Hermanos Rodríguez. The lineup had not yet been revealed in the confirming source, so artist names are omitted.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-christian-sands-quartet-nov-2026",
+        "title": "Christian Sands Quartet",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 68,
+        "venueName": "Teatro de la Ciudad Esperanza Iris",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/christian-sands-quartet-mexico-21-11-2026/event/3D00642992AA291E",
+        "ticketUrl": "https://www.ticketmaster.com.mx/christian-sands-quartet-mexico-21-11-2026/event/3D00642992AA291E",
+        "summary": "Christian Sands Quartet is confirmed for Teatro de la Ciudad Esperanza Iris on November 21, 2026. Ticketmaster categorizes the performance under jazz/instrumental concerts.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "mexico-city-hayley-williams-show-nov-2026",
+        "title": "The Hayley Williams Show",
+        "type": "concert",
+        "startDate": "2026-11-23",
+        "endDate": "2026-11-23",
+        "importance": 82,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/the-hayley-williams-show-general-de-ciudad-de-mexico-23-11-2026/event/3D0064A6A8196315",
+        "ticketUrl": "https://www.ticketmaster.com.mx/the-hayley-williams-show-general-de-ciudad-de-mexico-23-11-2026/event/3D0064A6A8196315",
+        "summary": "Hayley Williams is confirmed for Auditorio Nacional on November 23, 2026. The Ticketmaster page lists Annie DiRusso as the special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-babasonicos-nov-2026",
+        "title": "Babasónicos",
+        "type": "concert",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 82,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/babasonicos-ciudad-de-mexico-25-11-2026/event/14006497BA56AD8F?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/babasonicos-ciudad-de-mexico-25-11-2026/event/14006497BA56AD8F?language=en-mx",
+        "summary": "Babasónicos is confirmed for Palacio de los Deportes on November 25, 2026. Ticketmaster lists the Argentine band’s Mexico City show at 8:00 p.m.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-los-autenticos-caligaris-nov-2026",
+        "title": "Los Auténticos Decadentes + Los Caligaris",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 84,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-ciudad-de-mexico-27-11-2026/event/1400649EB160C549",
+        "ticketUrl": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-ciudad-de-mexico-27-11-2026/event/1400649EB160C549",
+        "summary": "Los Auténticos Decadentes and Los Caligaris are confirmed for Estadio GNP Seguros on November 27, 2026. The Ticketmaster listing names the stadium event as Los Auténticos Caligaris.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

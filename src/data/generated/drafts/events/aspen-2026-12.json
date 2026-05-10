@@ -1,0 +1,16 @@
+{
+  "slug": "aspen",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T18:52:00.267Z",
+  "responseId": "resp_0712673d940a8a820069ff8216bdc081a2bf1609e3ebfc8ff4",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": []
+  }
+}

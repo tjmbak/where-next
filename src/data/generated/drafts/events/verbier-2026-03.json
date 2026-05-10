@@ -1,0 +1,127 @@
+{
+  "slug": "verbier",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:39:05.001Z",
+  "responseId": "resp_011a90bf0c460d510069ff62b5f868819d93af3733f49a65b1",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Verbier was driven by après-ski culture, with DJ-led mountain events clustered around Boss des Bosses and the YETI Xtreme Verbier weekend.",
+    "events": [
+      {
+        "id": "verbier-sculpture-park-beats-2026",
+        "title": "Sculpture Park Beats",
+        "type": "concert",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-11",
+        "importance": 70,
+        "venueName": "Verbier 3-D Sculpture Park",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/vibe-events-entertainment/sculpture-park-beats-verbier-en-6303666/",
+        "ticketUrl": null,
+        "summary": "Music session in the Verbier 3-D Sculpture Park, with DJ NikoBeats performing on the ski slopes near the stork sculpture facing the Corbassière glacier.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-piano-bar-night-2026",
+        "title": "Piano Bar Night",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-14",
+        "importance": 60,
+        "venueName": "Le Catogne, Route de Verbier Station 29",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/vibe-events-entertainment/piano-bar-night-verbier-en-6312955/",
+        "ticketUrl": null,
+        "summary": "Two-night piano-bar dinner event in Verbier, with the restaurant offering a piano-bar atmosphere from 19:00 on both Friday and Saturday.",
+        "genres": []
+      },
+      {
+        "id": "verbier-concert-annuel-bruson-2026",
+        "title": "Concert Annuel – Société de Musique l’Avenir de Bagnes",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 60,
+        "venueName": "Salle Polyvalente de Bruson",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/decouvrir/vibe/concert-annuel-bruson-fr-6311197/",
+        "ticketUrl": null,
+        "summary": "Annual concert by the Société de Musique l’Avenir de Bagnes at the Salle Polyvalente de Bruson, focused on brass and percussion under the theme of emotions.",
+        "genres": []
+      },
+      {
+        "id": "verbier-boss-des-bosses-dj-apres-2026",
+        "title": "Boss des Bosses 2026 – Live DJs and Après-Ski",
+        "type": "festival",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-18",
+        "importance": 78,
+        "venueName": "Bar 1936 / Le Rouge Verbier",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/offers/boss-des-bosses-2026-verbier-en-6188842/",
+        "ticketUrl": null,
+        "summary": "The long-running inter-resort mogul competition pairs its on-slope action with live DJs, parties at Bar 1936, and après-ski celebrations at Le Rouge.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-ush-een-boss-afterparty-2026",
+        "title": "Ush-een Present – Boss des Bosses After-After Party",
+        "type": "club-night",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-18",
+        "importance": 65,
+        "venueName": "Big Ben Verbier",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2381223",
+        "ticketUrl": null,
+        "summary": "Late-night Boss des Bosses after-after party promoted by Ush-een, listed by Resident Advisor with tech house and electro genres and a TBC lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-south-restaurant-club-residency-2026",
+        "title": "SOUTH Restaurant & Club – Jazz & Soul Thursdays and Resident DJ Nights",
+        "type": "residency",
+        "startDate": "2026-01-01",
+        "endDate": "2026-04-18",
+        "importance": 70,
+        "venueName": "SOUTH Restaurant & Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/offers/south-restaurant-club-verbier-en-4557637/",
+        "ticketUrl": null,
+        "summary": "Farinet South’s winter club residency featured Jazz & Soul Thursdays from 21:00, resident DJ Alex Scott, and guest DJs through the season, running into March 2026.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-yeti-xtreme-event-village-2026",
+        "title": "YETI Xtreme Verbier 2026 – Event Village DJ Program",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 82,
+        "venueName": "Event Village, Rue de Médran",
+        "venueId": null,
+        "sourceUrl": "https://www.freerideworldtour.com/news-videos/whats-on-at-yeti-xtreme-verbier-2026-event-village-program/",
+        "ticketUrl": null,
+        "summary": "The official FWT Event Village program added three days of music and bar programming, including Red Bull DJ sets, La Nébuleuse DJs, Peak Performance terrace sessions, and SOÂR Xtreme parties.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

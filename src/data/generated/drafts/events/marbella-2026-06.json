@@ -1,0 +1,153 @@
+{
+  "slug": "marbella",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:24:24.982Z",
+  "responseId": "resp_02601b43c89741dc0069ff5f3f9d348195ae09a9f9c12aa0bf",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is anchored by Starlite Occident’s opening run at Auditorio Starlite plus a strong Marbella Arena program spanning indie rock, house, and UK garage/R&B.",
+    "events": [
+      {
+        "id": "marbella-ozuna-starlite-jun-2026",
+        "title": "Ozuna at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 92,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/ozuna/",
+        "ticketUrl": "https://www.ticketmaster.es/event/ozuna-entradas/201667827?language=en-us",
+        "summary": "Ozuna opens Starlite Occident’s June concert run in Marbella with a Latin urban set at the festival’s Auditorium stage.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-laura-brenda-starlite-jun-2026",
+        "title": "Laura y Brenda at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 70,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/laura-y-brenda-2/",
+        "ticketUrl": "https://www.ticketmaster.es/event/laura-y-brenda-entradas/39367349?language=en-us",
+        "summary": "Laura Esquivel and Brenda Asnicar bring their Amigas del Corazón World Tour to Starlite Occident, revisiting songs from Patito Feo.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-kaiser-chiefs-arena-jun-2026",
+        "title": "Kaiser Chiefs at Marbella Arena",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 80,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/kaiser-chiefs-entradas/656607871",
+        "ticketUrl": "https://www.ticketmaster.es/event/kaiser-chiefs-entradas/656607871",
+        "summary": "Kaiser Chiefs play Marbella Arena with a headline indie-rock show promoted through the venue’s summer concert calendar.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-defected-arena-jun-2026",
+        "title": "Defected Marbella",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 87,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://defected.com/events/",
+        "ticketUrl": "https://www.ticketmaster.es/event/86766932?brand=base_mb_es&language=en-us",
+        "summary": "Defected returns to Marbella Arena with a house-focused lineup headed by DJ EZ, Eliza Rose, and Melé.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-nina-pastori-starlite-jun-2026",
+        "title": "Niña Pastori at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 82,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/nina-pastori/",
+        "ticketUrl": "https://www.ticketmaster.es/event/nina-pastori-entradas/1446224524?language=en-us",
+        "summary": "Niña Pastori performs at Starlite Occident with a set rooted in flamenco-pop and material connected to her COLOR FANIA project.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-craig-david-ts5-jun-2026",
+        "title": "Craig David presents TS5",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 83,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.beatlive.net/event-details/craig-david-presents-ts5",
+        "ticketUrl": null,
+        "summary": "Craig David brings his TS5 format to Marbella Arena, combining DJing, live vocals, MCing, garage classics, and R&B anthems.",
+        "genres": [
+          "r-and-b",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-lenny-kravitz-starlite-jun-2026",
+        "title": "Lenny Kravitz at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-29",
+        "endDate": "2026-06-29",
+        "importance": 94,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/lenny-kravitz/",
+        "ticketUrl": "https://www.ticketmaster.es/event/lenny-kravitz-entradas/834128600?language=en-us",
+        "summary": "Lenny Kravitz headlines Starlite Occident Marbella as part of the live cycle supporting his Blue Electric Light era.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-alan-parsons-starlite-jun-2026",
+        "title": "The Alan Parsons Live Project at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-30",
+        "endDate": "2026-06-30",
+        "importance": 80,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/alan-parsons-2/",
+        "ticketUrl": "https://www.ticketmaster.es/event/the-alan-parsons-live-project-entradas/679058648?language=en-us",
+        "summary": "Alan Parsons Live Project plays Starlite Occident with a show revisiting The Alan Parsons Project classics and Parsons’ progressive studio legacy.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

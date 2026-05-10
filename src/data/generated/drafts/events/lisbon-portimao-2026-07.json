@@ -1,0 +1,202 @@
+{
+  "slug": "lisbon-portimao",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:47:46.587Z",
+  "responseId": "resp_0e87e24e8aacb74f0069ff56b70078819dbadb2470ac4b886d",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lisbon-portimao",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is already anchored by major festival weekends in Portimão and greater Lisbon, with Afro Nation, NOS Alive, Ageas Cooljazz and several specialist rock, electronic and reggae events confirmed.",
+    "events": [
+      {
+        "id": "lisbon-portimao-afro-nation-portugal-2026",
+        "title": "Afro Nation Portugal 2026",
+        "type": "festival",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-05",
+        "importance": 98,
+        "venueName": "Praia da Rocha",
+        "venueId": null,
+        "sourceUrl": "https://www.afronation.com/",
+        "ticketUrl": "https://www.afronation.com/",
+        "summary": "Afro Nation Portugal returns to Portimão from 3–5 July 2026. The official site confirms the 2026 lineup schedule by day for the world-scale Afrobeats, amapiano, hip-hop and R&B beach festival.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-lisb-on-jardim-sonoro-2026",
+        "title": "LISB-ON #Jardim Sonoro 2026",
+        "type": "festival",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-04",
+        "importance": 85,
+        "venueName": "Jardim Keil do Amaral",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2292304",
+        "ticketUrl": "https://ra.co/events/2292304",
+        "summary": "Resident Advisor lists LISB-ON 2026 at Jardim Keil do Amaral with programming across 3 and 4 July. Confirmed names include CamelPhat, Rødhåd b2b MARRØN, Adam Ten, Kölsch, Ben Sims, Folamour, Sven Väth, Kerri Chandler, BASHKKA and Anfisa Letyago.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-evillive-warm-up-2026",
+        "title": "EVILLIVE Warm-Up",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 70,
+        "venueName": "Sala Tejo, MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/evillive-warm-up_en/15957",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/evillive-warm-up_en/15957",
+        "summary": "MEO Arena confirms the official EVILLIVE Warm-Up on 4 July 2026 at Sala Tejo. The lineup features Trivium, Cavalera performing Chaos A.D., and Portuguese extreme-metal act Okkultist.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-evillive-festival-2026",
+        "title": "EVILLIVE Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 82,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/evil-live-festival-2026_en/15793",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/evil-live-festival-2026_en/15793",
+        "summary": "EVILLIVE Festival returns to Lisbon’s MEO Arena for a one-day edition on 5 July 2026. Confirmed artists include Marilyn Manson, Megadeth, Mastodon, Converge, The Gathering and Imminence.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-ageas-cooljazz-2026",
+        "title": "Ageas Cooljazz 2026",
+        "type": "festival",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-31",
+        "importance": 87,
+        "venueName": "Hipódromo Manuel Possolo",
+        "venueId": null,
+        "sourceUrl": "https://www.ageascooljazz.pt/en/line-up.html",
+        "ticketUrl": "https://www.ageascooljazz.pt/en/line-up.html",
+        "summary": "Ageas Cooljazz runs in Cascais from 8–31 July 2026 with a confirmed line-up across multiple nights. Officially listed highlights include Gilberto Gil, David Byrne, Loyle Carner, Jamiroquai, Diana Krall, Franz Ferdinand, Scissor Sisters and Chet Faker.",
+        "genres": [
+          "jazz",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-scorpions-meo-arena-2026",
+        "title": "Scorpions - Coming Home 2026",
+        "type": "concert",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-08",
+        "importance": 75,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/scorpions-coming-home-2026_en/15776",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/scorpions-coming-home-2026_en/15776",
+        "summary": "Scorpions bring the Coming Home 2026 Tour to MEO Arena in Lisbon on 8 July 2026. The venue listing confirms the date, session time and promoter for the German rock band’s Portugal stop.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-nos-alive-2026",
+        "title": "NOS Alive 2026",
+        "type": "festival",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-11",
+        "importance": 96,
+        "venueName": "Passeio Marítimo de Algés",
+        "venueId": null,
+        "sourceUrl": "https://nosalive.com/en/",
+        "ticketUrl": "https://nosalive.com/en/",
+        "summary": "NOS Alive 2026 is confirmed for 9, 10 and 11 July in Algés, just outside Lisbon. Official artist pages and the festival site list major names including Twenty One Pilots, Nick Cave & The Bad Seeds, Wolf Alice, Lorde, Pixies, Teddy Swims and Florence + The Machine.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-grupo-revelacao-lisboa-2026",
+        "title": "Grupo Revelação - Lisboa",
+        "type": "concert",
+        "startDate": "2026-07-19",
+        "endDate": "2026-07-19",
+        "importance": 65,
+        "venueName": "Monsantos Open Air",
+        "venueId": null,
+        "sourceUrl": "https://sixemotions.bol.pt/Comprar/Bilhetes/164957-grupo_revelacao_lisboa-monsantos_open_air/",
+        "ticketUrl": "https://sixemotions.bol.pt/Comprar/Bilhetes/164957-grupo_revelacao_lisboa-monsantos_open_air/",
+        "summary": "BOL lists Brazilian samba and pagode group Grupo Revelação at Monsantos Open Air in Lisbon on 19 July 2026. The listing confirms a 20:00 session and describes the show as a return to Portugal for the long-running group.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-belle-sebastian-coliseu-2026",
+        "title": "Belle & Sebastian - If You’re Feeling Sinister in Full",
+        "type": "concert",
+        "startDate": "2026-07-21",
+        "endDate": "2026-07-21",
+        "importance": 72,
+        "venueName": "Coliseu de Lisboa",
+        "venueId": null,
+        "sourceUrl": "https://www.bol.pt/Comprar/Bilhetes/171736-belle_sebastian-coliseu_de_lisboa/",
+        "ticketUrl": "https://www.bol.pt/Comprar/Bilhetes/171736-belle_sebastian-coliseu_de_lisboa/",
+        "summary": "BOL confirms Belle & Sebastian at Coliseu de Lisboa on 21 July 2026. The show is billed as a full performance of If You’re Feeling Sinister followed by a second set of favourites.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-one-sound-unification-2026",
+        "title": "One Sound Unification 2026",
+        "type": "festival",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-26",
+        "importance": 72,
+        "venueName": "Tuga Natura",
+        "venueId": null,
+        "sourceUrl": "https://onesoundunification.com/",
+        "ticketUrl": "https://onesoundunification.com/",
+        "summary": "One Sound Unification is confirmed for 24–26 July 2026 at Tuga Natura in the Lisbon area. The official schedule lists reggae and sound-system names including The Heptones, Admiral Tibet, Earl Sixteen, Johnny Clarke, Bass Odyssey, Bodyguard and Coxsone Sound.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-alpha-blondy-monsantos-2026",
+        "title": "Alpha Blondy",
+        "type": "concert",
+        "startDate": "2026-07-31",
+        "endDate": "2026-07-31",
+        "importance": 70,
+        "venueName": "Monsantos Open Air",
+        "venueId": null,
+        "sourceUrl": "https://www.bol.pt/Comprar/Bilhetes/158378-alpha_blondy-monsantos_open_air_gc/",
+        "ticketUrl": "https://www.bol.pt/Comprar/Bilhetes/158378-alpha_blondy-monsantos_open_air_gc/",
+        "summary": "BOL confirms Alpha Blondy at Monsantos Open Air in Lisbon on 31 July 2026. The listing bills the Ivorian reggae figure for a six-and-a-half-hour open-air event with doors at 17:00 and a 20:00 session.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

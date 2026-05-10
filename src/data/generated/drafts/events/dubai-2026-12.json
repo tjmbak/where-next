@@ -1,0 +1,51 @@
+{
+  "slug": "dubai",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:22:08.169Z",
+  "responseId": "resp_0bf1716e4d3ad4fb0069ff5eeb419c819e9b5976cb6a9e5827",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "dubai-charlotte-de-witte-hive-dec-2026",
+        "title": "Charlotte de Witte at HIVE, Soho Garden",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 80,
+        "venueName": "Soho Garden Meydan",
+        "venueId": "soho-garden",
+        "sourceUrl": "https://www.shazam.com/event/37e5ed0e-b1e0-4407-be97-aa0fcc0c2f48",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104693/charlotte-de-witte-at-hive-soho-garden-in-dubai",
+        "summary": "Charlotte de Witte headlines a techno-focused HIVE night at Soho Garden Meydan, with tickets listed via Platinumlist.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-indira-paganotto-hive-dec-2026",
+        "title": "Indira Paganotto at HIVE, Soho Garden Meydan",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 76,
+        "venueName": "Soho Garden Meydan",
+        "venueId": "soho-garden",
+        "sourceUrl": "https://www.shazam.com/event/97cbad35-8898-4db5-94c1-aafe932aee3b",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/103026/indira-paganotto-at-hive-soho-garden-meydan-dubai",
+        "summary": "Indira Paganotto brings her psy-techno sound to HIVE at Soho Garden Meydan, with the event listed for 10:00 PM and ticketing via Platinumlist.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

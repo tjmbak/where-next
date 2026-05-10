@@ -1,0 +1,188 @@
+{
+  "slug": "montreal",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:28:57.213Z",
+  "responseId": "resp_059217e8774f25d00069ff604fbae48191a54ed70e4eb9485f",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is anchored by back-to-back Parc Jean-Drapeau festivals, plus a strong late-month electronic run around MUTEK and Piknic Électronik.",
+    "events": [
+      {
+        "id": "montreal-osheaga-2026",
+        "title": "OSHEAGA Music and Arts Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 98,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://www.mtl.org/en/experience/osheaga-music-festival",
+        "ticketUrl": "https://osheaga.com/",
+        "summary": "Canada’s major multi-genre summer festival returns to Parc Jean-Drapeau July 31 to August 2, with August headliners including Tate McRae on August 1 and Lorde on August 2. The 2026 bill also lists Major Lazer, Clipse, Gunna, Empire of the Sun and more.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-daniel-caesar-2026",
+        "title": "Daniel Caesar — Son of Spergy 2026 North American Tour",
+        "type": "concert",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 82,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/daniel-caesar?code=e008053",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/daniel-caesar?code=e008053",
+        "summary": "Daniel Caesar brings his Son of Spergy 2026 North American Tour to Bell Centre, with 070 Shake listed as support. The show is confirmed for Thursday, August 6, 2026 at 7:30 pm.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-olivia-dean-2026",
+        "title": "Olivia Dean — The Art of Loving Live",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 80,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/olivia-dean?code=e006721",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/olivia-dean?code=e006721",
+        "summary": "Olivia Dean’s The Art of Loving Live tour stops at Bell Centre on Friday, August 7, 2026. The arena date follows her rise as a major UK soul-pop voice.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-ilesoniq-2026",
+        "title": "îLESONIQ 2026",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 95,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://www.mtl.org/en/experience/ilesoniq-montreal",
+        "ticketUrl": "https://ilesoniq.com/en",
+        "summary": "îLESONIQ returns to Parc Jean-Drapeau on August 8 and 9, 2026, with deadmau5, Rezz, Above & Beyond and Dom Dolla among the highlighted names. The festival remains Montréal’s flagship EDM weekend.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "montreal-lasso-2026",
+        "title": "LASSO Montréal 2026",
+        "type": "festival",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-16",
+        "importance": 90,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://ca.billboard.com/music/country/lasso-montreal-2026-lineup",
+        "ticketUrl": "https://lassomontreal.com/en",
+        "summary": "LASSO Montréal’s fifth edition is confirmed for August 15–16 at Parc Jean-Drapeau. The 2026 lineup is headlined by Thomas Rhett and Mumford & Sons, with Jon Pardi, Old Dominion, Koe Wetzel, Turnpike Troubadours and more.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-warped-tour-2026",
+        "title": "Vans Warped Tour Montreal",
+        "type": "festival",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-22",
+        "importance": 88,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/parc-jean-drapeau/vans-warped-tour-montreal?code=e006826",
+        "ticketUrl": "https://evenko.ca/en/events/parc-jean-drapeau/vans-warped-tour-montreal?code=e006826",
+        "summary": "Vans Warped Tour brings its Montreal edition to Parc Jean-Drapeau on August 21–22, 2026. The source confirms the dates and location, though the event page does not yet list a Montréal-specific lineup.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-piknic-worakls-2026",
+        "title": "Piknic Électronik MTL #12: Worakls",
+        "type": "club-night",
+        "startDate": "2026-08-23",
+        "endDate": "2026-08-23",
+        "importance": 72,
+        "venueName": "Piknic Électronik / Parc Jean Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413773",
+        "ticketUrl": null,
+        "summary": "Piknic Électronik MTL #12 is confirmed for Sunday, August 23, 2026 at Jardin Le Petit Prince in Parc Jean-Drapeau. The lineup features Worakls, Jares and Anaïs Ley from 4:00 pm to 9:30 pm.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-mutek-2026",
+        "title": "MUTEK Montréal 2026: Edition 27 — Amplify & Resonate",
+        "type": "festival",
+        "startDate": "2026-08-25",
+        "endDate": "2026-08-30",
+        "importance": 92,
+        "venueName": "Quartier des spectacles",
+        "venueId": null,
+        "sourceUrl": "https://montreal.mutek.org/en/welcome",
+        "ticketUrl": "https://montreal.mutek.org/en/box-office",
+        "summary": "MUTEK Montréal returns August 25–30, 2026 for six days and nights of electronic music, audiovisual performance and digital creativity. First-wave artists include Jeff Mills, Ben UFO, Barker, Polygonia, A Guy Called Gerald and Rival Consoles.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "montreal-hernan-cattaneo-2026",
+        "title": "Hernán Cattáneo — OfF Piknic",
+        "type": "club-night",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 76,
+        "venueName": "Piknic Électronik / Parc Jean Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2429356",
+        "ticketUrl": null,
+        "summary": "Hernán Cattáneo is confirmed for an OfF Piknic event on Saturday, August 29, 2026 at Parc Jean-Drapeau. The event runs from 5:00 pm to 10:00 pm on the Fizz Stage.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-danny-tenaglia-2026",
+        "title": "Piknic Électronik MTL #13: Danny Tenaglia + MUTEK",
+        "type": "club-night",
+        "startDate": "2026-08-30",
+        "endDate": "2026-08-30",
+        "importance": 78,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-piknic-30-08-2026",
+        "ticketUrl": null,
+        "summary": "Piknic Électronik’s August 30 schedule lists Danny Tenaglia and Guillaume Michaud on the Fizz Stage, plus a MUTEK-branded National Bank Stage with surprise artists. The event is scheduled from 4:00 pm to 9:30 pm.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

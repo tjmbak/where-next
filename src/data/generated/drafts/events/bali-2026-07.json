@@ -1,0 +1,102 @@
+{
+  "slug": "bali",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:23:27.359Z",
+  "responseId": "resp_0109b1b81f264ddc0069ff5f00077c81969c0cc3ff31cafb1f",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 7,
+    "year": 2026,
+    "notes": "Confirmed July 2026 highlights include a major Indonesian pop concert, Afrosonic’s multi-venue Afro-diasporic festival weekend, and a headline house booking at Savaya.",
+    "events": [
+      {
+        "id": "bali-poliponi-sheila-on-7-2026",
+        "title": "POLIPONI Bali: Sheila On 7",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 84,
+        "venueName": "Bali United Training Center",
+        "venueId": null,
+        "sourceUrl": "https://www.baliutd.com/news/bali-united-training-center-bakal-jadi-venue-konser-sheila-on-7-tahun-ini",
+        "ticketUrl": null,
+        "summary": "Bali United’s official site confirms Sheila On 7 will perform at POLIPONI Bali on 4 July 2026 at Bali United Training Center, Gianyar. The concert is positioned as a large-scale, production-focused Indonesian pop show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bali-afrosonic-fest-2026",
+        "title": "Afrosonic Fest 2026",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-12",
+        "importance": 84,
+        "venueName": "Atlas Super Club / Café del Mar Bali / The Shivanna",
+        "venueId": null,
+        "sourceUrl": "https://afrosonicfest.com/",
+        "ticketUrl": "https://www.eventbrite.com.au/e/afrosnic-fest-bali-day-2-tickets-1987126025434",
+        "summary": "Afrosonic’s official 2026 site lists a three-stop Bali weekend: Atlas Superclub on Friday 10 July, Café del Mar Bali on Saturday 11 July, and The Shivanna on Sunday 12 July. Listed artists include Bayanni, Ruger, Joshua Baraka, Single Dee, Chelsea Sloan, Tshegu, Gly, and MC Topgun.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-lovefest-nuanu-2026",
+        "title": "Lovefest Bali",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-12",
+        "importance": 65,
+        "venueName": "Nuanu Creative City",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/lovefest-bali",
+        "ticketUrl": "https://megatix.co.id/events/lovefest-bali",
+        "summary": "Megatix confirms Lovefest Bali for 10–12 July 2026 at Nuanu Creative City. The program includes dance, conscious music sets, movement sessions, sound healing, rituals, and workshops.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-tgif-gwk-2026",
+        "title": "Thank God It’s Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 72,
+        "venueName": "GWK Cultural Park",
+        "venueId": null,
+        "sourceUrl": "https://www.see.events/later/i/95243701/thank-god-it-s-festival-at-gwk-cultural-park",
+        "ticketUrl": "https://tgif.yesplis.com",
+        "summary": "The event listing confirms Thank God It’s Festival 2026 for 25–26 July 2026 at GWK Cultural Park. The listing identifies it as an AKLive festival experience, with ticket details directed to the official TGIF ticket site.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-dombresky-savaya-2026",
+        "title": "Dombresky at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 76,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/july-25-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/july-25-2026",
+        "summary": "Savaya’s official calendar confirms Dombresky for 25 July 2026, with doors at 3:00 PM. The booking brings the French-born house producer to Savaya’s Uluwatu clifftop club setting.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "st-barths",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:54:40.475Z",
+  "responseId": "resp_07ae516c278eb9710069ffd6decf448196ab00cd8cc28cbd10",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "st-barths",
+    "month": 1,
+    "year": 2026,
+    "notes": "January’s confirmed calendar is anchored by the 42nd St Barth Music Festival, with a few high-season DJ events on Saint-Barthélemy and nearby French Saint-Martin.",
+    "events": [
+      {
+        "id": "st-barths-greg-cerrone-bagatelle-2026",
+        "title": "Greg Cerrone at Bagatelle St Barth",
+        "type": "club-night",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 70,
+        "venueName": "Bagatelle Saint-Barth",
+        "venueId": "bagatelle-st-barths",
+        "sourceUrl": "https://www.bandsintown.com/e/107582386?app_id=szm_feed&came_from=283&utm_campaign=event&utm_medium=web&utm_source=szm_feed",
+        "ticketUrl": "https://www.bandsintown.com/e/107582386?app_id=szm_feed&came_from=283&utm_campaign=event&utm_medium=web&utm_source=szm_feed",
+        "summary": "French-American DJ and producer Greg Cerrone was listed for a 9:00 PM AST set at Bagatelle St Barth in Gustavia. Bandsintown classifies the event with house, tech house, house disco and afro-tech tags.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-francis-mercier-rainbow-2026",
+        "title": "Rainbow New Year’s Day: Francis Mercier",
+        "type": "beach-club",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 78,
+        "venueName": "Rainbow Café, Grand-Case, Saint-Martin",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/events/rainbow-new-year-s-day-francis-mercier",
+        "ticketUrl": "https://shotgun.live/events/rainbow-new-year-s-day-francis-mercier",
+        "summary": "Nearby on French Saint-Martin, Rainbow Café presented Francis Mercier with support from Nomis for a New Year’s Day beach-club session from 6:00 PM to 11:59 PM. Shotgun lists the moods as Afrobeat, deep house, house, electro and afro house.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-bob-sinclar-coco-beach-2026",
+        "title": "Bob Sinclar x Coco Beach",
+        "type": "beach-club",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 82,
+        "venueName": "Coco Beach, Orient Bay, Saint-Martin",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/bob-sinclar-x-coco-beach-4-janvier-2026",
+        "ticketUrl": "https://shotgun.live/en/events/bob-sinclar-x-coco-beach-4-janvier-2026",
+        "summary": "Nearby on French Saint-Martin, Coco Beach hosted Bob Sinclar for an early-night DJ set on Orient Bay Beach. The Shotgun listing describes the 4 January event as a house-focused beach party running 7:00 PM to 10:00 PM within the event window.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-opera-paris-ballet-2026",
+        "title": "St Barth Music Festival: Paris Opera Ballet Opening Nights",
+        "type": "festival",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-10",
+        "importance": 86,
+        "venueName": "Plateau de l’Ajoe, Lorient",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "The 42nd St Barth Music Festival opened with dancers from the Paris Opera Ballet on 9 and 10 January at 7:30 PM. The listing names Amandine Albisson, Hannah O’Neill and Marc Moreau among the featured dancers.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-candlelight-concert-2026",
+        "title": "St Barth Music Festival: Concert by Candlelight",
+        "type": "concert",
+        "startDate": "2026-01-13",
+        "endDate": "2026-01-13",
+        "importance": 76,
+        "venueName": "Anglican Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "The festival scheduled a candlelight chamber concert at the Anglican Church in Gustavia on 13 January at 7:30 PM. The program was listed for violins, cello, viola, flute and piano.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-orchestral-evening-2026",
+        "title": "St Barth Music Festival: Orchestral Evening with Delyana Lazarova",
+        "type": "concert",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-14",
+        "importance": 82,
+        "venueName": "Lorient Church",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "The festival listed an orchestral evening at Lorient Church on 14 January at 7:30 PM under the direction of conductor Delyana Lazarova. The local program places it within the 42nd edition’s main classical series.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-chopin-recital-2026",
+        "title": "St Barth Music Festival: Chopin Piano Recital",
+        "type": "concert",
+        "startDate": "2026-01-15",
+        "endDate": "2026-01-15",
+        "importance": 78,
+        "venueName": "Catholic Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "The festival programmed a Chopin piano recital at the Catholic Church in Gustavia on 15 January at 7:30 PM. The listed performers include pianist Alexej Gorlatch with Laura Frautschi, Christopher Wu, Francis Gouton, Nina Bernat and Rebecca Young.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-madame-butterfly-2026",
+        "title": "St Barth Music Festival: Madame Butterfly Opera Evening",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 84,
+        "venueName": "Lorient Church",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "The festival scheduled an opera evening built around Puccini’s “Madame Butterfly” at Lorient Church on 16 January at 8:00 PM. The performance was listed under the direction of conductor Mimma Campanale.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-angela-grey-jazz-2026",
+        "title": "St Barth Music Festival: Angela Grey Quintet Jazz Concert",
+        "type": "concert",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 78,
+        "venueName": "Anglican Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "Angela Grey Quintet was listed for a jazz concert at the Anglican Church in Gustavia on 17 January at 7:30 PM. The follow-up festival article names Grey’s accompanying musicians as Gustave Reichert, Luca Fattorini, Simon Chivallon and Malte Arndal.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-angela-grey-jazz-sunday-2026",
+        "title": "St Barth Music Festival: Angela Grey Quintet Sunday Jazz Concert",
+        "type": "concert",
+        "startDate": "2026-01-18",
+        "endDate": "2026-01-18",
+        "importance": 76,
+        "venueName": "Anglican Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "A second Angela Grey Quintet jazz concert was listed for the Anglican Church in Gustavia on 18 January at 6:00 PM. It was part of the St Barth Music Festival’s closing weekend program.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "st-barths-will-santt-brazilian-2026",
+        "title": "St Barth Music Festival: Brazilian Evening with Will Santt",
+        "type": "concert",
+        "startDate": "2026-01-19",
+        "endDate": "2026-01-19",
+        "importance": 77,
+        "venueName": "Anglican Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/en/actualites/culture-loisirs/42e-festival-de-musique-une-celebration-de-lame-et-de-la-beaute--202512301912.html",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en",
+        "summary": "Brazilian guitarist, singer and songwriter Will Santt was listed to close the festival at the Anglican Church in Gustavia on 19 January at 7:30 PM. The article describes the closing program as bossa nova / “bossa novissima.”",
+        "genres": [
+          "latin",
+          "jazz",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

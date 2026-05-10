@@ -1,0 +1,220 @@
+{
+  "slug": "berlin",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:53:11.305Z",
+  "responseId": "resp_0fe021f21c8ea81e0069ff57f6903081a08e2a6d61f82dbbcf",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 in Berlin is already anchored by major open-air concerts, arena pop, Pride weekend parties, and Lollapalooza at Olympiastadion/Olympiapark.",
+    "events": [
+      {
+        "id": "berlin-third-eye-festival-jul-2026",
+        "title": "Third Eye Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-06",
+        "importance": 74,
+        "venueName": "TBA / near Berlin",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2288806",
+        "ticketUrl": "https://de.ra.co/events/2288806",
+        "summary": "Third Eye Festival returns near Berlin for a psychedelic techno gathering with Cio D'Or, DJ Nobu, D-Leria, Erika, Kohra, YUTA and more announced. The RA listing states 3–6 July 2026 and notes camping and music hours across the weekend.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-else-on-board-jul-2026",
+        "title": "Else x On Board",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 70,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393371",
+        "ticketUrl": "https://ra.co/events/2393371",
+        "summary": "Else hosts an open-air techno day/night with Altinbas b2b Polygonia, Efdemin b2b GiGi FM, Luigi Tozzi, Refracted, Vera Logdanidi and others. The RA event page confirms Saturday, 4 July 2026, 14:00–06:00 at Else.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-madness-tempodrom-jul-2026",
+        "title": "Madness – Live 2026",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 75,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/madness_2026-07-05_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/madness_2026-07-05_20/tickets/",
+        "summary": "Madness bring their Summer Shows 2026 to Tempodrom, with doors at 19:00 and showtime at 20:00. The venue page highlights the band’s ska-pop catalogue including “Our House,” “It Must Be Love,” and “One Step Beyond.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-robyn-uber-arena-jul-2026",
+        "title": "Robyn – The Sexistential Tour",
+        "type": "concert",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-08",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/robyn",
+        "ticketUrl": "https://www.axs.com/events/1332834",
+        "summary": "Robyn brings The Sexistential Tour to Uber Arena Berlin on 8 July 2026. The arena listing confirms the date and venue for the Swedish pop/electronic artist’s 2026 tour stop.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-mumford-sons-waldbuehne-jul-2026",
+        "title": "Mumford & Sons – Prizefighter Tour",
+        "type": "concert",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-09",
+        "importance": 80,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/mumford-sons-prizefighter-tour-waldbuehne-berlin-20990055/",
+        "ticketUrl": "https://www.eventim.de/en/event/mumford-sons-prizefighter-tour-waldbuehne-berlin-20990055/",
+        "summary": "Mumford & Sons play Waldbühne Berlin as part of the Prizefighter Tour. Eventim confirms Thursday, 9 July 2026 at 18:45 at Waldbühne Berlin.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-the-cure-wuhlheide-jul-2026",
+        "title": "The Cure – Live in Berlin 2026",
+        "type": "concert",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-11",
+        "importance": 88,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.thecure.com/news/2025/10/2-nights-announced-for-berlin-wuhlheide/",
+        "ticketUrl": "https://www.eventim.de/",
+        "summary": "The Cure have announced two exclusive German headline shows at Wuhlheide in Berlin on 10 and 11 July 2026, with support from The Twilight Sad and Just Mustard. The official band announcement confirms both dates and the Berlin venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-ruben-blades-tempodrom-jul-2026",
+        "title": "Rubén Blades & Roberto Delgado Big Band – Fotografías Tour",
+        "type": "concert",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 76,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/ruben_blades_und_roberto_delgado_big_band_2026-07-10_21/",
+        "ticketUrl": "https://www.tempodrom.de/event/ruben_blades_und_roberto_delgado_big_band_2026-07-10_21/",
+        "summary": "Rubén Blades returns to Berlin with the Roberto Delgado Big Band on the Fotografías Tour. Tempodrom confirms the concert for 10 July 2026 at the venue.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-pet-shop-boys-waldbuehne-jul-2026",
+        "title": "Pet Shop Boys – Dreamworld: The Greatest Hits Live",
+        "type": "concert",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 83,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.waldbuehne-berlin.de/en/event/pet_shop_boys_2026-07-11_00/",
+        "ticketUrl": "https://www.eventim.de/en/event/pet-shop-boys-dreamworld-the-greatest-hits-live-waldbuehne-berlin-21125158/",
+        "summary": "Pet Shop Boys bring Dreamworld: The Greatest Hits Live to Waldbühne Berlin. The official Waldbühne listing confirms Saturday, 11 July 2026.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-marillion-tempodrom-jul-2026",
+        "title": "Marillion – Live 2026",
+        "type": "concert",
+        "startDate": "2026-07-14",
+        "endDate": "2026-07-14",
+        "importance": 70,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/marillion_2026-07-14_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/marillion_2026-07-14_20/tickets/",
+        "summary": "Marillion play Tempodrom as part of their Live 2026 summer tour. The Tempodrom page confirms Tuesday, 14 July 2026, with showtime listed for the evening.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-lollapalooza-jul-2026",
+        "title": "Lollapalooza Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-19",
+        "importance": 96,
+        "venueName": "Olympiastadion & Olympiapark Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.lollapaloozade.com/en/lineup/",
+        "ticketUrl": "https://www.lollapaloozade.com/en/tickets/",
+        "summary": "Lollapalooza Berlin returns to Olympiastadion and Olympiapark on 18–19 July 2026. The official lineup page lists Pitbull, Lewis Capaldi, Lorde, Ayliva, Teddy Swims, Lily Allen, Zara Larsson, Anitta, Artbat, Boys Noize and more.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-charlotte-de-witte-valley-jul-2026",
+        "title": "Charlotte de Witte",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 84,
+        "venueName": "Valley / RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2421200",
+        "ticketUrl": "https://www.ticketmaster.de/",
+        "summary": "Charlotte de Witte plays an exclusive Berlin show at Valley on 18 July 2026. Resident Advisor confirms the date, 16:00–22:00 timing, venue address on Schnellerstraße, and Charlotte de Witte as the listed artist.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-house-of-pride-jul-2026",
+        "title": "House of Pride 2026 – Official Berlin Pride Main Party",
+        "type": "club-night",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 78,
+        "venueName": "AQUAHŌFE Berlin",
+        "venueId": null,
+        "sourceUrl": "https://csd-berlin.de/en/official-parties-2026",
+        "ticketUrl": "https://club.ritterbutzke.com/",
+        "summary": "House of Pride is the official CSD Berlin main party, starting Saturday, 25 July 2026 at 21:00 at AQUAHŌFE Berlin. Berlin Pride’s official page describes 7 areas and music spanning techno, melodic techno, house, vocal house, pop, disco, funk and electronic anthems.",
+        "genres": [
+          "house",
+          "techno",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

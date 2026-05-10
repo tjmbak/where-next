@@ -1,0 +1,173 @@
+{
+  "slug": "tulum",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:04:43.018Z",
+  "responseId": "resp_0f1fa1bb8dd09fee0069ff5ab7fa2c8195a0759e9931351ba2",
+  "searchCalls": 9,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 2,
+    "year": 2026,
+    "notes": "February's confirmed music calendar in Tulum was centered on post-Zamna beach-club and jungle-side electronic programming at venues including Vagalume, Papaya Playa Project, Arena, Bonbonniere and Nômade.",
+    "events": [
+      {
+        "id": "tulum-this-place-sideral-2026",
+        "title": "this.place w. Sideral (Habitat, Afterlife)",
+        "type": "residency",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-11",
+        "importance": 73,
+        "venueName": "Vagalume Beach Club Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2344787",
+        "ticketUrl": null,
+        "summary": "The fourth and closing this.place residency event at Vagalume featured Sideral, Pysh and Irena Stanisic. The bill leaned into deep, melodic and contemporary electronic sounds.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-shavora-arena-2026",
+        "title": "SHAVORÃ featuring Yawanawá Leaders, JPool, Xamonika, Maibe Beats, John Transcend with Chëlla",
+        "type": "concert",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-12",
+        "importance": 72,
+        "venueName": "Arena",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2363288",
+        "ticketUrl": "https://buytickets.at",
+        "summary": "Arena hosted a hybrid ceremonial music and electronic program with Yawanawá leaders, JPool, Xamonika, Maibe Beats and John Transcend with Chëlla. The published schedule included acoustic medicine music, a Yawanawá concert segment and a JPool hybrid DJ/live set.",
+        "genres": [
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "tulum-mixmag-claptone-2026",
+        "title": "Claptone & More Artists x Mixmag",
+        "type": "club-night",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 84,
+        "venueName": "Vagalume Beach Club Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2368652",
+        "ticketUrl": null,
+        "summary": "Mixmag's Vagalume date was headlined by Claptone with VITE, Aaron Reynoso, Dirtee Disco, Muslija and Womack. The event was billed as a long-form house-focused beach-club session.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-alan-dixon-bonbonniere-2026",
+        "title": "Alan Dixon at Bonbonniere Tulum",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 70,
+        "venueName": "Bonbonniere Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2369852",
+        "ticketUrl": null,
+        "summary": "Bonbonniere Tulum presented Alan Dixon with XANDRO on February 20. The RA listing classified the event under house and funk/soul.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-ppp-mandy-2026",
+        "title": "PPP presents Music Journey by M.A.N.D.Y",
+        "type": "beach-club",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 77,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/ppp-presents-saturday-celebration-music-journey-by-m-a-n-d-y-21feb2026",
+        "ticketUrl": "https://www.ticketfairy.com/event/ppp-presents-saturday-celebration-music-journey-by-m-a-n-d-y-21feb2026",
+        "summary": "Papaya Playa Project's Saturday Celebration listed M.A.N.D.Y. for a beachfront Music Journey on February 21. Resident Advisor also listed Jo.Ke and DJ Freshh on the lineup for this date.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-peces-raros-arena-2026",
+        "title": "Peces Raros DJ Set - Arena Lunar x Lostnights",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 76,
+        "venueName": "Arena",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2359374",
+        "ticketUrl": "https://buytickets.at",
+        "summary": "Arena Lunar and Lostnights presented an electronic night led by Peces Raros DJ Set at Arena Tulum. The published program listed WEBETTERFLYTOMARS!, Julito and Peces Raros across the evening.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "tulum-airrica-bonbonniere-2026",
+        "title": "AIRRICA x Bonbonniere Tulum",
+        "type": "club-night",
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "importance": 72,
+        "venueName": "Bonbonniere Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2370210",
+        "ticketUrl": null,
+        "summary": "Bonbonniere Tulum booked AIRRICA with XANDRO for a late-night February 26 event. The event was listed by the venue's promoter Sun and Flower Agency.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-nomade-origins-juicifer-2026",
+        "title": "Nômade Presents Origins: Juicifer",
+        "type": "club-night",
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "importance": 63,
+        "venueName": "Nômade Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2376605",
+        "ticketUrl": null,
+        "summary": "Nômade Tulum's Origins night featured Jose Noventa, also known as Juicifer. The listing described his sound as blending house, deep house, downtempo and world music influences.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-sinner-anniversary-2026",
+        "title": "Sinner 5th Anniversary",
+        "type": "residency",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 80,
+        "venueName": "Vagalume Beach Club Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2361855",
+        "ticketUrl": null,
+        "summary": "Sinner marked its fifth anniversary at Vagalume with Raxon B2B Shall Ocin, VITE + Miganova, SIB and RENÊ. The party is a recurring boutique electronic series created by VITE and Miganova.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

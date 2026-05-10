@@ -1,0 +1,72 @@
+{
+  "_note": "Already added to the dataset. Kept here as a reference profile.",
+
+  "slug": "reykjavik",
+  "city": "Reykjavik",
+  "country": "Iceland",
+  "region": "Europe",
+  "coordinates": { "lat": 64.1466, "lng": -21.9426 },
+
+  "tagline": "Iceland Airwaves, midnight-sun warehouses, and the world's quirkiest music city.",
+  "summary": "Reykjavik runs two distinct music seasons — Iceland Airwaves in early November fills cafés, churches, and clubs with a 200+ artist multi-venue program, while June's midnight sun powers warehouse parties around Bryggjan Brugghús and a strong rooftop program at Harpa concert hall.",
+
+  "activeMonths": [6, 7, 8, 9, 11],
+  "peakMonths": [6, 11],
+  "genres": ["electronic", "festival", "pop", "jazz"],
+  "vibes": ["city", "festival", "underground", "cultural"],
+  "budget": "high",
+  "averageDailySpendUsd": { "low": 220, "high": 500 },
+
+  "whoFor": ["Iceland Airwaves travelers", "Midnight-sun festival fans", "Discovery-driven music nerds"],
+  "whenToBook": "Book Iceland Airwaves passes 4-6 months ahead — November sells out from August onward.",
+  "travelNotes": "Most venues cluster in the 101 postal code (downtown). Keflavík airport is 45 minutes from town by Flybus or shuttle.",
+
+  "peakHook": "Iceland Airwaves in early November and June's midnight-sun warehouse parties carve two distinct travel windows; the rest of the year is for hot springs, not headliners.",
+
+  "heroScenes": {
+    "peak": "Reykjavik harbor at midnight sun in June, Mount Esja silhouetted, the iconic Sun Voyager sculpture in the foreground, soft orange-pink Arctic light, no people",
+    "shoulder": "a Reykjavik street in deep winter, the Hallgrímskirkja church spire visible, fresh snow on rooftops and parked cars, soft cool blue light, no people",
+    "detail": "interior of a Reykjavik downtown café, bare wood walls, woolen blankets folded on bench seats, a single ceramic coffee cup steaming, soft warm low light, no people"
+  },
+
+  "venues": [
+    { "id": "iceland-airwaves", "name": "Iceland Airwaves", "type": "festival", "sceneTags": ["festival", "city", "cultural"], "officialUrl": "https://icelandairwaves.is/" },
+    { "id": "harpa-reykjavik", "name": "Harpa Concert Hall", "type": "venue", "sceneTags": ["city", "cultural"], "officialUrl": "https://www.harpa.is/" },
+    { "id": "gaukurinn", "name": "Gaukurinn", "type": "venue", "sceneTags": ["underground", "late-night"], "officialUrl": "https://www.gaukurinn.is/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "reykjavik-iceland-airwaves",
+      "title": "Iceland Airwaves",
+      "type": "festival",
+      "startMonth": 11, "startDay": 5, "endMonth": 11, "endDay": 8,
+      "importance": 90,
+      "summary": "Iceland Airwaves runs a multi-venue program across Reykjavik's downtown clubs, churches, and concert hall; one of Europe's most respected festivals for new-music discovery.",
+      "venueId": "iceland-airwaves",
+      "sourceUrl": "https://icelandairwaves.is/",
+      "genres": ["festival", "electronic", "pop"]
+    },
+    {
+      "id": "reykjavik-midnight-sun",
+      "title": "Midnight Sun Warehouse Parties",
+      "type": "club-night",
+      "startMonth": 6, "startDay": 15, "endMonth": 7, "endDay": 20,
+      "importance": 78,
+      "summary": "Around the summer solstice, Reykjavik's harbor warehouses run sunrise-to-sunrise sets leveraging 24-hour daylight; rooftop sessions at Harpa join the rotation.",
+      "sourceUrl": "https://www.visitreykjavik.is/",
+      "genres": ["electronic", "house"]
+    },
+    {
+      "id": "reykjavik-harpa-summer",
+      "title": "Harpa Summer Series",
+      "type": "residency",
+      "startMonth": 6, "startDay": 1, "endMonth": 8, "endDay": 31,
+      "importance": 75,
+      "summary": "Harpa's summer program runs nightly classical, jazz, and Icelandic-music shows in its glass-paneled hall on the harbor.",
+      "venueId": "harpa-reykjavik",
+      "sourceUrl": "https://www.harpa.is/",
+      "genres": ["jazz", "pop", "electronic"]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "slug": "aspen",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:42:13.435Z",
+  "responseId": "resp_0cb3b415f5d4ec660069ff636198ac8196863b4333358fcbf7",
+  "searchCalls": 24,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 leaned into Aspen’s late-season ski-party energy, with strong electronic bookings at Belly Up Aspen and on-mountain après concerts around Snowmass.",
+    "events": [
+      {
+        "id": "aspen-goldfish-cabin-2026",
+        "title": "GoldFish Live at The Cabin",
+        "type": "concert",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 76,
+        "venueName": "The Cabin on Snowmass",
+        "venueId": null,
+        "sourceUrl": "https://www.aspensnowmass.com/visit/events/goldfish-at-the-cabin",
+        "ticketUrl": null,
+        "summary": "South African duo GoldFish brought their house-driven live-electronic setup to The Cabin on Snowmass for a free mid-mountain concert presented with Belly Up Aspen.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-vintage-culture-2026",
+        "title": "Vintage Culture",
+        "type": "club-night",
+        "startDate": "2026-03-12",
+        "endDate": "2026-03-12",
+        "importance": 82,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/vintage-culture-3/",
+        "ticketUrl": null,
+        "summary": "Brazilian electronic headliner Vintage Culture played Belly Up Aspen with support from Doozie. The show was listed as a 21+ event with a 9:00 pm show time.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-clozee-2026",
+        "title": "CloZee",
+        "type": "club-night",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 78,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/clozee-3/",
+        "ticketUrl": null,
+        "summary": "French bass-music producer CloZee headlined Belly Up Aspen with Orenda opening. The event was confirmed by the venue for Friday, March 13, 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-beats-antique-2026",
+        "title": "Beats Antique",
+        "type": "concert",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-15",
+        "importance": 73,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/beats-antique/",
+        "ticketUrl": null,
+        "summary": "Beats Antique brought its theatrical world-fusion electronic show to Belly Up Aspen with Philia on support. The venue listed doors at 7:30 pm and show at 8:30 pm.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-matisyahu-2026",
+        "title": "An Evening With Matisyahu",
+        "type": "concert",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-18",
+        "importance": 72,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/an-evening-with-matisyahu/",
+        "ticketUrl": null,
+        "summary": "Matisyahu played a stripped-back evening at Belly Up Aspen, with the venue billing the show for Wednesday, March 18, 2026. The program highlighted songs from Live at Stubb’s, Ancient Child, and fan favorites.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-zeds-dead-mar20-2026",
+        "title": "Zeds Dead",
+        "type": "club-night",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 85,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://www.axs.com/events/1267376/zeds-dead-21-event-tickets",
+        "ticketUrl": null,
+        "summary": "Canadian electronic duo Zeds Dead headlined Belly Up Aspen as a 21+ late-night event. AXS listed the show for Friday, March 20, 2026 at 10:00 pm.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "aspen-gary-clark-jr-2026",
+        "title": "An Evening w/ Gary Clark Jr",
+        "type": "concert",
+        "startDate": "2026-03-23",
+        "endDate": "2026-03-23",
+        "importance": 83,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/an-evening-w-gary-clark-jr/",
+        "ticketUrl": null,
+        "summary": "Grammy-winning guitarist and vocalist Gary Clark Jr played Belly Up Aspen on March 23. The venue listed the performance as an all-ages show with a 9:00 pm start.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "aspen-vandelux-2026",
+        "title": "Vandelux",
+        "type": "club-night",
+        "startDate": "2026-03-26",
+        "endDate": "2026-03-26",
+        "importance": 70,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/vandelux-3/",
+        "ticketUrl": null,
+        "summary": "Electronic artist Vandelux played a sold-out 21+ show at Belly Up Aspen with Tyler Mann opening. The venue listed doors at 8:30 pm and show at 9:30 pm.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-spring-jam-2026",
+        "title": "Spring Jam",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 80,
+        "venueName": "Aspen Snowmass",
+        "venueId": null,
+        "sourceUrl": "https://www.aspensnowmass.com/visit/events/spring-jam",
+        "ticketUrl": null,
+        "summary": "Aspen Snowmass’s 25th Spring Jam returned March 27–29 with competitions, downtown concerts, parties, Hi-Fi Concert Series programming, and late-night KickAspen skiing.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-pigeons-playing-ping-pong-2026",
+        "title": "Pigeons Playing Ping Pong",
+        "type": "concert",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 72,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/pigeons-playing-ping-pong-3/",
+        "ticketUrl": null,
+        "summary": "Baltimore jam-funk band Pigeons Playing Ping Pong closed out the month at Belly Up Aspen with Jewel House opening. The venue listed the March 29 show for 8:00 pm.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "los-angeles",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:08:35.509Z",
+  "responseId": "resp_00ec493455f74c7e0069ff5b8843d48195ab68500ba045141e",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is unusually festival-heavy around Los Angeles, with electronic, K-pop, indie, hardcore and Hollywood Bowl summer programming all clustering in the same month.",
+    "events": [
+      {
+        "id": "los-angeles-hard-summer-2026",
+        "title": "HARD Summer Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-02",
+        "importance": 96,
+        "venueName": "Hollywood Park",
+        "venueId": null,
+        "sourceUrl": "https://www.sofistadium.com/news/detail/hard-summer-music-festival-announces-lineup-for-2026-edition",
+        "ticketUrl": "https://www.hardsummer.com/",
+        "summary": "HARD Summer returns to Hollywood Park in Inglewood for a two-day electronic festival. The announced 2026 lineup includes Kali Uchis, Knock2 B2B Zedd, DJ Snake, Tokischa, Shygirl presents Club Shy, Charlotte de Witte, Amelie Lens, Mau P, RL Grime and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "los-angeles-st-vincent-bowl-orchestra-2026",
+        "title": "St. Vincent with the Hollywood Bowl Orchestra",
+        "type": "concert",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 76,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://ucarecdn.com/f20374bb-766f-4f05-a19c-68b6b0120629/-/inline/yes/",
+        "ticketUrl": "https://www.hollywoodbowl.com/",
+        "summary": "St. Vincent performs with the Hollywood Bowl Orchestra as part of the Bowl’s 2026 summer season. Anoushka Shankar is listed as the opener for the KCRW Festival night.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-ed-sheeran-loop-tour-2026",
+        "title": "Ed Sheeran: LOOP Tour",
+        "type": "concert",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 90,
+        "venueName": "SoFi Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.sofistadium.com/events/detail/ed-sheeran-august-8-2026",
+        "ticketUrl": "https://www.axs.com/events/1146744/ed-sheeran-tickets",
+        "summary": "Ed Sheeran brings his LOOP Tour to SoFi Stadium in Inglewood. The venue listing names Myles Smith, Sigrid and Aaron Rowe as supporting artists.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-head-in-the-clouds-2026",
+        "title": "Head In The Clouds Los Angeles 2026",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 88,
+        "venueName": "Brookside at the Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.jambase.com/festival/head-in-the-clouds-los-angeles-2026",
+        "ticketUrl": "https://la.hitcfestival.com/",
+        "summary": "88rising and Goldenvoice’s Head In The Clouds returns as a one-day Pasadena festival. The listed lineup includes KATSEYE, XG, Rich Brian, UMI, Warren Hue, KiiiKiii, DaBin, Gia Fu and more.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-rufus-du-sol-kia-forum-2026",
+        "title": "RÜFÜS DU SOL: North America 2026",
+        "type": "concert",
+        "startDate": "2026-08-11",
+        "endDate": "2026-08-11",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/rufus-du-sol-north-america-2026-inglewood-california-08-11-2026/event/09006455E5EDE39D",
+        "ticketUrl": "https://www.ticketmaster.com/rufus-du-sol-north-america-2026-inglewood-california-08-11-2026/event/09006455E5EDE39D",
+        "summary": "Australian electronic trio RÜFÜS DU SOL plays Kia Forum in Inglewood on its North America 2026 tour. The event is listed by Ticketmaster for 7:30 PM.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-kcon-la-2026",
+        "title": "KCON LA 2026",
+        "type": "conference",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-16",
+        "importance": 92,
+        "venueName": "Crypto.com Arena and Los Angeles Convention Center",
+        "venueId": null,
+        "sourceUrl": "https://www.forbes.com/sites/jeffbenjamin/2026/03/26/kcon-la-2026-lineup-nct-127-txt-zerobaseone-headlining/",
+        "ticketUrl": "https://www.laconventioncenter.com/events/detail/kcon-la-2026",
+        "summary": "KCON LA returns downtown with K-pop performances and fan programming at Crypto.com Arena and the Los Angeles Convention Center. Reported headliners include NCT 127, TOMORROW X TOGETHER and ZEROBASEONE.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-al-green-hollywood-bowl-2026",
+        "title": "Al Green · The Womack Sisters",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 78,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://ucarecdn.com/f20374bb-766f-4f05-a19c-68b6b0120629/-/inline/yes/",
+        "ticketUrl": "https://www.hollywoodbowl.com/",
+        "summary": "Soul legend Al Green headlines the Hollywood Bowl, with The Womack Sisters opening. The LA Phil season announcement lists the concert for Friday, August 14 at 8 PM.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-sound-and-fury-2026",
+        "title": "Sound and Fury Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-16",
+        "importance": 83,
+        "venueName": "Exposition Park",
+        "venueId": null,
+        "sourceUrl": "https://soundandfury.la/",
+        "ticketUrl": "https://lfg.soundandfury.la/e/sound-and-fury-2026/tickets",
+        "summary": "Sound and Fury returns to Exposition Park for two days of hardcore, punk, metal and adjacent underground music. The official announcement lists Angel Du$t, Obituary, Incendiary, Saves The Day, Sextile, Koyo, Merauder and more.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-noah-kahan-great-divide-2026",
+        "title": "Noah Kahan: The Great Divide Tour",
+        "type": "concert",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-15",
+        "importance": 86,
+        "venueName": "Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/noah-kahan-the-great-divide-tour-pasadena-california-08-15-2026/event/0B0064417CB517BA",
+        "ticketUrl": "https://www.ticketmaster.com/noah-kahan-the-great-divide-tour-pasadena-california-08-15-2026/event/0B0064417CB517BA",
+        "summary": "Noah Kahan brings The Great Divide Tour to the Rose Bowl in Pasadena. Ticketmaster lists the stadium show for Saturday, August 15 at 6:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-herbie-hancock-miles-davis-2026",
+        "title": "Herbie Hancock Celebrates Miles Davis",
+        "type": "concert",
+        "startDate": "2026-08-19",
+        "endDate": "2026-08-19",
+        "importance": 80,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://ucarecdn.com/f20374bb-766f-4f05-a19c-68b6b0120629/-/inline/yes/",
+        "ticketUrl": "https://www.hollywoodbowl.com/",
+        "summary": "Herbie Hancock leads a Hollywood Bowl celebration of Miles Davis’ centennial. The LA Phil announcement lists the concert for Wednesday, August 19 at 8 PM.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "los-angeles-just-like-heaven-2026",
+        "title": "Just Like Heaven 2026",
+        "type": "festival",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 91,
+        "venueName": "Brookside at the Rose Bowl Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.visitpasadena.com/events/just-like-heaven/",
+        "ticketUrl": "https://www.justlikeheavenfest.com/",
+        "summary": "Goldenvoice’s Just Like Heaven returns to Brookside at the Rose Bowl for a single-day indie and electro-dance festival. The lineup includes The Strokes, LCD Soundsystem, TV Girl, Chromeo, The Rapture, Feist, Twin Peaks, Matt and Kim, Dayglow and more.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-foo-fighters-la-phil-2026",
+        "title": "Celebrating Gustavo at the Bowl: Foo Fighters with the LA Phil and YOLA",
+        "type": "concert",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 89,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://ucarecdn.com/f20374bb-766f-4f05-a19c-68b6b0120629/-/inline/yes/",
+        "ticketUrl": "https://www.hollywoodbowl.com/",
+        "summary": "Foo Fighters join the Los Angeles Philharmonic and Youth Orchestra Los Angeles for a one-night Celebrating Gustavo at the Bowl performance. The LA Phil announcement lists the show for Saturday, August 22 at 8 PM.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

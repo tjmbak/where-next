@@ -1,0 +1,212 @@
+{
+  "slug": "barcelona",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:49:44.107Z",
+  "responseId": "resp_027951b064d80f420069ff5722d79c8194a314c90e47b087b0",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is anchored by large electronic gatherings—Circuit Festival and Brunch Electronik—alongside strong Razzmatazz concert programming.",
+    "events": [
+      {
+        "id": "barcelona-circuit-festival-2026",
+        "title": "Circuit Festival Barcelona 2026",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-09",
+        "importance": 95,
+        "venueName": "Various venues",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "summary": "Matinée Group’s Circuit Festival runs from 1 to 9 August 2026 across several Barcelona-area venues, with Ticketmaster listing 17 ticketed entries and the festival description promising 13 party events with DJs.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-circuit-water-park-day-2026",
+        "title": "Circuit Festival: Water Park Day",
+        "type": "club-night",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-04",
+        "importance": 88,
+        "venueName": "Illa Fantasia",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "summary": "Circuit’s signature Water Park Day is confirmed for 4 August 2026 at Illa Fantasia in Vilassar de Dalt, with day, night and combined ticket options listed by Ticketmaster.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-circuit-main-event-2026",
+        "title": "Circuit Festival: The Main Event",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 90,
+        "venueName": "Fira 2 Barcelona Gran Via",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "summary": "The Main Event, Circuit Festival’s large-scale Saturday night party, is confirmed for 8 August 2026 at Fira 2 Barcelona Gran Via in L’Hospitalet de Llobregat.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-happy-techno-2026",
+        "title": "Happy Techno at La Terrrazza Barcelona - Open Air / Daytime",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 70,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395450",
+        "ticketUrl": "https://ra.co/events/2395450",
+        "summary": "Happy Techno’s open-air daytime edition at La Terrrazza is confirmed for 1 August 2026, with Stefano Noferini, Lexlay, Cris Ocaña and Shitake listed on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-sight-claptone-2026",
+        "title": "SIGHT pres. Claptone, Alexanders Som, Luka Kuhnow",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 78,
+        "venueName": "Ku Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431738",
+        "ticketUrl": "https://ra.co/events/2431738",
+        "summary": "SIGHT’s Sunday Barcelona party is confirmed for 2 August 2026 at Ku Barcelona, headlined by Claptone with Alexanders Som and Luka Kuhnow.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-black-label-society-2026",
+        "title": "Black Label Society UK / EU Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-04",
+        "importance": 72,
+        "venueName": "Sala Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/agenda/04-08-2026-black-label-society-uk-eu-tour-2026/",
+        "ticketUrl": "https://www.salarazzmatazz.com/agenda/04-08-2026-black-label-society-uk-eu-tour-2026/",
+        "summary": "Black Label Society plays Razzmatazz on 4 August 2026, with Thundermother and Thrown Into Exile confirmed as support acts.",
+        "genres": []
+      },
+      {
+        "id": "barcelona-high-on-fire-2026",
+        "title": "High On Fire - European Tour Summer 2026",
+        "type": "concert",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 70,
+        "venueName": "Sala Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/ca/agenda/05-08-2026-high-on-fire/",
+        "ticketUrl": "https://www.salarazzmatazz.com/ca/agenda/05-08-2026-high-on-fire/",
+        "summary": "Grammy-winning metal band High On Fire is confirmed for Razzmatazz Sala 2 on 5 August 2026 as part of its European Tour Summer 2026.",
+        "genres": []
+      },
+      {
+        "id": "barcelona-brunch-electronik-2026",
+        "title": "Brunch Electronik Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-09",
+        "importance": 95,
+        "venueName": "Parc del Fòrum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2234024",
+        "ticketUrl": "https://ra.co/events/2234024",
+        "summary": "Brunch Electronik Festival is confirmed at Parc del Fòrum from 7 to 9 August 2026, with a large electronic lineup including Eric Prydz, Kaytranada, Jeff Mills, Paul Kalkbrenner, CamelPhat, The Blaze DJ set, I Hate Models, Floating Points live and many more.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "barcelona-hunee-la-terrrazza-2026",
+        "title": "Hunee with Piem, Hector Romero and Nesi",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 72,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://music.apple.com/jo/concerts/ce.b2347f8f-18c6-4137-b07c-71b6e2c61d68",
+        "ticketUrl": null,
+        "summary": "Hunee is listed for an open-air La Terrrazza date on 8 August 2026, joined by Piem, Hector Romero and Nesi.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-amyl-and-the-sniffers-2026",
+        "title": "Amyl And The Sniffers",
+        "type": "concert",
+        "startDate": "2026-08-18",
+        "endDate": "2026-08-18",
+        "importance": 78,
+        "venueName": "Sala Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/agenda/2026-08-18-amyl-and-the-sniffers/",
+        "ticketUrl": "https://www.salarazzmatazz.com/agenda/2026-08-18-amyl-and-the-sniffers/",
+        "summary": "Amyl and The Sniffers return to Barcelona for a sold-out Razzmatazz Sala 1 show on 18 August 2026.",
+        "genres": []
+      },
+      {
+        "id": "barcelona-compota-de-manana-2026",
+        "title": "Compota de Manana - MASiMAS Festival 2026",
+        "type": "concert",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 76,
+        "venueName": "Sala Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/agenda/2026-08-29-compota-de-manana-masimas-festival-2026/",
+        "ticketUrl": "https://www.salarazzmatazz.com/agenda/2026-08-29-compota-de-manana-masimas-festival-2026/",
+        "summary": "MASiMAS Festival presents Barcelona-based Latin avant-garde group Compota de Manana at Razzmatazz Sala 2 on 29 August 2026.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "barcelona-hermanos-gutierrez-2026",
+        "title": "Hermanos Gutierrez",
+        "type": "concert",
+        "startDate": "2026-08-31",
+        "endDate": "2026-08-31",
+        "importance": 75,
+        "venueName": "Gran Teatre del Liceu",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/hermanos-gutierrez-entradas/1365979689",
+        "ticketUrl": "https://www.ticketmaster.es/event/hermanos-gutierrez-entradas/1365979689",
+        "summary": "Instrumental duo Hermanos Gutierrez are confirmed for Gran Teatre del Liceu on 31 August 2026, with Ticketmaster listing an 20:30 start time.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

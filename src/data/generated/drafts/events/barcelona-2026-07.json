@@ -1,0 +1,206 @@
+{
+  "slug": "barcelona",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:49:42.335Z",
+  "responseId": "resp_03247a17695591280069ff5722b5388195820b3261e6945a6c",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually dense in Barcelona, with major open-air festival programming at Parc del Fòrum/Pedralbes plus arena-scale Latin and pop concerts on Montjuïc.",
+    "events": [
+      {
+        "id": "barcelona-les-nits-occident-2026",
+        "title": "Les Nits Occident 2026",
+        "type": "festival",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-21",
+        "importance": 88,
+        "venueName": "Jardins del Palau de Pedralbes",
+        "venueId": null,
+        "sourceUrl": "https://lesnitsoccident.com/",
+        "ticketUrl": "https://tickets.oneboxtds.com/lesnitsdebarcelonapalaupedralbes/events/50314?hl=ca-ES",
+        "summary": "Summer concert series in the Pedralbes gardens with confirmed July shows by Taburete, Mika, Sting, Raphael, Vanesa Martín, ZAZ, Il Volo, Las Migas, Rosario, Pablo López, Diana Krall and Gente de Zona.",
+        "genres": [
+          "pop",
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "barcelona-barts-festival-2026",
+        "title": "BARTS Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-28",
+        "endDate": "2026-07-24",
+        "importance": 84,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://barts.cat/",
+        "ticketUrl": "https://www.enterticket.es/",
+        "summary": "BARTS returns as a summer festival at Poble Espanyol, running from late June through July with confirmed July dates including Joan Dausà, M-Clan and Marta Santos among the listed programme.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "barcelona-cruilla-festival-2026",
+        "title": "Festival Cruïlla 2026",
+        "type": "festival",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-11",
+        "importance": 95,
+        "venueName": "Parc del Fòrum",
+        "venueId": null,
+        "sourceUrl": "https://www.cruillabarcelona.cat/es/festival-cruilla/",
+        "ticketUrl": "https://www.cruillabarcelona.cat/es/festival-cruilla/entradas/",
+        "summary": "Four-day flagship Barcelona festival at Parc del Fòrum with confirmed artists including Halsey, Pixies, David Byrne, Faithless, The Black Crowes, The Hives, Rigoberta Bandini, Garbage and Jon Batiste.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-ot-2025-palau-sant-jordi-2026",
+        "title": "OT 2025 en Concierto",
+        "type": "concert",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 72,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/ot-2025",
+        "ticketUrl": "https://www.entradas.com/event/operacion-triunfo-2025-conciertos-ot-2025-palau-sant-jordi-20896617/",
+        "summary": "The Operación Triunfo 2025 concert tour stops at Palau Sant Jordi for a large-scale pop show on July 10.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-stephan-bodzin-seaseaclub-2026",
+        "title": "TSOA: Stephan Bodzin Live (Open Air)",
+        "type": "club-night",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 73,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2387915",
+        "ticketUrl": "https://ra.co/events/2387915",
+        "summary": "The Society of Art presents an open-air Seasea Club date headlined by Stephan Bodzin live, with Tharat, Agatha Pher and MøønkiZa also listed.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-molotov-mala-rodriguez-2026",
+        "title": "Molotov & Mala Rodríguez",
+        "type": "concert",
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-13",
+        "importance": 76,
+        "venueName": "Sant Jordi Club",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/molotov-mala-rodriguez",
+        "ticketUrl": "https://ticket.deputamadreclub.eu/",
+        "summary": "Molotov’s 2026 European tour pairs with Spanish rap figure Mala Rodríguez for a double-bill night at Sant Jordi Club.",
+        "genres": [
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "barcelona-yandel-palau-sant-jordi-2026",
+        "title": "Yandel",
+        "type": "concert",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 79,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://estadiolimpic.barcelona/en/yandel",
+        "ticketUrl": "https://www.ticketmaster.es/",
+        "summary": "Reggaeton artist Yandel brings a seated Palau Sant Jordi show to Barcelona on July 17, promoted by Iglesias Entertainment.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "barcelona-soundit-festival-2026",
+        "title": "SOUNDIT Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-18",
+        "importance": 90,
+        "venueName": "Parc Nou, El Prat de Llobregat",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2219904",
+        "ticketUrl": "https://ra.co/events/2219904",
+        "summary": "Two-day electronic festival returning to Parc Nou with four stages; the confirmed lineup includes 2ManyDJs, Helena Hauff, Honey Dijon, John Talabot, DVS1, Nina Kraviz, Oscar Mulero and Skee Mask b2b Stenny.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-chayanne-palau-sant-jordi-2026",
+        "title": "Chayanne — Bailemos Otra Vez Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 78,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://estadiolimpic.barcelona/en/chayanne-0",
+        "ticketUrl": "https://tickets.oneboxtds.com/",
+        "summary": "Chayanne brings the Bailemos Otra Vez Tour 2026 to Palau Sant Jordi, with the venue page confirming the July 22 Barcelona date.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-cook-music-don-omar-beele-2026",
+        "title": "Cook Music Fest Special Edition: Don Omar + Beéle",
+        "type": "concert",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-23",
+        "importance": 86,
+        "venueName": "Estadi Olímpic Lluís Companys",
+        "venueId": null,
+        "sourceUrl": "https://cookmusicfest.es/especial-edition-barcelona/",
+        "ticketUrl": "https://cookmusicfest.es/especial-edition-barcelona/",
+        "summary": "Cook Music Fest’s Barcelona special edition brings Don Omar to Estadi Olímpic de Montjuïc, with Beéle confirmed as guest artist on the same July 23 date.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "barcelona-nicola-cruz-output-2026",
+        "title": "Output pres. Nicola Cruz",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-24",
+        "importance": 72,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2325642",
+        "ticketUrl": "https://ra.co/events/2325642",
+        "summary": "Output presents Nicola Cruz at Seaseaclub Barcelona, with Javier Carballo, Tamarindo and Mariiin also listed across the open-air and club segments.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

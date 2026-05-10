@@ -1,0 +1,206 @@
+{
+  "slug": "amsterdam",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:56:03.640Z",
+  "responseId": "resp_0c8798afe0f27ac40069ff589ebd448191a2513b37c3749ec0",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually stacked in Amsterdam, with stadium pop/R&B runs, Pride-linked club events, and major outdoor electronic and multicultural festivals clustered around the final two weekends.",
+    "events": [
+      {
+        "id": "amsterdam-bruno-mars-jul-2026",
+        "title": "Bruno Mars – The Romantic Tour",
+        "type": "concert",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-07",
+        "importance": 94,
+        "venueName": "Johan Cruijff ArenA",
+        "venueId": null,
+        "sourceUrl": "https://www.mojo.nl/concerten/bruno-mars",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/bruno-mars-tickets/346863?language=en-us",
+        "summary": "Bruno Mars brings The Romantic Tour to Johan Cruijff ArenA for an Amsterdam run on July 2, 4, 5 and 7, with Anderson .Paak as DJ Pee .Wee and Victoria Monét listed as special guests.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "amsterdam-multigroove-festival-2026",
+        "title": "Multigroove Festival",
+        "type": "festival",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 80,
+        "venueName": "Gaasperplas",
+        "venueId": null,
+        "sourceUrl": "https://www.multigroove.nl/events/multigroove-festival-2026",
+        "ticketUrl": "https://www.multigroove.nl/events/multigroove-festival-2026",
+        "summary": "Amsterdam rave institution Multigroove returns to Gaasperplas for a full-day harder-styles event, with artists including Catscan, Dano, The Darkraver, DJ Isaac, Partyraiser, Promo and Ruffneck.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-madness-afas-2026",
+        "title": "Madness",
+        "type": "concert",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-07",
+        "importance": 70,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/madness",
+        "ticketUrl": "https://www.eventim.nl/",
+        "summary": "British ska-pop veterans Madness play AFAS Live on July 7, returning to the Amsterdam venue with a show built around their long-running catalogue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-joy-flow-festival-2026",
+        "title": "JOY x FLOW Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 82,
+        "venueName": "Hembrugterrein",
+        "venueId": null,
+        "sourceUrl": "https://joyxflowfestival.nl/",
+        "ticketUrl": "https://weeztix.shop/",
+        "summary": "JOY and FLOW join forces at Hembrugterrein on the edge of Amsterdam/Zaanstad, with three stages and a house-led lineup including Franky Rizardo, Prunk, Sidney Charles, Benny Rodrigues b2b Dennis Quin and Luuk van Dijk b2b L.P. Rhythm.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-kwaku-summer-festival-2026",
+        "title": "Kwaku Summer Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-08-02",
+        "importance": 86,
+        "venueName": "Nelson Mandela Park",
+        "venueId": null,
+        "sourceUrl": "https://kwakufestival.nl/",
+        "ticketUrl": "https://tickets.kwakufestival.nl/",
+        "summary": "Kwaku Summer Festival returns to Nelson Mandela Park from July 11 to August 2, combining live music, food and cultural programming. Confirmed Friday Night Concert names on the festival site include En Vogue, Broederliefde and Kassav’.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "amsterdam-festival-macumba-2026",
+        "title": "Festival Macumba",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 76,
+        "venueName": "De Ven, Spaarnwoude",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalmacumba.nl/",
+        "ticketUrl": "https://www.festivalmacumba.nl/",
+        "summary": "Festival Macumba brings Latin music to De Ven in Spaarnwoude near Amsterdam, with confirmed live and DJ acts including Elena Rose, La Cendejas, Gia Fu, Gerardo Rosales y su Salsa Legendaria and Fiesta Macumba Soundsystem.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-james-taylor-afas-2026",
+        "title": "James Taylor and His All-Star Band",
+        "type": "concert",
+        "startDate": "2026-07-21",
+        "endDate": "2026-07-21",
+        "importance": 73,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/james-taylor",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "James Taylor performs at AFAS Live on July 21 with his All-Star Band, in a seated singer-songwriter concert promoted by MOJO.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-milkshake-festival-2026",
+        "title": "Milkshake Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 88,
+        "venueName": "Westerpark Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://www.milkshakefestival.com/events/milkshake2026",
+        "ticketUrl": "https://www.milkshakefestival.com/events/milkshake2026",
+        "summary": "Milkshake Festival returns to Westerpark on July 25 and 26 as an open-minded dance festival rooted in electronic, house, disco, pop, techno, R&B and dancehall programming.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-dekmantel-festival-2026",
+        "title": "Dekmantel Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-29",
+        "endDate": "2026-08-02",
+        "importance": 96,
+        "venueName": "Amsterdamse Bos, Oude Kerk, Melkweg and Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://dekmantel.com/editorial/dekmantel-festival-2026-2",
+        "ticketUrl": "https://dekmantelfestival.com/",
+        "summary": "Dekmantel’s 12th edition runs July 29 to August 2, expanding across Amsterdamse Bos and city venues with 160+ electronic acts. The announced programme includes DARKSIDE, Helena Hauff, Ricardo Villalobos, DJ Sprinkles, Skrillex and Underground Resistance.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "amsterdam-world-pride-music-festival-2026",
+        "title": "World Pride Music Festival",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-01",
+        "importance": 88,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://worldpridefest.com/hours-and-info/",
+        "ticketUrl": "https://www.tixr.com/",
+        "summary": "World Pride Music Festival is confirmed for July 31 and August 1 at AFAS Live, running from 22:00 to 07:00 each night as a large-scale Pride music event.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-xlsior-worldpride-2026",
+        "title": "XLSIOR Mykonos – Amsterdam edition",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-01",
+        "importance": 78,
+        "venueName": "Panama Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://pride.amsterdam/en/event/xlsior-mykonos-amsterdam-edition/",
+        "ticketUrl": "https://xlsiorfestival.com/",
+        "summary": "XLSIOR Mykonos debuts in Amsterdam on July 31 as part of WorldPride 2026 at Panama Amsterdam. The Pride Amsterdam listing names Eliad Cohen, JUNYO and Manuel Coby among the DJs for the Olympians edition.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "slug": "amsterdam",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:56:10.274Z",
+  "responseId": "resp_01beca86d443df210069ff58b6aa7c81a0b2a3eb75ef03838e",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is already anchored by major arena concerts, Concertgebouw special programs, and a packed 12 September festival weekend spanning Amsterdam urban culture and Ibiza-bred house/techno.",
+    "events": [
+      {
+        "id": "amsterdam-stars-in-concert-2026",
+        "title": "Stars in Concert: Nikola Meeuwsen, Emma Kok, Nicola Benedetti, Caro Emerald & Sonya Yoncheva",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 78,
+        "venueName": "Het Concertgebouw",
+        "venueId": null,
+        "sourceUrl": "https://www.concertgebouw.nl/en/concerts/45854079-stars-in-concert-nikola-meeuwsen-emma-kok-nicola-benedetti-caro-emerald-sonya-yoncheva",
+        "ticketUrl": null,
+        "summary": "A European Culture Prize concert bringing together Nikola Meeuwsen, Emma Kok, Nicola Benedetti, the Caro Emerald project, Sonya Yoncheva and the National Youth Orchestra of the Netherlands.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-kumar-sanu-anuradha-paudwal-2026",
+        "title": "Kumar Sanu & Anuradha Paudwal Live in Concert",
+        "type": "concert",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-06",
+        "importance": 72,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/kumar-sanu-anuradha-paudwal-live-in-concert",
+        "ticketUrl": null,
+        "summary": "Bollywood playback icons Kumar Sanu and Anuradha Paudwal perform a nostalgia-focused concert at AFAS Live, presented by Raga Events.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-ronnie-wood-paradiso-2026",
+        "title": "Ronnie Wood and his band",
+        "type": "concert",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-07",
+        "importance": 82,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/ronnie-wood/2855490",
+        "ticketUrl": null,
+        "summary": "Rolling Stones guitarist Ronnie Wood plays Paradiso with his band, marking a notable return 31 years after The Rolling Stones’ 1995 Paradiso appearances.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-melanie-martinez-2026",
+        "title": "Melanie Martinez: HADES: THE SACRIFICE",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 83,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.mojo.nl/concerten/melanie-martinez",
+        "ticketUrl": null,
+        "summary": "Melanie Martinez brings the HADES: THE SACRIFICE arena tour to Ziggo Dome, presenting her cinematic alt-pop universe in Amsterdam.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-waterboys-steve-earle-2026",
+        "title": "The Waterboys: The Fisherman’s Blues Revue featuring Steve Earle",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 77,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/the-waterboys",
+        "ticketUrl": null,
+        "summary": "The Waterboys perform a special Fisherman’s Blues Revue at AFAS Live with Steve Earle and returning fiddler Steve Wickham.",
+        "genres": []
+      },
+      {
+        "id": "amsterdam-hiromi-metropole-orkest-2026",
+        "title": "Hiromi & Metropole Orkest",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 74,
+        "venueName": "Het Concertgebouw",
+        "venueId": null,
+        "sourceUrl": "https://www.concertgebouw.nl/en/concerts/43931210-hiromi-metropole-orkest",
+        "ticketUrl": null,
+        "summary": "Pianist Hiromi joins the Metropole Orkest, conducted by Miho Hazama, for a jazz-fusion and orchestral program in the Concertgebouw Main Hall.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "amsterdam-parels-van-de-stad-2026",
+        "title": "Parels van de Stad 2026",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 88,
+        "venueName": "Riekerhaven",
+        "venueId": null,
+        "sourceUrl": "https://parelsvandestad.nl/",
+        "ticketUrl": null,
+        "summary": "Amsterdam’s urban culture festival returns to Riekerhaven for two days with 150+ artists across nine stages, including Yade Lauren, Lil Kleine, Jonna Fraser, Broederliefde, Monica Geuze and Idaly.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "amsterdam-circoloco-ndsm-2026",
+        "title": "Circoloco Amsterdam",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 86,
+        "venueName": "NDSM-werf",
+        "venueId": null,
+        "sourceUrl": "https://www.ndsm.nl/en/evenementen/circoloco",
+        "ticketUrl": "https://www.circolocoamsterdam.com",
+        "summary": "Circoloco brings its Ibiza underground house and techno brand back to NDSM-werf for a daytime electronic dance festival.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-fairuz-our-muse-2026",
+        "title": "Fairuz Our Muse, featuring Amsterdam Sinfonietta, Nai Barghouti & Wasim Arslan",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 72,
+        "venueName": "Het Concertgebouw",
+        "venueId": null,
+        "sourceUrl": "https://www.concertgebouw.nl/en/concerts/40359355-fairuz-our-muse-featuring-amsterdam-sinfonietta-nai-barghouti-wasim-arslan",
+        "ticketUrl": null,
+        "summary": "Amsterdam Sinfonietta, Nai Barghouti and Wasim Arslan perform a Concertgebouw tribute to Fairuz, curated as a cross-cultural homage to her repertoire.",
+        "genres": []
+      },
+      {
+        "id": "amsterdam-curated-by-break-2026",
+        "title": "Curated by Break",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 68,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/curated-by-break-19-09-2026/",
+        "ticketUrl": null,
+        "summary": "Drum & bass selector Break headlines Melkweg’s Curated by night, joined by Breakage, Kira, Nymfo, VOXI & Leks and Innate MC.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-blockhead-proleter-arms-sleepers-2026",
+        "title": "Blockhead, ProleteR, Arms and Sleepers",
+        "type": "concert",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "importance": 66,
+        "venueName": "Bitterzoet",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2404439",
+        "ticketUrl": null,
+        "summary": "Blockhead, ProleteR and Arms and Sleepers bring their autumn 2026 European tour to Bitterzoet for a night of instrumental hip-hop, downtempo and electronic grooves.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "amsterdam-anastacia-ntk-tour-2026",
+        "title": "Anastacia: #NTK Tour",
+        "type": "concert",
+        "startDate": "2026-09-29",
+        "endDate": "2026-09-29",
+        "importance": 75,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/anastacia",
+        "ticketUrl": null,
+        "summary": "Anastacia performs at AFAS Live on the #NTK Tour, celebrating the 25th anniversary of her debut album Not That Kind and her greatest hits.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

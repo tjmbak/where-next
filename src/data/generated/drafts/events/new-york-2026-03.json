@@ -1,0 +1,222 @@
+{
+  "slug": "new-york",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:11:02.358Z",
+  "responseId": "resp_035a7d02c0b874480069ff5c2e337c819ebc4798edef5d9744",
+  "searchCalls": 9,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in New York combined a Lower East Side discovery festival, arena-scale pop and R&B tours, and strong Brooklyn/Queens electronic programming.",
+    "events": [
+      {
+        "id": "new-york-new-colossus-festival-2026",
+        "title": "The New Colossus Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-08",
+        "importance": 88,
+        "venueName": "Various Lower East Side venues",
+        "venueId": null,
+        "sourceUrl": "https://www.newcolossusfestival.com/apply",
+        "ticketUrl": "https://www.newcolossusfestival.com/?lang=en",
+        "summary": "The New Colossus Festival returned as a six-day Lower East Side showcase for emerging international artists, with music programming alongside its Colossal Conversations conference component.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-love-rocks-nyc-2026",
+        "title": "Love Rocks NYC 2026",
+        "type": "concert",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 88,
+        "venueName": "Beacon Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/love-rocks-nyc-beacon-theatre-march-2026/3B006445A10C5C3E",
+        "ticketUrl": null,
+        "summary": "The 10th annual Love Rocks NYC benefit concert for God’s Love We Deliver took place at Beacon Theatre, with an all-star bill including Mary J. Blige, Hozier, Jon Batiste, Nile Rodgers & CHIC, Paul Simon, Trombone Shorty and Warren Haynes.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-photon-ben-klock-2026",
+        "title": "PHOTON: Ben Klock, Chlär live, Fadi Mohem, NEUX",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 82,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2322542",
+        "ticketUrl": "https://ra.co/events/2322542",
+        "summary": "Ben Klock brought his PHOTON audio-visual techno concept to Knockdown Center, joined by Chlär live, Fadi Mohem and NEUX.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-silence-wang-barclays-2026",
+        "title": "Silence Wang: The Rise of Romance World Tour",
+        "type": "concert",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-08",
+        "importance": 76,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/silence-wang-2026",
+        "ticketUrl": null,
+        "summary": "Chinese pop artist Silence Wang brought The Rise of Romance World Tour to Barclays Center for two Brooklyn dates on March 7 and 8.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-tedeschi-trucks-beacon-residency-2026",
+        "title": "Tedeschi Trucks Band Beacon Theatre Residency",
+        "type": "residency",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 84,
+        "venueName": "Beacon Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/tedeschi-trucks-band-beacon-theatre-march-2026/3B006365C4D26F3E",
+        "ticketUrl": null,
+        "summary": "Tedeschi Trucks Band returned to the Beacon Theatre for a March residency; this representative March 13 performance was part of the band’s 10-show run at the venue.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-new-edition-barclays-2026",
+        "title": "New Edition: The New Edition Way Tour",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 82,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/new-edition-2026",
+        "ticketUrl": null,
+        "summary": "New Edition brought The New Edition Way Tour to Barclays Center with Toni Braxton and Boyz II Men.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-lady-gaga-mayhem-ball-2026",
+        "title": "Lady Gaga: The MAYHEM Ball",
+        "type": "concert",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-20",
+        "importance": 96,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/lady-gaga-madison-square-garden-march-2026/3B006323A17C102E",
+        "ticketUrl": null,
+        "summary": "Lady Gaga brought The MAYHEM Ball to Madison Square Garden for March 19 and 20 performances.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-fka-twigs-msg-2026",
+        "title": "FKA twigs: Body High Tour",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 86,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/fka-twigs-tokischa-madison-square-garden-march-2026/3B00636B9DB73B28",
+        "ticketUrl": null,
+        "summary": "FKA twigs brought the Body High Tour to Madison Square Garden with special guest Tokischa.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-cardi-b-msg-2026",
+        "title": "Cardi B: Little Miss Drama Tour",
+        "type": "concert",
+        "startDate": "2026-03-25",
+        "endDate": "2026-03-26",
+        "importance": 90,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/cardi-b-madison-square-garden-march-2026/3B00632FED111BFB",
+        "ticketUrl": null,
+        "summary": "Cardi B brought the Little Miss Drama Tour to Madison Square Garden for two March dates.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-pan-pot-knockdown-2026",
+        "title": "Pan-Pot, ONYVAA",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 76,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2363499",
+        "ticketUrl": "https://ra.co/events/2363499",
+        "summary": "German techno duo Pan-Pot returned to Knockdown Center with ONYVAA, who made her Knockdown Center debut.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-millennium-tour-barclays-2026",
+        "title": "The Millennium Tour Presents: The Boys 4 Life Tour",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 78,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/b2k-2026",
+        "ticketUrl": null,
+        "summary": "The Millennium Tour’s Boys 4 Life Tour came to Barclays Center with B2K, Bow Wow, Waka Flocka, Amerie, Yung Joc, B5, Crime Mob, Dem Franchize Boyz and Pretty Ricky.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-meshell-ndegeocello-winter-jazzfest-2026",
+        "title": "Meshell Ndegeocello with Justin Hicks",
+        "type": "concert",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 82,
+        "venueName": "Pioneer Works",
+        "venueId": null,
+        "sourceUrl": "https://www.winterjazzfest.com/meshell-ndegeocello-3/29/26",
+        "ticketUrl": null,
+        "summary": "Winter Jazzfest presented Meshell Ndegeocello at Pioneer Works with Justin Hicks, after the show was moved from its original January date to March 29.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

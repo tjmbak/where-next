@@ -1,0 +1,214 @@
+{
+  "slug": "berlin",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:54:30.205Z",
+  "responseId": "resp_0e49f54d698696d50069ff583da3d08197af6147855c70434d",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 12,
+    "year": 2026,
+    "notes": "Berlin’s December 2026 calendar is already led by arena-scale German pop/hip-hop tours and seasonal concert runs, while most club lineups are not yet announced this far out.",
+    "events": [
+      {
+        "id": "berlin-sido-weihnachtsshow-2026",
+        "title": "SIDOs Weihnachtsshow 2026",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 88,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.columbiahalle.berlin/events.html",
+        "ticketUrl": null,
+        "summary": "Sido returns to Columbiahalle with his long-running Christmas show format, advertised by the venue as a festive evening with surprise guests from music and entertainment. The 2 December date is one of the confirmed 2026 performances listed by Columbiahalle.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-pur-uber-arena-2026",
+        "title": "PUR 2026",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 78,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.pur.de/events/2026-12-02-pur-uber-arena-1164794",
+        "ticketUrl": "https://www.pur.de/events/2026-12-02-pur-uber-arena-1164794",
+        "summary": "German pop band PUR open their 2026 arena tour at Uber Arena Berlin on 2 December 2026. The official artist site lists the Berlin date and ticket link.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-sarah-brightman-winter-symphony-2026",
+        "title": "Sarah Brightman: A Winter Symphony",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 74,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/sarah_brightman_2026-12-02_20/tickets/",
+        "ticketUrl": "https://www.tempodrom.de/event/sarah_brightman_2026-12-02_20/tickets/",
+        "summary": "Sarah Brightman brings her seasonal “A Winter Symphony” program to Tempodrom on 2 December 2026, with Tonči Huljić listed as support. The venue page confirms doors and start time for the Große Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-bap-uber-arena-2026",
+        "title": "BAP: Fünfzig Jahre – Die Zielgerade Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/bap/2026-12-08-1930",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/bap/2026-12-08-1930",
+        "summary": "Wolfgang Niedecken’s BAP play Uber Arena on 8 December 2026 as part of the band’s 50th-anniversary tour. The arena’s official event page confirms the date and tour title.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-inna-echoes-tour-2026",
+        "title": "INNA: Echoes Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 76,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/inna/2026-12-11-2000",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/inna/2026-12-11-2000",
+        "summary": "Romanian dance-pop artist INNA brings the Echoes Tour to Uber Eats Music Hall on 11 December 2026. The official venue page highlights her EDM, house and dance hits.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-nimo-velodrom-2026",
+        "title": "NIMO: Home Sweet Home Arena Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 83,
+        "venueName": "Velodrom Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
+        "ticketUrl": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
+        "summary": "German rapper Nimo plays Velodrom Berlin on 12 December 2026 on his Home Sweet Home Arena Tour. Velodrom describes the Berlin stop as part of a double-header in December.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-jerome-froese-privatclub-2026",
+        "title": "Jerome Froese: Rare Up Close – Live",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 70,
+        "venueName": "Privatclub",
+        "venueId": null,
+        "sourceUrl": "https://privatclub-berlin.de/events/3/?Itemid=32&extid=67&extmode=view&option=com_extcalendar",
+        "ticketUrl": "https://privatclub-berlin.de/events/3/?Itemid=32&extid=67&extmode=view&option=com_extcalendar",
+        "summary": "Jerome Froese performs at Privatclub on 12 December 2026, with the venue billing the show as electronic/guitartronica. The program includes solo work, reinterpreted Tangerine Dream material and new music.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-die-fantastischen-vier-final-tour-2026",
+        "title": "Die Fantastischen Vier: Der letzte Bus – Final Tour",
+        "type": "concert",
+        "startDate": "2026-12-17",
+        "endDate": "2026-12-17",
+        "importance": 84,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/die-fantastischen-vier-2",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/die-fantastischen-vier-2",
+        "summary": "German hip-hop pioneers Die Fantastischen Vier play Uber Arena Berlin on 17 December 2026. The official venue page lists the show as part of their final tour.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-no-angels-christmas-2026",
+        "title": "No Angels: It’s Christmas – Live in Berlin 2026",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 75,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/no-angels/2026-12-18-2000",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/no-angels/2026-12-18-2000",
+        "summary": "No Angels celebrate their Christmas album with an exclusive Berlin concert at Uber Eats Music Hall on 18 December 2026. The venue page confirms the date, doors and start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-northern-lite-christmas-show-2026",
+        "title": "Northern Lite: Christmas Show",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 72,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://www.astra-berlin.de/?month=12",
+        "ticketUrl": "https://www.astra-berlin.de/?month=12",
+        "summary": "Northern Lite’s Christmas Show is listed by Astra Kulturhaus for 19 December 2026. The venue schedule confirms the Saturday date, doors and 19:00 start.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-grobes-fest-astra-2026",
+        "title": "Grobes Fest 2026: Slime + Focus. + Rantanplan + Knochenfabrik",
+        "type": "festival",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-28",
+        "importance": 75,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/slime-grobes-fest-astra-kulturhaus-21584408/",
+        "ticketUrl": "https://www.eventim.de/en/event/slime-grobes-fest-astra-kulturhaus-21584408/",
+        "summary": "Grobes Fest brings Slime, Focus., Rantanplan and Knochenfabrik to Astra Kulturhaus on 28 December 2026. Eventim’s listing confirms the Berlin date, venue and lineup.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-matthias-reim-uber-arena-2026",
+        "title": "Matthias Reim: 35 Jahre “Verdammt, ich lieb’ dich”",
+        "type": "concert",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-28",
+        "importance": 76,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/matthias-reim-26/",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/matthias-reim-26/",
+        "summary": "Matthias Reim visits Uber Arena on 28 December 2026 on his anniversary tour for “Verdammt, ich lieb’ dich.” The arena’s official page confirms the date and tour context.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "sao-paulo",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:50:47.339Z",
+  "responseId": "resp_043ba3f51c8cff4f0069ff6592067c8197bf7fcac8292fa4ad",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is unusually stadium-heavy in São Paulo, with confirmed pop, K-pop, metal and samba dates anchored by Allianz Parque and MorumBIS, plus a handful of electronic/pop festival activity.",
+    "events": [
+      {
+        "id": "sao-paulo-oktoberfest-2026",
+        "title": "9ª São Paulo Oktoberfest 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-10-04",
+        "importance": 70,
+        "venueName": "Arena de Eventos - Parque Ibirapuera",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest-2026",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest-2026",
+        "summary": "The 9th São Paulo Oktoberfest runs into the first weekend of October with German cultural programming, typical music shows, DJs and a Biertent main stage at Parque Ibirapuera.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-zayn-konnakol-2026",
+        "title": "ZAYN: The Konnakol Tour",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 86,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/zayn",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/zayn",
+        "summary": "ZAYN brings The Konnakol Tour to São Paulo for a confirmed Allianz Parque concert on October 10, 2026, produced by Live Nation.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sao-paulo-zig-festival-2026",
+        "title": "Zig Festival 2026: São Paulo",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 74,
+        "venueName": "Pavilhão + Audio",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/zig-festival-2026-10-10-oct-10th-sao-paulo",
+        "ticketUrl": "https://shotgun.live/pt-br/events/zig-festival-2026-10-10-oct-10th-sao-paulo",
+        "summary": "ZIG Festival’s São Paulo edition is confirmed for October 10 at Pavilhão + Audio, with Slayyyter listed on the lineup and a program billed for 30-plus singers, DJs and performers.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sao-paulo-esdeekid-rebel-tour-2026",
+        "title": "EsDeeKid: The Rebel Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 68,
+        "venueName": "Audio",
+        "venueId": "audio-club-sp",
+        "sourceUrl": "https://www.eventim.com.br/artist/esdeekid/",
+        "ticketUrl": "https://www.eventim.com.br/artist/esdeekid/",
+        "summary": "UK underground rap artist EsDeeKid is confirmed at Audio on October 22, 2026, as part of The Rebel Tour in a 30e-promoted São Paulo date.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-iron-maiden-oct25-2026",
+        "title": "Iron Maiden: Run For Your Lives World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 90,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "ticketUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "summary": "Iron Maiden’s 50th-anniversary Run For Your Lives World Tour lands at Allianz Parque on October 25, with Alter Bridge confirmed as the opening act.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-iron-maiden-extra-2026",
+        "title": "Iron Maiden: Run For Your Lives World Tour 2026 — Extra Date",
+        "type": "concert",
+        "startDate": "2026-10-27",
+        "endDate": "2026-10-27",
+        "importance": 88,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "ticketUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "summary": "A second São Paulo Iron Maiden date is confirmed for October 27 at Allianz Parque due to demand, with Alter Bridge opening.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-bts-arirang-oct28-2026",
+        "title": "BTS World Tour ARIRANG — São Paulo",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 95,
+        "venueName": "Estádio MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
+        "summary": "BTS opens its three-show São Paulo run at Estádio MorumBIS on October 28, 2026, as part of the World Tour ARIRANG.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-bts-arirang-oct30-2026",
+        "title": "BTS World Tour ARIRANG — São Paulo",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 95,
+        "venueName": "Estádio MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
+        "summary": "BTS continues its World Tour ARIRANG São Paulo stadium run with a confirmed Estádio MorumBIS concert on October 30, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-bts-arirang-oct31-2026",
+        "title": "BTS World Tour ARIRANG — São Paulo",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 95,
+        "venueName": "Estádio MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
+        "summary": "BTS closes its São Paulo World Tour ARIRANG run at Estádio MorumBIS on October 31, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-maior-encontro-samba-2026",
+        "title": "Maior Encontro do Samba: Zeca Pagodinho, Alcione & Jorge Aragão",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 86,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/campaign/omaiorencontrodosamba",
+        "ticketUrl": "https://www.eventim.com.br/campaign/omaiorencontrodosamba",
+        "summary": "Zeca Pagodinho, Alcione and Jorge Aragão bring O Maior Encontro do Samba to Allianz Parque on October 31, adding a major samba concert to the month’s stadium calendar.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

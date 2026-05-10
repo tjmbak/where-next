@@ -1,0 +1,173 @@
+{
+  "slug": "new-york",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:14:48.734Z",
+  "responseId": "resp_09da082715aabf390069ff5ce9fb8881a3902be5333e59fa1c",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 12,
+    "year": 2026,
+    "notes": "Confirmed December 2026 picks are currently strongest in arena pop, Carnegie Hall holiday programming, and major classical/contemporary concerts; club and festival calendars are still lightly announced this far out.",
+    "events": [
+      {
+        "id": "new-york-doja-cat-msg-2026",
+        "title": "Doja Cat — Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 91,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/doja-cat-madison-square-garden-december-2026/3B00633A23FD3029",
+        "ticketUrl": "https://www.msg.com/events-tickets/doja-cat-madison-square-garden-december-2026/3B00633A23FD3029",
+        "summary": "Doja Cat brings the Tour Ma Vie World Tour to Madison Square Garden for a confirmed December 1 arena date.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-renee-fleming-bela-fleck-2026",
+        "title": "Renée Fleming and Béla Fleck",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 82,
+        "venueName": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1329060/renee-fleming-and-bela-fleck-tickets",
+        "ticketUrl": "https://www.axs.com/events/1329060/renee-fleming-and-bela-fleck-tickets",
+        "summary": "Renée Fleming and Béla Fleck perform together at Carnegie Hall, pairing voice and banjo in a high-profile concert setting.",
+        "genres": []
+      },
+      {
+        "id": "new-york-leslie-odom-jr-carnegie-2026",
+        "title": "Leslie Odom Jr. Holiday Concert",
+        "type": "concert",
+        "startDate": "2026-12-07",
+        "endDate": "2026-12-07",
+        "importance": 76,
+        "venueName": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketle.net/leslie-odom-jr-new-york-ny-tickets-12-07-2026/event/658101",
+        "ticketUrl": "https://www.ticketle.net/leslie-odom-jr-new-york-ny-tickets-12-07-2026/event/658101",
+        "summary": "Tony- and Grammy-winning performer Leslie Odom Jr. is listed for a December 7 Carnegie Hall concert during the holiday season.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-nyphil-steve-reich-2026",
+        "title": "New York Philharmonic — Sound On: Steve Reich at 90",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 86,
+        "venueName": "David Geffen Hall at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://res.cloudinary.com/nyphil/image/upload/v1773089867/pdfs/newsroom/2627/26-27-sa-release-FINAL.pdf",
+        "ticketUrl": null,
+        "summary": "The New York Philharmonic marks Steve Reich’s 90th birthday in its Sound On contemporary music series, with David Robertson and Synergy Vocals joining for a program including Reich’s Tehillim.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-gwar-palladium-2026",
+        "title": "GWAR — Gor Gor Must Die Tour",
+        "type": "concert",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-10",
+        "importance": 70,
+        "venueName": "Palladium Times Square",
+        "venueId": null,
+        "sourceUrl": "https://www.palladiumtimessquare.com/event/gwar-gor-gor-must-die/",
+        "ticketUrl": "https://www.palladiumtimessquare.com/event/gwar-gor-gor-must-die/",
+        "summary": "GWAR brings the Gor Gor Must Die Tour to Palladium Times Square with Midnight, Mac Sabbath, and X-Cops listed as special appearances.",
+        "genres": []
+      },
+      {
+        "id": "new-york-mountain-goats-carnegie-2026",
+        "title": "An Evening with the Mountain Goats",
+        "type": "concert",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-10",
+        "importance": 73,
+        "venueName": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1363595/the-mountain-goats-tickets",
+        "ticketUrl": "https://www.axs.com/events/1363595/the-mountain-goats-tickets",
+        "summary": "The Mountain Goats are confirmed for an “An Evening with” concert at Carnegie Hall on December 10.",
+        "genres": []
+      },
+      {
+        "id": "new-york-daniil-trifonov-carnegie-2026",
+        "title": "Daniil Trifonov",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 77,
+        "venueName": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1328918/daniil-trifonov-tickets",
+        "ticketUrl": "https://www.axs.com/events/1328918/daniil-trifonov-tickets",
+        "summary": "Pianist Daniil Trifonov is confirmed for a solo Carnegie Hall date on December 12.",
+        "genres": []
+      },
+      {
+        "id": "new-york-andrea-bocelli-msg-2026",
+        "title": "Andrea Bocelli — Romanza 30th Anniversary World Tour",
+        "type": "concert",
+        "startDate": "2026-12-16",
+        "endDate": "2026-12-17",
+        "importance": 88,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/andrea-bocelli-madison-square-garden-december-2026/3B00643BDECD9556",
+        "ticketUrl": "https://www.msg.com/events-tickets/andrea-bocelli-madison-square-garden-december-2026/3B00643BDECD9556",
+        "summary": "Andrea Bocelli brings the Romanza 30th Anniversary World Tour to Madison Square Garden for two confirmed nights, December 16 and 17.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-esperanza-spalding-carnegie-2026",
+        "title": "esperanza spalding — Carnegie Hall Perspectives",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 82,
+        "venueName": "Judy & Arthur Zankel Hall at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.carnegiehall.org/-/media/CarnegieHall/Files/PDFs/About/Press-Resources/2026-2027-Season/01-20262027-Season-Release.pdf?la=en",
+        "ticketUrl": null,
+        "summary": "Five-time Grammy-winning bassist, singer, and composer esperanza spalding launches her Carnegie Hall Perspectives series with a Zankel Hall program featuring jazz artists and contemporary dance innovators from New York City.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-pops-sleigh-bells-ring-2026",
+        "title": "The New York Pops — Sleigh Bells Ring",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-19",
+        "importance": 78,
+        "venueName": "Stern Auditorium / Perelman Stage at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.iloveny.com/thebeat/post/the-new-york-pops-announces-2026-27-season-at-carnegie-hall/",
+        "ticketUrl": null,
+        "summary": "The New York Pops continues its annual Carnegie Hall holiday celebration with Derek Klena and Lindsay Mendez in a program of classic carols and new holiday favorites.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "slug": "miami",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:02:24.521Z",
+  "responseId": "resp_07be864bfa464fcc0069ff5a17a10c819eb756ee2e8e4a9dad",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Miami was anchored by Pride-weekend stages, Factory Town’s expanding electronic calendar, and arena-scale Latin and pop concerts.",
+    "events": [
+      {
+        "id": "miami-ricardo-arjona-apr-2026",
+        "title": "Ricardo Arjona: Lo Que el Seco no Dijo Tour",
+        "type": "concert",
+        "startDate": "2026-04-02",
+        "endDate": "2026-04-07",
+        "importance": 86,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/api/calendar/KovZpZAJtFaA/kaseya-center-formerly-miami-dade-arena-upcoming-events.pdf",
+        "ticketUrl": null,
+        "summary": "Ricardo Arjona brought his Lo Que el Seco no Dijo Tour to Kaseya Center for a multi-night Miami arena run, with listed performances on April 2, 3, 5, 6 and 7.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-beach-pride-festival-2026",
+        "title": "Miami Beach Pride Festival & Parade Weekend",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 91,
+        "venueName": "Lummus Park & Ocean Drive",
+        "venueId": null,
+        "sourceUrl": "https://www.miamibeachpride.com/post/18th-anniversary-release",
+        "ticketUrl": "https://www.miamibeachpride.com/events",
+        "summary": "Miami Beach Pride’s two-day festival featured AHF Entertainment Stage headliners Princess Nokia and David Archuleta, plus a One Magical Weekend Dance Stage led by Eliad Cohen and Dan Slater.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-urge-pride-2026",
+        "title": "URGE Miami Beach Pride 2026",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 78,
+        "venueName": "M2 Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/urge-miami-beach-pride-2026-tickets-1983555636304?aff=odcleoeventsincollection",
+        "ticketUrl": "https://www.eventbrite.com/e/urge-miami-beach-pride-2026-tickets-1983555636304?aff=odcleoeventsincollection",
+        "summary": "URGE’s official Saturday Pride takeover at M2 Miami ran from late Saturday into Sunday morning, headlined by Nicole Moudaber with Junyo making a Miami debut.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-naika-bandshell-2026",
+        "title": "Naïka",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 66,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://miamibeachbandshell.com/event/naika/",
+        "ticketUrl": "https://wl.eventim.us/event/naika/674664",
+        "summary": "Naïka performed at Miami Beach Bandshell with an opening set by DJ Nalee, presenting her fusion of pop, global rhythms and R&B.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-iii-joints-2026",
+        "title": "III Joints 2026",
+        "type": "festival",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 80,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/iii-points-presents/",
+        "ticketUrl": "https://link.dice.fm/U6cc57b05088",
+        "summary": "III Points’ annual III Joints returned to Factory Town on April 18 with a large local-heavy, multi-stage electronic and alternative lineup tied to the 4/20 weekend.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-unsin-festival-conference-2026",
+        "title": "UNSIN Music Festival and Conference",
+        "type": "conference",
+        "startDate": "2026-04-22",
+        "endDate": "2026-04-24",
+        "importance": 74,
+        "venueName": "Various locations throughout Wynwood",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/unsin-music-festival-and-conference/25998",
+        "ticketUrl": "https://www.unsin.live",
+        "summary": "UNSIN’s fifth edition connected Wynwood venues for artist showcases, music-industry panels and networking, with an initial lineup including Gus, Isadora, Duplat, Ruzzi, Adrian Cota, Delusion Bay and Vetz.",
+        "genres": [
+          "latin",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-kettama-space-2026",
+        "title": "KETTAMA, SOSA & Cole Knight B2B Matisa",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-25",
+        "importance": 74,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2409927",
+        "ticketUrl": "https://ra.co/events/2409927",
+        "summary": "Club Space hosted a late-night house and techno lineup led by KETTAMA and SOSA, with Cole Knight B2B Matisa also billed by Resident Advisor.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-time-warp-2026",
+        "title": "Time Warp Miami 2026",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 92,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.time-warp.de/usa/miami/2026/",
+        "ticketUrl": "https://www.time-warp.de/usa/miami/2026/",
+        "summary": "Time Warp brought its first Miami edition to Factory Town with a house and techno lineup including Honey Dijon, Richie Hawtin, Ben Klock, Marcel Dettmann, Boys Noize B2B SPFDJ and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-bandshell-beachclub-2026",
+        "title": "Bandshell BeachClub",
+        "type": "beach-club",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 80,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://miamibeachbandshell.com/beachclub/",
+        "ticketUrl": "https://www.eventim.us/event/bandshell-beachclub/678029",
+        "summary": "Bandshell BeachClub staged a two-day beachside music festival with Sudan Archives, Los Mirlos, Baile Funk Cumbia and Dude Skywalker on Saturday, followed by Rio Kosta, Leifur James, Boogarins with Adrian Quesada and DJ Sombra on Sunday.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-florence-machine-2026",
+        "title": "Florence + The Machine: Everybody Scream Tour",
+        "type": "concert",
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "importance": 83,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/api/calendar/KovZpZAJtFaA/kaseya-center-formerly-miami-dade-arena-upcoming-events.pdf",
+        "ticketUrl": "https://www.ticketmaster.com/florence-and-the-machine-tickets/artist/1362337",
+        "summary": "Florence + The Machine brought the Everybody Scream Tour to Kaseya Center for a Miami arena date listed at 7:30 p.m.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

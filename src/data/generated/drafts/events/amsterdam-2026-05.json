@@ -1,0 +1,203 @@
+{
+  "slug": "amsterdam",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:56:01.869Z",
+  "responseId": "resp_03313b38350b6fef0069ff588dccf4819ca649bcac3caf6d52",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Amsterdam is anchored by Liberation Day city festivals, major electronic weekender Upclose and Lentekabinet, plus arena-scale pop residencies and tours.",
+    "events": [
+      {
+        "id": "amsterdam-hvywght-sonic-boom-may-2026",
+        "title": "HVYWGHT x Sonic Boom",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 75,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/hvywght-x-sonic-boom-01-05-2026/",
+        "ticketUrl": null,
+        "summary": "London dubstep crew HVYWGHT joined forces with Sonic Boom for its 20th anniversary edition at Melkweg. The confirmed lineup included Digital Mystikz, Mia Koden, Beatrice M., Lulá Luna, Brutuzz and Krackfree Soundsystem.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-het-vrije-westen-may-2026",
+        "title": "Bevrijdingsfestival Het Vrije Westen",
+        "type": "festival",
+        "startDate": "2026-05-05",
+        "endDate": "2026-05-05",
+        "importance": 78,
+        "venueName": "Westerpark",
+        "venueId": null,
+        "sourceUrl": "https://www.hetvrijewesten.eu/",
+        "ticketUrl": null,
+        "summary": "Amsterdam’s free Liberation Day festival in Westerpark presents ten stages of live music, DJs and cultural programming. The official programme names acts including Poptrash, Kraak & Smaak, Klezmagic, Kasba, Steve Rachmad and the Golden Jazz Cats.",
+        "genres": [
+          "festival",
+          "house",
+          "jazz"
+        ]
+      },
+      {
+        "id": "amsterdam-amsterdams-verbond-may-2026",
+        "title": "Het Amsterdams Verbond",
+        "type": "festival",
+        "startDate": "2026-05-05",
+        "endDate": "2026-05-05",
+        "importance": 84,
+        "venueName": "Olympisch Stadion",
+        "venueId": null,
+        "sourceUrl": "https://nl.ra.co/events/2421344",
+        "ticketUrl": "https://hetamsterdamsverbond.nl/",
+        "summary": "The major Amsterdam Liberation Day stadium party returns to Olympisch Stadion with multiple stage takeovers and a broad house, pop and hip-hop programme. Confirmed artists include Bokoesam, Frenna, Idaly, Benny Rodrigues, DJ Chuckie, Girls Don’t Sync and Lucky Done Gone.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-rufus-du-sol-may-2026",
+        "title": "RÜFÜS DU SOL - Europe '26",
+        "type": "concert",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-06",
+        "importance": 84,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.nl/en/event/ru%CC%88fu%CC%88s-du-sol-europe-26-amsterdam-tickets-edp1630882",
+        "ticketUrl": "https://www.livenation.nl/en/event/ru%CC%88fu%CC%88s-du-sol-europe-26-amsterdam-tickets-edp1630882",
+        "summary": "RÜFÜS DU SOL brought their Europe '26 show to Ziggo Dome with SG Lewis confirmed as support. Live Nation lists the Amsterdam date for Wednesday, 6 May 2026, with an additional Amsterdam date also linked from the event page.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-london-calling-may-2026",
+        "title": "London Calling Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-16",
+        "importance": 82,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/news/nieuwe-editie-london-calling-festival-met-o-a-overpass-keo-panic-shack-en-meltt/2831246",
+        "ticketUrl": null,
+        "summary": "Paradiso’s long-running discovery festival London Calling returns for two nights of new indie and alternative acts. The confirmed lineup includes Panic Shack, overpass, Meltt, Keo, Adult DVD, The New Eves, Westside Cowboy and more.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-upclose-festival-may-2026",
+        "title": "Upclose 2026",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 93,
+        "venueName": "Houtrak, Spaarnwoude-park",
+        "venueId": null,
+        "sourceUrl": "https://www.awakenings.com/en/events/2026/05/awakenings-upclose-2026/375764/",
+        "ticketUrl": "https://www.awakenings.com/en/events/2026/05/awakenings-upclose-2026/375764/",
+        "summary": "Awakenings’ intimate techno-focused Upclose returns to Houtrak for two days. The official timetable includes Alarico b2b Ben Klock, Collabs 3000, Planetary Assault Systems, Ben UFO b2b Four Tet, Nina Kraviz, LSD live, Freddy K b2b Marrøn and many more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-harry-styles-residency-may-2026",
+        "title": "Harry Styles: Together, Together",
+        "type": "residency",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 95,
+        "venueName": "Johan Cruijff ArenA",
+        "venueId": null,
+        "sourceUrl": "https://www.mojo.nl/concerten/harry-styles",
+        "ticketUrl": "https://www.mojo.nl/concerten/harry-styles",
+        "summary": "Harry Styles opens his Amsterdam stadium residency at Johan Cruijff ArenA, with Robyn confirmed as special guest. MOJO lists the Amsterdam run across May and early June; this entry uses the explicitly listed 16 May 2026 date as the representative May date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-lentekabinet-may-2026",
+        "title": "Lentekabinet 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-24",
+        "importance": 91,
+        "venueName": "Het Twiske",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2311923",
+        "ticketUrl": "https://www.lentekabinet.com/",
+        "summary": "Dekmantel’s Lentekabinet returns to Het Twiske for its 13th edition over Pentecost weekend. The confirmed lineup includes Honey Dijon, Hunee, DJ EZ, Job Jobse, Chris Stussy b2b Shanti Celeste, Call Super, Seth Troxler, SHERELLE, Goldie and Young Marco.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-pretty-pissed-may-2026",
+        "title": "Pretty Pissed 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 72,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/pretty-pissed-23-05-2026/",
+        "ticketUrl": "https://www.melkweg.nl/en/agenda/pretty-pissed-23-05-2026/",
+        "summary": "Melkweg’s punk-leaning Pretty Pissed festival returns for a third edition across its rooms. The confirmed lineup includes Aerial Salad, C’est Qui?, Deki Alem, Hammok, Kaboutertje Putlucht, Kid Kapichi, Martial Arts, Swim School and The Meffs, followed by a Wap Shoo Wap afterparty.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-fiber-festival-may-2026",
+        "title": "FIBER Festival 2026: Fragile Forces",
+        "type": "festival",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-31",
+        "importance": 84,
+        "venueName": "Various venues in Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://2026.fiberfestival.nl/",
+        "ticketUrl": "https://2026.fiberfestival.nl/",
+        "summary": "FIBER’s 11th edition spans Amsterdam venues with audiovisual art, experimental electronic music, club nights, sound art concerts and talks. Confirmed music programming includes Whatever the Weather, Kara-Lis Coverdale, Batu, Piezo & upsammy, Bobby Beethoven, CORIN, KUNTARI and Abdullah Miniawy Trio.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-twice-ziggo-may-2026",
+        "title": "TWICE [THIS IS FOR] WORLD TOUR IN AMSTERDAM",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-31",
+        "importance": 88,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/venue/ziggo-dome-amsterdam-tickets/ziggo/107?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/venue/ziggo-dome-amsterdam-tickets/ziggo/107?language=en-us",
+        "summary": "K-pop group TWICE plays two consecutive Amsterdam arena shows at Ziggo Dome as part of the THIS IS FOR world tour. Ticketmaster lists confirmed performances on 30 and 31 May 2026.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

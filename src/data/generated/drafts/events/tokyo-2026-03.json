@@ -1,0 +1,220 @@
+{
+  "slug": "tokyo",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:41:45.765Z",
+  "responseId": "resp_0622bab1d3437f090069ff6367b0dc81a2a48bbd168c9d8189",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 mixed cherry-blossom outdoor festivals, Asian pop/hip-hop at Makuhari, BABYMETAL-led arena/live-house shows, and a particularly strong WOMB club calendar.",
+    "events": [
+      {
+        "id": "tokyo-head-in-clouds-mar-2026",
+        "title": "HEAD IN THE CLOUDS Music & Arts Festival in TOKYO",
+        "type": "festival",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 95,
+        "venueName": "Makuhari Messe",
+        "venueId": null,
+        "sourceUrl": "https://hitcfestival.jp/english/",
+        "ticketUrl": "https://hitcfestival.jp/english/",
+        "summary": "88rising’s Head in the Clouds festival held its Tokyo-area edition at Makuhari Messe with BE:FIRST, Rich Brian, MAX, HANA, KiiiKiii, Ayumu Imazu and no na on March 28, followed by Chanmina, AI, Jay Park x LNGSHOT, Kvi Baba, BIBI and MILLI on March 29.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-spring-love-harukaze-mar-2026",
+        "title": "Spring Love 春風 2026",
+        "type": "festival",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 88,
+        "venueName": "Yoyogi Park",
+        "venueId": null,
+        "sourceUrl": "https://harukaze.asia/",
+        "ticketUrl": null,
+        "summary": "The long-running free outdoor Spring Love Harukaze festival returned to Yoyogi Park with DJ KRUSH, Killer-Bong, Jun Inagawa, Mari Sakurai, HAPPY, IORI, OCCA, Tomocomo, Tuff Session and many more across multiple stages.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tokyo-babymetal-metaraji-fes-2026",
+        "title": "TOKYO FM 55th Anniversary BABYMETALのメタラジ！FES",
+        "type": "concert",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 88,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.tfm.co.jp/metaradi/metaradifes/",
+        "ticketUrl": "https://www.tfm.co.jp/metaradi/metaradifes/",
+        "summary": "BABYMETAL’s TOKYO FM anniversary event brought BABYMETAL, Maximum the Hormone and Atarashii Gakko! to Tokyo Garden Theater, with doors at 17:00 and show at 18:00.",
+        "genres": []
+      },
+      {
+        "id": "tokyo-babymetal-world-tour-japan-2026",
+        "title": "BABYMETAL WORLD TOUR 2026 IN JAPAN",
+        "type": "concert",
+        "startDate": "2026-03-30",
+        "endDate": "2026-03-30",
+        "importance": 87,
+        "venueName": "Zepp Haneda (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://babymetal.com/mob/news/diarKijiShw.php?id=301523&ima=0248&lang=en&site=TO",
+        "ticketUrl": "https://babymetal.com/mob/news/diarKijiShw.php?id=301523&ima=0248&lang=en&site=TO",
+        "summary": "BABYMETAL played a Tokyo live-house date at Zepp Haneda with METALVERSE as opening act, scheduled for 19:00 after an 18:00 door time.",
+        "genres": []
+      },
+      {
+        "id": "tokyo-love-international-rdc-2026",
+        "title": "Love International × Rainbow Disco Club",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 84,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/06/lixrdc/",
+        "ticketUrl": null,
+        "summary": "Love International staged a one-night WOMB takeover with support from Rainbow Disco Club, headlined by Paranoid London live alongside Dave Harvey, Sisi, Chida and Monkey Timers.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-womb-nicole-moudaber-2026",
+        "title": "WOMB Presents Nicole Moudaber",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 84,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/07/nicole-moudaber/",
+        "ticketUrl": null,
+        "summary": "Nicole Moudaber returned to WOMB for a techno headline set, joined on the main floor by Risa Taniguchi and Kulage, with additional local lineups across the club’s other floors.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-reprise-dj-nobu-2026",
+        "title": "Reprise: DJ Nobu All Night Long",
+        "type": "residency",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 83,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/13/reprise-18/",
+        "ticketUrl": null,
+        "summary": "DJ Nobu’s WOMB resident party Reprise featured a rare all-night-long set from DJ Nobu, with VJ Kozee, sound design by Yori, and support from Yamarchy, Akie, Yama and Kabuto.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "tokyo-kulu-anniversary-2026",
+        "title": "KULU 7th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 81,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/14/kulu-8/",
+        "ticketUrl": null,
+        "summary": "KULU marked its seventh anniversary at WOMB with triple headliners DESIREE, Nico Stojan and Kotoe, plus Akiram En, You Forgot, Tonbo, Mitokon, Levolant and Satica.",
+        "genres": [
+          "house",
+          "techno",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "tokyo-inter-womb-mar-2026",
+        "title": "INTER",
+        "type": "club-night",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-19",
+        "importance": 80,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/19/inter-12/",
+        "ticketUrl": null,
+        "summary": "INTER’s March WOMB edition featured Japanese electronic heavyweights Takkyu Ishino and Shinichi Osawa on the main floor, with Shannon Brothers, Taro Toko, Akira Arasawa, Mark Mila and LOA-floor guests also billed.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-omni-directional-mar-2026",
+        "title": "OMNI + DIRECTIONAL",
+        "type": "club-night",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 77,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/20/omni-directional-2/",
+        "ticketUrl": null,
+        "summary": "Elli Arakawa’s omni + directional hosted ORBE’s first Japan and Asia performance, with Stephanie Sykes, Chida, Chanaz, LØST, YANNY and Yogg across the three-floor WOMB program.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-j-binh-womb-2026",
+        "title": "J: Binh All Night Long",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 78,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/27/j-5/",
+        "ticketUrl": null,
+        "summary": "DJ Masda’s vinyl-focused party J brought Time Passages founder Binh to WOMB for an all-night-long main-floor set, with Sisi also playing all night on the AKARIYA-presented floor.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tokyo-mule-musiq-22-years-2026",
+        "title": "22 Years Mule Musiq",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 79,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/03/28/mule-musiq-4/",
+        "ticketUrl": null,
+        "summary": "Japanese label Mule Musiq celebrated 22 years at WOMB with a Henrik Schwarz & Kuniyuki live session, label founder Toshiya Kawasaki, and additional sets from Dubby, Sam Fitzgerald, Yoshirotten, KZA, Kyomi and DNG.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

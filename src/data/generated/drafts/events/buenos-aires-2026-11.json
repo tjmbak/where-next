@@ -1,0 +1,94 @@
+{
+  "slug": "buenos-aires",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:47:21.467Z",
+  "responseId": "resp_07f76890b0e5cab40069ff64ac3a388193bb6988c219302660",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 11,
+    "year": 2026,
+    "notes": "November 2026 is already anchored by major international touring acts, with more club and festival announcements likely closer to the month.",
+    "events": [
+      {
+        "id": "buenos-aires-opeth-2026",
+        "title": "Opeth — The Last Will and Testament Latin American Tour Part 2",
+        "type": "concert",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-03",
+        "importance": 75,
+        "venueName": "Teatro Gran Rivadavia",
+        "venueId": null,
+        "sourceUrl": "https://ghostcultmag.com/opeth-book-latin-american-tour-dates/",
+        "ticketUrl": "https://www.fullticket.com",
+        "summary": "Opeth’s Latin American Tour Part 2 lists Buenos Aires at Teatro Gran Rivadavia on 3 November 2026. The Swedish progressive metal band is touring behind The Last Will and Testament.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-jorja-smith-2026",
+        "title": "Jorja Smith — Falling or Flying Tour",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 78,
+        "venueName": "C Complejo Art Media",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/42449654-jorja-smith-at-c-complejo-art-media",
+        "ticketUrl": "https://www.passline.com/eventos/jorja-smith-cartmedia",
+        "summary": "Jorja Smith is listed for C Complejo Art Media on 11 November 2026, with the event noted as a rescheduled Buenos Aires date. Expect a contemporary R&B and pop-focused live set.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-a-perfect-circle-puscifer-2026",
+        "title": "A Perfect Circle + Puscifer",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 82,
+        "venueName": "Microestadio Malvinas Argentinas",
+        "venueId": null,
+        "sourceUrl": "https://czcomunicacion.com/comunicados/a-perfect-circle-confirma-su-regreso-a-la-argentina-luego-de-13-anos-en-el-marco-de-su-tour-mundial",
+        "ticketUrl": "https://livepass.com.ar/events/a-perfect-circle",
+        "summary": "A Perfect Circle returns to Buenos Aires on 28 November 2026 at Microestadio Malvinas Argentinas, with Puscifer announced as the opening act. The show is billed as part of the band’s 2026 world tour.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-eros-ramazzotti-2026",
+        "title": "Eros Ramazzotti — Una Historia Importante World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 80,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://akemusic.com/eros-ramazzotti/",
+        "ticketUrl": "https://www.movistararena.com.ar/show/fc831d48-fbb5-4f8d-b25a-b031901e19ea",
+        "summary": "Eros Ramazzotti brings his Una Historia Importante World Tour 2026 to Movistar Arena on 28 November 2026. The Argentina date is promoted by Ake Music with tickets via Movistar Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-ed-sheeran-loop-tour-2026",
+        "title": "Ed Sheeran — LOOP Tour",
+        "type": "concert",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 95,
+        "venueName": "Estadio Tomás Adolfo Ducó / Estadio Huracán",
+        "venueId": null,
+        "sourceUrl": "https://www.edsheeran.com/",
+        "ticketUrl": "https://livepass.com.ar/events/ed-sheeran-en-huracan",
+        "summary": "Ed Sheeran’s official tour dates list Buenos Aires at Tomás Adolfo Ducó Stadium / Huracán Stadium on 29 November 2026. Livepass lists the Argentina show with FINNEAS O’Connell as the international guest.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

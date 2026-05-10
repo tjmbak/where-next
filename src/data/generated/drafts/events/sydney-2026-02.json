@@ -1,0 +1,205 @@
+{
+  "slug": "sydney",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:53:40.299Z",
+  "responseId": "resp_0d266cf76ba0979e0069ff6612a2cc819f9875776f22bca01d",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 was unusually strong for Sydney, with Laneway, stadium-scale pop, Bondi Beach festival debuts, and Mardi Gras signature parties overlapping across the month.",
+    "events": [
+      {
+        "id": "sydney-laneway-feb-2026",
+        "title": "Laneway Sydney 2026",
+        "type": "festival",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 94,
+        "venueName": "Centennial Park",
+        "venueId": "laneway-sydney",
+        "sourceUrl": "https://www.lanewayfestival.com/sydney/event-info",
+        "ticketUrl": null,
+        "summary": "Laneway Sydney 2026 was confirmed for Centennial Park on Sunday 8 February, with gates from 11:30am and the event finishing at 10:00pm. The official event page verifies the date, venue and festival operating times.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-ed-sheeran-loop-tour-2026",
+        "title": "Ed Sheeran – Loop Tour",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 92,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyolympicpark.com.au/things-to-see-and-do/ed-sheeran-loop-tour",
+        "ticketUrl": null,
+        "summary": "Ed Sheeran’s Loop Tour played three Sydney stadium dates at Accor Stadium on Friday 13, Saturday 14 and Sunday 15 February 2026. The Sydney Olympic Park listing confirms the run and describes the show as his first Sydney performance since the Mathematics Tour in 2023.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-ultra-violet-mardi-gras-2026",
+        "title": "Ultra Violet",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 78,
+        "venueName": "City Recital Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigras.org.au/event/ultra-violet/",
+        "ticketUrl": null,
+        "summary": "Ultra Violet opened Sydney Gay and Lesbian Mardi Gras 2026 with a femme-led queer party at City Recital Hall. The Mardi Gras listing names DJs including Gemma, Yolanda Frost, Jacqui Cunningham, Jo Christy, Kate Doherty, DJ Sveta and Tanzer, with house, electro-pop, club, hip-hop and disco in the soundtrack.",
+        "genres": [
+          "house",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-lorde-ultrasound-2026",
+        "title": "Lorde – Ultrasound World Tour",
+        "type": "concert",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-19",
+        "importance": 87,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://qudosbankarena.com.au/event/lorde",
+        "ticketUrl": "https://qudosbankarena.com.au/event/lorde",
+        "summary": "Lorde brought the Ultrasound World Tour to Qudos Bank Arena on Wednesday 18 and Thursday 19 February 2026. The venue listing confirms Kevin Abstract as support and Lorde’s 9:00pm performance time.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-kaftana-pool-party-2026",
+        "title": "Kaftana Pool Party",
+        "type": "club-night",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 76,
+        "venueName": "Jimmy’s Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigras.org.au/event/kaftana-pool-party/",
+        "ticketUrl": null,
+        "summary": "Kaftana Pool Party returned to the rooftop of the Ivy complex for Mardi Gras, presented by DJ Dan Murphy. The confirmed lineup included DJs Division 4, DJ Anvi, DJ JD and Sexy Galexy, plus performers Coco Jumbo, Dolly Diamond, Ivy Leaguee and Vybe.",
+        "genres": [
+          "pop",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-golden-hour-crowded-house-2026",
+        "title": "Golden Hour presents Crowded House",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 84,
+        "venueName": "Bondi Beach",
+        "venueId": null,
+        "sourceUrl": "https://fuzzy.com.au/events/golden-hour/",
+        "ticketUrl": "https://fuzzy.com.au/events/golden-hour/",
+        "summary": "Golden Hour launched as a new end-of-summer Bondi Beach live-music event headlined by Crowded House, with Thelma Plum, Adam Newling and Lucienne also on the bill. The official Fuzzy page confirms Friday 20 February 2026, Bondi Beach and the published set times.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-mighty-hoopla-2026",
+        "title": "Mighty Hoopla Sydney",
+        "type": "festival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 93,
+        "venueName": "Bondi Beach",
+        "venueId": null,
+        "sourceUrl": "https://fuzzy.com.au/events/mighty-hoopla-sydney/",
+        "ticketUrl": "https://fuzzy.com.au/events/mighty-hoopla-sydney/",
+        "summary": "Mighty Hoopla Sydney brought the UK pop festival brand to Bondi Beach on Saturday 21 February 2026. The official Fuzzy listing confirms headliners Kesha, Becky Hill, Countess Luann, Rose Gray, Jessica Mauboy and Delta Goodrem across four stages.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-paradiso-pool-party-2026",
+        "title": "Paradiso Pool Party",
+        "type": "club-night",
+        "startDate": "2026-02-22",
+        "endDate": "2026-02-22",
+        "importance": 76,
+        "venueName": "Jimmy’s Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigras.org.au/event/paradiso-pool-party/",
+        "ticketUrl": null,
+        "summary": "Paradiso Pool Party continued its long-running Mardi Gras rooftop run at Jimmy’s Rooftop. The confirmed 2026 lineup featured DJs Az Matthews, Colin Gaff, DJ Emme, Hayley Maree and James Alexandr, with vocal-house music billed throughout the day and evening.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-neon-galaxy-erika-jayne-2026",
+        "title": "NEON GALAXY ft. Erika Jayne",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 84,
+        "venueName": "Home The Venue",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigras.org.au/event/neon-galaxy-ft-erika-jayne/",
+        "ticketUrl": null,
+        "summary": "NEON GALAXY was billed as the Sydney Mardi Gras opening event at Home The Venue, starring Erika Jayne live. The official listing also confirmed Hannah Conda, Vybe, Coco Jumbo, Kane Enable and DJs including Argonaut, Kitty Glitter, Dan Murphy, Jonny Marsh and Nic Holland.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-glitter-club-mardi-gras-2026",
+        "title": "Glitter Club",
+        "type": "carnival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 74,
+        "venueName": "Taylor Square",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigras.org.au/event/glitter-club/",
+        "ticketUrl": null,
+        "summary": "Glitter Club was the premium Mardi Gras Parade viewing event at Taylor Square, with DJ Dan Murphy and Estée Louder headlining the entertainment program. The listing also confirmed live entertainment from Carmen Geddit & Charisma Belle, Enchanting Energy, King Kael, Rachel Dryden, Spice Princess and Via.",
+        "genres": [
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-poof-doof-big-gay-block-party-2026",
+        "title": "POOF DOOF presents Big Gay Block Party",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 83,
+        "venueName": "The Ivy",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2313667",
+        "ticketUrl": "https://ra.co/events/2313667",
+        "summary": "POOF DOOF returned to ivy for a Mardi Gras Big Gay Block Party on Saturday 28 February 2026. Resident Advisor confirms a large house-and-pop lineup including Melanie C, ABSOLUTE., Bimini, Cormac, Michael Gray, Pangina Heals, Torren Foot, Ty Sunderland and GG Magree.",
+        "genres": [
+          "house",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

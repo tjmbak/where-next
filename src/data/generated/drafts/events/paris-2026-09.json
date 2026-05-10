@@ -1,0 +1,221 @@
+{
+  "slug": "paris",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:20:01.980Z",
+  "responseId": "resp_07086f8b205741610069ff5e2d60f08191830698dac32701c5",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 in Paris is already anchored by major arena pop/hip-hop dates, a Céline Dion arena residency, and strong electronic-festival programming around Chatou/La Villette.",
+    "events": [
+      {
+        "id": "paris-joji-solaris-sep-2026",
+        "title": "Joji — SOLARIS TOUR",
+        "type": "concert",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 82,
+        "venueName": "adidas arena",
+        "venueId": null,
+        "sourceUrl": "https://www.adidasarena.com/programmation/joji--1254",
+        "ticketUrl": "https://billetterie.adidasarena.com",
+        "summary": "Joji brings the SOLARIS TOUR to adidas arena for a France-exclusive Paris date, with Tommy Richman listed for the European dates. The venue page confirms a 1 September 2026 concert.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-selah-sue-jazz-villette-2026",
+        "title": "Jazz à la Villette: Selah Sue and The Gallands",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 78,
+        "venueName": "Grande Halle de La Villette",
+        "venueId": null,
+        "sourceUrl": "https://philharmoniedeparis.fr/en/activity/concert/29977-selah-sue-and-gallands",
+        "ticketUrl": "https://philharmoniedeparis.fr/en/activity/concert/29977-selah-sue-and-gallands",
+        "summary": "Part of Jazz à la Villette, this 4 September concert presents Selah Sue with The Gallands at Grande Halle de La Villette. The Philharmonie page lists the festival dates and confirms the performance time at 8:00 pm.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-madame-loyal-elektric-park-2026",
+        "title": "Madame Loyal X Elektric Park",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 90,
+        "venueName": "Île des Impressionnistes",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/madame-loyal-x-elektric-park",
+        "ticketUrl": "https://shotgun.live/en/festivals/madame-loyal-x-elektric-park",
+        "summary": "Madame Loyal and Elektric Park join forces for a two-day open-air rave/funfair event in Chatou, about 20 minutes from Paris. The confirmed lineup includes Bob Sinclar, Kavinsky, Hannah Laing, Skream & Benga, Petit Biscuit, Ascendant Vierge and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-neighbourhood-accor-2026",
+        "title": "The Neighbourhood",
+        "type": "concert",
+        "startDate": "2026-09-08",
+        "endDate": "2026-09-08",
+        "importance": 80,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/the-neighbourhood--9c3b3",
+        "ticketUrl": "https://billetterie.accorarena.com",
+        "summary": "The Neighbourhood play Accor Arena on their world tour, with Noise Dept. and Nessa Barrett listed as openers. The venue page confirms the 8 September 2026 date.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-global-black-pride-music-festival-2026",
+        "title": "Global Black Pride Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 86,
+        "venueName": "Paris, France",
+        "venueId": null,
+        "sourceUrl": "https://globalblackpride.org/fr/festival/",
+        "ticketUrl": "https://globalblackpride.org/fr/festival/",
+        "summary": "Global Black Pride lists its Music Festival in Paris for 12–13 September 2026, billed as The Global Black Queer Fest. The event page highlights live music, iconic performances, day and after-parties, and sounds including house and amapiano.",
+        "genres": [
+          "house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-celine-dion-residency-2026",
+        "title": "Céline Dion Paris 2026",
+        "type": "residency",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 95,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.parisladefense-arena.com/en/faq-celine-dion-concerts-at-paris-la-defense-arena/",
+        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/celine-dion/",
+        "summary": "Céline Dion opens her Paris La Défense Arena residency on Saturday 12 September 2026, with the venue FAQ listing further September and October dates. This is a representative confirmed September date for the residency.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-melanie-martinez-accor-2026",
+        "title": "Melanie Martinez — HADES: THE SACRIFICE",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 82,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/melanie-martinez--63055",
+        "ticketUrl": "https://billetterie.accorarena.com",
+        "summary": "Melanie Martinez brings the HADES: THE SACRIFICE tour to Accor Arena in support of her fourth studio album, HADES. The Accor Arena page confirms the concert for 15 September 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-pussycat-dolls-accor-2026",
+        "title": "The Pussycat Dolls — PCD Forever Tour",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 83,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/the-pussycat-dolls-pcd-forever-tour--78827",
+        "ticketUrl": "https://billetterie.accorarena.com",
+        "summary": "The Pussycat Dolls return to Accor Arena with Lil’ Kim on the PCD Forever Tour. The venue confirms the Paris concert for 19 September 2026.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-carbonne-olympia-2026",
+        "title": "Carbonne",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 70,
+        "venueName": "L’Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/agenda/carbonne/",
+        "ticketUrl": "https://www.olympiahall.com/agenda/carbonne/",
+        "summary": "French rap/hip-hop artist Carbonne plays L’Olympia after a prior run including sold-out La Cigale shows. The Olympia page confirms the concert for Saturday 12 September 2026 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-nightclubbing-festival-2026",
+        "title": "Nightclubbing Festival",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-27",
+        "importance": 82,
+        "venueName": "La Villette and multiple Paris venues",
+        "venueId": null,
+        "sourceUrl": "https://www.aegpresents.fr/event/nightclubbing-festival/",
+        "ticketUrl": "https://www.aegpresents.fr/event/nightclubbing-festival/",
+        "summary": "Jen Cardini and AEG Presents France launch Nightclubbing Festival from 24–27 September 2026, based at La Villette and spread across Paris clubs and cultural venues. The concept celebrates electronic music, nightlife culture, and the collective energy of the dancefloor.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-asap-rocky-accor-2026",
+        "title": "A$AP Rocky — Don’t Be Dumb World Tour",
+        "type": "concert",
+        "startDate": "2026-09-30",
+        "endDate": "2026-09-30",
+        "importance": 86,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/aap-rocky-dont-be-dumb-world-tour--03f96",
+        "ticketUrl": "https://billetterie.accorarena.com",
+        "summary": "A$AP Rocky brings the Don’t Be Dumb World Tour to Accor Arena for a Paris arena date. The venue page confirms the concert for 30 September 2026.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-loreen-wildfire-2026",
+        "title": "Loreen — The Wildfire Tour",
+        "type": "concert",
+        "startDate": "2026-09-30",
+        "endDate": "2026-09-30",
+        "importance": 76,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/loreen/",
+        "ticketUrl": "https://tickets.sallepleyel.com",
+        "summary": "Loreen plays Salle Pleyel on The Wildfire Tour, with the venue listing a 30 September 2026 concert at 20:00. The show supports her 2026 Wildfire album era.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

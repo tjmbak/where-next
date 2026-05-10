@@ -1,0 +1,206 @@
+{
+  "slug": "amsterdam",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:57:46.637Z",
+  "responseId": "resp_0c6c61dfd69e61f20069ff58ed4da481958e7385f47694bc0d",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is anchored by ADE’s 30th-anniversary week, with major electronic-music showcases already confirmed alongside arena and club concerts earlier in the month.",
+    "events": [
+      {
+        "id": "amsterdam-loreen-wildfire-2026",
+        "title": "Loreen - THE WILDFIRE TOUR",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 72,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/loreen/2816756",
+        "ticketUrl": "https://tickets.paradiso.nl/",
+        "summary": "Loreen brings THE WILDFIRE TOUR to Paradiso’s Main Hall, with doors at 19:00 and the main programme at 20:30. The show follows her new 2026 release and highlights her Eurovision-winning pop catalogue.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-fat-freddys-drop-2026",
+        "title": "Fat Freddy's Drop",
+        "type": "concert",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-13",
+        "importance": 76,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/fat-freddys-drop/2654374",
+        "ticketUrl": "https://tickets.paradiso.nl/",
+        "summary": "Fat Freddy’s Drop play Paradiso’s Main Hall as part of a three-night Amsterdam run. The New Zealand band’s live sound blends reggae, dub, soul, techno and jazz, including material from Based On A True Story.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-ade-2026",
+        "title": "Amsterdam Dance Event 2026 - 30 YEARS ADE",
+        "type": "conference",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-25",
+        "importance": 100,
+        "venueName": "Amsterdam Dance Event",
+        "venueId": "ade",
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750267/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/tickets/",
+        "summary": "Amsterdam Dance Event has confirmed its 30th-anniversary edition for October 21–25, 2026. The citywide electronic-music festival and industry conference will celebrate three decades of ADE across Amsterdam.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-jean-michel-jarre-ade-2026",
+        "title": "Jean-Michel Jarre - OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE",
+        "type": "concert",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 90,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/jean-michel-jarre",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "Jean-Michel Jarre plays an exclusive ADE Opening Concerts show at AFAS Live, celebrating both 30 years of ADE and the 50th anniversary of Oxygène. AFAS Live lists the performance for Wednesday, October 21, 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-cattaneo-warren-ade-2026",
+        "title": "Hernan Cattaneo B2B Nick Warren 6hrs - ADE",
+        "type": "club-night",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 78,
+        "venueName": "WestWeelde",
+        "venueId": null,
+        "sourceUrl": "https://www.westweelde.nl/events/hernan-cattaneo-b2b-nick-warren-6hrs-ade-2026-10-21",
+        "ticketUrl": "https://watt-events.stager.co/",
+        "summary": "Hernan Cattaneo and Nick Warren play a rare six-hour back-to-back set at WestWeelde during ADE. The venue lists the event on October 21, 2026, from 20:00 to 03:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-kiki-five-hours-ade-2026",
+        "title": "KI/KI - 5 HOURS ADE 2026",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 88,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.mojo.nl/concerten/kiki",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "KI/KI makes her Ziggo Dome debut during ADE 2026 with an exclusive five-hour headline show. MOJO lists the first Amsterdam date for Thursday, October 22, 2026 at 18:30, with a second date on October 23.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-into-the-woods-ade-2026",
+        "title": "Into the Woods ADE 2026",
+        "type": "festival",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-25",
+        "importance": 84,
+        "venueName": "NDSM-werf",
+        "venueId": null,
+        "sourceUrl": "https://www.ndsm.nl/evenementen/into-the-woods",
+        "ticketUrl": "https://intothewoods.nl/",
+        "summary": "Into the Woods turns NDSM-werf into an electronic dance festival during ADE, combining music, art, light installations and industrial/open-air stages. NDSM lists the event from October 23 to October 25, 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-dockyard-mystic-garden-ade-2026",
+        "title": "Dockyard Festival ADE 2026 x Mystic Garden Festival",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 86,
+        "venueName": "Havenpark",
+        "venueId": null,
+        "sourceUrl": "https://www.dockyardfestival.com/",
+        "ticketUrl": "https://shop.dockyardfestival.com/",
+        "summary": "Dockyard Festival ADE returns to Havenpark on October 24, 2026, joining forces again with Mystic Garden Festival. The official site confirms a 13:00–23:00 open-air techno and house festival.",
+        "genres": [
+          "techno",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-amf-2026",
+        "title": "AMF 2026",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 96,
+        "venueName": "Johan Cruijff ArenA",
+        "venueId": null,
+        "sourceUrl": "https://amf-festival.com/",
+        "ticketUrl": "https://amf-festival.com/",
+        "summary": "AMF returns to Johan Cruijff ArenA on October 24, 2026, during ADE. The confirmed lineup includes Afrojack, Amelie Lens, Armin van Buuren, ARTBAT, D-Block & S-te-Fan, David Guetta’s Monolith show, Korolova and Marlon Hoffstadt.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-stoor-live-ade-2026",
+        "title": "Speedy J presents STOOR Live - ADE 2026",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 83,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/programma/speedy-j-presents-stoor-live-ade-2026/2868773",
+        "ticketUrl": "https://tickets.paradiso.nl/",
+        "summary": "Speedy J and the STOOR crew bring their fully improvised hardware-jam format back to Paradiso for ADE. The Saturday lineup is WSNWG x STOOR Live with JakoJako, Lady Starlight, UFO95, Rødhåd and Speedy J.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-gardens-babylon-seekers-light-2026",
+        "title": "The Gardens of Babylon: The Seekers of Light ADE 2026 - Sunday",
+        "type": "club-night",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 76,
+        "venueName": "WestWeelde",
+        "venueId": null,
+        "sourceUrl": "https://www.westweelde.nl/events/the-gardens-of-babylon-the-seekers-of-light-ade-2026-sunday-2026-10-25",
+        "ticketUrl": "https://shop.thegardensofbabylon.com/",
+        "summary": "The Gardens of Babylon returns to WestWeelde during ADE with its Seekers of Light showcase trilogy. The Sunday event is confirmed for October 25, 2026, from 15:30 to 03:00 across De Unie, De Wester, De Liefde and Het Restaurant.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

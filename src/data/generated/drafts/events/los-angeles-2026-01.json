@@ -1,0 +1,215 @@
+{
+  "slug": "los-angeles",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:06:40.885Z",
+  "responseId": "resp_018f5e9098be58c10069ff5b048b18819583b6eda45714b90a",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 mixed arena-scale pop and rock with a strong Hollywood/Downtown electronic-club calendar and a notable Blue Note LA run.",
+    "events": [
+      {
+        "id": "los-angeles-foo-fighters-hope-united-2026",
+        "title": "Foo Fighters: A Show Benefitting Hope United",
+        "type": "concert",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-14",
+        "importance": 90,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/foo-fighters-tickets/artist/776005",
+        "ticketUrl": null,
+        "summary": "Foo Fighters played a one-night Kia Forum benefit show tied to Hope United / Hope The Mission and Los Angeles Mission. The date was confirmed by Ticketmaster and Kia Forum ticketing materials.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-wyclef-jean-blue-note-2026",
+        "title": "Wyclef Jean at Blue Note Los Angeles",
+        "type": "residency",
+        "startDate": "2026-01-15",
+        "endDate": "2026-01-18",
+        "importance": 82,
+        "venueName": "Blue Note Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenotejazz.com/la/tm-event/wyclef-jean/",
+        "ticketUrl": null,
+        "summary": "Wyclef Jean held a multi-night Blue Note Los Angeles run from January 15–18. Blue Note billed him as a Grammy Award-winning artist, producer, composer, and founding member of the Fugees.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-chus-ceballos-reunion-2026",
+        "title": "Chus & Ceballos — Reunion Tour",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 76,
+        "venueName": "Academy LA",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/chus-ceballos-2026-01-17-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/chus-ceballos-2026-01-17-los-angeles-ca/",
+        "summary": "Insomniac presented Chus & Ceballos’ Reunion Tour at Academy LA. The official event page listed a 10:00 PM–3:00 AM 21+ club show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-twice-this-is-for-2026",
+        "title": "TWICE [THIS IS FOR] World Tour in Los Angeles",
+        "type": "concert",
+        "startDate": "2026-01-21",
+        "endDate": "2026-01-25",
+        "importance": 92,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/twice-tickets/artist/2548848",
+        "ticketUrl": null,
+        "summary": "TWICE brought the [THIS IS FOR] World Tour to Kia Forum for a four-night Los Angeles run on January 21, 22, 24, and 25. Ticketmaster listed the Inglewood dates as part of the group’s 2026 tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-persona-live-awakenings-2026",
+        "title": "PERSONA LIVE 2026: AWAKENINGS",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 80,
+        "venueName": "Dolby Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/persona-live-2026-awakenings-hollywood-california-01-24-2026/event/0900635FED329024",
+        "ticketUrl": "https://www.ticketmaster.com/persona-live-2026-awakenings-hollywood-california-01-24-2026/event/0900635FED329024",
+        "summary": "PERSONA LIVE 2026: AWAKENINGS was confirmed at Dolby Theatre in Hollywood on January 24. The concert featured music from the Persona game series in a dedicated live production.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-cosmic-gate-exchange-2026",
+        "title": "Cosmic Gate — Perspectives II Tour Open-to-Close Set",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 74,
+        "venueName": "Exchange LA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2238035",
+        "ticketUrl": null,
+        "summary": "Cosmic Gate played an open-to-close set at Exchange LA for Insomniac/Dreamstate’s trance audience. Resident Advisor listed the show for January 24 with a 10:00 PM–3:00 AM runtime.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-hilary-duff-small-rooms-2026",
+        "title": "Hilary Duff — Small Rooms, Big Nerves",
+        "type": "concert",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 85,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/search?q=Hilary%20Duff%20Small%20Rooms%20Big%20Nerves",
+        "ticketUrl": null,
+        "summary": "Hilary Duff’s Small Rooms, Big Nerves mini-tour stopped at The Wiltern on January 29. Ticketmaster listed the Los Angeles show as part of the four-date run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-cannons-fonda-2026",
+        "title": "Cannons",
+        "type": "concert",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 75,
+        "venueName": "Fonda Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1239164/cannons-tickets",
+        "ticketUrl": "https://www.axs.com/events/1239164/cannons-tickets",
+        "summary": "Goldenvoice presented Cannons at the Fonda Theatre on January 29, with French Perfume and Liz Sanchez also listed on the bill. AXS confirmed the 9:00 PM show time and all-ages admission.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-space-yacht-anniversary-2026",
+        "title": "Space Yacht Anniversary: Big Bass Ting & Critical Mass DNB",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 75,
+        "venueName": "Academy LA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2305259",
+        "ticketUrl": null,
+        "summary": "Space Yacht marked its anniversary at Academy LA with Big Bass Ting and Critical Mass DNB across two rooms. Resident Advisor listed the event for January 3 with a secret lineup.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-space-yacht-tech-my-house-2026",
+        "title": "Space Yacht: Tech My House",
+        "type": "club-night",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 72,
+        "venueName": "Academy LA",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/space-yacht-tech-my-house-secret-house-lineup-2026-01-10-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/space-yacht-tech-my-house-secret-house-lineup-2026-01-10-los-angeles-ca/",
+        "summary": "Insomniac listed Space Yacht: Tech My House at Academy LA on January 10. The official page confirmed a secret house lineup and a 10:00 PM–3:00 AM 21+ format.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-mita-gami-stranger-than-2026",
+        "title": "Mita Gami — Stranger Than at The Theatre",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 73,
+        "venueName": "The Theatre",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2324885",
+        "ticketUrl": null,
+        "summary": "Stranger Than presented Mita Gami for the 2026 reopening of The Theatre in Downtown Los Angeles. Resident Advisor listed the January 31 event with a 9:00 PM–2:00 AM schedule.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-boombox-cartel-exchange-2026",
+        "title": "Boombox Cartel at Exchange LA",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 70,
+        "venueName": "Exchange LA",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/api/calendar/KovZpZAEd16A/exchange-la-upcoming-events.pdf",
+        "ticketUrl": null,
+        "summary": "Exchange LA’s venue calendar listed Boombox Cartel for Saturday, January 31 at 10:00 PM. The booking capped a month of Insomniac-backed electronic programming at the Downtown club.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

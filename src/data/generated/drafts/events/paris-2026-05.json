@@ -1,0 +1,221 @@
+{
+  "slug": "paris",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:18:44.071Z",
+  "responseId": "resp_0c965c4871a7473e0069ff5dea32fc819eba2d6e99bc26e6be",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Paris is unusually strong for electronic music, with Boiler Room, Cercle Festival, Marvellous Island, Rex Club programming, and several arena-scale pop/R&B concerts.",
+    "events": [
+      {
+        "id": "paris-tame-impala-2026",
+        "title": "Tame Impala at Accor Arena",
+        "type": "concert",
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/tame-impala--8a5fd",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/tame-impala--8a5fd",
+        "summary": "Tame Impala brings the Deadbeat-era European tour to Accor Arena for a single Paris arena date.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-boiler-room-2026",
+        "title": "Boiler Room: Paris",
+        "type": "club-night",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-09",
+        "importance": 88,
+        "venueName": "Secret location in Paris",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/events/boiler-room-paris",
+        "ticketUrl": "https://shotgun.live/events/boiler-room-paris",
+        "summary": "Boiler Room’s two-night Paris takeover pairs a house-focused Thursday lineup including Chris Stussy, Cassius and Sweely with a Friday techno program featuring Héctor Oaks, Helena Hauff, Trym and BIIA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-ne-yo-akon-2026",
+        "title": "NE-YO & AKON: Nights Like This Tour 2026",
+        "type": "concert",
+        "startDate": "2026-05-12",
+        "endDate": "2026-05-12",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/ne-yo-and-akon-nights-like-this-tour-2026--219c4",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/ne-yo-and-akon-nights-like-this-tour-2026--219c4",
+        "summary": "NE-YO and Akon co-headline Accor Arena on their Nights Like This Tour, billed by the venue as a nostalgia-heavy R&B and pop arena show.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-supersonic-block-party-2026",
+        "title": "Supersonic’s Block Party Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-16",
+        "importance": 82,
+        "venueName": "Supersonic and Bastille district venues",
+        "venueId": null,
+        "sourceUrl": "https://www.paris.fr/evenements/supersonic-s-block-party-festival-101443",
+        "ticketUrl": null,
+        "summary": "Supersonic’s fourth Block Party edition takes over around ten Bastille-area venues for three days, with 70 international groups listed across the daily programs.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-twice-2026",
+        "title": "TWICE <THIS IS FOR> World Tour in Paris",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 89,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/twice-lessthis-is-forgreater-world-tour-in-paris--87bcf",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/twice-lessthis-is-forgreater-world-tour-in-paris--87bcf",
+        "summary": "K-pop group TWICE plays two Accor Arena dates on the Paris stop of the <THIS IS FOR> World Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-jazz-saint-germain-2026",
+        "title": "Festival Jazz à Saint-Germain-des-Prés",
+        "type": "festival",
+        "startDate": "2026-05-18",
+        "endDate": "2026-05-25",
+        "importance": 82,
+        "venueName": "Multiple venues in Saint-Germain-des-Prés",
+        "venueId": null,
+        "sourceUrl": "https://www.paris.fr/evenements/le-festival-jazz-a-saint-germain-des-pres-34949",
+        "ticketUrl": "https://festivaljazzsaintgermainparis.com",
+        "summary": "The long-running Saint-Germain jazz festival returns across notable Left Bank venues, presenting headline concerts and emerging jazz talent.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-manifeste-2026",
+        "title": "Festival ManiFeste",
+        "type": "festival",
+        "startDate": "2026-05-20",
+        "endDate": "2026-05-27",
+        "importance": 80,
+        "venueName": "Multiple venues in Paris",
+        "venueId": null,
+        "sourceUrl": "https://www.paris.fr/evenements/festival-manifeste-103742",
+        "ticketUrl": "https://www.104.fr/fiche-evenement/manifeste-2026.html",
+        "summary": "Ircam-Centre Pompidou’s ManiFeste festival focuses on contemporary creation, electronic music, multimedia and live performance across partner venues in Paris.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-cercle-festival-2026",
+        "title": "Cercle Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-24",
+        "importance": 96,
+        "venueName": "Musée de l’Air et de l’Espace, Paris-Le Bourget",
+        "venueId": null,
+        "sourceUrl": "https://festival.cercle.io/line-up",
+        "ticketUrl": "https://festival.cercle.io/",
+        "summary": "Cercle Festival returns to Le Bourget for three days with a large international electronic lineup including Eric Prydz, ARTBAT, Adriatique, Kerri Chandler, Kölsch and Ben Böhmer.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-marvellous-island-2026",
+        "title": "Marvellous Island Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-24",
+        "importance": 90,
+        "venueName": "Plage de Torcy",
+        "venueId": null,
+        "sourceUrl": "https://marvellous-island.fr/",
+        "ticketUrl": "https://marvellous-island.fr/billetterie/",
+        "summary": "Marvellous Island’s 14th edition brings its open-air electronic festival format back to Torcy, with Ben Hemsley, Dennis Cruz, Korolova, Mathame, Nic Fanciulli, Reinier Zonneveld, Fatima Hajji and Ilario Alicante among the listed artists.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-skryptom-rex-2026",
+        "title": "Skryptöm: Audrey Danza, Mana Mind, Electric Rescue",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-24",
+        "importance": 72,
+        "venueName": "Rex Club",
+        "venueId": "rex-club",
+        "sourceUrl": "https://ra.co/events/2427703",
+        "ticketUrl": "https://ra.co/events/2427703",
+        "summary": "Skryptöm returns to Rex Club after a six-year absence, with Audrey Danza, Mana Mind and Electric Rescue on the techno lineup.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-bouss-2026",
+        "title": "Bouss at Accor Arena",
+        "type": "concert",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-30",
+        "importance": 78,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/bouss--20539",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/bouss--20539",
+        "summary": "French rapper Bouss plays two Accor Arena shows after adding a second date, with the venue highlighting his mix of rap, vocals and world-influenced sounds.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-amour-sauvage-2026",
+        "title": "¡Amour Sauvage Festival #4",
+        "type": "festival",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-31",
+        "importance": 70,
+        "venueName": "Cabaret Sauvage",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2406029",
+        "ticketUrl": "https://ra.co/events/2406029",
+        "summary": "Cabaret Sauvage hosts the fourth ¡Amour Sauvage Festival, with a techno and downtempo lineup including Etienne Jaumet, DJ Beluga92, Antoine Calvino and Remote.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

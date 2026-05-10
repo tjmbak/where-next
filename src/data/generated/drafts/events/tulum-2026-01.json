@@ -1,0 +1,229 @@
+{
+  "slug": "tulum",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:04:22.169Z",
+  "responseId": "resp_01ab0efaa6d9473f0069ff5a96997c81a080f690e944bebac9",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 was anchored by Zamna’s early-month jungle run, with major off-site moments at Papaya Playa Project, Tehmplo, and Day Zero.",
+    "events": [
+      {
+        "id": "tulum-david-guetta-zamna-2026",
+        "title": "David Guetta at Zamna Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 90,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/david-guetta-zamna-festival-2025/",
+        "ticketUrl": null,
+        "summary": "David Guetta headlined Zamna Tulum on January 2 with a bill also listing Zamna Soundsystem, Massano, RAMI, Mëstiza, and ASAL. The official Zamna event page lists the date, venue, and artist lineup.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tulum-ants-zamna-2026",
+        "title": "ANTS Zamna Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 86,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://ra.co/events/2242682",
+        "ticketUrl": null,
+        "summary": "Ibiza-born ANTS returned to Zamna Tulum on January 3 with Andrea Oliva b2b Ilario Alicante, Loco Dice, Maceo Plex, SYREETA, and more. Resident Advisor lists the date, venue, promoters, and lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-diplo-ppp-2026",
+        "title": "PPP presents Music Journey by Diplo",
+        "type": "beach-club",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 78,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2251981?direct=true",
+        "ticketUrl": null,
+        "summary": "Papaya Playa Project hosted Music Journey by Diplo on January 3, with Diplo, Maxi Meraki, Salomé Le Chat, and ALL MATTER b2b MIRA MIRA listed. The RA event page confirms the date, venue, promoter, and lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-rufus-du-sol-zamna-2026",
+        "title": "RÜFÜS DU SOL [DJ Set] at Zamna Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 91,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/events/rufus-du-sol-zamna-tulum?direct=true",
+        "ticketUrl": null,
+        "summary": "RÜFÜS DU SOL played an exclusive DJ set at Zamna Tulum on January 4, joined by Dixon, Jimi Jules, Carlita, and Tripolism. Zamna’s official event page confirms the date, venue, and artist list.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-no-art-zamna-2026",
+        "title": "No Art at Zamna Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-05",
+        "importance": 84,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/news/no-art-unveils-powerhouse-lineup-for-january-5th-return-to-zamna-tulum",
+        "ticketUrl": null,
+        "summary": "Dutch collective No Art returned to Zamna Tulum on January 5 with ANOTR b2b The Martinez Brothers, Benja b2b Franc Fala, and Rossi. Zamna’s official announcement confirms the date and lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-keinemusik-zamna-2026",
+        "title": "Keinemusik Tulum at Zamna",
+        "type": "club-night",
+        "startDate": "2026-01-06",
+        "endDate": "2026-01-06",
+        "importance": 93,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://ra.co/events/2221451",
+        "ticketUrl": null,
+        "summary": "Keinemusik brought Adam Port, Rampa, and &ME to Zamna Tulum on January 6. The Resident Advisor listing confirms the date, venue, and lineup for the Zamna-hosted night.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-adriatique-x-zamna-2026",
+        "title": "Adriatique presents X Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-07",
+        "endDate": "2026-01-07",
+        "importance": 87,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://ra.co/events/2261602",
+        "ticketUrl": null,
+        "summary": "Adriatique brought their X concept back to Zamna Tulum on January 7 with Joseph Capriati, Mind Against, Julya Karma, and Orsay also listed. The RA page confirms the venue, date, and lineup.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-bedouin-saga-zamna-2026",
+        "title": "Bedouin presents SAGA Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-07",
+        "endDate": "2026-01-07",
+        "importance": 86,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/news/bedouin-brings-saga-to-zamna-tulum-on-january-7-2026",
+        "ticketUrl": null,
+        "summary": "Bedouin presented SAGA at Zamna Tulum on January 7. Zamna’s official announcement confirms the date and describes the project’s house, deep-house, organic, and melodic electronic direction.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-solomun-tehmplo-2026",
+        "title": "Solomun + Max Styler at Tehmplo",
+        "type": "club-night",
+        "startDate": "2026-01-08",
+        "endDate": "2026-01-08",
+        "importance": 86,
+        "venueName": "Tehmplo",
+        "venueId": null,
+        "sourceUrl": "https://electronicgroove.com/solomun-set-to-return-to-tulum-with-special-show-at-tehmplo/",
+        "ticketUrl": null,
+        "summary": "Solomun headlined a special Tehmplo night on January 8 with support from Max Styler. Electronic Groove reports the date, venue, presenter, and support artist for the Tulum jungle show.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-mayan-warrior-zamna-2026",
+        "title": "Mayan Warrior Tulum at Zamna",
+        "type": "club-night",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 91,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/news/mayan-warrior-makes-historic-zamna-debut-with-massive-lineup",
+        "ticketUrl": null,
+        "summary": "Mayan Warrior made its Zamna Tulum debut on January 9 with Âme b2b Trikk, Dixon, WhoMadeWho, Monolink, Polo & Pan, Robag Wruhme, and more. Zamna’s official announcement confirms the date, venue, and lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-day-zero-2026",
+        "title": "Day Zero Tulum 2026",
+        "type": "festival",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 96,
+        "venueName": "Day Zero Tulum jungle venue",
+        "venueId": null,
+        "sourceUrl": "https://dayzerofestival.com/locations/tulum/",
+        "ticketUrl": null,
+        "summary": "Day Zero Tulum returned on January 10 for its Damian Lazarus-curated jungle gathering. The official Day Zero page confirms the Tulum edition date and its January jungle setting.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-black-coffee-zamna-2026",
+        "title": "Black Coffee at Zamna Tulum",
+        "type": "club-night",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-11",
+        "importance": 91,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/events/black-coffee-at-zamna-tulum?direct=true",
+        "ticketUrl": null,
+        "summary": "Black Coffee returned to Zamna Tulum on January 11, with Joezi, Andrea Oliva, Luciano, Jimi Jules, and S T O F F E L A listed on the official event page. Zamna confirms the date, venue, and artist lineup.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

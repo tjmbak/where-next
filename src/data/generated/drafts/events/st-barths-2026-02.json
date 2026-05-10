@@ -1,0 +1,136 @@
+{
+  "slug": "st-barths",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:54:38.851Z",
+  "responseId": "resp_02f6a8724ff9879a0069ffd6efbd908191b5ca6b561345c6d8",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "st-barths",
+    "month": 2,
+    "year": 2026,
+    "notes": "February’s confirmed music calendar in Saint-Barthélemy centered on Carnival in Gustavia, with a few verified DJ and concert dates around the island.",
+    "events": [
+      {
+        "id": "st-barths-carnival-deboule-rasta-2026",
+        "title": "Carnival Déboulé: Rasta Colors",
+        "type": "carnival",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 70,
+        "venueName": "Pif-Paf kiosk and streets of Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.stbarthweekly.com/pdf/Weekly509.pdf",
+        "ticketUrl": null,
+        "summary": "A Saturday night pre-Carnival déboulé through Gustavia, with the 2026 theme listed as Rasta colors: red, green and yellow. St Barth Weekly notes the déboulés start at 8pm at the Pif-Paf kiosk and move through town to rhythmic drums.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "st-barths-greg-cerrone-nikki-beach-2026",
+        "title": "Greg Cerrone at Nikki Beach St Barth",
+        "type": "beach-club",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-12",
+        "importance": 72,
+        "venueName": "Nikki Beach St. Barth",
+        "venueId": "nikki-beach-st-barths",
+        "sourceUrl": "https://www.songkick.com/concerts/43017183-greg-cerrone-at-nikki-beach-gustavia-saint-barthelemy",
+        "ticketUrl": null,
+        "summary": "French-American DJ and producer Greg Cerrone was listed for a February 12 performance at Nikki Beach in Gustavia. Songkick listed the event with doors at 14:00 and Greg Cerrone as headliner.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-carnival-deboule-fluorescent-love-2026",
+        "title": "Carnival Déboulé: Lighting Parade / Fluorescent Love",
+        "type": "carnival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 72,
+        "venueName": "Pif-Paf kiosk and streets of Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.stbarthweekly.com/pdf/Weekly509.pdf",
+        "ticketUrl": null,
+        "summary": "The February 14 pre-Carnival déboulé was confirmed with a lighting parade / “fluorescent love” theme. St Barth Weekly describes the 2026 déboulés as Saturday night processions through Gustavia with rhythmic drums.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "st-barths-carnival-pyjama-leve-2026",
+        "title": "Carnaval: An Pyjama Lévé",
+        "type": "carnival",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 78,
+        "venueName": "Pif-Paf kiosk and streets of Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/fr/actualites/culture-loisirs/carnaval-2026-ne-parade-du-mardi-gras-aux-accents-caribeens-202602121442.html",
+        "ticketUrl": null,
+        "summary": "The traditional pre–Mardi Gras pajama parade was confirmed for Monday night, February 16, with The Youngz leading a procession through Gustavia. The Journal de Saint-Barth listed the meeting point as 20:00 in front of Pif-Paf.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "st-barths-carnival-mardi-gras-parade-2026",
+        "title": "Carnaval 2026: Mardi Gras Grande Parade and After DJs",
+        "type": "carnival",
+        "startDate": "2026-02-17",
+        "endDate": "2026-02-17",
+        "importance": 86,
+        "venueName": "Gustavia streets and Quai du Général de Gaulle",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/fr/actualites/culture-loisirs/carnaval-2026-ne-parade-du-mardi-gras-aux-accents-caribeens-202602121442.html",
+        "ticketUrl": null,
+        "summary": "The main Mardi Gras parade in Gustavia was confirmed for February 17 with eight floats, dancers and Caribbean music. An official carnival after-party was listed on Quai du Général de Gaulle from 19:00 to 23:00, animated by DJs Mæstro, Big Boss and El Coch.",
+        "genres": [
+          "festival",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-carnival-brule-vaval-2026",
+        "title": "Carnaval: Brulé Vaval / Ash Wednesday Final Parade",
+        "type": "carnival",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 82,
+        "venueName": "The Select to Shell Beach, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/fr/actualites/culture-loisirs/carnaval-2026-ne-parade-du-mardi-gras-aux-accents-caribeens-202602121442.html",
+        "ticketUrl": null,
+        "summary": "The Carnival closing ritual, Brulé Vaval, was confirmed for Wednesday, February 18. The Journal de Saint-Barth reported the procession would leave around 20:00 from The Select toward Shell Beach to the sound of drums before the burning of Vaval.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "st-barths-trio-idilio-concert-2026",
+        "title": "Trio Idilio in Concert",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 60,
+        "venueName": "École de musique Alcide Terrac",
+        "venueId": null,
+        "sourceUrl": "https://www.journaldesaintbarth.com/fr/actualites/culture-loisirs/le-trio-idilio-en-concert-202602192259.html",
+        "ticketUrl": null,
+        "summary": "Trio Idilio performed on Friday, February 20, from 19:00 to 21:00 at the École de musique Alcide Terrac in Colombier. The donation-entry concert supported Saint-Barth Harmony’s “Saint-Barth Harmony invite Cuba” project.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

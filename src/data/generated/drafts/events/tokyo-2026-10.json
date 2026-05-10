@@ -1,0 +1,183 @@
+{
+  "slug": "tokyo",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:44:16.671Z",
+  "responseId": "resp_00ed44fb8e8890440069ff63e587888194be7c35edcf7f624a",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 already has a strong confirmed mix of outdoor festivals, J-pop/rock arena and live-house dates, Latin dance events, and electronic-leaning special concerts across Tokyo.",
+    "events": [
+      {
+        "id": "tokyo-tokyo-island-oct-2026",
+        "title": "TOKYO ISLAND 2026",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-12",
+        "importance": 88,
+        "venueName": "Sea Forest Park / Umi-no-Mori Park",
+        "venueId": null,
+        "sourceUrl": "https://tokyoisland.tokyo/",
+        "ticketUrl": "https://tokyoisland.tokyo/",
+        "summary": "TOKYO ISLAND returns for its fifth edition over the October three-day weekend at Sea Forest Park, presented as a large outdoor music festival with attractions and tickets already announced.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-yokai-bon-odori-oct-2026",
+        "title": "Yokai Bon Odori 2026",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-12",
+        "importance": 73,
+        "venueName": "GREEN SPRINGS 2F Plaza",
+        "venueId": null,
+        "sourceUrl": "https://www.yokaibonodori.tokyo/english",
+        "ticketUrl": null,
+        "summary": "This three-day West Tokyo festival in Tachikawa combines live performances, music concerts, DJ performances, Bon Odori, costumes, and food stalls.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-la-bachata-world-congress-oct-2026",
+        "title": "La Bachata Tokyo World Congress 2026",
+        "type": "festival",
+        "startDate": "2026-10-14",
+        "endDate": "2026-10-18",
+        "importance": 72,
+        "venueName": "PLAT SHIBUYA",
+        "venueId": null,
+        "sourceUrl": "https://beatstorapon.com/event/la-bachata-tokyo-world-congress-2026-697c5c0bfb9d8dd8c079e863",
+        "ticketUrl": "https://www.labachatatokyo.com/festival",
+        "summary": "A multi-day bachata congress and Latin dance festival in Shibuya, with pre-parties from October 14 and the main event from October 16 to 18; confirmed artists include Eduard & Maria, Danny & Dayana, Meline & Rain, Anastasia & Jovanny, and Phong & Zoey.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "tokyo-caribbean-latin-america-street-oct-2026",
+        "title": "The Caribbean / Latin America Street 2026",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 66,
+        "venueName": "Yoyogi Park Keyaki Street",
+        "venueId": null,
+        "sourceUrl": "https://wsavannast.com/events/the-caribbean-latin-america-street/",
+        "ticketUrl": null,
+        "summary": "A free, rain-or-shine Caribbean and Latin America cultural festival at Yoyogi Park Keyaki Street, highlighting music, dance, food, drink, and fashion from the region.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-spellbound-boom-boom-satellites-oct-2026",
+        "title": "THE SPELLBOUND × BOOM BOOM SATELLITES presents FRONT CHAPTER DECADE Tour 2026 Final",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 72,
+        "venueName": "SGC HALL ARIAKE",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/the-spellbound-boom-boom-satellites/",
+        "ticketUrl": "https://www.creativeman.co.jp/event/the-spellbound-boom-boom-satellites/",
+        "summary": "THE SPELLBOUND and BOOM BOOM SATELLITES present the tour final for Michiyuki Kawashima’s 10th memorial live, with the Tokyo date confirmed at SGC HALL ARIAKE.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-fumiya-fujii-arena-live-oct-2026",
+        "title": "Fumiya Fujii ARENA LIVE 2026 360°",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 75,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://www.fumiyafujii.net/live/2026/04/22/7680",
+        "ticketUrl": "https://www.fumiyafujii.net/live/2026/04/22/7680",
+        "summary": "Fumiya Fujii brings his 360-degree arena production to Nippon Budokan for two Tokyo shows, backed by a full live band including Naoyuki Fujii on sax and guitar.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-ca7riel-paco-amoroso-oct-2026",
+        "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 76,
+        "venueName": "Toyosu PIT",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationhip.co.jp/en/all-events/ca7riel-and-paco-amoroso-tickets-ae1554639",
+        "ticketUrl": "https://www.livenationhip.co.jp/en/all-events/ca7riel-and-paco-amoroso-tickets-ae1554639",
+        "summary": "Argentinian duo CA7RIEL & Paco Amoroso play their first headline show in Japan in Tokyo, with the Toyosu PIT date confirmed for October 22.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-asian-kung-fu-generation-oct-2026",
+        "title": "ASIAN KUNG-FU GENERATION Tour 2026 “Midage Fanclub”",
+        "type": "concert",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.sonymusic.co.jp/artist/ASIANKUNG-FU/info/582357",
+        "ticketUrl": "https://www.akglive.com/30th/tour2026",
+        "summary": "ASIAN KUNG-FU GENERATION mark the 20th anniversary of their album “Fanclub” with two confirmed Tokyo dates at Zepp DiverCity.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-bump-of-chicken-ratio-clavis-oct-2026",
+        "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+        "type": "concert",
+        "startDate": "2026-10-27",
+        "endDate": "2026-10-28",
+        "importance": 84,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.bumpofchicken.com/live_information/2799",
+        "ticketUrl": "https://www.bumpofchicken.com/live_information/2799",
+        "summary": "BUMP OF CHICKEN’s Ratio Clavis arena tour includes two confirmed Tokyo performances at Ariake Arena on October 27 and 28.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-reona-detour-veins-oct-2026",
+        "title": "ReoNa Concert Tour 2026 “De:TOUR -静脈-”",
+        "type": "concert",
+        "startDate": "2026-10-29",
+        "endDate": "2026-10-29",
+        "importance": 70,
+        "venueName": "LINE CUBE SHIBUYA",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27953",
+        "ticketUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27953",
+        "summary": "ReoNa’s 2026 concert tour stops at LINE CUBE SHIBUYA for a Tokyo show with doors at 17:30 and start at 18:30.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

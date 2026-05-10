@@ -1,0 +1,207 @@
+{
+  "slug": "tel-aviv",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:56:36.873Z",
+  "responseId": "resp_03168d11bcb2252d0069ff66c4d5a081978ed6878a2349f9ba",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 5,
+    "year": 2026,
+    "notes": "May’s confirmed calendar mixes Israeli rock/pop heavyweights with psytrance and techno club nights plus a few international concert bookings.",
+    "events": [
+      {
+        "id": "tel-aviv-amida-rhythm-2026",
+        "title": "AMID(A) RHYTHM",
+        "type": "club-night",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-06",
+        "importance": 62,
+        "venueName": "Aria",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2424444",
+        "ticketUrl": null,
+        "summary": "BAÏTELIZE presents an art-and-club night at Aria with DJ sets by ÄNO, Nachum and Sacha Dahan, framed around sound, visual works and prayer across two levels.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-decision-festival-2026",
+        "title": "Decision Festival w/ Asher Swissa, Captain Hook, Pettra, Shtuby and more",
+        "type": "festival",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-08",
+        "importance": 82,
+        "venueName": "Gagarin Club TLV",
+        "venueId": null,
+        "sourceUrl": "https://zygo.co.il/event/860426272826819882",
+        "ticketUrl": "https://zygo.co.il/event/860426272826819882",
+        "summary": "A three-room trance, techno and mainstream electronic event at Gagarin, led by Asher Swissa, Captain Hook, Shtuby and Pettra, with additional Nova Room and Red Room lineups.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "tel-aviv-berry-sakharof-2026",
+        "title": "Berry Sakharof",
+        "type": "concert",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 82,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDF/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDF/001/ALL/en",
+        "summary": "Berry Sakharof brings his electric band show to Kav Rakia, performing familiar repertoire alongside songs not played live for a long time.",
+        "genres": []
+      },
+      {
+        "id": "tel-aviv-dash-berlin-2026",
+        "title": "Timeless – Dash Berlin 7.5",
+        "type": "club-night",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 78,
+        "venueName": "TBA - L1 - TLV",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2417657",
+        "ticketUrl": null,
+        "summary": "Dash Berlin returns to Israel for a one-night Tel Aviv show billed as a special two-hour retro set of classic dancefloor hits.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-international-klezmer-festival-2026",
+        "title": "International Klezmer Festival",
+        "type": "festival",
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "importance": 72,
+        "venueName": "The Israeli Opera",
+        "venueId": null,
+        "sourceUrl": "https://www.israel-opera.co.il/en/show/%D7%A4%D7%A1%D7%98%D7%99%D7%91%D7%9C-%D7%94%D7%9B%D7%9C%D7%99%D7%96%D7%9E%D7%A8%D7%99%D7%9D-%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99/",
+        "ticketUrl": "https://tickets.israel-opera.co.il/order/13144",
+        "summary": "The Israeli Opera hosts a multi-artist klezmer concert under Hanan Bar-Sela’s artistic direction, featuring Emil Aivinder, Avraham Schwab, Pavel Levin, The Balkania and dancers.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tel-aviv-itamar-borochov-2026",
+        "title": "Itamar Borochov",
+        "type": "concert",
+        "startDate": "2026-05-12",
+        "endDate": "2026-05-12",
+        "importance": 70,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/2eb9d548-7477-4986-ba17-68679d53689d",
+        "ticketUrl": null,
+        "summary": "Jazz trumpeter Itamar Borochov is listed for a Tel Aviv show at Barby as part of his 2026 concert schedule.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-ofer-levy-2026",
+        "title": "Ofer Levy",
+        "type": "concert",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 70,
+        "venueName": "Zappa Tel Aviv - Midtown",
+        "venueId": null,
+        "sourceUrl": "https://www.zappa-club.co.il/artist/%D7%A2%D7%95%D7%A4%D7%A8-%D7%9C%D7%95%D7%99/",
+        "ticketUrl": "https://www.zappa-club.co.il/artist/%D7%A2%D7%95%D7%A4%D7%A8-%D7%9C%D7%95%D7%99/",
+        "summary": "Veteran Israeli singer Ofer Levy brings his national tour to Zappa Tel Aviv, marking 35 years on stage with his Turkish, Egyptian, Spanish and Israeli-influenced style.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-avi-aburomi-2026",
+        "title": "Avi Aburomi",
+        "type": "concert",
+        "startDate": "2026-05-20",
+        "endDate": "2026-05-20",
+        "importance": 70,
+        "venueName": "Zappa Tel Aviv - Midtown",
+        "venueId": null,
+        "sourceUrl": "https://www.zappa-club.co.il/artist/%D7%90%D7%91%D7%99-%D7%90%D7%91%D7%95%D7%A8%D7%95%D7%9E%D7%99/",
+        "ticketUrl": "https://www.zappa-club.co.il/artist/%D7%90%D7%91%D7%99-%D7%90%D7%91%D7%95%D7%A8%D7%95%D7%9E%D7%99/",
+        "summary": "Israeli singer-songwriter Avi Aburomi opens a run of shows at Zappa Tel Aviv with hits including “ספרי להם הכל,” “אין אותנו יותר” and “לאהובי.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-pogrom-exorcism-2026",
+        "title": "POGROM - EXORCISM",
+        "type": "club-night",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-22",
+        "importance": 68,
+        "venueName": "TBA - Secret Location TLV",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431387",
+        "ticketUrl": null,
+        "summary": "POGROM.TLV returns with a hard-music rave focused on hardcore and gabber, featuring OFEK b2b SH, SE, Misstaken, Beatfoot, Osiris, Schizoid Nonesense and Katnoa b2b Alexa.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-monica-sex-2026",
+        "title": "Monica Sex",
+        "type": "concert",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-28",
+        "importance": 78,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDG/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDG/001/ALL/en",
+        "summary": "Monica Sex return in their 2026 live version after their 30-years-of-“Ptzatzim Veneshikot” tour, performing with Yehali Sobol, Peter Roth, Shahar Even Tzur and Safi Efrati.",
+        "genres": []
+      },
+      {
+        "id": "tel-aviv-anna-asti-2026",
+        "title": "Anna Asti – Queen Show",
+        "type": "concert",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-28",
+        "importance": 82,
+        "venueName": "Expo Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://showman.co.il/e/anna-asti-shou-carica/",
+        "ticketUrl": "https://showman.co.il/e/anna-asti-shou-carica/",
+        "summary": "Anna Asti plays Expo Tel Aviv with her solo “Queen” show, billed as her first major concert in Israel and featuring hits such as “Tsaritsa,” “Povelo,” “Phoenix” and “Po Baram.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-shlomi-shaban-2026",
+        "title": "Shlomi Shaban",
+        "type": "concert",
+        "startDate": "2026-05-31",
+        "endDate": "2026-05-31",
+        "importance": 78,
+        "venueName": "Charles Bronfman Auditorium, Tel Aviv Culture Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MTA64/001/ALL/en",
+        "ticketUrl": null,
+        "summary": "Shlomi Shaban presents a special piano show at the Tel Aviv Culture Center with Yoni Rechter, Banai and the Tel Aviv Soloists Ensemble; Ticketmaster lists the show as sold out.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

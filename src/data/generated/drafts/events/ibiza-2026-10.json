@@ -1,0 +1,230 @@
+{
+  "slug": "ibiza",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:45:44.762Z",
+  "responseId": "resp_09df4dbd111664cb0069ff56381254819fb346278bdff6228e",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is already shaping up around closing-party week, with Hï Ibiza, Pacha, Ushuaïa, UNVRS, Amnesia and DC10 all publishing major end-of-season dates.",
+    "events": [
+      {
+        "id": "ibiza-pure-pacha-purple-disco-machine-2026",
+        "title": "Purple Disco Machine | Pure Pacha - Closing Party",
+        "type": "club-night",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-01",
+        "importance": 86,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/purple-disco-machine--pure-pacha---closing-party-01-10-2026",
+        "ticketUrl": null,
+        "summary": "Pure Pacha’s 2026 closing party is headlined by Purple Disco Machine, with Gerd Janson, Busy P and Breakbot also listed. The official Pacha page confirms Thursday, 1 October 2026 at Pacha Ibiza.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-calvin-harris-ushuaia-closing-2026",
+        "title": "Calvin Harris - Closing Party",
+        "type": "residency",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 90,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-10-02",
+        "ticketUrl": null,
+        "summary": "Calvin Harris closes his Friday Ushuaïa Ibiza run on 2 October 2026, with MK and Tyson O’Brien listed on the official event page. The source confirms a 17:00 start at the open-air Playa d’en Bossa venue.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-camelphat-summer-of-love-2026",
+        "title": "CAMELPHAT Present Summer of Love - Closing Party",
+        "type": "residency",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 88,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/camelphat/2026-10-02",
+        "ticketUrl": null,
+        "summary": "CAMELPHAT’s Summer of Love closes at Hï Ibiza on Friday, 2 October 2026, with Ewan McVicar, Jayda G and Edd listed in the Club Room. Hï Ibiza confirms the residency’s second 2026 run ends on this date.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-ants-ushuaia-oct-2026",
+        "title": "ANTS at Ushuaïa Ibiza",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 86,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/ants-on-2026-10-03",
+        "ticketUrl": null,
+        "summary": "ANTS takes over Ushuaïa Ibiza on Saturday, 3 October 2026, with Franky Rizardo, Nic Fanciulli B2B SOSA, Bontan B2B Rafael, Ranger Trucco B2B Robbie Doherty, Meeshy and Raul Rodriguez listed. The official page confirms a 15:00 start.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-black-coffee-hi-closing-2026",
+        "title": "Black Coffee - Closing Party",
+        "type": "residency",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 92,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-10-03",
+        "ticketUrl": null,
+        "summary": "Black Coffee closes his flagship Saturday Hï Ibiza residency on 3 October 2026, with Dorian Craft in the Theatre and Skepta’s Más Tiempo concept in the Club Room. Hï Ibiza lists the season as running from 2 May to 3 October 2026.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-solomun-plus-one-closing-2026",
+        "title": "Solomun+1 - Closing Party",
+        "type": "residency",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 91,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386787",
+        "ticketUrl": null,
+        "summary": "Solomun+1 closes its 2026 Pacha Ibiza season on Sunday, 4 October 2026. Resident Advisor lists Solomun for the closing party at Pacha Ibiza from 23:00 to 06:00.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-carl-cox-unvrs-closing-2026",
+        "title": "Carl Cox - Closing Party",
+        "type": "residency",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 92,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/carl-cox/04-10-2026",
+        "ticketUrl": null,
+        "summary": "Carl Cox closes his [UNVRS] Sunday residency on 4 October 2026 with an all-night-long Main Room set, plus melon bomb in Wild Comet. The official [UNVRS] page confirms the date and a 23:30 start.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-mestiza-artcore-hi-closing-2026",
+        "title": "MESTIZA & Indira Paganotto Presents ARTCORE - Closing Party",
+        "type": "residency",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 86,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/mestiza/2026-10-04",
+        "ticketUrl": null,
+        "summary": "Hï Ibiza’s Sunday closing date pairs MESTIZA in the Theatre with Indira Paganotto’s ARTCORE in the Club Room on 4 October 2026. The official event page lists Floyd Lavine, Dan Tanev, Pan-Pot, Anetha, Interactive Noise and Sirus Hood among the bill.",
+        "genres": [
+          "house",
+          "techno",
+          "latin"
+        ]
+      },
+      {
+        "id": "ibiza-fme-im-famous-david-guetta-2026",
+        "title": "F*** ME I'M FAMOUS! By David Guetta",
+        "type": "residency",
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-05",
+        "importance": 90,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/f-me-im-famous-by-david-guetta-on-2026-10-05",
+        "ticketUrl": null,
+        "summary": "David Guetta’s F*** ME I’M FAMOUS! closes its 2026 Ushuaïa Ibiza run on Monday, 5 October 2026, with Afrojack, Matt Sassari and Paul Reynolds listed. The official event page confirms a 17:00 start.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-glitterbox-amnesia-closing-2026",
+        "title": "Glitterbox at Amnesia Ibiza - Closing Date",
+        "type": "residency",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 89,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.amnesia.es/en/party-info/glitterbox",
+        "ticketUrl": null,
+        "summary": "Glitterbox’s 2026 Amnesia Ibiza residency is confirmed to run every Friday from 15 May until 9 October 2026. The Amnesia source describes the move as a new chapter for Glitterbox at one of Ibiza’s historic clubs.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-music-on-pacha-closing-2026",
+        "title": "Marco Carola Presents Music On - Closing Party Part 2",
+        "type": "residency",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 91,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/marco-carola-presents-music-on---closing-party-part-2-09-10-2026",
+        "ticketUrl": null,
+        "summary": "Music On closes its 2026 Pacha Ibiza season with Part 2 on Friday, 9 October 2026. Pacha lists Marco Carola, Franky Rizardo, East End Dubs, Ilario Alicante, Ale De Tuglie and Grace Arribas on the bill.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-circoloco-dc10-closing-2026",
+        "title": "CircoLoco Ibiza - The Closing Party",
+        "type": "club-night",
+        "startDate": "2026-10-12",
+        "endDate": "2026-10-12",
+        "importance": 94,
+        "venueName": "DC-10",
+        "venueId": "dc10",
+        "sourceUrl": "https://ra.co/events/2400980",
+        "ticketUrl": null,
+        "summary": "CircoLoco’s 2026 DC-10 closing party is confirmed for Monday, 12 October 2026. Resident Advisor lists the event at DC-10 from 18:00 to 06:00, with lineup still TBA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

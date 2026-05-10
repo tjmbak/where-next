@@ -1,0 +1,206 @@
+{
+  "slug": "tbilisi",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:54:24.060Z",
+  "responseId": "resp_043c643b8c519eca0069ff6630b38081909f358b9cd1f7882e",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Tbilisi was dominated by heavyweight techno programming at Bassiani/Horoom and KHIDI, with a mainstream electronic headline show from Peggy Gou adding scale late in the month.",
+    "events": [
+      {
+        "id": "tbilisi-bassiani-horoom-marco-bailey-apr-2026",
+        "title": "Bassiani - Horoom: Marco Bailey, Ogazón, BMI, NDRX",
+        "type": "club-night",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 84,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2384002",
+        "ticketUrl": null,
+        "summary": "Bassiani's April 3 Friday program paired Belgian techno veteran Marco Bailey with Ogazón, BMI and NDRX on the main floor. Horoom hosted a Morevi x Schleuse Eins program with Boyá B2B Valley Dolly, evolpeeD & Raphael Hansen, Reduks live and Sumi.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-ancient-methods-apr-2026",
+        "title": "KHIDI: Ancient Methods, Downwell, 00rt B2B Nitsa, Tasime Da Hidonash",
+        "type": "club-night",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 84,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://ra.co/events/2390445",
+        "ticketUrl": "https://khidi.ge/event/030426/",
+        "summary": "KHIDI hosted resident Ancient Methods with Downwell, Tasime Da Hidonash live and 00rt B2B Nitsa. The G2 room featured Body Pressure, Cillian and Felix Lindner.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-destroid-kick-apr-2026",
+        "title": "DESTROID: Deborah Forti, Gabrielle Rites",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 70,
+        "venueName": "Kick",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393200",
+        "ticketUrl": null,
+        "summary": "DESTROID brought a two-floor techno night to Club KICK with Italian DJ Deborah Forti and Georgian artist Gabrielle Rites. The lineup also listed HELLA, Kariauli, OREZ, Supernova, ELECTRO JUNKIEE, TEONA NOCTURNE and D MIND PROCESS.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-dvs1-jakojako-apr-2026",
+        "title": "Bassiani - Horoom: DVS1, JakoJako, Elena Colombi",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 88,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2384006",
+        "ticketUrl": null,
+        "summary": "Bassiani's April 10 program was led by DVS1, with HVL, BMI and JakoJako also billed for the main floor. Horoom hosted an Osàre! Editions takeover with Elena Colombi, Ece Özel, ninasupsa and Kancheli B2B Kvanchi.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-daxj-apr-2026",
+        "title": "Bassiani - Horoom: Dax J, Setaoc Mass, Newa, Zesknel",
+        "type": "club-night",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 88,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2384010",
+        "ticketUrl": null,
+        "summary": "Bassiani booked Dax J alongside Newa, Setaoc Mass and Zesknel live for its April 17 main-floor session. Horoom featured Dito B2B Seqta, Martin Gilleshøj, Neon Warrior and Olgica.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-g2-314-apr-2026",
+        "title": "G2: 3.14, Analog Waves live, OTHR, Sani",
+        "type": "club-night",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 76,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://ra.co/events/2416630",
+        "ticketUrl": "https://khidi.ge/event/170426/",
+        "summary": "KHIDI's G2 room hosted Berlin-based 3.14 with Analog Waves performing live. OTHR and Sani completed a lineup centered on industrial techno, EBM, electro and experimental electronics.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-dila-anniversary-apr-2026",
+        "title": "Dila 1 Year Anniversary",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 74,
+        "venueName": "Dedaena Bar",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2414686",
+        "ticketUrl": null,
+        "summary": "Dila marked its first anniversary at Dedaena Bar with André Dancekowski, FRANCHI, INFERNO, KNUC and Soulfloor. The event was billed as a disco and house celebration of the party's first year.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-peggy-gou-apr-2026",
+        "title": "Peggy Gou at Radio City",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 92,
+        "venueName": "Radio City (District 4)",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2381560",
+        "ticketUrl": "https://biletebi.ge/en/concerts/peggy",
+        "summary": "Mono Hall and Boom Boom Booking Agency presented Peggy Gou at Radio City, one of the month's highest-profile electronic bookings. The bill listed Peggy Gou with support sets by Mike Robox, Jino Dollini and Anna Sue on the ticketing page.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-behaerd-apr-2026",
+        "title": "KHIDI x Be Haerd: Matrixxman, Laure Croft, Boyd Schidt",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 82,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://ra.co/events/2406857",
+        "ticketUrl": "https://khidi.ge/event/240426/",
+        "summary": "KHIDI hosted a Be Haerd showcase led by Matrixxman, Laure Croft, Boyd Schidt, Highlimiter and Varuna Agosti B2B Thoms Traxx. G2 added Prance, Knaughty and MSTN.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-function30-apr-2026",
+        "title": "Bassiani - Horoom: Function 30 with Carrier, Nastia Reigel, Sarah Wreath",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 88,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2384013",
+        "ticketUrl": null,
+        "summary": "Bassiani's April 24 night was billed around Function 30, with Carrier, Function, Nastia Reigel and Sarah Wreath on the Bassiani floor. Horoom hosted a Morevi program with Daniel[i] live, Keto, Separat and skyra.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-fireflies-synthesia-apr-2026",
+        "title": "Fireflies x Synthesia Lab: Ambient Music Session",
+        "type": "concert",
+        "startDate": "2026-04-26",
+        "endDate": "2026-04-26",
+        "importance": 70,
+        "venueName": "Synthesia Lab",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423234",
+        "ticketUrl": null,
+        "summary": "Fireflies Sessions returned at Synthesia Lab with live sets from TeTe Noise and Ed Berens, plus a collaborative performance by Thecimal and Einar Stray. Salome Vardanashvili was also listed for a radio-style listening session.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

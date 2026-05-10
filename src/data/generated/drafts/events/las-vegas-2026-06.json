@@ -1,0 +1,213 @@
+{
+  "slug": "las-vegas",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:34:35.426Z",
+  "responseId": "resp_037fe98a91fa16cd0069ff618d98dc81958c914aa288f08fdd",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 in Las Vegas is anchored by Sphere residencies, major arena tour stops, and heavyweight EDM pool/club bookings on the Strip.",
+    "events": [
+      {
+        "id": "las-vegas-no-doubt-sphere-2026",
+        "title": "No Doubt Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-05-06",
+        "endDate": "2026-06-13",
+        "importance": 93,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.thesphere.com/shows?camefrom=cfc_sphere",
+        "ticketUrl": null,
+        "summary": "No Doubt’s Sphere run is listed for May 6–June 13, 2026, bringing the band’s extended Las Vegas residency into the first half of June.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-pepe-aguilar-dolby-live-2026",
+        "title": "Pepe Aguilar: En Concierto USA 2026",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 80,
+        "venueName": "Dolby Live at Park MGM",
+        "venueId": null,
+        "sourceUrl": "https://parkmgm.mgmresorts.com/en/entertainment/pepe-aguilar.html",
+        "ticketUrl": "https://www.ticketmaster.com/pepe-aguilar-en-concierto-usa-2026-las-vegas-06-06-2026/event/2E0064639E8216C8",
+        "summary": "Pepe Aguilar plays Dolby Live at Park MGM on Saturday, June 6, 2026, as part of his En Concierto USA 2026 run.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-third-eye-blind-pearl-2026",
+        "title": "Third Eye Blind",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 74,
+        "venueName": "Pearl Concert Theater at Palms Casino Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.palms.com/entertainment/pearl-theater/third-eye-blind",
+        "ticketUrl": "https://www.axs.com/events/1372705/third-eye-blind-tickets",
+        "summary": "Third Eye Blind are confirmed for Pearl Concert Theater at Palms Casino Resort on Saturday, June 6, 2026 at 8 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-michelle-johnson-juneteenth-2026",
+        "title": "Michelle Johnson Presents \"Freedom — A Juneteenth Celebration\"",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 68,
+        "venueName": "Myron's at The Smith Center",
+        "venueId": null,
+        "sourceUrl": "https://thesmithcenter.com/tickets/2526/michelle-johnson-freedom/",
+        "ticketUrl": "https://thesmithcenter.com/tickets/2526/michelle-johnson-freedom/",
+        "summary": "Vocalist Michelle Johnson presents a Juneteenth concert at The Smith Center on June 19, blending spirituals, jazz, Broadway, soul, percussion, dance, and spoken word.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-kenny-chesney-sphere-2026",
+        "title": "Kenny Chesney at Sphere",
+        "type": "residency",
+        "startDate": "2026-06-19",
+        "endDate": "2026-07-11",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.thesphere.com/shows?camefrom=cfc_sphere",
+        "ticketUrl": "https://www.thesphere.com/shows/kenny-chesney?cmp=eml_sphere_MKTG_250116_3659769",
+        "summary": "Kenny Chesney’s Sphere engagement is listed for June 19–July 11, 2026, with the country star bringing an immersive concert production to the venue.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-chainsmokers-encore-beach-2026",
+        "title": "The Chainsmokers at Encore Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 83,
+        "venueName": "Encore Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1329608",
+        "ticketUrl": "https://www.axs.com/events/1329608",
+        "summary": "The Chainsmokers headline a 21+ daytime pool-club event at Encore Beach Club on Saturday, June 20, 2026 at 11 AM.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-asap-rocky-mgm-grand-2026",
+        "title": "A$AP Rocky",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 84,
+        "venueName": "MGM Grand Garden Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.grandgardenarena.com/events/detail/a-ap-rocky-1290771",
+        "ticketUrl": "https://www.axs.com/events/1290771/a-ap-rocky-tickets?skin=grandgarden",
+        "summary": "A$AP Rocky brings the Don’t Be Dumb World Tour to MGM Grand Garden Arena on Friday, June 26, 2026 at 7:30 PM.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-summer-walker-tmobile-2026",
+        "title": "Summer Walker: Still Finally Over It Tour",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 84,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1302527/summer-walker-tickets",
+        "ticketUrl": "https://www.axs.com/events/1302527/summer-walker-tickets",
+        "summary": "Summer Walker’s Still Finally Over It Tour stops at T-Mobile Arena on Friday, June 26, 2026, with Odeal listed on the bill.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-zedd-omnia-2026",
+        "title": "Zedd at OMNIA Nightclub",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 82,
+        "venueName": "OMNIA Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-6-26-2026",
+        "ticketUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-6-26-2026",
+        "summary": "Zedd is confirmed for OMNIA Nightclub on Friday, June 26, 2026, with the event running from 10:30 PM into the early hours of June 27.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-rosalia-lux-tour-2026",
+        "title": "ROSALÍA: LUX TOUR 2026",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 90,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/rosalia-lux-tour-2026",
+        "ticketUrl": "https://www.axs.com/events/1226186/rosalia-lux-tour-2026-tickets?hash=2ITXnRwXk8OoJcubD7q_w4Hh9kToqCtOagkyYd0XGWw",
+        "summary": "ROSALÍA brings her LUX TOUR 2026 to T-Mobile Arena on Saturday, June 27, 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-tiesto-palm-tree-2026",
+        "title": "Tiësto at Palm Tree Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 84,
+        "venueName": "Palm Tree Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1398902/tiesto-tickets",
+        "ticketUrl": "https://www.axs.com/events/1398902/tiesto-tickets",
+        "summary": "Tiësto headlines Palm Tree Beach Club on Saturday, June 27, 2026 at 11 AM, adding a major EDM dayclub booking to the late-June Strip calendar.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "las-vegas-deadmau5-xs-2026",
+        "title": "deadmau5 at XS Nightclub",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 83,
+        "venueName": "XS Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1315576/deadmau5-tickets",
+        "ticketUrl": "https://www.axs.com/events/1315576/deadmau5-tickets",
+        "summary": "deadmau5 is confirmed for XS Nightclub on Saturday, June 27, 2026 at 10:30 PM.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

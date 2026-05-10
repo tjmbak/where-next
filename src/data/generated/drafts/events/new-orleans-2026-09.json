@@ -1,0 +1,185 @@
+{
+  "slug": "new-orleans",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:57:16.228Z",
+  "responseId": "resp_007102cda71e82320069ffd7509fa481929cefe5cf341e59bd",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 has a confirmed mix of stadium pop, Jazz Market showcases, and dance-party programming, with more venue calendars likely to fill in closer to the month.",
+    "events": [
+      {
+        "id": "new-orleans-bearracuda-sep-2026",
+        "title": "Bearracuda",
+        "type": "club-night",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 70,
+        "venueName": "The Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/bearracuda-new-orleans-louisiana-09-04-2026/event/1B006454A32CE162",
+        "ticketUrl": "https://www.ticketmaster.com/bearracuda-new-orleans-louisiana-09-04-2026/event/1B006454A32CE162",
+        "summary": "Bearracuda brings its touring LGBTQ+ bear/circuit dance party to The Joy Theater on September 4, 2026 at 9:00 PM.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-orleans-sevendust-theory-dead-seven-2026",
+        "title": "Sevendust & Theory of a Deadman: The Dead / Seven Tour",
+        "type": "concert",
+        "startDate": "2026-09-08",
+        "endDate": "2026-09-08",
+        "importance": 72,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_aM9huO3/sevendust-theory-of-a-deadman-the-dead-seven-tour",
+        "ticketUrl": "https://www.ticketmaster.com/sevendust-theory-of-a-deadman-the-dead-seven-tour-new-orleans-09-08-2026/event/1B00649DD76CD812",
+        "summary": "Sevendust and Theory of a Deadman co-headline The Dead / Seven Tour at The Fillmore New Orleans, with Return to Dust also listed on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-chrissi-poland-muscle-shoals-2026",
+        "title": "Chrissi Poland - Forever Muscle Shoals",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 70,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/chrissi-poland-new-orleans-louisiana-09-11-2026/event/1B006477E9CA32A7",
+        "ticketUrl": "https://www.ticketmaster.com/chrissi-poland-new-orleans-louisiana-09-11-2026/event/1B006477E9CA32A7",
+        "summary": "Soul singer and multi-instrumentalist Chrissi Poland performs her Forever Muscle Shoals program at New Orleans Jazz Market on September 11, 2026.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-groove-for-good-2026",
+        "title": "Groove for Good: A Celebration of Music and Community",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 82,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_An2Qh14/groove-for-good-a-celebration-of-music-and-community",
+        "ticketUrl": "https://www.ticketmaster.com/groove-for-good-a-celebration-of-new-orleans-louisiana-09-12-2026/event/1B00645A8F69B295",
+        "summary": "New Orleans Jazz Market hosts a community-focused concert featuring Judith Owen, Harry Shearer, Donald Harrison, Nicholas Payton, Bill Summers, Kermit Ruffins, Herlin Riley, and Jason Marsalis.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-bop-to-the-top-2026",
+        "title": "Bop To The Top - Ages 18+",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 70,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_aL4OS0c/bop-to-the-top-ages-18",
+        "ticketUrl": "https://www.ticketmaster.com/bop-to-the-top-ages-18-new-orleans-louisiana-09-12-2026/event/1B006497D583392D",
+        "summary": "Bop To The Top brings its pop nostalgia dance party to The Fillmore New Orleans on September 12, 2026 at 8:00 PM.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-bruno-mars-romantic-tour-2026",
+        "title": "Bruno Mars - The Romantic Tour",
+        "type": "concert",
+        "startDate": "2026-09-16",
+        "endDate": "2026-09-16",
+        "importance": 90,
+        "venueName": "Caesars Superdome",
+        "venueId": null,
+        "sourceUrl": "https://www.caesarssuperdome.com/events/detail/bruno-mars",
+        "ticketUrl": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-new-orleans-09-16-2026/event/1B006462F0C38A72",
+        "summary": "Bruno Mars plays Caesars Superdome on The Romantic Tour with special guests RAYE and Anderson .Paak performing as DJ Pee .Wee.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-cyrille-aimee-2026",
+        "title": "Cyrille Aimée",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 72,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/cyrille-aimee-tickets/artist/1642514",
+        "ticketUrl": "https://www.ticketmaster.com/cyrille-aimee-tickets/artist/1642514",
+        "summary": "Jazz vocalist Cyrille Aimée is confirmed for a September 17, 2026 performance at New Orleans Jazz Market.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-bobby-rush-2026",
+        "title": "Bobby Rush",
+        "type": "concert",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-24",
+        "importance": 76,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/bobby-rush-new-orleans-louisiana-09-24-2026/event/1B0063305A550D70",
+        "ticketUrl": "https://www.ticketmaster.com/bobby-rush-new-orleans-louisiana-09-24-2026/event/1B0063305A550D70",
+        "summary": "Blues and soul veteran Bobby Rush performs at New Orleans Jazz Market on September 24, 2026 at 7:30 PM.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-tajmo-taj-mahal-2026",
+        "title": "TajMo w/ Taj Mahal",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 80,
+        "venueName": "Mahalia Jackson Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70ojy",
+        "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70ojy",
+        "summary": "TajMo, the collaboration featuring Taj Mahal and Keb' Mo', is confirmed at Mahalia Jackson Theater on September 25, 2026 at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-built-to-spill-2026",
+        "title": "Built To Spill + Paul Schalda",
+        "type": "concert",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 70,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14793993/built-to-spill",
+        "ticketUrl": "https://www.ticketweb.com/event/built-to-spill-tipitinas-tickets/14793993?REFID=website&pl=tipitinas",
+        "summary": "Tipitina's presents Built To Spill with Paul Schalda on September 27, 2026, with doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

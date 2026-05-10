@@ -1,0 +1,206 @@
+{
+  "slug": "lagos",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:17:20.717Z",
+  "responseId": "resp_072b4dd41ded7f910069ff5d7bedbc819c93a3991c18407910",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lagos",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Lagos was anchored by post-Detty December spillover parties and AFRIMA’s citywide awards-week programming.",
+    "events": [
+      {
+        "id": "lagos-afroxela-dj-marathon-jan-2026",
+        "title": "AfroXela DJ Marathon: 96 Hours Non-Stop Music Beach Party",
+        "type": "festival",
+        "startDate": "2025-12-29",
+        "endDate": "2026-01-02",
+        "importance": 88,
+        "venueName": "Nautica Beach Resort / Elegushi Beach area",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/afroxela-dj-marathon-96-hours-non-stop-music-beach-party-world-record-tickets-1978846490121",
+        "ticketUrl": "https://www.eventbrite.com/e/afroxela-dj-marathon-96-hours-non-stop-music-beach-party-world-record-tickets-1978846490121",
+        "summary": "A 96-hour beach DJ marathon billed with 100+ DJs including DJ Consequence, DJ Neptune, DJ Bella and DJ Jimmy Jatt, running through New Year’s week in Lekki.",
+        "genres": [
+          "electronic",
+          "amapiano",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "lagos-mainland-blockparty-mission-26k-2026",
+        "title": "Mainland BlockParty: Mission 26K",
+        "type": "club-night",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-02",
+        "importance": 88,
+        "venueName": "Police College, Ikeja",
+        "venueId": null,
+        "sourceUrl": "https://mainlandblockparty.com/event/mainland-blockparty-mission-26k/?currency=ngn",
+        "ticketUrl": "https://mainlandblockparty.com/event/mainland-blockparty-mission-26k/?currency=ngn",
+        "summary": "Mainland BlockParty opened the year with its Mission 26K Lagos edition at Police College, Ikeja, positioned as a large-scale youth-culture party.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-alibaba-jan-1-concert-2026",
+        "title": "Alibaba January 1st Concert 2026",
+        "type": "concert",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-02",
+        "importance": 78,
+        "venueName": "Eko Convention Center",
+        "venueId": null,
+        "sourceUrl": "https://viewlagos.ng/event/alibaba-jan-1st-concert-2026/",
+        "ticketUrl": "https://egotickets.com/events/alibaba-jan-1st-concert-2026",
+        "summary": "Alibaba’s long-running New Year variety concert returned to Eko Convention Center with comedy, music and entertainment programming.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-k1-new-year-fest-2026",
+        "title": "K1 De Ultimate New Year Fest",
+        "type": "concert",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 82,
+        "venueName": "Queens Park Event Centre",
+        "venueId": null,
+        "sourceUrl": "https://thelagosweekender.com/events-in-lagos-this-weekend-2nd-4th-january-2026/",
+        "ticketUrl": null,
+        "summary": "The 5th-anniversary New Year concert by Fuji icon K1 De Ultimate was listed for Queens Park Event Centre in Lagos.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-soul-n-sooya-2026",
+        "title": "Soul ’N’ Sooya with DOTTi The Deity",
+        "type": "concert",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 70,
+        "venueName": "J Randle Centre for Yorùbá Culture & History",
+        "venueId": null,
+        "sourceUrl": "https://www.skiboh.com/events/soul-n-sooya-with-dotti-the-deity",
+        "ticketUrl": "https://www.skiboh.com/events/soul-n-sooya-with-dotti-the-deity",
+        "summary": "DOTTi The Deity hosted a concert-meets-party concept blending soul, rave energy and Lagos nightlife at J Randle Centre.",
+        "genres": [
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lagos-master-of-ballads-tour-2026",
+        "title": "Dwin, The Stoic — Master of Ballads Tour: Lagos",
+        "type": "concert",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 76,
+        "venueName": "Shell Hall, MUSON Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/es/e/107384117-dwin-the-stoic-at-muson-centre?came_from=209",
+        "ticketUrl": "https://tix.africa/discover/moblagos",
+        "summary": "Dwin, The Stoic brought the Master of Ballads Tour to Lagos for a full concert at MUSON Centre’s Shell Hall.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-apala-disco-night-2026",
+        "title": "Apala Disco Night",
+        "type": "club-night",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 78,
+        "venueName": "La Madison Place",
+        "venueId": null,
+        "sourceUrl": "https://thelagosweekender.com/events-in-lagos-this-weekend-2nd-4th-january-2026/",
+        "ticketUrl": null,
+        "summary": "Apala Disco Night was listed with DJ Tunez, Musiliu Haruna Ishola, Terry Apala, Broda Shaggi and special guests for an Apala-meets-Afrobeats live show.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lagos-daybreeze-y2k-nolly-party-2026",
+        "title": "DayBreeze: Y2K Nolly Party",
+        "type": "club-night",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 73,
+        "venueName": "The Wings Tower",
+        "venueId": null,
+        "sourceUrl": "https://thelagosweekender.com/events-in-lagos-this-weekend-2nd-4th-january-2026/",
+        "ticketUrl": "https://www.pv.rsvp",
+        "summary": "DayBreeze closed its Detty December run with a Y2K Nollywood-themed rooftop party at The Wings Tower.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lagos-ariya-village-jan-2026",
+        "title": "ÀRÍYÁ Village — A Yorùbá Imaginarium",
+        "type": "festival",
+        "startDate": "2025-12-24",
+        "endDate": "2026-01-04",
+        "importance": 75,
+        "venueName": "J Randle Centre for Yorùbá Culture & History",
+        "venueId": null,
+        "sourceUrl": "https://www.ariiyatickets.com/event/ariya-village/",
+        "ticketUrl": "https://www.ariiyatickets.com/event/ariya-village/",
+        "summary": "ÀRÍYÁ Village ran into early January with live music, dance shows, drumming, DJ sets, fashion, film and food programming centered on Yorùbá culture.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lagos-afrima-awards-week-2026",
+        "title": "9th All Africa Music Awards (AFRIMA)",
+        "type": "festival",
+        "startDate": "2026-01-07",
+        "endDate": "2026-01-11",
+        "importance": 96,
+        "venueName": "Multiple Lagos venues",
+        "venueId": null,
+        "sourceUrl": "https://afrima.org/2025/10/30/au-afrima-confirm-january-7-11-2026-for-9th-awards-in-lagos/",
+        "ticketUrl": null,
+        "summary": "AFRIMA’s 9th edition took place in Lagos across five days of awards-week programming in partnership with the African Union Commission and Lagos State.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "lagos-afrima-music-village-2026",
+        "title": "AFRIMA Music Village",
+        "type": "festival",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 90,
+        "venueName": "Ikeja City Mall",
+        "venueId": null,
+        "sourceUrl": "https://afrima.org/2026/01/08/9th-afrima-lagos-comes-alive-as-africas-biggest-music-awards-begin/",
+        "ticketUrl": null,
+        "summary": "AFRIMA Music Village was announced as an open-air festival at Ikeja City Mall featuring more than 25 A-list artists and DJs from across Africa.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

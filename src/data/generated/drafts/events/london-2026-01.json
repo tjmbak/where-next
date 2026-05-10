@@ -1,0 +1,218 @@
+{
+  "slug": "london",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:57:50.559Z",
+  "responseId": "resp_0578407f5c1d0a140069ff590e68b08193b4b6db9c80241538",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 was especially strong for London club programming, with E1, fabric, KOKO and Night Tales all running notable electronic nights alongside arena-scale pop and pop-punk concerts.",
+    "events": [
+      {
+        "id": "london-e1-blackworks-999999999-2026",
+        "title": "E1⁷: Blackworks invites 999999999",
+        "type": "club-night",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 82,
+        "venueName": "E1",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2278726",
+        "ticketUrl": "https://ra.co/events/2278726",
+        "summary": "Blackworks brought Italian techno duo 999999999 to E1 as part of the venue’s E1⁷ birthday programming. The lineup also listed Alja Al Saadi, Arman John, AVCI, AMMARA and Dexphase.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-e1-pan-pot-2026",
+        "title": "E1⁷: Pan-Pot All Night Long (The Grand Closing)",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 84,
+        "venueName": "E1",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2278727",
+        "ticketUrl": "https://ra.co/events/2278727",
+        "summary": "Pan-Pot played an all-night-long techno set at E1 for the grand closing of the venue’s seventh-birthday celebrations. The event was promoted by E1 and Crowded London.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-koko-dave-lee-2026",
+        "title": "KOKO Electronic: Dave Lee",
+        "type": "club-night",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 76,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/koko-electronic-dave-lee",
+        "ticketUrl": null,
+        "summary": "KOKO Electronic hosted Z Records founder Dave Lee for a house and disco-led Friday night at KOKO. The venue billed the show as Lee’s return to the theatre with special guests TBA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-metalheadz-night-tales-2026",
+        "title": "Metalheadz Residency: Grooverider, Loxy, Digital, Chinese Daughter + more",
+        "type": "residency",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 88,
+        "venueName": "Night Tales",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2304722",
+        "ticketUrl": "https://ra.co/events/2304722",
+        "summary": "A representative date from Metalheadz’s four-Friday January residency at Night Tales, celebrating three decades of the drum & bass label. The 9 January lineup featured Grooverider, Loxy, Digital, Chinese Daughter, Diverge and Cleveland Watkiss.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-origins-bcco-2026",
+        "title": "Origins x BCCO - future.666, ÜBERKIKZ, SHDW",
+        "type": "club-night",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://dice.fm/event/bbxpam-origins-x-bcco-future666-berkikz-shdw-16th-jan-fabric-london-tickets?lng=en-US",
+        "ticketUrl": "https://dice.fm/event/bbxpam-origins-x-bcco-future666-berkikz-shdw-16th-jan-fabric-london-tickets?lng=en-US",
+        "summary": "Origins and BCCO presented a techno-focused night at fabric with future.666, ÜBERKIKZ and SHDW. DICE listed the event for 16 January 2026 at fabric.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-koko-sasson-mont-rouge-2026",
+        "title": "Sasson & Mont Rouge",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 75,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/koko-electronic-sunnery-james-ryan-marciano",
+        "ticketUrl": null,
+        "summary": "KOKO Electronic hosted Paris-born DJ and producer Sasson alongside Swiss trio Mont Rouge. The venue described the sound as deep, Afro and melodic house.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-e1-alive-lee-ann-roberts-2026",
+        "title": "ALIVE: Lee Ann Roberts, Parfait, DJ Hyperdrive",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 81,
+        "venueName": "E1",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2272445",
+        "ticketUrl": "https://ra.co/events/2272445",
+        "summary": "E1’s ALIVE series booked Lee Ann Roberts, Parfait and DJ Hyperdrive for a hard techno night. The RA listing also included Becky Stroke, Cristian Collodoro and Hortense de Beauharnais.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-all-time-low-o2-2026",
+        "title": "All Time Low: EVERYONE'S TALKING! TOUR",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 80,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/all-time-low-2026",
+        "ticketUrl": null,
+        "summary": "All Time Low brought the EVERYONE'S TALKING! TOUR to The O2 arena. The venue listing named Mayday Parade and Taylor Acorn as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-murda-indigo-o2-2026",
+        "title": "Murda Live in London",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 70,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/murda",
+        "ticketUrl": null,
+        "summary": "Dutch-Turkish rapper Murda performed at indigo at The O2. The O2 listing highlighted his hits in the Netherlands and Türkiye and noted collaborations with artists including Tion Wayne, Ezhel and Mero.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-agnes-koko-2026",
+        "title": "Agnes",
+        "type": "concert",
+        "startDate": "2026-01-28",
+        "endDate": "2026-01-28",
+        "importance": 72,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/agnes/",
+        "ticketUrl": null,
+        "summary": "Swedish pop artist Agnes returned to London for a KOKO show featuring hits such as “Release Me,” “Fingers Crossed” and “Here Comes The Night.” KOKO billed it as a disco-pop performance.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-technimatic-koko-2026",
+        "title": "For All Of Us: Technimatic",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 79,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/for-all-of-us-technimatic/",
+        "ticketUrl": null,
+        "summary": "Technimatic brought the For All Of Us event to KOKO for a daytime drum & bass session. The event page described the party as a celebration of soulful, uplifting drum & bass.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-jason-derulo-o2-2026",
+        "title": "Jason Derulo",
+        "type": "concert",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jason-derulo-2026",
+        "ticketUrl": null,
+        "summary": "Jason Derulo’s The Last Dance UK arena tour stopped at The O2 arena. The venue listed Thera and LZ7 as special guests.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

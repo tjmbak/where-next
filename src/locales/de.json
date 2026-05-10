@@ -1,0 +1,22 @@
+{
+  "nav.methodology": "methodik",
+  "nav.joinWaitlist": "warteliste",
+  "nav.signIn": "anmelden",
+  "nav.backToMap": "zurück zur karte",
+  "hero.title.lead": "Wohin geht es",
+  "hero.title.you": "als nächstes?",
+  "hero.subtitle": "Festivals, Club-Saisons und kulturelle Momente, die einen Flug wert sind — Stadt für Stadt, Monat für Monat.",
+  "drop.eyebrow": "the drop",
+  "drop.title": "Wohin im {{month}}.",
+  "drop.subtitle": "Fünf Orte, die zu deinen Szenen, Regionen und deinem Budget passen. Kuratiert, nicht gescrapt.",
+  "drop.unsubscribe": "abmelden",
+  "drop.tunePreferences": "einstellungen anpassen",
+  "concierge.eyebrow": "concierge",
+  "concierge.title": "Ein Briefing. Eine Reise. Komplett geplant.",
+  "membership.eyebrow": "where next pro",
+  "membership.title": "Wenn's zählt, sei zuerst dran.",
+  "trips.share.copy": "link kopieren",
+  "trips.share.copied": "link kopiert",
+  "trips.share.x": "auf x teilen ↗",
+  "trips.share.whatsapp": "whatsapp ↗"
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "berlin",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:51:43.430Z",
+  "responseId": "resp_0e1b9b7d5689a32f0069ff579675888195b0ae77a70431a769",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Berlin balanced major arena rap/pop concerts with a strong club calendar and MaerzMusik’s citywide contemporary-music programme.",
+    "events": [
+      {
+        "id": "berlin-maerzmusik-2026",
+        "title": "MaerzMusik 2026",
+        "type": "festival",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-29",
+        "importance": 95,
+        "venueName": "Haus der Berliner Festspiele and multiple Berlin venues",
+        "venueId": null,
+        "sourceUrl": "https://www.berlinerfestspiele.de/en/maerzmusik",
+        "ticketUrl": "https://www.berlinerfestspiele.de/en/maerzmusik/tickets",
+        "summary": "Berliner Festspiele’s MaerzMusik 2026 ran 20–29 March with concerts, performances, installations and discourse formats. The programme included Georg Friedrich Haas’s 11,000 Strings with Klangforum Wien, Meredith Monk, Ellen Fullman with JACK Quartet, and the I AM ALL EARS finale.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-wu-tang-clan-2026",
+        "title": "Wu-Tang Clan — Wu-Tang Forever: The Final Chamber",
+        "type": "concert",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-03",
+        "importance": 90,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/wu-tang-clan/2026-03-03-1930",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/wu-tang-clan/2026-03-03-1930",
+        "summary": "Wu-Tang Clan played Uber Arena on 3 March as part of the Wu-Tang Forever: The Final Chamber tour. The arena listing named the group’s core members including RZA, GZA, Ghostface Killah, Method Man and Raekwon.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-verknipt-berlin-2026",
+        "title": "Verknipt Berlin",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 88,
+        "venueName": "Club OST",
+        "venueId": null,
+        "sourceUrl": "https://www.verknipt.org/berlin/",
+        "ticketUrl": "https://ra.co/events/2339589",
+        "summary": "Verknipt returned to Club OST for two hard-techno nights on 6 and 7 March. The Saturday lineup listed 6EJOU live, Ben Techy, Braindaamage, DJ Gianni, GO$PEL, Katy Rough, LISTORIO, Raxeller and Trancestrudel.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-womens-day-2026",
+        "title": "Klubnacht — Women’s Day edition",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 88,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/events/80717/",
+        "ticketUrl": null,
+        "summary": "Berghain’s 7 March Klubnacht was an all-female edition across Berghain and Panorama Bar. The bill included Jesse G, Marie-Julie, Olivia Mendez, Beste Hira, Katia Curie, Malika, Gabrielle Kwarteng, Ogazón and Cinthie.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-kiz-nur-fuer-frauen-2026",
+        "title": "K.I.Z — Nur für Frauen",
+        "type": "concert",
+        "startDate": "2026-03-08",
+        "endDate": "2026-03-08",
+        "importance": 86,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/kiz-26/2026-03-08-1900",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/kiz-26/2026-03-08-1900",
+        "summary": "K.I.Z staged their International Women’s Day “Nur für Frauen” concert at Uber Arena on 8 March. The arena listing confirmed the date, women-only concept and 19:00 start time.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-march-28-2026",
+        "title": "Klubnacht — Wata Igarashi, Ben Klock, Four Tet",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 89,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/events/80718/",
+        "ticketUrl": null,
+        "summary": "The 28 March Klubnacht paired a heavyweight Berghain techno bill with a broad Panorama Bar lineup. Wata Igarashi, Kwartz, JakoJako, Phase Fatale, Dasha Rush and Ben Klock were listed for Berghain, with Four Tet among the Panorama Bar artists.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-jid-tempodrom-2026",
+        "title": "J.I.D — God Does Like World Tours",
+        "type": "concert",
+        "startDate": "2026-03-10",
+        "endDate": "2026-03-10",
+        "importance": 80,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.de/event/j-i-d-god-does-like-world-tours-tickets/736458683?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.de/event/j-i-d-god-does-like-world-tours-tickets/736458683?language=en-us",
+        "summary": "J.I.D brought the God Does Like World Tours to Tempodrom on 10 March. Ticketmaster listed the Berlin show for 20:00 at Tempodrom, with Mick Jenkins on the lineup.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-kraftklub-max-schmeling-2026",
+        "title": "Kraftklub — Sterben in Karl-Marx-Stadt",
+        "type": "concert",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-11",
+        "importance": 82,
+        "venueName": "Max-Schmeling-Halle",
+        "venueId": null,
+        "sourceUrl": "https://www.max-schmeling-halle.de/events-tickets/event/detail/sterben-in-karl-marx-stadt-4195",
+        "ticketUrl": "https://www.max-schmeling-halle.de/events-tickets/event/detail/sterben-in-karl-marx-stadt-4195",
+        "summary": "Kraftklub played Max-Schmeling-Halle on 11 March on the Sterben in Karl-Marx-Stadt tour. The venue listed Lovehead as support and marked the concert sold out.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-tinlicker-columbiahalle-2026",
+        "title": "Tinlicker — EU/UK Tour",
+        "type": "concert",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-03",
+        "importance": 78,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/electronic-dance/tinlicker/2026-03-03-tinlicker-48ccf786-6d25-47bc-92f2-efccde2c5fcc/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/electronic-dance/tinlicker/2026-03-03-tinlicker-48ccf786-6d25-47bc-92f2-efccde2c5fcc/",
+        "summary": "Tinlicker performed at Columbiahalle on 3 March with Helsloot listed as support. The Berlin.de ticket page framed the show as one of three exclusive German dates on the trio’s March EU/UK tour.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-sleaford-mods-tempodrom-2026",
+        "title": "Sleaford Mods — No War No Death",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 78,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/events-and-tickets/program/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/sleaford_mods_2026-03-14_20/tickets/",
+        "summary": "Sleaford Mods were listed at Tempodrom on 14 March with the No War No Death programme title. The Tempodrom programme confirmed a 20:00 start and 18:30 doors.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-cavetown-astra-2026",
+        "title": "Cavetown — Running with Scissors Tour",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 75,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/cavetown-running-with-scissors-tour/2026-03-27-cavetown-running-with-scissors-tour-e858a849-322c-43ce-816c-f35186ac5339/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/rock-pop/cavetown-running-with-scissors-tour/2026-03-27-cavetown-running-with-scissors-tour-e858a849-322c-43ce-816c-f35186ac5339/",
+        "summary": "Cavetown brought the Running with Scissors Tour to Astra Kulturhaus on 27 March. The listing confirmed Dreamer Isioma as support and a 20:00 start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-singularity-tresor-2026",
+        "title": "Singularity at Tresor / Globus",
+        "type": "club-night",
+        "startDate": "2026-03-23",
+        "endDate": "2026-03-23",
+        "importance": 70,
+        "venueName": "Tresor / Globus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2372111",
+        "ticketUrl": "https://ra.co/events/2372111",
+        "summary": "Singularity hosted a techno night at Tresor / Globus on 23 March. Resident Advisor listed DJ Pete, fr. JPLA, Skungal and Zelyna je Belle on the lineup, with Tresor Club and singularity.bln as promoters.",
+        "genres": [
+          "techno"
+        ]
+      }
+    ]
+  }
+}

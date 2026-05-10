@@ -1,0 +1,132 @@
+{
+  "slug": "split",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:25:57.293Z",
+  "responseId": "resp_020051f0f611a2a00069ff5fb93c74819698892aa60fafafab",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "split",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is anchored by Vibrez Festival’s late-month run at Meštrović Gallery, with select Split Summer Festival chamber concerts earlier in the month.",
+    "events": [
+      {
+        "id": "split-summer-string-quartet-2026",
+        "title": "Split Summer Festival: Split String Quartet",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 62,
+        "venueName": "Meštrović's Crikvine - Kaštilac",
+        "venueId": null,
+        "sourceUrl": "https://www.operabase.com/productions/split-string-quartet-425742/01-august-2026/en",
+        "ticketUrl": null,
+        "summary": "Split String Quartet performs a chamber program at Meštrović's Crikvine - Kaštilac as part of Split Summer Festival 2026. The listed program includes works by Silvije Bombardelli, Boris Papandopulo, and Pyotr Ilyich Tchaikovsky.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "split-summer-papandopulo-quartet-2026",
+        "title": "Split Summer Festival: Papandopulo Quartet",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 63,
+        "venueName": "Meštrović's Crikvine - Kaštilac",
+        "venueId": null,
+        "sourceUrl": "https://www.operabase.com/productions/papandopulo-quartet-425745/en",
+        "ticketUrl": null,
+        "summary": "Papandopulo Quartet performs at Meštrović's Crikvine - Kaštilac for Split Summer Festival 2026. The program lists works by György Ligeti, Boris Papandopulo, Margareta Ferek Petrić, Philippe Geiss, and George Gershwin.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "split-vibrez-mogwai-2026",
+        "title": "Vibrez Festival 2026: Mogwai",
+        "type": "concert",
+        "startDate": "2026-08-26",
+        "endDate": "2026-08-26",
+        "importance": 83,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4773/mogwai--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4773/mogwai--vibrez-festival-2026",
+        "summary": "Scottish post-rock band Mogwai opens the Meštrović Gallery cycle of Vibrez Festival 2026. The concert is listed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "split-vibrez-mariza-2026",
+        "title": "Vibrez Festival 2026: Mariza",
+        "type": "concert",
+        "startDate": "2026-08-27",
+        "endDate": "2026-08-27",
+        "importance": 81,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4806/mariza--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4806/mariza--vibrez-festival-2026",
+        "summary": "Portuguese fado singer Mariza performs as part of Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "split-vibrez-mario-biondi-2026",
+        "title": "Vibrez Festival 2026: Mario Biondi",
+        "type": "concert",
+        "startDate": "2026-08-28",
+        "endDate": "2026-08-28",
+        "importance": 78,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4784/mario-biondi--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4784/mario-biondi--vibrez-festival-2026",
+        "summary": "Italian vocalist Mario Biondi brings his soul, R&B, jazz, and swing-influenced repertoire to Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "split-vibrez-laibach-2026",
+        "title": "Vibrez Festival 2026: Laibach",
+        "type": "concert",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 79,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4833/laibach--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4833/laibach--vibrez-festival-2026",
+        "summary": "Slovenian avant-garde industrial group Laibach performs during Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "split-vibrez-morcheeba-2026",
+        "title": "Vibrez Festival 2026: Morcheeba",
+        "type": "concert",
+        "startDate": "2026-08-30",
+        "endDate": "2026-08-30",
+        "importance": 82,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4817/morcheeba--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4817/morcheeba--vibrez-festival-2026",
+        "summary": "British downtempo and trip-hop band Morcheeba closes the August Meštrović Gallery run of Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

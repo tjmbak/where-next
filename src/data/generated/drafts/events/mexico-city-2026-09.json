@@ -1,0 +1,201 @@
+{
+  "slug": "mexico-city",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:46:27.993Z",
+  "responseId": "resp_05fd928be24b4fef0069ff646b52bc819da9633345128ae03a",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 9,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "mexico-city-siddhartha-sep-2026",
+        "title": "Siddhartha",
+        "type": "concert",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-03",
+        "importance": 81,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/siddhartha-boletos/artist/1741090",
+        "ticketUrl": "https://www.ticketmaster.com.mx/siddhartha-boletos/artist/1741090",
+        "summary": "Siddhartha plays Palacio de los Deportes in Mexico City on September 3, 2026. Ticketmaster lists the show as a confirmed Mexico concert date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-david-byrne-sep-2026",
+        "title": "David Byrne - Who Is the Sky Tour",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 82,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
+        "ticketUrl": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
+        "summary": "David Byrne brings the Who Is the Sky Tour to Teatro Metropólitan on September 4, 2026. The Ticketmaster event page confirms the date, venue, and show title.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-tini-futttura-2026",
+        "title": "TINI - FUTTTURA World Tour",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 80,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.superboletos.com/landing-evento/ksrhUZW0ip7quoffcCiDMQ",
+        "ticketUrl": "https://www.superboletos.com/landing-evento/ksrhUZW0ip7quoffcCiDMQ",
+        "summary": "TINI's FUTTTURA World Tour is listed for Arena CDMX on September 4, 2026. Superboletos is the official ticketing link for the Arena CDMX date.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-festival-arre-2026",
+        "title": "Festival ARRE Pepsi Black 2026",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 90,
+        "venueName": "Autódromo Hermanos Rodríguez",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/abono-general-arre-pepsi-black-2026-mexico-05-09-2026/event/14006499DA4ABAA6",
+        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-arre-pepsi-black-2026-mexico-05-09-2026/event/14006499DA4ABAA6",
+        "summary": "Festival ARRE returns to Autódromo Hermanos Rodríguez for a two-day 2026 edition on September 5-6. The festival focuses on regional Mexican and Latin music.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-5-seconds-summer-2026",
+        "title": "5 Seconds of Summer",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 82,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
+        "ticketUrl": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
+        "summary": "5 Seconds of Summer perform at Palacio de los Deportes on September 9, 2026. The Ticketmaster event page confirms the Mexico City concert date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-aespa-synk-2026",
+        "title": "aespa LIVE TOUR - SYNK : COMPLæXITY - in Mexico City",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 86,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/aespa-live-tour-synk-complaexity-in-mexico-city-ciudad-de-mexico-11-09-2026/event/14006472E8BAE4C3",
+        "ticketUrl": "https://www.ticketmaster.com.mx/aespa-live-tour-synk-complaexity-in-mexico-city-ciudad-de-mexico-11-09-2026/event/14006472E8BAE4C3",
+        "summary": "K-pop group aespa brings the SYNK : COMPLæXITY tour to Palacio de los Deportes on September 11, 2026. The listing names aespa as the billed artist.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-vans-warped-tour-2026",
+        "title": "Vans Warped Tour México 2026",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 92,
+        "venueName": "Autódromo Hermanos Rodríguez",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
+        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
+        "summary": "Vans Warped Tour México is confirmed for Autódromo Hermanos Rodríguez on September 12-13, 2026. The two-day pass listing confirms the festival dates and venue.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-khalid-2026",
+        "title": "Khalid",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 80,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/es/e/108114649-khalid-at-arena-cdmx?came_from=209",
+        "ticketUrl": "https://www.bandsintown.com/es/e/108114649-khalid-at-arena-cdmx?came_from=209",
+        "summary": "Khalid is listed for Arena CDMX on September 17, 2026 at 19:00. Bandsintown confirms the venue and date for the Mexico City concert.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-robyn-sexistential-2026",
+        "title": "Robyn - The Sexistential Tour",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 84,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/robyn-the-sexistential-tour-ciudad-de-mexico-19-09-2026/event/1400643B9351974D",
+        "ticketUrl": "https://www.ticketmaster.com.mx/robyn-the-sexistential-tour-ciudad-de-mexico-19-09-2026/event/1400643B9351974D",
+        "summary": "Robyn headlines Palacio de los Deportes on September 19, 2026, with Lykke Li also listed on the Ticketmaster artist page. The event page confirms the Sexistential Tour date.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-young-miko-late-checkout-2026",
+        "title": "Young Miko - Late Checkout Tour",
+        "type": "concert",
+        "startDate": "2026-09-22",
+        "endDate": "2026-09-22",
+        "importance": 84,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/young-miko-late-checkout-tour-ciudad-de-mexico-22-09-2026/event/1400647CB05FB097",
+        "ticketUrl": "https://www.ticketmaster.com.mx/young-miko-late-checkout-tour-ciudad-de-mexico-22-09-2026/event/1400647CB05FB097",
+        "summary": "Young Miko brings the Late Checkout Tour to Palacio de los Deportes on September 22, 2026. Ticketmaster confirms the event title, date, and venue.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-the-neighbourhood-wourld-2026",
+        "title": "The Neighbourhood - THE WOURLD TOUR",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 83,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/the-neighbourhood-the-wourld-tour-ciudad-de-mexico-25-09-2026/event/1400635995F04BE7",
+        "ticketUrl": "https://www.ticketmaster.com.mx/the-neighbourhood-the-wourld-tour-ciudad-de-mexico-25-09-2026/event/1400635995F04BE7",
+        "summary": "The Neighbourhood plays Palacio de los Deportes on September 25, 2026 as part of THE WOURLD TOUR. The Ticketmaster listing confirms the Mexico City date.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

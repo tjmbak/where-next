@@ -1,0 +1,166 @@
+{
+  "slug": "sao-paulo",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:50:34.470Z",
+  "responseId": "resp_0a89839abba0f7ed0069ff657ec880819cbb53503132874466",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 already has a strong confirmed mix of Brazilian festivals, arena pop, heritage MPB/sertanejo, and international rock/indie shows in São Paulo.",
+    "events": [
+      {
+        "id": "sao-paulo-coala-festival-2026",
+        "title": "Coala Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 88,
+        "venueName": "Memorial da América Latina",
+        "venueId": null,
+        "sourceUrl": "https://www.elo.com.br/shows/coala26/",
+        "ticketUrl": "https://www.elo.com.br/shows/coala26/",
+        "summary": "Coala Festival’s 12th edition is confirmed for 12–13 September 2026 at Memorial da América Latina, celebrating Brazilian music across generations.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-aespa-complexity-2026",
+        "title": "aespa: 2026-27 aespa LIVE TOUR - SYNK : COMPLæXITY",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 86,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/aespa-venda-geral",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/aespa-venda-geral",
+        "summary": "K-pop group aespa is confirmed for a São Paulo arena date on 4 September 2026 as part of the SYNK : COMPLæXITY world tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-mateus-asato-asatour-2026",
+        "title": "Mateus Asato - Asatour",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 68,
+        "venueName": "Teatro Bradesco",
+        "venueId": null,
+        "sourceUrl": "https://uhuu.com/evento/sp/sao-paulo/mateus-asato-asatour-16139",
+        "ticketUrl": "https://uhuu.com/evento/sp/sao-paulo/mateus-asato-asatour-16139",
+        "summary": "Brazilian guitarist Mateus Asato brings Asatour to Teatro Bradesco on 10 September 2026, with Uhuu listed as the official ticket channel.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-cabare-ultimo-encontro-2026",
+        "title": "Cabaré – O Último Encontro: Leonardo e Bruno & Marrone",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 76,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://uhuu.com/evento/sp/sao-paulo/cabare-sao-paulo-16010",
+        "ticketUrl": "https://uhuu.com/evento/sp/sao-paulo/cabare-sao-paulo-16010",
+        "summary": "Leonardo and Bruno & Marrone bring the farewell edition of the Cabaré project to Mercado Livre Arena Pacaembu on 12 September 2026.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-ze-ramalho-sucessos-2026",
+        "title": "Zé Ramalho - Temporada de Sucessos",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 74,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticket360.com.br/evento/32953/ingressos-para-ze-ramalho-temporada-de-sucessos",
+        "ticketUrl": "https://www.ticket360.com.br/evento/32953/ingressos-para-ze-ramalho-temporada-de-sucessos",
+        "summary": "Zé Ramalho is confirmed for a 12 September 2026 concert at Espaço Unimed, with doors at 20:00 and show time at 22:00.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-5-seconds-of-summer-2026",
+        "title": "5 Seconds Of Summer - Everyone's A Star World Tour",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 82,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/5-seconds-of-summer-sao-paulo-venda-geral",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/5-seconds-of-summer-sao-paulo-venda-geral",
+        "summary": "Australian pop band 5 Seconds of Summer is confirmed at Suhai Music Hall on 18 September 2026, with the show scheduled for 21:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-oktoberfest-2026",
+        "title": "São Paulo Oktoberfest 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-10-04",
+        "importance": 65,
+        "venueName": "Parque Ibirapuera",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest",
+        "summary": "São Paulo Oktoberfest 2026 is confirmed from 18 September to 4 October, with music, culture, food and German-inspired celebration across 13 event days.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-helloween-40-years-2026",
+        "title": "Helloween - 40 Years Anniversary Show",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 78,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://suhaimusichall.com.br/en/evento/helloween/",
+        "ticketUrl": "https://www.eventim.com.br/event/helloween-suhai-music-hall-21068671/?affiliate=30L",
+        "summary": "German metal band Helloween is confirmed for a 40th-anniversary concert at Suhai Music Hall on 19 September 2026, with the show scheduled for 21:00.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-oswaldo-montenegro-signos-2026",
+        "title": "Oswaldo Montenegro - A Dança dos Signos",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 68,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticket360.com.br/evento/32742/ingressos-para-oswaldo-montenegro-a-danca-dos-signos",
+        "ticketUrl": "https://www.ticket360.com.br/evento/32742/ingressos-para-oswaldo-montenegro-a-danca-dos-signos",
+        "summary": "Oswaldo Montenegro’s A Dança dos Signos is confirmed for Espaço Unimed on 19 September 2026, with show time listed as 21:30.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-ben-howard-tour-2026",
+        "title": "Ben Howard 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 72,
+        "venueName": "Audio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/ben-howard",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/ben-howard",
+        "summary": "English singer-songwriter Ben Howard is confirmed for Audio in São Paulo on 26 September 2026, with the show scheduled for 21:00.",
+        "genres": []
+      }
+    ]
+  }
+}

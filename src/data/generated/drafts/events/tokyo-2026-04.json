@@ -1,0 +1,223 @@
+{
+  "slug": "tokyo",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:42:11.867Z",
+  "responseId": "resp_000bd0e71d3980100069ff63844fdc819c9a6c5890ebfba38c",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 mixed major J-pop/K-pop stadium runs with Shibuya live-house festivals and strong WOMB electronic programming.",
+    "events": [
+      {
+        "id": "tokyo-central-festival-apr-2026",
+        "title": "CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026",
+        "type": "festival",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-05",
+        "importance": 86,
+        "venueName": "K Arena Yokohama / Yokohama Red Brick Warehouse / KT Zepp Yokohama / Rinko Park",
+        "venueId": null,
+        "sourceUrl": "https://central-fest.com/s/central/page/about_2026?ima=0000&link=ROBO004",
+        "ticketUrl": "https://central-fest.com/s/central/page/ticket_2026",
+        "summary": "Citywide Yokohama festival using four major waterfront venues, with separate stage concepts and lineups. The Central Stage bill included =LOVE, Nogizaka46, FRUITS ZIPPER, ORANGE RANGE, Rin Toshite Shigure, Chanmina, HANA and Yuuri.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-rdc-pre-party-2026",
+        "title": "Rainbow Disco Club 2026 Pre-Party with Daphni, Hunee and Masalo (Live)",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 84,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/04/04/rdc-pre-party/",
+        "ticketUrl": null,
+        "summary": "Official Rainbow Disco Club pre-party at WOMB, headlined by Daphni, Hunee and Masalo live, with Mayurashka plus AMAPINIGHT on the 1F floor. The event ran 20:00–04:30.",
+        "genres": [
+          "house",
+          "electronic",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "tokyo-06s-womb-apr-2026",
+        "title": "06S - YELLOCK × H2KGRAPHICS Audio Visual Live “Reanimation”",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 76,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/04/10/06s-63/",
+        "ticketUrl": null,
+        "summary": "WOMB’s long-running 06S drum & bass night returned with DJ AKi, YELLOCK, YASUKI, MAOZON and SE-TA on the main floor, plus H2KGRAPHICS visuals. The night was billed as an audiovisual showcase running 23:00–04:30.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "tokyo-synchronicity-festival-2026",
+        "title": "SYNCHRONICITY’26",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 82,
+        "venueName": "Spotify O-EAST / O-WEST / O-nest / duo MUSIC EXCHANGE / clubasia / SHIBUYA CLUB QUATTRO / WWW / WWWX / TOKIO TOKYO / SHIBUYA FOWS",
+        "venueId": null,
+        "sourceUrl": "https://synchronicity.tv/festival/news/260225/",
+        "ticketUrl": "https://synchronicity.tv/festival/",
+        "summary": "Shibuya multi-venue urban festival running across April 11–12 from 13:00. The official lineup included SPECIAL OTHERS, BREIMEN, DYGL, No Buses, tricot, tofubeats, ZAZEN BOYS, Shibusashirazu Orchestra, Sunny Day Service and many more.",
+        "genres": [
+          "festival",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-wanderlust-womb-2026",
+        "title": "Wanderlust",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 78,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/04/11/wanderlust-2/",
+        "ticketUrl": null,
+        "summary": "Wata Igarashi’s resident party Wanderlust hosted RROSE and Wata Igarashi on WOMB’s main floor. The event featured RROSE’s special performance of “Having Never Written a Note for Percussion,” billed as its Asia premiere.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-four-tet-toyosu-2026",
+        "title": "Four Tet — Open to Last 4 Hours Set",
+        "type": "concert",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-16",
+        "importance": 78,
+        "venueName": "Toyosu PIT",
+        "venueId": null,
+        "sourceUrl": "https://eplus.jp/fourtet/",
+        "ticketUrl": "https://eplus.jp/fourtet/",
+        "summary": "Four Tet played Toyosu PIT in Tokyo on April 16, 2026, with the ticket page listing the performance at Toyosu PIT. The show was billed as an extended open-to-last set.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tokyo-bts-arirang-2026",
+        "title": "BTS WORLD TOUR 'ARIRANG' IN JAPAN",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-18",
+        "importance": 92,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.promax.co.jp/archives/event/202618009",
+        "ticketUrl": null,
+        "summary": "BTS brought the ARIRANG world tour to Tokyo Dome for two dates, April 17 and 18, 2026. The Promax listing names HYBE JAPAN as organizer and BIGHIT MUSIC as supervising company.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-womb-anniversary-2026",
+        "title": "WOMB 26th Anniversary Party",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 88,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/04/24/womb-26th-anniv/",
+        "ticketUrl": null,
+        "summary": "WOMB’s 26th anniversary party was headlined by Richie Hawtin with DJ SODEYAMA and OCCA on the main floor. Additional rooms featured Bobby., Satoshi Otsuki, Levolant, Yama, Word of Mouth and Chanaz.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-twice-mufg-stadium-2026",
+        "title": "TWICE <THIS IS FOR> WORLD TOUR IN JAPAN",
+        "type": "concert",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-28",
+        "importance": 91,
+        "venueName": "MUFG Stadium (Japan National Stadium)",
+        "venueId": null,
+        "sourceUrl": "https://www.twicejapan.com/feature/6thworldtour_thisisfor_stadium?normalbrowse_=1",
+        "ticketUrl": null,
+        "summary": "TWICE played three Tokyo stadium dates on April 25, 26 and 28, 2026 at MUFG Stadium. The official schedule listed start times of 18:00, 17:00 and 18:00 respectively.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-aespa-dome-tour-2026",
+        "title": "2026 aespa LIVE TOUR – SYNK : aeXIS LINE – in JAPAN [SPECIAL EDITION DOME TOUR]",
+        "type": "concert",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 89,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://aespa-official.jp/news/synkaexisline-dometour/",
+        "ticketUrl": null,
+        "summary": "aespa’s first dome tour included two Tokyo Dome shows on April 25 and 26, 2026. The official aespa Japan page listed the Tokyo performances after two Osaka Kyocera Dome dates.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-rdc-after-party-2026",
+        "title": "Rainbow Disco Club 2026 After Party with Ben UFO (All Night Long)",
+        "type": "club-night",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 84,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/event/2026/04/25/rdc-after-party/",
+        "ticketUrl": null,
+        "summary": "Rainbow Disco Club’s official afterparty returned to WOMB with Ben UFO playing all night long on the 2F main floor. The supporting rooms featured Akuma no Numa, Kyomi, Chida and Gero.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-tower-of-power-2026",
+        "title": "Tower of Power",
+        "type": "concert",
+        "startDate": "2026-04-27",
+        "endDate": "2026-04-28",
+        "importance": 72,
+        "venueName": "Billboard Live Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21224",
+        "ticketUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21224",
+        "summary": "Bay Area funk and soul institution Tower of Power returned to Billboard Live Tokyo for two nights, April 27–28, 2026. The venue schedule listed two stages each night at 17:30 and 20:30.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

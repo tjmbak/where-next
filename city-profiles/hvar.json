@@ -1,0 +1,80 @@
+{
+  "_note": "Already added to the dataset. Kept here as a reference profile for future add-city flows.",
+
+  "slug": "hvar",
+  "city": "Hvar",
+  "country": "Croatia",
+  "region": "Europe",
+  "coordinates": { "lat": 43.1729, "lng": 16.4413 },
+
+  "tagline": "Adriatic island clubs, Carpe Diem Beach, and the boutique Mediterranean party island.",
+  "summary": "Hvar Town is the Adriatic's most concentrated music-tourism island — Carpe Diem Beach pulls global DJs onto a boat-accessible islet, the Pakleni archipelago hosts boat-day raves, and the small old town packs more cocktail bars per square meter than anywhere on the Croatian coast.",
+
+  "activeMonths": [6, 7, 8, 9],
+  "peakMonths": [7, 8],
+  "genres": ["house", "electronic", "techno"],
+  "vibes": ["beach", "luxury", "late-night", "group-trip"],
+  "budget": "high",
+  "averageDailySpendUsd": { "low": 200, "high": 600 },
+
+  "whoFor": ["Adriatic island travelers", "Boat-day group trips", "Beach club + town crawl crews"],
+  "whenToBook": "Book accommodations 4-6 months ahead — Hvar Town has limited inventory and fills early in July and August.",
+  "travelNotes": "Ferries from Split (Jadrolinija, Krilo) take 1-2 hours. Stay in Hvar Town for venue density; the rest of the island is calmer.",
+
+  "peakHook": "July and August stack Carpe Diem Beach takeovers, Pakleni boat days, and the strongest Adriatic DJ touring weeks of the year.",
+
+  "heroScenes": {
+    "peak": "Hvar Town stone harbor at golden hour in summer, white-stone fortifications and pine trees, Adriatic boats moored, the Pakleni islands visible in the distance, warm summer light",
+    "shoulder": "a Hvar lavender field on the spine of the island in late spring, drystone walls, distant Adriatic blue, soft warm afternoon light, no people",
+    "detail": "interior of a Hvar Town stone konoba at night, vaulted limestone ceiling, candlelight, a single bottle of Vis red wine on a wooden table, no people"
+  },
+
+  "venues": [
+    { "id": "carpe-diem-beach-hvar", "name": "Carpe Diem Beach", "type": "beach-club", "sceneTags": ["beach", "luxury", "late-night"], "officialUrl": "https://www.carpe-diem-beach.com/" },
+    { "id": "carpe-diem-bar-hvar", "name": "Carpe Diem Hvar", "type": "venue", "sceneTags": ["luxury", "late-night"], "officialUrl": "https://www.carpediem-hvar.com/" },
+    { "id": "hula-hula-hvar", "name": "Hula Hula Hvar", "type": "beach-club", "sceneTags": ["beach", "group-trip"], "officialUrl": "https://www.hulahulahvar.com/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "hvar-carpe-diem-summer",
+      "title": "Carpe Diem Beach Summer Sessions",
+      "type": "residency",
+      "startMonth": 6,
+      "startDay": 1,
+      "endMonth": 9,
+      "endDay": 15,
+      "importance": 88,
+      "summary": "Carpe Diem's beach club on the islet of Marinkovac runs day-into-night programming with global DJs through the Adriatic season; boats shuttle from Hvar Town past sunset.",
+      "venueId": "carpe-diem-beach-hvar",
+      "sourceUrl": "https://www.carpe-diem-beach.com/",
+      "genres": ["house", "electronic"]
+    },
+    {
+      "id": "hvar-hula-hula-sunset",
+      "title": "Hula Hula Hvar Sunset Sessions",
+      "type": "residency",
+      "startMonth": 5,
+      "startDay": 25,
+      "endMonth": 9,
+      "endDay": 15,
+      "importance": 84,
+      "summary": "Hula Hula's seafront sunset bar anchors Hvar's pre-dinner ritual — beach drinks, DJs at golden hour, and the transition into the town's late nights.",
+      "sourceUrl": "https://www.hulahulahvar.com/",
+      "genres": ["house", "electronic"]
+    },
+    {
+      "id": "hvar-yacht-week-circuit",
+      "title": "Yacht Week Croatia (Hvar leg)",
+      "type": "festival",
+      "startMonth": 6,
+      "startDay": 1,
+      "endMonth": 9,
+      "endDay": 15,
+      "importance": 82,
+      "summary": "Yacht Week's Croatia route brings flotillas through Hvar each week, anchoring at Carpe Diem Beach and turning the harbor into a floating party.",
+      "sourceUrl": "https://www.theyachtweek.com/croatia/",
+      "genres": ["house", "electronic"]
+    }
+  ]
+}

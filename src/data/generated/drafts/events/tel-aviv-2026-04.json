@@ -1,0 +1,213 @@
+{
+  "slug": "tel-aviv",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:56:36.348Z",
+  "responseId": "resp_026b6f6047634aa50069ff66c02b8481a2a5bcaf2134b8349f",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 4,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "tel-aviv-vini-vici-passover-rave-2026",
+        "title": "Passover Rave – Vini Vici",
+        "type": "club-night",
+        "startDate": "2026-04-06",
+        "endDate": "2026-04-06",
+        "importance": 84,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2371221",
+        "ticketUrl": "https://ra.co/events/2371221",
+        "summary": "Ravers of Israel’s Passover rave at Barby featured psytrance headliners Vini Vici with a Festival of Freedom concept and a late-night club production.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-nunu-barby-2026",
+        "title": "Nunu at Barby",
+        "type": "concert",
+        "startDate": "2026-04-07",
+        "endDate": "2026-04-07",
+        "importance": 74,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/nunu-barby-7",
+        "ticketUrl": "https://barby.co.il/show/4308",
+        "summary": "Israeli pop artist Nunu returned to Barby with her band for a full pop show built around new and older material.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-ninet-tayeb-barby-2026",
+        "title": "Ninet Tayeb at Barby",
+        "type": "concert",
+        "startDate": "2026-04-15",
+        "endDate": "2026-04-15",
+        "importance": 80,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/ninet-tayeb-barby-10",
+        "ticketUrl": "https://barby.co.il/show/4335",
+        "summary": "Ninet Tayeb played an electric band show at Barby, one of Tel Aviv’s key live-music rooms.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-dudu-tassa-barby-2026",
+        "title": "Dudu Tassa at Barby",
+        "type": "concert",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-16",
+        "importance": 80,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/dudu-tassa-barby-18",
+        "ticketUrl": "https://barby.co.il/show/4342",
+        "summary": "Dudu Tassa brought his electric show to Barby for a headline Tel Aviv concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-rita-barby-2026",
+        "title": "Rita at Barby",
+        "type": "concert",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 82,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/rita-barby-5",
+        "ticketUrl": "https://barby.co.il/show/4325",
+        "summary": "Rita appeared at Barby with her band for a rock-leaning greatest-hits show spanning her 40-year career.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-kuli-independence-2026",
+        "title": "Independence 2026 at Kuli Alma",
+        "type": "club-night",
+        "startDate": "2026-04-21",
+        "endDate": "2026-04-21",
+        "importance": 75,
+        "venueName": "Kuli Alma",
+        "venueId": "kuli-alma-tlv",
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/independence-2026-kuli-alma",
+        "ticketUrl": "https://www.eventer.co.il/kxv7f",
+        "summary": "Kuli Alma’s Independence Day party listed Ori Shochat, Tova Swed, Simonsays, Kassie, Solera and Rani across its rooms.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-independence-vibes-gagarin-2026",
+        "title": "Independence Vibes at Gagarin Club TLV",
+        "type": "club-night",
+        "startDate": "2026-04-23",
+        "endDate": "2026-04-23",
+        "importance": 80,
+        "venueName": "Gagarin Club TLV",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/independence-vibes-gagarin-club-tlv",
+        "ticketUrl": "https://go-out.co/event/1775859554914",
+        "summary": "A three-stage Independence-night party at Gagarin, with Captain Hook, Shidapu, California Sunshine, Gorovich and more across psy/goa, techno and mainstream rooms.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "tel-aviv-blackout-gagarin-2026",
+        "title": "Blackout TLV",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 74,
+        "venueName": "Gagarin Club TLV",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425833",
+        "ticketUrl": "https://ra.co/events/2425833",
+        "summary": "Blackout TLV’s Atzmaut party at Gagarin Club TLV featured Beyond Orbit, Melodic, Sparrox and Vertigos.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-mitzi-takeover-barby-2026",
+        "title": "Mitzi Takeover at Barby",
+        "type": "club-night",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 78,
+        "venueName": "Barby",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/mitzi-takeover-barby",
+        "ticketUrl": null,
+        "summary": "Mitzi Takeover brought an Echo rave concept to Barby with an extended DJ-led party plus a live performance by Echo and band.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tel-aviv-eden-ben-zaken-menora-2026",
+        "title": "Eden Ben Zaken at Menora Mivtachim Arena",
+        "type": "concert",
+        "startDate": "2026-04-26",
+        "endDate": "2026-04-26",
+        "importance": 88,
+        "venueName": "Menora Mivtachim Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/eden-ben-zaken-menora-mivtachim-arena-6",
+        "ticketUrl": "https://www.kupat.co.il/show/edenbenzaken",
+        "summary": "Eden Ben Zaken headlined Menora Mivtachim Arena with a large-scale show focused on her biggest ballads and upbeat hits.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tel-aviv-rubinstein-gala-concert-2026",
+        "title": "Arthur Rubinstein International Piano Master Competition Gala Concert 2026",
+        "type": "concert",
+        "startDate": "2026-04-28",
+        "endDate": "2026-04-28",
+        "importance": 90,
+        "venueName": "Duhl Center",
+        "venueId": null,
+        "sourceUrl": "https://arims.org.il/gala-concert-2026/",
+        "ticketUrl": null,
+        "summary": "The Arthur Rubinstein International Music Society’s 2026 gala concert, “In Search of Lost Time,” featured 17th Competition winners Kevin Chen and Yukine Kuroki in a program including Chopin and Beethoven.",
+        "genres": []
+      },
+      {
+        "id": "tel-aviv-sixteenth-lamb-hatarbut-2026",
+        "title": "The Sixteenth Lamb at Heichal Hatarbut",
+        "type": "concert",
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "importance": 84,
+        "venueName": "Heichal Hatarbut – Charles Bronfman Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://concerts50.com/show/the-sixteenth-lamb-in-tel-aviv-tickets-apr-29-2026",
+        "ticketUrl": null,
+        "summary": "The Sixteenth Lamb reunion project appeared at Heichal Hatarbut, bringing the classic Israeli children’s-music repertoire associated with Yehonatan Geffen and collaborators back to a major Tel Aviv hall.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "marbella",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:25:05.921Z",
+  "responseId": "resp_0a384d684ff797520069ff5f7118b481928ab55daddb223717",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 in Marbella is anchored by the late-summer Starlite Occident run, with a smaller confirmed Bella Festival date and a dance-pop arena show adding variety beyond the quarry.",
+    "events": [
+      {
+        "id": "marbella-bella-festival-2026",
+        "title": "Bella Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 78,
+        "venueName": "OMA SOUND Marbella",
+        "venueId": null,
+        "sourceUrl": "https://bellafestival.es/",
+        "ticketUrl": "https://www.ingresse.com/bella-festival-2026/",
+        "summary": "Bella Festival’s official site confirms its 2026 edition for Saturday, 1 August at OMA SOUND Marbella, with the first ticket batch on sale. The current official page does not yet list a confirmed 2026 artist lineup.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "marbella-rosario-starlite-2026",
+        "title": "Rosario at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 82,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/rosario-2/",
+        "ticketUrl": null,
+        "summary": "Rosario is confirmed on Starlite Occident’s Auditorium stage on 1 August, with doors at 20:00 and showtime at 22:00. The festival bills the set around her Spanish pop, rumba, flamenco, funk and bossa-nova repertoire.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-gente-de-zona-starlite-2026",
+        "title": "Gente de Zona at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 86,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/gente-de-zona-4/",
+        "ticketUrl": null,
+        "summary": "Cuban duo Gente de Zona are confirmed for Starlite Occident on Wednesday, 5 August, with the official page highlighting a set of Latin and Caribbean urban hits. The concert is scheduled for the Auditorium stage at 22:00.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-delaossa-starlite-2026",
+        "title": "Delaossa at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 78,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/delaossa-2/",
+        "ticketUrl": null,
+        "summary": "Delaossa is confirmed to make his Starlite Occident debut on Thursday, 6 August. The Málaga rapper brings La Madrugá Tour material to the Auditorium stage at 22:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "marbella-alvaro-de-luna-nil-moliner-starlite-2026",
+        "title": "Álvaro de Luna & Nil Moliner at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 78,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/alvaro-de-luna-nil-moliner/",
+        "ticketUrl": null,
+        "summary": "Starlite Occident confirms a double bill with Álvaro de Luna and Nil Moliner for Friday, 7 August. The official listing frames both artists as leading names in contemporary Spanish pop.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-malu-starlite-2026",
+        "title": "Malú at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-10",
+        "importance": 82,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/line-up-2026/",
+        "ticketUrl": null,
+        "summary": "Malú is listed on Starlite Occident’s official Marbella 2026 lineup for 10 August. This is a confirmed date within the festival’s August concert programme at the Cantera de Nagüeles.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-vanesa-martin-starlite-2026",
+        "title": "Vanesa Martín at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 80,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/vanesa-martin-ok/",
+        "ticketUrl": null,
+        "summary": "Vanesa Martín is confirmed for Starlite Occident on Friday, 14 August, with an Auditorium show at 22:00. The official page notes a set mixing new Casa Mía material with career hits.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-inna-echoes-tour-2026",
+        "title": "INNA – Echoes Tour",
+        "type": "concert",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 76,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://tour.innaofficial.com/marbella/",
+        "ticketUrl": "https://www.ticketmaster.es/event/766754638",
+        "summary": "INNA’s official tour page confirms Marbella Arena on 22 August for the Echoes Tour. Ticketmaster lists the same date at 19:00 and names DJ Sak Noel as special guest.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-gloria-trevi-starlite-2026",
+        "title": "Gloria Trevi at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-24",
+        "endDate": "2026-08-24",
+        "importance": 88,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/gloria-trevi-2/",
+        "ticketUrl": null,
+        "summary": "Gloria Trevi is confirmed for Starlite Occident on Monday, 24 August, with a 22:00 Auditorium show. The official page describes it as her only European concert for the year and a career-spanning Latin-pop performance.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-nile-rodgers-chic-starlite-2026",
+        "title": "Nile Rodgers & CHIC at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-26",
+        "endDate": "2026-08-26",
+        "importance": 90,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/nile-rodgers-chic-en/",
+        "ticketUrl": null,
+        "summary": "Nile Rodgers & CHIC are confirmed to return to Starlite Occident on Wednesday, 26 August. The official listing highlights CHIC’s disco, pop and dance legacy, with showtime at 22:00.",
+        "genres": [
+          "pop",
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-love-of-lesbian-starlite-2026",
+        "title": "Love of Lesbian at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 82,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/line-up-2026/",
+        "ticketUrl": "https://www.ticketmaster.es/event/love-of-lesbian-entradas/245251876",
+        "summary": "Love of Lesbian are confirmed on Starlite Occident’s official 2026 lineup for 29 August, closing the listed August run. Ticketmaster also lists the Starlite Auditorium show for Saturday, 29 August at 22:00.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

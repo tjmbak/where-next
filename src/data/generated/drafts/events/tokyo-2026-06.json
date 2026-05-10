@@ -1,0 +1,221 @@
+{
+  "slug": "tokyo",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:43:20.548Z",
+  "responseId": "resp_0a26f0a75698e2e70069ff63c09cc4819f8f09fc5340ad2d21",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is unusually strong for Tokyo, spanning Tokyo Dome-scale J-pop/K-pop, global R&B and pop, and several credible house/techno signature parties.",
+    "events": [
+      {
+        "id": "tokyo-daniel-caesar-jun-2026",
+        "title": "Daniel Caesar - Son of Spergy Tour",
+        "type": "concert",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 84,
+        "venueName": "Tokyo International Forum Hall A",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationhip.co.jp/en/all-events/daniel-caesar-tickets-ae969510",
+        "ticketUrl": "https://www.livenationhip.co.jp/en/all-events/daniel-caesar-tickets-ae969510",
+        "summary": "Daniel Caesar brings his Son of Spergy Tour to Tokyo International Forum Hall A for a one-night Tokyo concert. The official Live Nation H.I.P. page lists the June 4 date and 19:00 start.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-housetribe-anniversary-2026",
+        "title": "HOUSETRIBE 11th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 76,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ra.co/events/2431297",
+        "ticketUrl": null,
+        "summary": "WOMB’s tech-house party HOUSETRIBE celebrates its 11th anniversary with Mixed Methods, Yamariki, CARTOON, Daitto, Chika Luna and others. Resident Advisor lists the event for Friday, June 5 at WOMB.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "tokyo-stones-throw-30-2026",
+        "title": "MIDNIGHT EAST presents Stones Throw 30 Years Tokyo supported by HUF",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 80,
+        "venueName": "MIDNIGHT EAST / Spotify O-EAST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2416233",
+        "ticketUrl": "https://ra.co/events/2416233",
+        "summary": "Stones Throw marks its 30th anniversary in Tokyo with Peanut Butter Wolf, Knxwledge, Mndsgn and Michi. The RA listing confirms the June 6 late-night event at MIDNIGHT EAST in Shibuya.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-seiko-matsuda-2026",
+        "title": "Seiko Matsuda Concert Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 82,
+        "venueName": "Tokyo Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://ariake-arena.tokyo/event/next/",
+        "ticketUrl": "https://www.seikomatsuda.co.jp/",
+        "summary": "Seiko Matsuda plays two Tokyo Ariake Arena dates on June 6 and June 7. The venue calendar confirms the concert times and official artist-site link.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-body-and-soul-2026",
+        "title": "Manhattan Portage presents Body&SOUL Live in Japan 2026",
+        "type": "festival",
+        "startDate": "2026-06-07",
+        "endDate": "2026-06-07",
+        "importance": 84,
+        "venueName": "Kiranah Garden Toyosu",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396938",
+        "ticketUrl": "https://bodyandsoul-japan.zaiko.io/",
+        "summary": "The long-running Body&SOUL Japan gathering returns to Toyosu with resident legends Joe Claussell, Danny Krivit and François K. RA confirms the June 7 daytime event at Kiranah Garden Toyosu.",
+        "genres": [
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-niziu-dome-2026",
+        "title": "NiziU Live with U 2026 “NiziU : THE CINEMA”",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 90,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://niziu.com/s/n123/page/livewithu2026_dome?ima=0000&link=ROBO004",
+        "ticketUrl": "https://niziu.com/s/n123/page/livewithu2026_dome?ima=0000&link=ROBO004",
+        "summary": "NiziU brings its dome-scale “NiziU : THE CINEMA” tour to Tokyo Dome on June 13 and 14. The official NiziU schedule lists both Tokyo dates and show times.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-janet-jackson-yokohama-2026",
+        "title": "Janet Jackson Japan 2026 - Yokohama Dates",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 90,
+        "venueName": "K-Arena Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketport.co.jp/lp/janetjackson2026/",
+        "ticketUrl": "https://www.ticketport.co.jp/lp/janetjackson2026/",
+        "summary": "Janet Jackson’s Japan-only 2026 concert run includes two nearby Yokohama arena shows on June 13 and 14. The official Ticket Port page confirms K-Arena Yokohama dates, times and special guests.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-global-citizen-live-2026",
+        "title": "Global Citizen Live: Tokyo",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 86,
+        "venueName": "Tokyo International Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.globalcitizen.org/en/events-broadcasts/tokyo/",
+        "ticketUrl": "https://www.globalcitizen.org/en/events-broadcasts/tokyo/",
+        "summary": "Global Citizen’s first Japan music event is headlined by &TEAM, with AI and Yuki Chiba also on the bill. The official event page confirms June 18 at Tokyo International Forum.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-kulu-ame-womb-2026",
+        "title": "KULU Asia Tour 2026 Tokyo with Âme Live",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 78,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/en/event/2026/06/20/kulu-9/",
+        "ticketUrl": "https://womb.zaiko.io/",
+        "summary": "KULU’s Asia Tour takes over all floors of WOMB with Âme Live as special guest. WOMB’s official page confirms the June 20 date and 23:00–04:30 timing.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-ive-tokyo-dome-2026",
+        "title": "IVE World Tour ‘SHOW WHAT I AM’ in Japan",
+        "type": "concert",
+        "startDate": "2026-06-24",
+        "endDate": "2026-06-24",
+        "importance": 89,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://ive-official.jp/mob/news/newsShw.php?cd=OF10375&ima=2857&site=DIVE",
+        "ticketUrl": "https://ive-official.jp/mob/news/newsShw.php?cd=OF10375&ima=2857&site=DIVE",
+        "summary": "IVE returns to Tokyo Dome with its ‘SHOW WHAT I AM’ world tour. The IVE Japan official site confirms the June 24 Tokyo Dome performance and ticket presale information.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-81-music-festival-2026",
+        "title": "81 Music Festival",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 88,
+        "venueName": "TOYOTA ARENA TOKYO",
+        "venueId": null,
+        "sourceUrl": "https://81musicfestival.com/en/",
+        "ticketUrl": "https://81musicfestival.zaiko.io/e/2026info",
+        "summary": "The debut 81 Music Festival takes place at TOYOTA ARENA TOKYO with THE KID LAROI, R3HAB, MRAK, John Martin, Vini Vici b2b MR.BLACK, Night Tempo and more. The official festival site confirms the full lineup and June 27 date.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-jsb-land-forever-2026",
+        "title": "Sandaime J SOUL BROTHERS presents “JSB LAND ~FOREVER~”",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-28",
+        "importance": 86,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ldh.co.jp/perfectyear2026/contents/jsb3_presents_jsb-land-forever.php",
+        "ticketUrl": "https://www.ldh.co.jp/perfectyear2026/contents/jsb3_presents_jsb-land-forever.php",
+        "summary": "Sandaime J SOUL BROTHERS bring the JSB LAND ~FOREVER~ production to Tokyo Dome across June 27 and 28. The LDH Perfect Year 2026 page lists the Tokyo Dome dates.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

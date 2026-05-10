@@ -1,0 +1,226 @@
+{
+  "slug": "london",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:00:16.311Z",
+  "responseId": "resp_0780cd93e811c66e0069ff597ac6748197b3c9d9fd528e7785",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is unusually strong in London, with citywide showcases, Southbank curation, arena pop/R&B, outdoor park concerts and a solid underground-club run all confirmed.",
+    "events": [
+      {
+        "id": "london-sxsw-music-festival-2026",
+        "title": "SXSW London 2026 Music Festival",
+        "type": "conference",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-06",
+        "importance": 95,
+        "venueName": "Shoreditch venues",
+        "venueId": null,
+        "sourceUrl": "https://www.sxswlondon.com/music-festival",
+        "ticketUrl": "https://passes.sxswlondon.com/",
+        "summary": "SXSW London’s music programme takes over Shoreditch with showcase artists including Earl Sweatshirt, Sega Bodega, Rachel Chinouriri, ODUMODUBLVCK, Tiwa Savage and Shame. The event combines live music, industry programming and cross-cultural showcases across the week.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-harry-styles-meltdown-2026",
+        "title": "Harry Styles’ Meltdown",
+        "type": "festival",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-21",
+        "importance": 94,
+        "venueName": "Southbank Centre",
+        "venueId": null,
+        "sourceUrl": "https://southbank.london/whats-on/harry-styles-meltdown",
+        "ticketUrl": "https://www.southbankcentre.co.uk/whats-on/festivals-series/harry-styles-meltdown/",
+        "summary": "Harry Styles curates the 31st Meltdown festival at Southbank Centre, with confirmed programming including Warpaint, Shabaka & Friends, Erika de Casier, Kamasi Washington, Nilüfer Yanya, Devonté Hynes Ensemble, Yussef Dayes, Jon Hopkins and Soulwax. Styles is also listed for a Royal Festival Hall appearance during the festival.",
+        "genres": [
+          "pop",
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-hampton-court-palace-festival-2026",
+        "title": "Hampton Court Palace Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-20",
+        "importance": 84,
+        "venueName": "Hampton Court Palace",
+        "venueId": null,
+        "sourceUrl": "https://hamptoncourtpalacefestival.com/",
+        "ticketUrl": "https://hamptoncourtpalacefestival.com/",
+        "summary": "The palace concert series returns with confirmed 2026 headliners including David Gray, OMD, Pete Tong Ibiza Classics, The Stranglers, Nile Rodgers & CHIC, Elvis Costello & The Imposters, Sophie Ellis-Bextor and 80s Classical. It is a near-London heritage-setting music festival with nightly shows in June.",
+        "genres": [
+          "pop",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-fka-twigs-o2-2026",
+        "title": "FKA twigs: BODY HIGH TOUR",
+        "type": "concert",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-10",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/fka-twigs",
+        "ticketUrl": "https://www.axs.com/uk/events/1130847/fka-twigs-tickets",
+        "summary": "FKA twigs plays a UK-exclusive BODY HIGH TOUR show at The O2 with special guest Yves Tumor. The event is tied to her EUSEXUA Afterglow era and is billed by The O2 for Wednesday 10 June 2026.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-olivia-dean-o2-2026",
+        "title": "Olivia Dean: The Art of Loving Live",
+        "type": "concert",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-11",
+        "importance": 85,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/olivia-dean",
+        "ticketUrl": "https://www.axs.com/uk/events/1118750/olivia-dean-tickets",
+        "summary": "Olivia Dean brings The Art of Loving Live to The O2 for a London arena run; this entry uses the explicitly listed 11 June 2026 date. The O2 also lists a second June date on 12 June.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-kaytranada-o2-2026",
+        "title": "KAYTRANADA with Uncle Waffles",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/kaytranada",
+        "ticketUrl": "https://www.axs.com/uk/events/1118766/kaytranada-tickets",
+        "summary": "KAYTRANADA headlines The O2 with Uncle Waffles as special guest. The O2 lists the show for Thursday 18 June 2026 as part of his upcoming tour.",
+        "genres": [
+          "electronic",
+          "house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-start-of-the-line-festival-2026",
+        "title": "Start of the Line Festival",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 75,
+        "venueName": "Morden Park",
+        "venueId": null,
+        "sourceUrl": "https://www.merton.gov.uk/wearemerton/startoftheline",
+        "ticketUrl": "https://www.merton.gov.uk/wearemerton/startoftheline",
+        "summary": "Merton Council’s new one-day festival at Morden Park is confirmed with Soul II Soul, The Hoosiers and Billy Nomates as headliners. The official page lists the event for Saturday 20 June 2026.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-outro-festival-2026",
+        "title": "OUTRO Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 82,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2199303",
+        "ticketUrl": "https://ra.co/events/2199303",
+        "summary": "OUTRO Festival returns to The Cause with a bass-forward lineup including Special Request, Tim Reaper, Yung Singh, Sully, Capo Lee, Jossy Mitsu, Y U QT and more. Resident Advisor lists the day-to-night event for Saturday 20 June 2026.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-purified-open-air-2026",
+        "title": "Nora En Pure presents PURIFIED London Open Air",
+        "type": "club-night",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 76,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2383562",
+        "ticketUrl": "https://ra.co/events/2383562",
+        "summary": "Nora En Pure brings the PURIFIED open-air brand to The Cause with Nicky Elisabeth, Rezident, Corren Cavini, Tommy Farrow and Into The Ether. Resident Advisor lists the event for Sunday 21 June 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-empire-of-the-sun-ally-pally-2026",
+        "title": "Empire of the Sun: Ask That God Europe 2026",
+        "type": "concert",
+        "startDate": "2026-06-24",
+        "endDate": "2026-06-27",
+        "importance": 82,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/empire-of-the-sun/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/empire-of-the-sun/",
+        "summary": "Empire of the Sun play a multi-night Alexandra Palace Great Hall run for the Ask That God tour. Alexandra Palace lists 24–27 June 2026 and notes an extra 24 June date added due to demand.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fabriclive-grime-jun-2026",
+        "title": "FABRICLIVE: Sir Spyro, Roll Deep, Reeko, Tiffany Calver, Footsie, Capo Lee, Killa P, Big Zuu",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://www.fabriclondon.com/whats-on",
+        "ticketUrl": "https://ra.co/events",
+        "summary": "fabric’s official listings confirm a FABRICLIVE grime and UK rap-focused night with Sir Spyro, Roll Deep, REEK0 & Capo Lee, Tiffany Calver, Footsie, Killa P, Big Zuu and more. The event is listed for Friday 26 June 2026.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-bst-garth-brooks-2026",
+        "title": "BST Hyde Park: Garth Brooks",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 90,
+        "venueName": "Hyde Park",
+        "venueId": null,
+        "sourceUrl": "https://www.bst-hydepark.com/events/garth-brooks-sat-27-june/",
+        "ticketUrl": "https://www.bst-hydepark.com/events/garth-brooks-sat-27-june/",
+        "summary": "American Express presents BST Hyde Park opens its 2026 run with Garth Brooks headlining, joined by Zac Brown Band and Ashley McBryde. The official BST page lists the show for Saturday 27 June 2026.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

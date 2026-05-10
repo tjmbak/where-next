@@ -1,0 +1,207 @@
+{
+  "slug": "new-orleans",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:56:41.860Z",
+  "responseId": "resp_07f13dc3e7f03c860069ffd70699408192a3fc790889dbbacc",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 1,
+    "year": 2026,
+    "notes": "January leans local, with brass-band residencies, Tipitina's anniversary shows, Jazz Market headliners, and the first big Carnival-linked music party of the season.",
+    "events": [
+      {
+        "id": "new-orleans-headhunters-jazz-market-2026",
+        "title": "The Headhunters at New Orleans Jazz & Blues Market",
+        "type": "concert",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 82,
+        "venueName": "New Orleans Jazz & Blues Market",
+        "venueId": null,
+        "sourceUrl": "https://mikeclarkdrums.com/tour/",
+        "ticketUrl": "https://www.ticketle.net/the-headhunters-new-orleans-la-tickets-01-10-2026/event/612158",
+        "summary": "The Herbie Hancock-associated jazz-funk group The Headhunters played New Orleans Jazz & Blues Market, with drummer Mike Clark's official tour calendar listing the January 10 New Orleans date.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-gregory-alan-isakov-2026",
+        "title": "An Intimate Acoustic Evening with Gregory Alan Isakov",
+        "type": "concert",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-14",
+        "importance": 78,
+        "venueName": "Orpheum Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/an-intimate-acoustic-evening-with-gregory-new-orleans-louisiana-01-14-2026/event/1B00632B8CE92183",
+        "ticketUrl": "https://www.ticketmaster.com/an-intimate-acoustic-evening-with-gregory-new-orleans-louisiana-01-14-2026/event/1B00632B8CE92183",
+        "summary": "Singer-songwriter Gregory Alan Isakov brought an intimate acoustic show to the Orpheum Theater on January 14.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-radiators-anniversary-2026",
+        "title": "The Radiators 2026 Anniversary at Tipitina's",
+        "type": "concert",
+        "startDate": "2026-01-15",
+        "endDate": "2026-01-17",
+        "importance": 86,
+        "venueName": null,
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.livenation.com/api/calendar/KovZpZA1n61A/tipitinas-upcoming-events.pdf",
+        "ticketUrl": null,
+        "summary": "New Orleans favorites The Radiators held a three-night anniversary run at Tipitina's, with the venue calendar listing shows on January 15, 16, and 17.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-herb-alpert-2026",
+        "title": "Herb Alpert & The Tijuana Brass & Other Delights",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 82,
+        "venueName": "Orpheum Theater",
+        "venueId": null,
+        "sourceUrl": "https://orpheumnola.net/event/herb-alpert-the-tijuana-brass-other-delights/",
+        "ticketUrl": "https://www.ticketmaster.com/herb-alpert-the-tijuana-brass-other-new-orleans-louisiana-01-16-2026/event/1B0062D7C65B510A",
+        "summary": "Trumpeter Herb Alpert brought his Tijuana Brass program to the Orpheum Theater for an all-ages January 16 concert.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-ayybo-rabbit-hole-2026",
+        "title": "AYYBO Live at The Rabbit Hole",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 72,
+        "venueName": "The Rabbit Hole",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/ayybo-live-tickets-1967218346029",
+        "ticketUrl": "https://www.eventbrite.com/e/ayybo-live-tickets-1967218346029",
+        "summary": "Bass-house artist AYYBO played The Rabbit Hole in a club-focused early-evening event organized through Eventbrite by the venue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-rebirth-brass-band-rabbit-hole-2026",
+        "title": "Rebirth Brass Band at The Rabbit Hole",
+        "type": "residency",
+        "startDate": "2026-01-20",
+        "endDate": "2026-01-20",
+        "importance": 84,
+        "venueName": "The Rabbit Hole",
+        "venueId": null,
+        "sourceUrl": "https://www.wwoz.org/events/1295571",
+        "ticketUrl": null,
+        "summary": "Rebirth Brass Band's January 20 appearance at The Rabbit Hole continued the Grammy-winning brass band's long-running Tuesday-night New Orleans tradition.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-floozies-too-many-zooz-2026",
+        "title": "The Floozies + Too Many Zooz: Too Many Flooz Tour",
+        "type": "concert",
+        "startDate": "2026-01-22",
+        "endDate": "2026-01-22",
+        "importance": 76,
+        "venueName": "The Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/search?calendar_view=1&ga=tmol_act_override_srp_2454500&page=1&q=Zoo&tm_link=Artist_SwitchTo_Calendar",
+        "ticketUrl": "https://www.ticketmaster.com/search?calendar_view=1&ga=tmol_act_override_srp_2454500&page=1&q=Zoo&tm_link=Artist_SwitchTo_Calendar",
+        "summary": "Electro-funk duo The Floozies teamed with brass-house trio Too Many Zooz for a Joy Theater stop on the Too Many Flooz Tour.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-orleans-dj-soul-sister-hustle-2026",
+        "title": "Soul Sister Presents HUSTLE! with DJ Soul Sister",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 74,
+        "venueName": null,
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.wwoz.org/events/1295416",
+        "ticketUrl": "https://www.ticketmaster.com/dj-soul-sister-tickets/artist/1495468",
+        "summary": "New Orleans selector DJ Soul Sister brought her HUSTLE! dance party to Tipitina's on January 24, spotlighting soul, funk, and R&B dance-floor sounds.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-kenny-barron-trio-2026",
+        "title": "Kenny Barron Trio at New Orleans Jazz & Blues Market",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 84,
+        "venueName": "New Orleans Jazz & Blues Market",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1036431229-kenny-barron-at-new-orleans-jazz-and-blues-market",
+        "ticketUrl": "https://www.bandsintown.com/e/1036431229-kenny-barron-at-new-orleans-jazz-and-blues-market",
+        "summary": "NEA Jazz Master and pianist Kenny Barron performed at New Orleans Jazz & Blues Market with his trio, including Kiyoshi Kitagawa and Johnathan Blake.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-preservation-jazz-masters-2026",
+        "title": "Leroy Jones & The Preservation Jazz Masters",
+        "type": "residency",
+        "startDate": "2026-01-25",
+        "endDate": "2026-01-25",
+        "importance": 72,
+        "venueName": null,
+        "venueId": "preservation-hall-nola",
+        "sourceUrl": "https://www.wwoz.org/events/1289856",
+        "ticketUrl": null,
+        "summary": "Trumpeter Leroy Jones led The Preservation Jazz Masters in an afternoon Preservation Hall show, with the listed lineup including Daniel Farrow, Katja Toivola, Mike Clement, Jason Stewart, and Brett Gallo.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-krewe-du-vieux-doo-2026",
+        "title": "Krewe du Vieux Doo - Fête Costumée",
+        "type": "carnival",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 86,
+        "venueName": "Sugar Mill",
+        "venueId": null,
+        "sourceUrl": "https://www.kreweduvieux.org/ball.html",
+        "ticketUrl": "https://events.humanitix.com/2026krewe-du-vieux-doo",
+        "summary": "The official Krewe du Vieux Doo followed the Carnival parade at 2135 Decatur Street, with a music lineup listed as The Rumble, Johnny Sketch and the Dirty Notes, DJ G, and special guests.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-rockin-1000-2026",
+        "title": "Rockin'1000 U.S. Debut with Harry Connick, Jr.",
+        "type": "concert",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 90,
+        "venueName": "Caesars Superdome",
+        "venueId": null,
+        "sourceUrl": "https://www.caesarssuperdome.com/events/detail/rockin-1000",
+        "ticketUrl": "https://www.ticketmaster.com/rockin1000-new-orleans-louisiana-01-31-2026/event/1B00635184550FC0",
+        "summary": "Rockin'1000 made its U.S. debut at Caesars Superdome with 1,000 musicians performing together and Harry Connick, Jr. listed as special guest.",
+        "genres": []
+      }
+    ]
+  }
+}

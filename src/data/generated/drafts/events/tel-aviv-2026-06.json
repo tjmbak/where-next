@@ -1,0 +1,180 @@
+{
+  "slug": "tel-aviv",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:56:48.138Z",
+  "responseId": "resp_096fdc775e6921a70069ff66d0ae2081a3bd13c3d707d08d75",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is anchored by Tel Aviv Pride plus a run of high-profile Israeli concerts at Hatikva Stadium, Bloomfield Stadium, Park Ariel Sharon, Heichal HaTarbut, Zappa, and Zocker Hall.",
+    "events": [
+      {
+        "id": "tel-aviv-dudu-tassa-jun-2026",
+        "title": "Dudu Tassa at Hatikva Neighborhood Stadium",
+        "type": "concert",
+        "startDate": "2026-06-02",
+        "endDate": "2026-06-02",
+        "importance": 84,
+        "venueName": "Hatikva Neighborhood Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/event/MBE01/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/event/MBE01/ALL/en",
+        "summary": "Dudu Tassa plays a large hometown-style show at Hatikva Neighborhood Stadium with Radio Baghdad, Echo, and a guest list including Yehuda Poliker, Tuna, Mark Eliyahu, and Yehuda Keisar listed by Ticketmaster Israel.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-yishai-ribo-jun-2026",
+        "title": "Yishai Ribo at Kav Rakia – Park Ariel Sharon",
+        "type": "concert",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 80,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDL/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDL/001/ALL/en",
+        "summary": "Yishai Ribo brings a full-band show to the outdoor Kav Rakia stage at Park Ariel Sharon, with doors listed for 19:30 and showtime at 21:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-eyal-golan-bloomfield-jun-2026",
+        "title": "Eyal Golan at Bloomfield Stadium",
+        "type": "concert",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-11",
+        "importance": 88,
+        "venueName": "Bloomfield Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketle.co.il/en/eyal-golan-tel-aviv-tickets-11-06-2026/event/667665",
+        "ticketUrl": "https://www.ticketle.co.il/en/eyal-golan-tel-aviv-tickets-11-06-2026/event/667665",
+        "summary": "Eyal Golan is listed for a stadium concert at Bloomfield Stadium on 11 June, with additional Tel Aviv dates shown for 13, 14, and 18 June on the same ticket listing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-pride-parade-2026",
+        "title": "Tel Aviv-Yafo Pride Parade 2026",
+        "type": "carnival",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 95,
+        "venueName": "Tel Aviv Pride Week",
+        "venueId": "tel-aviv-pride",
+        "sourceUrl": "https://ra.co/events/2392080",
+        "ticketUrl": null,
+        "summary": "Resident Advisor lists the 28th Tel Aviv-Yafo Pride Parade for Friday, 12 June, from 12:00 to 17:00, returning to its seafront parade format along the Shlomo Lahat Promenade and ending at Charles Clore Garden. The music lineup is still marked TBA.",
+        "genres": [
+          "festival",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tel-aviv-maya-belsitzman-matan-efrat-jun-2026",
+        "title": "Maya Belsitzman & Matan Efrat – New Album Launch",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 68,
+        "venueName": "Zocker Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MZHBP/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MZHBP/001/ALL/en",
+        "summary": "Maya Belsitzman and Matan Efrat present a new-album launch show at Zocker Hall with an expanded seven-player ensemble and material blending original songs, jazz, world music, and Hebrew song.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-danny-sanderson-jun-2026",
+        "title": "Danny Sanderson at Zappa Tel Aviv",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 72,
+        "venueName": "Zappa Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.il/en/artist/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-2789054/",
+        "ticketUrl": "https://www.eventim.co.il/en/artist/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-2789054/",
+        "summary": "Israeli singer-songwriter and guitarist Danny Sanderson is listed by Eventim for a Friday afternoon show at Zappa Tel Aviv.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-shlomi-shabat-pablo-rosenberg-jun-2026",
+        "title": "Shlomi Shabat & Pablo Rosenberg at Kav Rakia – Park Ariel Sharon",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 78,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDH/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDH/001/ALL/en",
+        "summary": "Shlomi Shabat and Pablo Rosenberg reunite for a joint show at Kav Rakia, backed by a 10-piece band and focused on hits from their respective catalogues.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-avraham-tal-mosh-ben-ari-jun-2026",
+        "title": "Avraham Tal & Mosh Ben Ari at Kav Rakia – Park Ariel Sharon",
+        "type": "concert",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-25",
+        "importance": 82,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDI/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDI/001/ALL/en",
+        "summary": "Avraham Tal and Mosh Ben Ari premiere a new joint show at Kav Rakia, with Ticketmaster listing a live band, a new song, and performances from both artists’ repertoires.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-yehuda-poliker-ashes-dust-2026",
+        "title": "Yehuda Poliker – Ashes and Dust",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 83,
+        "venueName": "Heichal HaTarbut – Charles Bronfman Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.zappa-club.co.il/event/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%A4%D7%95%D7%9C%D7%99%D7%A7%D7%A8-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21142345/",
+        "ticketUrl": "https://www.zappa-club.co.il/event/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%A4%D7%95%D7%9C%D7%99%D7%A7%D7%A8-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21142345/",
+        "summary": "Yehuda Poliker performs the landmark album “Ashes and Dust” at Heichal HaTarbut with a 13-piece band, combining the album material with classics from across his catalogue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-mashina-40-jun-2026",
+        "title": "Mashina – 40th Anniversary Show",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 84,
+        "venueName": "Heichal HaTarbut – Charles Bronfman Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.il/event/%D7%9E%D7%A9%D7%99%D7%A0%D7%94br%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-40-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21123138/",
+        "ticketUrl": "https://www.eventim.co.il/event/%D7%9E%D7%A9%D7%99%D7%A0%D7%94br%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-40-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21123138/",
+        "summary": "Mashina marks 40 years of activity with a Tel Aviv date at Heichal HaTarbut, part of the band’s “Nog‘im BaShamayim” anniversary tour.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

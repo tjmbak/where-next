@@ -1,0 +1,220 @@
+{
+  "slug": "los-angeles",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:09:18.086Z",
+  "responseId": "resp_068a874d6a6bb1a10069ff5bb4876881968f4cdd3078302562",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is already anchored by arena and stadium-scale pop, K-pop, electronic, hip-hop/R&B, and alternative-rock shows across Inglewood, Downtown LA, Hollywood, and Pershing Square.",
+    "events": [
+      {
+        "id": "los-angeles-bruno-mars-sofi-2026",
+        "title": "Bruno Mars: The Romantic Tour with DJ Pee.Wee and Raye",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 95,
+        "venueName": "SoFi Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.sofistadium.com/events/detail/bruno-mars-october-3",
+        "ticketUrl": "https://www.sofistadium.com/events/detail/bruno-mars-october-3",
+        "summary": "Bruno Mars headlines SoFi Stadium on The Romantic Tour, with Anderson .Paak appearing as DJ Pee.Wee and Raye also billed on the stadium date.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-aespa-intuit-2026",
+        "title": "aespa LIVE TOUR – SYNK : COMPLæXITY – in Los Angeles",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 85,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule/3850?utm_campaign=IDevents26&utm_content=aespa_live_tour_261003&utm_medium=eventschedule&utm_source=IDwebsite",
+        "ticketUrl": "https://www.intuitdome.com/events/event-schedule/3850?utm_campaign=IDevents26&utm_content=aespa_live_tour_261003&utm_medium=eventschedule&utm_source=IDwebsite",
+        "summary": "K-pop group aespa brings its SYNK : COMPLæXITY tour to Intuit Dome for an 8:00 PM Los Angeles-area arena show.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-all-day-i-dream-2026",
+        "title": "All Day I Dream of Los Angeles",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 78,
+        "venueName": "Pershing Square",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426096",
+        "ticketUrl": "https://ra.co/events/2426096",
+        "summary": "All Day I Dream’s Los Angeles edition is confirmed at Pershing Square from 3:00 PM to 11:00 PM, with Lee Burridge listed and more acts TBA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-mumford-sons-kia-forum-2026",
+        "title": "Mumford & Sons: Prizefighter Tour with Sierra Ferrell",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/mumford-sons/",
+        "ticketUrl": "https://thekiaforum.com/event/mumford-sons/",
+        "summary": "Mumford & Sons play the Kia Forum on the Prizefighter Tour, with Sierra Ferrell listed as support for the October 6 date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-jungle-crypto-arena-2026",
+        "title": "JUNGLE: World Tour 2026 with RIO KOSTA",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 80,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/jungle101026",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/jungle101026",
+        "summary": "JUNGLE bring their World Tour 2026 to Crypto.com Arena, with RIO KOSTA listed as support and an 8:00 PM event start.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-tlc-salt-n-pepa-intuit-2026",
+        "title": "TLC and Salt-N-Pepa",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 78,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule/3613?utm_campaign=IDevents26&utm_content=tlc_salt-n-pepa_261010&utm_medium=eventschedule&utm_source=IDwebsite",
+        "ticketUrl": "https://www.intuitdome.com/events/event-schedule/3613?utm_campaign=IDevents26&utm_content=tlc_salt-n-pepa_261010&utm_medium=eventschedule&utm_source=IDwebsite",
+        "summary": "TLC and Salt-N-Pepa are confirmed for a 7:30 PM Intuit Dome concert in Inglewood.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-young-miko-intuit-2026",
+        "title": "Young Miko",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 76,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule/3707?utm_campaign=IDevents26&utm_content=young_miko_261017&utm_medium=eventschedule&utm_source=IDwebsite",
+        "ticketUrl": "https://www.intuitdome.com/events/event-schedule/3707?utm_campaign=IDevents26&utm_content=young_miko_261017&utm_medium=eventschedule&utm_source=IDwebsite",
+        "summary": "Puerto Rican artist Young Miko is scheduled for an 8:00 PM headline concert at Intuit Dome.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-kacey-musgraves-crypto-2026",
+        "title": "Kacey Musgraves: Middle of Nowhere Tour with Gabriella Rose and Estevie",
+        "type": "concert",
+        "startDate": "2026-10-18",
+        "endDate": "2026-10-19",
+        "importance": 83,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
+        "summary": "Kacey Musgraves plays two nights at Crypto.com Arena on the Middle of Nowhere Tour; Gabriella Rose is listed for October 18 and Estevie for October 19.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-doja-cat-kia-forum-2026",
+        "title": "Doja Cat: Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 88,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/doja-cat/",
+        "ticketUrl": "https://thekiaforum.com/event/doja-cat/",
+        "summary": "Doja Cat’s Tour Ma Vie World Tour is confirmed at the Kia Forum on October 22.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-gorillaz-kia-forum-2026",
+        "title": "Gorillaz: The Mountain Tour with Deltron 3030",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 86,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/gorillaz-2/",
+        "ticketUrl": "https://thekiaforum.com/event/gorillaz-2/",
+        "summary": "Gorillaz bring The Mountain Tour to the Kia Forum, with Deltron 3030 listed as the guest act.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-weezer-gathering-2026",
+        "title": "Weezer: The Gathering with The Shins & Silversun Pickups",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 82,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/weezer102426",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/weezer102426",
+        "summary": "Weezer’s The Gathering tour wraps its Los Angeles date at Crypto.com Arena, with The Shins and Silversun Pickups listed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-my-chemical-romance-hollywood-bowl-2026",
+        "title": "My Chemical Romance with Special Guest The Used",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 90,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/my-chemical-romance-hollywood-california-10-30-2026/event/0B006332CBE5399E",
+        "ticketUrl": "https://www.ticketmaster.com/my-chemical-romance-hollywood-california-10-30-2026/event/0B006332CBE5399E",
+        "summary": "My Chemical Romance play the Hollywood Bowl with special guest The Used on October 30, one of several confirmed October Hollywood Bowl dates for the band.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

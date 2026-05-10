@@ -1,0 +1,72 @@
+{
+  "_note": "Already added to the dataset. Kept here as a reference profile.",
+
+  "slug": "st-barths",
+  "city": "Saint-Barthélemy",
+  "country": "France",
+  "region": "North America",
+  "coordinates": { "lat": 17.9, "lng": -62.8333 },
+
+  "tagline": "Christmas-NYE Caribbean luxury, Eden Rock, Nikki Beach, and yacht-driven afterparties.",
+  "summary": "Saint-Barthélemy concentrates one of the world's wildest two-week party seasons around Christmas and New Year's Eve — Nikki Beach St. Barth, Le Ti, Bagatelle, and yacht-driven clubs in Gustavia harbor host celebrity DJ residencies, billionaire NYE parties, and intimate beachfront sessions during the December 22 - January 5 window.",
+
+  "activeMonths": [12, 1, 2],
+  "peakMonths": [12, 1],
+  "genres": ["house", "electronic", "pop", "afro-house"],
+  "vibes": ["luxury", "beach", "late-night", "group-trip"],
+  "budget": "luxury",
+  "averageDailySpendUsd": { "low": 700, "high": 3000 },
+
+  "whoFor": ["Christmas/NYE jet-setters", "Caribbean luxury group trips", "Yacht week travelers"],
+  "whenToBook": "Book December 22 - January 5 villas and yacht charters 9-12 months ahead — Caribbean luxury inventory is fully booked by spring.",
+  "travelNotes": "Fly into San Juan, St. Maarten, or Antigua — small commuter flights connect to St. Barth (SBH). Most NYE programming is villa- or yacht-based; reservations are essential.",
+
+  "peakHook": "Christmas-to-NYE concentrates an unmatched lineup of celebrity DJs, residencies, and yacht parties — the rest of the year is calm villa season.",
+
+  "heroScenes": {
+    "peak": "Gustavia harbor in St. Barth at golden hour in winter, super-yachts moored against red-roofed buildings, a hillside of red-tiled villas behind, calm Caribbean Sea, warm dry-season light, no people",
+    "shoulder": "a quiet St Barth beach in summer rainy season, palm trees in soft tropical wind, dramatic clouds, calm turquoise water, no people",
+    "detail": "interior of a St Barth beachfront lounge at golden hour, white-rope ceiling, brass fixtures, a single lit candle on a low table, soft warm Caribbean light, no people"
+  },
+
+  "venues": [
+    { "id": "nikki-beach-st-barths", "name": "Nikki Beach St. Barth", "type": "beach-club", "sceneTags": ["beach", "luxury"], "officialUrl": "https://stbarth.nikkibeach.com/" },
+    { "id": "le-ti-st-barths", "name": "Le Ti St Barth", "type": "venue", "sceneTags": ["luxury", "late-night"], "officialUrl": "https://www.letistbarth.com/" },
+    { "id": "bagatelle-st-barths", "name": "Bagatelle Saint-Barth", "type": "venue", "sceneTags": ["luxury", "late-night"], "officialUrl": "https://bistrotbagatelle.com/saint-barth/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "st-barths-nye",
+      "title": "St. Barth New Year's Eve Circuit",
+      "type": "club-night",
+      "startMonth": 12, "startDay": 28, "endMonth": 1, "endDay": 3,
+      "importance": 92,
+      "summary": "Nikki Beach, Le Ti, Bagatelle, and the harbor-side yachts host overlapping NYE parties through the December 28 - January 3 window with rotating celebrity DJ guests.",
+      "venueId": "nikki-beach-st-barths",
+      "sourceUrl": "https://stbarth.nikkibeach.com/",
+      "genres": ["house", "pop", "electronic"]
+    },
+    {
+      "id": "st-barths-eden-rock-residency",
+      "title": "Eden Rock Holiday Residency",
+      "type": "residency",
+      "startMonth": 12, "startDay": 22, "endMonth": 1, "endDay": 5,
+      "importance": 88,
+      "summary": "Eden Rock's Sand Bar and Rémy lounge host nightly DJ residencies through the Christmas-NYE window with international guests booked into the resort by promoters.",
+      "sourceUrl": "https://www.oetkercollection.com/hotels/eden-rock-st-barths/",
+      "genres": ["house", "pop", "electronic"]
+    },
+    {
+      "id": "st-barths-bagatelle-residency",
+      "title": "Bagatelle St Barth Lunch & Late",
+      "type": "residency",
+      "startMonth": 12, "startDay": 22, "endMonth": 1, "endDay": 5,
+      "importance": 84,
+      "summary": "Bagatelle's signature day-into-night format — long champagne lunches that segue into DJ-led late nights — runs daily through the holiday window.",
+      "venueId": "bagatelle-st-barths",
+      "sourceUrl": "https://bistrotbagatelle.com/saint-barth/",
+      "genres": ["house", "pop"]
+    }
+  ]
+}

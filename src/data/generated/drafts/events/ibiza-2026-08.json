@@ -1,0 +1,230 @@
+{
+  "slug": "ibiza",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:45:58.878Z",
+  "responseId": "resp_0dc0da209ac361af0069ff5637a71c81908866dbfb9939f4cb",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is peak Ibiza season, with major open-air residencies, flagship superclub nights, and a rare solar-eclipse week adding extra demand around August 10–14.",
+    "events": [
+      {
+        "id": "ibiza-circoloco-dc10-aug-2026",
+        "title": "Circoloco DC-10 Ibiza 2026",
+        "type": "club-night",
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-10",
+        "importance": 95,
+        "venueName": "DC10 Ibiza",
+        "venueId": "dc10",
+        "sourceUrl": "https://circolocoibiza.com/",
+        "ticketUrl": null,
+        "summary": "Circoloco’s official Ibiza 2026 schedule lists Monday August 10 from 18:00 as part of its DC-10 season. The long-running underground party remains one of Ibiza’s defining house and techno sessions.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-playabout-radio-fest-2026",
+        "title": "Ibiza PlayAbout Radio Fest: Total Solar Eclipse",
+        "type": "festival",
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-14",
+        "importance": 70,
+        "venueName": "Various venues, Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.ibizaplayabout.com/events/ibiza-playabout-radio-fest-2026",
+        "ticketUrl": "https://www.ibizaplayabout.com/events/ibiza-playabout-radio-fest-2026",
+        "summary": "Ibiza PlayAbout confirms a four-day house and tech-house festival from August 10–14, 2026, built around a Solar Eclipse Boat Party on August 12. The main boat-party headliner listed by the organizer is Dario Nunez.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-elrow-ushuaia-eclipse-2026",
+        "title": "elrow at Ushuaïa Ibiza — Solar Eclipse Event",
+        "type": "club-night",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-12",
+        "importance": 88,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/elrow-on-2026-08-12",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/elrow-on-2026-08-12",
+        "summary": "Ushuaïa confirms elrow for Wednesday August 12, 2026, from 17:00, coinciding with Ibiza’s visible solar eclipse at sunset. Listed artists include Bastian Bux, Ilario Alicante, Melanie Ribbe and Paco Osuna.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-calvin-harris-ushuaia-2026",
+        "title": "Calvin Harris at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 92,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-08-07",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-08-07",
+        "summary": "Ushuaïa lists Calvin Harris on Friday August 7, 2026, from 17:00, with MK and Tyson O’Brien also on the bill. The page confirms Harris’s 2026 dual weekly residency runs Tuesdays and Fridays across the summer.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-david-guetta-ushuaia-2026",
+        "title": "F*** Me I’m Famous! by David Guetta",
+        "type": "residency",
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-10",
+        "importance": 92,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/f-me-im-famous-by-david-guetta-on-2026-08-10",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/f-me-im-famous-by-david-guetta-on-2026-08-10",
+        "summary": "David Guetta’s F*** Me I’m Famous! is confirmed at Ushuaïa on Monday August 10, 2026, as part of its every-Monday run from June 1 to October 5. The show is positioned as Guetta’s open-air flagship Ibiza residency.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-swedish-house-mafia-ushuaia-2026",
+        "title": "Swedish House Mafia at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-08-09",
+        "endDate": "2026-08-09",
+        "importance": 91,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia-on-2026-08-09",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia-on-2026-08-09",
+        "summary": "Ushuaïa confirms Swedish House Mafia for Sunday August 9, 2026, as part of their Sunday residency running June 28 to September 13. The trio’s large-scale production is one of the island’s headline open-air draws for the month.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "ibiza-anyma-unvrs-2026",
+        "title": "ANYMA presents ÆDEN at [UNVRS]",
+        "type": "residency",
+        "startDate": "2026-08-11",
+        "endDate": "2026-08-11",
+        "importance": 89,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/es/eventos/2026/anyma",
+        "ticketUrl": "https://www.unvrs.com/es/eventos/2026/anyma",
+        "summary": "[UNVRS] lists ANYMA on Tuesday August 11, 2026, with Kevin de Vries, Dimitri Vangelis & Wyman, and Woo York live in the Main Room. The ÆDEN residency runs Tuesdays from June 9 to September 15 at the San Rafael hyperclub.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "ibiza-dom-dolla-hi-2026",
+        "title": "Dom Dolla at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 87,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/dom-dolla/2026-08-07",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/dom-dolla/2026-08-07",
+        "summary": "Hï Ibiza confirms Dom Dolla for Friday August 7, 2026, with Ewan McVicar, Chaos in the CBD and DJ Paulette in the Club Room. The page confirms Dom Dolla’s Friday residency runs June 5 to August 28.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-black-coffee-hi-2026",
+        "title": "Black Coffee at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 90,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-08-22",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-08-22",
+        "summary": "Hï Ibiza lists Black Coffee on Saturday August 22, 2026, with Kerri Chandler and Joeski in the Theatre, plus Skepta, Marsolo and Locky in the Club Room. The residency runs every Saturday from May 2 to October 3.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-our-house-hi-2026",
+        "title": "MEDUZA & James Hype present Our House",
+        "type": "residency",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 85,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/es/events/2026/our-house/2026-08-05",
+        "ticketUrl": "https://www.hiibiza.com/es/events/2026/our-house/2026-08-05",
+        "summary": "Hï Ibiza confirms MEDUZA³ and James Hype for Wednesday August 5, 2026, with Jonas Blue launching his SENSES run in the Club Room. The Our House residency is listed every Wednesday from May 27 to September 30.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-solomun-pacha-2026",
+        "title": "Solomun+1 at Pacha Ibiza",
+        "type": "residency",
+        "startDate": "2026-08-16",
+        "endDate": "2026-08-16",
+        "importance": 90,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/solomun1-16-08-2026",
+        "ticketUrl": "https://pacha.com/event/solomun1-16-08-2026",
+        "summary": "Pacha confirms Solomun+1 on Sunday August 16, 2026, from 23:00 to 06:00, with DJ Gigola as the +1 guest. The page states the Sunday residency runs May 31 to October 4.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-music-on-pacha-2026",
+        "title": "Marco Carola presents Music On",
+        "type": "residency",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 88,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/marco-carola-presents-music-on-07-08-2026",
+        "ticketUrl": "https://pacha.com/event/marco-carola-presents-music-on-07-08-2026",
+        "summary": "Pacha lists Marco Carola’s Music On for Friday August 7, 2026, from 23:00 to 06:00. The confirmed lineup includes Marco Carola, Dennis Cruz, Prospa, Davide Squillace and Cuky.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

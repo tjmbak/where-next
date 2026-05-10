@@ -1,0 +1,223 @@
+{
+  "slug": "miami",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:02:30.368Z",
+  "responseId": "resp_030e5edacf1669260069ff5a1077fc81a387418c745644cc2c",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Miami was unusually festival-heavy, with jazz, electronic, Latin, LGBTQ circuit, and guitar-focused events clustering in the second half of the month.",
+    "events": [
+      {
+        "id": "miami-disco-biscuits-jam-cruise-preparty-2026",
+        "title": "The Disco Biscuits: Jam Cruise 22 Pre-Party",
+        "type": "concert",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-06",
+        "importance": 70,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://miamibeachbandshell.com/events/month/2026-02/",
+        "ticketUrl": null,
+        "summary": "The Disco Biscuits played a Jam Cruise 22 pre-party at Miami Beach Bandshell, with the venue listing the show as open to cruisers and the general public.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-la-invasion-tropical-feb-2026",
+        "title": "La Invasión Tropical",
+        "type": "concert",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 80,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/news/detail/la-invasion-tropical-coming-to-kaseya-center",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "A one-night tropical Latin arena bill at Kaseya Center featuring Elvis Crespo, Víctor Manuelle, Jerry Rivera, Frank Reyes, El Blachy, Alex Sensation and Grupo Manía The Originals.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-digable-planets-feb-2026",
+        "title": "Digable Planets: Blowout Comb 30th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 70,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://miamibeachbandshell.com/events/month/2026-02/",
+        "ticketUrl": "https://miamibeachbandshell.com/event/digable-planets/",
+        "summary": "Digable Planets brought their full-band Blowout Comb 30th anniversary show to Miami Beach Bandshell, with Mr. Manuvers listed for an opening DJ set on the event page.",
+        "genres": [
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-cimafest-feb-2026",
+        "title": "CimaFest Miami 2026",
+        "type": "festival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-15",
+        "importance": 82,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://cimafunk.com/cimafest/",
+        "ticketUrl": "https://shotgun.live/",
+        "summary": "Cimafunk & La Tribu hosted two days of DJ sets, dance parties and full-band sets, with Cimafunk headlining both nights and guests including Buscabulla, Gia Fu, Bosq, Salsa Z and Los Datway.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-guitart-festival-feb-2026",
+        "title": "Miami International GuitART Festival 2026",
+        "type": "festival",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-22",
+        "importance": 75,
+        "venueName": "FIU Herbert and Nicole Wertheim Performing Arts Center",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/miami-international-guitart-festival/11931",
+        "ticketUrl": "https://migf.fiu.edu/2026/",
+        "summary": "The 11th Miami International GuitART Festival presented a week of concerts, masterclasses and luthier programming, with artists including René Izquierdo, Celil Refik Kaya, Deepak Ram and Freddie Bryant.",
+        "genres": [
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-premio-lo-nuestro-feb-2026",
+        "title": "Premio Lo Nuestro 2026",
+        "type": "concert",
+        "startDate": "2026-02-19",
+        "endDate": "2026-02-19",
+        "importance": 88,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/news/detail/premio-lo-nuestro-announces-annual-return-to-kaseya-center",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "The 38th annual Premio Lo Nuestro awards show aired live from Kaseya Center, celebrating Latin music across pop, urbano, tropical and Mexican music categories with live performances announced by TelevisaUnivision.",
+        "genres": [
+          "latin",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-jamie-jones-space-feb-2026",
+        "title": "Jamie Jones, Ilario Alicante + Miguelle & Tons at Club Space",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 76,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2343291",
+        "ticketUrl": null,
+        "summary": "Club Space booked Jamie Jones, Ilario Alicante, Miguelle & Tons and Bakke for a Saturday-night Terrace event promoted by clubspacemiami.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-winter-party-festival-feb-2026",
+        "title": "Winter Party Festival 2026",
+        "type": "festival",
+        "startDate": "2026-02-26",
+        "endDate": "2026-03-02",
+        "importance": 88,
+        "venueName": "Multiple venues in Miami Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.thetaskforce.org/news/the-national-lgbtq-task-forces-winter-party-festival-returns-to-miami-beach-in-2026-raising-vital-funds-for-the-lgbtq-community/",
+        "ticketUrl": "https://winterparty.com/",
+        "summary": "Winter Party Festival returned to Miami Beach for its 33rd year with more than a dozen LGBTQ+ music and dance events and DJs including Abel, GSP, Morabito, Sagi Kariv and Toy Armada.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-montreux-jazz-festival-feb-2026",
+        "title": "Montreux Jazz Festival Miami 2026",
+        "type": "festival",
+        "startDate": "2026-02-25",
+        "endDate": "2026-03-01",
+        "importance": 95,
+        "venueName": "Miami Beach Bandshell and The Hangar",
+        "venueId": null,
+        "sourceUrl": "https://www.montreuxjazzfestivalmiami.com/en/news/2026-lineup/",
+        "ticketUrl": "https://montreuxjazzfestivalmiami.com/en/tickets-available-soon/",
+        "summary": "Montreux Jazz Festival Miami expanded to five nights, opening with Miles Davis centennial and Makaya McCraven programs before a main weekend featuring Trombone Shorty, Jon Batiste, Nile Rodgers & CHIC, TOTO, Bomba Estéreo and more.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-we-belong-here-feb-2026",
+        "title": "We Belong Here Miami 2026",
+        "type": "festival",
+        "startDate": "2026-02-27",
+        "endDate": "2026-03-01",
+        "importance": 91,
+        "venueName": "Historic Virginia Key Beach Park",
+        "venueId": null,
+        "sourceUrl": "https://www.jambase.com/festival/we-belong-here-miami-2026",
+        "ticketUrl": "https://dice.fm/event/xe2xkl-we-belong-here-miami-2026-all-weekend-27th-feb-historic-virginia-key-beach-park-miami-tickets",
+        "summary": "We Belong Here Miami staged a three-day electronic festival at Historic Virginia Key Beach Park with headliners including Kaskade, Chris Lake, Lane 8, Tiësto, Gorgon City and Elderbrook.",
+        "genres": [
+          "house",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-polo-pan-space-feb-2026",
+        "title": "Polo & Pan + Red Axes at Club Space",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 74,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2355844",
+        "ticketUrl": null,
+        "summary": "Club Space listed Polo & Pan, Red Axes, Sinopoli, Bakke, Miluhska and Max Stern for a Friday-night Terrace event promoted by clubspacemiami.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-juvenile-fillmore-feb-2026",
+        "title": "Juvenile at The Fillmore Miami Beach",
+        "type": "concert",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 70,
+        "venueName": "The Fillmore Miami Beach at Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.juvenileofficial.com/gig/saturday-february-28th-2026-backstage-at-the-fillmore-miami-beach/",
+        "ticketUrl": null,
+        "summary": "Juvenile’s official tour listing confirmed a February 28 Miami Beach concert at Backstage at The Fillmore Miami Beach, with an 8:00 p.m. showtime.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

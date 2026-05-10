@@ -1,0 +1,223 @@
+{
+  "slug": "dubai",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:21:15.871Z",
+  "responseId": "resp_0690f757496fc1360069ff5e741f2081938ff0e2ac08d3e9ac",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 was unusually stacked for Dubai, with arena concerts, Asian pop, beachfront reggae and Latin shows, plus a dense run of house and melodic-techno nights around JBR, Palm Jumeirah and Dubai Harbour.",
+    "events": [
+      {
+        "id": "dubai-taste-of-dubai-feb-2026",
+        "title": "Taste of Dubai 2026",
+        "type": "festival",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-08",
+        "importance": 72,
+        "venueName": "Dubai Media City Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://tasteofdubaifestival.com/",
+        "ticketUrl": null,
+        "summary": "Dubai’s food, drink and music festival returned for three days with bands and DJs across multiple music areas alongside the restaurant and chef programme.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-honey-singh-feb-2026",
+        "title": "Yo Yo Honey Singh Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-06",
+        "importance": 82,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.visitdubai.com/ar/festivals-and-events/dubai-events-calendar/honey-singh-live",
+        "ticketUrl": "https://www.visitdubai.com/ar/festivals-and-events/dubai-events-calendar/honey-singh-live",
+        "summary": "Indian rap star Yo Yo Honey Singh brought his Dubai arena show to Coca-Cola Arena, billed around his Indian rap and Desi pop catalogue.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-rewind-fest-feb-2026",
+        "title": "REW!ND Fest DXB 2026",
+        "type": "festival",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 86,
+        "venueName": "Bla Bla Dubai",
+        "venueId": null,
+        "sourceUrl": "https://platinumlist.net/guide/rewnd-fest-dxb-2026-brings-retro-vibes-from-the-80s-and-90s-to-bla-bla-dubai-this-february/",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/100754/rewnd-fest-dxb-2026-the-ultimate-80s-90s-experience-returns-to-bla-bla",
+        "summary": "The retro 80s and 90s festival returned to Bla Bla Dubai with a nostalgia-heavy lineup including Bananarama and Nik Kershaw.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-argy-neworld-feb-2026",
+        "title": "Argy presents NEWORLD",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 84,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.ushuaiadubai.com/events/argy-presents-neworld",
+        "ticketUrl": "https://www.ushuaiadubai.com/events/argy-presents-neworld",
+        "summary": "Argy brought his NEWORLD audiovisual concept to Ushuaïa Dubai Harbour Experience for a large-scale open-air electronic show.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "dubai-bob-marley-birthday-festival-feb-2026",
+        "title": "Bob Marley Birthday Festival 2026",
+        "type": "beach-club",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 76,
+        "venueName": "Barasti Beach Dubai",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/bob-marley-birthday-festival-2026-tickets/415716982",
+        "ticketUrl": "https://www.ticketmaster.ae/event/bob-marley-birthday-festival-2026-tickets/415716982",
+        "summary": "Barasti Beach hosted its annual Bob Marley Birthday Festival, headlined by Alex Marley with reggae, dancehall and island-vibe DJs.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-benben-global-village-feb-2026",
+        "title": "Ben&Ben Live at Global Village",
+        "type": "concert",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 74,
+        "venueName": "Global Village Main Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.globalvillage.ae/en/shows-events/benben-live-global-village",
+        "ticketUrl": "https://www.globalvillage.ae/en/shows-events/benben-live-global-village",
+        "summary": "Filipino folk-pop band Ben&Ben performed on Global Village’s Main Stage, with entry included in the attraction’s general admission ticket.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-buena-vista-all-stars-feb-2026",
+        "title": "Buena Vista All Stars - One Night in Havana Tour",
+        "type": "concert",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 75,
+        "venueName": "Bla Bla Dubai, The Beach, JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/buena-vista-all-stars-blabla",
+        "ticketUrl": "https://www.ticketmaster.ae/",
+        "summary": "Buena Vista All Stars brought the One Night in Havana tour to Bla Bla Dubai for an evening of Cuban and Latin live music.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "dubai-train-coca-cola-arena-feb-2026",
+        "title": "Train Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-12",
+        "importance": 80,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/train-tickets/6207",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/train-tickets/6207",
+        "summary": "Grammy-winning US band Train performed at Coca-Cola Arena, with a set expected around hits such as “Hey, Soul Sister,” “Drive By” and “Drops of Jupiter.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-marco-carola-music-on-feb-2026",
+        "title": "Marco Carola presents Music On | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 88,
+        "venueName": "FIVE Luxe JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/marco-carola-presents-music-on-pacha-icons-tickets/2054921413",
+        "ticketUrl": "https://www.ticketmaster.ae/event/marco-carola-presents-music-on-pacha-icons-tickets/2054921413",
+        "summary": "Marco Carola brought his Music On brand to Pacha ICONS at FIVE Luxe JBR for a major Dubai tech-house and techno night.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-anjunadeep-bohemia-feb-2026",
+        "title": "Anjunadeep at Bohemia",
+        "type": "beach-club",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 84,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://web.fourvenues.com/en/bohemia-beach-club/events/bohemia-presents-josh-baker-07-02-2026-FT5N",
+        "ticketUrl": "https://www.ticketmaster.ae/city/dubai/75002",
+        "summary": "Bohemia Beach Club hosted an Anjunadeep date on Valentine’s weekend, bringing the label’s melodic house and deep electronic sound to FIVE Palm.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-krazy-super-concert-feb-2026",
+        "title": "Krazy Super Concert in Dubai",
+        "type": "festival",
+        "startDate": "2026-02-17",
+        "endDate": "2026-02-17",
+        "importance": 90,
+        "venueName": "Dubai Media City Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/krazy-super-concert",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/krazy-super-concert",
+        "summary": "KRAZY Super Concert made its Dubai edition at Dubai Media City Amphitheatre with G-DRAGON headlining alongside Jay Park, KUN, Kim Jongkook, Yein and Yerin.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-emir-anrey-penthouse-feb-2026",
+        "title": "Emir b2b ANREY at The Penthouse",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 72,
+        "venueName": "The Penthouse | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/emir-b2b-anrey-tickets/1457673",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/emir-b2b-anrey-tickets/1457673",
+        "summary": "Emir and ANREY played a back-to-back rooftop set at The Penthouse, blending Afro-house rhythms, disco-informed grooves and Chicago-inspired house energy.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "bali",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:23:12.993Z",
+  "responseId": "resp_0d8ffdb77a53f19a0069ff5f035708819db13b816d4ab0df97",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 8,
+    "year": 2026,
+    "notes": "August’s confirmed calendar is led by Ubud’s jazz festival and AXEAN’s regional showcase, while most Bali beach-club and nightclub calendars remain only partially announced this far out.",
+    "events": [
+      {
+        "id": "bali-hayden-james-savaya-2026",
+        "title": "Hayden James at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/august-1-2026",
+        "ticketUrl": "https://megatix.co.id/events/hayden-james-0108",
+        "summary": "Savaya Bali lists Hayden James as the headline act for Saturday, August 1, with doors at 3:00 PM and DJs through the day leading up to the main act.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-ubud-village-jazz-festival-2026",
+        "title": "Ubud Village Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-08",
+        "importance": 88,
+        "venueName": "Sthala, a Tribute Portfolio Hotel, Ubud Bali",
+        "venueId": null,
+        "sourceUrl": "https://ubudvillagejazzfestival.com/",
+        "ticketUrl": "https://megatix.co.id/events/sthala-ubud-village-jazz-festival-2026",
+        "summary": "The 13th Ubud Village Jazz Festival is confirmed for August 7–8, 2026 at Sthala Ubud Bali, presenting two evenings of jazz with Indonesian and international artists.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-joel-corry-desa-kitsune-2026",
+        "title": "Joel Corry at Desa Kitsuné",
+        "type": "club-night",
+        "startDate": "2026-08-11",
+        "endDate": "2026-08-11",
+        "importance": 74,
+        "venueName": "Desa Kitsuné",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/joel-corry1",
+        "ticketUrl": "https://megatix.co.id/events/joel-corry1",
+        "summary": "Megatix lists UK DJ and producer Joel Corry at Desa Kitsuné on Tuesday, August 11, 2026, with the event starting at 8:00 PM.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "bali-buleleng-festival-2026",
+        "title": "Buleleng Festival 2026 – Samsara: The Cycle of Titik Mula",
+        "type": "festival",
+        "startDate": "2026-08-23",
+        "endDate": "2026-08-28",
+        "importance": 65,
+        "venueName": "Buleleng, North Bali",
+        "venueId": null,
+        "sourceUrl": "https://visitnorthbali.bulelengkab.go.id/uploads/konten/bank-data_calendar-of-event-2026_20260109_113901.pdf",
+        "ticketUrl": null,
+        "summary": "The Buleleng Regency tourism calendar confirms Buleleng Festival 2026 for August 23–28, describing it as North Bali’s biggest annual event with the theme “Samsara: The Cycle of Titik Mula.”",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-axean-festival-2026",
+        "title": "AXEAN Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-30",
+        "importance": 86,
+        "venueName": "Jimbaran Hub",
+        "venueId": null,
+        "sourceUrl": "https://www.see.events/other/i/80802394/axean-festival-2026-at-jimbaran-hub-by-see-events-bali",
+        "ticketUrl": null,
+        "summary": "AXEAN Festival is confirmed for August 29–30, 2026 at Jimbaran Hub, bringing two days of live music, culture, and creative exchange focused on Southeast Asian artists and industry connections.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

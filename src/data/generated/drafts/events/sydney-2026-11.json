@@ -1,0 +1,215 @@
+{
+  "slug": "sydney",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:53:05.118Z",
+  "responseId": "resp_0657449132d5ba530069ff65daae708195a7a08ee8663fb27d",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 11,
+    "year": 2026,
+    "notes": "November 2026 is already stacked with arena pop/R&B, stadium shows and Hordern indie bills, while festival-style club programming appears less announced so far.",
+    "events": [
+      {
+        "id": "sydney-courtney-barnett-nov-2026",
+        "title": "Courtney Barnett",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "Sydney Opera House Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/courtney-barnett",
+        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/courtney-barnett",
+        "summary": "Courtney Barnett plays the Sydney Opera House Concert Hall on Friday 6 November 2026. The Opera House listing presents the show around her fourth album, Creature of Habit.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-foo-fighters-nov-2026",
+        "title": "Foo Fighters — Take Cover Tour",
+        "type": "concert",
+        "startDate": "2026-11-10",
+        "endDate": "2026-11-10",
+        "importance": 91,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/au/events/1328119/foo-fighters-sydney-tickets",
+        "ticketUrl": "https://www.axs.com/au/events/1328119/foo-fighters-sydney-tickets",
+        "summary": "Foo Fighters bring the Take Cover Tour to Accor Stadium on Tuesday 10 November 2026. The Sydney date is presented by Frontier Touring and Triple M, with The Belair Lip Bombs and TEENS listed as supports.",
+        "genres": []
+      },
+      {
+        "id": "sydney-charlie-puth-nov-2026",
+        "title": "Charlie Puth — Whatever's Clever! World Tour",
+        "type": "concert",
+        "startDate": "2026-11-10",
+        "endDate": "2026-11-10",
+        "importance": 84,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/charlie-puth-whatever-s-clever-world-tour-sydney-tickets-edp1666648",
+        "ticketUrl": "https://www.livenation.com.au/event/charlie-puth-whatever-s-clever-world-tour-sydney-tickets-edp1666648",
+        "summary": "Charlie Puth’s Whatever's Clever! World Tour stops at Qudos Bank Arena on Tuesday 10 November 2026. Live Nation lists the Sydney arena date as part of his Australia and New Zealand headline run.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-death-cab-for-cutie-nov-2026",
+        "title": "Death Cab For Cutie",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 78,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/deathcab/",
+        "ticketUrl": "https://thehordern.com.au/event/deathcab/",
+        "summary": "Death Cab For Cutie play Hordern Pavilion on Thursday 12 November 2026. The venue listing says the band will showcase hits alongside material from their forthcoming album I Built You A Tower.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-khalid-nov-2026",
+        "title": "Khalid — It’s Always Summer Somewhere Tour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 86,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://qudosbankarena.com.au/event/khalid",
+        "ticketUrl": "https://qudosbankarena.com.au/event/khalid",
+        "summary": "Khalid brings the It’s Always Summer Somewhere Tour to Qudos Bank Arena on Friday 13 November 2026. Lauv is listed as special guest for the Australia and New Zealand arena shows.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-joji-nov-2026",
+        "title": "JOJI — SOLARIS Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 86,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/joji-solaris-tour-sydney-tickets-edp1655920",
+        "ticketUrl": "https://www.livenation.com.au/event/joji-solaris-tour-sydney-tickets-edp1655920",
+        "summary": "JOJI’s SOLARIS Tour lands at Qudos Bank Arena on Saturday 14 November 2026. Live Nation lists the Sydney date as one of the Australian November stops.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-jack-johnson-nov-2026",
+        "title": "Jack Johnson — Surfilmusic Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 86,
+        "venueName": "The Domain",
+        "venueId": null,
+        "sourceUrl": "https://jackjohnsonmusic.com/tour/2026-11-14-the-domain/",
+        "ticketUrl": "https://www.ticketmaster.com.au/jack-johnson-surfilmusic-tour-australia-new-zealand-2026-sydney-14-11-2026/event/13006473DA488C88",
+        "summary": "Jack Johnson plays The Domain on Saturday 14 November 2026 as part of the Surfilmusic Tour. His official tour page lists Ben Harper, John Butler and Emily Wurramara as support acts.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-robbie-williams-nov-2026",
+        "title": "Robbie Williams — BRITPOP World Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 90,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-sydney-olympic-park-14-11-2026/event/2500646DCB8F8607",
+        "ticketUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-sydney-olympic-park-14-11-2026/event/2500646DCB8F8607",
+        "summary": "Robbie Williams brings the BRITPOP World Tour to Accor Stadium on Saturday 14 November 2026. Ticketmaster lists the Sydney Olympic Park stadium show with a 5:00 pm start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-men-i-trust-nov-2026",
+        "title": "Men I Trust — Equus Tour",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 76,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.livenation.com.au/event/men-i-trust-equus-tour-sydney-tickets-edp1651327",
+        "ticketUrl": "https://www.livenation.com.au/event/men-i-trust-equus-tour-sydney-tickets-edp1651327",
+        "summary": "Men I Trust’s Equus Tour reaches Enmore Theatre Sydney on Friday 20 November 2026. Live Nation lists the Canadian indie-pop trio’s Sydney show alongside other Australian dates.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-robyn-nov-2026",
+        "title": "Robyn — The Sexistential Tour",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 86,
+        "venueName": "Qudos Bank Arena",
+        "venueId": null,
+        "sourceUrl": "https://qudosbankarena.com.au/event/robyn",
+        "ticketUrl": "https://qudosbankarena.com.au/event/robyn",
+        "summary": "Robyn plays Qudos Bank Arena on Saturday 21 November 2026 on The Sexistential Tour. The venue listing frames the show around her album Sexistential and gives a ticketed start time of 8:00 pm.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-jay-chou-carnival-ii-nov-2026",
+        "title": "Jay Chou — Carnival II World Tour in Sydney",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 88,
+        "venueName": "ENGIE Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/jay-chou-carnival-ii-world-tour-in-sydney-olympic-park-21-11-2026/event/1300648FB741630B",
+        "ticketUrl": "https://www.ticketmaster.com.au/jay-chou-carnival-ii-world-tour-in-sydney-olympic-park-21-11-2026/event/1300648FB741630B",
+        "summary": "Jay Chou brings the Carnival II World Tour to ENGIE Stadium in Sydney Olympic Park on Saturday 21 November 2026. Ticketmaster lists the show as the Sydney stop for the Mandopop star’s 2026 tour.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-two-door-cinema-club-nov-2026",
+        "title": "Two Door Cinema Club with The Vaccines",
+        "type": "concert",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 80,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/two-door-cinema-club/",
+        "ticketUrl": "https://thehordern.com.au/event/two-door-cinema-club/",
+        "summary": "Two Door Cinema Club play Hordern Pavilion on Sunday 22 November 2026, with The Vaccines as special guests. The venue listing says Two Door Cinema Club will perform Tourist History in full plus greatest hits.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

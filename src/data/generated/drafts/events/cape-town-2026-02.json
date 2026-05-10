@@ -1,0 +1,215 @@
+{
+  "slug": "cape-town",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:15:05.448Z",
+  "responseId": "resp_0c35a7155c7473e30069ff5d0efb38819e932e8de8d8ef176d",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 leaned heavily into summer outdoor concerts, beach-club house parties and a strong end-of-month electronic programme.",
+    "events": [
+      {
+        "id": "cape-town-liquideep-cabo-2026",
+        "title": "Liquideep at Cabo Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-01",
+        "importance": 78,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2344249",
+        "ticketUrl": null,
+        "summary": "Liquideep returned after an 11-year hiatus for a Cape Town beach-club show at Cabo Beach Club. The bill was presented by AnythingGoes with house and afro-house as the listed genres.",
+        "genres": [
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "cape-town-kirstenbosch-cpo-2026",
+        "title": "Kirstenbosch Summer Sunset Concerts: Cape Town Philharmonic Orchestra",
+        "type": "concert",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-01",
+        "importance": 76,
+        "venueName": "Kirstenbosch Concert Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.sanbi.org/event/kirstenbosch-summer-sunset-concerts-2025-26/",
+        "ticketUrl": "https://www.webtickets.co.za/v2/event.aspx/event.aspx?itemid=1577242507",
+        "summary": "The Cape Town Philharmonic Orchestra performed at Kirstenbosch with German bandoneon specialist Lothar Hensel. The programme included Astor Piazzolla selections and works by Villa-Lobos and De Falla.",
+        "genres": []
+      },
+      {
+        "id": "cape-town-msaki-altblk-kirstenbosch-2026",
+        "title": "Kirstenbosch Summer Sunset Concerts: Msaki & The ALTBLK>>Africa Collective",
+        "type": "concert",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 76,
+        "venueName": "Kirstenbosch Concert Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.sanbi.org/event/kirstenbosch-summer-sunset-concerts-2025-26/",
+        "ticketUrl": null,
+        "summary": "Msaki presented The ALT BLK Collective at Kirstenbosch for a Sunday summer concert. SANBI billed the performance as a new-dimensional collective set with eight musicians from across the African continent.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "cape-town-franschhoek-chamber-music-festival-2026",
+        "title": "Franschhoek Chamber Music Festival",
+        "type": "festival",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-15",
+        "importance": 72,
+        "venueName": "Dutch Reformed Church, Franschhoek",
+        "venueId": null,
+        "sourceUrl": "https://fcmf.co.za/",
+        "ticketUrl": "https://www.quicket.co.za/events/349275-franschhoek-chamber-music-festival/",
+        "summary": "The fifth Franschhoek Chamber Music Festival featured 10 concerts over four days by Cape Town Philharmonic Orchestra musicians and guests including Ariane Haering, Miclen LaiPang and Lothar Hensel. The programme ran at the Dutch Reformed Church in Franschhoek, a Cape Winelands town near Cape Town.",
+        "genres": []
+      },
+      {
+        "id": "cape-town-paradisco-love-sensation-2026",
+        "title": "Paradisco: Love Sensation",
+        "type": "beach-club",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-15",
+        "importance": 82,
+        "venueName": "Grand Africa Café & Beach",
+        "venueId": null,
+        "sourceUrl": "https://paradisco.howler.co.za/events/paradisco-love-sensation-cape-town-14-february-2026-40b0/tickets",
+        "ticketUrl": "https://paradisco.howler.co.za/events/paradisco-love-sensation-cape-town-14-february-2026-40b0/tickets",
+        "summary": "Paradisco’s Valentine’s edition at Grand Africa Café & Beach was headlined by DISCO DOM, with Floyd Lavine, The Disco Pirates, Jenica, Los Jetsons, Claudia and others on the posted set times. The party ran across beach, disco and vanity-room stages from afternoon into the early morning.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-v-bloodlust-2026",
+        "title": "V: Bloodlust",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-15",
+        "importance": 71,
+        "venueName": "Spectra, 5 Perfecta Road",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/330830-v-bloodlust/",
+        "ticketUrl": "https://www.quicket.co.za/events/330830-v-bloodlust/",
+        "summary": "Incognito Events staged its anti-Valentine vampire-themed club event in Paarden Eiland. The DJ line-up listed Inge Beckmann, Zsa Zsa, Archy, Vixen and HAEZER, alongside performance elements and installations.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-jeremy-loops-kirstenbosch-2026",
+        "title": "Kirstenbosch Summer Sunset Concerts: Jeremy Loops",
+        "type": "concert",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 78,
+        "venueName": "Kirstenbosch Concert Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.sanbi.org/event/kirstenbosch-summer-sunset-concerts-2025-26/",
+        "ticketUrl": null,
+        "summary": "Jeremy Loops played a sold-out Kirstenbosch Summer Sunset Concert. SANBI billed the show around his folk-pop anthems, loop-pedal performance style and outdoor summer setting.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-gershwin-in-the-park-2026",
+        "title": "Cape Town Opera: Gershwin in the Park",
+        "type": "concert",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 74,
+        "venueName": "Maynardville Open-Air Theatre",
+        "venueId": null,
+        "sourceUrl": "https://maynardville.co.za/maynardville-festival-programme/",
+        "ticketUrl": "https://www.quicket.co.za/events/321071-maynardville-2026-cape-town-opera-gershwin-in-the-park/",
+        "summary": "Cape Town Opera presented Gershwin in the Park at the Maynardville Open-Air Festival. The one-night concert featured selections from Porgy and Bess and other Gershwin-era works performed by Cape Town Opera voices.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-yalla-valhalla-2026",
+        "title": "Yalla Valhalla: Castle of Lichtenstein",
+        "type": "festival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-22",
+        "importance": 80,
+        "venueName": "Lichtenstein Castle",
+        "venueId": null,
+        "sourceUrl": "https://www.betastate.co.za/event-details/yalla-valhalla-castle-of-lichtenstein-2026",
+        "ticketUrl": "https://www.betastate.co.za/event-details/yalla-valhalla-castle-of-lichtenstein-2026",
+        "summary": "Yalla Valhalla returned to Lichtenstein Castle in Hout Bay with Oliver Koletzki and a line-up spanning house, disco, indie dance and melodic techno. The event was presented as an open-air castle party overlooking Hout Bay.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-strictly-soul-feb-2026",
+        "title": "Strictly Soul Cape Town",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-28",
+        "importance": 73,
+        "venueName": "Youngblood Art Gallery",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/355502-strictly-soul-cape-town-2702/",
+        "ticketUrl": "https://www.quicket.co.za/events/355502-strictly-soul-cape-town-2702/",
+        "summary": "Strictly Soul brought its R&B link-up to Youngblood Art Gallery with music by Akio Kawahito and special guests. The night was programmed around R&B artists including Rihanna, Summer Walker, Luther Vandross, Leon Thomas and Brent Faiyaz.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "cape-town-vault-dvs1-2026",
+        "title": "VAULT pres. DVS1 [30 Yrs of HUSH]",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 84,
+        "venueName": "Mødular.",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2362043",
+        "ticketUrl": null,
+        "summary": "VAULT CT presented DVS1 at Mødular as part of his 30 Years of HUSH world tour. The line-up included LIDO, DVS1 and Deano in Room 1, with MØDULAR, JED, Khenzo Jökazi, Luke Young and Raresoftware in Room 2.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-black-coffee-weekender-main-2026",
+        "title": "Black Coffee Weekender: Main Event",
+        "type": "festival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 92,
+        "venueName": "The Ostrich Farm",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2316064",
+        "ticketUrl": null,
+        "summary": "The main event of Black Coffee’s Cape Town Weekender featured Black Coffee and Peggy Gou, alongside Dwson, JAMIIE, DJ Loyd & Sir Vincent, DJ Sillybean and Trancemicsoul. RA described the Weekender as a premier three-day culture and music festival in Cape Town from 27 February to 1 March 2026.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

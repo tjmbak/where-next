@@ -1,0 +1,219 @@
+{
+  "slug": "berlin",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:53:49.668Z",
+  "responseId": "resp_0040814fda4314610069ff5810669c81a0a9797f7063f58b50",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 already has confirmed highlights across Berlin’s spectrum, from Musikfest’s orchestral program to large-room hip-hop, Latin, indie, and select electronic club nights.",
+    "events": [
+      {
+        "id": "berlin-musikfest-2026",
+        "title": "Musikfest Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-08-28",
+        "endDate": "2026-09-23",
+        "importance": 92,
+        "venueName": "Philharmonie Berlin, Haus der Berliner Festspiele, Konzerthaus Berlin, Deutsche Oper Berlin and other venues",
+        "venueId": null,
+        "sourceUrl": "https://www.berlinerfestspiele.de/musikfest-berlin",
+        "ticketUrl": "https://www.berlinerfestspiele.de/musikfest-berlin/tickets",
+        "summary": "Berlin’s flagship late-summer classical and contemporary music festival runs from 28 August to 23 September 2026. The announced programme includes major orchestras and ensembles such as the Vienna Philharmonic, London Symphony Orchestra, Le Concert des Nations, Kansas City Symphony and Chineke! Orchestra.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-baby-keem-2026",
+        "title": "Baby Keem — The Ca$ino Tour",
+        "type": "concert",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 83,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/baby_keem_2026-09-01_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/baby_keem_2026-09-01_20/tickets/",
+        "summary": "Grammy-winning rapper Baby Keem brings The Ca$ino Tour to Tempodrom on 1 September 2026. The Berlin date is part of the European and UK leg of the tour.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-adam-folsom-2026",
+        "title": "ADAM Berlin — Folsom Europe Official Opening Party",
+        "type": "club-night",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 75,
+        "venueName": "Metropol",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415943",
+        "ticketUrl": "https://ra.co/events/2415943",
+        "summary": "ADAM Berlin returns to Metropol as the Folsom Europe official opening party on 10 September 2026. The confirmed lineup includes DJ Hell, Lady Starlight live, Arson Fire, Ruby and Goat Spokesperson.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-else-opus-yanamaste-2026",
+        "title": "Else x OPUS pres. Yanamaste (All Day Long)",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 74,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2407324",
+        "ticketUrl": "https://ra.co/events/2407324",
+        "summary": "Else and OPUS present an all-day-long Yanamaste session on 12 September 2026. The open-air-to-indoor event is listed as a techno programme with more artists to be announced.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-jony-2026",
+        "title": "JONY live at Uber Eats Music Hall",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 70,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/jony/2026-09-15-1900",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/jony/2026-09-15-1900",
+        "summary": "Pop singer and songwriter JONY performs at Uber Eats Music Hall on 15 September 2026. The venue describes his music as emotional, R&B-influenced pop with international crossover reach.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-rawayana-2026",
+        "title": "Rawayana — ¿Dónde Es El After? World Tour",
+        "type": "concert",
+        "startDate": "2026-09-14",
+        "endDate": "2026-09-14",
+        "importance": 76,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2026-09-14-rawayana",
+        "ticketUrl": "https://www.eventim.de/",
+        "summary": "Venezuelan band Rawayana play Columbiahalle on 14 September 2026 as part of the ¿Dónde Es El After? World Tour. The promoter highlights the band’s Caribbean rhythms and fusion of funk, reggae, soul, house and rock.",
+        "genres": [
+          "latin",
+          "pop",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-else-dj-koze-2026",
+        "title": "Else Season Closing x DJ Koze",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 83,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2372753",
+        "ticketUrl": "https://ra.co/events/2372753",
+        "summary": "Else’s 2026 season-closing party is headlined by DJ Koze on 19 September 2026. The event is listed as a house-focused all-day programme at the Treptower Park open-air venue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-automatic-noise-2026",
+        "title": "Automatic Noise Berlin",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 70,
+        "venueName": "Mikropol",
+        "venueId": null,
+        "sourceUrl": "https://mikropol-berlin.de/en/event/2026-09-19-automatic-noise-berlin/",
+        "ticketUrl": "https://shop.automaticmusic.eu",
+        "summary": "Automatic Noise Festival lands in Berlin on 19 September 2026 for its first city edition after six editions in Amsterdam. The confirmed shoegaze lineup features Mahogany, Resplandor, Attic Ocean and Part Garden.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-metric-bss-stars-2026",
+        "title": "All The Feelings Tour with Metric, Broken Social Scene and Stars",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 80,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164",
+        "ticketUrl": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164",
+        "summary": "Metric, Broken Social Scene and Stars bring the All The Feelings Tour to Columbiahalle on 19 September 2026. The Berlin concert is presented as a major triple-bill for Canadian indie music fans.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-sigur-ros-orchestral-2026",
+        "title": "Sigur Rós — The Orchestral Tour",
+        "type": "concert",
+        "startDate": "2026-09-20",
+        "endDate": "2026-09-21",
+        "importance": 88,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/sigur-ros",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/sigur-ros",
+        "summary": "Sigur Rós perform two Berlin orchestral shows at Uber Eats Music Hall on 20 and 21 September 2026. The concerts feature the band with a 41-piece orchestra and choir, including music from ÁTTA and repertoire highlights.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-blockhead-proleter-arms-2026",
+        "title": "Blockhead, ProleteR and Arms and Sleepers",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 72,
+        "venueName": "Kantine am Berghain",
+        "venueId": null,
+        "sourceUrl": "https://www.berghain.berlin/en/events/81621/",
+        "ticketUrl": "https://ra.co/events/2404440",
+        "summary": "Blockhead, ProleteR and Arms and Sleepers play Kantine am Berghain on 25 September 2026. The bill brings together instrumental hip-hop, downtempo and beat-driven live sets.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-djavan-2026",
+        "title": "Djavan — 50 years: The Greatest Hits",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 80,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/djavan_2026-09-25_20/",
+        "ticketUrl": "https://www.tempodrom.de/event/djavan_2026-09-25_20/tickets/",
+        "summary": "Brazilian singer-songwriter Djavan celebrates 50 years of his career at Tempodrom on 25 September 2026. The programme is billed as a greatest-hits tour dedicated to his classic repertoire.",
+        "genres": [
+          "latin",
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

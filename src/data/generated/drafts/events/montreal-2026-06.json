@@ -1,0 +1,221 @@
+{
+  "slug": "montreal",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:28:27.535Z",
+  "responseId": "resp_024acc4c9a5effa30069ff602e422c81958c161382dc99812a",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is unusually stacked in Montréal, led by Francos, the opening of Jazz Fest, heavyweight OfF Piknic dates, SAT’s 30th-anniversary festival, and multiple Bell Centre arena concerts.",
+    "events": [
+      {
+        "id": "montreal-asap-rocky-jun-2026",
+        "title": "A$AP Rocky — Don’t Be Dumb World Tour",
+        "type": "concert",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-01",
+        "importance": 83,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/a-ap-rocky?code=e007250",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/a-ap-rocky?code=e007250",
+        "summary": "A$AP Rocky brings the Don’t Be Dumb World Tour to the Bell Centre on June 1, 2026. The official evenko listing confirms the Montréal date, venue, and 7:30 p.m. show time.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "montreal-futurs-anterieurs-sat-2026",
+        "title": "Futurs Antérieurs — 30e SAT",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 82,
+        "venueName": "Société des arts technologiques [SAT]",
+        "venueId": null,
+        "sourceUrl": "https://sat.qc.ca/en/events/futurs-anterieurs",
+        "ticketUrl": "https://sat.qc.ca/en/events/futurs-anterieurs",
+        "summary": "SAT celebrates its 30th anniversary with Futurs Antérieurs, a multi-floor electronic and audiovisual festival. Confirmed June 5 programming includes Johnny Jewel, Ambassade, Misstress Barbara, KYRUH, Evita, Matias Aguayo, PAURRO and more, with additional June 6 programming listed by the venue.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "montreal-defected-off-piknic-jun-2026",
+        "title": "Defected at OfF Piknic",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 86,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/news/annonce-defected-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/news/annonce-defected-2026",
+        "summary": "Defected takes over Parc Jean-Drapeau in OfF Piknic mode on June 5, 2026. The official Piknic announcement confirms the date and ticket on-sale schedule for the label showcase.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-don-toliver-octane-tour-2026",
+        "title": "Don Toliver — Octane Tour",
+        "type": "concert",
+        "startDate": "2026-06-07",
+        "endDate": "2026-06-07",
+        "importance": 78,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/don-toliver?code=e007489",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/don-toliver?code=e007489",
+        "summary": "Don Toliver’s Octane Tour lands at the Bell Centre on June 7, 2026, with SahBabii, SoFaygo and Chase B listed as support. evenko confirms the 7:30 p.m. show time and venue details.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "montreal-francos-2026",
+        "title": "Francos de Montréal 2026",
+        "type": "festival",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-20",
+        "importance": 94,
+        "venueName": "Quartier des spectacles",
+        "venueId": null,
+        "sourceUrl": "https://www.mtl.org/en/what-to-do/festivals-and-events/francos-de-montreal",
+        "ticketUrl": "https://francosmontreal.com/en/program",
+        "summary": "Francos de Montréal returns for its 37th edition from June 12 to 20, 2026 in Quartier des spectacles. The festival features nearly 150 French-language concerts across outdoor and indoor venues, with genres spanning hip-hop, rock, folk, electronic and pop.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "montreal-chase-status-off-piknic-2026",
+        "title": "Chase & Status at OfF Piknic",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 87,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/news/annonce-chase-and-status-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/news/annonce-chase-and-status-2026",
+        "summary": "Chase & Status take over Parc Jean-Drapeau for an OfF Piknic date on June 12, 2026. The official Piknic announcement notes the act’s return after a prior sell-out and confirms the event date.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-steve-aoki-off-piknic-2026",
+        "title": "Steve Aoki — DIM MAK 30 Tour at OfF Piknic",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 84,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-13-06-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-13-06-2026",
+        "summary": "Steve Aoki headlines the DIM MAK 30 Tour stop at OfF Piknic on June 13, 2026. The official event page lists Łaszewo, Laidback Luke and Linney on the FIZZ Stage lineup.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-joji-solaris-2026",
+        "title": "Joji — SOLARIS",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 82,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/joji?code=e007768",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/joji?code=e007768",
+        "summary": "Joji brings his SOLARIS show to the Bell Centre on June 20, 2026. The official evenko listing confirms the Montréal date, 6:30 p.m. start time and Bell Centre venue.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "montreal-black-coffee-off-piknic-2026",
+        "title": "Black Coffee at OfF Piknic",
+        "type": "club-night",
+        "startDate": "2026-06-23",
+        "endDate": "2026-06-23",
+        "importance": 89,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-23-06-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-23-06-2026",
+        "summary": "Black Coffee plays a sold-out OfF Piknic date at Jardin Le Petit Prince in Parc Jean-Drapeau on June 23, 2026. The official event page lists Black Coffee as the sole FIZZ Stage artist.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-jazz-festival-2026",
+        "title": "Festival International de Jazz de Montréal 2026",
+        "type": "festival",
+        "startDate": "2026-06-25",
+        "endDate": "2026-07-04",
+        "importance": 98,
+        "venueName": "Place des Arts / Quartier des spectacles",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/en/festival/montreal-jazz-fest",
+        "ticketUrl": "https://www.placedesarts.com/en/festival/montreal-jazz-fest",
+        "summary": "The Festival International de Jazz de Montréal runs June 25 to July 4, 2026, with more than 350 indoor and outdoor concerts and festivities. Place des Arts lists confirmed opening-day programming including Marcus Miller, The Headhunters and Kid Koala.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-marcus-miller-we-want-miles-2026",
+        "title": "Marcus Miller — We Want Miles!",
+        "type": "concert",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-25",
+        "importance": 84,
+        "venueName": "Maison symphonique",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/en/event/marcus-miller",
+        "ticketUrl": "https://www.placedesarts.com/en/event/marcus-miller",
+        "summary": "Marcus Miller presents We Want Miles! at Maison symphonique on June 25, 2026 as part of the Festival International de Jazz de Montréal. The project features Miller with Mike Stern, Bill Evans, Mino Cinelu and Russell Gunn celebrating Miles Davis’ music.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "montreal-four-tet-off-piknic-2026",
+        "title": "Four Tet at OfF Piknic",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 88,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/news/annonce-four-tet",
+        "ticketUrl": "https://piknicelectronik.com/en/news/annonce-four-tet",
+        "summary": "Four Tet returns to Montréal for an OfF Piknic event at Parc Jean-Drapeau on June 26, 2026. The official Piknic announcement confirms the date and ticket on-sale timing.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

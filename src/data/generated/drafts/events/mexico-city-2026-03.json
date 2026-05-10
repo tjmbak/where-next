@@ -1,0 +1,188 @@
+{
+  "slug": "mexico-city",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:45:31.366Z",
+  "responseId": "resp_0716759593b1fb270069ff6430a97c819d950d8ea30453376c",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 was unusually strong in Mexico City, spanning free mega-pop in the Zócalo, major festivals, arena pop/hip-hop, jazz, and a healthy electronic club layer.",
+    "events": [
+      {
+        "id": "mexico-city-shakira-zocalo-2026",
+        "title": "Shakira — Free Concert at the Zócalo",
+        "type": "concert",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-01",
+        "importance": 95,
+        "venueName": "Zócalo / Plaza de la Constitución",
+        "venueId": null,
+        "sourceUrl": "https://elpais.com/mexico/2026-03-01/shakira-en-el-zocalo-de-ciudad-de-mexico-hora-calles-cerradas-y-localizacion-de-las-pantallas.html",
+        "ticketUrl": null,
+        "summary": "Shakira performed a free public concert in Mexico City’s Zócalo on March 1 at 20:00, extending her Las Mujeres Ya No Lloran World Tour moment into a civic-scale event.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-eurojazz-2026",
+        "title": "Festival Eurojazz 2026",
+        "type": "festival",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-15",
+        "importance": 82,
+        "venueName": "Centro Nacional de las Artes (CENART)",
+        "venueId": null,
+        "sourceUrl": "https://cenart.gob.mx/festival-eurojazz-2026/",
+        "ticketUrl": null,
+        "summary": "CENART’s 29th Eurojazz edition ran March 1–15 with free concerts across its green areas, including European and Mexican jazz acts such as Candlelight Ficus, Troker, daoud, Marta Sánchez Trio and more.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-tono-festival-2026",
+        "title": "TONO Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-22",
+        "importance": 76,
+        "venueName": "Various Mexico City venues",
+        "venueId": null,
+        "sourceUrl": "https://tonofestival.com/",
+        "ticketUrl": null,
+        "summary": "TONO’s 2026 edition ran March 6–22 across Mexico City and Puebla, with Mexico City programming at Casa del Lago UNAM, Museo Jumex, Museo Universitario del Chopo, Museo de Arte Moderno and other venues. Music-related highlights included Space Afrika, Kelman Duran, Eli Keszler and other sound/performance commissions.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-casa-de-afro-mar-2026",
+        "title": "Casa De Afro — Afro House Experience",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 65,
+        "venueName": "Symphonie",
+        "venueId": null,
+        "sourceUrl": "https://it.ra.co/events/2375980",
+        "ticketUrl": "https://it.ra.co/events/2375980",
+        "summary": "Casa De Afro took over Symphonie on March 7 with Dr. ADO, Bud Lee, Ramses Hurt, Sundoll, Curado and 2KN, focusing on Afro House, Amapiano and Latin Afro rhythms in an intimate club setting.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-vive-latino-2026",
+        "title": "Vive Latino 2026",
+        "type": "festival",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-15",
+        "importance": 98,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/vive-latino-boletos/artist/1209767?venueId=163903",
+        "ticketUrl": "https://www.ticketmaster.com.mx/vive-latino-boletos/artist/1209767?venueId=163903",
+        "summary": "Vive Latino returned to Estadio GNP Seguros on March 14–15, 2026, as one of Mexico City’s flagship music festivals, with a broad Latin alternative, rock, pop and electronic bill.",
+        "genres": [
+          "latin",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-christina-aguilera-2026",
+        "title": "Christina Aguilera",
+        "type": "concert",
+        "startDate": "2026-03-17",
+        "endDate": "2026-03-17",
+        "importance": 84,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/search?q=christina+aguilera",
+        "ticketUrl": "https://www.ticketmaster.com.mx/search?q=christina+aguilera",
+        "summary": "Christina Aguilera played Palacio de los Deportes on March 17 at 20:00, marking a major international pop booking for the month in Mexico City.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "mexico-city-i-love-reggaeton-2026",
+        "title": "I Love Reggaeton México 2026",
+        "type": "festival",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 78,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.eluniversal.com.mx/espectaculos/llega-nuevo-festival-i-love-reggaeton-mexico-2026-a-arena-cdmx-precios-preventa-y-fechas/?outputType=amp",
+        "ticketUrl": null,
+        "summary": "The first Mexico edition of I Love Reggaeton took place at Arena CDMX on March 21, bringing a classic reggaetón lineup including Nigga Flex, Angel & Khriz, Jowssi Love, Eddy Lover, Joey Montana, Lorna, Fulanito and more.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-mitski-2026",
+        "title": "Mitski — Nothing’s About to Happen to Me",
+        "type": "concert",
+        "startDate": "2026-03-23",
+        "endDate": "2026-03-23",
+        "importance": 83,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/Mitski-tickets/artist/2077487",
+        "ticketUrl": "https://www.ticketmaster.com/Mitski-tickets/artist/2077487",
+        "summary": "Mitski brought the Nothing’s About to Happen to Me tour to Auditorio Nacional on March 23 at 21:00, with La Zorra Zapata listed as guest support in local coverage.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-tyler-the-creator-2026",
+        "title": "Tyler, The Creator",
+        "type": "concert",
+        "startDate": "2026-03-24",
+        "endDate": "2026-03-24",
+        "importance": 88,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/tyler-the-creator-ciudad-de-mexico-24-03-2026/event/14006323E536361D",
+        "ticketUrl": "https://www.ticketmaster.com.mx/tyler-the-creator-ciudad-de-mexico-24-03-2026/event/14006323E536361D",
+        "summary": "Tyler, The Creator played Palacio de los Deportes on March 24 at 20:00, a major hip-hop booking in Mexico City’s late-March arena calendar.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-spekki-webu-mental-syn-2026",
+        "title": "MENTAL & SYN present Spekki Webu + MASCHA + Bluecommand + Roberta",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 72,
+        "venueName": "Mariano Escobedo 494",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2388477",
+        "ticketUrl": "https://ra.co/events/2388477",
+        "summary": "MENTAL and SYN teamed up on March 27 for a hypnotic-techno club night headlined by Spekki Webu, with MASCHA, Bluecommand and Roberta also on the bill.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

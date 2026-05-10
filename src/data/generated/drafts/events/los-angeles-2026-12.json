@@ -1,0 +1,80 @@
+{
+  "slug": "los-angeles",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:09:47.792Z",
+  "responseId": "resp_01f1fd9e8a55cc7e0069ff5bf7f9d8819285e696765511af71",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 12,
+    "year": 2026,
+    "notes": "December 2026 is still lightly announced for Los Angeles, with confirmed listings currently led by arena-scale alt-pop and a few venue-booked touring concerts.",
+    "events": [
+      {
+        "id": "los-angeles-the-neighbourhood-dec4-2026",
+        "title": "The Neighbourhood: THE WOURLD TOUR",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-inglewood-california-12-04-2026/event/09006443CD5C89D1",
+        "ticketUrl": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-inglewood-california-12-04-2026/event/09006443CD5C89D1",
+        "summary": "The Neighbourhood headline Kia Forum in Inglewood on the Los Angeles-area stop of THE WOURLD TOUR, with Nessa Barrett and Noise Dept listed on the Ticketmaster lineup.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-the-neighbourhood-dec5-2026",
+        "title": "The Neighbourhood: THE WOURLD TOUR",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 80,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-inglewood-california-12-05-2026/event/0900645403D3F8BA",
+        "ticketUrl": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-inglewood-california-12-05-2026/event/0900645403D3F8BA",
+        "summary": "A second confirmed Kia Forum date for The Neighbourhood’s THE WOURLD TOUR, scheduled for Saturday, December 5, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-book-of-love-2026",
+        "title": "Book of Love",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 62,
+        "venueName": "Teragram Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://teragramballroom.com/tm-event/book-of-love/",
+        "ticketUrl": "https://www.ticketmaster.com/book-of-love-los-angeles-california-12-05-2026/event/09006482E035DEED",
+        "summary": "Synth-pop group Book of Love play Teragram Ballroom with all four original band members noted for the VIP meet-and-greet package.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-pineapple-thief-2026",
+        "title": "The Pineapple Thief: Far and Wide Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 64,
+        "venueName": "The Bellwether",
+        "venueId": null,
+        "sourceUrl": "https://thebellwetherla.com/events/the-pineapple-thief-261208",
+        "ticketUrl": "https://www.ticketmaster.com/the-pineapple-thief-far-and-wide-los-angeles-california-12-08-2026/event/09006487D9D7F842",
+        "summary": "The Pineapple Thief bring their Far and Wide Tour 2026 to The Bellwether, with the venue listing doors at 7:00 pm and show at 8:00 pm.",
+        "genres": []
+      }
+    ]
+  }
+}

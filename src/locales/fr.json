@@ -1,0 +1,22 @@
+{
+  "nav.methodology": "méthodologie",
+  "nav.joinWaitlist": "liste d'attente",
+  "nav.signIn": "se connecter",
+  "nav.backToMap": "retour à la carte",
+  "hero.title.lead": "Où aller",
+  "hero.title.you": "ensuite ?",
+  "hero.subtitle": "Festivals, saisons de clubs et moments culturels qui valent le détour — ville par ville, mois après mois.",
+  "drop.eyebrow": "the drop",
+  "drop.title": "Où aller en {{month}}.",
+  "drop.subtitle": "Cinq destinations alignées sur vos scènes, régions et budget. Curaté, pas scrappé.",
+  "drop.unsubscribe": "se désabonner",
+  "drop.tunePreferences": "ajuster les préférences",
+  "concierge.eyebrow": "conciergerie",
+  "concierge.title": "Un brief. Un voyage. Tout planifié.",
+  "membership.eyebrow": "where next pro",
+  "membership.title": "Bougez en premier quand ça compte.",
+  "trips.share.copy": "copier le lien",
+  "trips.share.copied": "lien copié",
+  "trips.share.x": "partager sur x ↗",
+  "trips.share.whatsapp": "whatsapp ↗"
+}

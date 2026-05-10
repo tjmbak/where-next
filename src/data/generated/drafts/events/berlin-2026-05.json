@@ -1,0 +1,221 @@
+{
+  "slug": "berlin",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:52:22.401Z",
+  "responseId": "resp_0241c10c023148c10069ff57a9725c81a2a9074363dfbefd67",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is unusually stacked in Berlin, pairing arena-scale pop and metal with heavyweight electronic gatherings, synth-culture programming, and long-form experimental festival formats.",
+    "events": [
+      {
+        "id": "berlin-rosalia-lux-tour-may-2026",
+        "title": "ROSALÍA — LUX TOUR 2026",
+        "type": "concert",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 90,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/rosalia/2026-05-01-2030",
+        "ticketUrl": null,
+        "summary": "ROSALÍA brings her LUX TOUR 2026 to Berlin's Uber Arena for a major arena pop show on May 1.",
+        "genres": [
+          "pop",
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-we-are-not-alone-may-day-2026",
+        "title": "WE ARE NOT ALONE May Day Weekender",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-04",
+        "importance": 84,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392708",
+        "ticketUrl": "https://ra.co/events/2392708",
+        "summary": "BPitch / We Are Not Alone returns to RSO.BERLIN for a May Day weekender across ROBUS, SUMME and OPAN, with Ellen Allien b2b SALOME, Helena Hauff, Bjarki, Matrixxman, Volvox, Nene H and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-superbooth26-may-2026",
+        "title": "SUPERBOOTH26",
+        "type": "conference",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-09",
+        "importance": 88,
+        "venueName": "FEZ-Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.superbooth.com/files/superbooth/SB_Presse/Pressemitteilungen_SB25/SB26%20Press%20Release%20Aug25%20%28EN%29.pdf",
+        "ticketUrl": "https://www.superbooth.com/en/tickets.html",
+        "summary": "SUPERBOOTH26 is the 10th-anniversary edition of the Berlin trade fair and festival for electronic musical instruments, running May 7–9 at FEZ-Berlin with concerts, DJ sets, lecture concerts and workshops.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-out-of-line-weekender-2026",
+        "title": "Out Of Line Weekender 2026",
+        "type": "festival",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-09",
+        "importance": 78,
+        "venueName": "Astra Kulturhaus Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.astra-berlin.de/events/2026-05-07-out-of-line-weekender-2026",
+        "ticketUrl": "https://www.outoflineshop.de",
+        "summary": "The dark electronic and alternative festival returns to Astra Kulturhaus with acts including Kite, Aesthetic Perfection, Devision Redux, Ashbury Heights, Priest, Dina Summer, Reaper and Mildreda.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-may-2026",
+        "title": "Klubnacht",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 86,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/de/event/80724/",
+        "ticketUrl": null,
+        "summary": "Berghain's May 9 Klubnacht features Planetary Assault Systems live, Altinbas, Amotik, Efdemin, Marcal and Paula Koski in Berghain, with Panorama Bar and Säule lineups including Kai Alcé, Massimiliano Pagliara and Hekt live.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-olivia-dean-art-of-loving-2026",
+        "title": "Olivia Dean — The Art of Loving Tour",
+        "type": "concert",
+        "startDate": "2026-05-12",
+        "endDate": "2026-05-12",
+        "importance": 80,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/olivia-dean/2026-05-12-2000",
+        "ticketUrl": null,
+        "summary": "Olivia Dean performs at Uber Arena on May 12 as part of her The Art of Loving tour.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-desertfest-2026",
+        "title": "Desertfest Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-16",
+        "importance": 85,
+        "venueName": "Columbiahalle + Columbia Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.soundofliberation.com/festivals/desertfest-berlin",
+        "ticketUrl": "https://desertfest-tickets.de",
+        "summary": "Berlin's heavy rock, stoner, psychedelic, doom and sludge festival returns to Columbiahalle and Columbia Theater with The Sword, Truckfighters, Red Fang, YOB, Russian Circles, Pelican and more.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-infinite-now-2026",
+        "title": "The Infinite Now",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 88,
+        "venueName": "Kraftwerk Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2373940",
+        "ticketUrl": "https://ra.co/events/2373940",
+        "summary": "Berlin Atonal and Unsound present a 30-hour continuous programme at Kraftwerk Berlin with Caterina Barbieri, Kali Malone, Adam Wiltzie, Eiko Ishibashi & Jim O'Rourke, Keiji Haino, Actress, Terrence Dixon and others.",
+        "genres": [
+          "electronic",
+          "techno",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-twice-this-is-for-2026",
+        "title": "TWICE — [THIS IS FOR] WORLD TOUR",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 88,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/twice-2026/2026-05-23-2000",
+        "ticketUrl": null,
+        "summary": "K-pop group TWICE brings the [THIS IS FOR] WORLD TOUR to Uber Arena on May 23.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-dubndal-festival-2026",
+        "title": "Dub&Dal Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-30",
+        "importance": 72,
+        "venueName": "MaHalla and secret location near Jannowitzbrücke",
+        "venueId": null,
+        "sourceUrl": "https://dubndal.org/",
+        "ticketUrl": "https://dubndal.weticket.io",
+        "summary": "Dub&Dal's three-day anniversary festival combines soundsystem culture, South Asian classical traditions, workshops and community programming, with Sarathy Korwar, Warrior Queen, MC Yallah, Roots Daughters, Perera Elsewhere and more.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-tresor-meets-function-may-2026",
+        "title": "Tresor meets Function",
+        "type": "club-night",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 76,
+        "venueName": "Tresor / Globus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2407760",
+        "ticketUrl": "https://ra.co/events/2407760",
+        "summary": "Tresor hosts a Function-focused night with Function, Nastia Reigel and Sarah Wreath in Tresor, plus Jerome Sydenham and Robert Owens in Globus.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-metallica-m72-2026",
+        "title": "Metallica — M72 World Tour",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 94,
+        "venueName": "Olympiastadion Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.metallica.com/tour/2026-05-30-berlin-germany.html",
+        "ticketUrl": null,
+        "summary": "Metallica's M72 World Tour stops at Olympiastadion Berlin on May 30 for one of the month's largest stadium concerts.",
+        "genres": []
+      }
+    ]
+  }
+}

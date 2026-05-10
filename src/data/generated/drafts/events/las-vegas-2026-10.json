@@ -1,0 +1,170 @@
+{
+  "slug": "las-vegas",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:34:56.322Z",
+  "responseId": "resp_092d3819631718880069ff61dc06688192964e36208527be40",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is anchored by Strip residencies and arena-level concerts rather than a confirmed destination festival calendar, with major rock, pop, R&B/funk, Latin, and classical dates already on sale.",
+    "events": [
+      {
+        "id": "las-vegas-metallica-life-burns-faster-2026",
+        "title": "Metallica: Life Burns Faster",
+        "type": "residency",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-01",
+        "importance": 94,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/Metallica-tickets/artist/735647",
+        "ticketUrl": "https://www.ticketmaster.com/Metallica-tickets/artist/735647",
+        "summary": "Metallica opens its Life Burns Faster residency at Sphere with an explicitly listed October 1, 2026 performance. The Sphere run is billed around the band’s No Repeat Weekend format.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-scorpions-coming-home-2026",
+        "title": "Scorpions – Coming Home to Las Vegas",
+        "type": "residency",
+        "startDate": "2026-09-17",
+        "endDate": "2026-10-03",
+        "importance": 85,
+        "venueName": "PH Live at Planet Hollywood Resort & Casino",
+        "venueId": null,
+        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/scorpions-return-las-vegas-new-headlining-residency-ph-live",
+        "ticketUrl": "https://www.ticketmaster.com/scorpions-coming-home-to-las-vegas-las-vegas-nevada-10-03-2026/event/3900644CEE646525",
+        "summary": "Scorpions return to PH Live for a Las Vegas residency running September 17 through October 3, 2026, with Buckcherry as special guest. Confirmed October performances are October 1 and October 3.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-lynyrd-skynyrd-2026",
+        "title": "Lynyrd Skynyrd",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 72,
+        "venueName": "Pearl Concert Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1396982/lynyrd-skynyrd-tickets",
+        "ticketUrl": "https://www.axs.com/events/1396982/lynyrd-skynyrd-tickets",
+        "summary": "Lynyrd Skynyrd is confirmed for Pearl Concert Theater at Palms Casino Resort on October 3, 2026. The AXS listing gives an 8:00 p.m. show time.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-ludovico-einaudi-2026",
+        "title": "Ludovico Einaudi: Solo Piano",
+        "type": "concert",
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-07",
+        "importance": 73,
+        "venueName": "Encore Theater at Wynn Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/ludovico-einaudi",
+        "ticketUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/ludovico-einaudi",
+        "summary": "Composer and pianist Ludovico Einaudi performs a solo piano concert at Wynn Las Vegas’ Encore Theater on October 7, 2026. Wynn lists the show at 8:00 p.m.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-juanes-2026",
+        "title": "Juanes – North America Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 75,
+        "venueName": "Pearl Concert Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1332595/juanes-tickets",
+        "ticketUrl": "https://www.axs.com/events/1332595/juanes-tickets",
+        "summary": "Juanes brings his North America Tour 2026 to Pearl Concert Theater on October 10, 2026. The AXS event page lists an 8:00 p.m. show time.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-earth-wind-fire-2026",
+        "title": "Earth, Wind & Fire at The Venetian Theatre",
+        "type": "residency",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-31",
+        "importance": 86,
+        "venueName": "The Venetian Theatre at The Venetian Resort Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/media/news-releases/2026/03-23-earth-wind-and-fire-return-to-the-venetian-resort-las-vegas-for-nine-show-limited-engagement.html",
+        "ticketUrl": "https://www.ticketmaster.com/earth-wind-fire-tickets/artist/734980?venueId=189345",
+        "summary": "Earth, Wind & Fire return to The Venetian Theatre for a nine-show limited engagement from October 16 through October 31, 2026. The announced dates include October 16, 17, 18, 21, 23, 24, 28, 30, and 31.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-rise-against-2026",
+        "title": "Rise Against with Alkaline Trio",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 72,
+        "venueName": "Pearl Concert Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1362205/rise-against-tickets",
+        "ticketUrl": "https://www.axs.com/events/1362205/rise-against-tickets",
+        "summary": "Rise Against’s Ricochet 2026 tour stops at Pearl Concert Theater on October 17, 2026, with Alkaline Trio listed on the bill. AXS lists the concert at 7:00 p.m.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-taking-back-sunday-2026",
+        "title": "Taking Back Sunday with Thrice and Saves The Day",
+        "type": "concert",
+        "startDate": "2026-10-18",
+        "endDate": "2026-10-18",
+        "importance": 70,
+        "venueName": "Pearl Concert Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1407709/taking-back-sunday-tickets",
+        "ticketUrl": "https://www.axs.com/events/1407709/taking-back-sunday-tickets",
+        "summary": "Taking Back Sunday plays Pearl Concert Theater on October 18, 2026, with Thrice and Saves The Day also listed. The AXS page confirms a 7:00 p.m. show time.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-donny-osmond-2026",
+        "title": "Donny Osmond Residency",
+        "type": "residency",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 68,
+        "venueName": "Harrah's Showroom at Harrah's Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/donny-las-vegas-nevada-10-09-2026/event/39006431D2D9C8C6",
+        "ticketUrl": "https://www.ticketmaster.com/donny-las-vegas-nevada-10-09-2026/event/39006431D2D9C8C6",
+        "summary": "Donny Osmond’s long-running Las Vegas residency has a confirmed October 9, 2026 performance at Harrah’s Showroom. The Ticketmaster listing gives a 7:30 p.m. show time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-doja-cat-tour-ma-vie-2026",
+        "title": "Doja Cat – Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 83,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/doja-cat",
+        "ticketUrl": "https://www.axs.com/events/1157134/doja-cat-tickets?tt_scene=anchor_view",
+        "summary": "Doja Cat’s Tour Ma Vie World Tour is confirmed for T-Mobile Arena on October 31, 2026. The official arena listing places the show in Las Vegas on Halloween night.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

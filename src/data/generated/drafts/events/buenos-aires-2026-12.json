@@ -1,0 +1,134 @@
+{
+  "slug": "buenos-aires",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:48:08.422Z",
+  "responseId": "resp_0ed3db363260ac720069ff64b72d78819eb7542a0b444e02ea",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 12,
+    "year": 2026,
+    "notes": "Only a small number of December 2026 dates are firmly on sale this early, led by arena rock/metal, a La Plata stadium pop-rock closer, and a few confirmed theatre concerts.",
+    "events": [
+      {
+        "id": "buenos-aires-babymetal-world-tour-dec-2026",
+        "title": "BABYMETAL WORLD TOUR 2026 LATIN AMERICA in Buenos Aires",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 84,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://babymetal.com/mob/news/diarKiji.php?cd=TOUR_TO&ima=1620&lang=en&site=TO",
+        "ticketUrl": null,
+        "summary": "BABYMETAL’s official tour page lists a Buenos Aires stop at Movistar Arena on December 1, 2026 as part of the Latin America run. Ticket sale windows are also listed on the official page.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-tarja-spirit-christmas-2026",
+        "title": "Tarja Turunen — The Spirit of Christmas 2026",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 72,
+        "venueName": "Teatro Coliseo",
+        "venueId": null,
+        "sourceUrl": "https://tarjaturunen.com/class/buenos-aires-argentina-teatro-coliseo/",
+        "ticketUrl": "https://shop.tarjaturunen.com/produkte/93445-tickets-the-spirit-of-christmas-2026-limited-upgrades-teatro-coliseo-buenos-aires-argentina-am-2026-12-01",
+        "summary": "Tarja Turunen’s official site confirms a Buenos Aires concert at Teatro Coliseo on December 1, 2026. The show is tied to her The Spirit of Christmas 2026 presentation.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-rata-blanca-movistar-dec-2026",
+        "title": "Rata Blanca at Movistar Arena",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 78,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/concerts/43200774-rata-blanca-at-movistar-arena",
+        "ticketUrl": null,
+        "summary": "Songkick lists Rata Blanca as headliner at Movistar Arena in Buenos Aires on December 2, 2026. The show is a major hometown arena date for the Argentine hard rock/heavy metal band.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-geronimo-rauch-gran-rex-2026",
+        "title": "Gerónimo Rauch at Teatro Gran Rex",
+        "type": "concert",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-10",
+        "importance": 62,
+        "venueName": "Teatro Gran Rex",
+        "venueId": null,
+        "sourceUrl": "https://comprar.tuentrada.com/tuentrada/events/53498",
+        "ticketUrl": "https://comprar.tuentrada.com/tuentrada/events/53498",
+        "summary": "TuEntrada’s official sales page confirms Gerónimo Rauch at Teatro Gran Rex on December 10, 2026 at 20:30. The concert is listed as a Buenos Aires date for the Argentine musical-theatre vocalist.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-rave3000-festival-2026",
+        "title": "RAVE3000 FESTIVAL / 2026",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 70,
+        "venueName": "Buenos Aires Nunca Duerme",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/rave3000-festival-2026",
+        "ticketUrl": "https://www.passline.com/eventos/rave3000-festival-2026",
+        "summary": "Passline lists RAVE3000 FESTIVAL / 2026 for Saturday, December 12, 2026 at 19:00 in CABA. The ticket page is presented by Repitch Republic and marks it as an 18+ event.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "buenos-aires-tan-bionica-estadio-uno-2026",
+        "title": "Tan Biónica en Estadio Uno",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 84,
+        "venueName": "Estadio Jorge Luis Hirschi",
+        "venueId": null,
+        "sourceUrl": "https://livepass.com.ar/en/events/tan-bionica-en-estadio-uno",
+        "ticketUrl": "https://livepass.com.ar/en/events/tan-bionica-en-estadio-uno",
+        "summary": "Livepass confirms Tan Biónica at Estadio UNO in La Plata on December 12, 2026 at 21:00, billing it as the band’s closing show of 2026. La Plata is just outside Buenos Aires and functions as a major regional stadium stop.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-dm-experience-gran-rex-2026",
+        "title": "DM Experience at Teatro Gran Rex",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 60,
+        "venueName": "Teatro Gran Rex",
+        "venueId": null,
+        "sourceUrl": "https://comprar.tuentrada.com/tuentrada/events/53499",
+        "ticketUrl": "https://comprar.tuentrada.com/tuentrada/events/53499",
+        "summary": "TuEntrada’s official sales page confirms DM Experience at Teatro Gran Rex on December 18, 2026 at 20:00. The Gran Rex booking makes it a solid theatre-scale pick for Depeche Mode/electronic-pop fans.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

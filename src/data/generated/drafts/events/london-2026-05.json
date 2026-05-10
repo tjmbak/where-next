@@ -1,0 +1,224 @@
+{
+  "slug": "london",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:59:03.174Z",
+  "responseId": "resp_0790feaff81dd0600069ff592a72dc819e9c90a01ebf039037",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in London is anchored by the Brockwell Park festival run, Peckham’s GALA weekend, and several arena-scale pop and electronic shows at The O2.",
+    "events": [
+      {
+        "id": "london-rufus-du-sol-o2-2026",
+        "title": "RÜFÜS DU SOL at The O2",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-13",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/rufus-du-sol",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/rufus-du-sol",
+        "summary": "RÜFÜS DU SOL headline The O2 with special guest SG Lewis on 13 May 2026. The arena show brings one of electronic music’s biggest live acts to Greenwich.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-highways-festival-2026",
+        "title": "Highways Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-17",
+        "importance": 82,
+        "venueName": "Royal Albert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/highways-festival-tickets/artist/5401754?venueId=254432",
+        "ticketUrl": "https://www.ticketmaster.co.uk/highways-festival-tickets/artist/5401754?venueId=254432",
+        "summary": "Highways Festival returns to Royal Albert Hall from 15–17 May 2026. The country and Americana weekend is headlined by Jon Pardi, Carly Pearce and Emmylou Harris.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-raye-o2-may-2026",
+        "title": "RAYE: This Tour May Contain New Music",
+        "type": "concert",
+        "startDate": "2026-05-19",
+        "endDate": "2026-05-20",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/raye-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/raye-2026",
+        "summary": "RAYE closes her major arena run with two May dates at The O2 on 19 and 20 May 2026. ABSOLUTELY and AMMA are listed as special guests.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-gala-may-2026",
+        "title": "GALA ’26",
+        "type": "festival",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-24",
+        "importance": 92,
+        "venueName": "Peckham Rye Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2182764",
+        "ticketUrl": "https://ra.co/events/2182764",
+        "summary": "GALA returns to Peckham Rye Park for a three-day edition from 22–24 May 2026. The lineup spans South London rap, bass, house and disco, with Giggs, CASisDEAD, Todd Terje, DJ Seinfeld and Seth Troxler among the listed names.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-black-coffee-o2-2026",
+        "title": "Black Coffee: Live With Orchestra",
+        "type": "concert",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-22",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/black-coffee",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/black-coffee",
+        "summary": "Black Coffee brings his Live With Orchestra concept to The O2 on 22 May 2026. The show is billed as his biggest UK performance to date and combines his Afropolitan house sound with a full orchestra.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-field-day-2026",
+        "title": "Field Day 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 90,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2314122",
+        "ticketUrl": "https://ra.co/events/2314122",
+        "summary": "Field Day takes over Brockwell Park on 23 May 2026. The electronic-focused bill includes Floating Points live, Honey Dijon, Andy C, Joy Orbison, KI/KI, Eliza Rose and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-zayn-o2-2026",
+        "title": "ZAYN: The Konnakol Tour",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 80,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/zayn",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/zayn",
+        "summary": "ZAYN brings The Konnakol Tour to The O2 on 23 May 2026. The show is part of his largest solo tour to date and follows the release of his KONNAKOL album.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-cross-the-tracks-2026",
+        "title": "Cross The Tracks 2026",
+        "type": "festival",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 88,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2298604",
+        "ticketUrl": "https://ra.co/events/2298604",
+        "summary": "Cross The Tracks returns to Brockwell Park on 24 May 2026. The jazz, soul, funk and hip-hop lineup includes Little Simz, Joy Crookes, Kokoroko, KNUCKS, WAR, Obongjayar and Fabio & Grooverider with The Outlook Orchestra.",
+        "genres": [
+          "jazz",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-city-splash-2026",
+        "title": "City Splash 2026",
+        "type": "festival",
+        "startDate": "2026-05-25",
+        "endDate": "2026-05-25",
+        "importance": 86,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/festivals/city-splash-festival/",
+        "ticketUrl": "https://www.city-splash.com/",
+        "summary": "City Splash takes place at Brockwell Park on 25 May 2026. The Caribbean and African culture celebration lists Gyptian, Beres Hammond, Jada Kingdom, Aidonia, Elephant Man, Rampage Sound and many more.",
+        "genres": [
+          "festival",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-doja-cat-o2-2026",
+        "title": "Doja Cat: Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/doja-cat-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/doja-cat-2026",
+        "summary": "Doja Cat brings the Tour Ma Vie World Tour to The O2 on 29 May 2026. The show supports her fifth studio album, Vie.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-mighty-hoopla-2026",
+        "title": "Mighty Hoopla 2026",
+        "type": "festival",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-31",
+        "importance": 90,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/festivals/mighty-hoopla/",
+        "ticketUrl": "https://www.mightyhoopla.com/",
+        "summary": "Mighty Hoopla returns to Brockwell Park across 30–31 May 2026. The pop and queer-culture festival lists Lily Allen, Scissor Sisters, Jessie J, Perrie, Five, JLS and Todrick Hall among its lineup.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-raindance-fabric-2026",
+        "title": "Raindance 2026 at fabric",
+        "type": "club-night",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 76,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2307697",
+        "ticketUrl": "https://ra.co/events/2307697",
+        "summary": "Raindance returns to fabric on 30 May 2026 for a daytime rave across three rooms. The lineup includes DJ Brockie, Nicky Blackmarket, Nookie, Blapps Posse & The Freestylers, Pete Cannon and more.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

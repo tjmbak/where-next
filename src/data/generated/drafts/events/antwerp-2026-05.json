@@ -1,0 +1,218 @@
+{
+  "slug": "antwerp",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:52:46.693Z",
+  "responseId": "resp_0b4b86ae44db9b150069ffd663181c81909aec19504e02a892",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "antwerp",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Antwerp is unusually strong for music travelers, with arena pop and rock dates sitting alongside jazz, reggae, soulful dance, drum & bass, and underground electronic festivals.",
+    "events": [
+      {
+        "id": "antwerp-tame-impala-2026",
+        "title": "Tame Impala: Deadbeat Tour",
+        "type": "concert",
+        "startDate": "2026-05-05",
+        "endDate": "2026-05-05",
+        "importance": 88,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/tame-impala-deadbeat-tour-antwerpen-tickets-edp1618403",
+        "ticketUrl": "https://www.livenation.be/event/tame-impala-deadbeat-tour-antwerpen-tickets-edp1618403",
+        "summary": "Tame Impala brings the Deadbeat Tour to AFAS Dome in Antwerp, with RIP Magic listed as support. The Live Nation page confirms the Tuesday 5 May 2026 date and 18:30 doors.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-liquicity-2026",
+        "title": "Liquicity Antwerp 2026",
+        "type": "club-night",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 82,
+        "venueName": "Trix",
+        "venueId": "trix-antwerp",
+        "sourceUrl": "https://liquicity.com/events/liquicity-antwerp-2026/",
+        "ticketUrl": "https://liquicity.com/events/liquicity-antwerp-2026/",
+        "summary": "Liquicity returns to Trix for an eight-hour drum & bass night running 21:00–05:00. The confirmed lineup includes VIKI, Dustkey, Maduk, 1991, Fred V, Tantrum Desire, Curious Mind, Frontline, Expensive KVR, Synoxis & Friends, and Bad Habitz.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-bazart-2026",
+        "title": "Bazart at Lotto Arena",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 78,
+        "venueName": "Lotto Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/bazart-antwerpen-tickets-edp1627146",
+        "ticketUrl": "https://www.livenation.be/event/bazart-antwerpen-tickets-edp1627146",
+        "summary": "Belgian band Bazart plays Lotto Arena in Antwerp, with DI-RECT listed as support. Live Nation confirms the Saturday 9 May 2026 show and 18:30 doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-the-neighbourhood-2026",
+        "title": "The Neighbourhood: THE WOURLD TOUR",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-13",
+        "importance": 84,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/the-neighbourhood-the-wourld-tour-brussels-tickets-edp1625175",
+        "ticketUrl": "https://www.livenation.be/event/the-neighbourhood-the-wourld-tour-brussels-tickets-edp1625175",
+        "summary": "The Neighbourhood brings THE WOURLD TOUR to AFAS Dome in Antwerp. The Live Nation listing confirms the Wednesday 13 May 2026 date and identifies The Neighbourhood as the headliner.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-conan-gray-2026",
+        "title": "Conan Gray: Wishbone World Tour",
+        "type": "concert",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-15",
+        "importance": 85,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/conan-gray-wishbone-world-tour-antwerpen-tickets-edp1624660",
+        "ticketUrl": "https://www.livenation.be/event/conan-gray-wishbone-world-tour-antwerpen-tickets-edp1624660",
+        "summary": "Conan Gray brings the Wishbone World Tour to AFAS Dome, with Esha Tewari confirmed as special guest. Live Nation lists the Antwerp show for Friday 15 May 2026 with 18:30 doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-ne-yo-akon-2026",
+        "title": "NE-YO & AKON: Nights Like This Tour 2026",
+        "type": "concert",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 86,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/ne-yo-and-akon-nights-like-this-tour-2026-antwerpen-tickets-edp1646873",
+        "ticketUrl": "https://www.livenation.be/event/ne-yo-and-akon-nights-like-this-tour-2026-antwerpen-tickets-edp1646873",
+        "summary": "NE-YO and AKON co-headline AFAS Dome on the Nights Like This Tour 2026. Live Nation confirms the Sunday 17 May 2026 Antwerp date and 18:30 doors.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-reggae-festival-2026",
+        "title": "Antwerp Reggae Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 76,
+        "venueName": "Fort Van Merksem",
+        "venueId": null,
+        "sourceUrl": "https://www.antwerpreggaefestival.be/",
+        "ticketUrl": "https://www.antwerpreggaefestival.be/",
+        "summary": "Antwerp Reggae Festival takes place at Fort Van Merksem with two stages and doors listed from 12:00 to 01:00. The published running order includes Puppa Mighty's Super Power, Joe Yorke, Johnny Ousborne & The Homegrown Band, and an indoor afterparty with Conscious Sound.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-klub-dramatik-2026",
+        "title": "Klub Dramatik 2026",
+        "type": "festival",
+        "startDate": "2026-05-20",
+        "endDate": "2026-05-24",
+        "importance": 83,
+        "venueName": "TBA - Floraliënlaan 111",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2414889",
+        "ticketUrl": "https://klubdramatik.com/tickets/",
+        "summary": "Klub Dramatik’s ninth edition combines concert nights on 20–21 May with festival days on 23–24 May across three electronic music stages. Resident Advisor lists artists including JakoJako, Buttechno & Yogg, Vlada, Jane Fitz, Paquita Gordon, Lola Haro, SKY H1, and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "antwerp-jazz-middelheim-2026",
+        "title": "Jazz Middelheim 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-25",
+        "importance": 90,
+        "venueName": "Park Den Brandt",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzmiddelheim.eu/en/",
+        "ticketUrl": "https://tickets.jazzmiddelheim.eu/",
+        "summary": "Jazz Middelheim returns to Park Den Brandt for a three-day 2026 edition. The official site confirms 23–24–25 May 2026 and lists artists including Cécile McLorin Salvant, Billy Cobham's Time Machine, Cymande, The Buena Vista Orchestra, Flea and the Honora Band, HUNEE, and Danilo Plessow aka MCDE.",
+        "genres": [
+          "jazz",
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-madison-beer-2026",
+        "title": "Madison Beer: the locket tour",
+        "type": "concert",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-28",
+        "importance": 84,
+        "venueName": "Lotto Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/madison-beer-the-locket-tour-antwerpen-tickets-edp1644505",
+        "ticketUrl": "https://www.livenation.be/event/madison-beer-the-locket-tour-antwerpen-tickets-edp1644505",
+        "summary": "Madison Beer presents the locket tour at Lotto Arena in Antwerp. Live Nation confirms Isabel LaRosa and Lulu Simon as special guests for the Thursday 28 May 2026 show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-zucchero-2026",
+        "title": "Zucchero: Overdose D’Amore GOLD Tour",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 82,
+        "venueName": "Lotto Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/zucchero-overdose-d-amore-gold-tour-antwerpen-tickets-edp1557599",
+        "ticketUrl": "https://www.livenation.be/event/zucchero-overdose-d-amore-gold-tour-antwerpen-tickets-edp1557599",
+        "summary": "Italian singer Zucchero brings the Overdose D’Amore GOLD Tour to Lotto Arena. Live Nation confirms the Saturday 30 May 2026 date and states the show will focus on his greatest hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-soulful-sessions-2026",
+        "title": "Soulful Sessions Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 82,
+        "venueName": "Boeienweide",
+        "venueId": null,
+        "sourceUrl": "https://soulfulsessions.be/",
+        "ticketUrl": "https://shop.paylogic.com/",
+        "summary": "Soulful Sessions Festival takes place at Boeienweide in Antwerp from 13:00 to 00:00. The confirmed lineup includes Gerd Janson, Dave Lee (JN), Jungle By Night live, Mind Enterprises live, Kirollus, Bibi Seck B2B Faisal, and John Noseda.",
+        "genres": [
+          "house",
+          "electronic",
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

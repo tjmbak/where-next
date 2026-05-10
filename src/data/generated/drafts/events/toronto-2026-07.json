@@ -1,0 +1,222 @@
+{
+  "slug": "toronto",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T17:00:13.407Z",
+  "responseId": "resp_0bfe68aa8e9234bd0069ff6793c2748197b7b7b7cf9b23a74d",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is especially strong for Toronto’s Caribbean and electronic calendars, with Carnival programming building into VELD’s long weekend while major arena and amphitheatre tours fill the gaps.",
+    "events": [
+      {
+        "id": "toronto-kes-roots-rock-soca-2026",
+        "title": "Kes - Roots, Rock, Soca Tour",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 78,
+        "venueName": "RBC Amphitheatre",
+        "venueId": "toronto-budweiser-stage",
+        "sourceUrl": "https://www.livenation.com/event/1k7Zv0bOGA1JJWF/kes-roots-rock-soca-tour",
+        "ticketUrl": "https://www.ticketmaster.ca/kes-roots-rock-soca-tour-toronto-ontario-07-04-2026/event/100064620A9A6F48",
+        "summary": "Trinidadian soca band Kes brings its Roots, Rock, Soca tour to Toronto’s waterfront amphitheatre. The date lands in the run-up to Toronto Caribbean Carnival season, making it a strong Caribbean music pick for the month.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-lionel-richie-earth-wind-fire-2026",
+        "title": "Lionel Richie and Earth, Wind & Fire - Sing a Song All Night Long",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 82,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/lionel-richie-and-earth-wind-fire-1",
+        "ticketUrl": "https://www.ticketmaster.ca/",
+        "summary": "Lionel Richie and Earth, Wind & Fire co-headline Scotiabank Arena on the Sing a Song All Night Long tour. It is one of the month’s biggest legacy pop, soul and funk arena concerts in Toronto.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "toronto-ozmozis-soundgarden-2026",
+        "title": "Ozmozis presents The Soundgarden",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 73,
+        "venueName": "Evergreen Brick Works",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2414191",
+        "ticketUrl": "https://ra.co/events/2414191",
+        "summary": "Ozmozis hosts The Soundgarden’s fourth Toronto edition as a daytime open-air party at Evergreen Brick Works. The listed lineup features Nick Warren, Armen Miran, Miss Melera and Mystic Mind.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-zeds-dead-journey-lifetime-2026",
+        "title": "Zeds Dead: Journey Of A Lifetime Tour",
+        "type": "concert",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 80,
+        "venueName": "RBC Amphitheatre",
+        "venueId": "toronto-budweiser-stage",
+        "sourceUrl": "https://www.ticketmaster.ca/search?q=zeds+dead",
+        "ticketUrl": "https://www.ticketmaster.ca/search?q=zeds+dead",
+        "summary": "Toronto electronic duo Zeds Dead headline RBC Amphitheatre on the Journey Of A Lifetime Tour. Ticketmaster lists Dr. Fresch as support for the July 11 show.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "toronto-muse-wow-signal-2026",
+        "title": "Muse - The Wow! Signal Tour",
+        "type": "concert",
+        "startDate": "2026-07-15",
+        "endDate": "2026-07-15",
+        "importance": 83,
+        "venueName": "RBC Amphitheatre",
+        "venueId": "toronto-budweiser-stage",
+        "sourceUrl": "https://www.livenation.com/event/1A8ZkoyGkex4_5O/muse-the-wow-signal-tour",
+        "ticketUrl": "https://www.ticketmaster.ca/event/10006479A25592E0",
+        "summary": "Muse brings The Wow! Signal Tour to RBC Amphitheatre with Bloc Party and The Temper Trap listed on the bill. It is the month’s largest alternative-rock amphitheatre package.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-billy-talent-anniversary-2026",
+        "title": "Billy Talent II 20th Anniversary",
+        "type": "concert",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 78,
+        "venueName": "RBC Amphitheatre",
+        "venueId": "toronto-budweiser-stage",
+        "sourceUrl": "https://www.ticketmaster.ca/search?q=billy+talent",
+        "ticketUrl": "https://www.ticketmaster.ca/search?q=billy+talent",
+        "summary": "Billy Talent plays a Toronto waterfront date billed as the Billy Talent II 20th Anniversary show. The local connection and album-anniversary framing make it a major Canadian rock draw for July.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-ocpa-calypso-showcase-2026",
+        "title": "Toronto Caribbean Carnival: OCPA Calypso Showcase",
+        "type": "carnival",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 72,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://torontocarnival.ca/events/",
+        "ticketUrl": null,
+        "summary": "Toronto Caribbean Carnival’s official schedule lists the OCPA Calypso Showcase on July 25, with competition beginning at 6:30 PM. The event is dedicated to live calypso performance and the Calypso Monarch of Canada competition.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "toronto-tame-impala-deadbeat-2026",
+        "title": "Tame Impala - The Deadbeat Tour",
+        "type": "concert",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 86,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/tame-impala-tickets/artist/1446562?venueId=131157",
+        "ticketUrl": "https://www.ticketmaster.ca/tame-impala-tickets/artist/1446562?venueId=131157",
+        "summary": "Tame Impala plays two Scotiabank Arena dates on The Deadbeat Tour with Djo listed as support. The back-to-back arena run is one of Toronto’s biggest indie/electronic-pop concerts of the month.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-j-cole-fall-off-2026",
+        "title": "J. Cole - The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-07-27",
+        "endDate": "2026-07-28",
+        "importance": 88,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/j-cole-1",
+        "ticketUrl": "https://www.ticketmaster.ca/",
+        "summary": "J. Cole brings The Fall-Off Tour to Scotiabank Arena for two nights, July 27 and 28. The double arena booking makes it a flagship hip-hop stop for Toronto in July 2026.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-osa-panorama-2026",
+        "title": "Toronto Caribbean Carnival: OSA Toronto Panorama - Keepin’ Pan Alive",
+        "type": "carnival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-07-31",
+        "importance": 76,
+        "venueName": "Lamport Stadium",
+        "venueId": null,
+        "sourceUrl": "https://torontocarnival.ca/events/",
+        "ticketUrl": null,
+        "summary": "The official Toronto Caribbean Carnival schedule lists OSA Toronto Panorama at Lamport Stadium on July 31. Presented by the Ontario Steelpan Association, it features Canada’s top steel orchestras in competition.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "toronto-veld-music-festival-2026",
+        "title": "VELD Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 95,
+        "venueName": "Downsview Park",
+        "venueId": null,
+        "sourceUrl": "https://veldmusicfestival.com/lineup/",
+        "ticketUrl": "https://veld.frontgatetickets.com/",
+        "summary": "VELD returns to Downsview Park from July 31 through August 2, with the official festival site listing the 2026 lineup page and ticket links. It is Toronto’s flagship large-scale electronic festival weekend.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "toronto-neyo-akon-nights-like-this-2026",
+        "title": "NE-YO & AKON: Nights Like This Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-31",
+        "endDate": "2026-07-31",
+        "importance": 79,
+        "venueName": "RBC Amphitheatre",
+        "venueId": "toronto-budweiser-stage",
+        "sourceUrl": "https://www.ticketmaster.ca/neyo-akon-nights-like-this-tour-toronto-ontario-07-31-2026/event/10006430D33A6D91",
+        "ticketUrl": "https://www.ticketmaster.ca/neyo-akon-nights-like-this-tour-toronto-ontario-07-31-2026/event/10006430D33A6D91",
+        "summary": "NE-YO and Akon bring the Nights Like This Tour to RBC Amphitheatre on July 31. The bill is a major R&B and pop throwback amphitheatre show for the holiday weekend.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

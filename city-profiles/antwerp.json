@@ -1,0 +1,73 @@
+{
+  "_note": "Already added to the dataset. Kept here as a reference profile.",
+
+  "slug": "antwerp",
+  "city": "Antwerp",
+  "country": "Belgium",
+  "region": "Europe",
+  "coordinates": { "lat": 51.2194, "lng": 4.4025 },
+
+  "tagline": "Tomorrowland in Boom, Antwerp's underground rooms, and Belgian techno tradition.",
+  "summary": "Antwerp anchors a music-travel weekend built around Tomorrowland in Boom (just south, 25 minutes by train) — the world's biggest electronic festival across two late-July weekends — plus Antwerp's own underground rooms like Het Bos and Trix and a strong day-into-night cocktail-bar circuit.",
+
+  "activeMonths": [5, 6, 7, 8, 9],
+  "peakMonths": [7],
+  "genres": ["festival", "electronic", "house", "techno"],
+  "vibes": ["festival", "city", "group-trip"],
+  "budget": "high",
+  "averageDailySpendUsd": { "low": 180, "high": 480 },
+
+  "whoFor": ["Tomorrowland weekenders", "European festival fans", "Belgian techno crews"],
+  "whenToBook": "Book Tomorrowland tickets in the worldwide pre-sale window (typically late January) — accommodation around Boom and Antwerp sells out within weeks.",
+  "travelNotes": "Stay near Antwerp Centraal for train access to Boom (25 min). Brussels Airport BRU is roughly 45 minutes by car or train.",
+
+  "peakHook": "Two Tomorrowland weekends in late July define the entire music-travel year; outside those, the city quietens to its own underground rooms.",
+
+  "heroScenes": {
+    "peak": "a Belgian green field in midsummer at golden hour, distant pavilion silhouettes, lanterns strung between trees, dust catching warm late-afternoon light, no people",
+    "shoulder": "a quiet Antwerp Grote Markt in autumn, gabled stepped facades, cobblestones, a single passing tram, soft grey-pink afternoon light, no people",
+    "detail": "interior of an Antwerp diamond-district cocktail bar at night, dark walnut walls, brass fixtures, a single low pendant lamp casting warm amber pools, no people"
+  },
+
+  "venues": [
+    { "id": "tomorrowland-festival", "name": "Tomorrowland (Boom)", "type": "festival", "sceneTags": ["festival", "group-trip"], "officialUrl": "https://www.tomorrowland.com/" },
+    { "id": "het-bos-antwerp", "name": "Het Bos", "type": "venue", "sceneTags": ["underground", "city"], "officialUrl": "https://www.hetbos.be/" },
+    { "id": "trix-antwerp", "name": "Trix", "type": "venue", "sceneTags": ["city", "cultural"], "officialUrl": "https://www.trixonline.be/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "antwerp-tomorrowland-w1",
+      "title": "Tomorrowland Weekend 1",
+      "type": "festival",
+      "startMonth": 7, "startDay": 17, "endMonth": 7, "endDay": 19,
+      "importance": 98,
+      "summary": "Tomorrowland's first weekend in Boom, just south of Antwerp — the world's largest electronic festival across multiple stages and the iconic Mainstage build.",
+      "venueId": "tomorrowland-festival",
+      "sourceUrl": "https://www.tomorrowland.com/",
+      "genres": ["festival", "electronic", "house"]
+    },
+    {
+      "id": "antwerp-tomorrowland-w2",
+      "title": "Tomorrowland Weekend 2",
+      "type": "festival",
+      "startMonth": 7, "startDay": 24, "endMonth": 7, "endDay": 26,
+      "importance": 96,
+      "summary": "Tomorrowland's second weekend repeats the lineup with a new audience; many travelers book the Friday-Monday cycle for slightly cheaper passes than Weekend 1.",
+      "venueId": "tomorrowland-festival",
+      "sourceUrl": "https://www.tomorrowland.com/",
+      "genres": ["festival", "electronic", "house"]
+    },
+    {
+      "id": "antwerp-trix-summer",
+      "title": "Trix Antwerp Summer Program",
+      "type": "residency",
+      "startMonth": 5, "startDay": 1, "endMonth": 9, "endDay": 30,
+      "importance": 70,
+      "summary": "Trix's mid-cap room and outdoor terrace run a steady indie, electronic, and touring-act program through summer.",
+      "venueId": "trix-antwerp",
+      "sourceUrl": "https://www.trixonline.be/",
+      "genres": ["electronic", "pop"]
+    }
+  ]
+}

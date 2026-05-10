@@ -1,0 +1,216 @@
+{
+  "slug": "dubai",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:21:06.522Z",
+  "responseId": "resp_07c7f9de183d9e360069ff5e642d4081949cafdfe219f57f66",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Dubai was unusually stacked, with arena concerts at Coca-Cola Arena and a strong run of electronic beach-club and festival-style events around JBR, Dubai Harbour, and Ain Dubai.",
+    "events": [
+      {
+        "id": "dubai-anirudh-jan-2026",
+        "title": "Rockstar Anirudh Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-11",
+        "importance": 82,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/103455/rockstar-anirudh-live-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/103455/rockstar-anirudh-live-in-dubai",
+        "summary": "Anirudh Ravichander headlined Coca-Cola Arena with a high-production arena show built around his Tamil, Telugu, Malayalam and Hindi film-pop catalogue. Platinumlist listed doors at 18:00 and show start at 19:30 on 11 January.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-mounir-wegz-jan-2026",
+        "title": "Mounir & Wegz Live at Coca-Cola Arena",
+        "type": "concert",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 80,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/mounir-wegz-tickets/1455083",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/mounir-wegz-tickets/1455083",
+        "summary": "Mohamed Mounir and Wegz shared the Coca-Cola Arena stage for a cross-generational Egyptian music event on 17 January at 20:00. Ticketmaster described the show as full live sets from both artists plus their collaboration “Kalam Forsan.”",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-tiesto-be-beach-jan-2026",
+        "title": "Tiësto at Be Beach Dubai",
+        "type": "beach-club",
+        "startDate": "2026-01-22",
+        "endDate": "2026-01-22",
+        "importance": 88,
+        "venueName": "Be Beach Dubai",
+        "venueId": null,
+        "sourceUrl": "https://platinumlist.net/guide/tiesto-coming-to-dubai-with-one-night-intimate-gig-at-be-beach-on-january-22/",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104349/tiesto-at-be-beach-dubai",
+        "summary": "Tiësto played a one-night beachfront set at Be Beach Dubai on 22 January, with Alex Twin and DJAD listed as support. The Platinumlist guide described the Dubai Harbour show as starting at 19:00 and restricted to 21+ guests.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "dubai-lany-soft-world-jan-2026",
+        "title": "LANY: Soft World Tour",
+        "type": "concert",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 78,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/lany-soft-world-tour-tickets/1760718980",
+        "ticketUrl": "https://www.ticketmaster.ae/event/lany-soft-world-tour-tickets/1760718980",
+        "summary": "American alt-pop band LANY brought the soft by LANY World Tour to Coca-Cola Arena on 23 January at 20:00. The show was listed by Ticketmaster UAE as a major concert at the City Walk arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-rufus-pacha-icons-jan-2026",
+        "title": "RÜFÜS DU SOL DJ Set at Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 87,
+        "venueName": "Pacha ICONS at FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/event/23012026-rufus-du-sol-five-luxe",
+        "ticketUrl": "https://www.pachaicons.com/event/23012026-rufus-du-sol-five-luxe",
+        "summary": "RÜFÜS DU SOL played a DJ set at Pacha ICONS, FIVE LUXE JBR, on Friday 23 January. The Pacha ICONS listing confirmed the date, venue, 21+ policy and house-focused format.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-amelie-lens-hive-jan-2026",
+        "title": "Amelie Lens at HIVE",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 84,
+        "venueName": "Soho Garden DXB",
+        "venueId": "soho-garden",
+        "sourceUrl": "https://ra.co/events/2309765",
+        "ticketUrl": null,
+        "summary": "Belgian techno headliner Amelie Lens returned to HIVE at Soho Garden DXB on 24 January. Resident Advisor listed the event from 22:00 to 04:00 with Amelie Lens as the lineup and techno as the genre.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "dubai-tom-odell-jan-2026",
+        "title": "Tom Odell Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 80,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/tom-odell-tickets/153397678",
+        "ticketUrl": "https://www.ticketmaster.ae/event/tom-odell-tickets/153397678",
+        "summary": "BRIT Award-winning singer-songwriter Tom Odell performed at Coca-Cola Arena on 24 January at 20:00. Ticketmaster UAE listed the one-night Dubai concert at the City Walk venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-dream-theater-jan-2026",
+        "title": "Dream Theater – 40th Anniversary Tour Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-01-27",
+        "endDate": "2026-01-27",
+        "importance": 78,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/102840/dream-theater-40th-anniversary-tour-2026-live-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/102840/dream-theater-40th-anniversary-tour-2026-live-in-dubai",
+        "summary": "Grammy-winning progressive metal band Dream Theater brought their 40th Anniversary Tour to Coca-Cola Arena on 27 January. Platinumlist billed it as a one-night-only arena show in Dubai.",
+        "genres": []
+      },
+      {
+        "id": "dubai-central-cee-bohemia-jan-2026",
+        "title": "Central Cee at Bohemia",
+        "type": "beach-club",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-30",
+        "importance": 82,
+        "venueName": "Bohemia Beach Club, FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/central-cee-tickets/1050702",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/central-cee-tickets/1050702",
+        "summary": "UK rapper Central Cee performed at Bohemia Beach Club, FIVE Palm, on 30 January from 20:00. Ticketmaster UAE listed the show as a 21+ event at the Palm Jumeirah beach-club venue.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "dubai-air-supply-jan-2026",
+        "title": "Air Supply – 50th Anniversary Celebration",
+        "type": "concert",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-30",
+        "importance": 78,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/air-supply-tickets/972668256",
+        "ticketUrl": "https://www.ticketmaster.ae/event/air-supply-tickets/972668256",
+        "summary": "Soft-rock duo Air Supply marked their 50th Anniversary Celebration at Coca-Cola Arena on 30 January at 21:00. Ticketmaster UAE listed the Live Nation Middle East-presented concert at the Dubai arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-discomania-dxb-jan-2026",
+        "title": "Discomania DXB",
+        "type": "festival",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 72,
+        "venueName": "Barasti Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/discomania-dxb",
+        "ticketUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/discomania-dxb",
+        "summary": "Discomania DXB took over Barasti Beach on 31 January from 17:00. Visit Dubai listed the event as a nightlife pick with a retro dance focus at the Dubai Marina beach venue.",
+        "genres": [
+          "festival",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-ministry-sound-35-jan-2026",
+        "title": "Ministry of Sound 35 Dubai",
+        "type": "festival",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 90,
+        "venueName": "Ain Dubai Plaza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2341733",
+        "ticketUrl": "https://www.ministryofsound.com/tours/ministry-of-sound-dubai/",
+        "summary": "Ministry of Sound launched its 35th-anniversary global tour in Dubai on 31 January with an open-air electronic event beneath Ain Dubai. Resident Advisor listed Dennis Ferrer, Armand Van Helden, DJ Tennis, HoneyLuv, Caiiro b3b Da Capo b3b Enoo Napa, Aline Rocha, Arcade 82 and Hodges on the lineup.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

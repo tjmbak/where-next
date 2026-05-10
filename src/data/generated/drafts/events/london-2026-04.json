@@ -1,0 +1,225 @@
+{
+  "slug": "london",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:58:37.180Z",
+  "responseId": "resp_05b41324772679250069ff591a64448193a3fb8589cdbc9421",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in London was especially strong for electronic programming, with fabric, KOKO, Studio 338, Roundhouse and Southbank Centre all carrying notable club, live and festival events.",
+    "events": [
+      {
+        "id": "london-london-soundtrack-festival-2026",
+        "title": "London Soundtrack Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-09",
+        "endDate": "2026-04-12",
+        "importance": 82,
+        "venueName": "Various venues",
+        "venueId": null,
+        "sourceUrl": "https://londonsoundtrack.com/initial-line-up-announced-for-2026-festival/",
+        "ticketUrl": "https://londonsoundtrack.com/initial-line-up-announced-for-2026-festival/",
+        "summary": "The second London Soundtrack Festival ran across four days celebrating film, TV and games music. David Arnold headlined the 2026 edition, with events hosted at venues including the Barbican, Cadogan Hall and Westminster Central Hall.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-roundhouse-three-sixty-2026",
+        "title": "Roundhouse Three Sixty Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-09",
+        "endDate": "2026-04-29",
+        "importance": 84,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/three-sixty-2026/",
+        "ticketUrl": "https://www.roundhouse.org.uk/three-sixty-2026/",
+        "summary": "Roundhouse Three Sixty returned with a broad arts-and-music programme including Kae Tempest, Amaarae, Imogen Heap, Carl Craig & Octave One, Femi Koleoso’s Good Vibes Day and Situation Dance. The festival marked the Camden venue’s 20th anniversary since reopening.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-multitudes-southbank-2026",
+        "title": "Multitudes 2026",
+        "type": "festival",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-30",
+        "importance": 82,
+        "venueName": "Southbank Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.southbankcentre.co.uk/press/the-southbank-centre-announces-the-line-up-for-multitudes-featuring-a-landmark-concert-of-the-music-at-the-heart-of-lee-alexander-mcqueens-fashion-legacy/",
+        "ticketUrl": "https://www.southbankcentre.co.uk/press/the-southbank-centre-announces-the-line-up-for-multitudes-featuring-a-landmark-concert-of-the-music-at-the-heart-of-lee-alexander-mcqueens-fashion-legacy/",
+        "summary": "Southbank Centre’s orchestral-led Multitudes festival ran from 16–30 April 2026. Its centrepiece was Un-natural Harmony: Sounds of Lee Alexander McQueen, a London Contemporary Orchestra collaboration reworking music tied to McQueen’s runway legacy.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-olivia-dean-o2-2026",
+        "title": "Olivia Dean: The Art of Loving Live",
+        "type": "concert",
+        "startDate": "2026-04-29",
+        "endDate": "2026-04-29",
+        "importance": 90,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/olivia-dean",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/olivia-dean",
+        "summary": "Olivia Dean opened her first headline run at The O2 on 29 April 2026 as part of The Art of Loving Live tour. The O2 listing confirmed further London dates on 30 April, 1–2 May and 11–12 June.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-koko-joseph-capriati-2026",
+        "title": "KOKO Electronic: Joseph Capriati",
+        "type": "club-night",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 80,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/joseph-capriati-3",
+        "ticketUrl": "https://www.koko.co.uk/events/joseph-capriati-3",
+        "summary": "Joseph Capriati returned to KOKO for a Friday late-night electronic show with Miguelle & TONS and Vanee. The event was part of KOKO Electronic’s April programme.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-all-day-i-dream-studio338-2026",
+        "title": "All Day I Dream of London with Lee Burridge",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 78,
+        "venueName": "Studio 338",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/all-day-i-dream-of-london",
+        "ticketUrl": "https://shotgun.live/en/events/all-day-i-dream-of-london",
+        "summary": "All Day I Dream brought its melodic house sound to Studio 338 with Lee Burridge, Satori, Pippi Ciez, Dim Kelly and Raw Main. The event ran from 2pm to 2am at the Greenwich venue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-joris-voorn-2026",
+        "title": "fabric: Joris Voorn (All Night Long), ELIF, Ivory, RICHE, Nyra",
+        "type": "club-night",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 83,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2362461",
+        "ticketUrl": "https://ra.co/events/2362461",
+        "summary": "Joris Voorn played an all-night-long Room 1 set at fabric, joined across the venue by ELIF, Ivory, RICHE and Nyra. The Saturday programme ran from 23:00 to 07:00.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-giegling-2026",
+        "title": "fabric: giegling",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 82,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2362490",
+        "ticketUrl": "https://ra.co/events/2362490",
+        "summary": "Giegling took over fabric with live sets from Map.ache, Swayzak, Edward, Tobias. and Leafar Legov, plus DJ sets from Cassy, Konstantin, Eduardo de la Calle and others. The event ran overnight on 18 April.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabriclive-sarz-2026",
+        "title": "FABRICLIVE: Sarz, VIGRO DEEP, Dave Nunes, Nicky Summers, Jordss, TMXO, Aniko + more",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2362508",
+        "ticketUrl": "https://ra.co/events/2362508",
+        "summary": "FABRICLIVE hosted a multi-room programme led by Sarz & Friends, with Sarz, VIGRO DEEP, Dave Nunes and Nicky Summers in Room 1. The night also included PULSE (NL) and Jordss Presents Journeyss rooms.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-bradley-zero-palais-2026",
+        "title": "Palais: Bradley Zero (All Night Long) - 4 Fridays of Rhythm Section",
+        "type": "residency",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 77,
+        "venueName": "Palais",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2369375",
+        "ticketUrl": "https://ra.co/events/2369375",
+        "summary": "Bradley Zero played an all-night-long Rhythm Section residency date at Palais in Peckham. The listing framed the April run as four Fridays of Rhythm Section, with X & Ivy in the ballroom on the 24 April edition.",
+        "genres": [
+          "house",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-carl-craig-octave-one-roundhouse-2026",
+        "title": "Carl Craig & Octave One Live",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 84,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/carl-craig-octave-one/",
+        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/carl-craig-octave-one/",
+        "summary": "Detroit techno figures Carl Craig and Octave One performed live as part of Roundhouse Three Sixty, presented with Labyrinth. The event also featured a pre-show screening of Desire: The Carl Craig Story.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-koko-cassius-live-2026",
+        "title": "Labyrinth presents: Cassius Live",
+        "type": "concert",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 82,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/labyrinth-presents-cassius-live",
+        "ticketUrl": "https://www.koko.co.uk/events/labyrinth-presents-cassius-live",
+        "summary": "Labyrinth presented Cassius Live at KOKO, with Boombass bringing the French touch project back to London. The event was listed as an early-evening electronic show on Saturday 25 April.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

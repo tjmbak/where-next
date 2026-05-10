@@ -1,0 +1,223 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:30:38.738Z",
+  "responseId": "resp_058269310e79ac250069ff60bb6728819eab6ffde75dd5f8b6",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Rio centered on summer festival programming, pre-Carnival samba rehearsals, and a strong run of electronic boat/beach parties.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-amazoul-beach-party-2026",
+        "title": "Amazoul Beach Party",
+        "type": "beach-club",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 70,
+        "venueName": "Praia Club Reserva - Ilha 20",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2327570?direct=true",
+        "ticketUrl": "https://ra.co/events/2327570?direct=true",
+        "summary": "Amazoul opened the year with a beach-club edition at Reserva featuring Classmatic, Vivi Santana, Marian, Lowderz and Filhos Crew. The RA listing describes the event as a tech-house/electronica beach party running from 15:00 to 01:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-roupa-nova-vivo-rio-2026",
+        "title": "Roupa Nova at Vivo Rio",
+        "type": "concert",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 68,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/pt/e/1036715528-roupa-nova-at-vivo-rio",
+        "ticketUrl": null,
+        "summary": "Brazilian pop-rock institution Roupa Nova played Vivo Rio on January 10 at 19:00. Bandsintown lists the show at Vivo Rio with pop and rock tags.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-insonia-festival-2026",
+        "title": "Insônia Festival 2026",
+        "type": "festival",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-11",
+        "importance": 72,
+        "venueName": "Clube Professorado Campestre",
+        "venueId": null,
+        "sourceUrl": "https://www.jambase.com/festival/insonia-festival-2026",
+        "ticketUrl": null,
+        "summary": "Insônia Festival ran for two days in Jacarepaguá with a psytrance/electronic lineup including Major7, Becker, Shanti People, X-Noize, Paranormal Attack and Fernanda Pistelli. JamBase lists the dates, venue and day-by-day lineup.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-polifonia-verao-2026",
+        "title": "Festival Polifonia de Verão",
+        "type": "festival",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-11",
+        "importance": 74,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://riotur.rio/evento-calendario/festival-polifonia-no-vivo-rio/",
+        "ticketUrl": "https://bileto.sympla.com.br/event/113141",
+        "summary": "The 11th edition of Festival Polifonia launched a summer edition at Vivo Rio with Supercombo, Kamaitachi, Karen Jonz, Dibob and Catch Side. Riotur lists the January 11 event, lineup highlights, venue and 15:00 start time.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-universo-spanta-2026",
+        "title": "Universo Spanta 2026",
+        "type": "festival",
+        "startDate": "2026-01-12",
+        "endDate": "2026-01-25",
+        "importance": 90,
+        "venueName": "Marina da Glória",
+        "venueId": null,
+        "sourceUrl": "https://riotur.rio/evento-calendario/universo-spanta-2026/",
+        "ticketUrl": "https://universospanta.com.br",
+        "summary": "Universo Spanta returned to Marina da Glória from January 12 to 25 with a Brazilian-music lineup spanning samba, pop, funk, rap, forró and MPB. Riotur lists highlights including BK’, BaianaSystem, Ana Castela, MC Cabelinho, Dennis DJ, Ivete Sangalo, Joelma, Gloria Groove, Ludmilla, Xande de Pilares and Filipe Ret.",
+        "genres": [
+          "festival",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-bicuda-kode-verao-inabalavel-2026",
+        "title": "Bicuda x Kode — Verão Inabalável",
+        "type": "club-night",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 72,
+        "venueName": "TRAUMA RJ",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2339840",
+        "ticketUrl": "https://ra.co/events/2339840",
+        "summary": "RA picked this queer underground club night at TRAUMA, bringing Rio and São Paulo labels Bicuda and Kode together. The lineup included Ananda, Gigios, M4fel, Miguel Arcanjo, PEDROVISK, Quimera, Victin and Zei.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-cocada-boat-2026",
+        "title": "Cocada Boat",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 72,
+        "venueName": "Marina da Glória",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2319527",
+        "ticketUrl": "https://ra.co/events/2319527",
+        "summary": "Cocada Boat staged a summer-season house and disco cruise from Marina da Glória. Resident Advisor lists Leo Janeiro, Marta Supernova, The Checkup and Balahaus on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-maria-bethania-vivo-rio-2026",
+        "title": "Maria Bethânia at Vivo Rio",
+        "type": "concert",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 80,
+        "venueName": "Vivo Rio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/maria-bethania-rio-de-janeiro-pre-venda-vivo-1701",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/maria-bethania-rio-de-janeiro-pre-venda-vivo-1701",
+        "summary": "Maria Bethânia played Vivo Rio on January 17 at 19:00. Ticketmaster Brazil listed the Rio de Janeiro performance date, venue and door/show times.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-club-are-on-the-sea-2026",
+        "title": "Club Are: On The Sea",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 70,
+        "venueName": "Quadrado da Urca",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2353806",
+        "ticketUrl": "https://ra.co/events/2353806",
+        "summary": "London queer club-night series Club Are brought its first Rio boat-party edition to Quadrado da Urca. RA lists Omoloko, Alírio, MIKA and source:link on the lineup, with sounds ranging from tech house to progressive and hard house.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-serie-ouro-ensaios-tecnicos-2026",
+        "title": "Carnaval 2026: Série Ouro Technical Rehearsals",
+        "type": "carnival",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-25",
+        "importance": 78,
+        "venueName": "Sambódromo da Marquês de Sapucaí",
+        "venueId": null,
+        "sourceUrl": "https://carnaval.rio/carnaval-2026-ensaios-tecnicos-da-serie-ouro-serao-realizados-em-tres-dias-no-sambodromo/",
+        "ticketUrl": null,
+        "summary": "Rio’s Série Ouro samba schools held official technical rehearsals across three nights at the Sambódromo. The Riotur/Carnaval.rio schedule lists schools including Unidos de Padre Miguel, União da Ilha do Governador, Império Serrano, Estácio de Sá and others.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-ensaios-da-anitta-2026",
+        "title": "Ensaios da Anitta 2026 — Rio de Janeiro",
+        "type": "concert",
+        "startDate": "2026-01-25",
+        "endDate": "2026-01-25",
+        "importance": 88,
+        "venueName": "Riocentro",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/42817884-anitta-at-riocentro",
+        "ticketUrl": null,
+        "summary": "Anitta brought her pre-Carnival Ensaios da Anitta tour to Riocentro on January 25, with doors listed at 15:00. Songkick lists the date, venue and tour name; Brazilian coverage later reported guests including Pedro Sampaio, Melody and MC Cabelinho.",
+        "genres": [
+          "pop",
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-arena-3-anos-2026",
+        "title": "Arena 3 Anos",
+        "type": "club-night",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-30",
+        "importance": 70,
+        "venueName": "TRAUMA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2344821",
+        "ticketUrl": "https://ra.co/events/2344821",
+        "summary": "Arena marked three years with an RA-picked club night at TRAUMA focused on techno and baile-funk-adjacent global bass. The lineup included NORA, Anti Ribeiro, Cuca, Mariah Miranda, Total XTC, ZEI and KBRAL.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

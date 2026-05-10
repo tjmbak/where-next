@@ -1,0 +1,204 @@
+{
+  "slug": "los-angeles",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:09:18.122Z",
+  "responseId": "resp_0098af20beb18d5b0069ff5b53eea8819c8f3052da31dc5dcc",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is unusually festival-heavy for greater Los Angeles, led by beach, electronic, Japanese pop, arena-pop, K-pop and Latin touring events.",
+    "events": [
+      {
+        "id": "los-angeles-beachlife-festival-2026",
+        "title": "BeachLife Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-03",
+        "importance": 88,
+        "venueName": "Redondo Beach Waterfront",
+        "venueId": null,
+        "sourceUrl": "https://www.beachlifefestival.com/ticket-types",
+        "ticketUrl": "https://www.beachlifefestival.com/ticket-types",
+        "summary": "Three-day beachside music festival in Redondo Beach, with the official ticket page confirming May 1–3, 2026 and 50+ musical performances across four beach stages.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-core-la-2026",
+        "title": "CORE Los Angeles 2026",
+        "type": "festival",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-03",
+        "importance": 90,
+        "venueName": "Los Angeles State Historic Park",
+        "venueId": null,
+        "sourceUrl": "https://www.core.world/es/events/core-los-angeles",
+        "ticketUrl": "https://www.core.world/es/events/core-los-angeles",
+        "summary": "Tomorrowland’s CORE comes to Los Angeles State Historic Park for two daytime electronic shows, with Four Tet, Honey Dijon, Dixon, Eric Prydz, ARTBAT, Nina Kraviz and more listed on the official timetable.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-salute-infinite-passion-2026",
+        "title": "salute presents infinite passion",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 72,
+        "venueName": "Aurora Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395264",
+        "ticketUrl": "https://ra.co/events/2395264",
+        "summary": "A no-phone warehouse club night curated by salute with Loods and Lovie, presented at Aurora Warehouse with HARD Selects.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-raye-greek-theatre-2026",
+        "title": "RAYE — This Tour May Contain New Music",
+        "type": "concert",
+        "startDate": "2026-05-12",
+        "endDate": "2026-05-13",
+        "importance": 82,
+        "venueName": "Greek Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/raye-tickets/artist/2065089?venueId=73753",
+        "ticketUrl": "https://www.ticketmaster.com/raye-tickets/artist/2065089?venueId=73753",
+        "summary": "RAYE brings her This Tour May Contain New Music run to the Greek Theatre, with Los Angeles dates listed for May 12 and May 13, 2026.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-lorde-ultrasound-2026",
+        "title": "Lorde — Ultrasound",
+        "type": "concert",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-15",
+        "importance": 85,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/lorde-tickets/artist/1901987?venueId=73750",
+        "ticketUrl": "https://www.ticketmaster.com/lorde-tickets/artist/1901987?venueId=73750",
+        "summary": "Lorde’s Ultrasound tour plays two nights at Kia Forum in Inglewood on May 14 and May 15, 2026, according to the official Ticketmaster listing.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-carlos-vives-2026",
+        "title": "Carlos Vives",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 78,
+        "venueName": "Peacock Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.peacocktheater.com/events/detail/carlosvivies051626",
+        "ticketUrl": "https://www.peacocktheater.com/events/detail/carlosvivies051626",
+        "summary": "Colombian superstar Carlos Vives performs at Peacock Theater on May 16, 2026 at 8:00 PM, as listed by the venue.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-zipangu-2026",
+        "title": "Zipangu: Japanese Music Event 2026",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 87,
+        "venueName": "Brookside at the Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://zipangu-event.cloud/",
+        "ticketUrl": "https://www.axs.com/us/events/1196266/zipangu-tickets",
+        "summary": "A first-of-its-kind Japanese music event at Brookside at the Rose Bowl, with full live performances by Ado, ATARASHII GAKKO!, CHANMINA, HANA, MAN WITH A MISSION, Yuki Chiba and 10-FEET.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-florence-machine-kia-forum-2026",
+        "title": "Florence + The Machine — Everybody Scream Tour",
+        "type": "concert",
+        "startDate": "2026-05-19",
+        "endDate": "2026-05-20",
+        "importance": 84,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/Florence-and-the-Ma-chine-tickets/artist/1362337",
+        "ticketUrl": "https://www.ticketmaster.com/Florence-and-the-Ma-chine-tickets/artist/1362337",
+        "summary": "Florence + The Machine bring the Everybody Scream Tour to Kia Forum for two Inglewood dates, with Mannequin Pussy listed on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-kexpo-kpop-concert-2026",
+        "title": "2026 K-EXPO USA K-POP Concert",
+        "type": "concert",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 73,
+        "venueName": "Peacock Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.peacocktheater.com/events/detail/kexpo052426",
+        "ticketUrl": "https://www.peacocktheater.com/events/detail/kexpo052426",
+        "summary": "The K-POP concert component of 2026 K-EXPO USA is confirmed for May 24 at Peacock Theater at L.A.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-bright-eyes-hollywood-bowl-2026",
+        "title": "Bright Eyes — 21 Years of Wide Awake & Digital Ash",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 72,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1iZbz2tpAM5/bright-eyes-21-years-of-wide-awake-digital-ash",
+        "ticketUrl": "https://www.livenation.com/event/vvG1iZbz2tpAM5/bright-eyes-21-years-of-wide-awake-digital-ash",
+        "summary": "Bright Eyes headline the Hollywood Bowl on May 23, 2026 for the 21 Years of Wide Awake & Digital Ash concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-los-fabulosos-cadillacs-2026",
+        "title": "Los Fabulosos Cadillacs",
+        "type": "concert",
+        "startDate": "2026-05-27",
+        "endDate": "2026-05-27",
+        "importance": 76,
+        "venueName": "Peacock Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5eYZbzXPxOwJ/los-fabulosos-cadillacs",
+        "ticketUrl": "https://www.livenation.com/event/G5eYZbzXPxOwJ/los-fabulosos-cadillacs",
+        "summary": "Argentine ska-rock and Latin alternative institution Los Fabulosos Cadillacs perform at Peacock Theater on May 27, 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

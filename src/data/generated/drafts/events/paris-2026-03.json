@@ -1,0 +1,224 @@
+{
+  "slug": "paris",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:18:59.995Z",
+  "responseId": "resp_0d183c87067cf2470069ff5de0947481959d3e5cf67cce03ae",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Paris mixed arena-scale pop and hip-hop with a strong run of indie, jazz/world and club-focused festivals across the city and close suburbs.",
+    "events": [
+      {
+        "id": "paris-inrocks-festival-mar-2026",
+        "title": "Les Inrocks Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-10",
+        "endDate": "2026-03-12",
+        "importance": 86,
+        "venueName": "Centquatre-Paris",
+        "venueId": null,
+        "sourceUrl": "https://www.104.fr/fiche-evenement/les-inrocks-festival-2026.html",
+        "ticketUrl": "https://dice.fm/",
+        "summary": "The 37th edition marked Les Inrockuptibles’ 40th anniversary at Centquatre-Paris. The bill included Stereolab, Kids Return, Elias Rønnenfelt, The Itch, Dominique A, Philippe Katerine, Miossec, Juliette Armanet, WU LYF, Jehnny Beth, Soko and Sonic Boom.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-l2p-convention-mar-2026",
+        "title": "L2P Convention 2026",
+        "type": "conference",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-14",
+        "importance": 80,
+        "venueName": "La Place - Centre Culturel Hip Hop",
+        "venueId": null,
+        "sourceUrl": "https://laplace-paris.com/l2p-convention-2026-une-premiere-serie-de-talks-et-conferences-annoncee/",
+        "ticketUrl": "https://l2pconvention.com/",
+        "summary": "La Place’s sixth L2P Convention brought four days of hip-hop and street-culture programming to La Place and partner venues. The format combined concerts, talks, workshops, exhibitions and professional networking around rap, DJing, dance and urban culture.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-mofo-festival-mar-2026",
+        "title": "MOFO 20 — Festival MOFO 20ème édition",
+        "type": "festival",
+        "startDate": "2026-03-12",
+        "endDate": "2026-03-14",
+        "importance": 74,
+        "venueName": "Mains d’Œuvres",
+        "venueId": null,
+        "sourceUrl": "https://www.offi.fr/concerts/festival/mofo-8812.html",
+        "ticketUrl": "https://billetterie.mainsdoeuvres.org/",
+        "summary": "MOFO’s 20th edition ran for three nights at Mains d’Œuvres in Saint-Ouen. The listed March program included Apu Nanu, Vaseline, rogergoon, Deep Triskell, Méryll Ampe, Organ Tapes, Bby Eco, Saeira, Grunge Gone Broadway and Black Fondu.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-music-festival-mar-2026",
+        "title": "Paris Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-22",
+        "importance": 80,
+        "venueName": "Various venues across Paris",
+        "venueId": null,
+        "sourceUrl": "https://parisjetaime.com/eng/event/paris-music-festival-e253",
+        "ticketUrl": "http://www.paris-music.com",
+        "summary": "Paris Music Festival presented innovative concerts in unusual Paris venues from March 18 to 22. The 2026 edition spanned pop, electro, classical, jazz and rap with artists including Mathias Malzieu, Malik Djoudi, China Moses, Coline Rio and Arnaud Denzler.",
+        "genres": [
+          "pop",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-banlieues-bleues-mar-2026",
+        "title": "43e Festival Banlieues Bleues",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-04-17",
+        "importance": 86,
+        "venueName": "Various venues in Seine-Saint-Denis and Paris area",
+        "venueId": null,
+        "sourceUrl": "https://www.banlieuesbleues.org/festival/43e-festival-banlieues-bleues-2/",
+        "ticketUrl": "https://www.banlieuesbleues.org/festival/billetterie/",
+        "summary": "Banlieues Bleues’ 43rd edition opened on March 27 and ran across ten Seine-Saint-Denis cities. The festival focused on adventurous jazz, global sounds and hybrid music, with March events including Uzi Freyja + Twende Pamoja, AMG + 15 15, Orchestre de la Crèche and TERRINE + FRANTX + Rojin Sharafi.",
+        "genres": [
+          "jazz",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-choro-festival-mar-2026",
+        "title": "22e Festival International de Choro de Paris",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 64,
+        "venueName": "Maison du Brésil",
+        "venueId": null,
+        "sourceUrl": "https://www.festivaldechorodeparis.org/",
+        "ticketUrl": "https://www.billetweb.fr/",
+        "summary": "The 22nd International Choro Festival of Paris took place at Maison du Brésil from March 27 to 29 under the artistic direction of Maria Inês Guimarães. The program centered on concerts and workshops celebrating Brazilian choro music.",
+        "genres": [
+          "latin",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-indochine-accor-mar-2026",
+        "title": "Indochine — Arena Tour at Accor Arena",
+        "type": "concert",
+        "startDate": "2026-02-24",
+        "endDate": "2026-03-07",
+        "importance": 82,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/indochine--07b34",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/indochine--07b34",
+        "summary": "French rock institution Indochine brought its Arena Tour to Accor Arena across late February and early March, with March performances listed on March 3, 4, 6 and 7. The run supported the band’s large-scale 2025–2026 arena production.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-wutang-accor-mar-2026",
+        "title": "Wu-Tang Clan — The Final Chamber at Accor Arena",
+        "type": "concert",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-11",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets?month=3&view=calendar&year=2026",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets?month=3&view=calendar&year=2026",
+        "summary": "Wu-Tang Clan were listed for a March 11 Accor Arena show in the venue’s March 2026 calendar. The concert brought the group’s legacy hip-hop catalog to one of Paris’s largest indoor venues.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-rosalia-lux-tour-mar-2026",
+        "title": "ROSALÍA: LUX TOUR 2026",
+        "type": "concert",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-20",
+        "importance": 90,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/rosalia-lux-tour-2026--083c9",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/rosalia-lux-tour-2026--083c9",
+        "summary": "ROSALÍA returned to Paris for two Accor Arena dates on March 18 and 20 as part of the LUX TOUR 2026. The show supported her LUX era and positioned her as one of the month’s biggest international pop bookings.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "paris-thundercat-pleyel-mar-2026",
+        "title": "Thundercat at Salle Pleyel",
+        "type": "concert",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-18",
+        "importance": 76,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/thundercat-2/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/thundercat-2/",
+        "summary": "Thundercat stopped at Salle Pleyel on Wednesday, March 18, with Andy 4000 listed as support. The show highlighted his jazz, funk, soul and R&B fusion in a seated-and-standing concert configuration.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-legends-rex-mar-2026",
+        "title": "LEGENDS: Louie Vega, Joe Claussell, DJ Deep",
+        "type": "club-night",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-15",
+        "importance": 84,
+        "venueName": "Rex Club",
+        "venueId": "rex-club",
+        "sourceUrl": "https://ra.co/events/2354516",
+        "ticketUrl": "https://ra.co/events/2354516",
+        "summary": "Rex Club hosted a heavyweight house night on March 15 with Louie Vega, Joe Claussell and DJ Deep. The bill brought New York house lineage and Parisian deep-house heritage into one late-night club session.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-sama-rex-mar-2026",
+        "title": "Rex Club presents: Sama' Abdulhadi",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 78,
+        "venueName": "Rex Club",
+        "venueId": "rex-club",
+        "sourceUrl": "https://ra.co/events/2377117",
+        "ticketUrl": "https://ra.co/events/2377117",
+        "summary": "Rex Club presented Palestinian techno artist Sama' Abdulhadi on Friday, March 27. Resident Advisor listed the event as a Rex Club-promoted techno night running from 23:59 to 07:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

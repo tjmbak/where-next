@@ -1,0 +1,199 @@
+{
+  "slug": "new-orleans",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:57:38.892Z",
+  "responseId": "resp_005d21ca78a4153c0069ffd74ef8c08194a7b31bddf79c1178",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in New Orleans is anchored by Jazz Fest’s closing weekend, late-night funk/R&B traditions, and neighborhood roots festivals later in the month.",
+    "events": [
+      {
+        "id": "new-orleans-jazz-fest-weekend-2-2026",
+        "title": "New Orleans Jazz & Heritage Festival 2026 — Weekend 2",
+        "type": "festival",
+        "startDate": "2026-04-30",
+        "endDate": "2026-05-03",
+        "importance": 98,
+        "venueName": "New Orleans Jazz & Heritage Festival",
+        "venueId": "jazz-fest-nola",
+        "sourceUrl": "https://www.nojazzfest.com/downloads/2026-nojhf-8day-cubes.pdf",
+        "ticketUrl": "https://www.nojazzfest.com/tickets/",
+        "summary": "The official Jazz Fest cubes confirm the festival’s second weekend running through May 3 at the Fair Grounds, with major May programming across Festival Stage, Gentilly, Congo Square, Jazz Tent, Gospel Tent and more. May 2 highlights include Eagles, Alabama Shakes, T-Pain, Big Freedia, The Soul Rebels and Little Feat.",
+        "genres": [
+          "festival",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-wilco-saenger-2026",
+        "title": "An Evening with Wilco",
+        "type": "concert",
+        "startDate": "2026-04-30",
+        "endDate": "2026-05-01",
+        "importance": 78,
+        "venueName": "Saenger Theatre",
+        "venueId": null,
+        "sourceUrl": "https://us.atgtickets.com/events/wilco/saenger-theatre/",
+        "ticketUrl": "https://us.atgtickets.com/events/wilco/saenger-theatre/",
+        "summary": "Wilco plays a two-night Saenger Theatre run that overlaps May, with the official listing confirming April 30–May 1, 2026 at 9:00 PM CT. The show is billed as “An Evening with Wilco.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-meters-saenger-2026",
+        "title": "The Meters with The Heavyweights",
+        "type": "concert",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 90,
+        "venueName": "Saenger Theatre",
+        "venueId": null,
+        "sourceUrl": "https://us.atgtickets.com/events/the-meters/saenger-theatre/",
+        "ticketUrl": "https://us.atgtickets.com/events/the-meters/saenger-theatre/",
+        "summary": "The Meters reunite for a one-night-only Jazz Fest-season concert at Saenger Theatre on May 2, 2026, with special guests The Heavyweights. The official listing notes it is the band’s first performance as The Meters since Art Neville’s 2019 passing.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-anders-osborne-birthday-bash-2026",
+        "title": "Anders Osborne’s NOLA Birthday Bash",
+        "type": "concert",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 84,
+        "venueName": "Civic Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.wwoz.org/events/1306921",
+        "ticketUrl": "https://www.ticketmaster.com/anders-osbornes-nola-birthday-bash-new-orleans-louisiana-05-02-2026/event/1B006389C04ACF97",
+        "summary": "WWOZ confirms the 13th Annual Nolafunk Series Jazz Fest event at Civic Theatre on May 2, 2026, headlined by Anders Osborne’s NOLA Birthday Bash. The lineup lists Rebirth Brass Band, Dave Malone, Jackie Greene, Lindsay Lou, Stanton Moore, Eddie 9V, Dan “Lebo” Lebowitz and a special surprise guest.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-floetry-saenger-2026",
+        "title": "Floetry Presents Say Yes The Tour featuring Raheem DeVaughn",
+        "type": "concert",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-06",
+        "importance": 75,
+        "venueName": "Saenger Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/floetry-new-orleans-05-06-2026/event/Z7r9jZ1A7-4b6",
+        "ticketUrl": "https://www.ticketmaster.com/floetry-new-orleans-05-06-2026/event/Z7r9jZ1A7-4b6",
+        "summary": "Floetry brings the Say Yes Tour to Saenger Theatre-New Orleans on May 6, 2026 at 8:00 PM. The tour billing includes Raheem DeVaughn and Teedra Moses on the Saenger listing.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-queens-smoothie-king-2026",
+        "title": "The Queens! 4 Legends, 1 Stage",
+        "type": "concert",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 82,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.smoothiekingcenter.com/events/detail/the-queens-4-legends-1-stage",
+        "ticketUrl": "https://www.smoothiekingcenter.com/events/detail/the-queens-4-legends-1-stage",
+        "summary": "Chaka Khan, Patti LaBelle, Gladys Knight and Stephanie Mills share the Smoothie King Center stage on May 7, 2026. The venue lists the show at 8:00 PM with doors at 7:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-bayou-boogaloo-2026",
+        "title": "The Bayou Boogaloo 2026",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-17",
+        "importance": 78,
+        "venueName": "The Broadside / Historic Pitot House",
+        "venueId": null,
+        "sourceUrl": "https://thebayouboogaloo.com/",
+        "ticketUrl": "https://thebayouboogaloo.com/",
+        "summary": "Bayou Boogaloo returns May 15–17, 2026, with The Broadside hosting three days of music and the Historic Pitot House hosting Canopy Club programming on Saturday and Sunday. The official site confirms ticketed live music and expanded programming across two stages on the weekend.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-pharcyde-tipitinas-2026",
+        "title": "The Pharcyde + Alfred Banks",
+        "type": "concert",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 70,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14146004/the-pharcyde/",
+        "ticketUrl": "https://tipitinas.com/event/14146004/the-pharcyde/",
+        "summary": "Tipitina’s confirms The Pharcyde on May 17, 2026, with doors at 7:00 PM and show at 8:00 PM. New Orleans rapper Alfred Banks is listed as support.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-bleachers-fillmore-2026",
+        "title": "Rolling Stone Rock Tour Presents Bleachers",
+        "type": "concert",
+        "startDate": "2026-05-20",
+        "endDate": "2026-05-20",
+        "importance": 73,
+        "venueName": "Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/rolling-stone-rock-tour-presents-bleachers-new-orleans-louisiana-05-20-2026/event/1B006481CA02778C",
+        "ticketUrl": "https://www.ticketmaster.com/rolling-stone-rock-tour-presents-bleachers-new-orleans-louisiana-05-20-2026/event/1B006481CA02778C",
+        "summary": "Ticketmaster confirms Bleachers at Fillmore New Orleans on May 20, 2026 at 7:00 PM. The show is billed as part of the Rolling Stone Rock Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-jon-cleary-tipitinas-2026",
+        "title": "Jon Cleary & The Absolute Monster Gentlemen + Sally Baby’s Silver Dollars",
+        "type": "concert",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 72,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14753413/jon-cleary-the-absolute-monster-gentlemen/",
+        "ticketUrl": "https://tipitinas.com/event/14753413/jon-cleary-the-absolute-monster-gentlemen/",
+        "summary": "Tipitina’s lists Jon Cleary & The Absolute Monster Gentlemen for May 24, 2026, with Sally Baby’s Silver Dollars opening. Doors are 7:00 PM and the show is 8:00 PM CDT.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-cajun-zydeco-festival-2026",
+        "title": "2026 Louisiana Cajun-Zydeco Festival",
+        "type": "festival",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-31",
+        "importance": 82,
+        "venueName": "George and Joyce Wein Jazz & Heritage Center",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzandheritage.org/events/2026-louisiana-cajun-zydeco-festival/",
+        "ticketUrl": "https://www.eventbrite.com/",
+        "summary": "The New Orleans Jazz & Heritage Foundation presents the free Louisiana Cajun-Zydeco Festival on May 30–31, 2026. The posted schedule includes Donna Angelle & the Zydeco Posse, Geno Delafose & French Rockin’ Boogie, Nathan & the Zydeco Cha Chas, Pine Leaf Boys and Chubby Carrier & The Bayou Swamp Band.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

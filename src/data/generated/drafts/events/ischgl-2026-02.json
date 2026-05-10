@@ -1,0 +1,134 @@
+{
+  "slug": "ischgl",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:39:57.777Z",
+  "responseId": "resp_0ed64c60e7f99b9a0069ff62fd6de48190980b7b01cdeb9e38",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 has few flagship Ischgl mega-concerts; the confirmed music calendar is mostly family concerts, carnival brass-band events, and nearby Paznaun mountain-night shows.",
+    "events": [
+      {
+        "id": "ischgl-heavysaurus-galtuer-feb-2026",
+        "title": "Children's Interactive Concerts in Galtür: Heavysaurus",
+        "type": "concert",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-11",
+        "importance": 72,
+        "venueName": "Bambiniland Galtür",
+        "venueId": null,
+        "sourceUrl": "https://www.galtuer.com/de/veranstaltungen-erlebnisse/veranstaltungskalender/kindermitmachkonzerte-in-galt-r_event_121986287",
+        "ticketUrl": null,
+        "summary": "The official Galtür event page lists Heavysaurus for 11 February 2026 at 15:00 as part of the 'Erlebe den Berg' children's interactive concert series. Admission is listed as free.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-medrig-zunder-feb-2026",
+        "title": "Medrig Night Fever: Zunder",
+        "type": "concert",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-11",
+        "importance": 70,
+        "venueName": "Medrig Alm Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.see.at/en/activities/medrig-night-fever_activity_101818375",
+        "ticketUrl": null,
+        "summary": "Medrig Night Fever pairs night skiing and tobogganing with a live concert on the Medrig Alm stage and a laser show. The official See page lists Zunder for Wednesday, 11 February 2026.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-kinderfasching-2026",
+        "title": "Kinderfasching in Ischgl",
+        "type": "carnival",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 60,
+        "venueName": "Kulturzentrum St. Nikolaus / Silvretta Therme route",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/de/veranstaltungen-erlebnisse/veranstaltungskalender/kinderfasching-in-ischgl_event_127720525",
+        "ticketUrl": null,
+        "summary": "Ischgl's official event page confirms the children's carnival on 15 February 2026 at 14:00. The programme includes a parade with the youth brass orchestra of Musikkapelle Ischgl and a Captain Steampunk children's participatory concert.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-galtuer-carnival-2026",
+        "title": "Carnival in Galtür",
+        "type": "carnival",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 60,
+        "venueName": "Sport- und Kulturzentrum Galtür",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/carnival-in-galtuer_event_127965983",
+        "ticketUrl": null,
+        "summary": "The official Paznaun-Ischgl event page lists Galtür Carnival for 15 February 2026 at 15:00. The costume parade from Galtür primary school to the sports and cultural centre is accompanied by the Galtür music band.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-herrh-galtuer-feb-2026",
+        "title": "Children's Interactive Concerts in Galtür: HerrH",
+        "type": "concert",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 72,
+        "venueName": "Bambiniland Galtür",
+        "venueId": null,
+        "sourceUrl": "https://www.galtuer.com/de/veranstaltungen-erlebnisse/veranstaltungskalender/kindermitmachkonzerte-in-galt-r_event_121986287",
+        "ticketUrl": null,
+        "summary": "The official Galtür event page lists HerrH for 18 February 2026 at 15:00 as part of the 'Erlebe den Berg' children's interactive concert series. The source describes the series as music, dancing, and current children's hits in Silvapark Galtür.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-medrig-loisach-marci-feb-2026",
+        "title": "Medrig Night Fever: Loisach Marci",
+        "type": "concert",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 72,
+        "venueName": "Medrig Alm Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.see.at/en/activities/medrig-night-fever_activity_101818375",
+        "ticketUrl": null,
+        "summary": "Medrig Night Fever's official programme lists Loisach Marci, described as alphorn techno, for Wednesday, 18 February 2026. The event includes a live concert on the Medrig Alm stage plus a laser show.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "ischgl-medrig-zwirn-feb-2026",
+        "title": "Medrig Night Fever: Zwirn",
+        "type": "concert",
+        "startDate": "2026-02-25",
+        "endDate": "2026-02-25",
+        "importance": 70,
+        "venueName": "Medrig Alm Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.see.at/en/activities/medrig-night-fever_activity_101818375",
+        "ticketUrl": null,
+        "summary": "The official See page lists Zwirn for Medrig Night Fever on Wednesday, 25 February 2026. The programme confirms a live concert slot on the Medrig Alm stage from about 20:30 to 22:00, followed by a laser show.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

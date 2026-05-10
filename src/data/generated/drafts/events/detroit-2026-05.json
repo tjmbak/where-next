@@ -1,0 +1,215 @@
+{
+  "slug": "detroit",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:32:13.487Z",
+  "responseId": "resp_060339784717bb990069ff612eef088196b8b2c7fe78ac66d1",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "detroit",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Detroit is anchored by Movement’s Memorial Day techno weekender, with official afterparties spreading across Lincoln Factory, Russell Industrial Center, Spot Lite and other clubs alongside major arena/theatre concerts.",
+    "events": [
+      {
+        "id": "detroit-movement-2026",
+        "title": "Movement 2026",
+        "type": "festival",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-25",
+        "importance": 100,
+        "venueName": "Hart Plaza",
+        "venueId": "movement",
+        "sourceUrl": "https://movementfestival.com/lineup",
+        "ticketUrl": "https://movementfestival.com/tickets",
+        "summary": "Detroit’s flagship electronic music festival returns to Hart Plaza for May 23–25, 2026. The confirmed lineup includes Jeff Mills, Jamie xx, John Summit, Sara Landry, Charlotte de Witte, The Blessed Madonna, Seth Troxler and many more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "detroit-disclosure-masonic-2026",
+        "title": "Disclosure Live",
+        "type": "concert",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 82,
+        "venueName": "Masonic Temple",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/masonic-temple-tickets-detroit/venue/65557",
+        "ticketUrl": "https://www.ticketmaster.com/masonic-temple-tickets-detroit/venue/65557",
+        "summary": "Disclosure bring their live electronic show to Detroit’s Masonic Temple on May 7, 2026, with Laurence Guy listed on the bill. The venue listing confirms the 7:00 PM event time and 16+ age note.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "detroit-fantasia-anthony-hamilton-2026",
+        "title": "Fantasia with Anthony Hamilton",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 76,
+        "venueName": "Little Caesars Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/fantasia-joe",
+        "ticketUrl": "https://www.313presents.com/events/detail/fantasia-joe",
+        "summary": "Fantasia performs at Little Caesars Arena on May 9, 2026, with Anthony Hamilton as special guest. The 313 Presents listing confirms the 8:00 PM start time.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-dethklok-amon-amarth-2026",
+        "title": "Dethklok & Amon Amarth: The Amonklok Conquest",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-13",
+        "importance": 76,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/dethklok-amon-amarth",
+        "ticketUrl": "https://www.313presents.com/events/detail/dethklok-amon-amarth",
+        "summary": "Dethklok and Amon Amarth co-headline Fox Theatre on May 13, 2026, with Castle Rat as special guest. 313 Presents confirms the show at 7:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "detroit-ari-lennox-2026",
+        "title": "Ari Lennox: Vacancy Tour",
+        "type": "concert",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 79,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/ari-lennox",
+        "ticketUrl": "https://www.313presents.com/events/detail/ari-lennox",
+        "summary": "Ari Lennox brings the Vacancy Tour to Fox Theatre on May 17, 2026, with Lekan and PHABO supporting. The official 313 Presents page confirms the Detroit date and 8:00 PM start.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-charlie-puth-2026",
+        "title": "Charlie Puth: Whatever’s Clever! 2026 World Tour",
+        "type": "concert",
+        "startDate": "2026-05-19",
+        "endDate": "2026-05-19",
+        "importance": 82,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/charlie-puth",
+        "ticketUrl": "https://www.313presents.com/events/detail/charlie-puth",
+        "summary": "Charlie Puth’s Whatever’s Clever! 2026 World Tour stops at Fox Theatre on May 19, 2026. Daniel Seavey and Ally Salort are listed as special guests for the 7:30 PM show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-khalid-2026",
+        "title": "Khalid: It’s Always Summer Somewhere Tour",
+        "type": "concert",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-21",
+        "importance": 80,
+        "venueName": "Michigan Lottery Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/khalid",
+        "ticketUrl": "https://www.313presents.com/events/detail/khalid",
+        "summary": "Khalid plays Michigan Lottery Amphitheatre on May 21, 2026, with Lauv as special guest. The official listing confirms the 7:30 PM start.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-movement-opening-party-2026",
+        "title": "Official Movement Opening Party: Speedy J, Drumcell & DJ Hyperactive",
+        "type": "club-night",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-22",
+        "importance": 84,
+        "venueName": "Lincoln Factory",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395256",
+        "ticketUrl": "https://ra.co/events/2395256",
+        "summary": "Paxahau and Blank Code present the Official Movement Opening Party at Lincoln Factory on May 22, 2026. The lineup includes Speedy J, Drumcell, DJ Hyperactive, Augustus Williams, Craig Gonzalez, DJ SPHiNX and Rebecca Goldberg.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-detroit-love-afterparty-2026",
+        "title": "Detroit Love: Official Movement Afterparty",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 88,
+        "venueName": "Lincoln Factory",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2387264",
+        "ticketUrl": "https://ra.co/events/2387264",
+        "summary": "Detroit Love’s official Movement afterparty takes over Lincoln Factory on May 23, 2026. The RA listing includes Carl Craig b2b Stacey Pullen, Claude VonStroke, Dames Brown, DJ Holographic, Waajeed and Zack Fox.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "detroit-hekate-we-are-not-alone-2026",
+        "title": "Hekate + We Are Not Alone: Official Movement Afterparty",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 89,
+        "venueName": "Russell Industrial Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2398479",
+        "ticketUrl": "https://ra.co/events/2398479",
+        "summary": "This official Movement afterparty at Russell Industrial Center is confirmed for May 23, 2026. Hekate lists Sara Landry, DAX J, Lady Witch and Volvox, while We Are Not Alone lists DJ Stingray 313, Ellen Allien, Luke Hess and SALOME.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "detroit-richie-hawtin-minus-expo-2026",
+        "title": "Techno in the Expo + Richie Hawtin MINUS+: Official Movement Afterparty",
+        "type": "club-night",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 91,
+        "venueName": "Russell Industrial Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2398482",
+        "ticketUrl": "https://ra.co/events/2398482",
+        "summary": "Paxahau’s two-room official Movement afterparty at Russell Industrial Center is confirmed for May 24, 2026. The bill includes 999999999, Chris Liebing, Eli Brown, Lindsey Herbert, Decoder, Matador, Ogazón and Richie Hawtin.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "detroit-louie-vega-friends-2026",
+        "title": "Louie Vega & Friends: Official Movement Afterparty",
+        "type": "club-night",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 87,
+        "venueName": "Spot Lite Detroit",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423997",
+        "ticketUrl": "https://ra.co/events/2423997",
+        "summary": "Louie Vega & Friends is confirmed as an official Movement afterparty at Spot Lite Detroit on May 24, 2026. The lineup includes Louie Vega, Anané, Rimarkable, Eats Everything, Mike “Agent X” Clark and Recloose.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

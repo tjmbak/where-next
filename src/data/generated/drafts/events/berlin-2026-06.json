@@ -1,0 +1,218 @@
+{
+  "slug": "berlin",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:52:29.495Z",
+  "responseId": "resp_05d305db352989e60069ff57b37e0481918edd67684af1a47e",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is unusually strong across Berlin, pairing citywide/free music culture with major stadium and arena tours, Citadel open-air concerts, and heavyweight electronic club programming.",
+    "events": [
+      {
+        "id": "berlin-kaytranada-2026",
+        "title": "KAYTRANADA live at Uber Arena",
+        "type": "concert",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 88,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/kaytranada/2026-06-04-2000",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/kaytranada/2026-06-04-2000",
+        "summary": "KAYTRANADA plays Uber Arena with support from Uncle Waffles. The venue listing confirms the Berlin date as part of his current tour.",
+        "genres": [
+          "electronic",
+          "house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-massive-attack-citadel-2026",
+        "title": "Massive Attack at Citadel Music Festival",
+        "type": "concert",
+        "startDate": "2026-06-07",
+        "endDate": "2026-06-07",
+        "importance": 91,
+        "venueName": "Zitadelle Spandau",
+        "venueId": null,
+        "sourceUrl": "https://citadel-music-festival.de/event/2026-06-07-massive-attack",
+        "ticketUrl": "https://www.eventim.de/",
+        "summary": "Massive Attack headline an open-air show at Zitadelle Spandau. Citadel Music Festival bills it as their only Germany show in June 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-paradise-must-be-nice-2026",
+        "title": "Paradise Must Be Nice 2026",
+        "type": "festival",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-13",
+        "importance": 78,
+        "venueName": "Multiple Berlin venues",
+        "venueId": null,
+        "sourceUrl": "https://eventfrog.de/de/p/festivals/kunst-kultur/paradise-must-be-nice-2026-7427726950314065505.html",
+        "ticketUrl": "https://eventfrog.de/de/p/festivals/kunst-kultur/paradise-must-be-nice-2026-7427726950314065505.html",
+        "summary": "The genre-bending festival runs across Berlin cultural venues with Rosaceae, Vanessa Bedoret, Maria W Horn & Mats Erlandsson, Petra Hermanova, Slikback and more listed across the three days.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-grey-scale-festival-2026",
+        "title": "Grey Scale Festival Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 76,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.greyzone-concerts.de/events/id/2380",
+        "ticketUrl": "https://www.eventim.de/en/event/grey-scale-festival-berlin-2026-columbiahalle-21341864/",
+        "summary": "Grey Scale Festival Berlin launches its first edition at Columbiahalle. The confirmed bill includes IC3PEAK, TR/ST, Curses live, Aigel, Qual and Karin Park.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-watergate-open-air-kolsch-2026",
+        "title": "Watergate Open Air with Kölsch",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 82,
+        "venueName": "SAGE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2391964",
+        "ticketUrl": "https://ra.co/events/2391964",
+        "summary": "Watergate’s open-air party at SAGE features Kölsch, Joëlla Jackson, JANE RYSE, Alyssa & Gia, Carl Bergé and KIRSCH across riverside dance floors.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-doja-cat-2026",
+        "title": "Doja Cat live at Uber Arena",
+        "type": "concert",
+        "startDate": "2026-06-17",
+        "endDate": "2026-06-17",
+        "importance": 90,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/doja-cat",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/doja-cat",
+        "summary": "Doja Cat brings her Berlin arena date to Uber Arena with Naomi Sharon confirmed as support. The venue listing confirms the June 17 show and 20:00 start time.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-mac-demarco-citadel-2026",
+        "title": "Mac DeMarco at Citadel Music Festival",
+        "type": "concert",
+        "startDate": "2026-06-17",
+        "endDate": "2026-06-17",
+        "importance": 82,
+        "venueName": "Zitadelle Spandau",
+        "venueId": null,
+        "sourceUrl": "https://citadel-music-festival.de/event/2026-06-17-mac-demarco",
+        "ticketUrl": "https://citadel-music-festival.de/event/2026-06-17-mac-demarco",
+        "summary": "Mac DeMarco plays Zitadelle Spandau with Otto Benson. Citadel Music Festival describes it as his biggest Berlin show to date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-kings-of-leon-citadel-2026",
+        "title": "Kings of Leon at Citadel Music Festival",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 86,
+        "venueName": "Zitadelle Spandau",
+        "venueId": null,
+        "sourceUrl": "https://citadel-music-festival.de/event/2026-06-18-kings-of-leon",
+        "ticketUrl": "https://citadel-music-festival.de/event/2026-06-18-kings-of-leon",
+        "summary": "Kings of Leon headline Zitadelle Spandau for a summer open-air concert. The Citadel listing confirms the June 18 headline show in Berlin.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-jun20-2026",
+        "title": "Klubnacht at Berghain / Panorama Bar / Säule",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-22",
+        "importance": 88,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://ra.co/events/2436493",
+        "ticketUrl": null,
+        "summary": "This June Klubnacht edition features Chontane, DVS1, Elisa Bee, Kwartz, LOLSNAKE, Nastya Vogan and Truncate in Berghain, with CRYME, Helena Hauff, Lea Occhi, Marie Montexier, Soundstream, Victor and YELLOWUHURU in Panorama Bar.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-fete-de-la-musique-2026",
+        "title": "Fête de la Musique Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 92,
+        "venueName": "Citywide Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.fetedelamusique.de/en/",
+        "ticketUrl": null,
+        "summary": "Berlin’s citywide Fête de la Musique returns on June 21 with free concerts throughout the city. The official Berlin Fête site confirms the annual date and free-concert format.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-guns-n-roses-2026",
+        "title": "Guns N’ Roses live at Uber Arena",
+        "type": "concert",
+        "startDate": "2026-06-23",
+        "endDate": "2026-06-23",
+        "importance": 92,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/guns-n-roses/",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/guns-n-roses/",
+        "summary": "Guns N’ Roses play the first of two exclusive Germany concerts at Uber Arena, with Mammoth listed as support. The venue confirms the June 23 and June 25 Berlin dates.",
+        "genres": []
+      },
+      {
+        "id": "berlin-bruno-mars-olympiastadion-2026",
+        "title": "Bruno Mars – The Romantic Tour",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 97,
+        "venueName": "Olympiastadion Berlin",
+        "venueId": null,
+        "sourceUrl": "https://olympiastadion.berlin/en/term/bruno-mars-june-26-2026/",
+        "ticketUrl": "https://olympiastadion.berlin/en/term/bruno-mars-june-26-2026/",
+        "summary": "Bruno Mars brings The Romantic Tour to Olympiastadion Berlin with Anderson .Paak as DJ Pee .Wee and Victoria Monét listed as special guests. The stadium listing confirms the Friday, June 26 performance.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

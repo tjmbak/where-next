@@ -1,0 +1,191 @@
+{
+  "slug": "bali",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:22:23.506Z",
+  "responseId": "resp_0f383c4f27e582ee0069ff5efbfe10819f901ac64038c4783e",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is anchored by Bali’s cultural PKB season plus a concentrated run of electronic music at Nuanu, Café del Mar, and Savaya.",
+    "events": [
+      {
+        "id": "bali-locus-2026",
+        "title": "LOCUS Bali 2026",
+        "type": "festival",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-21",
+        "importance": 95,
+        "venueName": "Nuanu Creative City",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/locus-bali-2026",
+        "ticketUrl": "https://www.ticketfairy.com/event/locus-bali-2026",
+        "summary": "Four-day drum ’n’ bass festival at Nuanu Creative City with a lineup including Goddard, Pola & Bryson, Spor, Concord Dawn, DJ Craze, London Elektricity, Danny Byrd, Calyx, TC, Doc Scott and LSB.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-pesta-kesenian-bali-2026",
+        "title": "Pesta Kesenian Bali (PKB) 2026",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": "2026-07-11",
+        "importance": 90,
+        "venueName": "Denpasar City / Taman Werdhi Budaya Art Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.indonesia.travel/id-id/events/event-detail/pesta-kesenian-bali-pkb-2026/",
+        "ticketUrl": null,
+        "summary": "Bali’s major annual arts festival presents Balinese performing arts, parade formats, exhibitions, workshops and cultural programs across Denpasar. The official Indonesia.travel listing confirms the June 13–July 11 dates and free admission.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-eric-prydz-2026",
+        "title": "Eric Prydz at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 88,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-20-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-20-2026",
+        "summary": "Eric Prydz headlines Savaya’s cliffside stage on Saturday, June 20, with doors listed for 3:00 PM on the venue’s official event page.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-artbat-2026",
+        "title": "ARTBAT at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 84,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-21-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-21-2026",
+        "summary": "ARTBAT play Savaya Bali on Sunday, June 21, with the venue listing doors from 1:00 PM and positioning the duo as the main act.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-pure-music-festival-2026",
+        "title": "Pure Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 80,
+        "venueName": "Café del Mar Bali",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/pure-music-festival-2026",
+        "ticketUrl": "https://megatix.co.id/events/pure-music-festival-2026",
+        "summary": "A beachfront house and techno festival at Café del Mar Bali, headlined by Konstantin Sibold, Rafael Cerato and Young Franco, with Tristan K and Atlantys also listed.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-jonas-blue-savaya-2026",
+        "title": "Jonas Blue at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-19-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-19-2026",
+        "summary": "UK DJ and producer Jonas Blue headlines Savaya Bali on Friday, June 19, with the official venue page listing a 3:00 PM doors time.",
+        "genres": [
+          "house",
+          "afro-house",
+          "pop"
+        ]
+      },
+      {
+        "id": "bali-will-sparks-savaya-2026",
+        "title": "Will Sparks at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 75,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-26-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-26-2026",
+        "summary": "Australian electronic artist Will Sparks plays Savaya Bali on Friday, June 26, with doors listed at 3:00 PM on Savaya’s official calendar.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-gioli-assia-savaya-2026",
+        "title": "Giolì & Assia at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 74,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-14-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-14-2026",
+        "summary": "Italian duo Giolì & Assia headline a Sunday event at Savaya Bali on June 14, with the venue listing doors from 1:00 PM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-fideles-savaya-2026",
+        "title": "Fideles at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 73,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-6-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-6-2026",
+        "summary": "Italian duo Fideles headline Savaya Bali on Saturday, June 6, with Savaya’s official page listing the event date and 3:00 PM doors.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-alec-monopoly-savaya-2026",
+        "title": "Alec Monopoly at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 65,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/june-13-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-13-2026",
+        "summary": "Alec Monopoly is listed as the headliner for Savaya Bali on Saturday, June 13, with the official event page confirming 3:00 PM doors.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

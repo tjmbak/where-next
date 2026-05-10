@@ -1,0 +1,210 @@
+{
+  "slug": "london",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:00:29.400Z",
+  "responseId": "resp_0b21446c278c0a4d0069ff59c74c888190aafc605b39cdb65a",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 11,
+    "year": 2026,
+    "notes": "November’s confirmed London calendar is already anchored by EFG London Jazz Festival and a dense run of arena-scale shows at The O2.",
+    "events": [
+      {
+        "id": "london-efg-jazz-festival-nov-2026",
+        "title": "EFG London Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-22",
+        "importance": 95,
+        "venueName": "Southbank Centre and venues across London",
+        "venueId": null,
+        "sourceUrl": "https://www.southbankcentre.co.uk/events/efg-london-jazz-festival/",
+        "ticketUrl": null,
+        "summary": "The citywide EFG London Jazz Festival returns from 13–22 November 2026. Southbank Centre’s confirmed programme includes Jazz Voice, Ben Folds, Kronos Quartet, Cécile McLorin Salvant with BBC Concert Orchestra, and Samara Joy.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-korn-o2-2026",
+        "title": "Korn",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 85,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/korn",
+        "ticketUrl": null,
+        "summary": "Korn bring their Euro Tour 2026 to The O2 with special guests Architects and Youth Code. The venue confirms the London headline show for Wednesday 4 November 2026.",
+        "genres": []
+      },
+      {
+        "id": "london-suede-manic-street-preachers-2026",
+        "title": "Suede & Manic Street Preachers",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/suede-manic-street-preachers",
+        "ticketUrl": null,
+        "summary": "Suede and Manic Street Preachers are confirmed for a co-headline arena show at The O2. The event page lists Friday 6 November 2026 with doors at 6:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-papa-roach-o2-2026",
+        "title": "Papa Roach",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 78,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/papa-roach",
+        "ticketUrl": null,
+        "summary": "Papa Roach are confirmed for The O2 on Sunday 8 November 2026. The O2 lists the show as on sale with doors at 5:30 PM.",
+        "genres": []
+      },
+      {
+        "id": "london-hatsune-miku-expo-2026",
+        "title": "HATSUNE MIKU EXPO 2026 EUROPE",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/hatsune-miku",
+        "ticketUrl": null,
+        "summary": "Crypton Future Media’s HATSUNE MIKU EXPO 2026 EUROPE opens its European run at London’s The O2. The confirmed London date is Thursday 12 November 2026.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-noah-kahan-o2-2026",
+        "title": "Noah Kahan",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-17",
+        "importance": 90,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/noah-kahan-2026",
+        "ticketUrl": null,
+        "summary": "Noah Kahan brings The Great Divide-era arena run to The O2 with special guest Bella Kay. The venue lists three London shows on 13, 14 and 17 November 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fatoumata-diawara-2026",
+        "title": "Fatoumata Diawara",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 77,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/fatoumata-diawara/",
+        "ticketUrl": null,
+        "summary": "Fatoumata Diawara plays the Roundhouse Main Space as part of EFG London Jazz Festival 2026. The Roundhouse confirms the concert for Wednesday 18 November 2026.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-enter-shikari-ally-pally-2026",
+        "title": "Enter Shikari – LOSE YOUR SELF Tour",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 82,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/enter-shikari/",
+        "ticketUrl": null,
+        "summary": "Enter Shikari headline Alexandra Palace’s Great Hall on the LOSE YOUR SELF Tour with Holding Absence and The Callous Daoboys. Alexandra Palace confirms the run for 20–21 November 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-myles-smith-o2-2026",
+        "title": "Myles Smith",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 80,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/myles-smith",
+        "ticketUrl": null,
+        "summary": "Myles Smith plays his debut show at The O2 on Friday 20 November 2026. The venue lists the arena date in support of his 2026 album campaign.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-jungle-o2-2026",
+        "title": "Jungle",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-25",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jungle-2026",
+        "ticketUrl": null,
+        "summary": "Jungle return to The O2 for two nights with special guest Rio Kosta. The venue confirms shows on Tuesday 24 and Wednesday 25 November 2026.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-squeeze-billy-bragg-o2-2026",
+        "title": "Squeeze with Billy Bragg",
+        "type": "concert",
+        "startDate": "2026-11-26",
+        "endDate": "2026-11-26",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/squeeze-2026",
+        "ticketUrl": null,
+        "summary": "Squeeze bring the Tried, Tested and Trixies Tour to The O2 with very special guest Billy Bragg. The venue confirms the London date for Thursday 26 November 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-jessie-ware-o2-2026",
+        "title": "Jessie Ware",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jessie-ware",
+        "ticketUrl": null,
+        "summary": "Jessie Ware is confirmed for The O2 with special guest Naomi Scott. The venue lists the show for Saturday 28 November 2026.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

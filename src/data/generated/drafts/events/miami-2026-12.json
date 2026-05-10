@@ -1,0 +1,87 @@
+{
+  "slug": "miami",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:04:15.638Z",
+  "responseId": "resp_0e869451db23bf510069ff5a92cef4819cad1d4b1c15afb023",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 12,
+    "year": 2026,
+    "notes": "December 2026 is still early for Miami club and Art Week party announcements, so the confirmed calendar is currently weighted toward arena concerts and holiday programming.",
+    "events": [
+      {
+        "id": "miami-rb-tour-dec-3-2026",
+        "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 88,
+        "venueName": "Hard Rock Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_67jBzIg/the-r-b-tour-starring-usher-raymond-chris-brown",
+        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_67jBzIg/the-r-b-tour-starring-usher-raymond-chris-brown",
+        "summary": "Usher and Chris Brown bring their co-headlining R&B stadium tour to Hard Rock Stadium in Miami Gardens. The Live Nation listing confirms the Thursday, December 3, 2026 show at 7:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-rb-tour-dec-5-2026",
+        "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 88,
+        "venueName": "Hard Rock Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_FMhEi0r/the-r-b-tour-starring-usher-raymond-chris-brown",
+        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_FMhEi0r/the-r-b-tour-starring-usher-raymond-chris-brown",
+        "summary": "A second Miami-area stadium date for Usher and Chris Brown’s co-headlining R&B tour is confirmed at Hard Rock Stadium. The Live Nation listing confirms the Saturday, December 5, 2026 show at 7:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-rawayana-dec-2026",
+        "title": "RAWAYANA - ¿Dónde Es El After? World Tour",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 80,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
+        "summary": "Venezuelan band Rawayana brings the ¿Dónde Es El After? World Tour to Kaseya Center for two confirmed nights. The venue lists shows on December 5 and December 6, 2026, both at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-candlelight-christmas-classics-2026",
+        "title": "Candlelight: Christmas Classics",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 60,
+        "venueName": "Eden Roc Miami Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/candlelight-christmas-classics/39171",
+        "ticketUrl": "https://feverup.com/m/502858",
+        "summary": "Fever’s Candlelight series presents a holiday string-quartet program at Eden Roc Miami Beach. The tourism listing confirms the Saturday, December 19, 2026 performance at 4:00 PM, with Collins Quartet noted as performer.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

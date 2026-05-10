@@ -1,0 +1,228 @@
+{
+  "slug": "buenos-aires",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:48:38.734Z",
+  "responseId": "resp_06463a06c91833fa0069ff64e42d748197b8907f80f7a61b43",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 was unusually stacked for Buenos Aires, with global pop/urban arena runs, Carnival-week electronic festivals, and local summer festival programming overlapping across the city.",
+    "events": [
+      {
+        "id": "buenos-aires-festival-electrotango-2026",
+        "title": "5to Festival Electrotango Buenos Aires",
+        "type": "festival",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-08",
+        "importance": 72,
+        "venueName": "Woki Toki",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/5to-festival-electrotango-buenos-aires-argentina",
+        "ticketUrl": "https://www.festivalelectrotango.com/tickets/",
+        "summary": "The fifth edition of Festival Electrotango ran for three nights in San Telmo, with Tanghetto, Tangorra, Otros Aires, Ultratango, Narcotango, El Cachivache and DJs/performers across shows and milongas.",
+        "genres": [
+          "electronic",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "buenos-aires-doja-cat-2026",
+        "title": "Doja Cat — Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 84,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.wegow.com/en/concerts/concierto-de-doja-cat-en-buenos-aires-movistar-arena-buenos-aires",
+        "ticketUrl": null,
+        "summary": "Doja Cat played Movistar Arena Buenos Aires on her Ma Vie World Tour, a major arena date for the U.S. rapper and pop artist.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-kali-uchis-2026",
+        "title": "Kali Uchis — The Sincerely Tour",
+        "type": "concert",
+        "startDate": "2026-02-10",
+        "endDate": "2026-02-10",
+        "importance": 80,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.wegow.com/en/concerts/concierto-de-kali-uchis-en-buenos-aires-movistar-arena-buenos-aires",
+        "ticketUrl": null,
+        "summary": "Kali Uchis returned to Buenos Aires for a Movistar Arena show tied to The Sincerely Tour, following earlier Argentina festival appearances.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-yandel-sinfonico-2026",
+        "title": "Yandel Sinfónico",
+        "type": "concert",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-11",
+        "importance": 76,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://indiehoy.com/agenda/yandel-en-argentina/",
+        "ticketUrl": null,
+        "summary": "Yandel brought his orchestral-format “Yandel Sinfónico” show to Movistar Arena, reframing reggaetón hits with symphonic arrangements.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-bad-bunny-dtmf-2026",
+        "title": "Bad Bunny — DeBÍ TiRAR MáS FOToS World Tour",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-15",
+        "importance": 94,
+        "venueName": "Estadio Mâs Monumental",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.lat/en/event/bad-bunny-deb%C3%AD-tirar-m%C3%A1s-fotos-world-tour-buenos-aires-tickets-edp1596956",
+        "ticketUrl": "https://www.allaccess.com.ar/",
+        "summary": "Bad Bunny played three Buenos Aires stadium dates at Estadio River Plate/Mâs Monumental as part of the DeBÍ TiRAR MáS FOToS World Tour.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-ultra-2026",
+        "title": "Ultra Buenos Aires 2026",
+        "type": "festival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-15",
+        "importance": 96,
+        "venueName": "Parque de la Ciudad",
+        "venueId": null,
+        "sourceUrl": "https://ultrabuenosaires.com/es/",
+        "ticketUrl": "https://ultrabuenosaires.com/tickets/2026/",
+        "summary": "Ultra Buenos Aires returned to Parque de la Ciudad for a two-day electronic festival, with official billing including Zedd, Alesso, Above & Beyond, deadmau5, Charlotte de Witte, Richie Hawtin, Dom Dolla, CamelPhat and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "buenos-aires-fiesta-bomba-carnaval-2026",
+        "title": "Fiesta Bomba de Carnaval 2026",
+        "type": "club-night",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-17",
+        "importance": 72,
+        "venueName": "Ciudad Cultural Konex",
+        "venueId": null,
+        "sourceUrl": "https://entradas.cckonex.org/event/fiesta-bomba-carnaval",
+        "ticketUrl": "https://entradas.cckonex.org/event/fiesta-bomba-carnaval",
+        "summary": "La Bomba de Tiempo staged its Carnival party at Konex after the regular Lunes Bomba show, with a live La Bomba performance, DJs and invited artists running into the Tuesday holiday morning.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "buenos-aires-rufus-du-sol-2026",
+        "title": "RÜFÜS DU SOL",
+        "type": "concert",
+        "startDate": "2026-02-19",
+        "endDate": "2026-02-19",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.wegow.com/gb/concerts/concierto-de-rufus-du-sol-en-buenos-aires-movistar-arena-buenos-aires",
+        "ticketUrl": null,
+        "summary": "Australian electronic trio RÜFÜS DU SOL played a Buenos Aires arena date at Movistar Arena, following their recent South American festival momentum.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-buena-vibra-2026",
+        "title": "Festival Buena Vibra 2026",
+        "type": "festival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 88,
+        "venueName": "Ciudad Universitaria",
+        "venueId": null,
+        "sourceUrl": "https://buenosaires.gob.ar/Descubrir%20BA/festival-buena-vibra-ciudad-universitaria",
+        "ticketUrl": null,
+        "summary": "The summer indie festival returned to Ciudad Universitaria with Wos, El Kuelgue, Conociendo Rusia, Marilina Bertoldi, Usted Señalemelo, Emmanuel Horvilleur, Gauchito Club, Silvestre y La Naranja and more.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "buenos-aires-ricardo-montaner-2026",
+        "title": "Ricardo Montaner — El Último Regreso World Tour opening night",
+        "type": "concert",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://indiehoy.com/agenda/ricardo-montaner-en-argentina/",
+        "ticketUrl": null,
+        "summary": "Ricardo Montaner opened his El Último Regreso World Tour in Buenos Aires at Movistar Arena, beginning a run of Argentine dates with his decades-spanning Latin pop catalog.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-chayanne-bailemos-2026",
+        "title": "Chayanne — Bailemos Otra Vez Tour opening Buenos Aires date",
+        "type": "concert",
+        "startDate": "2026-02-24",
+        "endDate": "2026-02-24",
+        "importance": 84,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://buenosaires.gob.ar/Descubrir%20BA/chayanne-bailemos-otra-vez-tour-1",
+        "ticketUrl": null,
+        "summary": "Chayanne returned to Argentina after more than five years, opening his Buenos Aires run at Movistar Arena with the Bailemos Otra Vez Tour.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-zaz-gran-rex-2026",
+        "title": "Zaz",
+        "type": "concert",
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "importance": 74,
+        "venueName": "Teatro Gran Rex",
+        "venueId": null,
+        "sourceUrl": "https://indiehoy.com/agenda/zaz-argentina-2025/",
+        "ticketUrl": null,
+        "summary": "French singer Zaz returned to Argentina for a Teatro Gran Rex concert, bringing her chanson-pop, soul and jazz-influenced repertoire back to Buenos Aires.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

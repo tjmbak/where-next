@@ -1,0 +1,133 @@
+{
+  "slug": "marrakech",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:35:43.868Z",
+  "responseId": "resp_06776f09cca1a6a50069ff61e01e00819cbf3967d56c0d0003",
+  "searchCalls": 22,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 3,
+    "year": 2026,
+    "notes": "March’s strongest confirmed picks leaned toward Ramadan-season cultural programming and a small cluster of electronic villa and club events rather than major destination festivals.",
+    "events": [
+      {
+        "id": "marrakech-lenvers-listening-sessions-mar-2026",
+        "title": "L'envers Listening Sessions: Kevin Saunderson & Kenny Larkin Specials",
+        "type": "residency",
+        "startDate": "2026-03-02",
+        "endDate": "2026-03-07",
+        "importance": 72,
+        "venueName": "L'envers",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2383193",
+        "ticketUrl": null,
+        "summary": "A Ramadan-adapted week of listening sessions at L'envers, with daily themes including Chicago house, Detroit techno and breakbeat. The program explicitly lists Kenny Larkin's special on 6 March and Kevin Saunderson's special on 7 March.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-premiere-seance-serge-bromberg-2026",
+        "title": "Première Séance - Serge Bromberg",
+        "type": "concert",
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-03",
+        "importance": 64,
+        "venueName": "Institut Français à Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://if-maroc.org/marrakech/evenements/premiere-seance-serge-bromberg/",
+        "ticketUrl": "https://www.wanaut.com/a/premiere-seance-avec-serge-bromberg-cine-concert-a-marrakech/",
+        "summary": "A ciné-concert featuring silent-film restorations accompanied live on piano by Serge Bromberg. The Institut Français listing confirms the 3 March 2026 date, 21:30 start and Marrakech venue.",
+        "genres": []
+      },
+      {
+        "id": "marrakech-la-terre-en-transe-2026",
+        "title": "La Terre en transe",
+        "type": "festival",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 70,
+        "venueName": "Institut Français à Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://if-maroc.org/marrakech/evenements/la-terre-en-transe/",
+        "ticketUrl": null,
+        "summary": "Presented under Les Nuits du Ramadan, Taoufiq Izeddiou's performance brings nine dancers and three musicians together around techno beats and ritual percussion. The official Institut Français page confirms the 7 March 2026 date at 21:30.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-concert-de-poche-opm-2026",
+        "title": "Concert de Poche – Orchestre Philharmonique du Maroc",
+        "type": "concert",
+        "startDate": "2026-03-08",
+        "endDate": "2026-03-08",
+        "importance": 66,
+        "venueName": "Palais Soleiman",
+        "venueId": null,
+        "sourceUrl": "https://www.hitradio.ma/event/concert-de-poche-marrakech-mars-2026",
+        "ticketUrl": "https://www.ticket.ma/ticket/opm/4010/concert-de-poche-ftour-marrakech-mars-2026",
+        "summary": "The Orchestre Philharmonique du Maroc's chamber-format Concert de Poche pairs a small ensemble with a ftour at Palais Soleiman. The listing names Farid Bensaïd on violin and Serge Moukarzel on piano, with Schubert and Beethoven repertoire.",
+        "genres": []
+      },
+      {
+        "id": "marrakech-massuma-babouchka-2026",
+        "title": "Massuma at Babouchka",
+        "type": "club-night",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-19",
+        "importance": 62,
+        "venueName": "Babouchka",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108013114-massuma-at-babouchka?came_from=257",
+        "ticketUrl": null,
+        "summary": "Dubai-based house and Afro-house artist Massuma was listed for a 21:00 show at Babouchka in Hivernage. Bandsintown confirms the date, venue address and Marrakech location.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-le-matin-records-sibil-2026",
+        "title": "Le Matin Records – Sibil & More at Villa Kristy",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 68,
+        "venueName": "Villa Kristy",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/event/le-matin-records-sibil-more-at-villa-kristy-marrakech",
+        "ticketUrl": "https://buy.tidar.ma/event/le-matin-records-sibil-more-at-villa-kristy-marrakech",
+        "summary": "Le Matin Records brought Sibil to Villa Kristy for a limited-capacity electronic party. The Tidar ticketing page confirms 28 March 2026 16:00 through 29 March 2026 04:00, with Yaya, Mendy, Otto, Jakaw and Saül also listed.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-supervibe-alci-madero-2026",
+        "title": "Supervibe presents Alci at Mādero Marrakech",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 70,
+        "venueName": "Villa Marco Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2388412",
+        "ticketUrl": "https://ra.co/events/2388412",
+        "summary": "Supervibe opened its spring season and launched the Mādero concept at Villa Marco with Alci, Arval, Florere, Memed Awad and Moruki. Resident Advisor confirms the 28 March 2026 date, RA ticketing and house/minimal billing.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

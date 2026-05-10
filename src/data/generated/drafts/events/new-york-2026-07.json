@@ -1,0 +1,216 @@
+{
+  "slug": "new-york",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:12:25.778Z",
+  "responseId": "resp_0ede4fc1b2688ea30069ff5c79a9cc819fa2b8f709c6ab4f5a",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually arena-heavy in New York, with major multi-night runs at Madison Square Garden and Barclays Center plus open-air electronic events in Brooklyn.",
+    "events": [
+      {
+        "id": "new-york-bon-jovi-msg-jul-2026",
+        "title": "Bon Jovi — Forever Tour at Madison Square Garden",
+        "type": "concert",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-26",
+        "importance": 92,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/bon-jovi-madison-square-garden-july-2026/3B0063549CCD3286",
+        "ticketUrl": "https://www.msg.com/events-tickets/bon-jovi-madison-square-garden-july-2026/3B0063549CCD3286",
+        "summary": "Bon Jovi bring the Forever Tour to Madison Square Garden for a nine-show July run, with listed dates from July 7 through July 26.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-paul-simon-forest-hills-jul-2026",
+        "title": "Paul Simon — A Quiet Celebration at Forest Hills Stadium",
+        "type": "concert",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-09",
+        "importance": 88,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/series/31425/paul-simon-at-forest-hills-stadium-tickets",
+        "ticketUrl": "https://www.axs.com/series/31425/paul-simon-at-forest-hills-stadium-tickets",
+        "summary": "Paul Simon plays two hometown-area shows at Forest Hills Stadium on July 8 and July 9 as part of A Quiet Celebration.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-boiler-room-friday-2026",
+        "title": "Boiler Room NYC | Friday",
+        "type": "club-night",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 86,
+        "venueName": "New York",
+        "venueId": null,
+        "sourceUrl": "https://boilerroom.tv/session/boiler-room-nyc-26",
+        "ticketUrl": "https://boilerroom.tv/session/boiler-room-nyc-26",
+        "summary": "Boiler Room returns to New York on July 10 with JID, Kenny Beats, Lelo, Noel Spiva, Odalys and TiaCorine announced on the lineup.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-boiler-room-saturday-2026",
+        "title": "Boiler Room NYC | Saturday",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 86,
+        "venueName": "Under the K Bridge",
+        "venueId": null,
+        "sourceUrl": "https://boilerroom.tv/session/boiler-room-new-york-city-saturday/",
+        "ticketUrl": "https://boilerroom.tv/session/boiler-room-new-york-city-saturday/",
+        "summary": "Boiler Room’s added Saturday NYC event features KI/KI, Interplanetary Criminal, ØTTA, Kevin Saunderson and more, with the event dated July 11, 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-pleasantville-music-festival-2026",
+        "title": "20th Annual Pleasantville Music Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 76,
+        "venueName": "Parkway Field",
+        "venueId": null,
+        "sourceUrl": "https://www.pleasantvillemusicfestival.com/",
+        "ticketUrl": "https://www.pleasantvillemusicfestival.com/tickets",
+        "summary": "The 20th Annual Pleasantville Music Festival is confirmed for July 11, 2026, with featured artists including OK Go and Old 97's listed by the festival.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-ariana-grande-barclays-jul-2026",
+        "title": "Ariana Grande — the eternal sunshine tour",
+        "type": "concert",
+        "startDate": "2026-07-12",
+        "endDate": "2026-07-19",
+        "importance": 94,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/ariana-grande-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/ariana-grande-2026",
+        "summary": "Ariana Grande brings the eternal sunshine tour to Barclays Center for five Brooklyn dates: July 12, 13, 16, 18 and 19.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-adriatique-present-x-2026",
+        "title": "Teksupport: Adriatique present X",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 83,
+        "venueName": "Brooklyn Army Terminal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2370344",
+        "ticketUrl": "https://ra.co/events/2370344",
+        "summary": "Teksupport hosts Adriatique present X at Brooklyn Army Terminal on July 18, 2026, for an open-air afternoon-to-evening electronic event.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-noah-kahan-citi-field-2026",
+        "title": "Noah Kahan — The Great Divide Tour at Citi Field",
+        "type": "concert",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-19",
+        "importance": 89,
+        "venueName": "Citi Field",
+        "venueId": null,
+        "sourceUrl": "https://www.mlb.com/mets/tickets/concerts/noah-kahan",
+        "ticketUrl": "https://www.mlb.com/mets/tickets/concerts/noah-kahan",
+        "summary": "Noah Kahan’s The Great Divide Tour plays Citi Field on July 18 and 19, with Gigi Perez and Annabelle Dinda listed as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-shakira-barclays-jul-2026",
+        "title": "Shakira — Las Mujeres Ya No Lloran World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-20",
+        "endDate": "2026-07-21",
+        "importance": 91,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/shakira-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/shakira-2026",
+        "summary": "Shakira brings Las Mujeres Ya No Lloran World Tour 2026 to Barclays Center for two Brooklyn shows on July 20 and 21.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-phish-msg-jul-2026",
+        "title": "Phish at Madison Square Garden",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-29",
+        "importance": 89,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/phish-madison-square-garden-july-2026/3B00644DC1DC6EB2",
+        "ticketUrl": "https://www.msg.com/events-tickets/phish-madison-square-garden-july-2026/3B00644DC1DC6EB2",
+        "summary": "Phish return to Madison Square Garden for five July shows on July 22, 24, 25, 27 and 29, continuing their long-running history at the venue.",
+        "genres": []
+      },
+      {
+        "id": "new-york-daniel-caesar-barclays-2026",
+        "title": "Daniel Caesar — Son of Spergy Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "importance": 84,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/daniel-caesar-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/daniel-caesar-2026",
+        "summary": "Daniel Caesar brings the Son of Spergy Tour 2026 to Barclays Center on July 30, with Faye Webster listed as support.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-j-cole-barclays-2026",
+        "title": "J. Cole — The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-01",
+        "importance": 90,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/j-cole-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/j-cole-2026",
+        "summary": "J. Cole brings The Fall-Off Tour to Barclays Center for two shows beginning Friday, July 31 and continuing Saturday, August 1.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

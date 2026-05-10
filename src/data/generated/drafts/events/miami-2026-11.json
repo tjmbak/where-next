@@ -1,0 +1,213 @@
+{
+  "slug": "miami",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:04:20.441Z",
+  "responseId": "resp_0e237db659363c910069ff5a90ae0c819da437be262b157942",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 11,
+    "year": 2026,
+    "notes": "Confirmed November 2026 music programming is currently led by arena/theater concerts and major South Florida venue shows, with few club or festival lineups announced this far out.",
+    "events": [
+      {
+        "id": "miami-rush-hard-rock-nov-2026",
+        "title": "RUSH: Fifty Something",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-07",
+        "importance": 88,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/hollywood/events/rush",
+        "ticketUrl": "https://casino.hardrock.com/hollywood/events/rush",
+        "summary": "RUSH brings its Fifty Something tour to Hard Rock Live in nearby Hollywood for two confirmed performances on November 5 and November 7, 2026. The tour celebrates the band’s legacy with Geddy Lee and Alex Lifeson honoring Neil Peart.",
+        "genres": []
+      },
+      {
+        "id": "miami-il-volo-hard-rock-2026",
+        "title": "Il Volo Live in Concert",
+        "type": "concert",
+        "startDate": "2026-11-10",
+        "endDate": "2026-11-10",
+        "importance": 75,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/hollywood/events/il-volo",
+        "ticketUrl": "https://casino.hardrock.com/hollywood/events/il-volo",
+        "summary": "Classical crossover pop trio Il Volo performs at Hard Rock Live in Hollywood on November 10, 2026. The venue listing confirms the 8:00 PM concert and describes the group’s international pop-classical reach.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-doja-cat-ma-vie-2026",
+        "title": "Doja Cat — Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 88,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/doja-cat-1",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/doja-cat-1",
+        "summary": "Doja Cat brings her Ma Vie World Tour to Kaseya Center on November 11, 2026. The arena date is confirmed by Kaseya Center with a 7:30 PM start time.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-the-neighbourhood-wourld-2026",
+        "title": "The Neighbourhood — The Wourld Tour",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 82,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/the-neighbourhood-1",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/the-neighbourhood-1",
+        "summary": "The Neighbourhood plays Kaseya Center on November 12, 2026, on The Wourld Tour. Kaseya Center confirms special guest Nessa Barrett and a 7:00 PM event start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-oar-hard-rock-2026",
+        "title": "O.A.R. — Three Decades Tour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 72,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/hollywood/events/oar",
+        "ticketUrl": "https://casino.hardrock.com/hollywood/events/oar",
+        "summary": "O.A.R. performs at Hard Rock Live in Hollywood on November 13, 2026, as part of the band’s Three Decades Tour. The venue confirms the Friday 6:30 PM show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-el-cuarteto-de-nos-2026",
+        "title": "El Cuarteto de Nos",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 74,
+        "venueName": "The Fillmore Miami Beach at The Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/el-cuarteto-de-nos/36365",
+        "ticketUrl": null,
+        "summary": "Uruguayan Latin alternative band El Cuarteto de Nos performs at The Fillmore Miami Beach on November 14, 2026. The listing confirms an 8:00 PM start at the Miami Beach theater.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-ub40-hard-rock-2026",
+        "title": "UB40 — The Unstoppable Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-15",
+        "endDate": "2026-11-15",
+        "importance": 73,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/en/hollywood/newsroom/2026/01/ub40s-the-unstoppable-tour-is-coming-to-hard-rock-live-at-seminole-hard-rock-hotel-and-casino-in-hollywood-fla-sunday-nov-15-at-7-pm",
+        "ticketUrl": null,
+        "summary": "UB40 closes its North American The Unstoppable Tour with a confirmed Hard Rock Live performance in Hollywood on November 15, 2026. The venue announcement lists the Sunday show at 7:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-jack-white-live-2026",
+        "title": "Jack White Live 2026",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-18",
+        "importance": 84,
+        "venueName": "The Fillmore Miami Beach at The Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/jack-white-live-2026/40019",
+        "ticketUrl": "https://www.ticketmaster.com/jack-white-live-2026-miami-beach-florida-11-17-2026/event/0D006487007D9ECA",
+        "summary": "Jack White is confirmed for two nights at The Fillmore Miami Beach on November 17 and 18, 2026. The listing frames the shows as part of his expanded 2026 tour.",
+        "genres": []
+      },
+      {
+        "id": "miami-zayn-konnakol-2026",
+        "title": "Zayn — The Konnakol Tour",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 86,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/zayn",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/zayn",
+        "summary": "Zayn brings The Konnakol Tour to Kaseya Center on November 20, 2026. The venue confirms the Friday arena show with an 8:00 PM start time.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-buena-vista-orchestra-2026",
+        "title": "Buena Vista Orchestra",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 72,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://lpr.com/lpr_events/bvo26miami/",
+        "ticketUrl": "https://lpr.com/lpr_events/bvo26miami/",
+        "summary": "LPR presents Buena Vista Orchestra at Miami Beach Bandshell on November 21, 2026. The event page confirms an all-ages 8:00 PM show with doors at 7:00 PM.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-duelo-bandshell-2026",
+        "title": "Duelo",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 70,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://miamibeachbandshell.com/events",
+        "ticketUrl": null,
+        "summary": "Grupo Duelo performs at Miami Beach Bandshell on November 28, 2026. The venue calendar confirms the 8:00 PM Saturday show by the romantic norteño band.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-aitana-fillmore-2026",
+        "title": "Aitana — Cuarto Azul World Tour",
+        "type": "concert",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 80,
+        "venueName": "The Fillmore Miami Beach at The Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_F28Qvf6/aitana",
+        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_F28Qvf6/aitana",
+        "summary": "Spanish pop artist Aitana brings her Cuarto Azul World Tour to The Fillmore Miami Beach on November 29, 2026. Live Nation confirms the Sunday 8:00 PM performance at the Miami Beach venue.",
+        "genres": [
+          "latin",
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

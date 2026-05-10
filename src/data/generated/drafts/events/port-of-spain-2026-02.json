@@ -1,0 +1,214 @@
+{
+  "slug": "port-of-spain",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:52:00.595Z",
+  "responseId": "resp_07519e6d096e24200069ff65ca8b348190abb79386d7459e57",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "port-of-spain",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Port of Spain was dominated by Trinidad Carnival week, with the strongest verified music programming centered on steelpan, calypso, mas and soca fetes around Queen’s Park Savannah and nearby venues.",
+    "events": [
+      {
+        "id": "port-of-spain-panorama-semis-savannah-party-2026",
+        "title": "National Panorama 2026 Medium & Large Conventional Band Semi-Finals: Savannah Party",
+        "type": "festival",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-01",
+        "importance": 86,
+        "venueName": "Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.pantrinbago.co.tt/Events/TabId/140/ArtMID/776/ArticleID/5564/National-Medium-Large-Semi-Finals-Savannah-Party.aspx",
+        "ticketUrl": null,
+        "summary": "Pan Trinbago’s Savannah Party presented the Medium and Large Conventional Band Semi-Finals for National Panorama 2026, with Grand Stand viewing and North Stand party options at Queen’s Park Savannah.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-panorama-medium-finals-2026",
+        "title": "National Panorama 2026 Medium Conventional Band Finals",
+        "type": "festival",
+        "startDate": "2026-02-09",
+        "endDate": "2026-02-09",
+        "importance": 78,
+        "venueName": "Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.pantrinbago.co.tt/%3B/Panorama/Panorama2018/TheBands/TabId/221/ArtMID/789/ArticleID/5565/National-Medium-Conventional-Finals.aspx",
+        "ticketUrl": null,
+        "summary": "The rescheduled National Panorama Medium Conventional Band Finals took place at Queen’s Park Savannah with free public admission and featured the country’s leading medium steel orchestras.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-monday-madness-soca-insanity-2026",
+        "title": "Monday Madness 2026: Soca Insanity",
+        "type": "concert",
+        "startDate": "2026-02-09",
+        "endDate": "2026-02-10",
+        "importance": 85,
+        "venueName": "Queen’s Park Oval",
+        "venueId": null,
+        "sourceUrl": "https://machelmontano.com/past-shows/",
+        "ticketUrl": "https://next.trinijunglejuice.com/events/monday-madness-2026-soca-insanity",
+        "summary": "Machel Montano’s tour listing confirms Monday Madness 2026 at Queen’s Park Oval; the Carnival-week concert/fete was billed as Soca Insanity and featured Machel with The Monk Band.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-izwe-festival-2026",
+        "title": "KES IZWE Festival 2026: Roots & Riddim",
+        "type": "festival",
+        "startDate": "2026-02-10",
+        "endDate": "2026-02-10",
+        "importance": 88,
+        "venueName": "Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.izwefestival.com/",
+        "ticketUrl": "https://www.izwefestival.com/",
+        "summary": "KES’s IZWE Festival returned to Queen’s Park Savannah under the Roots & Riddim banner, presenting a Carnival festival experience built around live music, food, art and culture.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-hyatt-lime-2026",
+        "title": "LIME 2026: The Ultimate Carnival Fete",
+        "type": "club-night",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-11",
+        "importance": 86,
+        "venueName": "Hyatt Regency Trinidad",
+        "venueId": null,
+        "sourceUrl": "https://hyattlime.com/",
+        "ticketUrl": "https://www.ticketgateway.com/event/completed/hyattlime2026",
+        "summary": "LIME 2026 was the Hyatt Regency Trinidad’s ultra all-inclusive Carnival Wednesday fete, with a 2026 entertainment bill including Kes The Band, Ravi B & Karma, Farmer Nappy, Destra, Mical Teja, Machel Montano and others.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-punchy-wednesday-2026",
+        "title": "Punchy Wednesday 2026: The Championship",
+        "type": "club-night",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-12",
+        "importance": 75,
+        "venueName": "Queen’s Park Oval",
+        "venueId": null,
+        "sourceUrl": "https://next.trinijunglejuice.com/events/punchy-wednesday-2026-the-championship",
+        "ticketUrl": null,
+        "summary": "Punchy Wednesday 2026 was a Carnival Wednesday all-inclusive cooler fete and DJ/band performance event at Queen’s Park Oval, listed by TriniJungleJuice from 9 PM to 4 AM.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-tribe-ignite-2026",
+        "title": "TRIBE Ignite: Carnival Thursday",
+        "type": "club-night",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-13",
+        "importance": 80,
+        "venueName": "Hasely Crawford Stadium Training Field",
+        "venueId": null,
+        "sourceUrl": "https://socaevents.co/events/tribe-ignite-carnival-thursday/",
+        "ticketUrl": "https://islandetickets.com/",
+        "summary": "TRIBE Ignite was a Carnival Thursday drinks-inclusive fete at the Hasely Crawford Stadium Training Field, with the event page highlighting Kes The Band as part of the entertainment lineup.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "port-of-spain-panorama-large-finals-2026",
+        "title": "National Panorama 2026 Large Conventional Band Finals",
+        "type": "festival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 92,
+        "venueName": "Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.pantrinbago.co.tt/Events/TabId/140/ArtMID/776/ArticleID/5566/National-Large-Conventional-Finals.aspx",
+        "ticketUrl": null,
+        "summary": "Pan Trinbago’s Large Conventional Band Finals brought eleven major steel orchestras to Queen’s Park Savannah for the flagship National Panorama final on Carnival Saturday.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-dimanche-gras-2026",
+        "title": "Dimanche Gras 2026",
+        "type": "festival",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-16",
+        "importance": 92,
+        "venueName": "Carnival City, Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.ttcbacarnival.com/event/dimanche-gras-2026-8/register",
+        "ticketUrl": "https://www.ttcbacarnival.com/event/dimanche-gras-2026-8/register",
+        "summary": "Dimanche Gras 2026 was staged at Carnival City, Queen’s Park Savannah from Sunday night into Monday morning, combining pageantry, music, calypso and Carnival royalty presentations before Carnival Monday.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-dirty-dozen-jouvert-2026",
+        "title": "J’ouvert Morning 2026 with Dirty Dozen J’ouvert",
+        "type": "carnival",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 78,
+        "venueName": "Port of Spain",
+        "venueId": null,
+        "sourceUrl": "https://www.dirtydozenjouvert.com/event-details-registration/jouvert-morning-2026-with-ddj",
+        "ticketUrl": "https://www.dirtydozenjouvert.com/event-details-registration/jouvert-morning-2026-with-ddj",
+        "summary": "Dirty Dozen J’ouvert’s 2026 all-inclusive J’ouvert experience took place in Port of Spain on Carnival Monday morning, including the DDJ pre-party, road experience and signature after-party.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-senior-parade-bands-2026",
+        "title": "Senior Parade of the Bands 2026",
+        "type": "carnival",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-17",
+        "importance": 99,
+        "venueName": "Carnival City, Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.ttcbacarnival.com/event/senior-parade-of-bands-7/register",
+        "ticketUrl": "https://www.ttcbacarnival.com/event/senior-parade-of-bands-7/register",
+        "summary": "Presented by the Trinidad and Tobago Carnival Bands Association, the Senior Parade of the Bands was the two-day centrepiece of Trinidad Carnival 2026, with masquerade bands crossing at Carnival City, Queen’s Park Savannah.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-carnival-lagniappe-2026",
+        "title": "Carnival Lagniappe 2026",
+        "type": "festival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 76,
+        "venueName": "Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.pantrinbago.co.tt/Events/TabId/140/ArtMID/776/ArticleID/7625/Carnival-Lagniappe.aspx",
+        "ticketUrl": null,
+        "summary": "Carnival Lagniappe 2026 was billed by Pan Trinbago as a post-Carnival grand finale featuring champions of Carnival across steelpan, mas, calypso, soca and related traditions.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

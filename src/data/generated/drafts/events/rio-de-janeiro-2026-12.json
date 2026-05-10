@@ -1,0 +1,68 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:31:07.375Z",
+  "responseId": "resp_0c7348b422c643a20069ff60fe1a808194b24647013d7da34a",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 12,
+    "year": 2026,
+    "notes": "Only a small number of December 2026 listings are confirmed this far out, with the strongest verified activity clustering around a major stadium concert and New Year’s Eve parties.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-xuxa-ultimo-voo-2026",
+        "title": "Xuxa — O Último Voo da Nave",
+        "type": "concert",
+        "startDate": "2026-12-20",
+        "endDate": "2026-12-20",
+        "importance": 84,
+        "venueName": "Estádio Maracanã",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/xuxa-o-ultimo-voo-da-nave-estadio-maracana-21438854/",
+        "ticketUrl": "https://www.eventim.com.br/event/xuxa-o-ultimo-voo-da-nave-estadio-maracana-21438854/",
+        "summary": "Xuxa brings the stadium-scale “O Último Voo da Nave” show to Maracanã on 20 December 2026 at 19:00, with the event page listing 30e as promoter and tickets via Eventim.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-reveillon-maravilha-belo-2026",
+        "title": "Réveillon Maravilha 2027 com Belo",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 76,
+        "venueName": "MAM Rio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticket360.com.br/evento/32490/ingressos-para-reveillon-maravilha-2027-com-belo",
+        "ticketUrl": "https://www.ticket360.com.br/evento/32490/ingressos-para-reveillon-maravilha-2027-com-belo",
+        "summary": "Ticket360 lists Réveillon Maravilha 2027 with Belo at MAM Rio on 31 December 2026, opening at 21:00, with all-inclusive ticket areas.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-reveillon-tropical-2026",
+        "title": "Réveillon Tropical 2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 80,
+        "venueName": "Brava Arena Jockey",
+        "venueId": null,
+        "sourceUrl": "https://mareticket.com.br/produto/reveillon-tropical/",
+        "ticketUrl": "https://mareticket.com.br/produto/reveillon-tropical/",
+        "summary": "Maré Ticket lists Réveillon Tropical at Brava Arena Jockey on 31 December 2026, with Anitta billed alongside Fica Comigo, +5521, Adorofrozen Crew with John Faily, Yasmin Vilhena and more.",
+        "genres": [
+          "pop",
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

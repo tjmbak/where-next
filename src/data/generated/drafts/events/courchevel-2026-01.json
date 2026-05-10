@@ -1,0 +1,119 @@
+{
+  "slug": "courchevel",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:37:43.842Z",
+  "responseId": "resp_00d0622a190d12660069ff626ef198819785d2db07f78faab7",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "courchevel",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026’s confirmed music calendar is strongest in Courchevel 1850 and lift-linked Méribel, with luxury-club electronic bookings, La Folie Douce après-ski, and a few cultural concerts/festivals.",
+    "events": [
+      {
+        "id": "courchevel-sacred-music-concert-2026",
+        "title": "Concert de musique sacrée - Voix et piano / orgue",
+        "type": "concert",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "importance": 60,
+        "venueName": "Chapelle ND de l'Assomption",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/undefined-7611456",
+        "ticketUrl": null,
+        "summary": "Maestro Andrei Chevtchouk and Tatiana Derache perform a sacred-music program for voice and piano/organ at the Chapelle ND de l'Assomption in Courchevel 1850. The official Courchevel listing states the date and time as January 1, 2026, 7–8 pm.",
+        "genres": []
+      },
+      {
+        "id": "courchevel-marten-lou-la-mangeoire-2026",
+        "title": "Marten Lou at La Mangeoire",
+        "type": "club-night",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-14",
+        "importance": 78,
+        "venueName": "La Mangeoire",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107643245?app_id=szm_feed&came_from=283",
+        "ticketUrl": null,
+        "summary": "Melodic/deep house artist Marten Lou is listed for La Mangeoire in Courchevel on January 14, 2026 at 3:00 pm. The listing places the show at Rue Park City, Courchevel.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-marina-diniz-folie-douce-2026",
+        "title": "DJ Marina Diniz at La Folie Douce Méribel-Courchevel",
+        "type": "club-night",
+        "startDate": "2026-01-13",
+        "endDate": "2026-01-13",
+        "importance": 76,
+        "venueName": "La Folie Douce Méribel-Courchevel",
+        "venueId": "la-folie-douce-courchevel",
+        "sourceUrl": "https://www.meribel.net/en/apidae/dj-marina-diniz-2/",
+        "ticketUrl": null,
+        "summary": "Brazilian DJ Marina Diniz takes over the clubbing session at La Folie Douce Méribel-Courchevel, with DJ Ornella listed for the warm-up. Méribel’s official listing gives January 13, 2026, 3–4:30 pm, with the warm-up from 1:30–2:30 pm.",
+        "genres": [
+          "house",
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "courchevel-viva-brasil-2026",
+        "title": "Viva Brasil!",
+        "type": "festival",
+        "startDate": "2026-01-20",
+        "endDate": "2026-01-22",
+        "importance": 64,
+        "venueName": "Front de neige 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/viva-brasil-7630819",
+        "ticketUrl": null,
+        "summary": "Courchevel’s official Brazilian Week program brings music, sunny rhythms, festive entertainment and workshops to the Courchevel 1850 snow front. The event is listed for January 20–22, 2026, from 3:30–5:30 pm each day.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "courchevel-jazz-variations-elliavir-2026",
+        "title": "Festival Jazz Variations: Elliavir in Quintet",
+        "type": "festival",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 70,
+        "venueName": "Auditorium de Méribel",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/en/apidae/festival-jazz-variations-elliavir-in-quintet/",
+        "ticketUrl": null,
+        "summary": "Elliavir performs as part of Festival Jazz Variations, blending jazz, world music, Celtic chant and pop with Oriental and Nordic influences. Méribel’s official listing confirms January 29, 2026, 9–10:30 pm at the Auditorium.",
+        "genres": [
+          "jazz",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "courchevel-maxi-meraki-la-mangeoire-2026",
+        "title": "MAXI MERAKI at La Mangeoire",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 79,
+        "venueName": "La Mangeoire",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107721229-maxi-meraki-at-la-mangeoire?came_from=274",
+        "ticketUrl": null,
+        "summary": "Deep melodic house and techno artist MAXI MERAKI is listed for La Mangeoire in Courchevel on January 31, 2026 at 10:00 pm. The Bandsintown listing identifies the venue as La Mangeoire on Rue Park City, Courchevel.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

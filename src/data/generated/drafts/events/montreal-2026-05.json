@@ -1,0 +1,227 @@
+{
+  "slug": "montreal",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:27:54.253Z",
+  "responseId": "resp_0a07dfa6827362860069ff6015699c81929f5b80c89735a2ad",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is stacked around early-summer festivals, Piknic’s outdoor electronic kickoff, Grand Prix-adjacent Race Week parties, and arena-level Latin/pop concerts.",
+    "events": [
+      {
+        "id": "montreal-santa-teresa-may-2026",
+        "title": "Santa Teresa Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-10",
+        "importance": 78,
+        "venueName": "Sainte-Thérèse village venues",
+        "venueId": null,
+        "sourceUrl": "https://www.santateresafest.ca/shows/",
+        "ticketUrl": "https://www.santateresafest.ca/en/festival/",
+        "summary": "Santa Teresa runs May 8–10 in Sainte-Thérèse, just north of Montreal, with main-stage sets including Death From Above 1979, Wavves, Elisapie, U.S. Girls, Bon Enfant and more.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-palomosa-may-2026",
+        "title": "Palomosa Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-16",
+        "importance": 88,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://palomosa.com/en/programmation",
+        "ticketUrl": "https://palomosa.com/en/",
+        "summary": "Palomosa returns to Parc Jean-Drapeau from May 14–16 with a genre-blurring lineup led by X-Coast, MGMT (DJ Set), fakemink, Thaiboy Digital, Dylan Brady, Doss and more.",
+        "genres": [
+          "electronic",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "montreal-pinkpantheress-2026",
+        "title": "PinkPantheress with Cece Natalie",
+        "type": "concert",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-14",
+        "importance": 82,
+        "venueName": "L'Olympia",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/pinkpantheress?code=e007102",
+        "ticketUrl": "https://evenko.ca/en/events/mtelus/pinkpantheress?code=e007102",
+        "summary": "PinkPantheress plays Montreal on May 14 with Cece Natalie, bringing her UK pop, dance and alt-R&B sound to L'Olympia.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-pouzza-fest-2026",
+        "title": "Pouzza Fest 14",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-17",
+        "importance": 86,
+        "venueName": "Downtown Montreal venues",
+        "venueId": null,
+        "sourceUrl": "https://pouzzafest.com/en/",
+        "ticketUrl": "https://pouzzafest.com/en/tickets/",
+        "summary": "Pouzza Fest’s 14th edition takes over downtown Montreal May 15–17 with more than 150 bands. Confirmed headliners include PUP, Buzzcocks, Bedouin Soundclash, Baroness, The Planet Smashers, The Sainte Catherines, Cancer Bats and more.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-piknic-opening-may-2026",
+        "title": "Piknic Électronik Opening: MCRDJ, Jordan Gardner, Syana and AMPER",
+        "type": "residency",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 84,
+        "venueName": "Piknic Electronik",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-piknic-17-05-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/event/2026-piknic-17-05-2026",
+        "summary": "Piknic Électronik opens its 2026 season at Jardin Le Petit Prince in Parc Jean-Drapeau with MCRDJ, Jordan Gardner, Syana and an AMPER stage takeover.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-solomun-2026",
+        "title": "OfF Piknic: Solomun",
+        "type": "club-night",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-21",
+        "importance": 88,
+        "venueName": "Piknic Electronik",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-21-05-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-21-05-2026",
+        "summary": "Solomun opens the OfF Piknic season on May 21 with an outdoor evening set at Jardin Le Petit Prince in Parc Jean-Drapeau.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-blondish-race-week-2026",
+        "title": "BLOND:ISH — Montreal Race Week 2026",
+        "type": "club-night",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-21",
+        "importance": 82,
+        "venueName": "Grand Quai du Port de Montréal",
+        "venueId": null,
+        "sourceUrl": "https://www.thisishouse.ca/en",
+        "ticketUrl": "https://www.tixr.com/groups/thisishouse",
+        "summary": "THIS IS HOUSE launches its Montreal Race Week run at Grand Quai on May 21 with BLOND:ISH, plus support from Nikitina, Simon Fitch and Tommy Kimpton.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-chet-faker-2026",
+        "title": "Chet Faker",
+        "type": "concert",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 76,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/chet-faker?code=e006587",
+        "ticketUrl": "https://evenko.ca/en/events/mtelus/chet-faker?code=e006587",
+        "summary": "Chet Faker plays MTELUS on May 24 in an OSHEAGA-presented Montreal date.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-khalid-lauv-2026",
+        "title": "Khalid with Lauv",
+        "type": "concert",
+        "startDate": "2026-05-26",
+        "endDate": "2026-05-26",
+        "importance": 80,
+        "venueName": "Place Bell",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/place-bell/khalid?code=e007096",
+        "ticketUrl": "https://evenko.ca/en/events/place-bell/khalid?code=e007096",
+        "summary": "Khalid brings the It’s Always Summer Somewhere Tour to nearby Place Bell in Laval on May 26 with Lauv.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-romeo-santos-prince-royce-2026",
+        "title": "Romeo Santos & Prince Royce",
+        "type": "concert",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-28",
+        "importance": 84,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/romeo-santos-prince-royce?code=e007179",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/romeo-santos-prince-royce?code=e007179",
+        "summary": "Bachata stars Romeo Santos and Prince Royce bring their Mejor Tarde Que Nunca Tour 2026 to the Bell Centre on May 28.",
+        "genres": [
+          "latin",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-eric-prydz-2026",
+        "title": "OfF Piknic: Eric Prydz, Qrion and Laure",
+        "type": "club-night",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 89,
+        "venueName": "Piknic Electronik",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-29-05-2026",
+        "ticketUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-29-05-2026",
+        "summary": "Eric Prydz headlines OfF Piknic at Parc Jean-Drapeau on May 29, joined by Qrion and Laure for a large-scale outdoor electronic show.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "montreal-sara-landry-2026",
+        "title": "Sara Landry at Olympic Stadium",
+        "type": "club-night",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 86,
+        "venueName": "Olympic Stadium",
+        "venueId": null,
+        "sourceUrl": "https://parcolympique.qc.ca/en/what-to-do/sara-landy-at-olympic-stadium/",
+        "ticketUrl": "https://www.tixr.com/groups/thisishouse",
+        "summary": "Sara Landry brings a major hard-techno event to Montreal’s Olympic Stadium on May 29, presented in the city’s large-format electronic-event lane.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

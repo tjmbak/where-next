@@ -1,0 +1,217 @@
+{
+  "slug": "tokyo",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:43:45.032Z",
+  "responseId": "resp_0b9e49e7e7431f6f0069ff63ddf02c8194ad3e10ac57a940e0",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is already anchored by Summer Sonic in Chiba/Makuhari, with a strong run of arena, Zepp, and Budokan-scale Japanese and international concerts around Tokyo.",
+    "events": [
+      {
+        "id": "tokyo-phantom-siita-zepp-2026",
+        "title": "Phantom Siita Zepp TOUR 2026 “Phantom Land”",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 70,
+        "venueName": "Zepp Haneda (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://phantomsiita.com/news/detail/245",
+        "ticketUrl": "https://l-tike.com/",
+        "summary": "Phantom Siita’s first national Zepp tour closes its announced run with a Tokyo date at Zepp Haneda. The official announcement lists the August 1 Tokyo show and 16:30/17:30 open/start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-jaejoong-yokohama-2026",
+        "title": "2026 JAEJOONG ZEPP & HALL LIVE TOUR – 4% –",
+        "type": "concert",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 78,
+        "venueName": "Pacifico Yokohama National Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.jaejoong-zepphalltour2026.jp/",
+        "ticketUrl": "https://l-tike.com/",
+        "summary": "Jaejoong’s official 2026 Zepp & Hall tour schedule lists two August 2 performances at Pacifico Yokohama National Hall. Yokohama is very near Tokyo and commonly included in the Greater Tokyo live circuit.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-skapara-saucy-dog-2026",
+        "title": "Tokyo Ska Paradise Orchestra Live House TOUR “VerSus Carnival” with Saucy Dog",
+        "type": "concert",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 74,
+        "venueName": "Zepp Haneda (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27988",
+        "ticketUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27988",
+        "summary": "Tokyo Ska Paradise Orchestra brings its “VerSus Carnival” live-house tour to Zepp Haneda with guest Saucy Dog. Hot Stuff Promotion lists the date, venue, and 19:00 start.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-skapara-hiromi-2026",
+        "title": "Tokyo Ska Paradise Orchestra Live House TOUR “VerSus Carnival” with Hiromi",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 80,
+        "venueName": "Zepp Haneda (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27989",
+        "ticketUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27989",
+        "summary": "Tokyo Ska Paradise Orchestra’s second Zepp Haneda night features jazz pianist Hiromi as guest. The promoter page confirms August 7 at Zepp Haneda with 18:00 doors and 19:00 start.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-kotori-zepp-2026",
+        "title": "KOTORI pre. “12” Tour",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 65,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://smash-jpn.com/live/?id=4673",
+        "ticketUrl": "https://w.pia.jp/t/kotori/",
+        "summary": "KOTORI’s 2026 one-man tour includes a Tokyo stop at Zepp DiverCity. SMASH lists the August 7 date, venue, and 18:00/19:00 open/start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-t-bolan-budokan-2026",
+        "title": "T-BOLAN LAST LIVE FINAL CHAPTER 2026.08.10 NIPPON BUDOKAN “This Journey Never Ends”",
+        "type": "concert",
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-10",
+        "importance": 80,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://arashi.fanmo.jp/info.php?id=3195",
+        "ticketUrl": null,
+        "summary": "T-BOLAN’s last-live final chapter is confirmed for Nippon Budokan on August 10. The official information page lists the Budokan date and 17:30/18:30 open/start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-summer-sonic-2026",
+        "title": "SUMMER SONIC 2026 Tokyo",
+        "type": "festival",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-16",
+        "importance": 98,
+        "venueName": "ZOZO Marine Stadium & Makuhari Messe",
+        "venueId": null,
+        "sourceUrl": "https://www.summersonic.com/en/lineup/",
+        "ticketUrl": "https://www.summersonic.com/en/tickets/tokyo/",
+        "summary": "Summer Sonic Tokyo’s official 2026 lineup page confirms the three Tokyo dates and daily artist bills, including The Strokes, Jennie, Ado, David Byrne, L’Arc-en-Ciel, Jamiroquai, BABYMETAL, LE SSERAFIM, and more. The Tokyo info page lists ZOZO Marine Stadium and Makuhari Messe as the venues.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-natural-lag-budokan-2026",
+        "title": "Natural Lag Live Tour 2026 -Special Edition-",
+        "type": "concert",
+        "startDate": "2026-08-16",
+        "endDate": "2026-08-16",
+        "importance": 74,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://natural-lag.jp/contents/1046168",
+        "ticketUrl": null,
+        "summary": "Natural Lag’s official site lists its special edition tour date at Nippon Budokan on August 16. The page confirms the Tokyo Budokan show with 17:00/18:00 open/start time.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-kana-nishino-heartbeat-2026",
+        "title": "Kana Nishino TOUR 2026 “HEART BEAT”",
+        "type": "concert",
+        "startDate": "2026-08-19",
+        "endDate": "2026-08-19",
+        "importance": 80,
+        "venueName": "Tokyo International Forum Hall A",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27888",
+        "ticketUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27888",
+        "summary": "Kana Nishino’s 2026 national hall tour includes an August 19 Tokyo International Forum Hall A performance. Hot Stuff Promotion confirms the date, venue, and 17:30/18:30 open/start time.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-metalverse-more-star-2026",
+        "title": "METALVERSE / MORE STAR “VERSE BY VERSE #1”",
+        "type": "concert",
+        "startDate": "2026-08-25",
+        "endDate": "2026-08-25",
+        "importance": 72,
+        "venueName": "Zepp Haneda (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py28152",
+        "ticketUrl": "https://w.pia.jp/",
+        "summary": "METALVERSE and MORE STAR are confirmed for “VERSE BY VERSE #1” at Zepp Haneda. The promoter listing gives the August 25 date, venue, and 18:00/19:00 open/start time.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-alexandros-you-are-welcome-2026",
+        "title": "[Alexandros] YOU ARE WELCOME TOUR",
+        "type": "concert",
+        "startDate": "2026-08-26",
+        "endDate": "2026-08-26",
+        "importance": 78,
+        "venueName": "Zepp Haneda (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://alexandros.jp/contents/1023516",
+        "ticketUrl": "https://eplus.tickets/alexandros-ib/",
+        "summary": "[Alexandros]’ official site lists an August 26 Tokyo show at Zepp Haneda as part of the YOU ARE WELCOME TOUR. The schedule confirms 18:00 doors and 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-electric-callboy-2026",
+        "title": "Electric Callboy TANZNEID WORLD TOUR JAPAN",
+        "type": "concert",
+        "startDate": "2026-08-31",
+        "endDate": "2026-08-31",
+        "importance": 82,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/artist/2026/08ecb/",
+        "ticketUrl": "https://eplus.tickets/electric_callboy/",
+        "summary": "Electric Callboy’s official Japan tour page confirms a Tokyo Garden Theater date on August 31. The listing is for the band’s TANZNEID WORLD TOUR JAPAN and includes overseas ticketing information.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

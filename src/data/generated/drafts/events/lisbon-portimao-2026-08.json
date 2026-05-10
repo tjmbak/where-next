@@ -1,0 +1,121 @@
+{
+  "slug": "lisbon-portimao",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:48:12.927Z",
+  "responseId": "resp_02ff904f1421f2b00069ff56bc3f2c819e8e3dae8e4d501e56",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lisbon-portimao",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is anchored by Lisbon’s late-summer festival run, with major outdoor festivals, jazz programming, and Algarve/Portimão beach-season concerts confirmed.",
+    "events": [
+      {
+        "id": "lisbon-portimao-jazz-em-agosto-2026",
+        "title": "Jazz em Agosto 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-09",
+        "importance": 82,
+        "venueName": "Fundação Calouste Gulbenkian",
+        "venueId": null,
+        "sourceUrl": "https://gulbenkian.pt/jazzemagosto/agenda/",
+        "ticketUrl": "https://gulbenkian.pt/jazzemagosto/agenda/",
+        "summary": "The 42nd edition of Jazz em Agosto presents 14 concerts at Fundação Calouste Gulbenkian, including Joachim Kühn, Anna Webber: Shimmer Wince, Ches Smith: Clone Row, Chicago Underground Duo and SML. The official agenda lists concerts from 31 July through 9 August 2026.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-ye-live-portugal-2026",
+        "title": "Ye - Live in Portugal",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 88,
+        "venueName": "Estádio Algarve",
+        "venueId": null,
+        "sourceUrl": "https://ye.bol.pt/Comprar/Bilhetes/175313-ye-estadio_algarve/",
+        "ticketUrl": "https://ye.bol.pt/Comprar/Bilhetes/175313-ye-estadio_algarve/",
+        "summary": "Ye, formerly Kanye West, is listed for a one-night Portugal concert at Estádio Algarve on 7 August 2026. The official BOL ticket page confirms the date, venue and ticketing details.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-mar-me-quer-2026",
+        "title": "Mar Me Quer Portimão 2026",
+        "type": "festival",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-14",
+        "importance": 78,
+        "venueName": "Zona Ribeirinha de Portimão",
+        "venueId": null,
+        "sourceUrl": "https://palkotickets.pt/2865604918-mar-me-quer-portimao-2026/439701",
+        "ticketUrl": "https://palkotickets.pt/2865604918-mar-me-quer-portimao-2026/439701",
+        "summary": "Mar Me Quer returns to Portimão’s riverside for its 2026 edition from 12 to 14 August. The confirmed first lineup includes Maiara & Maraisa on 12 August, Veigh on 13 August and Orochi on 14 August.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-o-sol-da-caparica-2026",
+        "title": "O Sol da Caparica 2026",
+        "type": "festival",
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-16",
+        "importance": 82,
+        "venueName": "Parque Urbano Costa de Caparica",
+        "venueId": null,
+        "sourceUrl": "https://www.visitlisboa.com/en/events/o-sol-da-caparica_",
+        "ticketUrl": "https://osoldacaparica.bol.pt/",
+        "summary": "O Sol da Caparica returns to Costa da Caparica from 13 to 16 August 2026 as a major Lusophone music festival near Lisbon. The Visit Lisboa listing describes four days across pop, hip hop, rock, electronic music and other Portuguese-language styles.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-hermanos-gutierrez-2026",
+        "title": "Hermanos Gutiérrez",
+        "type": "concert",
+        "startDate": "2026-08-26",
+        "endDate": "2026-08-26",
+        "importance": 70,
+        "venueName": "Coliseu dos Recreios",
+        "venueId": null,
+        "sourceUrl": "https://coliseulisboa.com/eventos/hermanos-gutierrez/",
+        "ticketUrl": "https://www.bol.pt/Comprar/Bilhetes/172005-hermanos_gutierrez-coliseu_de_lisboa/Sessoes",
+        "summary": "Hermanos Gutiérrez play Coliseu dos Recreios in Lisbon on 26 August 2026 at 21:00. The Coliseu listing describes the duo’s instrumental sound as mixing Latin guitars, western, surf music and desert influences.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-meo-kalorama-2026",
+        "title": "MEO Kalorama 2026",
+        "type": "festival",
+        "startDate": "2026-08-28",
+        "endDate": "2026-08-30",
+        "importance": 92,
+        "venueName": "Parque da Bela Vista",
+        "venueId": null,
+        "sourceUrl": "https://meokalorama.pt/en/meo-kalorama-fecha-cartaz-com-maro-residencia-artistica-by-chelas-e-o-sitio-e-palco-panorama-lisboa-dedicado-a-musica-eletronica/",
+        "ticketUrl": "https://meokalorama.pt/en/",
+        "summary": "MEO Kalorama returns to Parque da Bela Vista in Lisbon from 28 to 30 August 2026. The official lineup announcement confirms Robbie Williams, Ms. Lauryn Hill with special guests, Deftones, Turnstile, Grace Jones, Interpol, Clipse, Freddie Gibbs + The Alchemist and a PANORAMA Lisboa electronic stage.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

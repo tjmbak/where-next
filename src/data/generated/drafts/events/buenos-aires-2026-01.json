@@ -1,0 +1,165 @@
+{
+  "slug": "buenos-aires",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:48:41.691Z",
+  "responseId": "resp_05c799d70a27e51f0069ff64e178d48190a7bd5d0853ec2671",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Buenos Aires leaned into summer outdoor programming and a strong run of electronic club dates, with Billboard Summer Festival and Crobar Summer as the standout recurring anchors.",
+    "events": [
+      {
+        "id": "buenos-aires-billboard-summer-festival-2026",
+        "title": "Billboard Summer Festival",
+        "type": "festival",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-17",
+        "importance": 88,
+        "venueName": "Parque Berlín",
+        "venueId": null,
+        "sourceUrl": "https://billboard.ar/shows/mau-y-ricky-los-palmeras-y-mas-asi-fue-el-cierre-del-billboard-summer-festival/",
+        "ticketUrl": null,
+        "summary": "Two free outdoor days in Parque Berlín presented by Billboard Argentina and the City of Buenos Aires. Confirmed performers included La Joaqui, LIT Killah, FMK and Seven Kayne on Friday, with Mau y Ricky, Q'Lokura, Los Palmeras, Tuli Acosta and others on Saturday.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-sweely-2026",
+        "title": "Crobar Summer: Sweely",
+        "type": "club-night",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-03",
+        "importance": 76,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://ra.co/events/2329141",
+        "ticketUrl": null,
+        "summary": "Crobar opened its summer season with French live act Sweely, joined by Chiri, Furz and Fran Tettamanti. Resident Advisor lists the event at Crobar Buenos Aires from 23:59 to 07:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-guti-2026",
+        "title": "Crobar Summer: Guti",
+        "type": "club-night",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "importance": 78,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://ra.co/events/2335802",
+        "ticketUrl": null,
+        "summary": "Crobar Summer presented Guti with Bodeler and Emma, focusing on house and tech-rooted electronic sounds. The RA listing confirms the date, venue and lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-graziano-raffa-2026",
+        "title": "Crobar Summer: Graziano Raffa",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 75,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://es.ra.co/events/2343545",
+        "ticketUrl": null,
+        "summary": "Graziano Raffa headlined a Crobar Summer date with Mai Lawson and Agustín Pietrocola. RA identifies the sound as progressive house and confirms the 23:59–07:00 schedule.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-inda-jani-2026",
+        "title": "Crobar Pres.: Inda Jani / Check In Fiesta",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-23",
+        "importance": 74,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://ra.co/events/2343550",
+        "ticketUrl": null,
+        "summary": "Inda Jani brought a Check In Fiesta edition to Crobar with Pam Mac Allister B2B Luana and Brazilian guest Duodisco. RA lists the event as a tech-house night running from 23:59 to 07:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-trommel-2026",
+        "title": "Crobar Pres.: Trommel",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 77,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://ra.co/events/2343555",
+        "ticketUrl": null,
+        "summary": "Trommel returned to Crobar with two stages and a local underground house/minimal lineup including Jorge Savoretti, Ludmila Di Pasquale, ETTA!, Tunik and others. RA confirms the event date and venue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-astor-piazzolla-eterno-2026",
+        "title": "Astor, Piazzolla Eterno",
+        "type": "residency",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 82,
+        "venueName": "Teatro Colón",
+        "venueId": null,
+        "sourceUrl": "https://buenosaires.gob.ar/Descubrir%20BA/astor-piazzolla-eterno-0",
+        "ticketUrl": null,
+        "summary": "The Teatro Colón staged a January run celebrating Astor Piazzolla through music, dance and theatrical direction, with musical direction by Nicolás Guerschberg. The opening January performance was explicitly listed for Saturday, January 24 at 20:30.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "buenos-aires-poseidotica-niceto-2026",
+        "title": "Poseidótica at Niceto Club",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 70,
+        "venueName": "Niceto Club",
+        "venueId": "niceto-ba",
+        "sourceUrl": "https://vivebuenosairesok.com.ar/evento/poseidotica-en-niceto-club",
+        "ticketUrl": "https://venti.live",
+        "summary": "Argentine instrumental rock band Poseidótica returned to Niceto Club for a special 2026 kickoff show. The bill also included Malviaje and .MAR.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-the-hives-vorterix-2026",
+        "title": "The Hives at Teatro Vorterix",
+        "type": "concert",
+        "startDate": "2026-01-31",
+        "endDate": "2026-01-31",
+        "importance": 84,
+        "venueName": "Teatro Vorterix",
+        "venueId": null,
+        "sourceUrl": "https://www.argentina.travel/sobre-argentina/eventos/the-hives-teatro-vorterix-buenos-aires",
+        "ticketUrl": null,
+        "summary": "Swedish garage-rock band The Hives played a Buenos Aires show at Teatro Vorterix on January 31, ahead of their support slot with My Chemical Romance the following day. The official Argentina tourism listing confirms the date and venue.",
+        "genres": []
+      }
+    ]
+  }
+}

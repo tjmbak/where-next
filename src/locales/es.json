@@ -1,0 +1,22 @@
+{
+  "nav.methodology": "metodología",
+  "nav.joinWaitlist": "unirse a la lista",
+  "nav.signIn": "iniciar sesión",
+  "nav.backToMap": "volver al mapa",
+  "hero.title.lead": "¿A dónde",
+  "hero.title.you": "vas después?",
+  "hero.subtitle": "Festivales, temporadas de club y momentos culturales que valen el vuelo — ciudad por ciudad, mes a mes.",
+  "drop.eyebrow": "el drop",
+  "drop.title": "A dónde ir en {{month}}.",
+  "drop.subtitle": "Cinco lugares que se alinean con tus escenas, regiones y presupuesto. Curados, no scrapeados.",
+  "drop.unsubscribe": "darse de baja",
+  "drop.tunePreferences": "ajustar preferencias",
+  "concierge.eyebrow": "conserjería",
+  "concierge.title": "Un brief. Un viaje. Planificado completo.",
+  "membership.eyebrow": "where next pro",
+  "membership.title": "Adelántate cuando importa.",
+  "trips.share.copy": "copiar enlace",
+  "trips.share.copied": "enlace copiado",
+  "trips.share.x": "compartir en x ↗",
+  "trips.share.whatsapp": "whatsapp ↗"
+}

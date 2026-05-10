@@ -1,0 +1,221 @@
+{
+  "slug": "toronto",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:29:32.481Z",
+  "responseId": "resp_0efd4d8e54c5d94f0069ff6064eba8819dacdfbedf80a7c2c8",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is unusually dense in Toronto, with city-wide conference programming, outdoor electronic festivals, arena concerts, and several late-month niche festivals overlapping.",
+    "events": [
+      {
+        "id": "toronto-departure-festival-2026",
+        "title": "Departure Festival + Conference 2026",
+        "type": "conference",
+        "startDate": "2026-05-04",
+        "endDate": "2026-05-10",
+        "importance": 86,
+        "venueName": "Various venues",
+        "venueId": null,
+        "sourceUrl": "https://departureto.com/",
+        "ticketUrl": "https://departureto.com/",
+        "summary": "The rebranded Canadian Music Week returns as Departure, combining a downtown creative-industry conference with city-wide music showcases and premium festival events. Confirmed 2026 programming includes festival shows such as Wild Rivers and Tommy Genesis alongside conference and honours programming.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-electric-island-opener-2026",
+        "title": "Electric Island: 2026 Season Opener",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 90,
+        "venueName": "Woodbine Park",
+        "venueId": null,
+        "sourceUrl": "https://www.electricisland.to/",
+        "ticketUrl": "https://www.electricisland.to/",
+        "summary": "Electric Island opens its 14th season at Woodbine Park with two days of electronic programming. The May lineup lists Adriatique, Kevin de Vries, 999999999, The Martinez Brothers, Bedouin, Sam Divine, Notion and more across multiple stages.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "toronto-sing-vocal-arts-2026",
+        "title": "SING! The Toronto International Vocal Arts Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-19",
+        "endDate": "2026-06-01",
+        "importance": 72,
+        "venueName": "Multiple venues",
+        "venueId": null,
+        "sourceUrl": "https://singtoronto.com/2026-events",
+        "ticketUrl": "https://singtoronto.com/2026-events",
+        "summary": "SING! presents a multi-venue vocal and a cappella program spanning concerts, workshops, championships and beatbox events. May highlights include Countermeasure’s final concert, the SING! Canadian A Cappella Championships, a Deke Sharon singalong and the Great North Beatbox Festival.",
+        "genres": [
+          "pop",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-karan-aujla-2026",
+        "title": "Karan Aujla: P-Pop Culture World Tour",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-10",
+        "importance": 80,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/karan-aujla",
+        "ticketUrl": "https://www.scotiabankarena.com/events/detail/karan-aujla",
+        "summary": "Punjabi-Canadian star Karan Aujla plays two Scotiabank Arena dates on the P-Pop Culture World Tour. The venue lists Ikky as special guest for both May 9 and May 10 shows.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-imagine-dragons-rbc-opening-2026",
+        "title": "RBC Amphitheatre Opening Night: Imagine Dragons",
+        "type": "concert",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-21",
+        "importance": 80,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/rbc-amphitheatre-opening-night-imagine-dragons-toronto-05-21-2026/event/100064894D201C70",
+        "ticketUrl": "https://www.ticketmaster.ca/rbc-amphitheatre-opening-night-imagine-dragons-toronto-05-21-2026/event/100064894D201C70",
+        "summary": "Imagine Dragons headline the opening night of the newly named RBC Amphitheatre on Toronto’s waterfront. The event is listed for May 21 at 7:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-kid-cudi-rebel-ragers-2026",
+        "title": "Kid Cudi Presents: The Rebel Ragers Tour 2026",
+        "type": "concert",
+        "startDate": "2026-05-26",
+        "endDate": "2026-05-26",
+        "importance": 82,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/kid-cudi-presents-the-rebel-ragers-toronto-ontario-05-26-2026/event/1000643096409FDF",
+        "ticketUrl": "https://www.ticketmaster.ca/kid-cudi-presents-the-rebel-ragers-toronto-ontario-05-26-2026/event/1000643096409FDF",
+        "summary": "Kid Cudi brings The Rebel Ragers Tour to RBC Amphitheatre for a May 26 outdoor show. Ticketmaster lists the concert for 6:30 PM at the Toronto venue.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-martin-garrix-rbc-2026",
+        "title": "Martin Garrix: Americas Tour",
+        "type": "concert",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-31",
+        "importance": 84,
+        "venueName": "RBC Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/budweiser-stage-billets-toronto/venue/131073",
+        "ticketUrl": "https://www.ticketmaster.ca/budweiser-stage-billets-toronto/venue/131073",
+        "summary": "Martin Garrix brings the Americas Tour to RBC Amphitheatre for a three-night Toronto run. The venue schedule lists shows on May 29, May 30 and May 31.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "toronto-asap-rocky-2026",
+        "title": "A$AP Rocky: Don't Be Dumb World Tour",
+        "type": "concert",
+        "startDate": "2026-05-31",
+        "endDate": "2026-05-31",
+        "importance": 82,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/aap-rocky",
+        "ticketUrl": "https://www.scotiabankarena.com/events/detail/aap-rocky",
+        "summary": "A$AP Rocky closes out the month at Scotiabank Arena on the Don't Be Dumb World Tour. The arena lists the show for Sunday, May 31 at 7:30 PM.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-prepare-the-ground-2026",
+        "title": "Prepare The Ground 2026",
+        "type": "festival",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-31",
+        "importance": 78,
+        "venueName": "Multiple downtown venues",
+        "venueId": null,
+        "sourceUrl": "https://www.jambase.com/festival/prepare-the-ground-2026",
+        "ticketUrl": "https://www.preparetheground.com/about-us",
+        "summary": "Prepare The Ground returns as a heavy music and arts festival across Toronto venues. The 2026 lineup includes Amenra, Blood Ceremony, Oathbreaker, Oranssi Pazuzu, Pallbearer, Svalbard, Torche and William Basinski among others.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-our-music-festival-2026",
+        "title": "Our Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 70,
+        "venueName": "The Mod Club",
+        "venueId": null,
+        "sourceUrl": "https://tickets.smallworldmusic.com/e/our-music-festival",
+        "ticketUrl": "https://tickets.smallworldmusic.com/e/our-music-festival",
+        "summary": "Our Music Festival’s main evening concert takes place at The Mod Club on May 30. The confirmed lineup includes Alysha Brilla, Anyma Ora’, Ammoye, Kimmortal and Maïa Davies.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-famous-jazzfest-2026",
+        "title": "Famous JazzFest Community Celebration 2026",
+        "type": "festival",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-31",
+        "importance": 70,
+        "venueName": "Multiple downtown venues",
+        "venueId": null,
+        "sourceUrl": "https://thepathradio.com/press_release/famous-jazzfest-returns-with-powerful-lineup-may-29-31-2026/",
+        "ticketUrl": null,
+        "summary": "JazzInToronto’s Community Celebration runs May 29–31 across landmark downtown venues. The announced program spans swing, bebop, funk and soul, with artists including Jane Bunnett, Reg Schwager and Neil Swainson.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-dvs1-format-paradox-2026",
+        "title": "FORMAT x PARADOX presents: DVS1 / Circumscums / Geneva",
+        "type": "club-night",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 74,
+        "venueName": "TBA - Toronto",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2387356",
+        "ticketUrl": "https://ra.co/events/2387356",
+        "summary": "FORMAT and PARADOX bring DVS1 back to Toronto for a late-night techno session with Circumscums and Geneva. Resident Advisor lists the event for Sunday, May 17 from 21:00 to 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

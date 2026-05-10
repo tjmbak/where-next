@@ -1,0 +1,197 @@
+{
+  "slug": "new-orleans",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:58:04.242Z",
+  "responseId": "resp_01aa6cbeda0cc5350069ffd79fce148194ba3a043875cd3875",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 already has a strong confirmed spread: a major local funk festival, arena hip-hop and gospel dates, and touring rock/jazz/electronic-leaning concerts across key New Orleans rooms.",
+    "events": [
+      {
+        "id": "new-orleans-akeem-ali-republic-oct-2026",
+        "title": "Akeem Ali at Republic NOLA",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 62,
+        "venueName": "Republic NOLA",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43135055-akeem-ali-at-republic-nola",
+        "ticketUrl": "https://www.songkick.com/concerts/43135055-akeem-ali-at-republic-nola",
+        "summary": "Akeem Ali is confirmed for an October 6 hip-hop show at Republic NOLA, with doors listed at 8:00 PM. The listing routes tickets through See Tickets US.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-lp-house-of-blues-oct-2026",
+        "title": "LP - All Is Not Lost Tour",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-new-orleans-louisiana-10-06-2026/event/1B00649B19EFAA54",
+        "ticketUrl": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-new-orleans-louisiana-10-06-2026/event/1B00649B19EFAA54",
+        "summary": "LP brings the All Is Not Lost Tour to House of Blues New Orleans on October 6, with doors at 7:00 PM and show time listed at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-amyl-sniffers-fillmore-oct-2026",
+        "title": "Amyl and the Sniffers at The Fillmore New Orleans",
+        "type": "concert",
+        "startDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "importance": 76,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_kmIzuPN/amyl-and-the-sniffers",
+        "ticketUrl": "https://www.ticketmaster.com/amyl-and-the-sniffers-new-orleans-louisiana-10-08-2026/event/1B00646BA8E0D963",
+        "summary": "Australian punk-rock band Amyl and the Sniffers headline The Fillmore New Orleans on October 8. Live Nation lists Hunx & His Punx and Edging on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-parcels-saenger-oct-2026",
+        "title": "Parcels - Loved Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 78,
+        "venueName": "Saenger Theatre, New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://us.atgtickets.com/events/parcels/saenger-theatre/",
+        "ticketUrl": "https://us.atgtickets.com/events/parcels/saenger-theatre/",
+        "summary": "Parcels bring the Loved Tour 2026 to the Saenger Theatre on October 10 at 8:00 PM CT. The official ATG listing describes the Byron Bay/Berlin band’s live-focused North American tour.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-suicideboys-grey-day-oct-2026",
+        "title": "$uicideboy$ Present Grey Day Tour 2026 w/ Destroy Lonely & More",
+        "type": "concert",
+        "startDate": "2026-10-14",
+        "endDate": "2026-10-14",
+        "importance": 82,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-new-orleans-louisiana-10-14-2026/event/1B00647BD17DCD6E",
+        "ticketUrl": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-new-orleans-louisiana-10-14-2026/event/1B00647BD17DCD6E",
+        "summary": "New Orleans duo $uicideboy$ bring Grey Day Tour 2026 to Smoothie King Center on October 14. The bill is listed with Destroy Lonely and additional support acts.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-nola-funk-fest-oct-2026",
+        "title": "NOLA Funk Fest 2026",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-18",
+        "importance": 88,
+        "venueName": "Woldenberg Riverfront Park / Audubon Aquarium Riverfront",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/nola-funk-fest-2026-presented-by-mikes-amazing-tickets-1976668952046",
+        "ticketUrl": "https://www.eventbrite.com/e/nola-funk-fest-2026-presented-by-mikes-amazing-tickets-1976668952046",
+        "summary": "NOLA Funk Fest 2026 is confirmed as a three-day New Orleans music and culture festival running October 16–18. Announced artists include Galactic, George Porter Jr. projects, Irma Thomas, Ivan Neville, Cyril Neville, Anders Osborne and other Louisiana-rooted performers.",
+        "genres": [
+          "festival",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-clutch-house-of-blues-oct-2026",
+        "title": "CLUTCH: US Fall Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/clutch-us-fall-tour-new-orleans-louisiana-10-22-2026/event/1B00647FAA1AEA91",
+        "ticketUrl": "https://www.ticketmaster.com/clutch-us-fall-tour-new-orleans-louisiana-10-22-2026/event/1B00647FAA1AEA91",
+        "summary": "Clutch’s US Fall Tour stops at House of Blues New Orleans on October 22. Ticketmaster lists Slomosa and Blood Vulture as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-snarky-puppy-joy-oct-2026",
+        "title": "Snarky Puppy - Somni US Tour '26",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 78,
+        "venueName": "The Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/snarky-puppy-somni-us-tour-26-new-orleans-louisiana-10-22-2026/event/1B00643DDC68F364",
+        "ticketUrl": "https://www.ticketmaster.com/snarky-puppy-somni-us-tour-26-new-orleans-louisiana-10-22-2026/event/1B00643DDC68F364",
+        "summary": "Snarky Puppy are confirmed at The Joy Theater on October 22 at 8:00 PM as part of the Somni US Tour ’26. The show adds a modern jazz-fusion anchor to the month’s calendar.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-cece-winans-smoothie-king-oct-2026",
+        "title": "CeCe Winans - COME WORSHIP! Tour",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 76,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/cece-winans-come-worship-tour-new-orleans-louisiana-10-24-2026/event/1B006453D77DA412",
+        "ticketUrl": "https://www.ticketmaster.com/cece-winans-come-worship-tour-new-orleans-louisiana-10-24-2026/event/1B006453D77DA412",
+        "summary": "Gospel star CeCe Winans brings the COME WORSHIP! Tour to Smoothie King Center on October 24 at 7:00 PM. The tour bill includes Charity Gayle, Red Worship and Terrian.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-johnny-blue-skies-lakefront-oct-2026",
+        "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-10-27",
+        "endDate": "2026-10-27",
+        "importance": 84,
+        "venueName": "UNO Lakefront Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.arena.uno.edu/event/johnny-blue-skies-%26-the-dark-clouds-mutiny-for-the-masses-2026-tour/1592/",
+        "ticketUrl": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-new-orleans-louisiana-10-27-2026/event/1B00647CEC717A79",
+        "summary": "Johnny Blue Skies & the Dark Clouds bring the Mutiny for the Masses 2026 Tour to UNO Lakefront Arena on October 27 at 8:00 PM. The venue confirms Ticketmaster as the official ticketing provider for the show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-osees-civic-oct-2026",
+        "title": "Osees ft. Brigid Dawson with Traps PS",
+        "type": "concert",
+        "startDate": "2026-10-29",
+        "endDate": "2026-10-29",
+        "importance": 72,
+        "venueName": "Civic Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZbz5u5Xbv/osees-ft-brigid-dawson-with-traps-ps",
+        "ticketUrl": "https://www.ticketmaster.com/osees-ft-brigid-dawson-with-traps-new-orleans-louisiana-10-29-2026/event/1B006382CD2FE601",
+        "summary": "Osees play Civic Theatre on October 29 at 8:00 PM, billed as Osees ft. Brigid Dawson with Traps PS. The Live Nation listing confirms both Osees and Traps PS on the lineup.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

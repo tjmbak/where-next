@@ -1,0 +1,218 @@
+{
+  "slug": "mexico-city",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:45:32.119Z",
+  "responseId": "resp_004ca32d97620f490069ff6428a780819d9c485f44b2694791",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 was anchored by EDC México weekend, with stadium-scale pop/rock and a strong run of club afterparties around CDMX.",
+    "events": [
+      {
+        "id": "mexico-city-casa-de-afro-art-week-2026",
+        "title": "Casa De Afro - Art Week / Zona Maco",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 70,
+        "venueName": "Symphonie",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2343780",
+        "ticketUrl": "https://ra.co/events/2343780",
+        "summary": "Casa De Afro returned during Art Week / Zona Maco with Dr. ADO, Ohlei, Ramses Hurt x 2KN, Bud Lee, Curado, KMENS and Kaltri. RA lists the event at Symphonie with Afro House and Amapiano as the featured sounds.",
+        "genres": [
+          "afro-house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "mexico-city-el-malilla-palacio-2026",
+        "title": "El Malilla at Palacio de los Deportes",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 78,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/search?q=palacio+deportes",
+        "ticketUrl": "https://www.ticketmaster.com.mx/search?q=palacio+deportes",
+        "summary": "El Malilla played Palacio de los Deportes on February 13, 2026, marking a major arena step for Mexican reggaetón. Ticketmaster listed the concert at 8:00 p.m. in Ciudad de México.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-la-garfield-maria-centeno-2026",
+        "title": "La Garfield & María Centeno",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 70,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/artist/2800962?int_cmp_creative=Home-main-1&int_cmp_id=MX-Home-801&int_cmp_name=La-Garfield-CDMX",
+        "ticketUrl": "https://www.ticketmaster.com.mx/artist/2800962?int_cmp_creative=Home-main-1&int_cmp_id=MX-Home-801&int_cmp_name=La-Garfield-CDMX",
+        "summary": "La Garfield & María Centeno brought their collaborative show to Pepsi Center WTC on February 13, 2026. The project fits the band’s jazz, funk, pop and Latin-fusion lane.",
+        "genres": [
+          "jazz",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-my-chemical-romance-black-parade-2026",
+        "title": "My Chemical Romance - Long Live: The Black Parade",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-14",
+        "importance": 90,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://press.warnerrecords.com/sites/g/files/g2000014901/files/2025-09/MY%20CHEMICAL%20ROMANCE%20ANNOUNCE%20%20THE%20BLACK%20PARADE%202026.pdf",
+        "ticketUrl": "https://www.ticketmaster.com/foro-sol-boletos-mexico/venue/163903",
+        "summary": "My Chemical Romance scheduled two Mexico City stadium shows on February 13 and 14, 2026 at Estadio GNP Seguros for The Black Parade 2026. The dates were listed in the official Warner Records tour announcement.",
+        "genres": []
+      },
+      {
+        "id": "mexico-city-eladio-carrion-palacio-2026",
+        "title": "Eladio Carrión - DON KBRN World Tour",
+        "type": "concert",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 83,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/search?q=eladio",
+        "ticketUrl": "https://www.ticketmaster.com.mx/search?q=eladio",
+        "summary": "Eladio Carrión brought his DON KBRN-era live show to Palacio de los Deportes on February 14, 2026. Ticketmaster listed the CDMX event for 8:00 p.m.",
+        "genres": [
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-edc-mexico-2026",
+        "title": "EDC México 2026",
+        "type": "festival",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-22",
+        "importance": 98,
+        "venueName": "EDC México",
+        "venueId": "edc-mexico",
+        "sourceUrl": "https://www.jambase.com/festival/edc-mexico-2026",
+        "ticketUrl": null,
+        "summary": "EDC México 2026 ran February 20–22 in Mexico City with a large electronic lineup across multiple days. Listed acts included Above & Beyond, Hardwell, Charlotte de Witte, Adam Beyer, Anyma, Diplo and many more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-funk-seth-troxler-2026",
+        "title": "Seth Troxler + Mejia + Valeriana",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 78,
+        "venueName": "Fünk",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2358886",
+        "ticketUrl": "https://ra.co/events/2358886",
+        "summary": "Fünk hosted Seth Troxler with Mejia and Valeriana on February 20, 2026, during the EDC weekend window. RA listed the event as a house-focused club night from 23:00 to 06:00.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-funk-adam-ten-mita-gami-2026",
+        "title": "Adam Ten b2b Mita Gami + Musumeci",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 80,
+        "venueName": "Fünk",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2358881",
+        "ticketUrl": "https://ra.co/events/2358881",
+        "summary": "Fünk booked Adam Ten b2b Mita Gami plus Musumeci for February 21, 2026. RA listed the event as a late-night house program running 23:00 to 06:00.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-steve-angello-edc-after-2026",
+        "title": "Steve Angello - After oficial EDC 2026",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 84,
+        "venueName": "Loo Loo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2366132",
+        "ticketUrl": "https://ra.co/events/2366132",
+        "summary": "Steve Angello played an official EDC México afterparty at Loo Loo on February 21, 2026. RA listed the party from 22:00 to 06:00 with progressive house and tech house tags.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-sunday-sunday-220226-2026",
+        "title": "Sunday Sunday CDMX: 22.02.26",
+        "type": "residency",
+        "startDate": "2026-02-22",
+        "endDate": "2026-02-22",
+        "importance": 78,
+        "venueName": "Sunday Sunday",
+        "venueId": null,
+        "sourceUrl": "https://es.ra.co/events/2373589",
+        "ticketUrl": "https://es.ra.co/events/2373589",
+        "summary": "Sunday Sunday’s February 22 edition featured Lipelis, Tottie, DJ Raw (MX), Sergio Borquez and Sunday Sunday DJs. RA listed the rooftop party from 15:00 to 01:00 with house and Italo-disco programming.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-kali-uchis-palacio-2026",
+        "title": "Kali Uchis - The Sincerely, Tour",
+        "type": "concert",
+        "startDate": "2026-02-25",
+        "endDate": "2026-02-25",
+        "importance": 82,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/kali-uchis-tickets/artist/2107409",
+        "ticketUrl": "https://www.ticketmaster.com.mx/kali-uchis-tickets/artist/2107409",
+        "summary": "Kali Uchis played Palacio de los Deportes in Mexico City on February 25, 2026 as part of The Sincerely, Tour. Ticketmaster’s artist page records the Mexico City setlist and venue for that date.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-shakira-gnp-2026",
+        "title": "Shakira - Las Mujeres Ya No Lloran World Tour",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 93,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/shakira-boletos/artist/779049?int_cmp_creative=Home-main-2&int_cmp_id=MX-Home-801&int_cmp_name=Shakira-2026",
+        "ticketUrl": "https://www.ticketmaster.com.mx/shakira-boletos/artist/779049?int_cmp_creative=Home-main-2&int_cmp_id=MX-Home-801&int_cmp_name=Shakira-2026",
+        "summary": "Shakira’s Las Mujeres Ya No Lloran World Tour returned to Estadio GNP Seguros on February 27, 2026. Ticketmaster listed the CDMX stadium concert for 9:00 p.m.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

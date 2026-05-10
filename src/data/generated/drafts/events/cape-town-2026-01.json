@@ -1,0 +1,226 @@
+{
+  "slug": "cape-town",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:14:55.247Z",
+  "responseId": "resp_01c0d50108f578df0069ff5cf2212c819e98291ad552a1f083",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 1,
+    "year": 2026,
+    "notes": "Cape Town’s January 2026 calendar was strongest in open-air summer concerts, beachfront electronic parties, jazz, and large-format holiday-weekend festivals.",
+    "events": [
+      {
+        "id": "cape-town-dayone-nyd-2026",
+        "title": "DAYONE NYD feat. Miss Monique",
+        "type": "beach-club",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-02",
+        "importance": 78,
+        "venueName": "CABO Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://musicpeople.howler.co.za/events/dayone-nyd-feat-miss-monique-ukr-cape-town-01-january-2026-ad21",
+        "ticketUrl": "https://musicpeople.howler.co.za/events/dayone-nyd-feat-miss-monique-ukr-cape-town-01-january-2026-ad21",
+        "summary": "Music People’s New Year’s Day event at CABO Beach Club was headlined by Miss Monique, with Henri Bergmann, Argia, Amare, Anthea Scholtz, Bloem, Cody Hoff, Shugi, Sonic Bloom and others across two dance floors.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-wav-festival-2026",
+        "title": "WAV Festival by Afro Nation",
+        "type": "festival",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 92,
+        "venueName": "Green Point Track",
+        "venueId": null,
+        "sourceUrl": "https://www.capetown.travel/whats-on-in-cape-town-in-january-2026",
+        "ticketUrl": "https://www.wavfestival.com/faqs",
+        "summary": "Afro Nation’s R&B-focused WAV Festival took place at Green Point Track, with Mariah the Scientist, Wale, Kelvin Momo, Shekhinah, Langa Mavuso and Kujenga listed among the artists.",
+        "genres": [
+          "r-and-b",
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "cape-town-milk-cookies-2026",
+        "title": "Milk and Cookies Festival South Africa 2026 | Cape Town",
+        "type": "festival",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-04",
+        "importance": 88,
+        "venueName": "HollywoodBets Kenilworth Racecourse",
+        "venueId": null,
+        "sourceUrl": "https://www.howler.co.za/events/milk-and-cookies-festival-south-africa-2026-cape-town-87c2",
+        "ticketUrl": "https://www.howler.co.za/events/milk-and-cookies-festival-south-africa-2026-cape-town-87c2",
+        "summary": "The Cape Town edition of Milk + Cookies was an outdoor multigenre festival at HollywoodBets Kenilworth Racecourse, billed around music, food and community with amapiano, R&B, house and hip-hop sounds.",
+        "genres": [
+          "amapiano",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "cape-town-goldfish-kirstenbosch-2026",
+        "title": "Kirstenbosch Summer Sunset Concerts: GoldFish",
+        "type": "concert",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-04",
+        "importance": 78,
+        "venueName": "Kirstenbosch National Botanical Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1577241436",
+        "ticketUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1577241436",
+        "summary": "GoldFish played the Kirstenbosch Summer Sunset Concerts series, bringing their live-instrument electronic house sound to the garden stage from 17:15 to 19:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-tr3s-cabo-2026",
+        "title": "TR3S feat. Caiiro B3B Da Capo B3B Enoo Napa",
+        "type": "club-night",
+        "startDate": "2026-01-04",
+        "endDate": "2026-01-05",
+        "importance": 76,
+        "venueName": "CABO Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://musicpeople.howler.co.za/events/tr3s-feat-caiiro-b3b-da-capo-b3b-enoo-napa-cape-town-4-january-2026-5445/tickets",
+        "ticketUrl": "https://musicpeople.howler.co.za/events/tr3s-feat-caiiro-b3b-da-capo-b3b-enoo-napa-cape-town-4-january-2026-5445/tickets",
+        "summary": "TR3S brought Caiiro, Da Capo and Enoo Napa together for a back-to-back Afro-house and Afro-tech event at CABO Beach Club.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-uncle-waffles-st-tropez-2026",
+        "title": "St Tropez presents: Uncle Waffles",
+        "type": "beach-club",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-06",
+        "importance": 80,
+        "venueName": "CABO Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.betastate.co.za/event-details/st-tropez-presents-uncle-waffles-cabo-beach-2026",
+        "ticketUrl": "https://www.betastate.co.za/event-details/st-tropez-presents-uncle-waffles-cabo-beach-2026",
+        "summary": "St Tropez’s daytime CABO Beach Club party was headlined by Uncle Waffles, running from 15:00 until midnight at the V&A Waterfront venue.",
+        "genres": [
+          "amapiano",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-minstrels-carnival-2026",
+        "title": "Cape Town Minstrels Carnival / Hollywoodbets Cape Town Street Parade",
+        "type": "carnival",
+        "startDate": "2026-01-05",
+        "endDate": "2026-01-05",
+        "importance": 90,
+        "venueName": "Somerset Road and Fan Walk, Green Point",
+        "venueId": null,
+        "sourceUrl": "https://www.capetown.travel/cape-town-minstrels-carnival-2026-all-you-need-to-know/",
+        "ticketUrl": null,
+        "summary": "The Cape Town Minstrels Carnival returned on 5 January 2026, with troupes marching through the city in costume while performing ghoema music on banjos, trumpets and drums.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-jazzathon-2026",
+        "title": "Jazzathon 2026: The People’s Festival",
+        "type": "festival",
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-11",
+        "importance": 84,
+        "venueName": "V&A Waterfront Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.waterfront.co.za/events/jazzathon-2026-the-peoples-festival/",
+        "ticketUrl": null,
+        "summary": "The Cape Town Jazzathon 2026 Summer Showcase ran for three days at the V&A Waterfront Amphitheatre, with listed performers including The Artscape Youth Jazz Band, Alistar Izobell, The Cape Horns, Chadleigh Gowar and Gospel According to Jazzathon.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-fabric-south-africa-2026",
+        "title": "fabric South Africa 2026 - Cape Town",
+        "type": "festival",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-11",
+        "importance": 86,
+        "venueName": "The Castle of Good Hope",
+        "venueId": null,
+        "sourceUrl": "https://fabric.howler.co.za/events/fabric-south-africa-2026-cape-town-7c3b",
+        "ticketUrl": "https://fabric.howler.co.za/events/fabric-south-africa-2026-cape-town-7c3b",
+        "summary": "fabric London returned to Cape Town for a day-into-night festival at The Castle of Good Hope, with Marcel Dettmann, Gerd Janson, Horse Meat Disco and Gabrielle Kwarteng leading a three-room lineup.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-calum-scott-avenoir-2026",
+        "title": "Calum Scott - The Avenoir Tour - Cape Town",
+        "type": "concert",
+        "startDate": "2026-01-14",
+        "endDate": "2026-01-14",
+        "importance": 80,
+        "venueName": "Kirstenbosch National Botanical Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.webtickets.co.za/v2/event.aspx?affiliateid=1473559226&itemid=1569882600",
+        "ticketUrl": "https://www.webtickets.co.za/v2/event.aspx?affiliateid=1473559226&itemid=1569882600",
+        "summary": "Calum Scott brought The Avenoir Tour to Kirstenbosch Botanical Garden for a 19:00 Cape Town concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-sheer-city-2026",
+        "title": "Sheer City - Cape Town",
+        "type": "festival",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 86,
+        "venueName": "Harrington Street Precinct",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2312700",
+        "ticketUrl": "https://tickets.airdosh.co.za",
+        "summary": "Sheer City launched as a multi-venue inner-city festival around Harrington Street, with Horse Meat Disco, Esa, Tama Sumo & Lakuti, Freudenthal, Make A Dance, Thor Rixon and many Cape Town selectors on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-jazz-rising-2026",
+        "title": "CTIJF presents Jazz Rising | Grand Africa",
+        "type": "concert",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-30",
+        "importance": 76,
+        "venueName": "Grand Africa Café & Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/354342-ctijf-presents-jazz-rising-grand-africa/",
+        "ticketUrl": "https://www.quicket.co.za/events/354342-ctijf-presents-jazz-rising-grand-africa/",
+        "summary": "Produced by espAfrika, the team behind the Cape Town International Jazz Festival, Jazz Rising featured Kujenga, Francesca Biancoli, Chadleigh Gowar, Daddy’s House, Clint L and Fundi at Grand Africa Café & Beach.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

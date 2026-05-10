@@ -1,0 +1,229 @@
+{
+  "slug": "malta",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:26:58.176Z",
+  "responseId": "resp_0483d9b5466daa9a0069ff5fcf9430819ea787bcfeed21bdf9",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is unusually dense for Malta, with major electronic programming around Ta’ Qali, Gianpula Village and Café del Mar plus large-scale pop concerts at Ta’ Qali.",
+    "events": [
+      {
+        "id": "malta-music-on-malta-2026",
+        "title": "Music On Malta 2026",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 86,
+        "venueName": "Malta Fairs & Conventions Centre",
+        "venueId": null,
+        "sourceUrl": "https://pl.ra.co/events/2353424",
+        "ticketUrl": "https://xceed.me/it/malta/event/music-on-malta/213116",
+        "summary": "Marco Carola’s Music On lands in Malta for the first time with Marco Carola, East End Dubs, Franky Rizardo, Ilario Alicante, Joey Daniel, Mason Collective, Ant Mifsud and Ares Carter listed for a 16:00–04:00 event.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-spiral-festival-2026",
+        "title": "EXIT Presents: Spiral Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 85,
+        "venueName": "Multiple venues, Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.showshappening.com/GMED/EXIT-Presents-Spiral-Festival-2026",
+        "ticketUrl": "https://www.showshappening.com/GMED/EXIT-Presents-Spiral-Festival-2026",
+        "summary": "EXIT’s new Malta festival runs across Gianpula Village, Café del Mar and other island venues, with the ticketing page naming Fatboy Slim, Nina Kraviz, Lilly Palmer and Argy-led programming across the weekend.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "malta-pitbull-lil-jon-2026",
+        "title": "Pitbull: I’m Back with special guest Lil Jon",
+        "type": "concert",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 86,
+        "venueName": "Park Nazzjonali Ta' Qali",
+        "venueId": null,
+        "sourceUrl": "https://eventworks.mt/pitbull",
+        "ticketUrl": "https://eventworks.mt/pitbull",
+        "summary": "Pitbull brings his I’m Back Tour to Malta with special guest Lil Jon for a large open-air show at Ta’ Qali National Park.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "malta-meduza-cafe-del-mar-2026",
+        "title": "MEDUZA at Café del Mar Malta",
+        "type": "beach-club",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-04",
+        "importance": 78,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://es.ra.co/events/2414551",
+        "ticketUrl": null,
+        "summary": "MEDUZA headline a seaside electronic session at Café del Mar Malta, with Carl Bee also listed on the Resident Advisor event page.",
+        "genres": [
+          "house",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "malta-steve-aoki-gianpula-2026",
+        "title": "Steve Aoki Live at Gianpula Village",
+        "type": "club-night",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 80,
+        "venueName": "Gianpula Village",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2408041",
+        "ticketUrl": null,
+        "summary": "Steve Aoki returns to Gianpula Village for a late-night headline DJ show promoted by G7 Events.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-artbat-cafe-del-mar-2026",
+        "title": "Panorama Malta & G7 Events Present: ARTBAT at Café del Mar",
+        "type": "beach-club",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 82,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.showshappening.com/Panorama-Festival-Malta/Panorama-Malta--G7-Events-Present-ARTBAT-at-Caf-del-Mar",
+        "ticketUrl": "https://www.showshappening.com/Panorama-Festival-Malta/Panorama-Malta--G7-Events-Present-ARTBAT-at-Caf-del-Mar",
+        "summary": "ARTBAT headline a Panorama Malta showcase at Café del Mar, billed as an immersive melodic techno night from 20:00 onwards.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-summerdaze-lewis-capaldi-2026",
+        "title": "SummerDaze Malta: Lewis Capaldi",
+        "type": "concert",
+        "startDate": "2026-08-11",
+        "endDate": "2026-08-11",
+        "importance": 88,
+        "venueName": "Ta’ Qali Concert Area",
+        "venueId": null,
+        "sourceUrl": "https://timesofmalta.com/article/dj-calvin-harris-singer-lewis-capaldi-headline-summerdaze-festival.1126403",
+        "ticketUrl": "https://summerdazemalta.com/",
+        "summary": "Lewis Capaldi headlines the first of SummerDaze Malta’s two 2026 Ta’ Qali headline shows.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-carl-cox-uno-2026",
+        "title": "UNO Malta presents Carl Cox",
+        "type": "club-night",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-12",
+        "importance": 84,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/carl-cox-2026/",
+        "ticketUrl": "https://unomalta.com/event/carl-cox-2026/",
+        "summary": "Carl Cox returns to UNO Malta for a one-night open-air club event billed by the venue as “The King Is Back.”",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-glitch-festival-2026",
+        "title": "Glitch Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-15",
+        "importance": 97,
+        "venueName": "Gianpula Village",
+        "venueId": null,
+        "sourceUrl": "https://www.glitchfestival.com/info/",
+        "ticketUrl": "https://www.glitchfestival.com/",
+        "summary": "Glitch Festival marks its 10-year anniversary with a 12–15 August edition in Malta and 95+ acts across its underground house and techno programme.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-galactica-uno-2026",
+        "title": "Cocoricò Pres. Galactica Malta",
+        "type": "residency",
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-13",
+        "importance": 77,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/galactica-13aug/",
+        "ticketUrl": "https://unomalta.com/event/galactica-13aug/",
+        "summary": "Cocoricò’s Galactica takes over UNO for a special Thursday date within its 2026 Malta summer residency, focused on hard techno and hypnotic club sounds.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-claptone-cafe-del-mar-2026",
+        "title": "G7 Events & District Presents: Claptone at Café del Mar",
+        "type": "beach-club",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 74,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.showshappening.com/G7/G7-Events--District-Presents-Claptone-at-Caf-del-Mar",
+        "ticketUrl": "https://www.showshappening.com/G7/G7-Events--District-Presents-Claptone-at-Caf-del-Mar",
+        "summary": "Claptone headlines a G7 Events and District sunset-to-night edition at Café del Mar Malta on 14 August.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-summerdaze-calvin-harris-2026",
+        "title": "SummerDaze Malta: Calvin Harris",
+        "type": "concert",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-15",
+        "importance": 90,
+        "venueName": "Ta’ Qali Concert Area",
+        "venueId": null,
+        "sourceUrl": "https://timesofmalta.com/article/dj-calvin-harris-singer-lewis-capaldi-headline-summerdaze-festival.1126403",
+        "ticketUrl": "https://summerdazemalta.com/",
+        "summary": "Calvin Harris headlines SummerDaze Malta’s second Ta’ Qali main event, presented in collaboration with BBC Radio 1 Dance Anthems and Creamfields.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

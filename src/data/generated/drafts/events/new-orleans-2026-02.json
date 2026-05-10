@@ -1,0 +1,220 @@
+{
+  "slug": "new-orleans",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:55:59.679Z",
+  "responseId": "resp_05d4a9aeb1cf03740069ffd7122c4c8191af031fa35e78d86c",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 was dominated by Mardi Gras-season concerts, with Tipitina’s, Mardi Gras World, Woldenberg Park, and The Metropolitan anchoring the strongest music-travel picks.",
+    "events": [
+      {
+        "id": "new-orleans-nine-inch-nails-2026",
+        "title": "Nine Inch Nails – Peel It Back Tour 2026",
+        "type": "concert",
+        "startDate": "2026-02-05",
+        "endDate": "2026-02-05",
+        "importance": 86,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.nin.com/default.htm",
+        "ticketUrl": "https://www.nin.com/default.htm",
+        "summary": "Nine Inch Nails brought the 2026 leg of the Peel It Back Tour to Smoothie King Center in New Orleans.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-shorty-gras-2026",
+        "title": "Shorty Gras",
+        "type": "festival",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-08",
+        "importance": 88,
+        "venueName": "Mardi Gras World",
+        "venueId": null,
+        "sourceUrl": "https://kreweoffreret.org/event/shorty-gras/",
+        "ticketUrl": "https://www.eventbrite.com/e/shorty-gras-2026-tickets-1799951686949",
+        "summary": "Krewe of Freret presented Shorty Gras, billed as the official music fest of Mardi Gras, at Mardi Gras World with doors at 6:30 PM.",
+        "genres": [
+          "festival",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-zoolu-day-1-2026",
+        "title": "ZOOLU 32 Day 1: Disco Lines + CID",
+        "type": "festival",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-12",
+        "importance": 82,
+        "venueName": "Mardi Gras World",
+        "venueId": null,
+        "sourceUrl": "https://zoolufest.com/",
+        "ticketUrl": "https://www.eventim.us/",
+        "summary": "ZOOLU 32 opened its Mardi Gras electronic run with Disco Lines and CID at Mardi Gras World.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-orleans-freedia-gras-2026",
+        "title": "Freedia Gras featuring Big Freedia",
+        "type": "club-night",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-12",
+        "importance": 84,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://relix.com/news/detail/tipitinas-unveils-entertainment-schedule-for-mardi-gras-2026-galactic-the-rumble-big-freedia-dumpstaphunk-and-more/",
+        "ticketUrl": "https://tipitinas.com/",
+        "summary": "Tipitina’s Mardi Gras schedule included Freedia Gras, helmed by New Orleans bounce star Big Freedia.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-dumpstaphunk-mardi-gras-2026",
+        "title": "Dumpstaphunk at Tipitina’s Mardi Gras",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 80,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://relix.com/news/detail/tipitinas-unveils-entertainment-schedule-for-mardi-gras-2026-galactic-the-rumble-big-freedia-dumpstaphunk-and-more/",
+        "ticketUrl": "https://tipitinas.com/",
+        "summary": "New Orleans funk band Dumpstaphunk played Tipitina’s as part of the venue’s Mardi Gras 2026 run.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-zoolu-day-2-2026",
+        "title": "ZOOLU 32 Day 2: Alison Wonderland + Trivecta + Baclash",
+        "type": "festival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 84,
+        "venueName": "The Metropolitan Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://zoolufest.com/",
+        "ticketUrl": "https://www.eventim.us/",
+        "summary": "ZOOLU 32 continued at The Metropolitan Nightclub with Alison Wonderland, Trivecta, and Baclash.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-galactic-mardi-gras-2026",
+        "title": "Galactic at Tipitina’s Mardi Gras",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 85,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://relix.com/news/detail/tipitinas-unveils-entertainment-schedule-for-mardi-gras-2026-galactic-the-rumble-big-freedia-dumpstaphunk-and-more/",
+        "ticketUrl": "https://tipitinas.com/",
+        "summary": "Galactic returned to Tipitina’s for a Valentine’s Day Mardi Gras concert with featured guest Anjelika Jelly Joseph.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-dirty-dozen-brass-band-2026",
+        "title": "The Dirty Dozen Brass Band at Tipitina’s Mardi Gras",
+        "type": "club-night",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 80,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://relix.com/news/detail/tipitinas-unveils-entertainment-schedule-for-mardi-gras-2026-galactic-the-rumble-big-freedia-dumpstaphunk-and-more/",
+        "ticketUrl": "https://tipitinas.com/",
+        "summary": "The Dirty Dozen Brass Band played the Sunday night slot in Tipitina’s Mardi Gras 2026 program.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-zoolu-day-3-2026",
+        "title": "ZOOLU 32 Day 3: HUGEL",
+        "type": "festival",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 82,
+        "venueName": "The Metropolitan Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://zoolufest.com/",
+        "ticketUrl": "https://www.eventim.us/",
+        "summary": "ZOOLU 32 closed its listed 2026 Mardi Gras run with HUGEL at The Metropolitan Nightclub.",
+        "genres": [
+          "electronic",
+          "house",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-orleans-zulu-lundi-gras-festival-2026",
+        "title": "32nd Annual Zulu Lundi Gras Festival",
+        "type": "festival",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 88,
+        "venueName": "Woldenberg Park",
+        "venueId": null,
+        "sourceUrl": "https://www.lundigrasfestival.com/event-info/entertainment",
+        "ticketUrl": "https://www.lundigrasfestival.com/",
+        "summary": "Zulu Lundi Gras Festival filled Woldenberg Park with three stages, including DJ Jubilee, Young Pin Stripe Brass Band, Brass-A-Holics, Big Frank & Lil Franka, and more.",
+        "genres": [
+          "festival",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-mardi-gras-morning-sunrise-2026",
+        "title": "Mardi Gras Morning Sunrise Set",
+        "type": "club-night",
+        "startDate": "2026-02-17",
+        "endDate": "2026-02-17",
+        "importance": 84,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://relix.com/news/detail/tipitinas-unveils-entertainment-schedule-for-mardi-gras-2026-galactic-the-rumble-big-freedia-dumpstaphunk-and-more/",
+        "ticketUrl": "https://tipitinas.com/",
+        "summary": "Tipitina’s Fat Tuesday Sunrise Set featured Big Chief Juan Pardo & The Golden Comanches with Billy Iuso, with doors listed for 5 AM.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-ruthie-foster-2026",
+        "title": "Ruthie Foster",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 72,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/ruthie-foster-new-orleans-louisiana-02-27-2026/event/1B0062E2A83B3CD2",
+        "ticketUrl": "https://www.ticketmaster.com/ruthie-foster-new-orleans-louisiana-02-27-2026/event/1B0062E2A83B3CD2",
+        "summary": "Grammy-winning blues and roots singer-songwriter Ruthie Foster performed at New Orleans Jazz Market on February 27.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

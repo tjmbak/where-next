@@ -1,0 +1,225 @@
+{
+  "slug": "tbilisi",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:54:01.488Z",
+  "responseId": "resp_076cc251685786460069ff663205e88194a2a437392bbd9f5f",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Tbilisi is especially strong for club-focused travel, with Bassiani and KHIDI anchoring the calendar alongside major one-off electronic, jazz, and pop concerts.",
+    "events": [
+      {
+        "id": "tbilisi-bassiani-horoom-la-noche-may-2026",
+        "title": "Bassiani / Horoom x La Noche: Kr!z, Sandrien, Hamatsuki, Kancheli b2b Newa",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 88,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2401197",
+        "ticketUrl": "https://ra.co/events/2401197",
+        "summary": "Bassiani’s May 1 edition pairs international techno names Kr!z and Sandrien with Hamatsuki and a Kancheli b2b Newa set, while Horoom hosts a La Noche takeover with Byron Yeates, DHC, Edge and THC.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-eerste-communie-may-2026",
+        "title": "Bassiani x Eerste Communie: Rene Wise & Amoral, Hitam, Mari Sakurai, Richard Akingbehin",
+        "type": "club-night",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 90,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2401198",
+        "ticketUrl": "https://ra.co/events/2401198",
+        "summary": "Amsterdam party series Eerste Communie takes over Bassiani with Rene Wise & Amoral, Hitam live, Mari Sakurai, Richard Akingbehin and WINDFUHR. Horoom adds ATEQ, Dito, HVL live and Kdema.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-regal-bloody-mary-may-2026",
+        "title": "KHIDI: Bloody Mary, Espen Lauritzen, Frequency Shifter, Regal",
+        "type": "club-night",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 85,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://ra.co/events/2419526",
+        "ticketUrl": "https://ra.co/events/2419526",
+        "summary": "KHIDI’s May 8 lineup is led by Regal and Bloody Mary, with Espen Lauritzen and resident Frequency Shifter on the main floor. G2 hosts Elene, Memotech and Sevda.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-janoska-kakhidze-festival-may-2026",
+        "title": "Janoshka Ensemble and Tbilisi Symphony Orchestra",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 76,
+        "venueName": "Jansug Kakhidze Center for Music and Culture",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/ianoshka-ansambli-da-tbilisis-simfoniuri-orke",
+        "ticketUrl": "https://biletebi.ge/en/concerts/ianoshka-ansambli-da-tbilisis-simfoniuri-orke",
+        "summary": "The Janoshka Ensemble performs with the Tbilisi Symphony Orchestra for the opening concert of the Djansug Kakhidze 11th International Music Festival.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tbilisi-adam-port-mtatsminda-may-2026",
+        "title": "Adam Port (Keinemusik)",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 87,
+        "venueName": "Mtatsminda Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2381569",
+        "ticketUrl": "https://ra.co/events/2381569",
+        "summary": "Mono Hall and Boom Boom Booking Agency present Adam Port of Keinemusik at Mtatsminda Park for a large-scale house and Afro-house event.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-eau-de-cologne-prncptl-may-2026",
+        "title": "Eau De Cologne x PRNCPTL",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 82,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2419835",
+        "ticketUrl": "https://ra.co/events/2419835",
+        "summary": "Eau De Cologne closes its season at Bassiani with a collaboration with Berlin queer collective Pornceptual. The lineup features Anketa, Citizens Union, Natuta, Rachel Noon and VINVAR.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-electro-deluxe-kakhidze-may-2026",
+        "title": "Electro Deluxe and Tbilisi Symphony Orchestra",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-13",
+        "importance": 77,
+        "venueName": "Jansug Kakhidze Center for Music and Culture",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/eleqtro-deluqsi-da-tbilisis-simfoniuri-orkest",
+        "ticketUrl": "https://biletebi.ge/en/concerts/eleqtro-deluqsi-da-tbilisis-simfoniuri-orkest",
+        "summary": "French jazz-funk group Electro Deluxe performs with the Tbilisi Symphony Orchestra as part of the Djansug Kakhidze 11th International Music Festival.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-vini-vici-monohall-may-2026",
+        "title": "Vini Vici",
+        "type": "concert",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-15",
+        "importance": 80,
+        "venueName": "MonoHall",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/vinivicii",
+        "ticketUrl": "https://biletebi.ge/en/concerts/vinivicii",
+        "summary": "Psytrance duo Vini Vici return to Tbilisi for a MonoHall show on May 15.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-till-bronner-kakhidze-may-2026",
+        "title": "Till Brönner Quintet and Tbilisi Symphony Orchestra",
+        "type": "concert",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-21",
+        "importance": 80,
+        "venueName": "Jansug Kakhidze Center for Music and Culture",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/til-broneris-kvinteti-da-tbilisis-simfoniuri",
+        "ticketUrl": "https://biletebi.ge/en/concerts/til-broneris-kvinteti-da-tbilisis-simfoniuri",
+        "summary": "German trumpeter Till Brönner and his quintet join the Tbilisi Symphony Orchestra for jazz standards and Brönner compositions at the Djansug Kakhidze festival.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tbilisi-shimza-noise-may-2026",
+        "title": "Shimza x NOISE",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 82,
+        "venueName": "Underwheel Terrace",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2413560",
+        "ticketUrl": "https://ra.co/events/2413560",
+        "summary": "NOISE brings South African Afro-house artist Shimza to Underwheel Terrace for his first Georgia appearance.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-horoom-nthng-hamatsuki-may-2026",
+        "title": "Horoom: Hamatsuki live, Mancho, Neon Warrior, nthng",
+        "type": "club-night",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 84,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2401207",
+        "ticketUrl": "https://ra.co/events/2401207",
+        "summary": "Horoom’s May 30 program features Hamatsuki live, Mancho, Neon Warrior and atmospheric electronic producer nthng.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tbilisi-kovacs-republic-may-2026",
+        "title": "Kovacs in Tbilisi",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 76,
+        "venueName": "Republic Event Hall",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/kovas-tbilisi",
+        "ticketUrl": "https://biletebi.ge/en/concerts/kovas-tbilisi",
+        "summary": "Dutch singer Sharon Kovacs plays Republic Event Hall with material spanning her soul-jazz catalogue and newer electronic-leaning work.",
+        "genres": [
+          "jazz",
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

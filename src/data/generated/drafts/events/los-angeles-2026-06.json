@@ -1,0 +1,218 @@
+{
+  "slug": "los-angeles",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:08:23.857Z",
+  "responseId": "resp_0bf3cb8b6d3719450069ff5b646d50819cb102785e57c6b935",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is especially strong in Los Angeles thanks to Pride weekend, World Cup fan programming, Hollywood Bowl season openers, and major arena pop/Latin/hip-hop tours.",
+    "events": [
+      {
+        "id": "los-angeles-outloud-weho-pride-2026",
+        "title": "OUTLOUD Music Festival at WeHo Pride",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 86,
+        "venueName": "West Hollywood Park",
+        "venueId": null,
+        "sourceUrl": "https://www.wehopride.com/event/outloud-weho-pride",
+        "ticketUrl": "https://www.wehopride.com/event/outloud-weho-pride",
+        "summary": "Three-day WeHo Pride music festival headlined by The Pussycat Dolls, JADE, and Ava Max at West Hollywood Park.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-blue-note-jazz-festival-2026",
+        "title": "Blue Note Jazz Festival at the Hollywood Bowl",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 88,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenotejazz.com/jazz-festival-hollywood-bowl/",
+        "ticketUrl": "https://www.bluenotejazz.com/jazz-festival-hollywood-bowl/",
+        "summary": "Blue Note’s Hollywood Bowl weekend features jazz, soul, funk, and R&B programming; confirmed artists include Patti LaBelle, Wyclef Jean, Gregory Porter, Samara Joy, Yussef Dayes, Cimafunk, Robert Glasper presents R+R=NOW, and Kokoroko.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-red-bull-midsummer-la-2026",
+        "title": "Red Bull Midsummer LA",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 80,
+        "venueName": "The Hollywood Roosevelt",
+        "venueId": null,
+        "sourceUrl": "https://www.redbull.com/us-en/events/midsummer-los-angeles",
+        "ticketUrl": "https://www.redbull.com/us-en/events/midsummer-los-angeles",
+        "summary": "Red Bull’s global Midsummer electronic series lands in Los Angeles with TOKiMONSTA, Austin Millz, Noodles, Baile World, Pangea Sound, STRAWBRY & Friends, heds, and THE 9AM BANGER listed on the schedule.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-fifa-fan-festival-2026",
+        "title": "FIFA Fan Festival Los Angeles",
+        "type": "festival",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-14",
+        "importance": 82,
+        "venueName": "Los Angeles Memorial Coliseum",
+        "venueId": null,
+        "sourceUrl": "https://www.lacoliseum.com/events/fifa-fan-festival-los-angeles/",
+        "ticketUrl": "https://www.lacoliseum.com/events/fifa-fan-festival-los-angeles/",
+        "summary": "Official FIFA Fan Festival for the World Cup opening weekend in Los Angeles, with live match broadcasts, musical performances, cultural programming, and fan activations at the Coliseum.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-shakira-intuit-dome-2026",
+        "title": "Shakira: Las Mujeres Ya No Lloran World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 90,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule",
+        "ticketUrl": "https://www.intuitdome.com/events/event-schedule",
+        "summary": "Shakira plays two arena dates at Intuit Dome in Inglewood on June 13 and 14 as part of her Las Mujeres Ya No Lloran World Tour 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-ariana-grande-crypto-2026",
+        "title": "Ariana Grande: The Eternal Sunshine Tour",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 92,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/arianagrande26",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/arianagrande26",
+        "summary": "Ariana Grande brings The Eternal Sunshine Tour to Crypto.com Arena for two confirmed Los Angeles dates, June 13 and 14.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-diljit-dosanjh-crypto-2026",
+        "title": "Diljit Dosanjh: Aura North American Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 78,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/index/12",
+        "ticketUrl": "https://www.cryptoarena.com/events/index/12",
+        "summary": "Punjabi superstar Diljit Dosanjh brings his Aura North American Tour 2026 to Crypto.com Arena for a June 18 arena show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-don-toliver-crypto-2026",
+        "title": "Don Toliver: Octane Tour",
+        "type": "concert",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-29",
+        "importance": 78,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/dontoliver062926",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/dontoliver062926",
+        "summary": "Don Toliver’s Octane Tour is listed for a two-night Crypto.com Arena run on June 28 and 29.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-asap-rocky-kia-forum-2026",
+        "title": "A$AP Rocky: Don't Be Dumb World Tour",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 78,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/events/",
+        "ticketUrl": "https://thekiaforum.com/events/",
+        "summary": "A$AP Rocky plays Kia Forum in Inglewood on June 27 on the Don't Be Dumb World Tour.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-rosalia-kia-forum-2026",
+        "title": "ROSALÍA: LUX Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-29",
+        "endDate": "2026-07-01",
+        "importance": 86,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/events/",
+        "ticketUrl": "https://thekiaforum.com/events/",
+        "summary": "ROSALÍA’s LUX Tour 2026 is listed at Kia Forum with a Los Angeles-area run beginning June 29 and continuing July 1.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-palomazo-norteno-kia-forum-2026",
+        "title": "Palomazo Norteño: Clase Maestra Tour",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 72,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/events/",
+        "ticketUrl": "https://thekiaforum.com/events/",
+        "summary": "Palomazo Norteño brings the Clase Maestra Tour to Kia Forum on June 26.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-tunnel-pride-weekender-2026",
+        "title": "TUNNEL Pride Weekender",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 72,
+        "venueName": "TBA Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386500",
+        "ticketUrl": "https://ra.co/events/2386500",
+        "summary": "TUNNEL’s Pride Weekender is a two-night Los Angeles dance event with announced artists including LSDXOXO, Juliana Huxtable, Cece Natalie, Babymorocco, deBasement, River Moon, and OZA.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

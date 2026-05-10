@@ -1,0 +1,188 @@
+{
+  "slug": "malta",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:26:55.452Z",
+  "responseId": "resp_030fdee3a150ff3f0069ff5fce5cf081a2bbde91a80e924097",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually stacked for Malta, spanning open-air pop spectacles, jazz programming, and a heavy run of electronic club and festival events.",
+    "events": [
+      {
+        "id": "malta-galactica-residency-jul-2026",
+        "title": "Cocoricò Presents Galactica Malta — Week 2",
+        "type": "residency",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-03",
+        "importance": 82,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2390249",
+        "ticketUrl": "https://shop.tixify.live/seller/odel-co-ltd-uno-2025-qug2",
+        "summary": "Galactica returns to UNO Malta as a 10-date summer residency from Cocoricò, with the July 3 edition explicitly listed by RA. The night is billed as a hard-techno-focused Friday takeover, with lineups still to be announced.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-bbc-concert-orchestra-2026",
+        "title": "BBC Concert Orchestra Presents: ABBA Versus Bee Gees",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 78,
+        "venueName": "The Granaries, Floriana",
+        "venueId": null,
+        "sourceUrl": "https://maltashows.com/bbc-concert-orchestra-abba-vesus-bee-gees/",
+        "ticketUrl": "https://maltashows.com/bbc-concert-orchestra-abba-vesus-bee-gees/",
+        "summary": "BBC Radio 2 and the BBC Concert Orchestra return to Malta with a one-night open-air disco programme celebrating ABBA and the Bee Gees. The show is billed for Saturday, July 4 at The Granaries in Floriana with more than 70 musicians plus vocalists and a guest presenter.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-deborah-de-luca-cafe-del-mar-2026",
+        "title": "G7 Presents Deborah De Luca at Café del Mar",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 75,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2405539",
+        "ticketUrl": "https://www.showshappening.com/",
+        "summary": "G7 presents techno headliner Deborah De Luca for a July 4 sunset-to-late session at Café del Mar Malta. RA lists the event for 20:00–01:00 at the Qawra venue.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-rivo-uno-yakuza-2026",
+        "title": "UNO x Yakuza Present RIVO",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 76,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2400604",
+        "ticketUrl": "https://ra.co/events/2400604",
+        "summary": "French DJ and producer RIVO headlines UNO Malta with support from Daniel Blade. The RA listing describes his sound as melodic techno with afro-driven rhythms and confirms the July 4 date.",
+        "genres": [
+          "electronic",
+          "techno",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "malta-jazz-festival-2026",
+        "title": "Malta Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-11",
+        "importance": 90,
+        "venueName": "Various Valletta venues",
+        "venueId": null,
+        "sourceUrl": "https://www.festivals.mt/events",
+        "ticketUrl": null,
+        "summary": "Festivals Malta’s July jazz programme runs from July 6 to 11, including opening concerts, late-night sessions, and Ta’ Liesse concerts. Confirmed artists across the listed programme include Toninho Horta 4TET, Seamus Blake, Jeff Ballard, Kurt Rosenwinkel, and Terri Lyne Carrington.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "malta-michael-buble-2026",
+        "title": "Michael Bublé Live in Concert",
+        "type": "concert",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-08",
+        "importance": 86,
+        "venueName": "Park Nazzjonali Ta’ Qali",
+        "venueId": null,
+        "sourceUrl": "https://eventworks.mt/michaelbuble",
+        "ticketUrl": "https://eventworks.mt/michaelbuble",
+        "summary": "Michael Bublé plays a one-night Malta concert at Park Nazzjonali Ta’ Qali on Wednesday, July 8. Eventworks lists the show time as 18:00 with ticket tiers starting at €40.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "malta-mestiza-cafe-del-mar-2026",
+        "title": "G7 Presents MËSTIZA at Café del Mar",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 78,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.showshappening.com/G7/G7-presents-MSTIZA-at-Caf-del-Mar",
+        "ticketUrl": "https://www.showshappening.com/G7/G7-presents-MSTIZA-at-Caf-del-Mar",
+        "summary": "MËSTIZA bring their electronic-and-Spanish-heritage fusion to Café del Mar Malta on July 18. The official ticketing page lists the event at 20:00 and describes the duo’s sound as blending afro, Arabic, and Latin influences.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-isle-of-mtv-2026",
+        "title": "Isle of MTV Malta 2026: Katy Perry",
+        "type": "festival",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 96,
+        "venueName": "Isle of MTV / Floriana",
+        "venueId": null,
+        "sourceUrl": "https://www.katyperry.com/gig/july-22-2026-isle-of-mtv-malta/",
+        "ticketUrl": "https://isleofmtv.com/",
+        "summary": "Katy Perry is confirmed on her official tour page for Isle of MTV Malta on July 22. Additional Isle of MTV Malta 2026 performers had not yet been fully announced at research time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-robin-schulz-cafe-del-mar-2026",
+        "title": "Robin Schulz at Café del Mar Malta",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": "2026-07-31",
+        "importance": 74,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412168",
+        "ticketUrl": "https://ra.co/events/2412168",
+        "summary": "Robin Schulz is listed by RA for a July 31 show at Café del Mar Malta from 20:00 to 01:00. The listing highlights his global dance hits including “Sugar,” “Waves,” and “Prayer in C.”",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-spiral-festival-2026",
+        "title": "EXIT Presents: Spiral Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 88,
+        "venueName": "Gianpula Village / Café del Mar / Toy Room Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://spiral-festival.com/",
+        "ticketUrl": "https://www.showshappening.com/GMED/EXIT-Presents-Spiral-Festival-2026",
+        "summary": "EXIT’s new Spiral Festival debuts in Malta from July 31 to August 2 across Gianpula Village, Café del Mar, and Toy Room Beach Club. Confirmed artists include Fatboy Slim, Nina Kraviz, Lilly Palmer, Argy, LP Giobbi, Kasia, Layla Benitez, and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      }
+    ]
+  }
+}

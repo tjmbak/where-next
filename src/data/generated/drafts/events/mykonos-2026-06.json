@@ -1,0 +1,227 @@
+{
+  "slug": "mykonos",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:45:30.427Z",
+  "responseId": "resp_0316f91585a8c9e40069ff5638135881a18c6752202cc8d725",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mykonos",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 is already anchored by Scorpios Mykonos’ official daily music program, with a few confirmed headline beach-club dates at Tropicana later in the month.",
+    "events": [
+      {
+        "id": "mykonos-scorpios-damian-lazarus-jun-2026",
+        "title": "Damian Lazarus, LICA",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-11",
+        "importance": 84,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Damian Lazarus headlines Scorpios’ Terrace music program with LICA on support. The event is listed for 5:00 pm to midnight in Mykonos.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-agoria-jun-2026",
+        "title": "Lannka Invites Agoria, Kaytek",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 82,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Scorpios lists a Lannka Invites night with French electronic artist Agoria and Kaytek. The event is part of the Sunset Area music program.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-carlita-jane-ryse-2026",
+        "title": "Carlita, Jane Ryse",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 82,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Carlita appears on Scorpios’ Terrace program with Jane Ryse, whose listing highlights Afro House selections. The event runs from 5:00 pm to midnight.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-bedouin-atsou-2026",
+        "title": "Bedouin, ATSOU",
+        "type": "club-night",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 86,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Bedouin headline Scorpios’ Terrace with ATSOU. The official listing describes cross-cultural electronic sounds and global house selections.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-parra-for-cuva-2026",
+        "title": "Lannka Invites Parra For Cuva (Live)",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 80,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Parra For Cuva performs live for a Lannka Invites night at Scorpios. The listing frames the set around piano, synth and rhythm-led electronic productions.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-whomadewho-lannka-2026",
+        "title": "WhoMadeWho (Hybrid DJ Set), Lannka",
+        "type": "club-night",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 84,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "WhoMadeWho bring a Hybrid DJ Set to Scorpios’ Terrace with Lannka. The official program lists the event for 5:00 pm to midnight.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-arkadyan-yemanjo-2026",
+        "title": "ARKADYAN (Live), YEMANJO feat. Irene Rosalia (Live)",
+        "type": "club-night",
+        "startDate": "2026-06-22",
+        "endDate": "2026-06-22",
+        "importance": 78,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Scorpios’ Sunset Area program pairs live sets from ARKADYAN and YEMANJO featuring Irene Rosalia. The listing emphasizes organic house, Afro-Balkanic and Latin/African influences.",
+        "genres": [
+          "house",
+          "afro-house",
+          "latin"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-bedouin-santiago-garcia-2026",
+        "title": "Bedouin, Santiago Garcia",
+        "type": "club-night",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-25",
+        "importance": 86,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Bedouin return to Scorpios’ Terrace with Santiago Garcia. The official description notes deep house and melodic techno elements for the sunset hours.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-henrik-schwarz-2026",
+        "title": "Lannka Invites Henrik Schwarz (Live)",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 82,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Henrik Schwarz is listed for a live Lannka Invites performance at Scorpios. The program describes a crossover electronic set focused on versatile sound design.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-andme-ahmed-spins-ankhoi-2026",
+        "title": "&ME, Ahmed Spins B2B Ankhoï",
+        "type": "club-night",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 90,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Keinemusik’s &ME tops a Scorpios Terrace bill with Ahmed Spins B2B Ankhoï. The official program lists hypnotic builds and groove-led selections from 5:00 pm to midnight.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-el-buho-sandra-bernardo-2026",
+        "title": "El Búho feat. Sandra Bernardo (Live), RENATTA",
+        "type": "club-night",
+        "startDate": "2026-06-29",
+        "endDate": "2026-06-29",
+        "importance": 78,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "El Búho and Sandra Bernardo perform live at Scorpios with RENATTA. The listing highlights Latin American folk traditions fused with electronica and nature samples.",
+        "genres": [
+          "electronic",
+          "latin",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-tropicana-biscits-2026",
+        "title": "BISCITS",
+        "type": "beach-club",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 72,
+        "venueName": "Tropicana Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://www.tropicanamykonos.com/events/",
+        "ticketUrl": null,
+        "summary": "Tropicana Mykonos lists BISCITS for a 16:30 beach-club event on June 20. The venue’s official events calendar includes reservation and VIP table options for this date.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

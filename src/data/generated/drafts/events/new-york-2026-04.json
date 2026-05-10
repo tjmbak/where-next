@@ -1,0 +1,221 @@
+{
+  "slug": "new-york",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:11:05.332Z",
+  "responseId": "resp_05cd62266344f52b0069ff5c2e37388196a721fe175caba71b",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in New York leaned heavily into arena pop/Latin tours, jazz-festival programming, and high-profile electronic club nights in Queens and Brooklyn.",
+    "events": [
+      {
+        "id": "new-york-lady-gaga-mayhem-ball-2026",
+        "title": "Lady Gaga: The MAYHEM Ball",
+        "type": "concert",
+        "startDate": "2026-04-13",
+        "endDate": "2026-04-13",
+        "importance": 96,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/lady-gaga-madison-square-garden-march-2026/3B006323A17C102E",
+        "ticketUrl": "https://www.ticketmaster.com/lady-gaga-tickets/artist/1249444",
+        "summary": "Lady Gaga brought The MAYHEM Ball to Madison Square Garden, with the MSG event page listing April 13 as part of the New York run.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-hayley-williams-hammerstein-2026",
+        "title": "Good Dye Young Presents: Hayley Williams At A Bachelorette Party",
+        "type": "concert",
+        "startDate": "2026-04-12",
+        "endDate": "2026-04-12",
+        "importance": 82,
+        "venueName": "Manhattan Center Hammerstein Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/good-dye-young-presents-hayley-williams-new-york-new-york-04-12-2026/event/000063690678ED62",
+        "ticketUrl": "https://www.ticketmaster.com/good-dye-young-presents-hayley-williams-new-york-new-york-04-12-2026/event/000063690678ED62",
+        "summary": "Hayley Williams played Manhattan Center Hammerstein Ballroom on the Good Dye Young-presented tour, with Ticketmaster listing the April 12 New York date at 7:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-blessd-barclays-2026",
+        "title": "BLESSD: EL MEJOR HOMBRE DEL MUNDO TOUR",
+        "type": "concert",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 78,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/blessd-2026",
+        "ticketUrl": "https://www.ticketmaster.com/barclays-center-tickets-brooklyn/venue/393376",
+        "summary": "Colombian artist BLESSD brought EL MEJOR HOMBRE DEL MUNDO TOUR to Barclays Center on Friday, April 17.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-groove-armada-knockdown-2026",
+        "title": "Groove Armada (DJ Set), Marcellus Pittman, Rose Kourts",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 80,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2372403",
+        "ticketUrl": "https://ra.co/events/2372403",
+        "summary": "Groove Armada headlined a Knockdown Center Main Hall DJ-set night with Marcellus Pittman and Rose Kourts on April 18.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-alejandro-sanz-barclays-2026",
+        "title": "Alejandro Sanz: ¿Y ahora qué? Tour 2026",
+        "type": "concert",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 83,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/alejandro-sanz-2026",
+        "ticketUrl": "https://www.ticketmaster.com/barclays-center-tickets-brooklyn/venue/393376",
+        "summary": "Alejandro Sanz brought his ¿Y ahora qué? Tour 2026 to Barclays Center on Saturday, April 18.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-gotham-jazz-festival-2026",
+        "title": "Gotham Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-19",
+        "endDate": "2026-04-19",
+        "importance": 75,
+        "venueName": "Three West Club",
+        "venueId": null,
+        "sourceUrl": "https://www.gothamjazzfestnyc.com/festival/2026",
+        "ticketUrl": "https://gothamjazzfest2026.eventbrite.com",
+        "summary": "The 8th annual Gotham Jazz Festival was a one-day hot jazz, swing, and blues event at Three West Club, featuring acts including The Hot Sardines, Eyal Vilner Big Band, Alphonso Horne & The Gotham Kings, and more.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-ridgewood-jazz-festival-2026",
+        "title": "Ridgewood Jazz Festival",
+        "type": "festival",
+        "startDate": "2026-04-19",
+        "endDate": "2026-04-26",
+        "importance": 73,
+        "venueName": "Multiple venues in Ridgewood/Queens",
+        "venueId": null,
+        "sourceUrl": "https://jazzin.nyc/festival/ridgewood-jazz-festival",
+        "ticketUrl": "https://jazzin.nyc/festival/ridgewood-jazz-festival",
+        "summary": "Ridgewood Jazz Festival ran April 19–26 with 33 shows across venues including Dada, TV Eye, Cassette, Trans-Pecos, Herman Hochberg Plaza, and Queens Theatre.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-downtown-nyc-jazzfest-2026",
+        "title": "Downtown NYC JazzFest",
+        "type": "festival",
+        "startDate": "2026-04-22",
+        "endDate": "2026-04-26",
+        "importance": 72,
+        "venueName": "The Django / Roxy Bar / Club Room at Soho Grand",
+        "venueId": null,
+        "sourceUrl": "https://www.downtownnycjazzfest.com/",
+        "ticketUrl": "https://www.downtownnycjazzfest.com/",
+        "summary": "Downtown NYC JazzFest presented five nights of live jazz from April 22–26 across The Django, Roxy Bar, and Club Room, with featured performances including Jeff “Tain” Watts Quartet, Sasha Berliner Quartet, and Jumaane Smith Quartet.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-florence-machine-barclays-2026",
+        "title": "Florence + The Machine: Everybody Scream",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 86,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/florence-the-machine-2026",
+        "ticketUrl": "https://www.ticketmaster.com/barclays-center-tickets-brooklyn/venue/393376",
+        "summary": "Florence + The Machine brought the Everybody Scream North American Tour 2026 to Barclays Center with Sofia Isella on Friday, April 24.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-carlos-vives-radio-city-2026",
+        "title": "Carlos Vives: Tour Al Sol",
+        "type": "concert",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 82,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/carlos-vives-tour-al-sol-new-york-new-york-04-24-2026/event/3C006366A4022810",
+        "ticketUrl": "https://www.ticketmaster.com/carlos-vives-tour-al-sol-new-york-new-york-04-24-2026/event/3C006366A4022810",
+        "summary": "Carlos Vives played Radio City Music Hall on Tour Al Sol, with Ticketmaster listing the New York date for Friday, April 24 at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-honey-dijon-knockdown-2026",
+        "title": "Honey Dijon, Kilopatrah Jones",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 84,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2375582",
+        "ticketUrl": "https://ra.co/events/2375582",
+        "summary": "Honey Dijon headlined Knockdown Center’s Main Hall on April 24 with support from New York’s Kilopatrah Jones.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-basement-7-year-anniversary-2026",
+        "title": "BASEMENT 7 Year Anniversary",
+        "type": "club-night",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 84,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393731",
+        "ticketUrl": "https://ra.co/events/2393731",
+        "summary": "BASEMENT marked its 7 Year Anniversary with a large club lineup across BASEMENT and STUDIO, including Boris, Juliana Huxtable, Sol Ortega, Sedef Adasï, Gabrielle Kwarteng, and Kilopatrah Jones.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "marrakech",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:36:03.095Z",
+  "responseId": "resp_043b7752f6dee77d0069ff62306df4819d896af7ec27c192cc",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 10,
+    "year": 2026,
+    "notes": "Confirmed in-city October 2026 music programming is still sparse; listings without exact dates were omitted.",
+    "events": [
+      {
+        "id": "marrakech-folklore-days-2026",
+        "title": "Marrakech Folklore Days 2026",
+        "type": "festival",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-25",
+        "importance": 80,
+        "venueName": "Marrakech (citywide)",
+        "venueId": null,
+        "sourceUrl": "https://marrakechfolkloredays.com/en/homeen/",
+        "ticketUrl": null,
+        "summary": "Official site confirms Marrakech Folklore Days returns from October 22 to 25, 2026. The program centers on international folk groups, traditional music and dance, workshops, crafts, and parades across Marrakech.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

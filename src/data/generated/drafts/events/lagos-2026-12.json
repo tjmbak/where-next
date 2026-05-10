@@ -1,0 +1,33 @@
+{
+  "slug": "lagos",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:16:42.091Z",
+  "responseId": "resp_06e0a12c467e16a60069ff5d78de00819d82292e4f7e140b7b",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lagos",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "lagos-festac50-2026",
+        "title": "FESTAC@50",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2027-01-02",
+        "importance": 88,
+        "venueName": "Multiple venues across Lagos: National Theatre, Tafawa Balewa Square, J. Randle Centre and Amuwo-Odofin",
+        "venueId": null,
+        "sourceUrl": "https://www.tantacom.org/wp-content/uploads/2026/01/FESTAC50_.pdf",
+        "ticketUrl": null,
+        "summary": "Published programme materials list FESTAC@50 as a multi-venue Pan-African cultural festival running across Lagos from 26 December 2026 to 2 January 2027. Listed programme strands include the Opening Declaration, Pan-African Cultural & Creative Expo, FESTAC Dialogues, and the Unity Concert & Grand Closing Ceremony.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

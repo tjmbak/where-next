@@ -1,0 +1,100 @@
+{
+  "slug": "ischgl",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:40:07.570Z",
+  "responseId": "resp_06d490143561494b0069ff63122f0481949a2f3b7cfc0cc3e4",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Ischgl was anchored by the Spring Blanc end-of-season programme, with major open-air mountain concerts and DJ-led sunset parties.",
+    "events": [
+      {
+        "id": "ischgl-robin-schulz-easter-2026",
+        "title": "Top of the Mountain Easter Concert with Robin Schulz",
+        "type": "concert",
+        "startDate": "2026-04-05",
+        "endDate": "2026-04-05",
+        "importance": 92,
+        "venueName": "Ischgl Stage at Idalp",
+        "venueId": "top-of-the-mountain-ischgl",
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/robin-schulz-live_event_42210477",
+        "ticketUrl": "https://tickets.ischgl.com/",
+        "summary": "Robin Schulz headlined the Top of the Mountain Easter Concert on the Ischgl Stage at Idalp, supported by Joker PopArt Club. The official event page lists the concert start at 1:00 pm and the venue within the Ischgl ski area.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-sundowner-marvin-aloys-2026",
+        "title": "sun.downer Ischgl with Marvin Aloys",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 72,
+        "venueName": "Bergrestaurant Pardorama at Pardatschgrat",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/springblanc",
+        "ticketUrl": null,
+        "summary": "Spring Blanc’s sun.downer series listed Marvin Aloys on the decks at Pardatschgrat on 10 April 2026. The event combined DJ sounds, an ice bar and an open-air lounge setting at 2,624 metres.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-ben-zucker-spring-concert-2026",
+        "title": "Top of the Mountain Spring Concert with Ben Zucker",
+        "type": "concert",
+        "startDate": "2026-04-19",
+        "endDate": "2026-04-19",
+        "importance": 88,
+        "venueName": "Idalp",
+        "venueId": "top-of-the-mountain-ischgl",
+        "sourceUrl": "https://cms.ischgl.com/Ischgl.com/en/events-experiences/event-calendar/top-of-the-mountain-spring-concert_event_109358843",
+        "ticketUrl": null,
+        "summary": "Ben Zucker performed the Top of the Mountain Spring Concert at Idalp on 19 April 2026. The official event page describes it as his only 2026 “Live with Band” concert in Austria.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-sundowner-klangfarbe-2026",
+        "title": "sun.downer Ischgl with Klangfarbe",
+        "type": "club-night",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 73,
+        "venueName": "Bergrestaurant Pardorama at Pardatschgrat",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/springblanc",
+        "ticketUrl": "https://tickets.ischgl.com/",
+        "summary": "Spring Blanc listed a second sun.downer session on 24 April 2026 with Klangfarbe providing the sound at Pardatschgrat. The format featured sunset DJ beats, drinks and a mountain lounge atmosphere.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-spring-snow-festival-beatrice-egli-2026",
+        "title": "36th International Spring Snow Festival with Beatrice Egli",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 82,
+        "venueName": "Alp Trida, Silvretta Ski Arena Samnaun/Ischgl",
+        "venueId": null,
+        "sourceUrl": "https://cms.ischgl.com/el/fruehlings-schneefest-konzert_event_123042457",
+        "ticketUrl": null,
+        "summary": "Beatrice Egli headlined the Spring Snow Festival Concert at Alp Trida on 25 April 2026. The official listing states the show started at 1:00 pm and was accessible with a valid Ischgl/Samnaun ski pass.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

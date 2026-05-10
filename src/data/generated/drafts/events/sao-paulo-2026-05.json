@@ -1,0 +1,215 @@
+{
+  "slug": "sao-paulo",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:51:09.900Z",
+  "responseId": "resp_08d15108e378aec00069ff6569ce5481a380dd8d8327523383",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in São Paulo mixes stadium-scale pop and rock, Brazilian legacy concerts, C6 Fest, and select electronic club programming.",
+    "events": [
+      {
+        "id": "sao-paulo-the-weeknd-may-2026",
+        "title": "The Weeknd: After Hours Til Dawn",
+        "type": "concert",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 95,
+        "venueName": "MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/the-weeknd-after-hours-til-dawn-venda-geral-01-05-sao-paulo",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/the-weeknd-after-hours-til-dawn-venda-geral-01-05-sao-paulo",
+        "summary": "The Weeknd plays the São Paulo May 1 date of the After Hours Til Dawn stadium tour at MorumBIS. Ticketmaster lists Anitta joining the Brazil dates.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-portal-do-amanha-2026",
+        "title": "Portal do Amanhã by Bybit",
+        "type": "festival",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 86,
+        "venueName": "Parque Villa-Lobos",
+        "venueId": null,
+        "sourceUrl": "https://www.portaldoamanha.tomorrowlandbrasil.com/",
+        "ticketUrl": "https://www.portaldoamanha.tomorrowlandbrasil.com/",
+        "summary": "Tomorrowland Brasil’s official one-year countdown event for 2027 takes place at Parque Villa-Lobos with music, energy, and an audiovisual experience. The official site confirms May 1 in São Paulo.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-djavanear-2026",
+        "title": "Djavan: Djavanear 50 anos — Só Sucessos",
+        "type": "concert",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-09",
+        "importance": 85,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/djavan",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/djavan",
+        "summary": "Djavan opens the national 'Djavanear 50 anos. Só Sucessos' stadium tour with two São Paulo dates at Allianz Parque. The show celebrates five decades of the Alagoas-born singer-songwriter’s career.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-dream-theater-2026",
+        "title": "Dream Theater: 40th Anniversary Tour Parasomnia 2026",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 80,
+        "venueName": "Vibra São Paulo",
+        "venueId": null,
+        "sourceUrl": "https://www.clubedoingresso.com/evento/dreamtheater-2026-saopaulo",
+        "ticketUrl": "https://www.clubedoingresso.com/evento/dreamtheater-2026-saopaulo",
+        "summary": "Dream Theater brings its Parasomnia 2026 Brazil run to Vibra São Paulo. Clube do Ingresso lists the São Paulo show for May 9 with doors at 18:30 and showtime at 20:30.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-gomelyxordia-legowelt-2026",
+        "title": "GOMELYXORDIA presents Legowelt (live) & Gabbs",
+        "type": "club-night",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 70,
+        "venueName": "Palacete",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420091",
+        "ticketUrl": "https://ra.co/events/2420091",
+        "summary": "GOMELYXORDIA hosts Dutch electro/techno figure Legowelt for a live set alongside Gabbs. Resident Advisor confirms the May 8 date at Palacete in central São Paulo.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-jonas-brothers-2026",
+        "title": "Jonas Brothers: Greetings From Your Hometown",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-13",
+        "importance": 84,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/venda-geral-jonas-brothers-greetings-from-your-hometown-sao-paulo",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-jonas-brothers-greetings-from-your-hometown-sao-paulo",
+        "summary": "Jonas Brothers bring the Greetings From Your Hometown tour to Allianz Parque for a São Paulo stadium date. Ticketmaster lists the performance for May 13, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-korn-allianz-2026",
+        "title": "Korn",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 86,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/korn-allianz-parque-20789920/",
+        "ticketUrl": "https://www.eventim.com.br/event/korn-allianz-parque-20789920/",
+        "summary": "Korn plays its only Brazil show of this South American run at Allianz Parque. Eventim confirms the São Paulo date for May 16, 2026.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-mon-laferte-2026",
+        "title": "Mon Laferte: Femme Fatale Tour",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 78,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/mon-laferte-no-espaco-unimed-sp",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/mon-laferte-no-espaco-unimed-sp",
+        "summary": "Mon Laferte returns to Brazil with the Femme Fatale Tour for a single São Paulo performance. Ticketmaster confirms the May 16 show at Espaço Unimed.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-tatu-komplexo-tempo-2026",
+        "title": "t.A.T.u. in São Paulo",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 70,
+        "venueName": "Komplexo Tempo",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107754585-t.a.t.u.-at-komplexo-tempo",
+        "ticketUrl": "https://www.bandsintown.com/e/107754585-t.a.t.u.-at-komplexo-tempo",
+        "summary": "Bandsintown lists t.A.T.u.’s São Paulo show for May 16, 2026 at Komplexo Tempo. The listing describes it as the group’s first Brazil performance.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-c6-fest-2026",
+        "title": "C6 Fest São Paulo 2026",
+        "type": "festival",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-24",
+        "importance": 94,
+        "venueName": "Parque Ibirapuera",
+        "venueId": null,
+        "sourceUrl": "https://www.c6fest.com.br/",
+        "ticketUrl": null,
+        "summary": "C6 Fest occupies Parque Ibirapuera from May 21 to 24 with a global program spanning jazz, electronic, experimental rock, pop, and MPB. The official site confirms the 2026 São Paulo dates and venue.",
+        "genres": [
+          "festival",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-barao-vermelho-encontro-2026",
+        "title": "Barão Vermelho — Encontro SP",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 84,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/barao-vermelho-encontro-allianz-parque-21037988/",
+        "ticketUrl": "https://www.eventim.com.br/event/barao-vermelho-encontro-allianz-parque-21037988/",
+        "summary": "Barão Vermelho’s Encontro project plays Allianz Parque in São Paulo. Eventim confirms the May 23 date and 19:00 event time.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-lenine-eita-2026",
+        "title": "Lenine: EITA",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 78,
+        "venueName": "Tokio Marine Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/lenine-tokio-marine-hall",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/lenine-tokio-marine-hall",
+        "summary": "Lenine brings the live show for 'EITA' to Tokio Marine Hall in São Paulo. Ticketmaster confirms the May 30 date and lists the touring band lineup.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

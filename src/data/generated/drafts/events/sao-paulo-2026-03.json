@@ -1,0 +1,219 @@
+{
+  "slug": "sao-paulo",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:49:41.645Z",
+  "responseId": "resp_00d85d9ba63279530069ff654898fc8196b5dbf669529c29e0",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in São Paulo was anchored by Lollapalooza Brasil and its citywide sideshows, with strong electronic club programming around the same weekend.",
+    "events": [
+      {
+        "id": "sao-paulo-jason-mraz-2026",
+        "title": "Jason Mraz – Return to South America Tour",
+        "type": "concert",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 76,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/jason-mraz-sao-paulo",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/jason-mraz-sao-paulo",
+        "summary": "Jason Mraz played the São Paulo stop of his Return to South America Tour at Espaço Unimed, with a retrospective set from across his career.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-big-time-rush-2026",
+        "title": "Big Time Rush – São Paulo",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 72,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://help.ticketmaster.com.br/hc/pt-br/articles/38397647749265-Big-Time-Rush-Informa%C3%A7%C3%B5es-Gerais",
+        "ticketUrl": "https://www.ticketmaster.com.br/",
+        "summary": "Big Time Rush’s São Paulo concert was listed for Espaço Unimed on March 6, 2026, with doors at 18:00 and show time at 20:45.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-baile-trama-2026",
+        "title": "Baile TRAMA – São Paulo",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 72,
+        "venueName": "Central 1926",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2369778",
+        "ticketUrl": null,
+        "summary": "TRAMA brought its Brazil tour to Central 1926 with a stacked all-B2B lineup moving through baile funk, techno and electronic club sounds.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-the-grid-44-2026",
+        "title": "THE GRID Presents 44",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 79,
+        "venueName": "Komplexo Tempo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2352792",
+        "ticketUrl": "https://www.ingresse.com/",
+        "summary": "THE GRID hosted its 44 concept at Komplexo Tempo, headlined by Kobosil with In Verruf, Ornella, Somewhen and Ueberrest on the lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-tv-girl-2026",
+        "title": "Lolla Sideshow – TV Girl",
+        "type": "concert",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-18",
+        "importance": 78,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/tv-girl",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/tv-girl",
+        "summary": "TV Girl played a Lollapalooza sideshow at Cine Joia, bringing the Los Angeles indie-pop band to São Paulo ahead of the festival weekend.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-blood-orange-2026",
+        "title": "Lolla Sideshow – Blood Orange",
+        "type": "concert",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-19",
+        "importance": 79,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/blood-orange",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/blood-orange",
+        "summary": "Dev Hynes performed as Blood Orange at Cine Joia for a Lollapalooza sideshow focused on indie, soul, R&B and experimental pop.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-interpol-viagra-boys-2026",
+        "title": "Lolla Sideshow – Interpol + Viagra Boys",
+        "type": "concert",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-19",
+        "importance": 82,
+        "venueName": "Audio",
+        "venueId": "audio-club-sp",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/interpol-viagraboys",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/interpol-viagraboys",
+        "summary": "Interpol headlined a Lollapalooza sideshow at Audio, with Sweden’s Viagra Boys opening the night.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-lollapalooza-brasil-2026",
+        "title": "Lollapalooza Brasil 2026",
+        "type": "festival",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-22",
+        "importance": 97,
+        "venueName": "Autódromo de Interlagos",
+        "venueId": "lolla-brasil",
+        "sourceUrl": "https://www.billboard.com.br/line-up-lollapalooza-brasil-2026/",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/lollapaloozabr-lolla",
+        "summary": "The 13th edition of Lollapalooza Brasil took place at Autódromo de Interlagos with headliners including Sabrina Carpenter, Chappell Roan, Tyler, The Creator, Lorde, Doechii, Deftones, Skrillex and Lewis Capaldi.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-cory-wong-2026",
+        "title": "Queremos! apresenta Cory Wong",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 74,
+        "venueName": "Casa Natura Musical",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/cory-wong-queremos-na-casa-natura-musical-sp",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/cory-wong-queremos-na-casa-natura-musical-sp",
+        "summary": "Queremos! presented guitarist Cory Wong at Casa Natura Musical in two sessions, with the artist performing in São Paulo with his full band.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-vanessa-da-mata-todas-elas-2026",
+        "title": "Vanessa da Mata – Todas Elas",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 73,
+        "venueName": "Tokio Marine Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/vanessa-da-mata-tokio-marine-hall",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/vanessa-da-mata-tokio-marine-hall",
+        "summary": "Vanessa da Mata returned to São Paulo with her Todas Elas show at Tokio Marine Hall, mixing new material with classics from her career.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-d-edge-nave-chris-liebing-2026",
+        "title": "NAVE D-EDGE SP: Chris Liebing, Anderson Noise, DJ Murphy + more",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 77,
+        "venueName": "D-EDGE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393789",
+        "ticketUrl": null,
+        "summary": "D-EDGE’s NAVE night featured Chris Liebing, Anderson Noise and DJ Murphy on the main floor, with additional sets from ED Lopes, FMENEZS and Gromma.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-pablo-alboran-km0-2026",
+        "title": "Pablo Alborán – Tour Global KM0",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-28",
+        "importance": 73,
+        "venueName": "Teatro Bradesco",
+        "venueId": null,
+        "sourceUrl": "https://uhuu.com/evento/sp/sao-paulo/pablo-alboran-tour-global-km0-ao-vivo-em-sao-paulo-15274",
+        "ticketUrl": "https://uhuu.com/evento/sp/sao-paulo/pablo-alboran-tour-global-km0-ao-vivo-em-sao-paulo-15274",
+        "summary": "Pablo Alborán brought his KM0 global tour to Teatro Bradesco in São Paulo, with multiple sessions listed across March 27 and 28.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

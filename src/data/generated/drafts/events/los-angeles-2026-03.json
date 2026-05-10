@@ -1,0 +1,224 @@
+{
+  "slug": "los-angeles",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:07:16.424Z",
+  "responseId": "resp_083db5530053f5d20069ff5b1b20f881a2805d5a1d3e2ae983",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 leaned heavily electronic and arena-scale, with Skyline, Excision, KREAM, and several Kia Forum shows anchoring the month.",
+    "events": [
+      {
+        "id": "los-angeles-skyline-la-2026",
+        "title": "Skyline LA 2026",
+        "type": "festival",
+        "startDate": "2026-02-28",
+        "endDate": "2026-03-01",
+        "importance": 90,
+        "venueName": "ACE*Mission Studios",
+        "venueId": null,
+        "sourceUrl": "https://skylinefest.com/",
+        "ticketUrl": "https://skylinefest.com/",
+        "summary": "Factory 93’s Skyline LA returned for a two-day house and techno festival in downtown Los Angeles. The 2026 lineup included Richie Hawtin, Marco Carola, Dennis Cruz, Ben UFO, Avalon Emerson, I Hate Models, KI/KI and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-excision-kia-forum-2026",
+        "title": "Excision at Kia Forum",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 84,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/excision-2026-03-06-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/excision-2026-03-06-los-angeles-ca/",
+        "summary": "Bassrush presented Excision for a two-night arena run at Kia Forum in Inglewood. The event was billed by Insomniac as an 18+ dubstep concert series on March 6 and 7.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-kream-liquid-lab-2026",
+        "title": "KREAM: LIQUID : LAB",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 76,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/kream-2026-03-07-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/kream-2026-03-07-los-angeles-ca/",
+        "summary": "Insomniac presented KREAM’s LIQUID : LAB at the Hollywood Palladium. The bill listed KREAM with Kasablanca, Tripps and Welker, with the event tagged as house and electronic.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-miguel-caos-tour-2026",
+        "title": "Miguel: CAOS Tour",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 80,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1205276",
+        "ticketUrl": "https://www.axs.com/events/1205276",
+        "summary": "Miguel brought the CAOS Tour to Kia Forum in Inglewood. The arena date was listed for Friday, March 13, 2026 at 7:30 PM.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-lauren-spencer-smith-wiltern-2026",
+        "title": "Lauren Spencer Smith: The Art of Being a Mess Tour",
+        "type": "concert",
+        "startDate": "2026-03-17",
+        "endDate": "2026-03-17",
+        "importance": 70,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/090062C4D43131AD",
+        "ticketUrl": "https://www.ticketmaster.com/event/090062C4D43131AD",
+        "summary": "Lauren Spencer Smith played The Wiltern on her The Art of Being a Mess Tour. Ticketmaster listed the Los Angeles date for Tuesday, March 17, 2026 at 7:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-ashnikko-shrine-2026",
+        "title": "Ashnikko",
+        "type": "concert",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 76,
+        "venueName": "Shrine Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/ashnikko-tickets/artist/2540940",
+        "ticketUrl": "https://www.ticketmaster.com/ashnikko-tickets/artist/2540940",
+        "summary": "Ashnikko played Shrine Auditorium in Los Angeles on March 20, 2026. Ticketmaster listed the show as an 8:00 PM concert date on Ashnikko’s 2026 routing.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-conan-gray-kia-forum-2026",
+        "title": "Conan Gray: Wishbone World Tour",
+        "type": "concert",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv110Zbg7dAIuO/conan-gray-wishbone-world-tour-with-special-guest-esha-tewari/",
+        "ticketUrl": "https://www.livenation.com/event/vv110Zbg7dAIuO/conan-gray-wishbone-world-tour-with-special-guest-esha-tewari/",
+        "summary": "Conan Gray’s Wishbone World Tour stopped at Kia Forum with special guest Esha Tewari. Live Nation listed the Inglewood show for Friday, March 20, 2026 at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-detroit-love-in-between-2026",
+        "title": "IN BETWEEN x Detroit Love: Carl Craig, Kyle Hall | Open Air",
+        "type": "club-night",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 78,
+        "venueName": "TBA - 6th St Bridge",
+        "venueId": null,
+        "sourceUrl": "https://it.ra.co/events/2354784",
+        "ticketUrl": "https://it.ra.co/events/2354784",
+        "summary": "Detroit Love teamed with In Between for an open-air Los Angeles event headlined by Carl Craig and Kyle Hall, with JMT also listed. Resident Advisor marked the event as an RA Pick and categorized it under techno and house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-clara-cuve-exchange-2026",
+        "title": "MUTATE: Clara Cuvé",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 72,
+        "venueName": "Exchange LA",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/clara-cuve-2026-03-21-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/clara-cuve-2026-03-21-los-angeles-ca/",
+        "summary": "Insomniac’s Mutate series presented Clara Cuvé at Exchange LA. The 21+ techno event was scheduled for Saturday, March 21, 2026 from 10:00 PM to 2:00 AM.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-boys-4-life-kia-forum-2026",
+        "title": "Boys 4 Life Tour",
+        "type": "concert",
+        "startDate": "2026-03-22",
+        "endDate": "2026-03-22",
+        "importance": 74,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kia-forum-tickets-inglewood/venue/73750?page=1&tab=venueDetails",
+        "ticketUrl": "https://www.ticketmaster.com/kia-forum-tickets-inglewood/venue/73750?page=1&tab=venueDetails",
+        "summary": "The Boys 4 Life Tour landed at Kia Forum on Sunday, March 22, 2026. Kia Forum listings identified the arena date for the R&B and hip-hop nostalgia package led by B2K and Bow Wow.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-iheartradio-music-awards-2026",
+        "title": "2026 iHeartRadio Music Awards",
+        "type": "concert",
+        "startDate": "2026-03-26",
+        "endDate": "2026-03-26",
+        "importance": 92,
+        "venueName": "Dolby Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.iheartmedia.com/press/2026-iheartradio-music-awards-airing-thursday-march-26-fox-feature-performances-alex-warren",
+        "ticketUrl": null,
+        "summary": "The 2026 iHeartRadio Music Awards aired live from the Dolby Theatre in Los Angeles. iHeartMedia’s announcement listed performances by Alex Warren, Lainey Wilson, Ludacris, RAYE, TLC, En Vogue, Salt-N-Pepa and more.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-jackson-wang-kia-forum-2026",
+        "title": "Jackson Wang: MAGICMAN 2 World Tour 2026-2027",
+        "type": "concert",
+        "startDate": "2026-03-31",
+        "endDate": "2026-03-31",
+        "importance": 80,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/artist/2647232",
+        "ticketUrl": "https://www.ticketmaster.com/artist/2647232",
+        "summary": "Jackson Wang closed the month with a Kia Forum stop on the MAGICMAN 2 World Tour 2026-2027. Ticketmaster listed the Inglewood show for Tuesday, March 31, 2026 at 8:00 PM.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

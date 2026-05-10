@@ -1,0 +1,217 @@
+{
+  "slug": "tokyo",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:43:28.533Z",
+  "responseId": "resp_01cd9f0faf767c1a0069ff63c9e22881a2ab19795ad220d6b7",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually strong for Tokyo-area arena and stadium pop, with confirmed anime-song festivals, idol/franchise live events, and international R&B headliners already on sale or announced.",
+    "events": [
+      {
+        "id": "tokyo-stereolab-japan-tour-2026",
+        "title": "STEREOLAB Japan Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-01",
+        "importance": 72,
+        "venueName": "KANDA SQUARE HALL",
+        "venueId": null,
+        "sourceUrl": "https://kanda-square.com/event/stereolab-japan-tour-2026/",
+        "ticketUrl": null,
+        "summary": "Stereolab play KANDA SQUARE HALL on July 1 with doors at 18:00 and showtime at 19:00. The venue page confirms the Japan tour date, location, and SMASH production credit.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-ichiko-aoba-nhk-hall-2026",
+        "title": "Ichiko Aoba: 文月の衣紋に綴る熱帯魚",
+        "type": "concert",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-02",
+        "importance": 72,
+        "venueName": "NHK Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27744",
+        "ticketUrl": null,
+        "summary": "Ichiko Aoba is confirmed for NHK Hall on July 2, opening at 18:00 and starting at 19:00. The HOT STUFF promotion page lists the date, venue, and ticket tiers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-soul-camp-2026",
+        "title": "SOUL CAMP 2026",
+        "type": "festival",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 88,
+        "venueName": "SGC Hall Ariake",
+        "venueId": null,
+        "sourceUrl": "https://soul-camp.jp/",
+        "ticketUrl": "https://eplus.jp/sf/detail/1612090001-P0030008P021001",
+        "summary": "SOUL CAMP returns after seven years at SGC Hall Ariake on July 4. The official site confirms Erykah Badu as headliner for an exclusive live-band performance, with more artists to be announced.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-mrs-green-apple-stadium-2026",
+        "title": "Mrs. GREEN APPLE: ZENJIN MITO TO IM/MUTABLE ~Interlude~",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 92,
+        "venueName": "MUFG Stadium (National Stadium)",
+        "venueId": null,
+        "sourceUrl": "https://mrsgreenapple.com/feature/zenjinmito_2026?_normalbrowse_=1&app=&lang=en",
+        "ticketUrl": null,
+        "summary": "Mrs. GREEN APPLE close their stadium run with two Tokyo dates at MUFG Stadium on July 4 and July 5, both opening at 16:30 and starting at 18:30. The official tour page lists the National Stadium schedule and SOGO TOKYO inquiry details.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-erykah-badu-billboard-2026",
+        "title": "An Intimate Night with Erykah Badu",
+        "type": "concert",
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-06",
+        "importance": 86,
+        "venueName": "Billboard Live TOKYO",
+        "venueId": null,
+        "sourceUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21400",
+        "ticketUrl": null,
+        "summary": "Erykah Badu plays Billboard Live TOKYO on July 6 with RC Williams, in two seated stages. The Billboard Live page confirms the Tokyo date, venue, and 17:30 / 20:30 start times.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "tokyo-animelo-summer-live-2026",
+        "title": "Animelo Summer Live 2026 -Messenger-",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-12",
+        "importance": 90,
+        "venueName": "Makuhari Messe",
+        "venueId": null,
+        "sourceUrl": "https://anisama.tv/2026/en/",
+        "ticketUrl": null,
+        "summary": "Animelo Summer Live 2026 runs July 10–12 at Makuhari Messe in Chiba, with artists including SHOUTA AOI, angela, fripSide, GRANRODEO, TrySail, MYTH & ROID, Umamusume: Pretty Derby, CHiCO with HoneyWorks, and ReoNa. The official English site bills ANISAMA as a major anime-song music event and lists daily lineups and start times.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-gaerea-live-2026",
+        "title": "GAEREA Live in Tokyo 2026",
+        "type": "concert",
+        "startDate": "2026-07-14",
+        "endDate": "2026-07-14",
+        "importance": 66,
+        "venueName": "Daikanyama SPACE ODD",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/gaerea26/",
+        "ticketUrl": null,
+        "summary": "Portuguese extreme-metal act GAEREA make their first Japan appearance at Daikanyama SPACE ODD on July 14. Creativeman confirms the Tokyo-only show with doors at 18:00 and start at 19:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-honne-anniversary-2026",
+        "title": "HONNE 10 YEAR ANNIVERSARY TOUR",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 75,
+        "venueName": "SGC Hall Ariake",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/honne_2026/",
+        "ticketUrl": null,
+        "summary": "HONNE bring their 10 Year Anniversary Tour to SGC Hall Ariake on July 22. Creativeman confirms the Tokyo performance, with doors at 18:00 and showtime at 19:00.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-illit-press-start-2026",
+        "title": "ILLIT LIVE 'PRESS START❤' in JAPAN",
+        "type": "concert",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-26",
+        "importance": 86,
+        "venueName": "TOYOTA ARENA TOKYO",
+        "venueId": null,
+        "sourceUrl": "https://illit-official.jp/schedule/919944ed2ed6?CateID=10&SearchWord=",
+        "ticketUrl": null,
+        "summary": "ILLIT are confirmed for three Tokyo arena performances on July 23, July 25, and July 26 at TOYOTA ARENA TOKYO. The official Japan schedule lists the exact dates, doors, and start times for the PRESS START❤ run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-idolmaster-world-super-festival-2026",
+        "title": "THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026",
+        "type": "concert",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-26",
+        "importance": 86,
+        "venueName": "Keio Arena TOKYO",
+        "venueId": null,
+        "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001983.000051316.html",
+        "ticketUrl": "https://idolmaster-official.jp/live_event/mr_idolworld2026/",
+        "summary": "The Idolmaster 20th-anniversary finale runs for three days at Keio Arena TOKYO from July 24 to July 26. Bandai Namco’s announcement confirms the day themes, start times, venue, and first wave of performers for the cross-franchise xR idol live.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-hige-dandism-k-arena-2026",
+        "title": "OFFICIAL HIGE DANDISM one-man tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 88,
+        "venueName": "K-Arena Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://k-arena.com/en/schedule/20260725-1/",
+        "ticketUrl": null,
+        "summary": "Official HIGE DANdism are confirmed for K-Arena Yokohama on July 25 and July 26, with the venue schedule listing 18:00 starts. K-Arena’s official event pages confirm the artist, dates, and ticket categories.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-andteam-blaze-way-2026",
+        "title": "2026 &TEAM CONCERT TOUR 'BLAZE THE WAY' in Chiba",
+        "type": "concert",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 82,
+        "venueName": "LaLa arena TOKYO-BAY",
+        "venueId": null,
+        "sourceUrl": "https://www.andteam-official.jp/schedule/woqjmr",
+        "ticketUrl": null,
+        "summary": "&TEAM’s official site confirms the Chiba stop of the 2026 BLAZE THE WAY tour at LaLa arena TOKYO-BAY on July 25 and July 26. Further performance details are marked as forthcoming on the announcement page.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

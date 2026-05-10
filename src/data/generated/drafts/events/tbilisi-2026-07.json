@@ -1,0 +1,101 @@
+{
+  "slug": "tbilisi",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:55:33.343Z",
+  "responseId": "resp_002c3dfd20e0b5340069ff66867cf8819cb153fe4b0bcbc70f",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is led by Tbilisi Open Air in the city, with nearby Rustavi adding large-scale international concert traffic.",
+    "events": [
+      {
+        "id": "tbilisi-open-air-jul-2026",
+        "title": "Tbilisi Open Air 2026",
+        "type": "festival",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 92,
+        "venueName": "Lisi Wonderland",
+        "venueId": null,
+        "sourceUrl": "https://tbilisiopenair.ge/",
+        "ticketUrl": "https://tbilisiopenair.ge/",
+        "summary": "Two-day edition of Tbilisi Open Air with Slowdive, Jay-Jay Johanson and Matias Aguayo listed for July 4, followed by Hooverphonic, Molchat Doma and Fantastic Man b2b Tornado Wallace on July 5.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-krovostok-2026",
+        "title": "Krovostok in Tbilisi",
+        "type": "concert",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 70,
+        "venueName": "Elektro:Yard",
+        "venueId": null,
+        "sourceUrl": "https://plenka2022.ticketscloud.org/e/697f3c58e23c80fad7ad045c?partner_id=5c3b9ab8620e9b000bccd49a",
+        "ticketUrl": "https://plenka2022.ticketscloud.org/e/697f3c58e23c80fad7ad045c?partner_id=5c3b9ab8620e9b000bccd49a",
+        "summary": "Ticketing page confirms Krovostok in Tbilisi at Elektro:Yard on July 11, 2026 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tbilisi-ricky-martin-2026",
+        "title": "Ricky Martin — Tbilisi 2026",
+        "type": "concert",
+        "startDate": "2026-07-16",
+        "endDate": "2026-07-16",
+        "importance": 84,
+        "venueName": "Rustavi International Motorpark",
+        "venueId": null,
+        "sourceUrl": "https://parklive.world/shows/ricky-martin-tbilisi",
+        "ticketUrl": "https://parklive.world/shows/ricky-martin-tbilisi",
+        "summary": "Park Live World lists Ricky Martin at Rustavi International Motorpark on July 16 at 19:00, with Natalie Imbruglia billed as special guest.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-traitrs-2026",
+        "title": "TRAITRS in Tbilisi",
+        "type": "concert",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 68,
+        "venueName": "Junkyard Club",
+        "venueId": null,
+        "sourceUrl": "https://fienta.com/traitrs-in-tbilisi",
+        "ticketUrl": "https://fienta.com/traitrs-in-tbilisi",
+        "summary": "Canadian post-punk/darkwave duo TRAITRS perform at Junkyard Club on July 17, 2026; the listing gives doors at 20:00 and music from 21:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-moby-live-26-2026",
+        "title": "Moby Live 26",
+        "type": "concert",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "importance": 82,
+        "venueName": "Rustavi International Motorpark",
+        "venueId": null,
+        "sourceUrl": "https://whatabout.live/event/moby-live-georgia-july-30/",
+        "ticketUrl": "https://whatabout.live/event/moby-live-georgia-july-30/",
+        "summary": "Moby is listed for a live performance in Georgia on July 30 at Rustavi International Motorpark, presented by Flitz Collective with doors opening at 18:00.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

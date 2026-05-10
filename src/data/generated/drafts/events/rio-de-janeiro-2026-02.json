@@ -1,0 +1,228 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:31:32.060Z",
+  "responseId": "resp_06b903ac696bac870069ff60c9584c819c98fc28a469a3d059",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Rio was dominated by Carnival, with the Sambadrome, street megablocos, luxury balls, and a parallel wave of international electronic parties around the waterfront.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-rio-carnival-2026",
+        "title": "Rio Carnival 2026",
+        "type": "festival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-21",
+        "importance": 100,
+        "venueName": "Rio Carnival",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://www.rio.com/rio-carnival/rio-carnival-2026",
+        "ticketUrl": "https://www.rio.com/rio-carnival/rio-carnival-2026",
+        "summary": "Rio Carnival 2026 ran from February 13 to 21, turning the city into its annual samba, blocos, balls, and parade epicenter. The official festival period anchored the month’s music-travel calendar.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-grupo-especial-parades-2026",
+        "title": "Rio Carnival 2026 — Grupo Especial Samba School Parades",
+        "type": "festival",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-17",
+        "importance": 98,
+        "venueName": "Sambódromo da Marquês de Sapucaí",
+        "venueId": null,
+        "sourceUrl": "https://riotur.rio/editorial/desfiles-grupo-especial-2026/",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/riocarnaval2026",
+        "summary": "The elite Grupo Especial samba school parades took place across three nights, February 15–17, at Marquês de Sapucaí. The lineup included major schools such as Mangueira, Beija-Flor, Viradouro, Grande Rio, and Salgueiro.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-baile-do-copa-2026",
+        "title": "Baile do Copa BR",
+        "type": "carnival",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 86,
+        "venueName": "Copacabana Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.blocosderua.com/rio-de-janeiro/programacao/baile-do-copa-br-rj-14-02-26/",
+        "ticketUrl": "https://bileto.sympla.com.br/event/105940/d/348139",
+        "summary": "The Copacabana Palace Carnival gala took place on February 14 at 22:00 with the theme “Ponto Br.” The long-running luxury ball centered on Brazilian carnival culture, costumes, and live party atmosphere.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-boma-jamie-jones-2026",
+        "title": "Carnaboma 2026 Grand Opening: Jamie Jones",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 87,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://ma.to/event/carnaboma-2026-grand-opening-13-february-2026-223afb6f",
+        "ticketUrl": null,
+        "summary": "BOMA opened its Carnival run at Museu do Amanhã on February 13 with Jamie Jones, Adam Ten b2b Mita Gami, Miguelle & Tons, and Giu. The night launched the electronic-programming counterpoint to Carnival week.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-boma-black-coffee-2026",
+        "title": "BOMA Carnival: Black Coffee",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 89,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://linktr.ee/carnavalbomarj",
+        "ticketUrl": "https://www.ingresse.com/event/87425",
+        "summary": "BOMA’s February 14 Carnival date at Museu do Amanhã featured Black Coffee with Ahmed Spins, Carlita, Bhaskar, Jackson, Malive, and Unfazed. The lineup made it one of the week’s strongest afro-house and house bookings.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-boma-mochakk-dennis-cruz-2026",
+        "title": "BOMA Carnival: Mochakk & Dennis Cruz",
+        "type": "club-night",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 86,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://ma.to/event/boma-carnival-museu-do-amanha-16-february-2026-36eaa1e9",
+        "ticketUrl": null,
+        "summary": "BOMA’s February 16 party at Museu do Amanhã featured Mochakk, Dennis Cruz, Bob Moses club set, OSGEMEOS, and Halfcab. The event was billed as an all-night-into-sunrise Carnival edition.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-boma-artbat-camelphat-2026",
+        "title": "BOMA Carnival: ARTBAT + CamelPhat",
+        "type": "club-night",
+        "startDate": "2026-02-17",
+        "endDate": "2026-02-18",
+        "importance": 86,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://www.ma.to/event/boma-carnival-artbat-camelphat-17-february-2026-5471fb9a",
+        "ticketUrl": null,
+        "summary": "ARTBAT and CamelPhat headlined BOMA’s February 17–18 Carnival night, joined by LP Giobbi, Departamento, and Tato. The booking leaned into melodic, cinematic club music at the waterfront museum.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-boma-vintage-culture-2026",
+        "title": "CarnaRIO 2026: Vintage Culture",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 88,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://ma.to/event/carnario-2026-vintage-culture-20-february-2026-25435464",
+        "ticketUrl": null,
+        "summary": "BOMA’s Champions Friday event on February 20 featured Vintage Culture, WhoMadeWho hybrid DJ set, OMRI, Eli Iwasa, and Doozie. The date linked Rio’s post-parade Champions weekend with a major Brazilian electronic headliner.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-dawn-patrol-boma-2026",
+        "title": "Dawn Patrol by BOMA — Carnival Edition",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-22",
+        "importance": 85,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://www.ma.to/event/dawn-patrol-carnival-edition-21-february-2026-f0ffefa4",
+        "ticketUrl": null,
+        "summary": "BOMA’s Dawn Patrol closing edition at Museu do Amanhã featured MAZ, ANTDOT, Riascode, Bakka, and special guest Kölsch. The event was billed for Saturday, February 21, running late-night into sunrise.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-camarote-n1-2026",
+        "title": "Camarote Nº1 2026",
+        "type": "residency",
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-15",
+        "importance": 85,
+        "venueName": "Marquês de Sapucaí — Sector 2",
+        "venueId": null,
+        "sourceUrl": "https://camaroten1.com.br/en/",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/camaroten1",
+        "summary": "Camarote Nº1 operated as a premium Sapucaí Carnival party during the samba school parades; this entry uses the explicitly listed February 15 date. The official page confirms its 2026 schedule across parade nights with open bar, food, and party programming.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-bloco-da-anitta-2026",
+        "title": "Bloco da Anitta",
+        "type": "carnival",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 84,
+        "venueName": "Rua Primeiro de Março / Circuito Preta Gil",
+        "venueId": null,
+        "sourceUrl": "https://en.prefeitura.rio/noticias/bloco-da-anitta-reune-700-mil-folioes-e-celebra-a-forca-do-carnaval-de-rua-no-centro-do-rio/",
+        "ticketUrl": null,
+        "summary": "Anitta’s bloco paraded through downtown Rio on February 21, with gatherings starting at 7:00 on Rua Primeiro de Março. Riotur described the show as one of the biggest and most anticipated events on the Rio street-Carnival calendar.",
+        "genres": [
+          "pop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-monobloco-baile-sinfonico-2026",
+        "title": "Baile Sinfônico: Monobloco & Orquestra Petrobras Sinfônica",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 78,
+        "venueName": "Fundição Progresso",
+        "venueId": null,
+        "sourceUrl": "https://www.fundicaoprogresso.com.br/Ingressos/Show/baile-sinfnico-com-orquestra-petrobrs-sinfnica-e-monobloco-2",
+        "ticketUrl": "https://www.ingresse.com/",
+        "summary": "Monobloco and Orquestra Petrobras Sinfônica presented Baile Sinfônico at Fundição Progresso on February 20. The concert reworked Monobloco’s carnival repertoire with symphonic arrangements under conductor Felipe Prazeres.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

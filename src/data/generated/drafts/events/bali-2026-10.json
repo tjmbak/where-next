@@ -1,0 +1,84 @@
+{
+  "slug": "bali",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:23:24.322Z",
+  "responseId": "resp_0334ab4299caa82c0069ff5f3048a081a0830c1603ecad7385",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 10,
+    "year": 2026,
+    "notes": "Confirmed October 2026 music programming is still sparse, with Savaya’s electronic bookings providing the main destination-scale anchors so far.",
+    "events": [
+      {
+        "id": "bali-zamna-savaya-oct-2026",
+        "title": "Zamna Bali 2026 at Savaya",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 88,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/new/zamna-returns-to-the-island",
+        "ticketUrl": "https://megatix.co.id/events/zamna-bali-october-2026",
+        "summary": "Savaya confirms Zamna returns to Bali for two shows on October 17–18, 2026. The Tulum-origin electronic festival brand brings its international club-festival concept to the Uluwatu venue.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-hayden-james-savaya-2026",
+        "title": "Hayden James at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/october-31-2026",
+        "ticketUrl": "https://megatix.co.id/events/hayden-james-3110",
+        "summary": "Australian electronic artist Hayden James is confirmed for a Halloween-night headline set at Savaya Bali on October 31, 2026. The official Savaya event page lists doors at 3:00 PM.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "bali-boat-vibes-vol-4-2026",
+        "title": "Boat Vibes Bali Vol. 4",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 60,
+        "venueName": "The Shivanna - Benoa Check In Point",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/boat-vibes-bali-vol-4",
+        "ticketUrl": "https://megatix.co.id/events/boat-vibes-bali-vol-4",
+        "summary": "Boat Vibes Bali Vol. 4 is a confirmed sunset cruise from Benoa Harbour on October 10, 2026, billed with a live DJ and fire dance. The itinerary runs as a four-hour sailing event along the Nusa Dua coastline.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-shivanna-halloween-2026",
+        "title": "Shivanna Halloween Party",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 61,
+        "venueName": "The Shivanna - Benoa Check In Point",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/shivanna-halloween",
+        "ticketUrl": "https://megatix.co.id/events/shivanna-halloween",
+        "summary": "The Shivanna Halloween Party is confirmed for October 31, 2026, as a sunset cruise from Benoa Harbour. The ticket page lists a live DJ, fire dance, canapés, and a four-hour sailing format.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

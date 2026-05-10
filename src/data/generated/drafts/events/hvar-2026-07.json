@@ -1,0 +1,133 @@
+{
+  "slug": "hvar",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:51:19.206Z",
+  "responseId": "resp_0cf45876bf6d5e2a0069ffd6077ef081949bbf7150491288cb",
+  "searchCalls": 22,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 confirmations are strongest for island festivals and cultural concerts, while major Hvar Town club/residency calendars are still sparse or not date-specific enough to verify.",
+    "events": [
+      {
+        "id": "hvar-tam-tam-music-festival-2026",
+        "title": "14. TAM TAM Music Festival",
+        "type": "festival",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-18",
+        "importance": 78,
+        "venueName": "Sućuraj",
+        "venueId": null,
+        "sourceUrl": "https://glazba.hr/event/14-tam-tam-music-festival/",
+        "ticketUrl": "https://www.entrio.hr/e/tam-tam-music-festival-01feec85",
+        "summary": "The 14th edition of TAM TAM Music Festival runs July 9–18 in Sućuraj on Hvar island. The confirmed bill listed by Glazba.hr includes artists such as Rundek Duo, Tramhaus, Igralom, ISKRA, Karkara, Maali and others.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-kud-jelsa-st-john-square-2026",
+        "title": "KUD Jelsa on St. John’s Square",
+        "type": "concert",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-09",
+        "importance": 60,
+        "venueName": "St. John’s Square, Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/cultural-and-artistic-society-kud-jelsa-on-st-johns-square-trg-sv-ivana-5/",
+        "ticketUrl": null,
+        "summary": "Jelsa Tourist Board lists a July 9 performance by KUD Jelsa on St. John’s Square. The program centers on the instrumental suite “Jelšanski tanci” and local singing traditions including klapa.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-jelsa-od-versa-2026",
+        "title": "The Klapa Song Festival “Jelsa od Versa”",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 64,
+        "venueName": "Jelsa Pjaca",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/the-klapa-song-festival-jelsa-od-versa/",
+        "ticketUrl": null,
+        "summary": "Jelsa od Versa is a klapa-song competition on Jelsa’s main square, scheduled for July 11 at 21:00. The festival focuses on traditional songs from Hvar and works by Hvar-based authors or about Hvar/Jelsa.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-rambo-amadeus-summer-festival-2026",
+        "title": "Rambo Amadeus at Hvar Summer Festival",
+        "type": "concert",
+        "startDate": "2026-07-26",
+        "endDate": "2026-07-26",
+        "importance": 72,
+        "venueName": "Veneranda, Hvar",
+        "venueId": null,
+        "sourceUrl": "https://ramboamadeus.com/events/rambo-amadeus-na-hvar-summer-festivalu-2026",
+        "ticketUrl": null,
+        "summary": "Rambo Amadeus and his band are confirmed for the 64th Hvar Summer Festival at Veneranda on July 26 at 21:30. The artist’s official event page lists the Hvar date and notes tickets via Adriaticket.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "hvar-fishermens-night-jelsa-2026",
+        "title": "Fishermen’s Night in Jelsa",
+        "type": "festival",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "importance": 60,
+        "venueName": "Veli Most, Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/fishermens-night-in-jelsa-3/",
+        "ticketUrl": null,
+        "summary": "Jelsa’s Fishermen’s Night is confirmed for July 30 at Veli Most. The Tourist Board describes a traditional Dalmatian evening with local food and traditional Dalmatian songs.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-mudri-brk-festival-2026",
+        "title": "5. MUDRI BRK Festival",
+        "type": "festival",
+        "startDate": "2026-07-29",
+        "endDate": "2026-08-01",
+        "importance": 66,
+        "venueName": "Ljetno kino Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://core-event.co/en/events/5-mudri-brk-festival-cd19/",
+        "ticketUrl": "https://core-event.co/en/events/5-mudri-brk-festival-cd19/",
+        "summary": "Mudri Brk Festival is confirmed by CoreEvent for July 29 to August 1 in Jelsa, with paid evening concerts at the Jelsa Summer Cinema. The event page describes a program of indie, alternative, rock and pop bands connected to the Mudri Brk micro-label.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-summer-jazz-milna-2026",
+        "title": "Summer Jazz in Milna 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 67,
+        "venueName": "Milna, Hvar",
+        "venueId": null,
+        "sourceUrl": "https://visithvar.hr/summer-jazz-in-milna-2026-jazz-blues-festival-on-the-island-of-hvar/",
+        "ticketUrl": null,
+        "summary": "Visit Hvar confirms Summer Jazz in Milna from July 31 to August 2, 2026. The full program is still pending, but the event is billed as a jazz and blues festival on Hvar island.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "new-york",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:13:57.064Z",
+  "responseId": "resp_0d652a15936790750069ff5cc1d0a081a3b0c6f1291717baf9",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 11,
+    "year": 2026,
+    "notes": "Confirmed November 2026 programming is currently concert-led, with major arena pop/Latin tours, multi-night theater runs, and Jazz at Lincoln Center highlights more visible than club-festival announcements.",
+    "events": [
+      {
+        "id": "new-york-bad-gyal-terminal5-2026",
+        "title": "Bad Gyal — Más Cara World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 78,
+        "venueName": "Terminal 5",
+        "venueId": null,
+        "sourceUrl": "https://www.bowerypresents.com/shows/detail/1415798-bad-gyal",
+        "ticketUrl": "https://www.axs.com/events/1415798/bad-gyal-tickets",
+        "summary": "Bad Gyal brings the Más Cara World Tour 2026 to Terminal 5, with the source listing doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-young-miko-barclays-2026",
+        "title": "Young Miko — Late Checkout Tour",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-05",
+        "importance": 86,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/young-miko",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/young-miko",
+        "summary": "Young Miko brings the Late Checkout Tour to Barclays Center in Brooklyn for an 8:00 PM arena show.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-sammy-rae-paramount-2026",
+        "title": "Sammy Rae & The Friends with Melt",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-06",
+        "importance": 72,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynparamount.com/shows/calendar/2026-11",
+        "ticketUrl": "https://www.livenation.com/event/k7v17_djZG7IT1g/sammy-rae-the-friends-with-special-guest-melt",
+        "summary": "Brooklyn Paramount’s November calendar lists Sammy Rae & The Friends with special guest Melt on November 5 and November 6.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-olafur-arnalds-townhall-2026",
+        "title": "Ólafur Arnalds at The Town Hall",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-05",
+        "importance": 74,
+        "venueName": "The Town Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/olafur-arnalds-tickets/artist/1532790?tt_scene=anchor_view",
+        "ticketUrl": "https://www.bowerypresents.com/shows/detail/1290138-olafur-arnalds",
+        "summary": "Ticketmaster lists Ólafur Arnalds for two New York shows at The Town Hall on November 4 and November 5, 2026.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-marsalis-swinging-cities-2026",
+        "title": "Marsalis’ Swinging Cities — Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Frederick P. Rose Hall",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20624/20626",
+        "ticketUrl": "https://ticketing.jazz.org/20624/20626",
+        "summary": "Jazz at Lincoln Center presents Wynton Marsalis and the Jazz at Lincoln Center Orchestra in a program featuring Vitoria Suite, Shanghai Suite, and Marciac Suite across November 6–7.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-sting-paramount-2026",
+        "title": "STING 3.0 Tour with Fiction Plane",
+        "type": "residency",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 88,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/k7v17_A0AG7nWYA/sting-3-0-tour",
+        "ticketUrl": "https://www.livenation.com/event/k7v17_A0AG7nWYA/sting-3-0-tour",
+        "summary": "Sting’s STING 3.0 Tour plays Brooklyn Paramount with Fiction Plane; this entry uses the explicitly listed November 11 performance.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-bunbury-kings-theatre-2026",
+        "title": "Bunbury — Nuevas Mutaciones Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 76,
+        "venueName": "Kings Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/16dZZ_AZKG7gQEu/bunbury-nuevas-mutaciones-tour-2026",
+        "ticketUrl": "https://www.livenation.com/event/16dZZ_AZKG7gQEu/bunbury-nuevas-mutaciones-tour-2026",
+        "summary": "Spanish rock artist Enrique Bunbury brings the Nuevas Mutaciones Tour 2026 to Kings Theatre in Brooklyn at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-eddie-palmieri-jalc-2026",
+        "title": "Eddie Palmieri Experience: An All-Star Celebration",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 83,
+        "venueName": "Frederick P. Rose Hall",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20627",
+        "ticketUrl": "https://ticketing.jazz.org/20627",
+        "summary": "Jazz at Lincoln Center honors Eddie Palmieri with an all-star celebration led by Palmieri alumni including Louis Fouché, Luques Curtis, Brian Lynch, Conrad Herwig, Herman Olivera, and Nelson Gonzalez.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-il-volo-msg-2026",
+        "title": "Il Volo at Infosys Theater at MSG",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 80,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/il-volo-infosys-theater-at-madison-square-garden-november-2026/3B00648781071B9A",
+        "ticketUrl": "https://www.msg.com/events-tickets/il-volo-infosys-theater-at-madison-square-garden-november-2026/3B00648781071B9A",
+        "summary": "Il Volo performs at Infosys Theater at Madison Square Garden, with MSG listing an 8:00 PM show and 7:00 PM doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-the-neighbourhood-barclays-2026",
+        "title": "The Neighbourhood — THE WOURLD TOUR",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 88,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/the-neighbourhood",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/the-neighbourhood",
+        "summary": "The Neighbourhood brings THE WOURLD TOUR to Barclays Center for two Brooklyn arena dates, with Nessa Barrett and Noise Dept. listed for November 21 only.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-sombr-msg-2026",
+        "title": "SOMBR — You Are The Reason Tour",
+        "type": "concert",
+        "startDate": "2026-11-23",
+        "endDate": "2026-11-24",
+        "importance": 87,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/sombr-dove-cameron-hannah-jadagu-madison-square-garden-november-2026/3B00648AD4475021",
+        "ticketUrl": "https://www.msg.com/events-tickets/sombr-dove-cameron-hannah-jadagu-madison-square-garden-november-2026/3B00648AD4475021",
+        "summary": "SOMBR brings the You Are The Reason Tour to Madison Square Garden for November 23 and 24, with Dove Cameron and Hannah Jadagu listed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-aitana-paramount-2026",
+        "title": "Aitana at Brooklyn Paramount",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 78,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/aitana-brooklyn-new-york-11-27-2026/event/0000644BC2C8B22A",
+        "ticketUrl": "https://www.ticketmaster.com/aitana-brooklyn-new-york-11-27-2026/event/0000644BC2C8B22A",
+        "summary": "Spanish pop artist Aitana is confirmed at Brooklyn Paramount, with Ticketmaster listing doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

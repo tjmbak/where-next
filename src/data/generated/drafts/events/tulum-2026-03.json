@@ -1,0 +1,206 @@
+{
+  "slug": "tulum",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:05:01.826Z",
+  "responseId": "resp_0a0c22f05e400d330069ff5abd30d48191a57689eb19999649",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 3,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "tulum-origins-nommo-mar-2026",
+        "title": "Origins x Nommo Fest",
+        "type": "club-night",
+        "startDate": "2026-03-05",
+        "endDate": "2026-03-05",
+        "importance": 70,
+        "venueName": "Nômade Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2385188",
+        "ticketUrl": null,
+        "summary": "Nômade hosted a special Origins x Nommo Fest night with Reka Fodor & friends, Yaku Means Water, and Unders. The event was positioned as a community-driven gathering blending music, culture, and conscious impact.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-ppp-full-moon-never-dull-2026",
+        "title": "PPP presents The Full Moon: Music Journey by Never Dull",
+        "type": "club-night",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 82,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386169",
+        "ticketUrl": null,
+        "summary": "Papaya Playa Project’s Full Moon Celebration featured Never Dull, Diskreepo, and Ro Madrid. The beachfront party ran from evening into late night as part of PPP’s signature lunar programming.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-summerians-closing-vagalume-2026",
+        "title": "SUMMERIANS Closing Party",
+        "type": "club-night",
+        "startDate": "2026-03-12",
+        "endDate": "2026-03-12",
+        "importance": 76,
+        "venueName": "Vagalume Beach Club Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2391994",
+        "ticketUrl": null,
+        "summary": "Kintar brought SUMMERIANS back to Vagalume Tulum for the closing party of its fifth jungle season. The lineup listed Kintar and NEGRINM for a house-driven night at the beach club.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-radio-slave-nomade-2026",
+        "title": "Do You Remember How To Dance? with Radio Slave",
+        "type": "club-night",
+        "startDate": "2026-03-12",
+        "endDate": "2026-03-12",
+        "importance": 82,
+        "venueName": "Nômade Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2388004",
+        "ticketUrl": null,
+        "summary": "Radio Slave headlined a Do You Remember How To Dance? takeover at Nômade’s Macondo space, joined by Fher Uribe and Awa. RA listed the event as a house and techno night with guest-list registration.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-anto-zagu-bonbonniere-2026",
+        "title": "Anto Zagu + Cuevas",
+        "type": "club-night",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 64,
+        "venueName": "Bonbonniere Tulum",
+        "venueId": null,
+        "sourceUrl": "https://mandalatickets.com/en/tulum/events/bonbonniere/anto-zagu-march13",
+        "ticketUrl": "https://mandalatickets.com/en/tulum/events/bonbonniere/anto-zagu-march13",
+        "summary": "Bonbonniere Tulum presented Anto Zagu on March 13, 2026, with the RA listing also naming Cuevas. The night was billed around tech-house and melodic club sounds in Bonbonniere’s upscale setting.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-ppp-new-moon-isola-2026",
+        "title": "PPP presents The New Moon: Music Journey by Isola di Mortorio",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 78,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386214",
+        "ticketUrl": null,
+        "summary": "Papaya Playa Project’s New Moon edition featured Isola di Mortorio, Barac, Vithz, and Caio Castilho. The event framed the night as a lunar music journey focused on renewal and connection.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-dpm-st-patricks-day-2026",
+        "title": "DPM St. Patrick’s Day De Puta Madre Festival",
+        "type": "festival",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-15",
+        "importance": 75,
+        "venueName": "Mia Tulum",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2370668",
+        "ticketUrl": null,
+        "summary": "DPM returned to Mía Beach Club for a 14-hour St. Patrick’s Day beach festival. RA listed 30+ international DJs across house and techno, with two stages and an all-day beach-party format.",
+        "genres": [
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-ppp-saturday-onyvaa-2026",
+        "title": "PPP presents Saturday Celebration: Music Journey by ONYVAA",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 74,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386273",
+        "ticketUrl": null,
+        "summary": "Papaya Playa Project’s March 21 Saturday Celebration featured ONYVAA, Speaking Minds, and Nancy Kyd. The event was billed as a beachfront music journey with warm grooves, deep rhythms, and melodic energy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-origins-santiago-garcia-2026",
+        "title": "Nômade presents Origins: Franco AR, Julioo, Santiago Garcia",
+        "type": "club-night",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-19",
+        "importance": 62,
+        "venueName": "Nômade Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2394386",
+        "ticketUrl": null,
+        "summary": "Nômade’s Origins series hosted Argentine DJs Santiago Garcia, Julioo, and Franco AR. The listing described a curated evening of deep, immersive sets and house/minimal-influenced dancefloor energy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-ppp-saturday-anja-schneider-2026",
+        "title": "PPP presents Saturday Celebration: Music by Anja Schneider",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 80,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386281",
+        "ticketUrl": null,
+        "summary": "Anja Schneider headlined Papaya Playa Project’s March 28 Saturday Celebration, joined by Mada.Mada and Gaviño. The event was billed as a beachfront night of warm grooves, deep rhythms, and melodic energy.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-tu-brunch-closing-chris-luno-2026",
+        "title": "Tu Brunch Closing with Chris Luno",
+        "type": "beach-club",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 76,
+        "venueName": "Tulumania",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2377763",
+        "ticketUrl": null,
+        "summary": "Tu Brunch closed its season at Tulumania with Chris Luno, Bodaishin, Drev, Lisandro Monaco, Lagunes Jr, and Caro Zamora. The closing edition expanded the usual format with longer hours and larger production.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "slug": "new-york",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:13:17.747Z",
+  "responseId": "resp_0c4163e6921415410069ff5c9671908195a368ad373f7e4e8d",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is unusually strong for NYC, with major outdoor festivals, arena pop residencies, and late-summer electronic bookings clustered across Manhattan, Brooklyn, Queens, and Randall’s Island.",
+    "events": [
+      {
+        "id": "new-york-harry-styles-msg-residency-2026",
+        "title": "Harry Styles: Together, Together",
+        "type": "residency",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 94,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B006435054E8262",
+        "ticketUrl": "https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B006435054E8262",
+        "summary": "Representative September date from Harry Styles’ 30-show Madison Square Garden run, with Jamie xx listed on the bill. MSG’s event page states the September 26, 2026 date and the broader Together, Together residency window.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-experts-only-festival-2026",
+        "title": "Experts Only Festival NYC 2026",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 89,
+        "venueName": "Randall’s Island Park",
+        "venueId": null,
+        "sourceUrl": "https://www.expertsonlyfest.com/faq",
+        "ticketUrl": "https://www.expertsonlyfest.com/tickets",
+        "summary": "John Summit’s Experts Only Festival returns to Randall’s Island Park for a two-day electronic event on September 19–20, 2026. The festival FAQ confirms John Summit curates and performs during the weekend.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-all-things-go-nyc-2026",
+        "title": "All Things Go NYC 2026",
+        "type": "festival",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-27",
+        "importance": 88,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://allthingsgofestival.com/nyc/",
+        "ticketUrl": "https://allthingsgofestival.com/nyc/",
+        "summary": "All Things Go returns to Forest Hills Stadium for a three-day NYC edition from September 25–27, 2026. The official page confirms the venue and dates, with the lineup still pending.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-cbgb-festival-2026",
+        "title": "CBGB Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 87,
+        "venueName": "Under the K Bridge Park",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1415116/cbgb-festival-tickets",
+        "ticketUrl": "https://www.axs.com/events/1415116/cbgb-festival-tickets",
+        "summary": "CBGB Festival is confirmed for September 26, 2026 at Under the K Bridge Park. The AXS listing names Morrissey, Patti Smith, Interpol, Sex Pistols featuring Frank Carter, Bikini Kill, Agnostic Front, Buzzcocks, Circle Jerks, Mannequin Pussy, and more.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-agape-festival-2026",
+        "title": "ÄGAPĒ Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 78,
+        "venueName": "Industry City",
+        "venueId": null,
+        "sourceUrl": "https://agape-festival.com/",
+        "ticketUrl": "https://agape-festival.com/",
+        "summary": "ÄGAPĒ Festival is confirmed for September 5–6, 2026 at Industry City in Brooklyn. The official page describes a two-day techno program across indoor and outdoor stages with 20 artists.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-robyn-barclays-2026",
+        "title": "Robyn: the sexistential tour",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 84,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/robyn-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/robyn-2026",
+        "summary": "Robyn brings the sexistential tour to Barclays Center on September 4, 2026, with Yaeji listed for that date. Barclays Center also lists a second September 10 performance with Romy.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-weezer-barclays-2026",
+        "title": "Weezer: The Gathering",
+        "type": "concert",
+        "startDate": "2026-09-30",
+        "endDate": "2026-09-30",
+        "importance": 82,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/weezer-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/weezer-2026",
+        "summary": "Weezer brings WEEZER: The Gathering to Barclays Center on September 30, 2026. The Barclays Center listing confirms The Shins and Silversun Pickups as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-liz-phair-sleater-kinney-bric-2026",
+        "title": "Liz Phair & Sleater-Kinney: The Flannel and The Fury 2026",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 77,
+        "venueName": "Lena Horne Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://bricartsmedia.org/event/benefit-show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/",
+        "ticketUrl": "https://bricartsmedia.org/event/benefit-show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/",
+        "summary": "Liz Phair and Sleater-Kinney play a ticketed BRIC Celebrate Brooklyn! benefit concert on September 19, 2026. BRIC confirms doors at 6 PM and showtime at 7 PM at the Lena Horne Bandshell.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-four-tet-teksupport-2026",
+        "title": "Teksupport: Four Tet",
+        "type": "club-night",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 82,
+        "venueName": "Brooklyn Storehouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420835",
+        "ticketUrl": "https://ra.co/events/2420835",
+        "summary": "Teksupport presents Four Tet at Brooklyn Storehouse on September 17, 2026. Resident Advisor confirms the 10 PM–4 AM event, venue, promoter, and Four Tet lineup listing.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-mau-p-teksupport-2026",
+        "title": "Teksupport: Mau P",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 80,
+        "venueName": "Brooklyn Army Terminal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2370377",
+        "ticketUrl": "https://ra.co/events/2370377",
+        "summary": "Teksupport presents Mau P at Brooklyn Army Terminal on September 11, 2026. Resident Advisor confirms Mau P with Joseph Capriati and Quest, with a 3 PM–10 PM event window.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-ricardo-montaner-radio-city-2026",
+        "title": "Ricardo Montaner: El Último Regreso Tour",
+        "type": "concert",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-03",
+        "importance": 76,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/ricardo-montaner-radio-city-music-hall-september-2026/3C0063639DB920B9",
+        "ticketUrl": "https://www.msg.com/events-tickets/ricardo-montaner-radio-city-music-hall-september-2026/3C0063639DB920B9",
+        "summary": "Ricardo Montaner brings El Último Regreso Tour to Radio City Music Hall on September 3, 2026. The MSG event page confirms the date, venue, and 8 PM showtime.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-pat-metheny-beacon-2026",
+        "title": "Pat Metheny: Side-Eye III+",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 75,
+        "venueName": "Beacon Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/pat-metheny-beacon-theatre-september-2026/3B00643FC87E591F",
+        "ticketUrl": "https://www.msg.com/events-tickets/pat-metheny-beacon-theatre-september-2026/3B00643FC87E591F",
+        "summary": "Pat Metheny brings the Side-Eye III+ Tour to the Beacon Theatre on September 26, 2026. The official MSG listing confirms the 8 PM performance time.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

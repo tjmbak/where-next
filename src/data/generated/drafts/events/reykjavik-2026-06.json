@@ -1,0 +1,206 @@
+{
+  "slug": "reykjavik",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:51:10.239Z",
+  "responseId": "resp_0a770ae8e2a73edc0069ffd607887481a28106f50858faf199",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "reykjavik",
+    "month": 6,
+    "year": 2026,
+    "notes": "June is anchored by Reykjavík Arts Festival’s contemporary and classical program, with Harpa adding headline pop concerts later in the month.",
+    "events": [
+      {
+        "id": "reykjavik-hildur-close-up-2026",
+        "title": "Close-up – Hildur Guðnadóttir & Iceland Symphony Orchestra",
+        "type": "concert",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 88,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/closeup",
+        "ticketUrl": null,
+        "summary": "The Iceland Symphony Orchestra presents an evening with composer Hildur Guðnadóttir, featuring her music from films including Joker, Tár and A Haunting in Venice alongside works by key influences.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-fischersund-scent-music-2026",
+        "title": "Fischersund: A Night of Scent & Music",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 82,
+        "venueName": "Austurbæjarbíó",
+        "venueId": null,
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/ilmtonleikar-fischersund",
+        "ticketUrl": null,
+        "summary": "Fischersund brings its scented-concert concept to Reykjavík with Jónsi, Sin Fang and Kjartan Holm performing compositions tied to the house’s fragrances, with video works by Ingibjörg Birgisdóttir.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-hildur-where-to-from-2026",
+        "title": "Hildur Guðnadóttir – Where to From",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 86,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/where-to-from-en",
+        "ticketUrl": null,
+        "summary": "Hildur Guðnadóttir performs Where to From for the first time in Iceland at Harpa’s Silfurberg, alongside earlier works and an ensemble including Liam Byrne, Peyee Chen, Nina Guo, Sarah Saviet and Clare O’Connell.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-viibra-venutian-wetland-2026",
+        "title": "viibra: Venutian Wetland",
+        "type": "concert",
+        "startDate": "2026-06-08",
+        "endDate": "2026-06-08",
+        "importance": 70,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21266",
+        "ticketUrl": null,
+        "summary": "The flute septet viibra performs Venutian Wetland, a new sound-and-movement work by Bergrún Snæbjörnsdóttir and choreographer Margrét Bjarnadóttir, as part of Reykjavík Arts Festival.",
+        "genres": []
+      },
+      {
+        "id": "reykjavik-love-love-2026",
+        "title": "LOVE LOVE",
+        "type": "concert",
+        "startDate": "2026-06-09",
+        "endDate": "2026-06-09",
+        "importance": 72,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21267",
+        "ticketUrl": null,
+        "summary": "LOVE LOVE is a Reykjavík Arts Festival premiere by Arnbjörg María Danielsen, created with Leah Marojević, Ensemble Adapter and electronic musician Salka Valsdóttir, blending sound, movement, bodies, objects and electronics.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-nidur-cage-ljosagangur-2026",
+        "title": "Niður – an Icelandic Circus on Ljósagangur",
+        "type": "concert",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-11",
+        "importance": 72,
+        "venueName": "The Nordic House",
+        "venueId": null,
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/nidur",
+        "ticketUrl": null,
+        "summary": "Skerpla – Experimental Sound Lab presents an Icelandic version of John Cage’s Roaratorio concept, transforming Dagur Hjartarson’s novel Ljósagangur into an installation and live musical performance.",
+        "genres": []
+      },
+      {
+        "id": "reykjavik-john-grant-2026",
+        "title": "John Grant",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 86,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/20921",
+        "ticketUrl": null,
+        "summary": "Reykjavík Arts Festival presents John Grant at Harpa’s Eldborg, billed as his first major concert in Iceland in many years.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-arts-festival-closing-party-2026",
+        "title": "Reykjavík Arts Festival Closing Party",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 74,
+        "venueName": "Iðnó",
+        "venueId": null,
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/lokaparty",
+        "ticketUrl": null,
+        "summary": "The festival hub closes with DJ Choconilla and dj Lui playing African-inspired selections including amapiano, afrobeat and pop, followed by DJ 101 Savage with live visuals.",
+        "genres": [
+          "amapiano",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-angel-blue-2026",
+        "title": "Reykjavík Arts Festival: Angel Blue",
+        "type": "concert",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 84,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/20809",
+        "ticketUrl": null,
+        "summary": "American soprano Angel Blue performs with pianist Bryan Wagorn on the closing day of Reykjavík Arts Festival, with a program spanning Fauré, Debussy, Strauss, Gershwin and African American spirituals.",
+        "genres": []
+      },
+      {
+        "id": "reykjavik-10cc-2026",
+        "title": "10cc",
+        "type": "concert",
+        "startDate": "2026-06-23",
+        "endDate": "2026-06-23",
+        "importance": 80,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21132",
+        "ticketUrl": null,
+        "summary": "10cc, led by founding member Graham Gouldman with the current touring band, performs at Harpa’s Eldborg with a set built around the group’s classic pop catalogue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-katie-melua-2026",
+        "title": "Katie Melua",
+        "type": "concert",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-25",
+        "importance": 82,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/20821",
+        "ticketUrl": null,
+        "summary": "Katie Melua performs at Harpa’s Eldborg with her group, in a concert advertised as featuring her best-known songs.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-stefan-hilmarsson-2026",
+        "title": "Stefán Hilmarsson – 26.06.26",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 75,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21078",
+        "ticketUrl": null,
+        "summary": "Icelandic singer Stefán Hilmarsson marks a major birthday and a forty-year career milestone with two Eldborg concerts featuring a full band, brass section and special guests.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

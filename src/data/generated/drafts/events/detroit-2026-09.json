@@ -1,0 +1,204 @@
+{
+  "slug": "detroit",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:32:43.620Z",
+  "responseId": "resp_071ddbd2c44eb01f0069ff614b7af081a188201f0fd1649021",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "detroit",
+    "month": 9,
+    "year": 2026,
+    "notes": "September is anchored by Labor Day jazz and metro-area festival programming, with larger amphitheater and arena tours filling the back half of the month.",
+    "events": [
+      {
+        "id": "detroit-jazz-festival-2026",
+        "title": "Detroit Jazz Festival",
+        "type": "festival",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-07",
+        "importance": 97,
+        "venueName": "Hart Plaza",
+        "venueId": null,
+        "sourceUrl": "https://www.detroitjazzfest.org/main-festival/jazz-luminaries-ron-carter-bob-james-ravi-coltrane-artemis-kurt-elling-yellowjackets-and-more-to-hit-the-2026-detroit-jazz-festival-stages/",
+        "ticketUrl": null,
+        "summary": "The free Detroit Jazz Festival is confirmed for Sept. 4-7 at Hart Plaza. The announced 2026 partial lineup includes Joe Lovano projects, Ron Carter & Foursight, Bob James, Ravi Coltrane Quartet, Artemis, Kurt Elling & Yellowjackets, Cindy Blackman Santana, and more.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "detroit-arts-beats-eats-2026",
+        "title": "Michigan Lottery Arts, Beats & Eats",
+        "type": "festival",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-07",
+        "importance": 75,
+        "venueName": "Downtown Royal Oak",
+        "venueId": null,
+        "sourceUrl": "https://artsbeatseats.com/",
+        "ticketUrl": "https://www.showpass.com/",
+        "summary": "The metro-Detroit Labor Day weekend festival is confirmed for Sept. 4-7 in downtown Royal Oak. The event bills more than 200 bands on nine stages alongside art and food programming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "detroit-justin-moore-2026",
+        "title": "Justin Moore",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 70,
+        "venueName": "The Aretha Franklin Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/08006486CA747139",
+        "ticketUrl": "https://www.ticketmaster.com/event/08006486CA747139",
+        "summary": "Country artist Justin Moore is confirmed at The Aretha Franklin Amphitheatre on Friday, Sept. 4 at 8:00 PM. The show is part of The Aretha’s 2026 weekend concert slate.",
+        "genres": []
+      },
+      {
+        "id": "detroit-dwele-sound-board-2026",
+        "title": "Dwele",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 70,
+        "venueName": "Sound Board at MotorCity Casino Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/sound-board-at-motorcity-casino-hotel-tickets-detroit/venue/66095",
+        "ticketUrl": "https://www.ticketmaster.com/sound-board-at-motorcity-casino-hotel-tickets-detroit/venue/66095",
+        "summary": "Detroit R&B and neo-soul artist Dwele is confirmed at Sound Board at MotorCity Casino Hotel on Thursday, Sept. 10 at 8:00 PM. Ticketmaster lists Dwele as the lineup for the event.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-lily-allen-2026",
+        "title": "Lily Allen",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 76,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/venue/fox-theatre",
+        "ticketUrl": null,
+        "summary": "Lily Allen is confirmed at the Fox Theatre on Saturday, Sept. 12 at 8:00 PM. The date appears on 313 Presents’ official Fox Theatre event calendar.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-breaking-benjamin-2026",
+        "title": "Breaking Benjamin with Chevelle, Starset & Kami Kehoe",
+        "type": "concert",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 76,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/news/detail/breaking-benjamin-bring-2026-north-american-tour-with-special-guests-chevelle-starset-kami-kehoe-to-pine-knob-music-theatre-september-13",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Breaking Benjamin’s 2026 North American tour is confirmed for Pine Knob Music Theatre on Sunday, Sept. 13 at 6:00 PM. Support is listed as Chevelle, Starset, and Kami Kehoe.",
+        "genres": []
+      },
+      {
+        "id": "detroit-grey-day-suicideboys-2026",
+        "title": "$uicideboy$ — Grey Day Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 82,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/news/detail/suicideboys-announce-grey-day-tour-2026-the-indie-rap-titans-return-for-33-date-arena-amphitheatre-run-across-north-america-includes-pine-knob-music-theatre-september-15",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "$uicideboy$ bring the Grey Day Tour 2026 to Pine Knob Music Theatre on Tuesday, Sept. 15 at 6:30 PM. Support is confirmed as Destroy Lonely, Shakewell, DRAIN, Black Kray, and $lim Gucci.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "detroit-social-distortion-2026",
+        "title": "Social Distortion with Descendents & The Chats",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 74,
+        "venueName": "The Fillmore Detroit",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv1AFZkoKGkeYQFks/social-distortion",
+        "ticketUrl": "https://www.livenation.com/event/vv1AFZkoKGkeYQFks/social-distortion",
+        "summary": "Social Distortion is confirmed at The Fillmore Detroit on Thursday, Sept. 17 at 6:30 PM. Live Nation lists Descendents and The Chats on the bill.",
+        "genres": []
+      },
+      {
+        "id": "detroit-babymetal-2026",
+        "title": "BABYMETAL with Halestorm & Violent Vira",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 78,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/babymetal",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "BABYMETAL’s World Tour 2026 is confirmed for Pine Knob Music Theatre on Friday, Sept. 18 at 7:20 PM. The official 313 Presents page lists Halestorm and Violent Vira as special guests.",
+        "genres": []
+      },
+      {
+        "id": "detroit-hayley-williams-2026",
+        "title": "The Hayley Williams Show with Magdalena Bay & Rico Nasty",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 83,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/news/detail/the-hayley-williams-show-live-in-the-americas-north-latin-america-tour-announced-including-pine-knob-music-theatre-saturday-september-19",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "The Hayley Williams Show is confirmed at Pine Knob Music Theatre on Saturday, Sept. 19 at 7:00 PM. Support is listed as Magdalena Bay and Rico Nasty.",
+        "genres": [
+          "pop",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "detroit-weezer-2026",
+        "title": "Weezer: The Gathering with The Shins & Silversun Pickups",
+        "type": "concert",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "importance": 84,
+        "venueName": "Little Caesars Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/weezer",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Weezer’s arena tour “Weezer: The Gathering” is confirmed at Little Caesars Arena on Wednesday, Sept. 23 at 7:00 PM. The Shins and Silversun Pickups are confirmed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-logic-g-eazy-2026",
+        "title": "Logic & G-Eazy — The Endless Summer Part II",
+        "type": "concert",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "importance": 80,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/logic-and-g-eazy",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Logic and G-Eazy’s co-headlining “The Endless Summer Part II” is confirmed for Pine Knob Music Theatre on Wednesday, Sept. 23 at 7:00 PM. Juicy J is listed as the special guest.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

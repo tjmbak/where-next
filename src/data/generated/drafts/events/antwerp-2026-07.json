@@ -1,0 +1,181 @@
+{
+  "slug": "antwerp",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:53:26.376Z",
+  "responseId": "resp_080b244408d489c70069ffd6875b6481a3aab55fc496417d24",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "antwerp",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is unusually strong around Antwerp, with Tomorrowland in Boom anchoring the month and OLT Rivierenhof adding major open-air concerts and electronic programming inside the city.",
+    "events": [
+      {
+        "id": "antwerp-niels-destadsbader-2026",
+        "title": "Niels Destadsbader",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 65,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.arenberg.be/nl/programma/niels-destadsbader/a0NP500000GmT8WMAV",
+        "ticketUrl": "https://www.arenberg.be/nl/programma/niels-destadsbader/a0NP500000GmT8WMAV",
+        "summary": "Belgian pop artist Niels Destadsbader plays his first OLT Rivierenhof show, with the venue page listing the date as 4 July 2026 and doors at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-clouseau-olt-2026",
+        "title": "Clouseau",
+        "type": "concert",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-08",
+        "importance": 72,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.arenberg.be/en/programma//a0NP500000JDGSMMA5",
+        "ticketUrl": "https://www.arenberg.be/en/programma//a0NP500000JDGSMMA5",
+        "summary": "Belgian pop institution Clouseau returns to OLT Rivierenhof for two listed shows on 7 and 8 July 2026; the Arenberg/OLT page shows both dates on waitlist.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-fiasco-festival-2026",
+        "title": "FIASCO Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 65,
+        "venueName": "Stormkop",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2417828",
+        "ticketUrl": "https://ra.co/events/2417828",
+        "summary": "Resident Advisor lists FIASCO Festival at Stormkop on 11 July 2026 from 15:00 to 03:00, with three stages focused on techno, house and dub-informed club music.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-counting-crows-2026",
+        "title": "Counting Crows - The Complete Sweets! Tour",
+        "type": "concert",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 75,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/nl/event/counting-crows-the-complete-sweets-tour-deurne-tickets-edp1655709",
+        "ticketUrl": "https://www.livenation.be/nl/event/counting-crows-the-complete-sweets-tour-deurne-tickets-edp1655709",
+        "summary": "Live Nation confirms Counting Crows at OLT Rivierenhof on 11 July 2026, with Emmy d'Arc also listed on the event bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-tomorrowland-weekend-1-2026",
+        "title": "Tomorrowland Belgium 2026 - Weekend 1",
+        "type": "festival",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-19",
+        "importance": 100,
+        "venueName": "Tomorrowland (Boom)",
+        "venueId": "tomorrowland-festival",
+        "sourceUrl": "https://tomorrowlandbelgium.press.tomorrowland.com/tomorrowland-belgium-2026-unveils-names",
+        "ticketUrl": "https://belgium.tomorrowland.com/en/passes-packages/",
+        "summary": "Tomorrowland Belgium 2026 takes over De Schorre in Boom for Weekend 1 from 17 to 19 July 2026 under the CONSCIENCIA theme. The official press release names artists including Calvin Harris, David Guetta, Martin Garrix, Hardwell, Sara Landry, John Summit and Dimitri Vegas & Like Mike.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "antwerp-contrair-open-air-2026",
+        "title": "Contrair Open Air 2026",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-19",
+        "importance": 78,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/contrair-open-air-festival-saturday/a0NP500000NXOBBMA5",
+        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/contrair-open-air-festival-saturday/a0NP500000NXOBBMA5",
+        "summary": "Contrair Open Air celebrates its fifth birthday at OLT Rivierenhof on 18 and 19 July 2026, expanding to two stages in the park for electronic music and dancing.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "antwerp-amenra-olt-2026",
+        "title": "Amenra",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-23",
+        "importance": 73,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.arenberg.be/nl/programma/amenra/a0NP500000JD85WMAT",
+        "ticketUrl": "https://www.arenberg.be/nl/programma/amenra/a0NP500000JD85WMAT",
+        "summary": "Arenberg/OLT lists Amenra at OLT Rivierenhof on 22 and 23 July 2026, returning the Belgian post-metal band to the open-air theatre for two evening shows.",
+        "genres": []
+      },
+      {
+        "id": "antwerp-sfinks-mixed-2026",
+        "title": "Sfinks Mixed 2026",
+        "type": "festival",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-26",
+        "importance": 80,
+        "venueName": "Molenveld, Boechout",
+        "venueId": null,
+        "sourceUrl": "https://www.sfinks.be/mixed-praktisch/",
+        "ticketUrl": null,
+        "summary": "Sfinks Mixed runs from 23 to 26 July 2026 at Molenveld in Boechout, just outside Antwerp, with free entry and a broad global-music festival programme.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-tomorrowland-weekend-2-2026",
+        "title": "Tomorrowland Belgium 2026 - Weekend 2",
+        "type": "festival",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-26",
+        "importance": 100,
+        "venueName": "Tomorrowland (Boom)",
+        "venueId": "tomorrowland-festival",
+        "sourceUrl": "https://tomorrowlandbelgium.press.tomorrowland.com/tomorrowland-belgium-2026-unveils-names",
+        "ticketUrl": "https://belgium.tomorrowland.com/en/passes-packages/",
+        "summary": "Tomorrowland Belgium 2026 returns for Weekend 2 from 24 to 26 July 2026 at De Schorre in Boom. The official 2026 announcement confirms a wide electronic lineup across Mainstage, CORE, Freedom, Atmosphere and other stages.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "antwerp-opeth-olt-2026",
+        "title": "Opeth - The Last Will and Testament",
+        "type": "concert",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "importance": 74,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/opeth-deurne-tickets-edp1636143",
+        "ticketUrl": "https://www.livenation.be/event/opeth-deurne-tickets-edp1636143",
+        "summary": "Live Nation confirms Swedish band Opeth at OLT Rivierenhof on 30 July 2026, presenting material from 'The Last Will and Testament' in the open-air venue.",
+        "genres": []
+      }
+    ]
+  }
+}

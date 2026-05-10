@@ -1,0 +1,226 @@
+{
+  "slug": "berlin",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:51:44.253Z",
+  "responseId": "resp_0d27d1f36e2df6f40069ff578f9fbc8192baf29b965165914f",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in Berlin was especially strong for electronic music, with CTM’s closing weekend, Strom at the Philharmonie, and heavyweight Berghain/RSO/Tresor club programming alongside major arena pop and hip-hop concerts.",
+    "events": [
+      {
+        "id": "berlin-ctm-festival-2026",
+        "title": "CTM Festival 2026: dissonate <> resonate",
+        "type": "festival",
+        "startDate": "2026-01-23",
+        "endDate": "2026-02-01",
+        "importance": 95,
+        "venueName": "Various venues: Radialsystem, Berghain, RSO.Berlin, Volksbühne, Morphine Raum, Haus der Visionäre",
+        "venueId": null,
+        "sourceUrl": "https://www.ctm-festival.de/festival-2026/welcome",
+        "ticketUrl": null,
+        "summary": "The 27th edition of CTM Festival ran through February 1 with experimental, electronic, club, and sound-art programming across major Berlin venues. Confirmed highlights included Earth, Sote, Corin, Shapednoise, Blawan, Ellen Arkbro, Sam Slater, Daniel Brandt, and collaborations with WeSA Festival, Disturbed Ground, Terminal, No_Stone, and Oroko Radio.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-apache207-uber-arena-2026",
+        "title": "Apache 207 at Uber Arena",
+        "type": "concert",
+        "startDate": "2026-02-02",
+        "endDate": "2026-02-02",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/apache207-2026/2026-02-02-2000",
+        "ticketUrl": null,
+        "summary": "Apache 207 closed a five-show Berlin run at Uber Arena on February 2, 2026. The arena listing confirms the German rapper’s return to Berlin on his largest tour to date.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-strom-festival-2026",
+        "title": "Strom – Festival for Electronic Music",
+        "type": "festival",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-07",
+        "importance": 90,
+        "venueName": "Philharmonie Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/konzerte/festivals/strom/",
+        "ticketUrl": null,
+        "summary": "Strom returned to Philharmonie Berlin with a curated electronic lineup across February 6–7. Confirmed artists included Stefan Goldmann, Murcof + Sergi Palau, DJ Pete, Fennesz & Oscar Jockel with ensemble, Ellen Allien, Polygonia, Cinna Peyghamy & Azu Tiwaline, DJ Marfox, Alva Noto, and Ben Klock b2b Fadi Mohem.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-feb7-2026",
+        "title": "Klubnacht at Berghain / Panorama Bar",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 86,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/event/80713/",
+        "ticketUrl": null,
+        "summary": "Berghain’s February 7 Klubnacht featured Eduardo de la Calle, UVB, Virginia, Mari Sakurai, Fiedel, Ogazón, and Don Williams on the Berghain floor. Panorama Bar hosted David Elimelech, Natalie Robinson, Huxley, Sassy J, Naomi, Christian AB, and Ryan Elliott.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-gronemeyer-uber-arena-2026",
+        "title": "Herbert Grönemeyer: mittendrin – akustisch",
+        "type": "concert",
+        "startDate": "2026-02-09",
+        "endDate": "2026-02-09",
+        "importance": 84,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/groenemeyer-26/2026-02-09-2000/",
+        "ticketUrl": null,
+        "summary": "Herbert Grönemeyer brought his “mittendrin – akustisch” tour to Uber Arena on February 9. The confirmed format featured an unplugged performance with choir and large orchestra.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-live-from-earth-berghain-2026",
+        "title": "Live From Earth at Berghain / Panorama Bar / Säule",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 88,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://berghain.berlin/de/event/80762/",
+        "ticketUrl": null,
+        "summary": "Live From Earth took over Berghain, Panorama Bar, and Säule on February 13 with a cross-genre club lineup. Confirmed names included Skream, IsoXo, DJ Gigola, upsammy, Job Jobse, Courtesy, Interplanetary Criminal, Tiga, Margo XS x Kim Petras, and Nia Archives b2b Cheetah.",
+        "genres": [
+          "electronic",
+          "techno",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-feb14-2026",
+        "title": "Klubnacht at Berghain / Panorama Bar",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 87,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/de/events/80714/",
+        "ticketUrl": null,
+        "summary": "The February 14 Klubnacht brought DJ Nobu, MARRØN, Quiet Husband, Justine Perry, Oscar Mulero, Steffi, and The Lady Machine to Berghain. Panorama Bar’s lineup included Lakuti, Tama Sumo, Richard Akingbehin, Verraco, Cosmo, DJ Dustin, and Nick Höppner.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-love-on-the-rocks-2026",
+        "title": "LOVE ON THE ROCKS at Panorama Bar",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 84,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://berghain.berlin/de/event/80763/",
+        "ticketUrl": null,
+        "summary": "Paramida’s LOVE ON THE ROCKS party landed at Panorama Bar on February 20. The confirmed lineup featured Alexia Glensy b2b Alex Dima, Satoshi Tomiie live, PARAMIDA, Dan Ghenacia, and Sonja Moonear.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-freddy-k-fresh-rso-2026",
+        "title": "Freddy K presents FRESH",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 82,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2335389",
+        "ticketUrl": null,
+        "summary": "Freddy K presented FRESH at RSO.BERLIN on February 20. Resident Advisor confirmed a ROBUS-floor lineup of Alarico, Freddy K, Toobris, and ÜBERKIKZ.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-tresor-klubnacht-feb21-2026",
+        "title": "Tresor Klubnacht",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 78,
+        "venueName": "Tresor / Globus",
+        "venueId": null,
+        "sourceUrl": "https://tresorberlin.com/event/20260221-tresor-klubnacht/",
+        "ticketUrl": null,
+        "summary": "Tresor’s February 21 Klubnacht featured JSR, Tommy Four Seven, Reka Zalan, and VIL in Tresor. Globus hosted Maryisonacid, The Analogue Cops live, ti es, and Valeria in Aurora Bar.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-mgk-uber-arena-2026",
+        "title": "mgk: Lost Americana Tour",
+        "type": "concert",
+        "startDate": "2026-02-24",
+        "endDate": "2026-02-24",
+        "importance": 75,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/mgk/",
+        "ticketUrl": null,
+        "summary": "mgk played Uber Arena on February 24 as part of the Lost Americana Tour. The arena listing confirmed Julia Wolf as special guest.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-berghain-klubnacht-feb28-2026",
+        "title": "Klubnacht at Berghain / Panorama Bar",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 88,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/events/80716/",
+        "ticketUrl": null,
+        "summary": "Berghain’s February 28 Klubnacht featured Nastia Reigel, Dax J, Tasha, Answer Code Request, Rene Wise, Clarisa Kimskii, and Len Faki. Panorama Bar’s lineup included Hervé, nd_baumecker, Lord Of The Isles live, John Spring, Victor, Nathalie Seres, Gerd Janson, and Lea Occhi.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

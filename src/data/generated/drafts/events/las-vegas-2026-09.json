@@ -1,0 +1,209 @@
+{
+  "slug": "las-vegas",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:35:53.105Z",
+  "responseId": "resp_0d244e971ad31e9d0069ff61cbe66c81a2830d38ba28cf2e3f",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is especially strong for Mexican Independence Day-adjacent Latin programming, alongside major Strip residencies and arena-scale festival dates.",
+    "events": [
+      {
+        "id": "las-vegas-carin-leon-sphere-2026",
+        "title": "Carín León at Sphere",
+        "type": "residency",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-13",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/carin-leon-tickets/artist/2826519?venueId=189524",
+        "ticketUrl": "https://www.ticketmaster.com/carin-leon-tickets/artist/2826519?venueId=189524",
+        "summary": "Carín León’s Sphere run is listed for September 4, 5, 6, 10, 11, 12, and 13, 2026. The limited engagement brings regional Mexican music into one of Las Vegas’ highest-profile immersive venues.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-dom-dolla-liv-beach-2026",
+        "title": "Dom Dolla at LIV Beach",
+        "type": "beach-club",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 78,
+        "venueName": "LIV Beach at Fontainebleau Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.livnightclub.com/las-vegas-artists-dom-dolla/",
+        "ticketUrl": "https://www.livnightclub.com/las-vegas-artists-dom-dolla/",
+        "summary": "LIV lists Dom Dolla for a 2026 residency season across LIV Nightclub and LIV Beach, including a Saturday, September 5, 2026 LIV Beach date. Expect house-focused pool-party programming from the Australian DJ and producer.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-mana-vivir-sin-aire-2026",
+        "title": "MANÁ: Vivir Sin Aire Tour",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 85,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/mana",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/mana",
+        "summary": "MANÁ’s Vivir Sin Aire Tour is confirmed at T-Mobile Arena on Friday, September 11, 2026. The show anchors Mexican Independence Day weekend with one of Latin rock’s biggest legacy acts.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-matute-disco-stereo-2026",
+        "title": "Matute: Disco Stereo Tour",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-12",
+        "importance": 74,
+        "venueName": "The Venetian Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/media/news-releases/2026/03-04-matute-returning-to-the-venetian-resort-las-vegas-september-11-and-12-2026.html",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "The Venetian confirms Matute’s Disco Stereo Tour for September 11 and 12, 2026, at 8:30 p.m. The Mexican group’s Las Vegas weekend is billed around its high-energy live treatment of ’80s Spanish- and English-language hits.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-marc-anthony-vegas-my-way-2026",
+        "title": "Marc Anthony: Vegas… My Way!",
+        "type": "residency",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-19",
+        "importance": 90,
+        "venueName": "BleauLive Theater at Fontainebleau Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.fontainebleaulasvegas.com/entertainment/marc-anthony/",
+        "ticketUrl": "https://www.fontainebleaulasvegas.com/entertainment/marc-anthony/",
+        "summary": "Fontainebleau lists newly added Marc Anthony residency dates on September 11, 12, 13, 16, 18, and 19, 2026. The show is described as a first-of-its-kind intimate residency featuring English- and Spanish-language hits from across his career.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-scorpions-coming-home-2026",
+        "title": "Scorpions: Coming Home to Las Vegas",
+        "type": "residency",
+        "startDate": "2026-09-17",
+        "endDate": "2026-10-03",
+        "importance": 82,
+        "venueName": "PH Live at Planet Hollywood Resort & Casino",
+        "venueId": null,
+        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/scorpions-return-las-vegas-new-headlining-residency-ph-live",
+        "ticketUrl": "https://www.ticketmaster.com/explore/scorpionsvegas",
+        "summary": "Caesars confirms Scorpions’ new PH Live residency from September 17 through October 3, 2026, with special guest Buckcherry. The run celebrates the band’s 60-plus-year career and follows prior sold-out Las Vegas residencies.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-sammy-hagar-best-of-all-worlds-2026",
+        "title": "Sammy Hagar: The Best of All Worlds Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-26",
+        "importance": 82,
+        "venueName": "Dolby Live at Park MGM",
+        "venueId": null,
+        "sourceUrl": "https://parkmgm.mgmresorts.com/en/entertainment/sammy-hagar.html",
+        "ticketUrl": "https://parkmgm.mgmresorts.com/en/entertainment/sammy-hagar.html",
+        "summary": "MGM lists Sammy Hagar’s September 2026 Dolby Live residency dates as September 18, 19, 23, 25, and 26. The Best of All Worlds show features Hagar with Michael Anthony, Joe Satriani, Kenny Aronoff, and Rai Thistlethwayte.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-eagles-sphere-2026",
+        "title": "Eagles Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-19",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977?venueId=189524",
+        "ticketUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977?venueId=189524",
+        "summary": "Ticketmaster lists Eagles Live at Sphere performances on September 18 and 19, 2026, at Sphere in Las Vegas. The dates extend the band’s long-running immersive Sphere residency.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-iheartradio-music-festival-2026",
+        "title": "iHeartRadio Music Festival",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-19",
+        "importance": 95,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/iheartradio-music-festival",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/iheartradio-music-festival",
+        "summary": "T-Mobile Arena confirms the iHeartRadio Music Festival for Friday, September 18 and Saturday, September 19, 2026. The annual two-night festival is one of Las Vegas’ marquee multi-genre pop events.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-world-of-warcraft-music-2026",
+        "title": "World of Warcraft: 20 Years of Music",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 70,
+        "venueName": "Resorts World Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.rwlasvegas.com/entertainment/world-of-warcraft/",
+        "ticketUrl": "https://www.rwlasvegas.com/entertainment/world-of-warcraft/",
+        "summary": "Resorts World confirms World of Warcraft: 20 Years of Music for September 19 and 20, 2026, at Resorts World Theatre. The production features a full symphonic orchestra and choir performing music from across the game’s universe.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-soul-fest-2026",
+        "title": "City of Lights Las Vegas Soul Festival",
+        "type": "festival",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-27",
+        "importance": 76,
+        "venueName": "Clark County Government Amphitheater",
+        "venueId": null,
+        "sourceUrl": "https://lasvegassoulfest.com/",
+        "ticketUrl": "https://tickets.cityoflightsmusicfestival.com/",
+        "summary": "The Las Vegas Soul Fest site confirms the festival for September 26 and 27, 2026. Produced by the team behind the City of Lights Las Vegas Jazz Festival, it is positioned around R&B and soul programming at Clark County Government Amphitheater.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-alison-krauss-union-station-2026",
+        "title": "Alison Krauss & Union Station",
+        "type": "concert",
+        "startDate": "2026-09-29",
+        "endDate": "2026-09-29",
+        "importance": 70,
+        "venueName": "Encore Theater at Wynn Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/alison-krauss-and-union-station",
+        "ticketUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/alison-krauss-and-union-station",
+        "summary": "Wynn lists Alison Krauss & Union Station for Tuesday, September 29, 2026, at 8 p.m. at Encore Theater. The booking brings a respected roots and bluegrass ensemble to the Strip’s theater circuit.",
+        "genres": []
+      }
+    ]
+  }
+}

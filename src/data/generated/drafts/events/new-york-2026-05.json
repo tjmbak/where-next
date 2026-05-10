@@ -1,0 +1,220 @@
+{
+  "slug": "new-york",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:11:45.708Z",
+  "responseId": "resp_04eb95244b9497e60069ff5c3a4904819eb7513ee3b75930a0",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in New York is especially strong for electronic music, with C2C, WIRE, Teksupport and Under the K Bridge anchoring the club/festival calendar alongside arena pop and hip-hop dates.",
+    "events": [
+      {
+        "id": "new-york-long-play-festival-2026",
+        "title": "Long Play Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-30",
+        "endDate": "2026-05-03",
+        "importance": 82,
+        "venueName": "Various venues in Brooklyn",
+        "venueId": null,
+        "sourceUrl": "https://bangonacan.org/long-play-2026/",
+        "ticketUrl": "https://bangonacan.org/long-play-2026/",
+        "summary": "Bang on a Can’s Long Play returns as a multi-day Brooklyn festival with 60+ concerts. The 2026 program includes featured sets tied to John Luther Adams, Morton Feldman, BlankFor.ms with Jason Moran and Marcus Gilmore, Secret Chiefs 3 and more.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-c2c-festival-2026",
+        "title": "C2C Festival NYC 2026",
+        "type": "festival",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 88,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://clubtoclub.it/event/c2c-festival-nyc-2026/",
+        "ticketUrl": "https://clubtoclub.it/event/c2c-festival-nyc-2026/",
+        "summary": "Italy’s C2C Festival returns to Knockdown Center for its second New York edition across three stages. The confirmed lineup includes Arca, Avalon Emerson & The Charm, aya, Nourished by Time, Titanic, Malibu, Los Thuthanaka and YHWH Nailgun.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-peggy-gou-under-k-2026",
+        "title": "Peggy Gou with Mall Grab",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 80,
+        "venueName": "Under the 'K' Bridge Park",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7O-3p",
+        "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7O-3p",
+        "summary": "Peggy Gou headlines an open-air Brooklyn date at Under the 'K' Bridge Park, with Mall Grab also listed on the Ticketmaster lineup. The event is confirmed for 7:00 PM and is marked 21+.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-teksupport-max-styler-2026",
+        "title": "Teksupport: Max Styler",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-10",
+        "importance": 72,
+        "venueName": "Brooklyn Storehouse",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/691264635a00bd000191d511?pid=d6342b83",
+        "ticketUrl": "https://dice.fm/event/691264635a00bd000191d511?pid=d6342b83",
+        "summary": "Teksupport presents Max Styler at Brooklyn Storehouse for a late-night 21+ event. DICE lists the show for Saturday, May 9 at 10:00 PM with doors at 10:00 PM.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-wire-festival-2026",
+        "title": "WIRE Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-17",
+        "importance": 90,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2268043",
+        "ticketUrl": "https://ra.co/events/2268043",
+        "summary": "WIRE Festival returns to Knockdown Center for its fifth anniversary edition from May 14–17. The RA-listed program includes MUTEK, Herrensauna, WHOLE and FOLD takeovers with Alva Noto, Dopplereffekt, Dax J, Dr. Rubinstein, Freddy K, Juliana Huxtable, Aurora Halal and many more.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-sofia-kourtesis-nursery-2026",
+        "title": "The Nursery: Sofia Kourtesis, Dave DK",
+        "type": "club-night",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 70,
+        "venueName": "public records",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396548",
+        "ticketUrl": "https://ra.co/events/2396548",
+        "summary": "public records hosts The Nursery with Sofia Kourtesis and Dave DK on Sunday, May 17. Resident Advisor lists the event as a 4:00–10:00 PM house-focused program.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-golden-record-djulz-2026",
+        "title": "Golden Record NYC x TAMED x 333 present D'JULZ, Shvili, Kiyoshi, Miguel Gallardo",
+        "type": "club-night",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-23",
+        "importance": 68,
+        "venueName": "TBA - East Williamsburg",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2429702",
+        "ticketUrl": "https://ra.co/events/2429702",
+        "summary": "Golden Record NYC, TAMED and 333 present an East Williamsburg after-hours event led by D'JULZ, with Shvili, Kiyoshi, RAAUL, Miguel Gallardo and Etien Hai also listed. RA confirms the event runs from Friday night into Saturday morning.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-rene-liu-final-call-2026",
+        "title": "René Liu: Final Call 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 72,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/rene-liu-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/rene-liu-2026",
+        "summary": "René Liu brings the Final Call 2026 Tour to Barclays Center in Brooklyn. The venue lists the show for Saturday, May 23 at 7:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-diljit-dosanjh-aura-2026",
+        "title": "Diljit Dosanjh: Aura World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 86,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/diljit-dosanjh-tickets/artist/2108512?venueId=483329",
+        "ticketUrl": "https://www.ticketmaster.com/diljit-dosanjh-tickets/artist/2108512?venueId=483329",
+        "summary": "Diljit Dosanjh brings his Aura World Tour 2026 to Madison Square Garden. Ticketmaster confirms the Sunday, May 24 performance at 8:00 PM, with a second MSG date listed for May 25.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-plexus-ron-like-hell-2026",
+        "title": "PLEXUS: Ron Like Hell & Friends",
+        "type": "club-night",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-25",
+        "importance": 68,
+        "venueName": "H0L0",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392068",
+        "ticketUrl": "https://ra.co/events/2392068",
+        "summary": "PLEXUS returns to H0L0 with Ron Like Hell, Joton, Sploofi, Kilopatrah Jones, Lezzie, PlayPlay, skoglund and special guests. RA confirms the event runs from Sunday evening into Monday morning.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-charlie-puth-whatevers-clever-2026",
+        "title": "Charlie Puth: Whatever's Clever! World Tour",
+        "type": "concert",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 82,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/charlie-puth-whatevers-clever-world-tour-new-york-new-york-05-29-2026/event/3B00638AB02F470F",
+        "ticketUrl": "https://www.ticketmaster.com/charlie-puth-whatevers-clever-world-tour-new-york-new-york-05-29-2026/event/3B00638AB02F470F",
+        "summary": "Charlie Puth’s Whatever's Clever! World Tour stops at Madison Square Garden on Friday, May 29. Ticketmaster confirms the New York date at 7:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-kid-cudi-rebel-ragers-2026",
+        "title": "Kid Cudi: The Rebel Ragers Tour",
+        "type": "concert",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 84,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/kid-cudi-mia-big-boi-atrak-madison-square-garden-may-2026/3B00642F923B288F",
+        "ticketUrl": "https://www.msg.com/events-tickets/kid-cudi-mia-big-boi-atrak-madison-square-garden-may-2026/3B00642F923B288F",
+        "summary": "Kid Cudi brings The Rebel Ragers Tour to Madison Square Garden with special guests Big Boi and A-Trak. MSG confirms the concert for Saturday, May 30 at 6:30 PM.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

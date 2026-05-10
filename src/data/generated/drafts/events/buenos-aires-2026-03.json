@@ -1,0 +1,217 @@
+{
+  "slug": "buenos-aires",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:49:02.652Z",
+  "responseId": "resp_0360b6cb984abc3f0069ff64ec2bf8819cb9a953161534c66b",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 was led by Lollapalooza Argentina, major arena/stadium concerts, and a strong run of Crobar techno programming.",
+    "events": [
+      {
+        "id": "buenos-aires-chayanne-bailemos-2026",
+        "title": "Chayanne – Bailemos Otra Vez Tour",
+        "type": "concert",
+        "startDate": "2026-03-01",
+        "endDate": "2026-03-07",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/chayanne",
+        "ticketUrl": null,
+        "summary": "Chayanne returned to Buenos Aires for Movistar Arena dates listed for March 1, 4, and 7 as part of the “Bailemos Otra Vez Tour.” The show mixed new material with the Puerto Rican pop star’s career hits.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-andres-campo-2026",
+        "title": "Crobar Be Techno pres. Andrés Campo",
+        "type": "club-night",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-06",
+        "importance": 72,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://es.ra.co/events/2376209",
+        "ticketUrl": null,
+        "summary": "Crobar’s Be Techno series hosted Spanish techno DJ Andrés Campo, with J Catriel b2b Marcos Fagoaga and Alan Nozziglia also listed. Resident Advisor confirms the Friday, March 6 date at Crobar.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-gilberto-gil-tempo-rei-2026",
+        "title": "Gilberto Gil – Tempo Rei Último Tour",
+        "type": "concert",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-11",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.bpofexperience.com/events/Gilberto_Gil",
+        "ticketUrl": null,
+        "summary": "Brazilian icon Gilberto Gil brought his “Tempo Rei Último Tour” to Movistar Arena on March 11. The listing identifies the show as part of his farewell tour.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "buenos-aires-lollapalooza-argentina-2026",
+        "title": "Lollapalooza Argentina 2026",
+        "type": "festival",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 98,
+        "venueName": "Hipódromo de San Isidro",
+        "venueId": "lolla-argentina",
+        "sourceUrl": "https://www.lollapaloozaar.com/",
+        "ticketUrl": null,
+        "summary": "Lollapalooza Argentina ran March 13–15 at Hipódromo de San Isidro, bringing the festival’s international multi-stage format back to the Buenos Aires area. The official site confirmed the dates and location.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-bryan-adams-roll-with-the-punches-2026",
+        "title": "Bryan Adams – Roll With The Punches Tour",
+        "type": "concert",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-15",
+        "importance": 80,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://bpofexperience.com/events/Bryan_Adams",
+        "ticketUrl": null,
+        "summary": "Bryan Adams played Movistar Arena on March 15 as part of the “Roll With The Punches” tour. The event listing describes a Buenos Aires concert built around his classic rock-pop catalog and newer material.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-fito-paez-sale-el-sol-2026",
+        "title": "Fito Páez – Sale el Sol Tour 2026",
+        "type": "concert",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-20",
+        "importance": 86,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/fito-p%C3%A1ez",
+        "ticketUrl": null,
+        "summary": "Fito Páez played Movistar Arena on March 19 and 20 on the “Sale el Sol Tour 2026.” The city tourism listing says the show combined emblematic songs from his career with material from his recent album “Novela.”",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-pan-pot-2026",
+        "title": "Crobar Be Techno pres. Pan-Pot",
+        "type": "club-night",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "importance": 78,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://es.ra.co/events/2387302",
+        "ticketUrl": null,
+        "summary": "Crobar Be Techno hosted Berlin duo Pan-Pot for a five-hour set on March 20, with Juaan also on the bill. Resident Advisor lists the event at Crobar Buenos Aires.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-soda-stereo-ecos-2026",
+        "title": "Soda Stereo – Ecos",
+        "type": "concert",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-22",
+        "importance": 90,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.bpofexperience.com/events/Soda_Stereo",
+        "ticketUrl": null,
+        "summary": "Soda Stereo’s “Ecos” shows were listed for March 21 and 22 at Movistar Arena. The production reunited Charly Alberti and Zeta Bosio with Gustavo Cerati’s image and voice through stage technology.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-acdc-power-up-2026",
+        "title": "AC/DC – Power Up Tour",
+        "type": "concert",
+        "startDate": "2026-03-23",
+        "endDate": "2026-03-31",
+        "importance": 94,
+        "venueName": "Estadio River Plate",
+        "venueId": null,
+        "sourceUrl": "https://www.acdc.com/tour",
+        "ticketUrl": null,
+        "summary": "AC/DC’s official tour archive listed three sold-out Buenos Aires stadium dates at Estadio River Plate: March 23, 27, and 31. The shows were part of the band’s “Power Up” tour.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-dread-mar-i-20-anos-2026",
+        "title": "Dread Mar I – 20 Años Tour",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 76,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://pelagatos.com.ar/event/dread-mar-i-movistar-arena-2026/",
+        "ticketUrl": null,
+        "summary": "Dread Mar I celebrated 20 years with a Buenos Aires concert at Movistar Arena on March 27. The listing says Mariano Castro’s set marked two decades of his reggae career and included material from “A Tempo.”",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-tan-bionica-velez-2026",
+        "title": "Tan Biónica – El Regreso en Vélez",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 88,
+        "venueName": "Estadio Vélez Sarsfield",
+        "venueId": null,
+        "sourceUrl": "https://turismo.buenosaires.gob.ar/es/article/tan-bi%C3%B3nica",
+        "ticketUrl": null,
+        "summary": "Tan Biónica’s official city listing confirms three Vélez Sarsfield stadium nights, with March 29 added after the March 27 and 28 shows sold out. The concerts formed a major Buenos Aires run for the reunited Argentine pop-rock band.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-crobar-yellowheads-2026",
+        "title": "Crobar Be Techno pres. YellowHeads",
+        "type": "club-night",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "importance": 72,
+        "venueName": "Crobar Buenos Aires",
+        "venueId": "crobar-ba",
+        "sourceUrl": "https://es.ra.co/events/2387308",
+        "ticketUrl": null,
+        "summary": "Crobar Be Techno closed the month with YellowHeads on March 27, alongside D3fai and Unlighted b2b Gonzalo F. Resident Advisor lists the night as a Crobar event in collaboration with External.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

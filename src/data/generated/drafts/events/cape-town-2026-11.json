@@ -1,0 +1,52 @@
+{
+  "slug": "cape-town",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:14:42.936Z",
+  "responseId": "resp_09350ce102d6c3bb0069ff5d1dda8c819782e745fb3077c0c8",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 11,
+    "year": 2026,
+    "notes": "Confirmed November 2026 listings for Cape Town are still limited this far out, with one major arena concert and one Western Cape electronic camping festival currently solidly verified.",
+    "events": [
+      {
+        "id": "cape-town-jill-scott-nov-2026",
+        "title": "Jill Scott - To Whom This May Concern 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 82,
+        "venueName": "Grand Arena at GrandWest",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.za/event/jill-scott-to-whom-this-may-concern-2026-tour-tickets/537524021",
+        "ticketUrl": "https://www.ticketmaster.co.za/event/jill-scott-to-whom-this-may-concern-2026-tour-tickets/537524021",
+        "summary": "Jill Scott brings her To Whom This May Concern 2026 Tour to Cape Town for a confirmed 20:00 show at Grand Arena at GrandWest. The listing names Jill Scott as the performer for the Cape Town date.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "cape-town-meidum-festival-2026",
+        "title": "Meidum: A Mountain Oasis 2026",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29",
+        "importance": 72,
+        "venueName": "Pat Busch Mountain Reserve",
+        "venueId": null,
+        "sourceUrl": "https://meidum.howler.co.za/events/meidum-a-mountain-oasis-2026-a198",
+        "ticketUrl": "https://meidum.howler.co.za/",
+        "summary": "Meidum is a confirmed 27–29 November 2026 electronic camping festival at Pat Busch Mountain Reserve near Robertson, described by the organiser as two hours outside Cape Town. The event is built around a large pyramid-style dance stage with camping included in tickets.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

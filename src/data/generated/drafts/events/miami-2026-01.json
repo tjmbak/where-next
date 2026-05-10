@@ -1,0 +1,222 @@
+{
+  "slug": "miami",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:03:09.049Z",
+  "responseId": "resp_04958cc4c423eebb0069ff5a0a8ef0819180c5cf89df091425",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 1,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "miami-club-space-nye-2026",
+        "title": "New Years Eve (2025-2026) at Club Space",
+        "type": "club-night",
+        "startDate": "2025-12-31",
+        "endDate": "2026-01-02",
+        "importance": 88,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/eobga6-new-years-eve-2025-2026-31st-dec-club-space-miami-miami-tickets?lng=en-CA",
+        "ticketUrl": "https://dice.fm/event/eobga6-new-years-eve-2025-2026-31st-dec-club-space-miami-miami-tickets?lng=en-CA",
+        "summary": "Club Space's New Year's marathon ran on the Terrace from December 31 into January 2, with M-High, Ben Sterling, Hot Since 82 and more listed on the DICE lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-rod-wave-2026",
+        "title": "Rod Wave — The Redemption Experience Tour",
+        "type": "concert",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-02",
+        "importance": 82,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/news/detail/rod-wave-adds-second-show-to-the-redemption-experience-tour-coming-to-kaseya-center",
+        "ticketUrl": null,
+        "summary": "Rod Wave brought The Redemption Experience Tour to Kaseya Center for two Miami arena dates on January 1 and January 2, 2026.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-south-beach-jazz-2026",
+        "title": "South Beach Jazz Festival",
+        "type": "festival",
+        "startDate": "2026-01-08",
+        "endDate": "2026-01-11",
+        "importance": 78,
+        "venueName": "Multiple locations on Miami Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/south-beach-jazz-festival/13552",
+        "ticketUrl": null,
+        "summary": "The 10th annual South Beach Jazz Festival ran January 8–11 across Miami Beach, with programming including John Pizzarelli, Spanish Harlem Orchestra with Etienne Charles, and Spam Allstars.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-innervisions-space-2026",
+        "title": "Innervisions Miami: Dixon, Âme DJ, Jimi Jules",
+        "type": "club-night",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 84,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2332887",
+        "ticketUrl": null,
+        "summary": "Innervisions took over Club Space Miami on January 10 with Dixon, Âme DJ, Jimi Jules, Trikk, Julya Karma and Max Stern listed on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-nation-language-2026",
+        "title": "Nation of Language at ZeyZey Miami",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 72,
+        "venueName": "ZeyZey Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.fusicology.com/events/nation-of-language-florida-zeyzey-miami/",
+        "ticketUrl": "https://www.fusicology.com/events/nation-of-language-florida-zeyzey-miami/",
+        "summary": "Nation of Language played ZeyZey Miami on January 16, bringing their synth-led new wave, post-punk and pop sound to the outdoor venue.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-freddie-gibbs-midline-2026",
+        "title": "Freddie Gibbs at Midline",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-17",
+        "importance": 78,
+        "venueName": "Midline Miami",
+        "venueId": null,
+        "sourceUrl": "https://event.marriott.com/miaox-moxy-miami-south-beach/events/miami/freddie-gibbs-at-midline-fri-11626-11121398",
+        "ticketUrl": null,
+        "summary": "Freddie Gibbs opened Midline Miami's live-music programming with a special performance on January 16, listed as running into January 17.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-nudeco-lupe-2026",
+        "title": "Nu Deco ft. Lupe Fiasco",
+        "type": "concert",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 76,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.lat/evento/nu-deco-con-lupe-fiasco/34948",
+        "ticketUrl": null,
+        "summary": "Nu Deco Ensemble performed with GRAMMY-winning rapper Lupe Fiasco at Miami Beach Bandshell on January 17, with a program featuring new symphonic works and a Mac Miller tribute suite.",
+        "genres": [
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-resistance-m2-2026",
+        "title": "RESISTANCE Miami: Innellea, Stephan Bodzin",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 86,
+        "venueName": "M2 Miami",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/xe7xnl-resistance-innellea-stephan-bodzin-17th-jan-m2-miami-miami-beach-tickets",
+        "ticketUrl": "https://dice.fm/event/xe7xnl-resistance-innellea-stephan-bodzin-17th-jan-m2-miami-miami-beach-tickets",
+        "summary": "RESISTANCE Miami continued Season 3 at M2 Miami on January 17 with Innellea, Stephan Bodzin Live, Benjamin Lloyd and Marvin Delgado.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-att-playoff-playlist-2026",
+        "title": "AT&T Playoff Playlist Live!",
+        "type": "festival",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 92,
+        "venueName": "Miami Beach near Lummus Park",
+        "venueId": null,
+        "sourceUrl": "https://collegefootballplayoff.com/news/2025/11/20/nov-news-conf.aspx",
+        "ticketUrl": null,
+        "summary": "The College Football Playoff's free two-night AT&T Playoff Playlist Live! concert series took place near Lummus Park on January 17–18. The lineup featured Calvin Harris, John Summit and XANDRA on Saturday, followed by Peso Pluma, Latin Mafia and Greeicy on Sunday.",
+        "genres": [
+          "electronic",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-soulection-15-2026",
+        "title": "15 Years of Soulection",
+        "type": "club-night",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-24",
+        "importance": 86,
+        "venueName": "Club Space Miami / Floyd / The Ground",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/partner/tickets/event/92x379-15-years-of-soulection-23rd-jan-the-ground-miami-miami-club-space-miami-miami-floyd-miami-miami-tickets?lng=en",
+        "ticketUrl": "https://dice.fm/partner/tickets/event/92x379-15-years-of-soulection-23rd-jan-the-ground-miami-miami-club-space-miami-miami-floyd-miami-miami-tickets?lng=en",
+        "summary": "Soulection & Friends celebrated 15 years with a 15-hour full-building takeover of Club Space, Floyd and The Ground from January 23 to January 24, featuring Joe Kay, Jayda G, Kokoroko and more.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "house"
+        ]
+      },
+      {
+        "id": "miami-piv-space-2026",
+        "title": "PIV Miami: Prunk, Dennis Ferrer, Riordan, Dennis Quin",
+        "type": "club-night",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-24",
+        "importance": 84,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2334705",
+        "ticketUrl": null,
+        "summary": "Amsterdam house brand PIV landed at Club Space Miami on January 24 with Prunk, Dennis Ferrer, Riordan, Dennis Quin, Ms. Mada, Kepler, Klaudie and Chesster.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-70000-tons-2026",
+        "title": "70000TONS OF METAL 2026",
+        "type": "festival",
+        "startDate": "2026-01-29",
+        "endDate": "2026-02-02",
+        "importance": 92,
+        "venueName": "Freedom of the Seas / PortMiami",
+        "venueId": null,
+        "sourceUrl": "https://70000tons.com/history/lineup-stats-2026/",
+        "ticketUrl": null,
+        "summary": "70000TONS OF METAL sailed from Miami to Nassau and back aboard Freedom of the Seas from January 29 to February 2, 2026.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

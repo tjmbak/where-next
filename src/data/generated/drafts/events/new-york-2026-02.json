@@ -1,0 +1,203 @@
+{
+  "slug": "new-york",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:10:33.485Z",
+  "responseId": "resp_0a0a9ff18b316e8b0069ff5c1821b48197b42f811b71b0bb43",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in New York leaned heavily into Black electronic programming via Dweller, arena-scale Latin and Americana tours, and a strong late-month techno run at Knockdown Center.",
+    "events": [
+      {
+        "id": "new-york-mita-gami-meir-briskman-2026",
+        "title": "Mita Gami & Meir Briskman Orchestra",
+        "type": "concert",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 72,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/000063810C7EEAE5",
+        "ticketUrl": "https://www.ticketmaster.com/event/000063810C7EEAE5",
+        "summary": "Electronic artist Mita Gami appeared with the Meir Briskman Orchestra at Brooklyn Paramount on February 7, 2026.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-ricardo-arjona-msg-2026",
+        "title": "Ricardo Arjona: Lo que el SECO no dijo Tour",
+        "type": "concert",
+        "startDate": "2026-02-11",
+        "endDate": "2026-02-12",
+        "importance": 86,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/ricardo-arjona-madison-square-garden-february-2026/3B0062F6D6B32478",
+        "ticketUrl": "https://www.msg.com/events-tickets/ricardo-arjona-madison-square-garden-february-2026/3B0062F6D6B32478",
+        "summary": "Ricardo Arjona brought his Lo que el SECO no dijo Tour to Madison Square Garden for two nights, February 11 and 12, 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-brandi-carlile-msg-2026",
+        "title": "Brandi Carlile: The Human Tour with The Head and the Heart",
+        "type": "concert",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-14",
+        "importance": 86,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/brandi-carlile-the-head-and-the-heart-madison-square-garden-february-2026/3B006354A7C93888",
+        "ticketUrl": "https://www.msg.com/events-tickets/brandi-carlile-the-head-and-the-heart-madison-square-garden-february-2026/3B006354A7C93888",
+        "summary": "Brandi Carlile played Madison Square Garden on February 13 and 14, 2026, with special guest The Head and the Heart.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-dweller-festival-2026",
+        "title": "Dweller Festival 2026",
+        "type": "festival",
+        "startDate": "2026-02-17",
+        "endDate": "2026-02-27",
+        "importance": 94,
+        "venueName": "Various New York venues",
+        "venueId": null,
+        "sourceUrl": "https://pitchfork.com/news/dweller-festival-announces-lineup/",
+        "ticketUrl": "https://dwellerforever.club/",
+        "summary": "Dweller’s 2026 edition returned across New York venues from February 17 through 22, with a closing event on February 27. The lineup included Junglepussy, Introspekt, keiyaA, Juliana Huxtable, Kevin Aviance, Ge-ology, Zack Fox, A Guy Called Gerald, and DJ Travella.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-lauren-spencer-smith-2026",
+        "title": "Lauren Spencer Smith: The Art of Being a Mess Tour",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 72,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.laurenspencersmith.com/gig/friday-february-20th-2026-brooklyn-paramount/",
+        "ticketUrl": "https://www.laurenspencersmith.com/gig/friday-february-20th-2026-brooklyn-paramount/",
+        "summary": "Lauren Spencer Smith’s The Art of Being a Mess Tour stopped at Brooklyn Paramount on February 20, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-jason-isbell-radio-city-2026",
+        "title": "Jason Isbell at Radio City Music Hall",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-21",
+        "importance": 82,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://msg.com/events-tickets/jason-isbell-and-the-400-unit-alejandro-escovedo-radio-city-music-hall-february-2026/3C00632CDA100FA2",
+        "ticketUrl": "https://msg.com/events-tickets/jason-isbell-and-the-400-unit-alejandro-escovedo-radio-city-music-hall-february-2026/3C00632CDA100FA2",
+        "summary": "Jason Isbell played two nights at Radio City Music Hall: a February 20 solo show with Shelby Lynne and a February 21 show with the 400 Unit and Alejandro Escovedo.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-flow-knockdown-2026",
+        "title": "FLOW New York by Gray Area",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 82,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2309436",
+        "ticketUrl": "https://ra.co/events/2309436",
+        "summary": "Franky Rizardo’s FLOW returned to New York for a full-venue takeover at Knockdown Center with Franky Rizardo, Jay de Lys, Nacho Scoppa, Ms. Mada, Amo Avenue, and HVNLEE.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-whethan-webster-hall-2026",
+        "title": "Whethan",
+        "type": "concert",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 70,
+        "venueName": "Webster Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.bowerypresents.com/index.php/shows/detail/1232774-whethan",
+        "ticketUrl": "https://www.bowerypresents.com/index.php/shows/detail/1232774-whethan",
+        "summary": "Whethan headlined Webster Hall on February 21, 2026, on a Bowery Presents bill.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-rush-kiki-knockdown-2026",
+        "title": "RUSH presents: KI/KI, Lauren Flax, LYDO",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 82,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2305637",
+        "ticketUrl": "https://ra.co/events/2305637",
+        "summary": "RUSH presented KI/KI at Knockdown Center on February 27, 2026, with support from Lauren Flax and LYDO.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-mana-barclays-2026",
+        "title": "Maná: Vivir Sin Aire Tour",
+        "type": "concert",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 86,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/mana-2025",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/mana-2025",
+        "summary": "Mexican rock band Maná brought the Vivir Sin Aire Tour to Barclays Center in Brooklyn on February 28, 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-richie-hawtin-knockdown-2026",
+        "title": "Richie Hawtin, DJ Stingray 313, Lindsey Herbert",
+        "type": "club-night",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 84,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2319517",
+        "ticketUrl": "https://ra.co/events/2319517",
+        "summary": "Richie Hawtin headlined Knockdown Center’s Main Hall on February 28, 2026, alongside DJ Stingray 313 and Lindsey Herbert.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

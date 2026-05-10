@@ -1,0 +1,208 @@
+{
+  "slug": "miami",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:03:03.841Z",
+  "responseId": "resp_0af99d3145c0082d0069ff5a153794819db24f847402a1908d",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 in Miami was anchored by Ultra and Miami Music Week, with major Latin, jazz/R&B and arena-pop moments around the same window.",
+    "events": [
+      {
+        "id": "miami-jazz-in-the-gardens-2026",
+        "title": "Jazz in the Gardens Music Fest 2026",
+        "type": "festival",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-08",
+        "importance": 88,
+        "venueName": "Hard Rock Stadium",
+        "venueId": null,
+        "sourceUrl": "https://jazzinthegardens.com/jitg-music-fest/",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Miami Gardens' flagship spring music festival returned March 7–8 with daily gates at 3 p.m. The 2026 lineup included Jhené Aiko, GloRilla, SWV, Ludacris, Nelly, Ashanti, The Isley Brothers and Boney James.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-lady-gaga-mayhem-ball-2026",
+        "title": "Lady Gaga — The MAYHEM Ball",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 86,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/news/detail/lady-gaga-announces-rescheduled-date-for-mayhem-ball-show-postponed-at-kaseya-center",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Lady Gaga's postponed Miami date for The MAYHEM Ball was rescheduled to March 13, 2026 at Kaseya Center. The arena show supported her MAYHEM era.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-groundup-music-festival-2026",
+        "title": "GroundUP Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-15",
+        "importance": 79,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/groundup-music-festival/13773",
+        "ticketUrl": "https://tickets.venuepilot.com/",
+        "summary": "GroundUP returned to Miami Beach Bandshell March 13–15 with Snarky Puppy’s Family Dinner sessions at the center of the program. Featured guests included Bilal, Rickie Lee Jones, Flying Lotus, Patrice Rushen and Arooj Aftab.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-calle-ocho-2026",
+        "title": "Calle Ocho Music Festival 2026",
+        "type": "carnival",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-15",
+        "importance": 82,
+        "venueName": "Little Havana / Calle Ocho",
+        "venueId": null,
+        "sourceUrl": "https://www.jambase.com/festival/calle-ocho-2026/",
+        "ticketUrl": null,
+        "summary": "The free Calle Ocho street festival took over Little Havana on March 15. The 2026 music lineup listed Guaynaa, La Sonora Dinamita, Lena Burke, Osmani Garcia, DJ Epps and multiple Latin stage acts.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-winter-music-conference-2026",
+        "title": "Winter Music Conference 2026",
+        "type": "conference",
+        "startDate": "2026-03-24",
+        "endDate": "2026-03-26",
+        "importance": 84,
+        "venueName": "Kimpton EPIC Hotel",
+        "venueId": null,
+        "sourceUrl": "https://wintermusicconference.com/2026/02/19/winter-music-conference-unveils-second-wave-of-programming-and-beatport-live-pool-party-lineups-for-2026-edition/",
+        "ticketUrl": "https://wintermusicconference.com/",
+        "summary": "WMC's 36th edition ran March 24–26 in Downtown Miami with panels, workshops, A&R programming and Beatport Live pool parties. Announced participants included Sara Landry, Radio Slave, DJ Minx, Doc Martin, Junior Sanchez and label showcases from Mood Child, Rekids and Hot Creations x Three Six Zero.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-experts-only-space-2026",
+        "title": "Experts Only Miami Music Week Opening Party",
+        "type": "club-night",
+        "startDate": "2026-03-24",
+        "endDate": "2026-03-25",
+        "importance": 82,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.beatportal.com/articles/1288034-john-summits-experts-only-announces-lineup-for-miami-music-week-opening-party-to-takeover-club-space-on-march-24",
+        "ticketUrl": "http://expertsonly.lnk.to/EOMMW",
+        "summary": "John Summit's Experts Only staged a 21-hour, all-room Club Space takeover from March 24 at 11 p.m. to March 25 at 8 p.m. The lineup included ANNA, Ayybo, DJ Tennis, Hot Since 82, Layton Giordani, Max Styler, SG Lewis and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-factory-town-music-week-2026",
+        "title": "Factory Town Music Week 2026",
+        "type": "festival",
+        "startDate": "2026-03-25",
+        "endDate": "2026-03-29",
+        "importance": 86,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.factorytown.com/factory-town-music-week-2026/",
+        "ticketUrl": "https://dice.fm/",
+        "summary": "Factory Town Music Week ran five nights, March 25–29, across five stages. Its large-format dance lineup featured artists and brands including Adam Beyer, Bob Sinclar, Carlita, Chris Avantgarde, Dimension, Green Velvet and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-ultra-music-festival-2026",
+        "title": "Ultra Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 100,
+        "venueName": "Ultra Music Festival",
+        "venueId": "ultra-miami",
+        "sourceUrl": "https://ultramusicfestival.com/worldwide/ultra-music-festival-reveals-phase-3-lineup-for-2026-edition/",
+        "ticketUrl": "https://ultramusicfestival.com/tickets/miami/",
+        "summary": "Ultra returned to Bayfront Park in Downtown Miami from March 27–29 for its 26th edition. Confirmed headline moments included Alesso B2B Martin Garrix, Amelie Lens B2B Sara Landry, Adam Beyer B2B Joseph Capriati, Eric Prydz, Carl Cox, Major Lazer and BZRP.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-mana-vivir-sin-aire-2026",
+        "title": "Maná — Vivir Sin Aire Tour",
+        "type": "concert",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-28",
+        "importance": 81,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/news/detail/mana-announces-vivir-sin-aire-tour-coming-to-kaseya-center",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Mexican rock band Maná brought the Vivir Sin Aire Tour to Kaseya Center for two Miami arena dates on March 27 and March 28, 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-music-on-space-2026",
+        "title": "Marco Carola presents Music On: Miami Music Week 2026",
+        "type": "club-night",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 80,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2355892",
+        "ticketUrl": "https://dice.fm/event/g5d6b5-marco-carola-presents-music-on-miami-music-week-2026-28th-mar-club-space-miami-miami-tickets?lng=en",
+        "summary": "Marco Carola's Music On took over The Terrace at Club Space from Saturday night into Sunday afternoon. The RA-listed lineup included Marco Carola, Max Dean, East End Dubs B2B Ilario Alicante, Franky Rizardo B2B Seth Troxler, Fleur Shore B2B Prunk and Danyelino.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-resistance-mmw-closing-2026",
+        "title": "RESISTANCE MMW Closing Party: Carl Cox, Maceo Plex",
+        "type": "club-night",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 83,
+        "venueName": "M2 Miami",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2390173",
+        "ticketUrl": "https://dice.fm/",
+        "summary": "RESISTANCE closed its Miami Music Week run at M2 Miami on March 29. Carl Cox headlined the closing party with Maceo Plex and Airrica on the bill.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      }
+    ]
+  }
+}

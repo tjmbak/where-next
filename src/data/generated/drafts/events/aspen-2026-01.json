@@ -1,0 +1,211 @@
+{
+  "slug": "aspen",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:42:05.759Z",
+  "responseId": "resp_032301821e5a7b380069ff635ddf588196a0302e0d8606b574",
+  "searchCalls": 24,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 1,
+    "year": 2026,
+    "notes": "January 2026 in Aspen is unusually strong for destination music, with X Games, Aspen Gay Ski Week, JAS café shows, and Belly Up’s winter concert run overlapping across the month.",
+    "events": [
+      {
+        "id": "aspen-jas-stevie-marvin-2026",
+        "title": "Shelly Berg & Billy Valentine: The Music of Stevie Wonder & Marvin Gaye",
+        "type": "concert",
+        "startDate": "2026-01-03",
+        "endDate": "2026-01-04",
+        "importance": 72,
+        "venueName": "Paul JAS Center",
+        "venueId": null,
+        "sourceUrl": "https://aspenchamber.org/events/shelly-berg-billy-valentine-0",
+        "ticketUrl": "https://jazzaspensnowmass.org/events/list/",
+        "summary": "JAS presents Shelly Berg and Billy Valentine celebrating the music of Stevie Wonder and Marvin Gaye, with special guest Kirk Whalum. The listing confirms performances on January 3 and January 4 at the Paul JAS Center.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-emancipator-2026",
+        "title": "Emancipator with Naka G",
+        "type": "concert",
+        "startDate": "2026-01-08",
+        "endDate": "2026-01-08",
+        "importance": 74,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/emancipator-5/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/",
+        "summary": "Electronic producer Emancipator headlines Belly Up Aspen with support from Naka G. The venue listing confirms a January 8 show with 9:00 pm showtime.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-less-than-jake-grand-prix-2026",
+        "title": "Road to Italy U.S. Team Send Off with Less Than Jake",
+        "type": "concert",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 73,
+        "venueName": "Aspen Mountain Gondola Plaza",
+        "venueId": null,
+        "sourceUrl": "https://aspenchamber.org/events/toyota-us-grand-prix-2",
+        "ticketUrl": null,
+        "summary": "The Toyota U.S. Grand Prix’s Road to Italy U.S. Team Send Off includes a free outdoor concert by Less Than Jake at the base of Aspen Mountain. The event is listed for January 10, 2026 from 6:00 pm to 9:00 pm.",
+        "genres": []
+      },
+      {
+        "id": "aspen-gay-ski-week-2026",
+        "title": "Aspen Gay Ski Week",
+        "type": "festival",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-17",
+        "importance": 90,
+        "venueName": "Events across Aspen and Snowmass",
+        "venueId": null,
+        "sourceUrl": "https://www.aspensnowmass.com/visit/events/aspen-gay-ski-week",
+        "ticketUrl": "https://gayskiweek.com/",
+        "summary": "Aspen Gay Ski Week is confirmed for January 11–17, 2026 with parties, concerts, comedy, films, symposiums, dinners, and mountain events across Aspen Snowmass. The Aspen Snowmass listing describes it as the longest-running gay ski week in America.",
+        "genres": [
+          "festival",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-umphreys-mcgee-2026",
+        "title": "Umphrey’s McGee: Sky’s The Limit Tour",
+        "type": "concert",
+        "startDate": "2026-01-13",
+        "endDate": "2026-01-14",
+        "importance": 78,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://aspenchamber.org/events/umphreys-mcgee-belly-0",
+        "ticketUrl": "https://bellyupaspen.com/events/umphreys-mcgee-8/",
+        "summary": "Umphrey’s McGee brings its Sky’s The Limit Tour to Belly Up Aspen for a two-night run. The Aspen Chamber listing confirms the run for January 13–14, 2026.",
+        "genres": []
+      },
+      {
+        "id": "aspen-gavin-degraw-2026",
+        "title": "An Evening with Gavin DeGraw",
+        "type": "concert",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-16",
+        "importance": 76,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/gavin-degraw/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/",
+        "summary": "Gavin DeGraw plays Belly Up Aspen as part of the Mountain Run Tour 2026. The venue listing confirms Friday, January 16, 2026 with a 9:30 pm showtime.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-tres-chic-2026",
+        "title": "TRÈS CHIC starring MK, Twin Diplomacy and Michael Navarro",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 80,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/tres-chic/",
+        "ticketUrl": "https://www.eventim.us/",
+        "summary": "TRIOLOCO’s TRÈS CHIC takes over Belly Up Aspen during ski week with MK, Twin Diplomacy, and Michael Navarro. The venue page confirms Saturday, January 17, 2026 from 9:00 pm to 2:00 am.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-cedric-burnside-2026",
+        "title": "JAS Café: Cedric Burnside",
+        "type": "concert",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-17",
+        "importance": 73,
+        "venueName": "Paul JAS Center",
+        "venueId": null,
+        "sourceUrl": "https://aspenchamber.org/events/jas-cafe-cedric-burnside",
+        "ticketUrl": "https://jazzaspensnowmass.org/jas-center/#events-container",
+        "summary": "JAS Café presents Cedric Burnside at the Paul JAS Center. The listing confirms two January 17, 2026 showtimes at 6:30 pm and 8:45 pm.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "aspen-lotus-2026",
+        "title": "Lotus: Rise of the Anglerfish Tour",
+        "type": "concert",
+        "startDate": "2026-01-18",
+        "endDate": "2026-01-18",
+        "importance": 76,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/lotus-3/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/",
+        "summary": "Lotus brings the Rise of the Anglerfish Tour to Belly Up Aspen. The venue listing confirms Sunday, January 18, 2026 with an 8:00 pm showtime.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-x-games-music-2026",
+        "title": "X Games Aspen 2026 Music Lineup",
+        "type": "festival",
+        "startDate": "2026-01-23",
+        "endDate": "2026-01-24",
+        "importance": 96,
+        "venueName": "X Games Aspen Snowmass",
+        "venueId": "x-games-aspen",
+        "sourceUrl": "https://www.xgames.com/news/x-games-aspen-2026-announces-full-music-lineup/",
+        "ticketUrl": "https://www.xgames.com/events/aspen-2026/",
+        "summary": "X Games Aspen 2026 pairs the winter-sports festival with music at Buttermilk Mountain. The official lineup lists TESSLA and Disco Lines on January 23, plus Kendoll, Girlfriends, Sky Brown’s DJ debut, and Alesso on January 24.",
+        "genres": [
+          "festival",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "aspen-big-gigantic-2026",
+        "title": "Big Gigantic",
+        "type": "concert",
+        "startDate": "2026-01-29",
+        "endDate": "2026-01-29",
+        "importance": 77,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://www.bandsintown.com/e/1037217096-big-gigantic-at-belly-up-aspen?came_from=281",
+        "ticketUrl": null,
+        "summary": "Big Gigantic is listed at Belly Up Aspen on January 29, 2026. Bandsintown confirms the Aspen date and venue for the electronic duo.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-revivalists-2026",
+        "title": "An Evening with The Revivalists",
+        "type": "concert",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-30",
+        "importance": 78,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/an-evening-with-the-revivalists/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/",
+        "summary": "The Revivalists headline Belly Up Aspen with a sold-out evening concert. The venue listing confirms Friday, January 30, 2026 with a 9:30 pm showtime.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

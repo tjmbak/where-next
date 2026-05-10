@@ -1,0 +1,45 @@
+{
+  "slug": "cape-town",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:14:51.821Z",
+  "responseId": "resp_0bff3dd0f788d7210069ff5d452ef481a393545ef0865c2325",
+  "searchCalls": 9,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "cape-town-live-kirstenbosch-dec8-2026",
+        "title": "+LIVE+ at Kirstenbosch Garden",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 78,
+        "venueName": "Kirstenbosch National Botanical Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1593368056",
+        "ticketUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1593368056",
+        "summary": "American alternative-rock band +LIVE+ are confirmed for a Kirstenbosch Gardens concert on 8 December 2026. The Webtickets listing notes the show is sold out and bills the set around hits including “Lightning Crashes,” “I Alone,” “All Over You,” and “Heaven.”",
+        "genres": []
+      },
+      {
+        "id": "cape-town-live-kirstenbosch-dec9-2026",
+        "title": "+LIVE+ at Kirstenbosch Garden — second show",
+        "type": "concert",
+        "startDate": "2026-12-09",
+        "endDate": "2026-12-09",
+        "importance": 76,
+        "venueName": "Kirstenbosch National Botanical Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1593368056",
+        "ticketUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1593368056",
+        "summary": "Webtickets lists a second +LIVE+ performance at Kirstenbosch Gardens on 9 December 2026 at 18:00. The ticketing page marks this added date as sold out.",
+        "genres": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "marrakech",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:35:58.756Z",
+  "responseId": "resp_06441f3bf906b8fe0069ff621b9c2081a285cef02e4e5ae982",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 was anchored by a run of electronic music events around The Source, Chez Ali, BCKSTG, L’envers and Sonara, with traditional Moroccan music appearing in Zahria and Meydene programming.",
+    "events": [
+      {
+        "id": "marrakech-zona-artbat-gordo-apr-2026",
+        "title": "ZONA: ARTBAT + Gordo",
+        "type": "club-night",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 84,
+        "venueName": "Chez Ali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2381520",
+        "ticketUrl": "https://ra.co/events/2381520",
+        "summary": "ZONA debuted in Marrakech at Chez Ali with ARTBAT and Gordo on the lineup, billed as a festival-grade electronic music production.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-zahria-ibn-alaarif-apr-2026",
+        "title": "La Zahria 2026: Ibn AlAarif Ensemble Concert",
+        "type": "concert",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 70,
+        "venueName": "Farid Belkahia Museum",
+        "venueId": null,
+        "sourceUrl": "https://visitmarrakech.com/en/The-Zahria-of-Marrakech-2026%3A-the-unmissable-event-of-the-Moroccan-spring/",
+        "ticketUrl": null,
+        "summary": "The official Marrakech tourism site lists the 14th Zahria festival from March 22 to April 12, including an Ibn AlAarif ensemble concert on April 10 at the Farid Belkahia Museum.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-andaloussiat-shaqariat-apr-2026",
+        "title": "Andaloussiat & Shaqariat: Le Grand Gala de la Musique Andalouse",
+        "type": "concert",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 70,
+        "venueName": "Meydene Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://iticket.ma/en/events/concerts/andaloussiat-and-shaqariat-le-grand-gala-de-la-musique-andalouse-a-marrakech",
+        "ticketUrl": "https://iticket.ma/en/events/concerts/andaloussiat-and-shaqariat-le-grand-gala-de-la-musique-andalouse-a-marrakech",
+        "summary": "A one-night Andalusian music gala at Théâtre Meydene featuring Jouq Chabab Al Andalous conducted by Moulay Hicham Belghiti, with Abdellah Al Makhtoubi, Nour Eddine Tahiri and Hala Bensaid.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-oddity-anl-lenvers-apr-2026",
+        "title": "ODDITY ANL Marrakech",
+        "type": "club-night",
+        "startDate": "2026-04-17",
+        "endDate": "2026-04-17",
+        "importance": 62,
+        "venueName": "L'envers",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420547",
+        "ticketUrl": "https://ra.co/events/2420547",
+        "summary": "Moroccan DJ ODDITY played an all-night-long set at L’envers, a central Marrakech electronic music venue.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-miroloja-bckstg-apr-2026",
+        "title": "Miroloja x BCKSTG",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 65,
+        "venueName": "BCKSTG",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2417277",
+        "ticketUrl": "https://ra.co/events/2417277",
+        "summary": "Parisian underground duo Miroloja headlined BCKSTG at Casino de Marrakech with a house and minimal-leaning late-night set.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-sonara-festival-apr-2026",
+        "title": "Sonara Festival",
+        "type": "festival",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-24",
+        "importance": 78,
+        "venueName": "Marrakech, Morocco",
+        "venueId": null,
+        "sourceUrl": "https://sonarafest.com/",
+        "ticketUrl": "https://sonarafest.com/",
+        "summary": "Sonara’s official site confirmed a Marrakech edition on April 24 with electronic artists including Abstraal, Andhim, ANII, DJ Tomenzy, Jimi Jules, Kasia, Kawtar Sadik and Notre Dame listed.",
+        "genres": [
+          "electronic",
+          "afro-house",
+          "techno"
+        ]
+      },
+      {
+        "id": "marrakech-rose-days-morocco-apr-2026",
+        "title": "Rosé Days Morocco",
+        "type": "beach-club",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 72,
+        "venueName": "The Source Marrakesh",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2406369",
+        "ticketUrl": "https://ra.co/events/2406369",
+        "summary": "The boutique Rosé Days series made its Morocco debut at The Source Marrakech with an all-female DJ lineup curated by Hush Hush, including Paula Tape, Kokeshi, Grace, Deatra, Rain and DJ MYMA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-origins-preopening-apr-2026",
+        "title": "Origins Spring 2026: Private Pre-Opening",
+        "type": "club-night",
+        "startDate": "2026-04-30",
+        "endDate": "2026-04-30",
+        "importance": 72,
+        "venueName": "The Source Marrakesh",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2376190",
+        "ticketUrl": "https://ra.co/events/2376190",
+        "summary": "Origins Spring 2026 listed a private April 30 pre-opening at The Source with Ebba, OZ and REM, ahead of its May 1 two-stage main event.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

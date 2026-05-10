@@ -1,0 +1,214 @@
+{
+  "slug": "las-vegas",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:33:15.715Z",
+  "responseId": "resp_0e266a35183d354f0069ff614fcb28819eb7bfb9cec027b9be",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 leaned heavily into Vegas’s residency economy, with Sphere-scale electronic and classic-rock productions alongside major pop, Latin, and club nights.",
+    "events": [
+      {
+        "id": "las-vegas-illenium-odyssey-2026",
+        "title": "ILLENIUM Presents ODYSSEY",
+        "type": "residency",
+        "startDate": "2026-03-05",
+        "endDate": "2026-04-04",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.thesphere.com/shows/illenium",
+        "ticketUrl": "https://www.ticketmaster.com/Illenium-tickets/artist/2035639",
+        "summary": "ILLENIUM brought his ODYSSEY show to Sphere as a limited immersive electronic-music engagement beginning March 5, 2026. The run was built around Sphere-scale visuals and ILLENIUM’s melodic bass catalog.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-eagles-sphere-mar-2026",
+        "title": "Eagles Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-28",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://eagles.com/blogs/news/eagles-live-in-concert-at-sphere-2026-dates-added",
+        "ticketUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977",
+        "summary": "Eagles extended their Sphere residency with March 20, 21, 27 and 28, 2026 performances. The production paired the band’s classic catalog with Sphere’s immersive concert environment.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-jlo-up-all-night-2026",
+        "title": "Jennifer Lopez: Up All Night Live in Las Vegas",
+        "type": "residency",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-28",
+        "importance": 90,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/jennifer-lopez-return-las-vegas-new-residency-colosseum-caesars",
+        "ticketUrl": "https://ticketmaster.com/JLoVegas",
+        "summary": "Jennifer Lopez’s Colosseum residency returned in March with eight listed performances from March 6 through March 28. The show featured career hits with a large-scale Las Vegas production and live band.",
+        "genres": [
+          "pop",
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-sammy-hagar-worlds-2026",
+        "title": "Sammy Hagar: The Best of All Worlds Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2026-03-11",
+        "endDate": "2026-03-21",
+        "importance": 86,
+        "venueName": "Dolby Live at Park MGM",
+        "venueId": null,
+        "sourceUrl": "https://www.redrocker.com/news/2025-09-15/due-to-popular-demand-sammy-hagar-returning-to-dolby-live-at-park-mgm-in-2026-with-the-best-of-all-worlds-las-vegas-residency/",
+        "ticketUrl": "https://www.ticketmaster.com/SammyHagarVegas",
+        "summary": "Sammy Hagar returned to Dolby Live with The Best of All Worlds Band for March 11, 13, 14, 18, 20 and 21 performances. The residency reunited Hagar with Michael Anthony, Joe Satriani, Kenny Aronoff and Rai Thistlethwayte.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-nine-inch-nails-peel-it-back-2026",
+        "title": "Nine Inch Nails: Peel It Back Tour 2026",
+        "type": "concert",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "importance": 82,
+        "venueName": "MGM Grand Garden Arena",
+        "venueId": null,
+        "sourceUrl": "https://mgmgrand.mgmresorts.com/en/entertainment/nine-inch-nails.html",
+        "ticketUrl": "https://www.axs.com/events/1158554/nine-inch-nails-tickets",
+        "summary": "Nine Inch Nails played MGM Grand Garden Arena on March 7, 2026, with Boys Noize listed on the bill via AXS. The arena stop brought the Peel It Back Tour to the Strip.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-peso-pluma-dinastia-2026",
+        "title": "Dinastia Tour by Peso Pluma, Tito Double P & Friends",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 84,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/peso-pluma-dinastia-tour",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/peso-pluma-dinastia-tour",
+        "summary": "Peso Pluma, Tito Double P and friends brought the Dinastia Tour to T-Mobile Arena on March 13, 2026. The show was a major Latin-music arena date on the Strip.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-foreigner-orchestral-2026",
+        "title": "Foreigner: The Hits Orchestral - Celebrating 50 Years Live in Vegas",
+        "type": "residency",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-14",
+        "importance": 78,
+        "venueName": "The Venetian Theatre at The Venetian Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/17006289E9EE40ED",
+        "ticketUrl": "https://www.ticketmaster.com/event/17006289E9EE40ED",
+        "summary": "Foreigner staged a 50th-anniversary orchestral Las Vegas run at The Venetian Theatre, beginning March 6, 2026. The show presented the band’s hits with orchestral arrangements.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-culture-club-venetian-2026",
+        "title": "Boy George & Culture Club: Live in Las Vegas",
+        "type": "residency",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-28",
+        "importance": 77,
+        "venueName": "The Venetian Theatre at The Venetian Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/entertainment/boy-george-and-culture-club.html",
+        "ticketUrl": "https://www.livenation.com/event/1kAYvN8YGA1ZFix/boy-george-culture-club-live-in-las-vegas",
+        "summary": "Boy George & Culture Club played a six-show Las Vegas engagement at The Venetian Theatre from March 18 through March 28, 2026. The run focused on the group’s classic pop catalog.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-eric-prydz-marquee-2026",
+        "title": "Eric Prydz at Marquee Nightclub",
+        "type": "club-night",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-15",
+        "importance": 78,
+        "venueName": "Marquee Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2375561",
+        "ticketUrl": "https://ra.co/events/2375561",
+        "summary": "Eric Prydz headlined Marquee Nightclub on March 14, 2026, with the event scheduled from 10:30 p.m. to 4:00 a.m. The booking was a strong Strip club-night pick for progressive house and electronic fans.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-chyi-chin-mgm-2026",
+        "title": "Chyi Chin",
+        "type": "concert",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 70,
+        "venueName": "MGM Grand Garden Arena",
+        "venueId": null,
+        "sourceUrl": "https://mgmgrand.mgmresorts.com/en/entertainment/chyi-chin.html",
+        "ticketUrl": "https://www.axs.com/events/1216994/chyi-chin-tickets",
+        "summary": "Mandopop artist Chyi Chin performed at MGM Grand Garden Arena on March 14, 2026. The concert was a notable arena date for Chinese-language pop audiences in Las Vegas.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-knock2-liv-2026",
+        "title": "Simp City with Knock2 at LIV Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-03-08",
+        "endDate": "2026-03-08",
+        "importance": 70,
+        "venueName": "LIV Las Vegas at Fontainebleau Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.fontainebleaulasvegas.com/event/simp-city-leverage-at-liv/2026-03-08/",
+        "ticketUrl": "https://www.fontainebleaulasvegas.com/event/simp-city-leverage-at-liv/2026-03-08/",
+        "summary": "Knock2 headlined a Simp City event at LIV Las Vegas on March 8, 2026. The night centered on bass-house and high-energy electronic club music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-pressure-club-de-combat-2026",
+        "title": "Pressure feat Club De Combat",
+        "type": "club-night",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-22",
+        "importance": 66,
+        "venueName": "Discopussy",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2391061",
+        "ticketUrl": "https://ra.co/events/2391061",
+        "summary": "RVLTN presented Pressure featuring Club De Combat at Discopussy in Downtown Las Vegas on March 21, 2026. The RA-listed event ran overnight with doors at 10:00 p.m.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

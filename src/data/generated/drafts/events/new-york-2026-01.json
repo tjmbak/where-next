@@ -1,0 +1,222 @@
+{
+  "slug": "new-york",
+  "month": 1,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:10:56.775Z",
+  "responseId": "resp_04572bd3147eb3f90069ff5c03a10c819ea1c1a216534823ba",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 1,
+    "year": 2026,
+    "notes": "January leaned unusually strong for jazz and club music, with Winter Jazzfest, Unity Jazz Festival, globalFEST, and several high-profile Brooklyn dance-floor takeovers anchoring the month.",
+    "events": [
+      {
+        "id": "new-york-unity-jazz-festival-2026",
+        "title": "Unity Jazz Festival",
+        "type": "festival",
+        "startDate": "2026-01-08",
+        "endDate": "2026-01-09",
+        "importance": 88,
+        "venueName": "Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://press.jazz.org/press/2025/11/jazz-at-lincoln-center-celebrates-global-roots-at-the-third-annual-unity-jazz-festival/",
+        "ticketUrl": null,
+        "summary": "Jazz at Lincoln Center’s third annual Unity Jazz Festival returned across Jan. 8–9 with more than 20 acts on five stages. Kes headlined special stripped-down performances, alongside programming featuring DJ Logic, Tomeka Reid, Veronica Swift, Erena Terakubo, Gabriel Chakarji, and Rajna Swaminathan.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-winter-jazzfest-brooklyn-marathon-2026",
+        "title": "NYC Winter Jazzfest Brooklyn Marathon at Brooklyn Bowl",
+        "type": "festival",
+        "startDate": "2026-01-10",
+        "endDate": "2026-01-10",
+        "importance": 87,
+        "venueName": "Brooklyn Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynbowl.com/brooklyn/events/detail/nyc-winter-jazzfest-brooklyn-marathon-featuring-the-eitherorchestra-saha-gnawa-annie-the-caldwells-made-kut-pedrito-martinez-and-more",
+        "ticketUrl": "https://www.brooklynbowl.com/brooklyn/events/detail/nyc-winter-jazzfest-brooklyn-marathon-featuring-the-eitherorchestra-saha-gnawa-annie-the-caldwells-made-kut-pedrito-martinez-and-more",
+        "summary": "Part of the 2026 NYC Winter Jazzfest season, this Brooklyn Marathon stop at Brooklyn Bowl featured The Either/Orchestra, Saha Gnawa, Annie & The Caldwells, Mádé Kuti and The Movement, and Pedrito Martinez. The event page also confirms the 2026 Winter Jazzfest run as Jan. 8–13.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-globalfest-2026",
+        "title": "globalFEST",
+        "type": "festival",
+        "startDate": "2026-01-11",
+        "endDate": "2026-01-11",
+        "importance": 86,
+        "venueName": "David Geffen Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.lincolncenter.org/series/lincoln-center-presents/globalfest-361",
+        "ticketUrl": "https://www.lincolncenter.org/series/lincoln-center-presents/globalfest-361",
+        "summary": "globalFEST returned to David Geffen Hall for its annual full-theater takeover, presenting ten sets in one night across Lincoln Center’s venue. The 2026 lineup included Maria Mazzotta, Saami Brothers featuring Ustad Naseeruddin Saami, Raiatea Helm, Dilemastronauta y La Tripulación Cósmica, Dale Watson & His Lone Stars with Celine Lee, and more.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-hilary-duff-small-rooms-2026",
+        "title": "Hilary Duff — Small Rooms, Big Nerves",
+        "type": "concert",
+        "startDate": "2026-01-27",
+        "endDate": "2026-01-27",
+        "importance": 85,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/00006363038DD900",
+        "ticketUrl": "https://www.ticketmaster.com/event/00006363038DD900",
+        "summary": "Hilary Duff played Brooklyn Paramount as part of her Small Rooms, Big Nerves run, with doors at 7:00 PM and show time listed as 8:30 PM. The date was part of her first live-performance return after an extended break from touring.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-gregory-alan-isakov-colorado-symphony-2026",
+        "title": "Gregory Alan Isakov with the Colorado Symphony",
+        "type": "concert",
+        "startDate": "2026-01-30",
+        "endDate": "2026-01-31",
+        "importance": 82,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://coloradosymphony.org/app/uploads/2022/10/FOR-IMMEDIATE-RELEASE-Colorado-Symphony-Announces-Additional-Performance-at-Radio-City-Music-Hall-with-Gregory-Alan-Isakov.pdf",
+        "ticketUrl": null,
+        "summary": "Gregory Alan Isakov and his band reunited with the Colorado Symphony for two Radio City Music Hall performances on Jan. 30 and Jan. 31. The program drew from their collaborative album and included arrangements from Isakov’s Appaloosa Bones era.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-jessie-j-no-secrets-2026",
+        "title": "Jessie J — No Secrets Tour",
+        "type": "concert",
+        "startDate": "2026-01-28",
+        "endDate": "2026-01-28",
+        "importance": 74,
+        "venueName": "Irving Plaza",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/api/calendar/KovZpaFPje/irving-plaza-powered-by-verizon-5g-upcoming-events.pdf",
+        "ticketUrl": null,
+        "summary": "Jessie J brought the No Secrets Tour to Irving Plaza on Jan. 28, with Live Nation’s venue calendar listing a 7:00 PM local start. The performance was one of the month’s notable pop/R&B club-theater bookings in Manhattan.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-theo-parrish-nowadays-2026",
+        "title": "Theo Parrish All Night",
+        "type": "residency",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-02",
+        "importance": 82,
+        "venueName": "Nowadays",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2318190",
+        "ticketUrl": "https://ra.co/events/2318190",
+        "summary": "Theo Parrish returned to Nowadays for an all-night set on Jan. 2. Resident Advisor describes the booking as part of his long-standing residency at the club.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-function-xv-new-years-2026",
+        "title": "FUNCTION XV // New Year's",
+        "type": "club-night",
+        "startDate": "2026-01-02",
+        "endDate": "2026-01-03",
+        "importance": 82,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2293398",
+        "ticketUrl": "https://ra.co/events/2293398",
+        "summary": "FUNCTION’s twenty-fifth edition ran from late Jan. 2 into Jan. 3 with a large queer-underground lineup including Makadsi, Kim Ann Foxman, Serenda, Mez Monty, FASHION, S’aint Panic, Sevyn 0000, Rosa Peligrosa, and more. RA listed the event as a pick and noted its 15-hour format.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-dissident-nowadays-2026",
+        "title": "Dissident at Nowadays",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 80,
+        "venueName": "Nowadays",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2318204",
+        "ticketUrl": "https://ra.co/events/2318204",
+        "summary": "Berlin party Dissident returned to Nowadays on Jan. 17 with back-to-back sets from Ariel Zetina b2b River Moon, Carly Zeng b2b Rose Kourts, and Junior M b2b Manu Miran. The event ran overnight from 10:00 PM to 7:00 AM.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-detroit-in-effect-green-room-2026",
+        "title": "Green Room presents Detroit In Effect LIVE, WTCHCRFT, Devoye, Morgan",
+        "type": "club-night",
+        "startDate": "2026-01-17",
+        "endDate": "2026-01-18",
+        "importance": 77,
+        "venueName": "Green Room NYC",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2323310",
+        "ticketUrl": "https://ra.co/events/2323310",
+        "summary": "Green Room hosted Detroit In Effect live with WTCHCRFT, Devoye, and Morgan on Jan. 17. RA listed the night as a pick and categorized the music across techno and house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-love-from-the-sun-2026",
+        "title": "Love From The Sun: Karizma, Ge-ology, JADALAREIGN, Quinnette",
+        "type": "club-night",
+        "startDate": "2026-01-18",
+        "endDate": "2026-01-19",
+        "importance": 78,
+        "venueName": "Green Room NYC",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2335442",
+        "ticketUrl": "https://ra.co/events/2335442",
+        "summary": "Love From The Sun returned for an MLK-eve special at Green Room NYC with Karizma, Ge-ology, JADALAREIGN, and Quinnette. The event ran from 4:00 PM to 4:00 AM and was flagged by RA as a pick.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-detroit-love-brooklyn-edition-2026",
+        "title": "Detroit Love, Brooklyn Edition by Night with Carl Craig, DJ Holographic + more",
+        "type": "club-night",
+        "startDate": "2026-01-31",
+        "endDate": "2026-02-01",
+        "importance": 84,
+        "venueName": "Superior Ingredients",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2333954",
+        "ticketUrl": "https://ra.co/events/2333954",
+        "summary": "Carl Craig’s Detroit Love series opened a Brooklyn run at Superior Ingredients on Jan. 31 with Carl Craig, DJ Holographic, SKIN, and Van Der Laan. RA listed the night as a pick and described it as a celebration of Detroit artistry.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "slug": "london",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:00:10.321Z",
+  "responseId": "resp_0c7bb904429817da0069ff59ad2ac0819da09c31366d98a2f7",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is already anchored by major outdoor electronic festivals, arena-scale pop and rock shows, and a strong run of club-led events across London.",
+    "events": [
+      {
+        "id": "london-waterworks-festival-2026",
+        "title": "Waterworks Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 92,
+        "venueName": "Gunnersbury Park",
+        "venueId": null,
+        "sourceUrl": "https://waterworksfestival.co.uk/",
+        "ticketUrl": "https://waterworksfestival.co.uk/",
+        "summary": "Waterworks expands to two days at Gunnersbury Park with a deep electronic lineup spanning house, techno, bass and UK soundsystem culture. Confirmed artists include Daniel Avery, Modeselektor, Octo Octa, LTJ Bukem, Anz, Call Super & Objekt, Ross From Friends and Tim Reaper.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-cosmic-void-festival-2026",
+        "title": "Cosmic Void Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-20",
+        "importance": 76,
+        "venueName": "Electric Ballroom / The Underworld / The Black Heart",
+        "venueId": null,
+        "sourceUrl": "https://www.cosmicvoidfestival.com/",
+        "ticketUrl": "https://www.cosmicvoidfestival.com/",
+        "summary": "Extreme metal festival Cosmic Void returns to Camden Town across three venues. The confirmed lineup includes Hellhammer, Bloodbath, Moonspell, Sarcofago, Unleashed, Tiamat, Kampfar and Asphyx.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-bon-jovi-wembley-2026",
+        "title": "Bon Jovi — Forever Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-09",
+        "importance": 90,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2026/Bon-Jovi-Forever-Tour",
+        "ticketUrl": "https://www.wembleystadium.com/events/2026/Bon-Jovi-Forever-Tour",
+        "summary": "Bon Jovi bring the Forever Tour to Wembley Stadium for three confirmed September dates: Friday 4, Sunday 6 and Wednesday 9 September 2026. Support is listed as TBC by the venue.",
+        "genres": []
+      },
+      {
+        "id": "london-ariana-grande-o2-2026",
+        "title": "Ariana Grande — The Eternal Sunshine Tour",
+        "type": "residency",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 94,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/ariana-grande-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/ariana-grande-2026",
+        "summary": "Ariana Grande closes her ten-night London run at The O2 on 1 September 2026. The Eternal Sunshine Tour supports Eternal Sunshine and its deluxe follow-up, Brighter Days Ahead.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-boris-brejcha-ally-pally-2026",
+        "title": "Boris Brejcha — Reflections Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 84,
+        "venueName": "Alexandra Palace, The Great Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/boris-brejcha/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/boris-brejcha/",
+        "summary": "Boris Brejcha makes his Alexandra Palace debut with his biggest UK show to date. The Reflections Tour date is billed with an immersive stage production designed for the Great Hall.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-nu-genea-roundhouse-2026",
+        "title": "Nu Genea Live Band",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 78,
+        "venueName": "Roundhouse Main Space",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/nu-genea/",
+        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/nu-genea/",
+        "summary": "Nu Genea bring their full live band to the Roundhouse for a Camden show built around disco, funk, boogie and Mediterranean grooves. The venue lists the performance for Saturday 19 September 2026.",
+        "genres": [
+          "house",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-defected-drumsheds-2026",
+        "title": "Defected London",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 86,
+        "venueName": "DRUMSHEDS LONDON",
+        "venueId": null,
+        "sourceUrl": "https://drumshedslondon.com/event/defected-london-aw26/",
+        "ticketUrl": "https://drumshedslondon.com/event/defected-london-aw26/",
+        "summary": "Defected returns to Drumsheds to kick off the AW26/27 season across X Room, Y Room and Z Room. The lineup is still TBA, but the date, venue and Defected showcase are confirmed by Drumsheds.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-judas-priest-eventim-2026",
+        "title": "Judas Priest + Nevermore",
+        "type": "concert",
+        "startDate": "2026-09-21",
+        "endDate": "2026-09-21",
+        "importance": 80,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/judas-priest/",
+        "ticketUrl": "https://www.eventimapollo.com/events/judas-priest/",
+        "summary": "Judas Priest play Eventim Apollo on 21 September 2026, with Nevermore confirmed as special guests. The venue lists doors at 19:00.",
+        "genres": []
+      },
+      {
+        "id": "london-ava-london-2026",
+        "title": "AVA London 2026",
+        "type": "conference",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-26",
+        "importance": 82,
+        "venueName": "The British Library / Roundhouse / FOLD / HERE at Outernet / EartH Hackney",
+        "venueId": null,
+        "sourceUrl": "https://avafestival.com/new-ava-london-dates-24-26-september-2026/",
+        "ticketUrl": "https://avafestival.com/london/tickets/",
+        "summary": "AVA London returns for three days and nights of music, talks, AV shows, installations and creative exchange. The 2026 edition lists venues including The British Library, Roundhouse, FOLD, HERE at Outernet and EartH Hackney, with programme details still to be announced.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-i-prevail-ally-pally-2026",
+        "title": "I Prevail — The Violent Nature Tour",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 74,
+        "venueName": "Alexandra Palace, The Great Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/i-prevail/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/i-prevail/",
+        "summary": "I Prevail bring The Violent Nature Tour to Alexandra Palace on 25 September 2026. Amira Elfeky, Polaris and Gore are confirmed as support acts.",
+        "genres": []
+      },
+      {
+        "id": "london-ella-mai-eventim-2026",
+        "title": "Ella Mai — Do You Still Love Me? Tour",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 76,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/ella-mai/",
+        "ticketUrl": "https://www.eventimapollo.com/events/ella-mai/",
+        "summary": "GRAMMY-winning R&B artist Ella Mai plays Eventim Apollo on 25 September 2026 as part of the Do You Still Love Me? Tour. The venue lists the show as an evening performance with doors at 19:00.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-public-service-broadcasting-ally-pally-2026",
+        "title": "Public Service Broadcasting — The Race For Space 10 (+1) Celebration",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 78,
+        "venueName": "Alexandra Palace, The Great Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/public-service-broadcasting/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/public-service-broadcasting/",
+        "summary": "Public Service Broadcasting return to Alexandra Palace for their biggest headline show, celebrating 10 (+1) years of The Race For Space. The venue confirms the show for 26 September 2026.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

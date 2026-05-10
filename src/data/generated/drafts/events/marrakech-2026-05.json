@@ -1,0 +1,209 @@
+{
+  "slug": "marrakech",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:36:13.548Z",
+  "responseId": "resp_0601fd96b1e975350069ff621c57fc819c91ed4c9ac7e7ee19",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Marrakech is strongest for electronic programming, with The Source hosting multiple destination-style house and deep-house events alongside club nights in Hivernage and boutique hotel settings.",
+    "events": [
+      {
+        "id": "marrakech-origins-spring-2026",
+        "title": "Origins Spring 2026",
+        "type": "festival",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 82,
+        "venueName": "The Source Marrakesh",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2376190",
+        "ticketUrl": "https://ra.co/events/2376190",
+        "summary": "Origins Spring 2026 returns to The Source for its main event on May 1, with Denis Horvat, Echonomist, Made By Pete, Nordiks, Rikku and Shems listed across two stages.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-sasson-leone-2026",
+        "title": "Sasson @ LEONE",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-02",
+        "importance": 70,
+        "venueName": "Leone Discoteca Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/event/sasson-at-leone",
+        "ticketUrl": "https://buy.tidar.ma/event/sasson-at-leone",
+        "summary": "Leone Discoteca hosts Parisian DJ and producer Sasson for a late-night set running from May 1 into the early hours of May 2.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-layla-collectif-52-2026",
+        "title": "LAŸLA NIGHTS X COLLECTIF 52",
+        "type": "club-night",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-03",
+        "importance": 78,
+        "venueName": "The Source Marrakesh",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425053",
+        "ticketUrl": "https://ra.co/events/2425053",
+        "summary": "LAŸLA NIGHTS and Collectif 52 take over The Source Marrakesh with Âme, Lilya Mandre and Mita Gami on the announced lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-groover-club-day-party-2026",
+        "title": "Groover Club — Hedonism Day Party III with Laura De Greef",
+        "type": "club-night",
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "importance": 70,
+        "venueName": "Loop House",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415862",
+        "ticketUrl": "https://ra.co/events/2415862",
+        "summary": "Groover Club’s daytime Hedonism party at Loop House in Tamesloht lists Laura De Greef with Mendy, Shems and OumaimaTune for a house and minimal-techno program.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-loulou-players-babouchka-2026",
+        "title": "Loulou Players at BABOUCHKA",
+        "type": "club-night",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 68,
+        "venueName": "BABOUCHKA",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/88b1206b-5e83-462d-b4cb-7348d7be60a0",
+        "ticketUrl": null,
+        "summary": "Belgian house act Loulou Players is listed for a May 7 show at BABOUCHKA in Marrakech.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-saraga-palais-soleiman-2026",
+        "title": "Saraga at Palais Soleiman",
+        "type": "club-night",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-07",
+        "importance": 68,
+        "venueName": "Palais Soleiman",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/73ee79e2-478f-487c-999a-a0f04299e531",
+        "ticketUrl": null,
+        "summary": "House artist Saraga is listed for a May 7 Marrakech date at Palais Soleiman.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-everywhere-music-2026",
+        "title": "Everywhere Music 2026",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-17",
+        "importance": 76,
+        "venueName": "The Source, Hotel, Music & Spa",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107931157-rampue-at-the-source-hotel-music-and-spa?came_from=286",
+        "ticketUrl": "https://www.ticket.ma/ticket/festivals/4035/everywhere-music-the-source-marrakech-2026",
+        "summary": "Everywhere Music 2026 is listed at The Source from May 15–17, with Rampue appearing on the confirmed artist listing.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-four-directions-drum-2026",
+        "title": "Four Directions to The Source — Volume 2: DRUM",
+        "type": "festival",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-24",
+        "importance": 74,
+        "venueName": "The Source Hotel, Music & Spa",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/morocco/THE-SOURCE-HOTEL%2C-MUSIC-And-SPA/FOUR-DIRECTIONS-to-THE-SOURCE---VOLUME-2-DRUM/41182720/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/morocco/THE-SOURCE-HOTEL%2C-MUSIC-And-SPA/FOUR-DIRECTIONS-to-THE-SOURCE---VOLUME-2-DRUM/41182720/",
+        "summary": "Four Directions returns to The Source for DRUM Volume 2, a four-day program of house, deep house, soul and disco-house with Osunlade announced as headliner and Johnny Reckless listed.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-artbound-les-asnouss-2026",
+        "title": "ArtBound invites Alexia Glensy, Alex Dima, JUAAN",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-24",
+        "importance": 70,
+        "venueName": "TBA - Les Asnouss - Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426989",
+        "ticketUrl": "https://ra.co/events/2426989",
+        "summary": "ArtBound’s open-air day-to-night gathering at Les Asnouss lists Alexia Glensy, Alex Dima, JUAAN, Jakaw, Jasmine Prando, Matamune and Marish.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-candlelight-arabic-music-2026",
+        "title": "Candlelight: A Century of Iconic Arabic Music",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 64,
+        "venueName": "Grand Mogador",
+        "venueId": null,
+        "sourceUrl": "https://www.listeso.com/concert/2026-05-23-grand-mogador-candlelight-a-century-of-iconic-arabic-music/",
+        "ticketUrl": "https://feverup.com/m/546338",
+        "summary": "Candlelight’s Arabic music program at Grand Mogador lists Arab Music Ensemble performing repertoire associated with Umm Kulthum, Fairuz, Abdel Halim Hafez, Amr Diab and others.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "marrakech-miguelle-tons-lodge-k-2026",
+        "title": "Miguelle & Tons at LODGE K Boutique Hotel Piscine & Spa Marrakech",
+        "type": "club-night",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 69,
+        "venueName": "LODGE K Boutique Hotel Piscine & Spa Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/artist/miguelle-and-tons-and-miluhska/1584346663",
+        "ticketUrl": null,
+        "summary": "Miguelle & Tons are listed for a May 30 house date at LODGE K Boutique Hotel Piscine & Spa Marrakech.",
+        "genres": [
+          "house",
+          "latin",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

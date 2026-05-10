@@ -1,0 +1,33 @@
+{
+  "slug": "hvar",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:50:34.362Z",
+  "responseId": "resp_0fdf18a77221e2320069ffd607820081a399bc4653b21222ef",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 9,
+    "year": 2026,
+    "notes": "As of May 2026, September’s confirmed music calendar around Hvar is still sparse, with the strongest verified listing a local folklore song-and-dance showcase in Jelsa on Hvar Island.",
+    "events": [
+      {
+        "id": "hvar-island-folklore-groups-2026",
+        "title": "Island Folklore Groups on Show",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 60,
+        "venueName": "Jelsa",
+        "venueId": null,
+        "sourceUrl": "https://visitjelsa.hr/en/dogadanja/meeting-of-island-folklore/",
+        "ticketUrl": null,
+        "summary": "A cultural gathering of folklore ensembles from Croatian islands, presenting traditional heritage through dance, song, and costumes. The event is organized by KUD Jelsa and the Jelsa Municipality Tourist Board, with a listed start time of 21:00.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

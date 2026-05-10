@@ -1,0 +1,204 @@
+{
+  "slug": "malta",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:26:48.189Z",
+  "responseId": "resp_09033f91fea77e090069ff5fc91b54819ead1742b2382fef6e",
+  "searchCalls": 22,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is unusually dense for Malta’s dance calendar, with international house, techno, trance and open-air festival brands clustered around UNO Malta, Gianpula Village and coastal venues.",
+    "events": [
+      {
+        "id": "malta-higher-love-2026",
+        "title": "Higher Love Malta 2026",
+        "type": "festival",
+        "startDate": "2026-04-29",
+        "endDate": "2026-05-04",
+        "importance": 86,
+        "venueName": "Gianpula Village and multiple Malta venues",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2364339",
+        "ticketUrl": "https://www.skiddle.com/festivals/higher-love-festival/",
+        "summary": "Multi-venue house festival with Josh Baker, East End Dubs, Ewan McVicar, Prospa, Rossi., SOSA, Eliza Rose, Gene On Earth, Lee Foss, Oden & Fatzo and many more. Resident Advisor lists it as taking place across Malta venues from 29 April to 4 May 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-somedays-festival-2026",
+        "title": "Sonny Fodera presents Somedays Festival",
+        "type": "festival",
+        "startDate": "2026-04-30",
+        "endDate": "2026-05-03",
+        "importance": 87,
+        "venueName": "UNO Malta, The Garden and The Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.somedaysfest.com/",
+        "ticketUrl": "https://www.somedaysfest.com/",
+        "summary": "Sonny Fodera’s four-day Malta takeover features Armand Van Helden, MK, Kerri Chandler, DJ EZ, Jayda G, Danny Howard, D.O.D, Shermanology and Sonny Fodera. The official festival site lists the dates as 30 April to 3 May 2026 across three open-air Malta venues.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-rock-the-south-2026",
+        "title": "Rock The South Malta 13th Edition",
+        "type": "festival",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-03",
+        "importance": 72,
+        "venueName": "Marsaskala",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalfinder.eu/festivals/rock-the-south-malta-13th-edition",
+        "ticketUrl": "https://www.rockthesouthmalta.com/",
+        "summary": "Malta’s long-running alternative music festival returns for its 13th edition in Marsaskala over the first weekend of May. FestivalFinder and the European Festivals Association list the event for 1–3 May 2026.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-uno-opening-party-2026",
+        "title": "UNO Malta S26 Opening Party: Loco Dice + Luciid",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 80,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/s26-openingparty/",
+        "ticketUrl": "https://unomalta.com/event/s26-openingparty/",
+        "summary": "UNO Malta opens its 2026 season with a free day-to-night party headlined by Loco Dice in the Main Room and Luciid leading the Roots stage. The official UNO Malta event page confirms Friday 1 May 2026 at UNO + Roots.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-g7-first-of-may-2026",
+        "title": "G7 First of May Special with Oliver Heldens",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 78,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://maltanights.com/products/g7first-of-may-special-at-cafe-del-mar",
+        "ticketUrl": "https://maltanights.com/products/g7first-of-may-special-at-cafe-del-mar",
+        "summary": "G7’s First of May Special brings Oliver Heldens to Café del Mar Malta for an open-air day-to-night party. The listing confirms Friday 1 May 2026, doors at 15:30 and an event run through 01:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-rong-open-air-2026",
+        "title": "RONG Open Air Festival Malta 2026",
+        "type": "festival",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-10",
+        "importance": 89,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://malta.rongevents.com/",
+        "ticketUrl": "https://malta.rongevents.com/",
+        "summary": "RONG’s Malta festival brings a large trance and progressive lineup to UNO Malta, including Paul Van Dyk, Ferry Corsten, Cosmic Gate, Aly & Fila, Giuseppe Ottaviani, Markus Schulz and Mauro Picotto. The official site confirms 7–10 May 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-sunny-side-festival-2026",
+        "title": "Sunny Side Festival Malta 2026",
+        "type": "festival",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-18",
+        "importance": 87,
+        "venueName": "UNO Malta and multiple Malta venues",
+        "venueId": null,
+        "sourceUrl": "https://ssfestivalmalta.com/faq/",
+        "ticketUrl": "https://ssfestivalmalta.com/",
+        "summary": "Sunny Side Festival returns as a five-day underground electronic gathering with artists including Ben UFO, Chez Damier, Helena Hauff, KiNK, Fumiya Tanaka, Jen Cardini, Mathew Jonson, Raresh, tINI and Satoshi Tomiie. The official FAQ confirms Thursday 14 May to Monday 18 May 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-zamna-festival-2026",
+        "title": "Zamna Festival Malta 2026",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-16",
+        "importance": 85,
+        "venueName": "Gianpula Village",
+        "venueId": null,
+        "sourceUrl": "https://zamnafestival.com/news/zamna-festival-returns-to-malta-for-2026-edition",
+        "ticketUrl": "https://zamnafestival.com/events",
+        "summary": "Zamna returns to Gianpula Village for two open-air nights of electronic music and immersive production. Zamna’s official announcement confirms 15–16 May 2026 at Gianpula Village, with lineup still TBA.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-xxl-malta-2026",
+        "title": "XXL Malta 2026",
+        "type": "festival",
+        "startDate": "2026-05-21",
+        "endDate": "2026-05-24",
+        "importance": 86,
+        "venueName": "UNO Malta, Fort Saint Elmo, Ta’ Qali National Park and Little Armier Bay",
+        "venueId": null,
+        "sourceUrl": "https://www.xxltechno.uk/",
+        "ticketUrl": "https://www.xxltechno.uk/",
+        "summary": "XXL Malta’s 2026 edition spans UNO Malta, Fort Saint Elmo, Ta’ Qali National Park and Little Armier Bay, with hard techno and high-energy electronic programming. The official site lists programming from Thursday 21 May through Sunday 24 May 2026.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-triip-festival-2026",
+        "title": "FISHER’s TRIIP Festival 2026",
+        "type": "festival",
+        "startDate": "2026-05-28",
+        "endDate": "2026-05-31",
+        "importance": 89,
+        "venueName": "UNO Malta and multiple Malta venues",
+        "venueId": null,
+        "sourceUrl": "https://www.enjoythetriip.com/faqs",
+        "ticketUrl": "https://www.enjoythetriip.com/",
+        "summary": "FISHER’s Malta festival returns with Archie Hamilton, BLOND:ISH, Chris Lorenzo, Eats Everything, KETTAMA, Purple Disco Machine, SG Lewis, salute and others. The official FAQ confirms the festival starts Thursday 28 May, with the last main festival day on Sunday 31 May 2026 and events running into the morning of 1 June.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-g7-fridays-2026",
+        "title": "G7 Fridays 2026",
+        "type": "residency",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 66,
+        "venueName": "Gianpula Main Room",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425461",
+        "ticketUrl": "https://ra.co/events/2425461",
+        "summary": "G7 Fridays returns to Gianpula Main Room for its summer 2026 run, billed as a 15-week series of Friday club nights. Resident Advisor lists a representative confirmed date on Friday 29 May 2026, with the run starting on 22 May.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

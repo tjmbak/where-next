@@ -1,0 +1,220 @@
+{
+  "slug": "bali",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:23:17.635Z",
+  "responseId": "resp_0377f2d9a2d4177f0069ff5ef2a18c81a183736472df5380c8",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Bali is led by large cliff-club programming at Savaya, with Zamna and Elrow anchoring the month alongside international DJ bookings.",
+    "events": [
+      {
+        "id": "bali-dj-nobu-klymax-2026",
+        "title": "DJ Nobu & Archie & Bagvs",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 74,
+        "venueName": "Klymax Discotheque",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2421086",
+        "ticketUrl": "https://ra.co/events/2421086",
+        "summary": "Klymax Discotheque hosts DJ Nobu with Archie and Bagvs for a late-night underground electronic session.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "bali-zamna-savaya-2026",
+        "title": "Zamna Bali 2026",
+        "type": "festival",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-03",
+        "importance": 92,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://zamnafestival.com/news/zamna-bali-tickets-now-available",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-2-2026",
+        "summary": "Zamna returns to Savaya Bali for two shows on May 2 and 3, bringing the Tulum-born electronic festival brand back to the island.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-boris-brejcha-savaya-2026",
+        "title": "Boris Brejcha",
+        "type": "club-night",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 86,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2378272",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-8-2026",
+        "summary": "Savaya Bali presents German high-tech minimal/techno headliner Boris Brejcha for a Friday cliffside club show.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-nitefreak-savaya-2026",
+        "title": "Nitefreak",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 76,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415430",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-9-2026",
+        "summary": "Savaya Bali presents Nitefreak on May 9, with doors open from the afternoon and the main act later in the day.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-groove-syndica-la-brisa-2026",
+        "title": "La Brisa x Groove Syndica",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 70,
+        "venueName": "La Brisa",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2434611",
+        "ticketUrl": "https://megatix.co.id/events/groove-syndica-x-la-brisa",
+        "summary": "Groove Syndica debuts at La Brisa with Dean Turnley, Meltmode, Andy Chunes, Jay Mugelli and GECO on the lineup.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "bali-vanco-savaya-2026",
+        "title": "Vanco",
+        "type": "club-night",
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "importance": 75,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2432196",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-10-2026",
+        "summary": "Savaya Bali presents Vanco for a Sunday Afro-house and Afro-tech led club day.",
+        "genres": [
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-elrow-savaya-2026",
+        "title": "Elrow Bali 2026",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 91,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/new/elrow-returns-to-bali-for-the-third-round",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-16-2026",
+        "summary": "Elrow returns to Savaya Bali for a two-day immersive house-music spectacle with carnival-style production and performances.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-rah-seabass-klymax-2026",
+        "title": "RAH & Seabass",
+        "type": "club-night",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-22",
+        "importance": 70,
+        "venueName": "Klymax Discotheque",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2421131",
+        "ticketUrl": "https://ra.co/events/2421131",
+        "summary": "Klymax Discotheque pairs Singapore-born selector RAH with Bali-based DJ Seabass for a genre-spanning night touching dub, jazz, soul, disco, funk and electronica.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "bali-flight-facilities-savaya-2026",
+        "title": "Flight Facilities",
+        "type": "club-night",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 84,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2413321",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-23-2026",
+        "summary": "Australian electronic act Flight Facilities headline Savaya Bali on May 23.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-taraka-gordo-savaya-2026",
+        "title": "Taraka with Gordo",
+        "type": "club-night",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 82,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395732",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-24-2026",
+        "summary": "Savaya Bali presents Taraka with Gordo listed as the headliner and special guests to be announced.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "bali-solardo-savaya-2026",
+        "title": "Solardo",
+        "type": "club-night",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2413332",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-30-2026",
+        "summary": "UK duo Solardo headline Savaya Bali on Saturday, May 30.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bali-massano-savaya-2026",
+        "title": "Massano",
+        "type": "club-night",
+        "startDate": "2026-05-31",
+        "endDate": "2026-05-31",
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2413335",
+        "ticketUrl": "https://www.savaya.com/event-calendar/may-31-2026",
+        "summary": "Savaya Bali closes the month with a Sunday headline set from Massano.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

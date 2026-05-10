@@ -1,0 +1,103 @@
+{
+  "slug": "verbier",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:39:11.545Z",
+  "responseId": "resp_0a8c5a90d30cc6870069ff62d8938c8194ac0f0bc5ab558c07",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 in Verbier is dominated by end-of-season après-ski and electronic programming, with Snow Glow and E.N.D Session anchoring the closing weekend.",
+    "events": [
+      {
+        "id": "verbier-full-moon-fiesta-2026",
+        "title": "Full Moon Fiesta with Reverence.World",
+        "type": "club-night",
+        "startDate": "2026-04-01",
+        "endDate": "2026-04-01",
+        "importance": 74,
+        "venueName": "Bar 1936",
+        "venueId": null,
+        "sourceUrl": "https://eventfrog.ch/en/p/party/house-techno/full-moon-fiesta-with-reverence-world-7412905675733360939.html",
+        "ticketUrl": "https://eventfrog.ch/en/p/party/house-techno/full-moon-fiesta-with-reverence-world-7412905675733360939.html",
+        "summary": "Reverence.World presented an underground house and techno night at Bar 1936 with NikoBeats and special guest Chris Liebing. The Eventfrog listing confirmed the event for 1 April 2026, 20:00–23:59.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-goldmen-concert-2026",
+        "title": "GOLDMEN in Concert at Le Châble",
+        "type": "concert",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 62,
+        "venueName": "Espace Saint-Marc",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/offers/goldmen-in-concert-at-le-chable-le-chable-en-6172014/",
+        "ticketUrl": null,
+        "summary": "Rotary Verbier St-Bernard hosted GOLDMEN for a 100% Jean-Jacques Goldman tribute concert at Espace Saint-Marc on 4 April 2026. The event was a charity concert supporting the Le Copain Foundation and ARFEC.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-le-rouge-closing-2026",
+        "title": "Closing Fiesta – Le Rouge FINAL MISSION",
+        "type": "club-night",
+        "startDate": "2026-04-19",
+        "endDate": "2026-04-19",
+        "importance": 72,
+        "venueName": "Le Rouge Restaurant & Après-Ski",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/de/entdecken-sie/vibe-veranstaltungen-animationen/closing-fiesta-le-rouge-final-mission-verbier-de-6376947/",
+        "ticketUrl": "https://ra.co/events/2416925",
+        "summary": "Le Rouge closed its winter season with a space-themed lunch and après-ski party on 19 April 2026. The confirmed DJ lineup included Mirko Loko b2b Lea Lisa, Ripperton and Nahomi.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-snow-glow-2026",
+        "title": "Snow Glow Verbier Pride",
+        "type": "festival",
+        "startDate": "2026-04-23",
+        "endDate": "2026-04-25",
+        "importance": 82,
+        "venueName": "Multiple venues in Verbier",
+        "venueId": null,
+        "sourceUrl": "https://www.snowglow-verbier.ch/events/snow-glow-verbier-2",
+        "ticketUrl": "https://www.snowglow-verbier.ch/events/snow-glow-verbier-2",
+        "summary": "Snow Glow returned to Verbier from 23 to 25 April 2026 as a Pride weekend combining skiing, music, performance and parties across the resort. The official listing confirmed events including a Welcome Party at Goomah and a Mountain Party at Ice Cube.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-end-session-2026",
+        "title": "E.N.D Session – Giant Après-Ski Party",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 88,
+        "venueName": "Place de l’Ermitage / Place de Médran",
+        "venueId": null,
+        "sourceUrl": "https://verbier4vallees.ch/en/media/press-releases/E.N.D-Session_ptd_1955810",
+        "ticketUrl": null,
+        "summary": "The first E.N.D Session closed Verbier’s 2025/26 winter season with sport, activities and electro programming across 25–26 April 2026. The main resort entertainment on 25 April featured Ofenbach and Kavinsky, with local DJs Alex Scott and Claire McGregor opening at Place de l’Ermitage.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

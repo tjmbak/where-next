@@ -1,0 +1,50 @@
+{
+  "slug": "marrakech",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:37:01.891Z",
+  "responseId": "resp_09d9284e94d4d36d0069ff625ffa0881a38f5d31051f87359a",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 11,
+    "year": 2026,
+    "notes": "Major club and electronic calendars for November 2026 appear largely unannounced, so this list is limited to primary-source confirmations.",
+    "events": [
+      {
+        "id": "marrakech-choral-meeting-nov-2026",
+        "title": "Marrakech Choral Meeting 2026",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-09",
+        "importance": 72,
+        "venueName": "Multiple historic venues in Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://marrakechchoralmeeting.ma/",
+        "ticketUrl": null,
+        "summary": "The 4th edition of Marrakech Choral Meeting is confirmed for November 6–9, 2026. The international choral festival brings choirs from around the world to perform in historic Marrakech venues, with mass-choir moments planned.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-coffee-tea-music-lounge-nov-2026",
+        "title": "Live Music Stage at The Marrakech Coffee & Tea Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-16",
+        "importance": 60,
+        "venueName": "Mossalla Sidi Amara",
+        "venueId": null,
+        "sourceUrl": "https://www.marrakechfest.com/live-music-stage",
+        "ticketUrl": "https://www.marrakechfest.com/visitors",
+        "summary": "The Marrakech Coffee & Tea Festival lists a dedicated Music Lounge/Live Music Stage across its November 14–16, 2026 dates at Mossalla Sidi Amara. The page confirms live music, acoustic sessions and DJ performances, though the 2026 artist lineup is not yet published.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

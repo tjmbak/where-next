@@ -1,0 +1,209 @@
+{
+  "slug": "london",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:00:23.484Z",
+  "responseId": "resp_0897d8bf29f072fd0069ff59ad4f6081968fb5a4bd80349dab",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is already heavy on confirmed arena pop, hip-hop and crossover electronic shows, with The O2 carrying much of the early confirmed calendar.",
+    "events": [
+      {
+        "id": "london-niall-horan-2026",
+        "title": "Niall Horan: “DINNER PARTY” Live on Tour",
+        "type": "concert",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-03",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/niall-horan-2026",
+        "ticketUrl": null,
+        "summary": "Niall Horan brings his “DINNER PARTY” Live on Tour run to The O2 for two London arena dates. The venue listing confirms shows on 2 and 3 October 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-the-strokes-2026",
+        "title": "The Strokes + Fat White Family + Alex Cameron",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-07",
+        "importance": 90,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/the-strokes",
+        "ticketUrl": null,
+        "summary": "The Strokes play two nights at The O2, with Fat White Family and Alex Cameron listed as special guests. The official venue page confirms Tuesday 6 and Wednesday 7 October 2026.",
+        "genres": []
+      },
+      {
+        "id": "london-olafur-arnalds-2026",
+        "title": "Ólafur Arnalds: Falling Apart Together",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-07",
+        "importance": 76,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/olafur-arnalds/",
+        "ticketUrl": null,
+        "summary": "Ólafur Arnalds presents the live experience “Falling Apart Together” at Eventim Apollo across two evenings. The venue confirms showings on 6 and 7 October 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-westlife-25-2026",
+        "title": "Westlife 25: The Anniversary World Tour",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-11",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/westlife-2026",
+        "ticketUrl": null,
+        "summary": "Westlife bring their 25th-anniversary world tour to The O2 for three London dates. The official listing confirms Friday 9, Saturday 10 and Sunday 11 October 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-hans-zimmer-world-2026",
+        "title": "The World of Hans Zimmer – A New Dimension",
+        "type": "concert",
+        "startDate": "2026-10-12",
+        "endDate": "2026-10-12",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/the-world-of-hans-zimmer-a-new-dimension",
+        "ticketUrl": null,
+        "summary": "The World of Hans Zimmer brings its “A New Dimension” production to The O2, featuring orchestral suites and visual staging around Zimmer’s film-score catalogue. The official venue page confirms 12 October 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-pussycat-dolls-2026",
+        "title": "The Pussycat Dolls + Lil’ Kim",
+        "type": "concert",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-13",
+        "importance": 85,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/the-pussycat-dolls-2026",
+        "ticketUrl": null,
+        "summary": "The Pussycat Dolls bring their PCD FOREVER tour to The O2, with Lil’ Kim confirmed as special guest. The official venue listing confirms Tuesday 13 October 2026.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-dave-koz-friends-2026",
+        "title": "Dave Koz & Friends",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 70,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/dave-koz",
+        "ticketUrl": null,
+        "summary": "Smooth Jazz Events UK presents Dave Koz & Friends, with Marc Antoine, Steve Cole and Rebecca Jade, backed by a UK band. The O2 confirms the indigo at The O2 date for 16 October 2026.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-j-cole-fall-off-2026",
+        "title": "J. Cole: The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-10-19",
+        "endDate": "2026-10-20",
+        "importance": 92,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jcole-2026",
+        "ticketUrl": null,
+        "summary": "J. Cole brings The Fall-Off Tour to The O2, with two October London dates listed before an additional November show. The official page confirms Monday 19 and Tuesday 20 October 2026.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-brandi-carlile-2026",
+        "title": "Brandi Carlile + KT Tunstall",
+        "type": "concert",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/brandi-carlile",
+        "ticketUrl": null,
+        "summary": "Brandi Carlile brings The Human Tour to The O2 with KT Tunstall confirmed as special guest. The official venue page confirms Wednesday 21 October 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-hannah-peel-endless-dance-2026",
+        "title": "Hannah Peel & Beibei Wang: The Endless Dance",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 72,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/our-story/press-room/barbican-announces-hannah-peel-double-bill-for-winter-2026",
+        "ticketUrl": null,
+        "summary": "Hannah Peel and Beibei Wang perform The Endless Dance at Barbican Hall, blending electronics and percussion around the 24 solar terms of the Chinese calendar. The Barbican announcement confirms Saturday 24 October 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-autechre-hydra-2026",
+        "title": "The Hydra presents Autechre",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 82,
+        "venueName": "Magazine London",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2323373",
+        "ticketUrl": null,
+        "summary": "The Hydra presents Autechre at Magazine London for a 90-minute live performance in total darkness. Resident Advisor confirms the event for Saturday 24 October 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fally-ipupa-2026",
+        "title": "Fally Ipupa",
+        "type": "concert",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 85,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/fally-ipupa",
+        "ticketUrl": null,
+        "summary": "Congolese star Fally Ipupa is confirmed for a headline show at The O2. The official venue listing confirms Sunday 25 October 2026.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

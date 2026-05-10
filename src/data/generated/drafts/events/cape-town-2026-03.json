@@ -1,0 +1,191 @@
+{
+  "slug": "cape-town",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:15:52.449Z",
+  "responseId": "resp_0d7d4688a7c59e9e0069ff5d1ba2848193a08f762182cada17",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 was a particularly dense Cape Town music month, spanning electronic festivals, jazz flagships, orchestral concerts, street culture and Winelands festival programming.",
+    "events": [
+      {
+        "id": "cape-town-kingdom-ubuntu-mar-2026",
+        "title": "Kingdom of Ubuntu – The Musical in Concert",
+        "type": "concert",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-07",
+        "importance": 70,
+        "venueName": "Artscape Opera House",
+        "venueId": null,
+        "sourceUrl": "https://www.artscape.co.za/event/kingdom-of-ubuntu-the-musical-in-concert/",
+        "ticketUrl": "https://www.artscape.co.za/event/kingdom-of-ubuntu-the-musical-in-concert/",
+        "summary": "A live musical concert combining original music, orchestral arrangements and contemporary African dance. The production brings together the Cape Town Philharmonic Orchestra, an indigenous orchestra and the Sibonelo Dance Project under Elvis Sibeko’s direction.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-bazique-festival-mar-2026",
+        "title": "Bazique Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-06",
+        "endDate": "2026-03-08",
+        "importance": 82,
+        "venueName": "Buffalo Drift, Ruigtevlei Farm, Tulbagh",
+        "venueId": null,
+        "sourceUrl": "https://www.bazique.co.za/tickets-info-faqs",
+        "ticketUrl": "https://www.howler.co.za/bazique26",
+        "summary": "Bazique returned to Buffalo Drift near Tulbagh for a three-day camping festival of art and music, with music scheduled from Friday 6 March through Sunday 8 March. The festival is organised by Cape Town party promoters and creative collectives in a riverside wilderness setting about 80 minutes from Cape Town.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-purified-cabo-mar-2026",
+        "title": "Purified Cape Town with Nora En Pure",
+        "type": "beach-club",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 76,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://purified.howler.co.za/events/purified-cape-town-13-march-2026-1f4e/tickets",
+        "ticketUrl": "https://purified.howler.co.za/events/purified-cape-town-13-march-2026-1f4e/tickets",
+        "summary": "Nora En Pure brought her Purified brand to Cape Town for a Friday-night Cabo Beach event. The confirmed ticket page lists the date as Friday 13 March 2026 at Cabo Beach.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-rmb-starlight-mar-2026",
+        "title": "RMB Starlight Classics Cape Town 2026",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-14",
+        "importance": 72,
+        "venueName": "Vergelegen Wine Estate",
+        "venueId": null,
+        "sourceUrl": "https://www.rmb.co.za/sponsorships-and-events/rmb-starlight-classics-cape-town-2026",
+        "ticketUrl": "https://www.rmb.co.za/sponsorships-and-events/rmb-starlight-classics-cape-town-2026",
+        "summary": "RMB’s AfroSymphonic concert took place at Vergelegen Wine Estate in Somerset West, featuring Msaki, Arno Carstens, BlackByrd, Megan Kahts, Levy Sekgapane, Pendo Masote and the Cape Town Philharmonic Orchestra. The official event page lists the 2026 Cape Town edition at Vergelegen.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "cape-town-corona-sunsets-mar-2026",
+        "title": "Corona Sunsets Festival Cape Town 2026",
+        "type": "festival",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 89,
+        "venueName": "The Glen Country Club, Clifton",
+        "venueId": null,
+        "sourceUrl": "https://corona.howlerapp.com/csf26cpt",
+        "ticketUrl": "https://corona.howlerapp.com/csf26cpt",
+        "summary": "Corona Sunsets Festival returned to Clifton on Saturday 21 March 2026 with Purple Disco Machine, DJ Kent, Liquideep, Ndlovu Youth Choir, Sun-El Musician, Zakes Bantwini, Msaki and more. The official ticket page confirms the 12:00–23:00 event at The Glen Country Club.",
+        "genres": [
+          "house",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "cape-town-carnival-mar-2026",
+        "title": "Cape Town Carnival 2026",
+        "type": "carnival",
+        "startDate": "2026-03-21",
+        "endDate": "2026-03-21",
+        "importance": 78,
+        "venueName": "Green Point Fan Walk",
+        "venueId": null,
+        "sourceUrl": "https://capetowncarnival.com/march-2026/",
+        "ticketUrl": "https://capetowncarnival.com/march-2026/",
+        "summary": "The 2026 Cape Town Carnival took place on Human Rights Day with the theme “Follow your heART.” The official announcement confirms live music and appearances from Zolani Mahola, Anslin Gysman, DJ Ready D and hundreds of performers and musicians.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-ctijf-mar-2026",
+        "title": "Cape Town International Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-28",
+        "importance": 94,
+        "venueName": "Cape Town International Convention Centre",
+        "venueId": null,
+        "sourceUrl": "https://capetownjazzfest.com/",
+        "ticketUrl": "https://capetownjazzfest.com/",
+        "summary": "Cape Town International Jazz Festival returned on 27–28 March 2026 with a large official lineup including Jacob Collier, Abdullah Ibrahim, Yellowjackets, Scorpion Kings, The Yussef Dayes Experience, Fatoumata Diawara, Sheila E. and Nduduzo Makhathini. The festival’s official site confirms the dates and 2026 lineup.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-montreux-franschhoek-mar-2026",
+        "title": "Montreux Jazz Festival Franschhoek 2026",
+        "type": "festival",
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-29",
+        "importance": 92,
+        "venueName": "Huguenot Monument and venues across Franschhoek",
+        "venueId": null,
+        "sourceUrl": "https://www.sabc.co.za/sabc/montreux-jazz-festival-franschhoek-completes-inaugural-programme-with-powerful-final-artist-announcement/",
+        "ticketUrl": "https://mjfsa.com/",
+        "summary": "Montreux Jazz Festival made its African debut in Franschhoek from 27–29 March 2026. The confirmed programme included international and African artists such as Robert Glasper, Bilal, Ezra Collective, Thandiswa Mazwai, Salif Keita and Wet Wet Wet.",
+        "genres": [
+          "jazz",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-galaxy-kday-mar-2026",
+        "title": "Galaxy KDay 2026",
+        "type": "festival",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 74,
+        "venueName": "Sandringham Farm, Stellenbosch",
+        "venueId": null,
+        "sourceUrl": "https://kday.primediaplus.com/",
+        "ticketUrl": "https://www.ticketmaster.co.za/event/galaxy-kday-music-festival-2026-tickets/162861101",
+        "summary": "Kfm and Samsung’s Galaxy KDay staged a daytime family music festival at Sandringham Farm on Saturday 28 March 2026. Confirmed lineup announcements included Will Linley, Liquideep, Ard Matthews, Msaki, YoungstaCPT, Booshle G, lordkez, Templeboys and DJ Kent.",
+        "genres": [
+          "pop",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "cape-town-fete-musique-mar-2026",
+        "title": "Fête de la Musique Cape Town",
+        "type": "festival",
+        "startDate": "2026-03-29",
+        "endDate": "2026-03-29",
+        "importance": 72,
+        "venueName": "Bree Street",
+        "venueId": null,
+        "sourceUrl": "https://frenchinstitute.org.za/arts-and-creative-industries/performing-arts/music/fetemusique/fete-de-la-musique-launches-in-cape-town-as-part-of-bree-street-sundays/",
+        "ticketUrl": null,
+        "summary": "Fête de la Musique launched in Cape Town on Sunday 29 March 2026 as part of Bree Street Sundays, with free busking-style performances from 2pm to 5pm. The confirmed lineup included Mfazwe Ya Mwezi, Kila G, Deslynn Malotana, Sihle Soana, Lady Felicity and The Trumpets, Qaqamba Ntshinka, plus DJ sets by Nasi and De Mpora.",
+        "genres": [
+          "festival",
+          "pop",
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

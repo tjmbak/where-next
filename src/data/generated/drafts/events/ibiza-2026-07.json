@@ -1,0 +1,227 @@
+{
+  "slug": "ibiza",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T07:52:45.350Z",
+  "responseId": "resp_091ee40f34b3cbe20069fee75e0934819ea51dc930316a6a9f",
+  "searchCalls": 12,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is already anchored by open-air superstar residencies at Ushuaïa, high-profile Hï/Pacha weekly runs, and underground tentpoles at DC10, Amnesia and [UNVRS].",
+    "events": [
+      {
+        "id": "ibiza-calvin-harris-ushuaia-jul-2026",
+        "title": "Calvin Harris at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-31",
+        "importance": 95,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-07-07",
+        "ticketUrl": null,
+        "summary": "Calvin Harris returns to Ushuaïa Ibiza with a dual weekly residency: Fridays continue through the season, while Tuesdays run from July 7 to August 25. The official listing confirms the July 7 Tuesday event and the broader Tuesday/Friday schedule.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "ibiza-swedish-house-mafia-ushuaia-jul-2026",
+        "title": "Swedish House Mafia at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-26",
+        "importance": 94,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia",
+        "ticketUrl": null,
+        "summary": "Swedish House Mafia play Ushuaïa Ibiza every Sunday from June 28 to September 13, with July dates listed for July 5, 12, 19 and 26. The residency features Axwell, Steve Angello and Sebastian Ingrosso on the venue’s open-air stage.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "ibiza-martin-garrix-ushuaia-jul-2026",
+        "title": "Martin Garrix at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-30",
+        "importance": 91,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/martin-garrix",
+        "ticketUrl": null,
+        "summary": "Martin Garrix returns to Ushuaïa Ibiza every Thursday from July 2 to September 24, 2026. The residency is billed around big room, progressive house and main-stage electronic music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-elrow-ushuaia-jul-2026",
+        "title": "elrow at Ushuaïa Ibiza",
+        "type": "club-night",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 88,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/elrow/",
+        "ticketUrl": null,
+        "summary": "elrow brings one of its three special 2026 outdoor events to Ushuaïa Ibiza on July 22. The official listing confirms the event time from 17:00, with lineup still TBA.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "ibiza-black-coffee-hi-jul-2026",
+        "title": "Black Coffee at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-25",
+        "importance": 92,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/residency/black-coffee",
+        "ticketUrl": null,
+        "summary": "Black Coffee continues his flagship Saturday night Hï Ibiza residency in July, with July 4, 11, 18 and 25 dates listed. Confirmed July guests include Jimi Jules, Meera, Desiree, Vanco, Henrik Schwarz, Fiona Kraft, Shimza and Liva K B2B Da Mike across the month.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-dom-dolla-hi-jul-2026",
+        "title": "Dom Dolla at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-31",
+        "importance": 89,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/es/residency/dom-dolla",
+        "ticketUrl": null,
+        "summary": "Dom Dolla leads Hï Ibiza’s Friday residency from June 5 to August 28, with July dates listed every Friday from July 3 through July 31. Ewan McVicar’s Club Knuckles runs in the Club Room on the same nights.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-rufus-du-sol-pacha-jul-2026",
+        "title": "RÜFÜS DU SOL [DJ Set] at Pacha Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-28",
+        "importance": 88,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/residence/rufus-du-sol-dj-set",
+        "ticketUrl": null,
+        "summary": "RÜFÜS DU SOL [DJ Set] play a four-Tuesday July residency at Pacha Ibiza on July 7, 14, 21 and 28. Confirmed guests include Romy, ANOTR, Jimi Jules and Disclosure on the respective dates.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "ibiza-solomun-plus-one-pacha-jul-2026",
+        "title": "Solomun+1 at Pacha Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-26",
+        "importance": 90,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/residence/solomun",
+        "ticketUrl": null,
+        "summary": "Solomun+1 takes over Sundays at Pacha Ibiza from May 31 to October 4, covering every Sunday in July. The long-running format centers Solomun and one invited guest for extended club-focused sets.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-circoloco-dc10-jul-2026",
+        "title": "Circoloco at DC-10 Ibiza",
+        "type": "residency",
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-27",
+        "importance": 90,
+        "venueName": "DC10",
+        "venueId": "dc10",
+        "sourceUrl": "https://circolocoibiza.com/event/ibiza-2026",
+        "ticketUrl": null,
+        "summary": "Circoloco confirms its Ibiza DC-10 2026 season every Monday from April 27 to October 12, with July ticket dates listed for July 6, 13, 20 and 27. The party remains one of Ibiza’s defining underground house and techno institutions.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-resistance-amnesia-jul-2026",
+        "title": "RESISTANCE Ibiza at Amnesia",
+        "type": "residency",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-29",
+        "importance": 88,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://ultraeurope.com/worldwide/resistance-ibiza-returns-to-amnesia-for-season-5-of-its-award-winning-club-residency-taking-over-the-legendary-venue-every-wednesday-from-july-22-through-september-16-2026/",
+        "ticketUrl": null,
+        "summary": "Ultra Worldwide confirms RESISTANCE Ibiza Season 5 at Amnesia every Wednesday from July 22 through September 16. In July, the confirmed residency dates are July 22 and July 29, with Adam Beyer announced as a season resident.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-anyma-aeden-unvrs-jul-2026",
+        "title": "Anyma presents ÆDEN at [UNVRS]",
+        "type": "residency",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-28",
+        "importance": 89,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.anyma.com/ibiza",
+        "ticketUrl": null,
+        "summary": "Anyma’s official tour page confirms his 2026 Ibiza residency at [UNVRS] on Tuesdays from June 9 to September 15. The ÆDEN concept is billed as an immersive residency using [UNVRS]’ large-scale club architecture and technology.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-fisher-unvrs-jul-2026",
+        "title": "FISHER at [UNVRS]",
+        "type": "residency",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-30",
+        "importance": 87,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/fisher/23-07-2026",
+        "ticketUrl": null,
+        "summary": "FISHER returns to [UNVRS] for a Thursday night residency from June 4 to September 10, 2026. The July 23 official listing confirms FISHER with NOIZU, Chris Lorenzo, Wild Comet, Jason Bye and Friends, and Richy Penny.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

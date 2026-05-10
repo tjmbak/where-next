@@ -1,0 +1,207 @@
+{
+  "slug": "courchevel",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:37:46.895Z",
+  "responseId": "resp_02c16427eaf42f570069ff627436888196a6d3d6a80d889471",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "courchevel",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026’s confirmed music calendar centered on Courchevel’s luxury dance-music circuit, with notable DJ bookings at BAÏES, La Mangeoire, Cat Club and Les Caves plus resort-run holiday programming.",
+    "events": [
+      {
+        "id": "courchevel-whomadewho-baies-2026",
+        "title": "WhoMadeWho at BAÏES Courchevel",
+        "type": "club-night",
+        "startDate": "2026-02-04",
+        "endDate": "2026-02-04",
+        "importance": 78,
+        "venueName": "BAÏES Courchevel",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/107834773-whomadewho-at-baies-courchevel?came_from=2",
+        "ticketUrl": null,
+        "summary": "Bandsintown listed WhoMadeWho at BAÏES Courchevel, 540 Rue du Jardin Alpin, on February 4, 2026 at 7:00 PM. The Danish electronic act brought a club-focused live/DJ-oriented booking to Courchevel 1850.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "courchevel-notre-dame-cat-club-2026",
+        "title": "Notre Dame at Cat Club Courchevel",
+        "type": "club-night",
+        "startDate": "2026-02-05",
+        "endDate": "2026-02-05",
+        "importance": 72,
+        "venueName": "Cat Club Courchevel",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/4a05643e-b17a-4ec1-bd44-f96c8edbbfcb",
+        "ticketUrl": null,
+        "summary": "Shazam listed Notre Dame at Cat Club Courchevel on February 5, 2026 at 10:00 PM. The listing tagged the event as techno in Courchevel.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-deer-jade-mangeoire-2026",
+        "title": "Deer Jade at La Mangeoire",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 72,
+        "venueName": "La Mangeoire",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/6dbf72bf-b33e-4a9b-a1aa-96fd3803a7d5",
+        "ticketUrl": null,
+        "summary": "Shazam listed Deer Jade at La Mangeoire, Rue de Park City, on February 7, 2026 at 9:00 PM. The booking fits Courchevel’s upscale electronic and melodic house circuit.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "courchevel-grossomodo-les-caves-2026",
+        "title": "GROSSOMODDO at Les Caves de Courchevel",
+        "type": "club-night",
+        "startDate": "2026-02-12",
+        "endDate": "2026-02-12",
+        "importance": 74,
+        "venueName": "Les Caves de Courchevel",
+        "venueId": "les-caves-courchevel",
+        "sourceUrl": "https://www.shazam.com/event/bad2590e-5671-42cc-a8d8-c7355087b03b",
+        "ticketUrl": null,
+        "summary": "Shazam listed GROSSOMODDO at Les Caves de Courchevel on February 12, 2026 at 11:00 PM. The artist’s catalogue and collaborations place the night in an electronic/afro-house lane.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-carnaval-dj-1850-2026",
+        "title": "Carnaval de Courchevel 1850 DJ Animation",
+        "type": "carnival",
+        "startDate": "2026-02-17",
+        "endDate": "2026-02-17",
+        "importance": 61,
+        "venueName": "Courchevel 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/fr/a/carnaval-de-courchevel-1850-7658788/",
+        "ticketUrl": null,
+        "summary": "Courchevel Tourisme confirmed Carnaval de Courchevel 1850 on February 17, 2026 from 14:30 to 17:30. The official programme included DJ animation alongside the parade, mask workshop and family activities.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-blondish-baies-2026",
+        "title": "BLOND:ISH at BAÏES Courchevel",
+        "type": "club-night",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 82,
+        "venueName": "BAÏES Courchevel",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/a7216dad-d9e2-4122-8bfb-a98c4d940ddc",
+        "ticketUrl": null,
+        "summary": "Shazam listed BLOND:ISH at BAÏES Courchevel, 540 Rue du Jardin Alpin, on February 18, 2026 at 9:00 PM. This was one of the month’s higher-profile dance bookings in Courchevel 1850.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-flamenco-recital-2026",
+        "title": "Flamenco Recital Duo",
+        "type": "concert",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 62,
+        "venueName": "Médiathèque - Alpinium",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/flamenco-recital-duo-7242132/",
+        "ticketUrl": null,
+        "summary": "Courchevel’s official calendar confirmed a free Flamenco Recital Duo on February 18, 2026 from 5:30 PM to 7:00 PM. The concert featured Quentin Nedelcu on guitar and Mathilde Ménager on singing, dance and palmas.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "courchevel-pyrotechnic-1650-dj-2026",
+        "title": "Festival International d'Art Pyrotechnique - Courchevel 1650 DJ Animation",
+        "type": "festival",
+        "startDate": "2026-02-18",
+        "endDate": "2026-02-18",
+        "importance": 66,
+        "venueName": "Front de neige 1650, Courchevel Moriond",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/fr/a/changement-de-date-festival-international-dart-pyrotechnique-courchevel-1650-7649389/",
+        "ticketUrl": null,
+        "summary": "Courchevel Tourisme confirmed the changed-date pyrotechnic festival evening in Courchevel 1650 on February 18, 2026 from 18:30 to 20:00. The programme began with DJ animation before the torchlight descent and ARDI fireworks show.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-themba-mangeoire-2026",
+        "title": "Themba at La Mangeoire",
+        "type": "club-night",
+        "startDate": "2026-02-19",
+        "endDate": "2026-02-19",
+        "importance": 74,
+        "venueName": "La Mangeoire",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/event/607f84b5-c1f6-4f5e-9215-9a0cda74bddb",
+        "ticketUrl": null,
+        "summary": "Shazam listed Themba at La Mangeoire, Rue de Park City, on February 19, 2026 at 9:00 PM. The booking added an afro-house leaning dance night to Courchevel’s February club calendar.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-ofenbach-ski-touring-final-2026",
+        "title": "Ofenbach Concert at the Millet Ski Touring Courchevel Final",
+        "type": "concert",
+        "startDate": "2026-02-25",
+        "endDate": "2026-02-25",
+        "importance": 84,
+        "venueName": "Gymnase de l'Envolée / Courchevel Le Praz",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/competition-de-ski-alpinisme-finale-deguisee-millet-ski-touring-courchevel-2026-6334830/",
+        "ticketUrl": "https://evenements.courchevelsportsoutdoor.com/evenement/millet-ski-touring-concert-ofenbach?date=151",
+        "summary": "Courchevel’s official calendar confirmed the 16th Millet Ski Touring Courchevel fancy-dress final on February 25, 2026 from 6:00 PM, culminating in an Ofenbach concert at 9:00 PM. Spectator registration was offered online, with the concert following the awards ceremony at Gymnase de l'Envolée.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-rivo-les-caves-2026",
+        "title": "Rivo at Les Caves de Courchevel",
+        "type": "club-night",
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "importance": 72,
+        "venueName": "Les Caves de Courchevel",
+        "venueId": "les-caves-courchevel",
+        "sourceUrl": "https://www.shazam.com/es-es/event/e1897903-a866-4444-b62e-577e49620c55",
+        "ticketUrl": null,
+        "summary": "Shazam listed Rivo at Les Caves de Courchevel on February 26, 2026 at 11:59 PM. The event was presented as a dance concert/club booking at the late-night Courchevel venue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

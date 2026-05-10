@@ -1,0 +1,221 @@
+{
+  "slug": "new-orleans",
+  "month": 3,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:56:33.998Z",
+  "responseId": "resp_09ca50ae42a631890069ffd7296ab081a28df5151c25132ce8",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 3,
+    "year": 2026,
+    "notes": "March 2026 mixed arena tours with New Orleans-rooted jazz, funk, blues, and Congo Square programming.",
+    "events": [
+      {
+        "id": "new-orleans-pat-metheny-mar-2026",
+        "title": "Pat Metheny",
+        "type": "concert",
+        "startDate": "2026-03-08",
+        "endDate": "2026-03-08",
+        "importance": 74,
+        "venueName": "Orpheum Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/pat-metheny-new-orleans-louisiana-03-08-2026/event/1B006346D3BB4607",
+        "ticketUrl": "https://www.ticketmaster.com/pat-metheny-new-orleans-louisiana-03-08-2026/event/1B006346D3BB4607",
+        "summary": "Pat Metheny performed a March 8 concert at the Orpheum Theater in New Orleans. The Ticketmaster listing confirms the date, venue, and 7:30 PM show time.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-jazz-getaway-2026",
+        "title": "Brian Culbertson's New Orleans Jazz Getaway 2026",
+        "type": "festival",
+        "startDate": "2026-03-12",
+        "endDate": "2026-03-15",
+        "importance": 82,
+        "venueName": "The Civic Theatre / JW Marriott New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.neworleansjazzgetaway.com/schedule-copy",
+        "ticketUrl": "https://www.neworleansjazzgetaway.com/",
+        "summary": "The 3rd and final New Orleans Jazz Getaway ran March 12–15, with Brian Culbertson-hosted events and main concerts at The Civic. Confirmed featured artists included Gerald Albright, Lindsey Webster, Maysa, Peabo Bryson, and Vincent Ingala.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-millennium-tour-2026",
+        "title": "The Millennium Tour Presents: The Boys 4 Life Tour",
+        "type": "concert",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "importance": 84,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/search?q=boys+4+life++new+orleans",
+        "ticketUrl": "https://www.ticketmaster.com/search?q=boys+4+life++new+orleans",
+        "summary": "The Boys 4 Life edition of The Millennium Tour played Smoothie King Center on March 13. Ticketmaster listed B2K, Bow Wow, Waka Flocka Flame, Jeremih, Pretty Ricky, and Amerie on the bill.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-big-easy-blues-fest-2026",
+        "title": "The 18th Annual Big Easy Blues Festival",
+        "type": "festival",
+        "startDate": "2026-03-14",
+        "endDate": "2026-03-14",
+        "importance": 82,
+        "venueName": "UNO Lakefront Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/tucka-tickets/artist/1913323?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/tucka-tickets/artist/1913323?tt_scene=anchor_view",
+        "summary": "The 18th Annual Big Easy Blues Festival took place at UNO Lakefront Arena on March 14. Ticketmaster listings confirmed the event with Tucka, and related listings also named King George, West Love, Mike Clark Jr., and other Southern soul/blues performers.",
+        "genres": [
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-miguel-caos-2026",
+        "title": "Miguel: CAOS Tour",
+        "type": "concert",
+        "startDate": "2026-03-22",
+        "endDate": "2026-03-22",
+        "importance": 80,
+        "venueName": "Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/miguel-caos-tour-new-orleans-louisiana-03-22-2026/event/1B0064638C6C8F92?language=fr-ca",
+        "ticketUrl": "https://www.ticketmaster.com/miguel-caos-tour-new-orleans-louisiana-03-22-2026/event/1B0064638C6C8F92?language=fr-ca",
+        "summary": "Miguel brought the CAOS Tour to Fillmore New Orleans on March 22. The Ticketmaster listing confirms the New Orleans date at the venue.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-mana-mar-2026",
+        "title": "MANÁ: VIVIR SIN AIRE TOUR",
+        "type": "concert",
+        "startDate": "2026-03-22",
+        "endDate": "2026-03-22",
+        "importance": 86,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/mana-vivir-sin-aire-tour-new-orleans-louisiana-03-22-2026/event/1B00634FA54F87FE",
+        "ticketUrl": "https://www.ticketmaster.com/mana-vivir-sin-aire-tour-new-orleans-louisiana-03-22-2026/event/1B00634FA54F87FE",
+        "summary": "Mexican rock band MANÁ played Smoothie King Center on March 22 as part of the Vivir Sin Aire Tour. Ticketmaster confirmed the event date, venue, and 8:30 PM show time.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-lumineers-automatic-2026",
+        "title": "The Lumineers: The Automatic World Tour",
+        "type": "concert",
+        "startDate": "2026-03-26",
+        "endDate": "2026-03-26",
+        "importance": 82,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/smoothie-king-center-tickets-new-orleans/venue/221337?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.com/smoothie-king-center-tickets-new-orleans/venue/221337?language=en-us",
+        "summary": "The Lumineers brought The Automatic World Tour to Smoothie King Center on March 26. The venue’s Ticketmaster schedule confirmed the March 26 concert listing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-wood-brothers-tipitinas-2026",
+        "title": "The Wood Brothers",
+        "type": "concert",
+        "startDate": "2026-03-26",
+        "endDate": "2026-03-26",
+        "importance": 70,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://promo.ticketweb.com/featured-venue/tipitinas-uptown/",
+        "ticketUrl": "https://promo.ticketweb.com/featured-venue/tipitinas-uptown/",
+        "summary": "The Wood Brothers played Tipitina's on March 26. TicketWeb’s Tipitina’s Uptown listing confirmed the event among the venue’s March 2026 shows.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-journey-final-frontier-2026",
+        "title": "Journey: Final Frontier Tour",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 84,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1187677/journey-final-frontier-tour-an-evening-with-tickets",
+        "ticketUrl": "https://www.axs.com/events/1187677/journey-final-frontier-tour-an-evening-with-tickets",
+        "summary": "Journey played Smoothie King Center on March 28 on its Final Frontier Tour. AXS confirmed the New Orleans date at the arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-nola-funk-fest-reveal-2026",
+        "title": "NOLA Funk Fest Lineup Reveal Show",
+        "type": "concert",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-28",
+        "importance": 84,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14154534/nola-funk-fest-lineup-reveal-show/",
+        "ticketUrl": "https://tipitinas.com/event/14154534/nola-funk-fest-lineup-reveal-show/",
+        "summary": "Tipitina’s hosted the NOLA Funk Fest Lineup Reveal Show on March 28. The announced bill featured Irma Thomas, Ivan Neville, Cyril Neville, Jon Cleary, Stanton Moore, Tony Hall, Erica Falls, and more.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-congo-square-rhythms-2026",
+        "title": "2026 Congo Square Rhythms Festival",
+        "type": "festival",
+        "startDate": "2026-03-28",
+        "endDate": "2026-03-29",
+        "importance": 88,
+        "venueName": "Louis Armstrong Park / Congo Square",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzandheritage.org/events/2026-congo-square-rhythms-festival/",
+        "ticketUrl": null,
+        "summary": "The Jazz & Heritage Foundation’s Congo Square Rhythms Festival returned March 28–29 as a free weekend celebration at Louis Armstrong Park and Congo Square. The official event page confirmed the dates and full music lineup.",
+        "genres": [
+          "festival",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-santana-mar-2026",
+        "title": "Santana: Oneness Tour 2026",
+        "type": "concert",
+        "startDate": "2026-03-31",
+        "endDate": "2026-03-31",
+        "importance": 86,
+        "venueName": "Saenger Theatre-New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://us.atgtickets.com/events/santana/saenger-theatre/",
+        "ticketUrl": "https://us.atgtickets.com/events/santana/saenger-theatre/",
+        "summary": "Santana played Saenger Theatre-New Orleans on March 31. The official ATG Tickets/Saenger listing confirmed the show date and described Santana’s Afro-Latin, blues, rock, and jazz fusion repertoire.",
+        "genres": [
+          "latin",
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

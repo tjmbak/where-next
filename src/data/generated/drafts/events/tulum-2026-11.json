@@ -1,0 +1,48 @@
+{
+  "slug": "tulum",
+  "month": 11,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:05:56.315Z",
+  "responseId": "resp_0bfdecadde2268c70069ff5afa5864819da29ee7642f65a210",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 11,
+    "year": 2026,
+    "notes": "Confirmed November 2026 Tulum programming is still sparse; the strongest verified listings are cultural/party formats rather than full club-season lineups.",
+    "events": [
+      {
+        "id": "tulum-umbral-dia-de-muertos-2026",
+        "title": "PPP Presents - UMBRAL Dia de Muertos",
+        "type": "festival",
+        "startDate": "2026-10-25",
+        "endDate": "2026-11-02",
+        "importance": 72,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/ppp-presents-umbral",
+        "ticketUrl": "https://www.ticketfairy.com/event/ppp-presents-umbral",
+        "summary": "UMBRAL is a contemporary Day of the Dead celebration at Papaya Playa Project, with ritual, culture, community programming and a Saturday night celebration featuring international DJs. The event page lists the program as taking place October 25 to November 2, overlapping the first days of November.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-crypto-fest-2026",
+        "title": "Tulum Crypto Fest 2026",
+        "type": "conference",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-28",
+        "importance": 60,
+        "venueName": "ARENA",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/tulumcryptofest2026-20260503023150748",
+        "ticketUrl": "https://www.ticketfairy.com/event/tulumcryptofest2026-20260503023150748",
+        "summary": "Tulum Crypto Fest is a four-day culture-and-networking conference with confirmed festival parties, an opening party and a November 28 Full Moon Party described as a music-focused celebration. No artist lineup is listed yet on the ticket page.",
+        "genres": []
+      }
+    ]
+  }
+}

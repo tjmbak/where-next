@@ -1,0 +1,208 @@
+{
+  "slug": "sao-paulo",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:49:39.660Z",
+  "responseId": "resp_0fd0f9813a98c2a20069ff651c035881a39a3cb873a663144e",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in São Paulo was anchored by Carnival programming and several large international touring concerts, with electronic and Latin-pop events standing out alongside stadium-scale rock and reggaeton.",
+    "events": [
+      {
+        "id": "sao-paulo-hermanos-gutierrez-2026",
+        "title": "Hermanos Gutiérrez — Queremos!",
+        "type": "concert",
+        "startDate": "2026-02-04",
+        "endDate": "2026-02-04",
+        "importance": 78,
+        "venueName": "Teatro Bradesco",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/hermanos-gutierrez-no-circo-voador-rj",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/hermanos-gutierrez-no-circo-voador-rj",
+        "summary": "Queremos! brought Ecuadorian-Swiss instrumental duo Hermanos Gutiérrez to Teatro Bradesco in São Paulo on 4 February 2026 before a Rio date the following night.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "sao-paulo-d-edge-nave-feb-2026",
+        "title": "NAVE D-EDGE SP",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-08",
+        "importance": 70,
+        "venueName": "D-EDGE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2362879",
+        "ticketUrl": "https://ra.co/events/2362879",
+        "summary": "D-EDGE’s NAVE night listed Lary Lima, Perote, Fel C, Gui Boendia, Di Domenico, Juliana Mendez and Jhonny Sanchez across the club’s rooms from late 7 February into the morning of 8 February.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-ensaios-anitta-2026",
+        "title": "Ensaios da Anitta 2026 — São Paulo",
+        "type": "carnival",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 90,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/42817892-anitta-at-mercado-livre-arena-pacaembu",
+        "ticketUrl": null,
+        "summary": "Anitta’s pre-Carnival touring party reached Mercado Livre Arena Pacaembu with listed guests including Pabllo Vittar, Marina Sena, Dennis, Nattan, Felipe Amorim and Viviane Batidão.",
+        "genres": [
+          "latin",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-kali-uchis-2026",
+        "title": "Kali Uchis — The Sincerely, Tour",
+        "type": "concert",
+        "startDate": "2026-02-08",
+        "endDate": "2026-02-08",
+        "importance": 82,
+        "venueName": "Vibra São Paulo",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/pt/concerts/42850017-kali-uchis-at-vibra-sao-paulo",
+        "ticketUrl": "https://www.songkick.com/pt/concerts/42850017-kali-uchis-at-vibra-sao-paulo",
+        "summary": "Kali Uchis played Vibra São Paulo on 8 February 2026 as part of The Sincerely, Tour, with the event listed for a 20:30 start.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-carnaval-grupo-especial-2026",
+        "title": "Carnaval de São Paulo 2026 — Grupo Especial Parades",
+        "type": "carnival",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-14",
+        "importance": 95,
+        "venueName": "Sambódromo do Anhembi",
+        "venueId": null,
+        "sourceUrl": "https://prefeitura.sp.gov.br/web/cultura/w/desfiles-de-carnaval-2026-confira-cronograma-de-desfiles-e-como-chegar-ao-samb%C3%B3dromo-do-anhembi-em-sp",
+        "ticketUrl": null,
+        "summary": "São Paulo’s official Carnival Grupo Especial samba-school parades took place at the Sambódromo do Anhembi on 13 and 14 February 2026, with the city publishing the full running order and times.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-bloco-pabllo-nmixx-2026",
+        "title": "Bloco da Pabllo with NMIXX",
+        "type": "carnival",
+        "startDate": "2026-02-16",
+        "endDate": "2026-02-16",
+        "importance": 88,
+        "venueName": "Parque Ibirapuera",
+        "venueId": null,
+        "sourceUrl": "https://billboard.com.br/nmixx-bloco-pabllo-vittar-sao-paulo/",
+        "ticketUrl": null,
+        "summary": "Pabllo Vittar’s Carnival bloco in São Paulo featured K-pop group NMIXX as a special guest on 16 February 2026, a notable crossover moment for the city’s street-Carnival calendar.",
+        "genres": [
+          "pop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-bad-bunny-allianz-2026",
+        "title": "Bad Bunny — DeBÍ TiRAR MáS FOToS World Tour",
+        "type": "concert",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-21",
+        "importance": 98,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/camarote-braza-e-la-coppa-bad-bunny-no-allianz-parque-sp",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/camarote-braza-e-la-coppa-bad-bunny-no-allianz-parque-sp",
+        "summary": "Bad Bunny played two São Paulo dates at Allianz Parque on 20 and 21 February 2026, with the Ticketmaster page listing both performances for the stadium event.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-acdc-morumbis-feb24-2026",
+        "title": "AC/DC — Power Up Tour",
+        "type": "concert",
+        "startDate": "2026-02-24",
+        "endDate": "2026-02-24",
+        "importance": 96,
+        "venueName": "Estádio do MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.acdc.com/ac-dc-power-up-tour-continues/",
+        "ticketUrl": "https://www.acdc.com/ac-dc-power-up-tour-continues/",
+        "summary": "AC/DC’s official Power Up Tour announcement listed São Paulo’s Estádio do MorumBIS for 24 February 2026, part of the band’s large 2026 stadium run.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-macy-gray-cinejoia-2026",
+        "title": "Macy Gray — Turnê de Verão 2026",
+        "type": "concert",
+        "startDate": "2026-02-25",
+        "endDate": "2026-02-25",
+        "importance": 76,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://billboard.com.br/macy-gray-turne-brasil-2026/",
+        "ticketUrl": null,
+        "summary": "Macy Gray’s Brazil tour included a São Paulo concert at Cine Joia on 25 February 2026, with the show focused on her album On How Life Is and career hits.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-rufus-du-sol-2026",
+        "title": "RÜFÜS DU SOL — São Paulo",
+        "type": "concert",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 88,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/en-us/event/c063f24b-8869-4ca3-a79b-ac95a5fe2447",
+        "ticketUrl": null,
+        "summary": "RÜFÜS DU SOL played Mercado Livre Arena Pacaembu on 27 February 2026, bringing their electronic live show to São Paulo after a Curitiba date earlier in the week.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-acdc-morumbis-feb28-2026",
+        "title": "AC/DC — Power Up Tour",
+        "type": "concert",
+        "startDate": "2026-02-28",
+        "endDate": "2026-02-28",
+        "importance": 96,
+        "venueName": "Estádio do MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.br/pt/event/ac-dc-power-up-tour-2026-sao-paulo-tickets-edp1633504",
+        "ticketUrl": "https://www.livenation.com.br/pt/event/ac-dc-power-up-tour-2026-sao-paulo-tickets-edp1633504",
+        "summary": "Live Nation listed AC/DC at Estádio MorumBIS on 28 February 2026, with The Pretty Reckless billed as the opening act and AC/DC scheduled for 21:00.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

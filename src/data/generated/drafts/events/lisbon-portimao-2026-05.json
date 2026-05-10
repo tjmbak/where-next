@@ -1,0 +1,203 @@
+{
+  "slug": "lisbon-portimao",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:47:46.715Z",
+  "responseId": "resp_0f45a6de635e24cd0069ff56a97c2481a3878b20f55a9c36a3",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lisbon-portimao",
+    "month": 5,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "lisbon-portimao-5sos-meo-arena-2026",
+        "title": "5 Seconds of Summer — EVERYONE'S A STAR! World Tour",
+        "type": "concert",
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "importance": 80,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/5-seconds-of-summer-everyones-a-star-world-tour_en/15617",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/5-seconds-of-summer-everyones-a-star-world-tour_en/15617",
+        "summary": "5 Seconds of Summer return to Portugal for a Lisbon arena date on the EVERYONE'S A STAR! World Tour, with the source listing the 03 May 19:00 session at MEO Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-eros-ramazzotti-meo-arena-2026",
+        "title": "Eros Ramazzotti — Una Storia Importante World Tour",
+        "type": "concert",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-06",
+        "importance": 78,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/eros-ramazzotti-una-storia-importante_en/14396",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/eros-ramazzotti-una-storia-importante_en/14396",
+        "summary": "Eros Ramazzotti brings his Una Storia Importante World Tour to Lisbon, with the MEO Arena page listing a 06 May 21:00 session.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-jameson-common-ground-2026",
+        "title": "Jameson Common Ground",
+        "type": "festival",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-09",
+        "importance": 72,
+        "venueName": "Casa Capitão",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/festivals/3781754-jameson-common-ground/id/43170192-jameson-common-ground-2026",
+        "ticketUrl": null,
+        "summary": "A new three-day Casa Capitão festival with alternative, electronic, dub, shoegaze and rock-leaning programming including Gilla Band, Kiss Facility, Devon Rexi, Sensible Soccers and Elijah Minnelli.",
+        "genres": [
+          "electronic",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-jazz-manouche-almada-2026",
+        "title": "Festival Jazz Manouche de Almada",
+        "type": "festival",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-10",
+        "importance": 66,
+        "venueName": "Cine Incrível",
+        "venueId": null,
+        "sourceUrl": "https://www.festivaljazzmanouchealmada.pt/",
+        "ticketUrl": "https://www.seetickets.com/",
+        "summary": "The 2026 Almada gypsy-jazz festival presents David Regueiro Trio ft. Thomas Kretzschmar on 8 May, Nouveau Quintette du Hot Club de France on 9 May, and Blues & Swing Lisboa plus Stomping at Six on 10 May.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-twice-meo-arena-2026",
+        "title": "TWICE — THIS IS FOR World Tour in Lisbon",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 86,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/twice-this-is-for-world-tour-in-lisbon_en/15543",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/twice-this-is-for-world-tour-in-lisbon_en/15543",
+        "summary": "K-pop group TWICE play Lisbon’s MEO Arena on the THIS IS FOR World Tour, with the venue listing a 09 May 20:00 session.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-gipsy-kings-coliseu-2026",
+        "title": "Gipsy Kings by Diego Baliardo — “A Tu Vera” Tour 2026",
+        "type": "concert",
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "importance": 75,
+        "venueName": "Coliseu dos Recreios",
+        "venueId": null,
+        "sourceUrl": "https://coliseulisboa.com/eventos/gipsy-kings-by-diego-baliardo-a-tu-vera-tour-2026/",
+        "ticketUrl": "https://coliseulisboa.com/eventos/gipsy-kings-by-diego-baliardo-a-tu-vera-tour-2026/",
+        "summary": "Gipsy Kings by Diego Baliardo bring the A Tu Vera Tour to Coliseu dos Recreios, with the venue page listing 10 May 2026 at 21:30.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-bloom-stone-amphitheater-2026",
+        "title": "Bloom Lisbon — Stone Amphitheater",
+        "type": "club-night",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 72,
+        "venueName": "TBA - Anfiteatro da Pedra",
+        "venueId": null,
+        "sourceUrl": "https://pt-br.ra.co/events/2408749",
+        "ticketUrl": "https://pt-br.ra.co/events/2408749",
+        "summary": "Bloom opens its Lisbon open-air season at the Stone Amphitheater with Mita Gami, NTO live, VIOT, Shia, Perote and JØEY across a day-to-sunset house program.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-neopop-harbour-sama-2026",
+        "title": "NEOPOP x Harbour presents Sama' Abdulhadi",
+        "type": "club-night",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 74,
+        "venueName": "Fundação Champalimaud",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2407196",
+        "ticketUrl": "https://ra.co/events/2407196",
+        "summary": "NEOPOP and Harbour team for a Lisbon daytime-to-midnight techno event headlined by Sama' Abdulhadi, with Kokeshi, Gear, Gusta-vo, Serginho and Francisca Urbano also listed.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-menos-e-mais-meo-arena-2026",
+        "title": "Menos É Mais — Tour Puro Suco do Brasil",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-23",
+        "importance": 76,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/menos-e-mais-tour-puro-suco-do-brasil_en/15700",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/menos-e-mais-tour-puro-suco-do-brasil_en/15700",
+        "summary": "Brazilian pagode group Menos É Mais bring the Puro Suco do Brasil tour to MEO Arena, with the source listing a 23 May 21:30 session.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-bad-bunny-estadio-luz-2026",
+        "title": "Bad Bunny — DeBÍ TiRAR MáS FOToS World Tour",
+        "type": "concert",
+        "startDate": "2026-05-26",
+        "endDate": "2026-05-27",
+        "importance": 93,
+        "venueName": "Estádio da Luz",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.pt/en/event/bad-bunny-deb%C3%AD-tirar-m%C3%A1s-fotos-world-tour-lisboa-tickets-edp1596181",
+        "ticketUrl": "https://www.livenation.pt/en/event/bad-bunny-deb%C3%AD-tirar-m%C3%A1s-fotos-world-tour-lisboa-tickets-edp1596181",
+        "summary": "Bad Bunny plays two Lisbon stadium dates at Estádio da Luz on 26 and 27 May as part of the DeBÍ TiRAR MáS FOToS World Tour.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-moga-caparica-2026",
+        "title": "MOGA Caparica 2026",
+        "type": "festival",
+        "startDate": "2026-05-27",
+        "endDate": "2026-05-31",
+        "importance": 88,
+        "venueName": "Praia da Morena",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/moga-caparica-2026",
+        "ticketUrl": "https://shotgun.live/en/festivals/moga-caparica-2026",
+        "summary": "MOGA returns to Costa da Caparica, just south of Lisbon, with ticketed beach-festival dates from 29–31 May and free OFF activities from 27–28 May. Listed artists include Ben Böhmer, Ricardo Villalobos, TSHA, Mount Kimbie DJ Set, DJ Tennis, Röyksopp DJ Set and The Blaze DJ Set.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

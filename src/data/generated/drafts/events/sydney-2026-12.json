@@ -1,0 +1,126 @@
+{
+  "slug": "sydney",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:52:01.759Z",
+  "responseId": "resp_0c9c239da6a5ff4b0069ff65e77d4481a2a9158dca6c0f3e6f",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "sydney-dmas-on-the-steps-2026",
+        "title": "On The Steps: DMA’S",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 78,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/dmas",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/dmas",
+        "summary": "DMA’S play the Sydney Opera House Forecourt as part of the On The Steps series, with the show billed around their Australian Tour 2026 and a special Hills End anniversary set.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-wolf-alice-on-the-steps-2026",
+        "title": "On The Steps: Wolf Alice Australian Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 82,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/wolf-alice",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/wolf-alice",
+        "summary": "Wolf Alice headline the Sydney Opera House Forecourt as part of the On The Steps program, following their album The Clearing and international festival run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-ten-tenors-silent-night-2026",
+        "title": "The TEN Tenors: A Not So Silent Night",
+        "type": "concert",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-10",
+        "importance": 62,
+        "venueName": "State Theatre",
+        "venueId": null,
+        "sourceUrl": "https://thetentenors.com/events/10-12-2026-sydney/",
+        "ticketUrl": "https://www.ticketmaster.com.au/the-ten-tenors-a-not-so-silent-night-sydney-10-12-2026/event/1300647BAB065C49",
+        "summary": "The TEN Tenors bring their seasonal concert A Not So Silent Night to Sydney, blending classical, pop and festive repertoire at the State Theatre.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-charlotte-de-witte-2026",
+        "title": "Charlotte de Witte",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 84,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/charlotte-de-witte/",
+        "ticketUrl": "https://thehordern.com.au/event/charlotte-de-witte/",
+        "summary": "Charlotte de Witte’s rescheduled Sydney date lands at Hordern Pavilion, with the venue confirming Saturday 12 December 2026 as the new show date.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-amity-affliction-on-the-steps-2026",
+        "title": "On The Steps: The Amity Affliction",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 76,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/the-amity-affliction",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/the-amity-affliction",
+        "summary": "The Amity Affliction play their only Australian headline show celebrating House of Cards at the Sydney Opera House Forecourt as part of On The Steps.",
+        "genres": []
+      },
+      {
+        "id": "sydney-harry-styles-together-together-2026",
+        "title": "Harry Styles: Together, Together Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 94,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.accorstadium.com.au/events/harry_styles_together_together_tour_2026",
+        "ticketUrl": "https://www.ticketmaster.com.au/artist/2366444?venueId=304356",
+        "summary": "Harry Styles brings his Together, Together global residency to Accor Stadium for two Sydney shows on Saturday 12 and Sunday 13 December 2026, promoted by Live Nation.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-guns-n-roses-world-tour-2026",
+        "title": "Guns N’ Roses: World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-14",
+        "endDate": "2026-12-14",
+        "importance": 88,
+        "venueName": "ENGIE Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/guns-n-roses-world-tour-2026-olympic-park-14-12-2026/event/13006459BEE3B8C8",
+        "ticketUrl": "https://www.ticketmaster.com.au/guns-n-roses-world-tour-2026-olympic-park-14-12-2026/event/13006459BEE3B8C8",
+        "summary": "Guns N’ Roses bring their World Tour 2026 to ENGIE Stadium in Sydney Olympic Park, with Airbourne listed as support on Ticketmaster’s tour pages.",
+        "genres": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "slug": "london",
+  "month": 2,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:58:37.033Z",
+  "responseId": "resp_0998dc353857910f0069ff591203f4819c94effcd3bf5f13d0",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 2,
+    "year": 2026,
+    "notes": "February 2026 in London was especially strong for electronic music, with major warehouse-scale Drumsheds shows, fabric programming, KOKO club nights, and big-room concerts.",
+    "events": [
+      {
+        "id": "london-anotr-koko-feb-2026",
+        "title": "ANOTR at KOKO",
+        "type": "club-night",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-06",
+        "importance": 78,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/koko-electronic-anotr",
+        "ticketUrl": null,
+        "summary": "Dutch house duo ANOTR played a one-off KOKO Electronic night, with the venue billing it as an intimate return after sold-out shows.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-continuum-feb-2026",
+        "title": "fabric Continuum: Ellen Allien, Oscar Mulero, Adiel, X CLUB., Quest B2B Quelza, Daria Kolosova",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-09",
+        "importance": 84,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2294953",
+        "ticketUrl": null,
+        "summary": "fabric’s first Continuum of 2026 ran as a 25-hour techno session with Ellen Allien, Oscar Mulero, Adiel, X CLUB., Quest B2B Quelza and Daria Kolosova among the bill.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-mathame-koko-feb-2026",
+        "title": "Mathame All Night Long at KOKO",
+        "type": "club-night",
+        "startDate": "2026-02-07",
+        "endDate": "2026-02-07",
+        "importance": 75,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/mathame-all-night-long",
+        "ticketUrl": null,
+        "summary": "Italian melodic techno duo Mathame played an all-night-long KOKO theatre session, promoted by the venue as a rare intimate UK show.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-jayda-g-koko-feb-2026",
+        "title": "Jayda G, Bibi Seck, Helena Star at KOKO",
+        "type": "club-night",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "importance": 74,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/koko-electronic-jayda-g",
+        "ticketUrl": null,
+        "summary": "Jayda G returned to KOKO with Bibi Seck and Helena Star for an Electronic Nights programme focused on dancefloor-led house and electronic music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-herrensauna-fold-feb-2026",
+        "title": "Herrensauna 10 Years at FOLD",
+        "type": "club-night",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "importance": 83,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2322122",
+        "ticketUrl": null,
+        "summary": "Berlin collective Herrensauna celebrated 10 years at FOLD with CEM, JASSS, MCMLXXXV, SALOME, Slim Soledad, Twang and ZACKITO on the lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-gioli-assia-koko-feb-2026",
+        "title": "Giolì & Assia at KOKO",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 72,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/gioli-assia",
+        "ticketUrl": null,
+        "summary": "Italian duo Giolì & Assia made their KOKO theatre debut with a live/DJ-led sound blending techno, house, indie and pop elements.",
+        "genres": [
+          "techno",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-teletech-xxl-drumsheds-feb-2026",
+        "title": "Teletech XXL at DRUMSHEDS",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 89,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2282167",
+        "ticketUrl": "https://go.kaboodle.co.uk/",
+        "summary": "Teletech, The Warehouse Project and Broadwick Live brought a large-scale hard-techno showcase to DRUMSHEDS, with Azyr B2B BLK., Fantasm, Holy Priest, MarcelDune, Novah B2B Hannah Laing and many more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-anyone-can-dance-barbican-feb-2026",
+        "title": "anyone can dance: Eastern Margins at the Barbican",
+        "type": "club-night",
+        "startDate": "2026-02-20",
+        "endDate": "2026-02-20",
+        "importance": 77,
+        "venueName": "Barbican Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/our-story/press-room/barbican-announces-anyone-can-dance-a-series-of-late-night-parties-beginning",
+        "ticketUrl": null,
+        "summary": "The Barbican launched its anyone can dance late-night party series with an Eastern Margins-curated night featuring Nick Cheo, KOLLIN, Jianbo and MEYY.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-dj-marky-friends-koko-feb-2026",
+        "title": "DJ Marky & Friends at KOKO",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 76,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/dj-marky-friends-2",
+        "ticketUrl": null,
+        "summary": "DJ Marky & Friends took over KOKO for a daytime event celebrating drum & bass, jungle and Marky’s Brazilian-rooted global club sound.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fac51-hacienda-drumsheds-feb-2026",
+        "title": "FAC51 The Haçienda at DRUMSHEDS",
+        "type": "club-night",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "importance": 88,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2293369",
+        "ticketUrl": null,
+        "summary": "FAC51 The Haçienda staged its biggest indoor show to date at DRUMSHEDS, headlined by Groove Armada, Haçienda Classical, Deep Dish, Roger Sanchez, Inner City and other house-music figures.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-eastenderz-drumsheds-feb-2026",
+        "title": "Eastenderz at DRUMSHEDS",
+        "type": "club-night",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 84,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2292338",
+        "ticketUrl": null,
+        "summary": "Eastenderz returned to London for its biggest showcase yet at DRUMSHEDS, with house and tech-house names led by East End Dubs, Hot Since 82, Kolter, Jamback, Laidlaw and Cristina Lazic.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fred-again-usb002-feb-2026",
+        "title": "Fred again.. USB002 Residency at Alexandra Palace",
+        "type": "residency",
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "importance": 92,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://press.atlanticrecords.com/sites/g/files/g2000014001/files/2026-02/Fred%20again..%20-%20_Lights%20Burn%20Dimmer_%20-%202.13.26.docx.pdf",
+        "ticketUrl": null,
+        "summary": "Fred again.. continued his USB002 London residency at Alexandra Palace, with the official label press release listing 12, 13, 26 and 27 February 2026 London dates.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

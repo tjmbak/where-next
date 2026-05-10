@@ -1,0 +1,217 @@
+{
+  "slug": "toronto",
+  "month": 8,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:31:11.679Z",
+  "responseId": "resp_026ea3557ad3b93a0069ff60aba7908194b955b0801225862d",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 8,
+    "year": 2026,
+    "notes": "August 2026 is unusually strong for Toronto: Carnival weekend and VELD open the month, while Rogers Stadium and Scotiabank Arena carry several major stadium/arena runs later on.",
+    "events": [
+      {
+        "id": "toronto-caribbean-carnival-grand-parade-2026",
+        "title": "Toronto Caribbean Carnival Grand Parade",
+        "type": "carnival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 95,
+        "venueName": "Toronto Caribbean Carnival (Caribana)",
+        "venueId": "toronto-caribana",
+        "sourceUrl": "https://torontocarnival.ca/",
+        "ticketUrl": null,
+        "summary": "The official Toronto Caribbean Carnival site lists the Grand Parade for August 1, 2026 at Exhibition Place and Lake Shore Blvd. The Carnival is a flagship Caribbean culture and music event with Mas bands, parade music and related live performances across the city.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "toronto-veld-music-festival-2026",
+        "title": "VELD Music Festival",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 94,
+        "venueName": "Downsview Park",
+        "venueId": null,
+        "sourceUrl": "https://veldmusicfestival.com/lineup/",
+        "ticketUrl": "https://veldmusicfestival.com/lineup/",
+        "summary": "VELD’s official lineup page confirms the festival at Downsview Park for July 31, August 1 and August 2, 2026. The event is Toronto’s major large-scale electronic festival weekend.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "toronto-carnival-playground-rebel-2026",
+        "title": "Carnival Playground — AYETIAN Live | Toronto Caribana Sunday",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 72,
+        "venueName": "REBEL",
+        "venueId": "toronto-rebel",
+        "sourceUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
+        "summary": "TicketGateway lists Carnival Playground at REBEL on August 2, 2026, from 3:00 PM to 9:00 PM, with a live performance by AYETIAN. It is positioned as a Caribana Sunday day party at one of Toronto’s largest nightlife venues.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "toronto-daniel-caesar-son-of-spergy-2026",
+        "title": "Daniel Caesar — Son of Spergy Tour",
+        "type": "concert",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 82,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/daniel-caesar-1",
+        "ticketUrl": "https://www.scotiabankarena.com/events/detail/daniel-caesar-1",
+        "summary": "Scotiabank Arena lists Daniel Caesar’s Son of Spergy Tour for Sunday, August 2, 2026 at 7:30 PM. The Toronto R&B artist returns for an arena-scale hometown date.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-foo-fighters-take-cover-2026",
+        "title": "Foo Fighters — Take Cover Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-04",
+        "importance": 90,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/1A8Zku4GkdRzJx6/foo-fighters-take-cover-tour-2026",
+        "ticketUrl": "https://www.livenation.com/event/1A8Zku4GkdRzJx6/foo-fighters-take-cover-tour-2026",
+        "summary": "Live Nation lists Foo Fighters at Rogers Stadium on Tuesday, August 4, 2026 at 5:30 PM. The bill also includes Queens of the Stone Age and Mannequin Pussy.",
+        "genres": []
+      },
+      {
+        "id": "toronto-guns-n-roses-world-tour-2026",
+        "title": "Guns N’ Roses — World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 88,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/Guns-N-Roses-tickets/artist/735218?lang=en-ca",
+        "ticketUrl": "https://www.ticketmaster.ca/Guns-N-Roses-tickets/artist/735218?lang=en-ca",
+        "summary": "Ticketmaster lists Guns N’ Roses at Rogers Stadium in Toronto on Wednesday, August 5, 2026 at 6:25 PM. Public Enemy is listed on the Toronto lineup.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-rush-fifty-something-2026",
+        "title": "RUSH — Fifty Something",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-13",
+        "importance": 93,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/artist/807344?venueId=131157",
+        "ticketUrl": "https://www.ticketmaster.ca/artist/807344?venueId=131157",
+        "summary": "Ticketmaster lists RUSH’s Fifty Something run at Scotiabank Arena on August 7, 9, 11 and 13, 2026. The four-night Toronto arena stand is one of the month’s most significant hometown rock events.",
+        "genres": []
+      },
+      {
+        "id": "toronto-usher-chris-brown-rb-tour-2026",
+        "title": "The R&B Tour — Usher Raymond & Chris Brown",
+        "type": "concert",
+        "startDate": "2026-08-11",
+        "endDate": "2026-08-12",
+        "importance": 90,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/1A8ZkozGkdifsN4/the-r-b-tour-starring-usher-raymond-chris-brown",
+        "ticketUrl": "https://www.livenation.com/event/1A8ZkozGkdifsN4/the-r-b-tour-starring-usher-raymond-chris-brown",
+        "summary": "Live Nation lists The R&B Tour starring Usher Raymond and Chris Brown at Rogers Stadium on Tuesday, August 11, 2026, with an additional nearby Rogers Stadium show on Wednesday, August 12. This is a two-night stadium-scale R&B bill.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-ed-sheeran-loop-tour-2026",
+        "title": "Ed Sheeran — LOOP Tour",
+        "type": "concert",
+        "startDate": "2026-08-20",
+        "endDate": "2026-08-20",
+        "importance": 92,
+        "venueName": "Rogers Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/event/1000632FE9BB4345",
+        "ticketUrl": "https://www.ticketmaster.ca/event/1000632FE9BB4345",
+        "summary": "Ticketmaster lists Ed Sheeran’s LOOP Tour at Rogers Centre on Thursday, August 20, 2026 at 5:30 PM. It is a major stadium date on his 2026 tour routing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-cne-bell-soundstage-2026",
+        "title": "CNE Bell SOUNDSTAGE at the Bandshell",
+        "type": "festival",
+        "startDate": "2026-08-21",
+        "endDate": "2026-09-07",
+        "importance": 84,
+        "venueName": "Bandshell Park, Exhibition Place",
+        "venueId": null,
+        "sourceUrl": "https://www.theex.com/performances/bellsoundstageatthebandshell/",
+        "ticketUrl": "https://www.theex.com/",
+        "summary": "The CNE’s official Bell SOUNDSTAGE page confirms the 2026 program runs August 21 to September 7, 2026, with performances free with admission to the fair. It anchors the CNE’s live-music programming at Bandshell Park.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "toronto-bts-arirang-2026",
+        "title": "BTS WORLD TOUR 'ARIRANG' IN TORONTO",
+        "type": "concert",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-23",
+        "importance": 96,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
+        "ticketUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
+        "summary": "Ticketmaster’s Rogers Stadium schedule lists BTS WORLD TOUR 'ARIRANG' IN TORONTO on Saturday, August 22 and Sunday, August 23, 2026 at 8:00 PM. The two-night stadium run is a global pop flagship for the month.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-first-class-fest-2026",
+        "title": "First Class Fest",
+        "type": "festival",
+        "startDate": "2026-08-28",
+        "endDate": "2026-08-29",
+        "importance": 80,
+        "venueName": "The Bowl at Sobeys Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.liveatthebowl.com/first-class-fest",
+        "ticketUrl": "https://www.liveatthebowl.com/first-class-fest",
+        "summary": "The Bowl at Sobeys Stadium confirms First Class Fest for Friday, August 28 and Saturday, August 29, 2026, with doors at 4:00 PM and show at 5:00 PM. The event is billed as an underground rap-focused festival weekend.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

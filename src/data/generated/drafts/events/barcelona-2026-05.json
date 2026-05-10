@@ -1,0 +1,217 @@
+{
+  "slug": "barcelona",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:49:35.491Z",
+  "responseId": "resp_0bd527156073504e0069ff57190b008190b1ccf4b68c354b91",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 5,
+    "year": 2026,
+    "notes": "May is led by open-air electronic parties and arena-scale pop and Latin concerts across Barcelona.",
+    "events": [
+      {
+        "id": "barcelona-la-terrrazza-opening-2026",
+        "title": "La Terrrazza Opening Party - Night 01",
+        "type": "club-night",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 80,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2375959",
+        "ticketUrl": "https://ra.co/events/2375959",
+        "summary": "La Terrrazza opens its season with Elena Colombi, Alvva and Brieela. The RA listing confirms the May 1 date and the electro/electronica focus.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-input-pan-pot-2026",
+        "title": "INPUT pres Pan-Pot",
+        "type": "club-night",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 76,
+        "venueName": "INPUT High Fidelity Dance Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2367099",
+        "ticketUrl": "https://ra.co/events/2367099",
+        "summary": "INPUT hosts a techno night headlined by Pan-Pot with JUAAN. The confirmed RA listing places it at INPUT High Fidelity Dance Club on May 2.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "barcelona-la-plazuela-2026",
+        "title": "La Plazuela - Banco Mediolanum Guitar Bcn 2026",
+        "type": "concert",
+        "startDate": "2026-05-08",
+        "endDate": "2026-05-08",
+        "importance": 72,
+        "venueName": "Sant Jordi Club",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/la-plazuela",
+        "ticketUrl": "https://palausantjordi.barcelona/en/la-plazuela",
+        "summary": "La Plazuela play Sant Jordi Club as part of Banco Mediolanum Guitar Bcn 2026. The venue page confirms doors at 19:30 and the concert at 21:00 on May 8.",
+        "genres": [
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "barcelona-brunch-ben-bohmer-2026",
+        "title": "Brunch Electronik Barcelona 10.05",
+        "type": "club-night",
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "importance": 85,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://barcelona.brunchelectronik.com/en/line-up",
+        "ticketUrl": null,
+        "summary": "Brunch Electronik’s May 10 edition at Poble Espanyol features Ben Böhmer, Innellea, Nicky Elisabeth, Brizas, and Jairo Uría b2b Miss Manu. The official Brunch line-up page confirms the date, venue, and 16:00–22:00 timing.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "barcelona-eric-clapton-2026",
+        "title": "Eric Clapton - European Tour 2026",
+        "type": "concert",
+        "startDate": "2026-05-10",
+        "endDate": "2026-05-10",
+        "importance": 83,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/eric-clapton-european-tour-2026-entradas/854574106?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/event/eric-clapton-european-tour-2026-entradas/854574106?language=en-us",
+        "summary": "Eric Clapton brings his European Tour 2026 to Palau Sant Jordi. Ticketmaster confirms the Barcelona date for May 10 at 21:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-twice-this-is-for-2026",
+        "title": "TWICE [THIS IS FOR] World Tour in Barcelona",
+        "type": "concert",
+        "startDate": "2026-05-12",
+        "endDate": "2026-05-12",
+        "importance": 86,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/twice-this-is-for-world-tour-in-barcelona-entradas/527393611?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/event/twice-this-is-for-world-tour-in-barcelona-entradas/527393611?language=en-us",
+        "summary": "K-pop group TWICE perform at Palau Sant Jordi on their [THIS IS FOR] World Tour. Ticketmaster confirms the concert for May 12 at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-arcangel-2026",
+        "title": "Arcángel - La 8va Maravilla World Tour 20 Aniversario",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-13",
+        "importance": 78,
+        "venueName": "Sant Jordi Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/arcangel-la-8va-maravilla-world-tour-20-aniversario-entradas/1575947577?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/event/arcangel-la-8va-maravilla-world-tour-20-aniversario-entradas/1575947577?language=en-us",
+        "summary": "Arcángel brings the La 8va Maravilla World Tour 20 Aniversario to Sant Jordi Club. Ticketmaster confirms the Barcelona show for May 13 at 20:30.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "barcelona-rawayana-after-2026",
+        "title": "Rawayana - ¿Dónde Es El After? World Tour",
+        "type": "concert",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 77,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/rawayana-donde-es-el-after-world-tour-entradas/593625591?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/event/rawayana-donde-es-el-after-world-tour-entradas/593625591?language=en-us",
+        "summary": "Rawayana play Palau Sant Jordi on the ¿Dónde Es El After? World Tour. Ticketmaster confirms the Barcelona concert for May 17 at 20:30.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-bad-bunny-may-2026",
+        "title": "Bad Bunny - DeBÍ TiRAR MáS FOToS World Tour",
+        "type": "concert",
+        "startDate": "2026-05-22",
+        "endDate": "2026-05-23",
+        "importance": 96,
+        "venueName": "Estadi Olímpic Lluís Companys",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/bad-bunny-may-22th-23th-2026",
+        "ticketUrl": "https://www.livenation.es/event/bad-bunny-deb%C3%AD-tirar-m%C3%A1s-fotos-world-tour-barcelona-tickets-edp1595770",
+        "summary": "Bad Bunny brings the DeBÍ TiRAR MáS FOToS World Tour to Barcelona for two nights. The Palau Sant Jordi/Olympic Ring page confirms May 22 and May 23 at Estadi Olímpic.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "barcelona-brunch-boris-brejcha-2026",
+        "title": "Brunch Electronik Barcelona 24.05",
+        "type": "club-night",
+        "startDate": "2026-05-24",
+        "endDate": "2026-05-24",
+        "importance": 86,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://barcelona.brunchelectronik.com/en/line-up",
+        "ticketUrl": null,
+        "summary": "Brunch Electronik’s May 24 edition at Poble Espanyol is headlined by Boris Brejcha with Joyhauser, Magdalena, Paula Zapy, Rebel Bunnie and Yasmin Gardezi. The official Brunch line-up page confirms the date, venue, and 16:00–22:00 timing.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-madison-beer-2026",
+        "title": "Madison Beer: The Locket Tour",
+        "type": "concert",
+        "startDate": "2026-05-26",
+        "endDate": "2026-05-26",
+        "importance": 72,
+        "venueName": "Sant Jordi Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/event/madison-beer-the-locket-tour-entradas/1325202553?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/event/madison-beer-the-locket-tour-entradas/1325202553?language=en-us",
+        "summary": "Madison Beer plays Sant Jordi Club on The Locket Tour, with Lulu Simon and Isabel LaRosa listed on the venue page. Ticketmaster confirms the Barcelona concert for May 26 at 20:30.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "barcelona-output-sven-vath-2026",
+        "title": "Output pres. Sven Väth",
+        "type": "club-night",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 78,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2391495",
+        "ticketUrl": "https://ra.co/events/2391495",
+        "summary": "Output Barcelona presents Sven Väth at Seaseaclub Barcelona, with LAIA b2b Not A Headliner aka José Alex b2b Hitch also listed. RA confirms the event for May 30 from 16:30 to 03:00.",
+        "genres": [
+          "techno"
+        ]
+      }
+    ]
+  }
+}

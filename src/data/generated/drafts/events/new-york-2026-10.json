@@ -1,0 +1,210 @@
+{
+  "slug": "new-york",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:13:15.537Z",
+  "responseId": "resp_0119109bd7ad521a0069ff5c9972bc81a09928b69c11d8d018",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is already anchored by major arena pop/Latin dates, Forest Hills outdoor concerts, and Mondo.NYC’s music-tech showcase week, with more club programming likely to be announced closer to fall.",
+    "events": [
+      {
+        "id": "new-york-sleepy-hollow-music-festival-2026",
+        "title": "Sleepy Hollow Music Festival",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 73,
+        "venueName": "Kingsland Point Park",
+        "venueId": null,
+        "sourceUrl": "https://www.iloveny.com/thebeat/post/bands-announced-for-the-3rd-annual-sleepy-hollow-music-festival-october-3rd-2026/",
+        "ticketUrl": null,
+        "summary": "The third annual Sleepy Hollow Music Festival is confirmed for October 3 at Kingsland Point Park, with Everclear, The Smithereens with Marshall Crenshaw, Fastball, Sophie B. Hawkins and more announced.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-cristian-castro-2026",
+        "title": "Cristian Castro: Nada Solo Éxitos Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 74,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/cristian-castro-infosys-theater-at-madison-square-garden-october-2026/3B00644BAD974AB4",
+        "ticketUrl": "https://www.ticketmaster.com/artist/844826",
+        "summary": "Cristian Castro brings his Nada Solo Éxitos Tour 2026 to Infosys Theater at MSG on Friday, October 2.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-geese-forest-hills-2026",
+        "title": "Geese: Getting Killed Again Tour",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 72,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1428055/geese-tickets",
+        "ticketUrl": "https://www.axs.com/events/1428055/geese-tickets",
+        "summary": "Brooklyn band Geese headline Forest Hills Stadium on October 3 as part of the Getting Killed Again Tour.",
+        "genres": []
+      },
+      {
+        "id": "new-york-monsta-x-2026",
+        "title": "MONSTA X: 2026 World Tour [THE X : NEXUS] in New York",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 82,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/monsta-x-infosys-theater-at-madison-square-garden-october-2026/3B00647BF0495307",
+        "ticketUrl": "https://www.ticketmaster.com/2026-monsta-x-world-tour-the-new-york-new-york-10-06-2026/event/3B00647BF0495307",
+        "summary": "MONSTA X’s 2026 World Tour [THE X : NEXUS] is confirmed for Infosys Theater at MSG on October 6.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-berliner-philharmoniker-opening-gala-2026",
+        "title": "Carnegie Hall Opening Night Gala: Berliner Philharmoniker, Kirill Petrenko & Jonas Kaufmann",
+        "type": "concert",
+        "startDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "importance": 88,
+        "venueName": "Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57029/",
+        "ticketUrl": null,
+        "summary": "The Berliner Philharmoniker’s Carnegie Hall appearance on October 8 features conductor Kirill Petrenko and tenor Jonas Kaufmann as part of the orchestra’s tour calendar.",
+        "genres": []
+      },
+      {
+        "id": "new-york-foster-the-people-2026",
+        "title": "Foster The People: Good Mourning Sunshine Tour",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 78,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1413987/foster-the-people-tickets",
+        "ticketUrl": "https://www.axs.com/events/1413987/foster-the-people-tickets",
+        "summary": "Foster The People play Forest Hills Stadium on October 10 with Goth Babe listed on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-mondo-nyc-2026",
+        "title": "Mondo.NYC Music & Technology Conference and Showcase",
+        "type": "conference",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-16",
+        "importance": 78,
+        "venueName": "Arlo Williamsburg and NYC showcase venues",
+        "venueId": null,
+        "sourceUrl": "https://www.mondo.nyc/",
+        "ticketUrl": "https://www.mondo.nyc/",
+        "summary": "Mondo.NYC returns October 13–16 as a music-and-technology business conference with an artist showcase festival across NYC venues.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-camilo-2026",
+        "title": "Camilo",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 78,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/camilo-new-york-new-york-10-17-2026/event/3B0063327EE210FE",
+        "ticketUrl": "https://www.ticketmaster.com/camilo-new-york-new-york-10-17-2026/event/3B0063327EE210FE",
+        "summary": "Camilo is confirmed at Infosys Theater at Madison Square Garden on October 17 at 9:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-gryffin-under-k-2026",
+        "title": "Gryffin",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 80,
+        "venueName": "Under the K Bridge Park",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1364819/gryffin-tickets",
+        "ticketUrl": "https://www.axs.com/events/1364819/gryffin-tickets",
+        "summary": "Gryffin headlines Under the K Bridge Park in Brooklyn on October 17, with Łaszewo and AR/CO also listed.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-eros-ramazzotti-2026",
+        "title": "Eros Ramazzotti: Una Historia Importante",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/eros-ramazzotti-una-historia-importante-new-york-new-york-10-24-2026/event/3B006288FF5D231A",
+        "ticketUrl": "https://www.ticketmaster.com/eros-ramazzotti-una-historia-importante-new-york-new-york-10-24-2026/event/3B006288FF5D231A",
+        "summary": "Eros Ramazzotti’s Una Historia Importante tour stop is confirmed for October 24 at Infosys Theater at Madison Square Garden.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-harry-styles-harryween-2026",
+        "title": "Harry Styles: Together, Together. Harryween.",
+        "type": "residency",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 96,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B00643506DA83DE",
+        "ticketUrl": "https://www.ticketmaster.com/event/3B00643506DA83DE",
+        "summary": "Harry Styles’ 30-show Madison Square Garden run includes the October 31 Harryween performance, part of the Together, Together world tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-rawayana-2026",
+        "title": "Rawayana: ¿Dónde Es El After? World Tour",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/rawayana",
+        "ticketUrl": "https://www.ticketmaster.com/event/3000646BAB604050",
+        "summary": "Rawayana brings the ¿Dónde Es El After? World Tour to Barclays Center in Brooklyn on October 31.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

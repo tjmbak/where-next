@@ -1,0 +1,16 @@
+{
+  "slug": "verbier",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T18:54:49.178Z",
+  "responseId": "resp_0826bd6867e49bc20069ff82c3fd74819f99c777457375b2b5",
+  "searchCalls": 8,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 12,
+    "year": 2026,
+    "notes": null,
+    "events": []
+  }
+}

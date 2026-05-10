@@ -1,0 +1,221 @@
+{
+  "slug": "las-vegas",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:33:31.914Z",
+  "responseId": "resp_0f84d6013815602f0069ff616959b48196a12fd008ccd61b55",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Las Vegas is dominated by EDC/EDC Week, while Sphere, Allegiant Stadium, Caesars Palace, and PH Live add major pop, rock, country, and R&B anchors.",
+    "events": [
+      {
+        "id": "las-vegas-edc-las-vegas-2026",
+        "title": "EDC Las Vegas 2026",
+        "type": "festival",
+        "startDate": "2026-05-15",
+        "endDate": "2026-05-17",
+        "importance": 100,
+        "venueName": "Las Vegas Motor Speedway",
+        "venueId": "edc-vegas",
+        "sourceUrl": "https://lasvegas.electricdaisycarnival.com/lineup/",
+        "ticketUrl": "https://edclasvegas.frontgatetickets.com/",
+        "summary": "Electric Daisy Carnival returns to Las Vegas Motor Speedway May 15–17, 2026 with a large official lineup spanning electronic, house, techno, bass, and trance-adjacent acts including Above & Beyond, Armin van Buuren, Charlotte de Witte, Fisher, John Summit, Kaskade, and GRiZ B2B Wooli.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-no-doubt-sphere-2026",
+        "title": "No Doubt Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-05-06",
+        "endDate": "2026-06-13",
+        "importance": 92,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.thesphere.com/shows/no-doubt",
+        "ticketUrl": "https://www.ticketmaster.com/no-doubt-live-at-sphere-las-vegas-nevada-05-06-2026/event/17006343FA0E8257",
+        "summary": "No Doubt’s long-awaited Sphere residency begins in May 2026, marking the band’s first extended run of shows in years. The Sphere listing confirms the Las Vegas run from May 6 through June 13, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-bts-arirang-2026",
+        "title": "BTS World Tour ‘ARIRANG’ in Las Vegas",
+        "type": "concert",
+        "startDate": "2026-05-23",
+        "endDate": "2026-05-28",
+        "importance": 98,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/bts_world_tour_2026",
+        "ticketUrl": "https://www.ticketmaster.com/allegiant-stadium-tickets-las-vegas/venue/189482",
+        "summary": "BTS brings its ‘ARIRANG’ world tour to Allegiant Stadium for four confirmed Las Vegas stadium shows on May 23, 24, 27, and 28, 2026. The stadium’s official event page lists all four dates at 8:00 PM.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-hardwell-maddix-edc-week-2026",
+        "title": "EDC Week: Hardwell B2B Maddix",
+        "type": "club-night",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-14",
+        "importance": 88,
+        "venueName": "Downtown Las Vegas Events Center",
+        "venueId": null,
+        "sourceUrl": "https://www.edcweek.com/event/hardwell-b2b-maddix/",
+        "ticketUrl": "https://edcweek.frontgatetickets.com/",
+        "summary": "EDC Week stages a large-scale Hardwell B2B Maddix event at Downtown Las Vegas Events Center on May 14, 2026, with Morten and Marie Vaunt also listed on the official lineup.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "las-vegas-armin-dreamstate-edc-week-2026",
+        "title": "EDC Week: Dreamstate presents Armin van Buuren",
+        "type": "club-night",
+        "startDate": "2026-05-14",
+        "endDate": "2026-05-14",
+        "importance": 87,
+        "venueName": "Omnia Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.edcweek.com/event/dreamstate-armin-van-buuren/",
+        "ticketUrl": "https://edcweek.frontgatetickets.com/",
+        "summary": "Dreamstate’s EDC Week event brings Armin van Buuren to Omnia Nightclub on May 14, 2026. The official EDC Week event page confirms the 10:30 PM–4:00 AM club-night slot.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-calvin-harris-edc-week-2026",
+        "title": "EDC Week: Calvin Harris",
+        "type": "beach-club",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 88,
+        "venueName": "Encore Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.edcweek.com/event/calvin-harris/",
+        "ticketUrl": "https://edcweek.frontgatetickets.com/",
+        "summary": "Calvin Harris headlines Encore Beach Club during EDC Week on May 16, 2026. The official EDC Week listing confirms the daytime pool-party window from 11:00 AM to 6:00 PM.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-john-summit-edc-week-2026",
+        "title": "EDC Week: John Summit",
+        "type": "beach-club",
+        "startDate": "2026-05-17",
+        "endDate": "2026-05-17",
+        "importance": 87,
+        "venueName": "LIV Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.edcweek.com/event/john-summit-2026/",
+        "ticketUrl": "https://edcweek.frontgatetickets.com/",
+        "summary": "John Summit plays LIV Beach on May 17, 2026 as part of the official EDC Week calendar. The event is listed as an 11:00 AM–6:00 PM daytime show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-blake-shelton-caesars-2026",
+        "title": "Blake Shelton: Live in Las Vegas",
+        "type": "residency",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-24",
+        "importance": 80,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/blake-shelton-adds-eight-new-dates-colosseum-caesars-palace-may",
+        "ticketUrl": "https://www.ticketmaster.com/explore/blakesheltonvegas",
+        "summary": "Blake Shelton adds eight May 2026 dates to his Caesars Palace residency, running May 6–24 at The Colosseum. Caesars’ official announcement lists shows on May 6, 8, 9, 13, 15, 16, 21, and 24.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-rod-stewart-encore-2026",
+        "title": "Rod Stewart: The Encore Shows Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2026-05-27",
+        "endDate": "2026-06-06",
+        "importance": 79,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://newsroom.caesars.com/press-releases/press-release-details/2025/By-Popular-Demand-Sir-Rod-Stewart-Returning-to-the-Colosseum-at-Caesars-Palace-in-2026--2025-R3FYLrukBz/default.aspx",
+        "ticketUrl": "https://www.ticketmaster.com/rodstewartvegas",
+        "summary": "Rod Stewart returns to The Colosseum at Caesars Palace with ‘The Encore Shows’ beginning May 27, 2026 and continuing into early June. Caesars says the show features his biggest hits plus deep cuts and new production elements.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-cyndi-lauper-caesars-2026",
+        "title": "Cyndi Lauper: Live in Las Vegas",
+        "type": "residency",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-02",
+        "importance": 76,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://cyndilauper.com/cyndi-lauper-live-in-las-vegas/",
+        "ticketUrl": "https://www.ticketmaster.com/cyndi-lauper-tickets/artist/735490?venueId=467930",
+        "summary": "Cyndi Lauper’s first Las Vegas residency continues into May with confirmed shows on May 1 and May 2, 2026 at The Colosseum at Caesars Palace. The official artist announcement describes the run as a special ‘Girls Just Wanna Have Fun’ celebration.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-khalid-ph-live-2026",
+        "title": "Khalid: It’s Always Summer Somewhere Tour",
+        "type": "concert",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-16",
+        "importance": 72,
+        "venueName": "PH Live at Planet Hollywood",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/khalid-its-always-summer-somewhere-tour-las-vegas-nevada-05-16-2026/event/39006385C10ED553",
+        "ticketUrl": "https://www.ticketmaster.com/khalid-its-always-summer-somewhere-tour-las-vegas-nevada-05-16-2026/event/39006385C10ED553",
+        "summary": "Khalid opens his ‘It’s Always Summer Somewhere’ tour at PH Live at Planet Hollywood on May 16, 2026 with Lauv listed on the bill. Ticketmaster confirms the Las Vegas date for 7:30 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-kesha-freedom-tour-2026",
+        "title": "Kesha: The Freedom Tour",
+        "type": "concert",
+        "startDate": "2026-05-29",
+        "endDate": "2026-05-29",
+        "importance": 70,
+        "venueName": "MGM Grand Garden Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kesha-the-freedom-tour-las-vegas-05-29-2026/event/Z7r9jZ1A7-SoK",
+        "ticketUrl": "https://www.ticketmaster.com/kesha-the-freedom-tour-las-vegas-05-29-2026/event/Z7r9jZ1A7-SoK",
+        "summary": "Kesha’s ‘The Freedom Tour’ is listed for MGM Grand Garden Arena on May 29, 2026 at 7:00 PM, with Chromeo and Sizzy Rocket appearing on the tour listing from ticketing sources.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

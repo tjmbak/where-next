@@ -1,0 +1,150 @@
+{
+  "slug": "mexico-city",
+  "month": 10,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:46:36.059Z",
+  "responseId": "resp_071ffb36206c01940069ff6489f53c81a1909cde409e157a8e",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 10,
+    "year": 2026,
+    "notes": "October 2026 is shaping up as a concert-heavy month in Mexico City, with major pop, electronic and indie bookings already ticketed, while most large-format festival lineups remain limited or unannounced.",
+    "events": [
+      {
+        "id": "mexico-city-carlos-sadness-oct-2026",
+        "title": "Carlos Sadness",
+        "type": "concert",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-01",
+        "importance": 70,
+        "venueName": "Lunario Del Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
+        "ticketUrl": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
+        "summary": "Spanish indie-pop artist Carlos Sadness is confirmed for a 9:00 p.m. show at Lunario Del Auditorio Nacional in Ciudad de México.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-robbie-williams-oct-2026",
+        "title": "Robbie Williams",
+        "type": "concert",
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-07",
+        "importance": 88,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/robbie-williams-ciudad-de-mexico-07-10-2026/event/1400644BAAE88864",
+        "ticketUrl": "https://www.ticketmaster.com.mx/robbie-williams-ciudad-de-mexico-07-10-2026/event/1400644BAAE88864",
+        "summary": "Robbie Williams is confirmed for an 8:00 p.m. arena concert at Palacio de los Deportes in Ciudad de México.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-hombres-g-oct-2026",
+        "title": "Hombres G",
+        "type": "concert",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-13",
+        "importance": 82,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-13-10-2026/event/3D00643781BC189F",
+        "ticketUrl": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-13-10-2026/event/3D00643781BC189F",
+        "summary": "Spanish pop-rock veterans Hombres G are confirmed for an 8:30 p.m. performance at Auditorio Nacional in Ciudad de México.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-two-door-cinema-club-oct-2026",
+        "title": "Two Door Cinema Club",
+        "type": "concert",
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-15",
+        "importance": 80,
+        "venueName": "Pepsi Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/two-door-cinema-club-mexico-15-10-2026/event/14006465B2568D0E",
+        "ticketUrl": "https://www.ticketmaster.com.mx/two-door-cinema-club-mexico-15-10-2026/event/14006465B2568D0E",
+        "summary": "Two Door Cinema Club are confirmed for a 9:00 p.m. show at Pepsi Center in CDMX.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-martin-garrix-oct-2026",
+        "title": "Martin Garrix",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 90,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/martin-garrix-ciudad-de-mexico-16-10-2026/event/14006379C09FE01C",
+        "ticketUrl": "https://www.ticketmaster.com.mx/martin-garrix-ciudad-de-mexico-16-10-2026/event/14006379C09FE01C",
+        "summary": "Dutch EDM headliner Martin Garrix is confirmed for an 8:00 p.m. show at Palacio de los Deportes in Ciudad de México.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-jessie-ware-superbloom-oct-2026",
+        "title": "Jessie Ware: The Superbloom Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 84,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-22-10-2026/event/1400646C9883696F",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-22-10-2026/event/1400646C9883696F",
+        "summary": "Jessie Ware brings The Superbloom Tour to Teatro Metropólitan for a confirmed 9:00 p.m. Mexico City concert.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-belako-oct-2026",
+        "title": "Belako",
+        "type": "concert",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 70,
+        "venueName": "Foro Puebla",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/belako-mexico-23-10-2026/event/3D006491A6F559A2",
+        "ticketUrl": "https://www.ticketmaster.com.mx/belako-mexico-23-10-2026/event/3D006491A6F559A2",
+        "summary": "Basque band Belako are confirmed for an 8:30 p.m. concert at Foro Puebla in CDMX.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-hipnosis-festival-oct-2026",
+        "title": "Festival Hipnosis 2026",
+        "type": "festival",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 85,
+        "venueName": "Localización Secreta CDMX",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/497468/",
+        "ticketUrl": "https://feverup.com/m/497468/",
+        "summary": "Festival Hipnosis 2026 is confirmed for October 23–24 in Mexico City, with the ticketing page positioning it as a two-day psychedelic, garage and experimental rock-focused festival.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

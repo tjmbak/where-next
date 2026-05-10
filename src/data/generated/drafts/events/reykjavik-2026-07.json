@@ -1,0 +1,82 @@
+{
+  "slug": "reykjavik",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:50:33.321Z",
+  "responseId": "resp_066d748a114aec820069ffd607857c8197a35d723e5d601bd2",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "reykjavik",
+    "month": 7,
+    "year": 2026,
+    "notes": "Confirmed July listings are still relatively sparse, with Harpa/Hallgrímskirkja summer programming and David Byrne’s arena show standing out among announced dates.",
+    "events": [
+      {
+        "id": "reykjavik-harpa-midday-music-2026",
+        "title": "Midday Music in Harpa",
+        "type": "concert",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-31",
+        "importance": 60,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21498",
+        "ticketUrl": "https://www.harpa.is/en/events/21498",
+        "summary": "Harpa’s July daytime concert series runs from July 2–31 in Eldborg, with Icelandic musicians performing acoustic songs on the Eldborg stage. The source explicitly lists multiple 11:00 and 12:00 performances across the month.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-organ-summer-opening-2026",
+        "title": "With Four Hands & Four Feet — Opening Concert of the Organ Summer",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 62,
+        "venueName": "Hallgrímskirkja",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21528/fjorhent-fjorfaett",
+        "ticketUrl": "https://tix.is/en/event/21528/fjorhent-fjorfaett",
+        "summary": "Hallgrímskirkja organists Björn Steinar Sólbergsson and Steinar Logi Helgason open the Organ Summer series by performing on both the Klais concert organ and Frobenius choir organ. The program includes works by Gigout, Pachelbel, J. B. Bach, Jón Nordal, Ravel and Þorkell Sigurbjörnsson.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-joipe-kroli-2026",
+        "title": "JóiPé X Króli",
+        "type": "concert",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-24",
+        "importance": 70,
+        "venueName": "Háskólabíó",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21400/joipe-x-kroli",
+        "ticketUrl": "https://tix.is/en/event/21400/joipe-x-kroli",
+        "summary": "Icelandic duo JóiPé and Króli perform with their band at Háskólabíó on July 24. The Tix listing confirms the 20:00 show in Háskólabíó - Salur 1.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-david-byrne-2026",
+        "title": "David Byrne — Who Is The Sky? Tour",
+        "type": "concert",
+        "startDate": "2026-07-29",
+        "endDate": "2026-07-29",
+        "importance": 85,
+        "venueName": "Laugardalshöll",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/event/21247/david-byrne",
+        "ticketUrl": "https://tix.is/event/21247/david-byrne",
+        "summary": "David Byrne brings the Who Is The Sky? Tour to Laugardalshöll with Ghost Train Orchestra on July 29. The Tix event page confirms the Reykjavík concert date and 20:00 start time.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

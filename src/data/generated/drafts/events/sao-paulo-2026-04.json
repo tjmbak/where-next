@@ -1,0 +1,212 @@
+{
+  "slug": "sao-paulo",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:50:18.355Z",
+  "responseId": "resp_07494548882e154c0069ff6566db3c81a2a0d16cf4147c8eb2",
+  "searchCalls": 11,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 was unusually packed, with major electronic festivals, stadium pop, legacy rock/metal, and international touring acts clustered across the city.",
+    "events": [
+      {
+        "id": "sao-paulo-d26-festival-2026",
+        "title": "D26 Festival",
+        "type": "festival",
+        "startDate": "2026-04-02",
+        "endDate": "2026-04-02",
+        "importance": 82,
+        "venueName": "Komplexo Tempo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386540",
+        "ticketUrl": "https://ra.co/events/2386540",
+        "summary": "D-Edge’s 26th-anniversary festival took over Komplexo Tempo with more than 50 artists across five stages, including a large-scale electronic program listed by Resident Advisor.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sao-paulo-monsters-of-rock-2026",
+        "title": "Monsters of Rock Brasil 2026",
+        "type": "festival",
+        "startDate": "2026-04-04",
+        "endDate": "2026-04-04",
+        "importance": 93,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://allianzparque.com.br/monsters-of-rock/",
+        "ticketUrl": "https://allianzparque.com.br/monsters-of-rock/",
+        "summary": "The ninth Brazilian edition of Monsters of Rock was confirmed at Allianz Parque, led by Guns N’ Roses with Lynyrd Skynyrd and Halestorm among the announced attractions.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-gop-tun-festival-2026",
+        "title": "Gop Tun Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-12",
+        "importance": 92,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://goptunfestival.com.br/",
+        "ticketUrl": "https://goptunfestival.com.br/",
+        "summary": "Gop Tun Festival’s 2026 edition ran over two days at Pacaembu with daytime and nighttime programming focused on alternative global electronic music.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "sao-paulo-thiaguinho-bem-black-2026",
+        "title": "Thiaguinho: Bem Black",
+        "type": "concert",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-11",
+        "importance": 78,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/thiaguinho-suhai-music-hall",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/thiaguinho-suhai-music-hall",
+        "summary": "Thiaguinho opened his Bem Black tour at Suhai Music Hall, presenting a new album project centered on Brazilian Black music and representation.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sao-paulo-roxette-2026",
+        "title": "Roxette in Concert",
+        "type": "concert",
+        "startDate": "2026-04-14",
+        "endDate": "2026-04-14",
+        "importance": 76,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/roxette-sp-venda-geral",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/roxette-sp-venda-geral",
+        "summary": "Roxette’s São Paulo date was confirmed for Espaço Unimed on April 14, with the show time and ticketing details listed by Ticketmaster Brasil.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-soul-ii-soul-2026",
+        "title": "Soul II Soul + Fernanda Abreu",
+        "type": "concert",
+        "startDate": "2026-04-14",
+        "endDate": "2026-04-14",
+        "importance": 72,
+        "venueName": "Tokio Marine Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/soul-ii-soul-tokio-marine-hall",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/soul-ii-soul-tokio-marine-hall",
+        "summary": "Queremos! presented Soul II Soul at Tokio Marine Hall, with Fernanda Abreu also billed for the São Paulo night.",
+        "genres": [
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-lumineers-automatic-2026",
+        "title": "The Lumineers: The Automatic World Tour",
+        "type": "concert",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-25",
+        "importance": 78,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/the-lumineers",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/the-lumineers",
+        "summary": "The Lumineers brought their Automatic World Tour to São Paulo’s Suhai Music Hall as part of the band’s South American run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-bangers-open-air-2026",
+        "title": "Bangers Open Air 2026",
+        "type": "festival",
+        "startDate": "2026-04-25",
+        "endDate": "2026-04-26",
+        "importance": 88,
+        "venueName": "Memorial da América Latina",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/de/festivals/3695199-bangers-open-air/id/42888348-bangers-open-air-2026",
+        "ticketUrl": null,
+        "summary": "Bangers Open Air returned to Memorial da América Latina for two days of heavy music, with Songkick listing the 2026 festival dates and venue.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-la-lom-2026",
+        "title": "LA LOM | Queremos!",
+        "type": "concert",
+        "startDate": "2026-04-28",
+        "endDate": "2026-04-28",
+        "importance": 70,
+        "venueName": "Casa Natura Musical",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/lalom-queremos-na-casa-natura-musical-sp",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/lalom-queremos-na-casa-natura-musical-sp",
+        "summary": "LA LOM made its Brazil debut in São Paulo with a Queremos! show at Casa Natura Musical, blending cumbia, soul balladry, bolero, and guitar-led instrumental music.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-bad-religion-2026",
+        "title": "Bad Religion",
+        "type": "concert",
+        "startDate": "2026-04-28",
+        "endDate": "2026-04-28",
+        "importance": 76,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/bad-religion",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/bad-religion",
+        "summary": "Bad Religion returned to Brazil for a one-off São Paulo show at Espaço Unimed, with Ticketmaster listing the April 28 performance.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-the-weeknd-after-hours-til-dawn-2026",
+        "title": "The Weeknd: After Hours Til Dawn Stadium Tour",
+        "type": "concert",
+        "startDate": "2026-04-30",
+        "endDate": "2026-04-30",
+        "importance": 96,
+        "venueName": "Estádio MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/the-weeknd",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/the-weeknd",
+        "summary": "The Weeknd’s After Hours Til Dawn Stadium Tour reached São Paulo with Anitta joining the Brazil dates; the April 30 show was the first of two MorumBIS concerts.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sao-paulo-banda-mantiqueira-2026",
+        "title": "Banda Mantiqueira",
+        "type": "concert",
+        "startDate": "2026-04-30",
+        "endDate": "2026-04-30",
+        "importance": 68,
+        "venueName": "The Cavern Club SP",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/banda-mantiqueira-the-cavern-club",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/banda-mantiqueira-the-cavern-club",
+        "summary": "Brazilian big-band institution Banda Mantiqueira played The Cavern Club SP, with Ticketmaster listing the April 30 performance and show time.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "hvar",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:50:42.618Z",
+  "responseId": "resp_04141a0a7abaf9c10069ffd6077fd881a0b1ba6873a7eba348",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 6,
+    "year": 2026,
+    "notes": "Confirmed dated June music listings are currently concentrated in the official 65th Hvar Summer Festival programme.",
+    "events": [
+      {
+        "id": "hvar-hvar-summer-festival-2026",
+        "title": "65th Hvar Summer Festival",
+        "type": "festival",
+        "startDate": "2026-06-21",
+        "endDate": "2026-09-11",
+        "importance": 78,
+        "venueName": "Multiple venues, Hvar",
+        "venueId": null,
+        "sourceUrl": "https://hvarsummerfestival.hr/wp-content/uploads/2026/05/65.-Hvar-Summer-Festival-Program.pdf",
+        "ticketUrl": null,
+        "summary": "The 65th Hvar Summer Festival runs from June 21 to September 11, 2026, with programme listings across Hvar’s main square, theatre, Veneranda Summer Stage and other historic venues. The June programme includes the opening ceremony and a traditional klapa a cappella performance.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-klapa-bodulke-galesnik-2026",
+        "title": "Klapa Bodulke & Klapa Galešnik",
+        "type": "concert",
+        "startDate": "2026-06-29",
+        "endDate": "2026-06-29",
+        "importance": 62,
+        "venueName": "Piazzetta in front of the Church of the Holy Spirit",
+        "venueId": null,
+        "sourceUrl": "https://hvarsummerfestival.hr/wp-content/uploads/2026/05/65.-Hvar-Summer-Festival-Program.pdf",
+        "ticketUrl": null,
+        "summary": "Klapa Bodulke and Klapa Galešnik perform as traditional a cappella ensembles at 21:30 as part of the 65th Hvar Summer Festival. The concert is listed for the piazzetta in front of the Church of the Holy Spirit in Hvar.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

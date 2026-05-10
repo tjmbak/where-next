@@ -1,0 +1,220 @@
+{
+  "slug": "amsterdam",
+  "month": 6,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:55:58.281Z",
+  "responseId": "resp_06166935edef25eb0069ff5894a90481938f82edd9f4ef9a86",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 6,
+    "year": 2026,
+    "notes": "June 2026 in Amsterdam is already anchored by major outdoor electronic festivals, jazz and roots programming, and a run of large Ziggo Dome arena shows.",
+    "events": [
+      {
+        "id": "amsterdam-kaytranada-jun-2026",
+        "title": "KAYTRANADA - EUROPE '26 TOUR",
+        "type": "concert",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-01",
+        "importance": 85,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/kaytranada-tickets/923935?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/kaytranada-tickets/923935?language=en-us",
+        "summary": "KAYTRANADA plays Ziggo Dome on 1 June 2026 with Uncle Waffles listed on the bill. The Amsterdam date is part of his Europe '26 Tour.",
+        "genres": [
+          "electronic",
+          "house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "amsterdam-holland-festival-jun-2026",
+        "title": "Holland Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-03",
+        "endDate": "2026-06-28",
+        "importance": 90,
+        "venueName": "Various Amsterdam venues",
+        "venueId": null,
+        "sourceUrl": "https://www.hollandfestival.nl/en/programme-holland-festival-2026-announced",
+        "ticketUrl": "https://www.hollandfestival.nl/",
+        "summary": "The 79th Holland Festival runs from 3 to 28 June 2026 with 30 productions and 104 performances across 23 venues. Composer and musician Hildur Guðnadóttir is the 2026 associate artist, with music-led projects including Chernobyl, Where To From, Nærmynd and Passing Remark.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-red-light-jazz-jun-2026",
+        "title": "Red Light Jazz 2026",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 80,
+        "venueName": "Various Red Light District venues",
+        "venueId": null,
+        "sourceUrl": "https://redlightjazz.com/en/program/",
+        "ticketUrl": "https://redlightjazz.com/en/tickets/",
+        "summary": "Red Light Jazz 2026 runs across 5, 6 and 7 June with performances throughout Amsterdam's Red Light District. The listed programme includes artists such as Mark Beebe Trio, ACHHA, Chocos and Red Light Jazz Dinner feat. DJ + New Cool Collective.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-909-festival-jun-2026",
+        "title": "909 Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 94,
+        "venueName": "Amsterdamse Bos",
+        "venueId": null,
+        "sourceUrl": "https://www.909.nl/",
+        "ticketUrl": "https://www.909.nl/",
+        "summary": "909 Festival returns to Amsterdamse Bos on 6 and 7 June 2026. Confirmed names include Adam Beyer, Anfisa Letyago, Fjaak x KiNK live, Mall Grab, Ben Böhmer live, Eric Prydz, Jeff Mills and Kevin Saunderson.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-amsterdam-open-air-jun-2026",
+        "title": "Amsterdam Open Air 2026",
+        "type": "festival",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 88,
+        "venueName": "Gaasperpark",
+        "venueId": null,
+        "sourceUrl": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/amsterdam-open-air",
+        "ticketUrl": "https://shop.amsterdamopenair.com",
+        "summary": "Amsterdam Open Air is confirmed at Gaasperpark on 6 and 7 June 2026. The city listing describes the two-day festival as a reflection of Amsterdam nightlife, spanning house, techno, disco, hip-hop and electro.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-fka-twigs-jun-2026",
+        "title": "FKA twigs: BODY HIGH TOUR",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 84,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/fka-twigs-tickets/945327?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/fka-twigs-tickets/945327?language=en-us",
+        "summary": "FKA twigs brings the BODY HIGH TOUR to Ziggo Dome on 6 June 2026. Yves Tumor is listed as support on the Ticketmaster event page.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-further-anniversary-jun-2026",
+        "title": "DJ Bone presents: FURTHER 6th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 75,
+        "venueName": "RADION",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431848",
+        "ticketUrl": "https://ra.co/events/2431848",
+        "summary": "DJ Bone's FURTHER marks its 6th anniversary at RADION on 6 June 2026. The RA listing confirms DJ Bone b2b Zack Fox, Ellaweeez and residents for a 23:00-07:00 night session.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "amsterdam-iron-maiden-jun-2026",
+        "title": "Iron Maiden - Run For Your Live World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-10",
+        "importance": 87,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/iron-maiden-tickets/1225?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/iron-maiden-tickets/1225?language=en-us",
+        "summary": "Iron Maiden plays Ziggo Dome on 10 June 2026 on the Run For Your Live World Tour 2026. Evergrey is confirmed as support.",
+        "genres": []
+      },
+      {
+        "id": "amsterdam-doja-cat-jun-2026",
+        "title": "Doja Cat - Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 88,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/doja-cat-tickets/952622?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/doja-cat-tickets/952622?language=en-us",
+        "summary": "Doja Cat performs at Ziggo Dome on 12 June 2026 as part of the Tour Ma Vie World Tour. Ticketmaster lists the Amsterdam concert at 20:00.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-guns-n-roses-jun-2026",
+        "title": "Guns N' Roses - World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-20",
+        "importance": 90,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/guns-n-roses-tickets/1813?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/guns-n-roses-tickets/1813?language=en-us",
+        "summary": "Guns N' Roses have two confirmed Ziggo Dome shows on 18 and 20 June 2026. Mammoth is listed on the lineup for the Amsterdam dates.",
+        "genres": []
+      },
+      {
+        "id": "amsterdam-mystic-garden-echos-jun-2026",
+        "title": "Mystic Garden: Echo's of Amsterdam",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 80,
+        "venueName": "Sloterpark",
+        "venueId": null,
+        "sourceUrl": "https://www.mysticgardenfestival.nl/",
+        "ticketUrl": "https://shop.echosofamsterdam.nl",
+        "summary": "Mystic Garden lists Echo's of Amsterdam for 20 June 2026 at Sloterpark, Amsterdam. The event is presented as its summer edition, with tickets on sale via the official site.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-roots-festival-jun-2026",
+        "title": "Amsterdam Roots Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 75,
+        "venueName": "Oosterpark",
+        "venueId": null,
+        "sourceUrl": "https://activiteiten.amsterdam.nl/evenementenbureau/activiteiten/2026/06/amsterdam-roots-festival-2026/",
+        "ticketUrl": null,
+        "summary": "Amsterdam Roots Festival is confirmed for 28 June 2026 from 13:00 to 23:00. The City of Amsterdam describes it as an event where artists and makers from around the world share cultural backgrounds through music, dance, circus and theatre.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

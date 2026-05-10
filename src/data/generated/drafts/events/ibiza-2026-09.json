@@ -1,0 +1,227 @@
+{
+  "slug": "ibiza",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T15:46:04.122Z",
+  "responseId": "resp_07643fd17c3f611b0069ff56380b9081a2917bb94d1cc23158",
+  "searchCalls": 14,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 9,
+    "year": 2026,
+    "notes": null,
+    "events": [
+      {
+        "id": "ibiza-circoloco-dc10-sep-2026",
+        "title": "Circoloco Ibiza - Week 22",
+        "type": "club-night",
+        "startDate": "2026-09-21",
+        "endDate": "2026-09-21",
+        "importance": 94,
+        "venueName": "DC10 Ibiza",
+        "venueId": "dc10",
+        "sourceUrl": "https://ra.co/events/2400975",
+        "ticketUrl": "https://ra.co/events/2400975",
+        "summary": "Circoloco’s Monday underground session returns to DC10 for Week 22 of its 2026 Ibiza season. The event is listed for Monday, September 21, 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-black-coffee-hi-sep-2026",
+        "title": "Black Coffee at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 92,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-09-12",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/black-coffee/2026-09-12",
+        "summary": "Black Coffee headlines the Theatre at Hï Ibiza on Saturday, September 12, with Mahmut Orhan and Kasango also listed. The Club Room hosts Más Tiempo with Skepta, SG Lewis and Arielle Free.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-swedish-house-mafia-ushuaia-sep-2026",
+        "title": "Swedish House Mafia at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 92,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia-on-2026-09-13",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/swedish-house-mafia-on-2026-09-13",
+        "summary": "Swedish House Mafia play Ushuaïa Ibiza on Sunday, September 13, the final date of their 2026 Sunday residency. The official listing names Swedish House Mafia with additional artists TBA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-solomun-plus-one-pacha-sep-2026",
+        "title": "Solomun+1 at Pacha Ibiza",
+        "type": "residency",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 91,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/solomun1-13-09-2026",
+        "ticketUrl": "https://pacha.com/event/solomun1-13-09-2026",
+        "summary": "Solomun+1 takes over Pacha Ibiza on Sunday, September 13, with Solomun and DESIREE listed. The long-running Sunday concept is part of the 2026 season running from May 31 to October 4.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-calvin-harris-ushuaia-sep-2026",
+        "title": "Calvin Harris at Ushuaïa Ibiza",
+        "type": "residency",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 90,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-09-11",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/calvin-harris-on-2026-09-11",
+        "summary": "Calvin Harris headlines Ushuaïa Ibiza on Friday, September 11, with MK and Tyson O’Brien listed. The date is part of Harris’s 2026 dual weekly residency at the open-air venue.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-anyma-unvrs-closing-sep-2026",
+        "title": "Anyma ÆDEN Closing Party at [UNVRS]",
+        "type": "residency",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 90,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/anyma/15-09-2026",
+        "ticketUrl": "https://www.unvrs.com/events/2026/anyma/15-09-2026",
+        "summary": "Anyma closes his ÆDEN residency at [UNVRS] on Tuesday, September 15. The official lineup lists Anyma plus Cassian B2B Kevin de Vries, Colyn B2B Innellea and Agents of Time.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-carl-cox-unvrs-sep-2026",
+        "title": "Carl Cox at [UNVRS]",
+        "type": "residency",
+        "startDate": "2026-09-20",
+        "endDate": "2026-09-20",
+        "importance": 90,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/carl-cox/20-09-2026",
+        "ticketUrl": "https://www.unvrs.com/events/2026/carl-cox/20-09-2026",
+        "summary": "Carl Cox’s Sunday residency at [UNVRS] continues on September 20. The official lineup includes Carl Cox, Dennis Cruz, Loco Dice, Mita Gami, karretero, PAUZA, Wild Comet and melon bomb.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-david-guetta-fmif-ushuaia-sep-2026",
+        "title": "F*** Me I’m Famous! by David Guetta",
+        "type": "residency",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-07",
+        "importance": 89,
+        "venueName": "Ushuaïa Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.theushuaiaexperience.com/en/club/events/f-me-im-famous-by-david-guetta-on-2026-09-07",
+        "ticketUrl": "https://www.theushuaiaexperience.com/en/club/events/f-me-im-famous-by-david-guetta-on-2026-09-07",
+        "summary": "David Guetta brings F*** Me I’m Famous! to Ushuaïa Ibiza on Monday, September 7. The listed lineup includes David Guetta, Oliver Heldens, DJs From Mars and Paul Reynolds.",
+        "genres": [
+          "house",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-camelphat-hi-sep-2026",
+        "title": "CamelPhat Present Summer of Love",
+        "type": "residency",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 88,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://www.hiibiza.com/events/2026/camelphat/2026-09-18",
+        "ticketUrl": "https://www.hiibiza.com/events/2026/camelphat/2026-09-18",
+        "summary": "CamelPhat’s Summer of Love runs at Hï Ibiza on Friday, September 18. The Theatre lineup lists CamelPhat, Jimi Jules and Samm B2B Ajna, with Ewan McVicar, Skream and MPH in the Club Room.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-music-on-pacha-sep-2026",
+        "title": "Marco Carola Presents Music On",
+        "type": "residency",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 87,
+        "venueName": "Pacha Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://pacha.com/event/marco-carola-presents-music-on-25-09-2026",
+        "ticketUrl": "https://pacha.com/event/marco-carola-presents-music-on-25-09-2026",
+        "summary": "Music On returns to Pacha Ibiza on Friday, September 25, led by Marco Carola. The lineup lists Marco Carola, Seth Troxler, Ilario Alicante, Chelina Manuhutu, Neverdogs and Leon.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-asot-unvrs-sep-2026",
+        "title": "Armin van Buuren presents A State Of Trance",
+        "type": "residency",
+        "startDate": "2026-09-21",
+        "endDate": "2026-09-21",
+        "importance": 86,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://www.unvrs.com/events/2026/armin-van-buuren-asot/21-09-2026",
+        "ticketUrl": "https://www.unvrs.com/events/2026/armin-van-buuren-asot/21-09-2026",
+        "summary": "Armin van Buuren presents A State Of Trance at [UNVRS] on Monday, September 21. The official listing bills Armin van Buuren for a special five-hour set as part of the September-to-October residency.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-godskitchen-amnesia-sep-2026",
+        "title": "Godskitchen at Amnesia Ibiza",
+        "type": "club-night",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 84,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.amnesia.es/en/party-info/godskitchen",
+        "ticketUrl": "https://www.amnesia.es/en/party-info/godskitchen",
+        "summary": "Godskitchen returns to Amnesia Ibiza on Saturday, September 26, during the club’s 50th-anniversary year. The official lineup lists Ferry Corsten, John O’Callaghan, Lisa Lashes, Paul van Dyk, Tall Paul and others across the Discotheque and Terrace.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "slug": "los-angeles",
+  "month": 4,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:07:40.940Z",
+  "responseId": "resp_05da6dfc7063aba50069ff5b2df06081a3a0bc1fc8c962e006",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 4,
+    "year": 2026,
+    "notes": "April 2026 was anchored by Coachella season, with Goldenvoice/Framework club programming in Hollywood and major stadium-scale shows around Los Angeles.",
+    "events": [
+      {
+        "id": "los-angeles-ye-sofi-2026",
+        "title": "Ye: Live in Los Angeles",
+        "type": "concert",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-03",
+        "importance": 88,
+        "venueName": "SoFi Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/0A006466ABD1824A",
+        "ticketUrl": "https://www.ticketmaster.com/event/0A006466ABD1824A",
+        "summary": "Ye headlined a one-night Los Angeles-area stadium concert at SoFi Stadium in Inglewood. The Ticketmaster listing confirmed the April 3, 2026 date and 7:00 PM start.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-freedom-la-2026",
+        "title": "Freedom LA Japanese Music Festival",
+        "type": "festival",
+        "startDate": "2026-04-03",
+        "endDate": "2026-04-05",
+        "importance": 70,
+        "venueName": "OC Fair & Event Center",
+        "venueId": null,
+        "sourceUrl": "https://freedom-la.com/",
+        "ticketUrl": "https://freedom-la.eventbrite.com/",
+        "summary": "Freedom LA ran April 3–5, 2026 at The Hangar inside OC Fair & Event Center in Costa Mesa. The official schedule listed MINMI, NAOTO INTI RAYMI, Genki Iwahashi and other Japanese music/culture programming.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-coachella-2026",
+        "title": "Coachella Valley Music and Arts Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-19",
+        "importance": 100,
+        "venueName": "Coachella Valley Music and Arts Festival",
+        "venueId": "coachella",
+        "sourceUrl": "https://www.coachella.com/lineup/",
+        "ticketUrl": "https://www.coachella.com/passes/",
+        "summary": "Coachella’s official lineup page confirmed the 2026 weekends as April 10–12 and April 17–19. The festival lineup was led by Sabrina Carpenter, Justin Bieber and Karol G alongside a broad pop, electronic, hip-hop and global bill.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-adam-beyer-sound-2026",
+        "title": "7 Days of Framework: Adam Beyer",
+        "type": "club-night",
+        "startDate": "2026-04-10",
+        "endDate": "2026-04-10",
+        "importance": 78,
+        "venueName": "Sound Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.soundnightclub.com/events/adam-beyer/",
+        "ticketUrl": "https://www.soundnightclub.com/events/adam-beyer/",
+        "summary": "Sound Nightclub’s official event page confirmed Adam Beyer for Friday, April 10 as part of 7 Days of Framework. Tara Brooks was also listed on the bill.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-goldenvoice-surf-club-2026",
+        "title": "Goldenvoice Surf Club 2026",
+        "type": "beach-club",
+        "startDate": "2026-04-11",
+        "endDate": "2026-04-19",
+        "importance": 84,
+        "venueName": "Palm Springs Surf Club",
+        "venueId": null,
+        "sourceUrl": "https://www.gvsurfclub.com/",
+        "ticketUrl": "https://www.gvsurfclub.com/",
+        "summary": "Goldenvoice Surf Club returned to Palm Springs Surf Club across Coachella weekends, April 11–12 and April 18–19. The daytime electronic pool-and-surf series featured festival DJs in the amphitheater alongside resort-style pool programming.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-joost-klein-fonda-2026",
+        "title": "Joost Klein",
+        "type": "concert",
+        "startDate": "2026-04-15",
+        "endDate": "2026-04-15",
+        "importance": 76,
+        "venueName": "The Fonda Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/joost-klein-los-angeles-04-15-2026/event/Z7r9jZ1A7--Ff",
+        "ticketUrl": "https://www.ticketmaster.com/joost-klein-los-angeles-04-15-2026/event/Z7r9jZ1A7--Ff",
+        "summary": "Ticketmaster confirmed Joost Klein at The Fonda Theatre on Wednesday, April 15, 2026 at 8:00 PM. The show was part of the Coachella-adjacent Goldenvoice Presents April run in Los Angeles.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-noga-erez-el-rey-2026",
+        "title": "Noga Erez",
+        "type": "concert",
+        "startDate": "2026-04-15",
+        "endDate": "2026-04-15",
+        "importance": 73,
+        "venueName": "El Rey Theatre",
+        "venueId": null,
+        "sourceUrl": "https://press.atlanticrecords.com/sites/g/files/g2000014001/files/2026-03/Noga%20Erez%20-%20_STUCK%20IN%20HEAVEN_%20-%203.27.26.pdf",
+        "ticketUrl": null,
+        "summary": "Noga Erez’s official Atlantic Records press release listed a sold-out April 15, 2026 show at El Rey in Los Angeles. The date supported her 2026 live schedule around Coachella season.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-prospa-riordan-sound-2026",
+        "title": "Goldenvoice + Framework Present Prospa & Riordan",
+        "type": "club-night",
+        "startDate": "2026-04-15",
+        "endDate": "2026-04-15",
+        "importance": 74,
+        "venueName": "Sound Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1335613/prospa-riordan-tickets",
+        "ticketUrl": "https://www.axs.com/events/1335613/prospa-riordan-tickets",
+        "summary": "AXS confirmed Prospa & Riordan at Sound Nightclub on Wednesday, April 15, 2026 at 10:00 PM. The listing identified Goldenvoice + Framework as presenters for the 21+ event.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-tomora-el-rey-2026",
+        "title": "TOMORA",
+        "type": "concert",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-16",
+        "importance": 78,
+        "venueName": "El Rey Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1333663/tomora-tickets",
+        "ticketUrl": "https://www.axs.com/events/1333663/tomora-tickets",
+        "summary": "AXS confirmed TOMORA at El Rey Theatre on Thursday, April 16, 2026 at 8:00 PM. KCRW described TOMORA as the collaboration between Tom Rowlands of The Chemical Brothers and AURORA.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-dimension-sound-2026",
+        "title": "Dimension",
+        "type": "club-night",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-16",
+        "importance": 77,
+        "venueName": "Sound Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1038067364-dimension-at-sound-nightclub",
+        "ticketUrl": "https://www.bandsintown.com/e/1038067364-dimension-at-sound-nightclub",
+        "summary": "Bandsintown confirmed Dimension at Sound Nightclub on April 16, 2026 at 10:00 PM PDT. The listing placed the UK drum-and-bass/electronic artist at the Hollywood club during Goldenvoice’s April week.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-joezi-sound-2026",
+        "title": "Joezi and Bun Xapa",
+        "type": "club-night",
+        "startDate": "2026-04-18",
+        "endDate": "2026-04-18",
+        "importance": 74,
+        "venueName": "Sound Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43056467-joezi-at-sound-nightclub",
+        "ticketUrl": "https://www.songkick.com/concerts/43056467-joezi-at-sound-nightclub",
+        "summary": "Songkick confirmed Joezi and Bun Xapa at Sound Nightclub on Saturday, April 18, 2026, with doors at 10:00 PM. The booking brought afro-house and melodic club sounds to Hollywood during Coachella weekend two.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-stagecoach-2026",
+        "title": "Stagecoach Festival 2026",
+        "type": "festival",
+        "startDate": "2026-04-24",
+        "endDate": "2026-04-26",
+        "importance": 95,
+        "venueName": "Empire Polo Club",
+        "venueId": null,
+        "sourceUrl": "https://www.goldenvoice.com/festivals/",
+        "ticketUrl": "https://www.stagecoachfestival.com/",
+        "summary": "Goldenvoice’s festival page confirmed Stagecoach for April 24–26, 2026 at the same Indio desert grounds as Coachella. The country-focused festival was led by Cody Johnson, Lainey Wilson and Post Malone, with additional crossover acts across the weekend.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

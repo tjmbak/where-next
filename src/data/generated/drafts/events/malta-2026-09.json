@@ -1,0 +1,153 @@
+{
+  "slug": "malta",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:26:22.072Z",
+  "responseId": "resp_0472657a5fc1a9b10069ff5fe202ac81948c0cce77e72cdf06",
+  "searchCalls": 10,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 in Malta is anchored by destination-festival weekends spanning drum and bass, R&B, dancehall, house and Desi pop.",
+    "events": [
+      {
+        "id": "malta-breaking-borders-sep-2026",
+        "title": "Breaking Borders 2026",
+        "type": "festival",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-06",
+        "importance": 86,
+        "venueName": "Various Venues, Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/breaking-borders-tickets/artist/5539264",
+        "ticketUrl": "https://www.breakingbordersmalta.com/book-tickets",
+        "summary": "The Desi destination festival returns to Malta with Karan Aujla, AP Dhillon, Jasmine Sandlas, Miss Pooja, Panjabi MC, Sukha, The PropheC and more listed on Ticketmaster.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-wah-malta-sep-2026",
+        "title": "WAH Malta 2026",
+        "type": "festival",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-06",
+        "importance": 84,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/wah-malta-2026/",
+        "ticketUrl": "https://wah-malta.com/",
+        "summary": "Worried About Henry brings a three-day drum and bass takeover to UNO Malta, with Hedex, Hybrid Minds, Shy FX, Wilkinson, Camo & Krooked b2b Mefjus and Kings of the Rollers named by the venue.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-rnb-slow-jams-sep-2026",
+        "title": "RNB & Slow Jams Malta 2026",
+        "type": "festival",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-14",
+        "importance": 74,
+        "venueName": "Bora Bora Ibiza Malta Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.slowjamsmalta.com/",
+        "ticketUrl": "https://www.slowjamsmalta.com/",
+        "summary": "RnB & Slow Jams returns to Malta for a third edition, billed as five nights of sun, sea and R&B from Wednesday 9 to Monday 14 September 2026.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "malta-freedom-street-europe-sep-2026",
+        "title": "Freedom Street Europe 2026",
+        "type": "festival",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-13",
+        "importance": 86,
+        "venueName": "Various Venues, Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/freedom-street-europe-tickets/artist/5549324",
+        "ticketUrl": "https://www.freedomstreeteu.com/book-tickets",
+        "summary": "Freedom Street Europe returns to Malta for a four-day dancehall and Caribbean-culture takeover, with Vybz Kartel vs Mavado listed across the Gaza vs Gully nights.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-liquid-spirit-gozo-sep-2026",
+        "title": "Liquid Spirit Gozo 2026: Legacy and Love",
+        "type": "festival",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-15",
+        "importance": 70,
+        "venueName": "Gozo Island",
+        "venueId": null,
+        "sourceUrl": "https://www.liquidspiritgozo.com/",
+        "ticketUrl": "https://www.liquidspiritgozo.com/tickets",
+        "summary": "Liquid Spirit Gozo is a boutique dance music festival across Gozo settings, focused on soulful music, vocal and deep house, R&B, funk, boogie and classic house.",
+        "genres": [
+          "house",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-rock-4-hope-i-pooh-sep-2026",
+        "title": "Rock 4 Hope 2026: I POOH",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 62,
+        "venueName": "Malta Fairs & Conventions Centre (MFCC)",
+        "venueId": null,
+        "sourceUrl": "https://eventworks.mt/rock-4-hope-2026",
+        "ticketUrl": "https://eventworks.mt/rock-4-hope-2026",
+        "summary": "Italian group I POOH play live at Malta Fairs & Conventions Centre as part of Rock 4 Hope 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-fuse-malta-sep-2026",
+        "title": "FUSE Malta 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-20",
+        "importance": 76,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/fuse-malta-2026/",
+        "ticketUrl": "https://www.fusemalta.com/",
+        "summary": "FUSE Malta returns for three days of music, sun and sea, transforming multiple island locations into an immersive sound-focused festival weekend.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-forward-motion-sep-2026",
+        "title": "Forward Motion Malta 2026: On the Rock Festival",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-28",
+        "importance": 72,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
+        "ticketUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
+        "summary": "Forward Motion returns to Malta with On the Rock Festival, a four-day programme of deep, soulful and bumpy house across open-air island venues and boat parties.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

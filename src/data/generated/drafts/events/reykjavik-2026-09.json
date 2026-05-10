@@ -1,0 +1,166 @@
+{
+  "slug": "reykjavik",
+  "month": 9,
+  "year": 2026,
+  "generatedAt": "2026-05-10T00:52:30.597Z",
+  "responseId": "resp_0697b34cca801c4f0069ffd659746081a1b404537bfd3f673f",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "reykjavik",
+    "month": 9,
+    "year": 2026,
+    "notes": "September 2026 is anchored by experimental/electronic festival Extreme Chill, the Vaka folk gathering, and several large Icelandic pop/hip-hop anniversary shows.",
+    "events": [
+      {
+        "id": "reykjavik-extreme-chill-sep-2026",
+        "title": "Extreme Chill Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-06",
+        "importance": 85,
+        "venueName": "Downtown Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://www.midix.is/en/extreme-chill-festival-2026-festival-pass/eid/1030",
+        "ticketUrl": "https://www.midix.is/en/extreme-chill-festival-2026-festival-pass/eid/1030",
+        "summary": "Extreme Chill returns to Reykjavík for its 17th year, focusing on experimental, electronic and ambient music across four days in the city center.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-mania-abba-harpa-2026",
+        "title": "Mania: The ABBA Tribute",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 70,
+        "venueName": "Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://tix.is/en/event/20369/mania-the-abba-tribute",
+        "ticketUrl": "https://tix.is/en/event/20369/mania-the-abba-tribute",
+        "summary": "The touring ABBA tribute show Mania plays Eldborg at Harpa, presenting a full-band recreation of ABBA’s hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-sycamore-tree-harpa-2026",
+        "title": "Sycamore Tree / 10 ára afmælistónleikar",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 68,
+        "venueName": "Harpa Concert Hall and Conference Centre",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.shazam.com/event/f1edeb5c-db1f-4a35-a6a5-fc32a038bfa7",
+        "ticketUrl": null,
+        "summary": "Icelandic duo Sycamore Tree mark their 10th anniversary with a Harpa concert listed for 20:00 on September 4, 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-joep-beving-liminal-2026",
+        "title": "Joep Beving - Liminal Tour",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 78,
+        "venueName": "Fríkirkjan í Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21248/joep-beving-liminal-tour",
+        "ticketUrl": "https://tix.is/en/event/21248/joep-beving-liminal-tour",
+        "summary": "Dutch pianist and composer Joep Beving brings his Liminal Tour to Fríkirkjan í Reykjavík, with Sóley Stefánsdóttir listed as special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-vaka-folk-festival-2026",
+        "title": "Vaka Folk Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-14",
+        "endDate": "2026-09-20",
+        "importance": 74,
+        "venueName": "Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://www.vakareykjavik.is/abouteng",
+        "ticketUrl": null,
+        "summary": "Vaka Traditional Folk Arts Association confirms its annual flagship Vaka Folk Festival will be held in Reykjavík from September 14–20, 2026.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-magnus-johann-30-2026",
+        "title": "Magnús Jóhann 30 ára - Stórtónleikar í Háskólabíó",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 76,
+        "venueName": "Háskólabíó",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21320/magnus-johann-30-ara-stortonleikar-i-haskolabio",
+        "ticketUrl": "https://tix.is/en/event/21320/magnus-johann-30-ara-stortonleikar-i-haskolabio",
+        "summary": "Pianist and composer Magnús Jóhann Ragnarsson celebrates his 30th birthday and 10 years since his debut solo album with a large Háskólabíó concert featuring collaborators including GDRN and jazz guests.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-quarashi-laugardalsholl-2026",
+        "title": "Quarashi",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 88,
+        "venueName": "Laugardalshöll",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21161/quarashi",
+        "ticketUrl": "https://tix.is/en/event/21161/quarashi",
+        "summary": "Quarashi celebrate their 30th anniversary with a major Laugardalshöll concert, promising their best-known songs and special guests from the band’s career.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-shrek-rave-gamla-bio-2026",
+        "title": "Shrek Rave Is Coming To Reykjavík",
+        "type": "club-night",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 65,
+        "venueName": "Gamla bíó",
+        "venueId": null,
+        "sourceUrl": "https://www.gamlabio.is/vidburdir",
+        "ticketUrl": "https://likeit-loveit.com/us/events/shrek-rave-gamla-bio-334/",
+        "summary": "The touring Shrek Rave party comes to Gamla bíó with DJs playing dance music, party tracks and Shrek-themed remixes from 20:00 to 01:00.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "reykjavik-aron-can-10-ar-2026",
+        "title": "Aron Can - 10 ár á einu kvöldi",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 84,
+        "venueName": "Laugardalshöll",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/is/event/21002%2Faron-can-10-ar-a-einu-kvoldi",
+        "ticketUrl": "https://tix.is/is/event/21002%2Faron-can-10-ar-a-einu-kvoldi",
+        "summary": "Icelandic rapper Aron Can marks 10 years since his first album Þekkir Stráginn with one major anniversary concert at Laugardalshöll.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

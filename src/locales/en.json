@@ -1,0 +1,22 @@
+{
+  "nav.methodology": "methodology",
+  "nav.joinWaitlist": "join waitlist",
+  "nav.signIn": "sign in",
+  "nav.backToMap": "back to map",
+  "hero.title.lead": "Where should",
+  "hero.title.you": "you go next",
+  "hero.subtitle": "Festivals, club seasons, and cultural moments worth flying for — curated city by city, month by month.",
+  "drop.eyebrow": "the drop",
+  "drop.title": "Where to go this {{month}}.",
+  "drop.subtitle": "Five places that line up with your scenes, regions, and budget. Curated, not scraped.",
+  "drop.unsubscribe": "unsubscribe",
+  "drop.tunePreferences": "tune preferences",
+  "concierge.eyebrow": "concierge",
+  "concierge.title": "One brief. One trip. Fully planned.",
+  "membership.eyebrow": "where next pro",
+  "membership.title": "Move first when it matters.",
+  "trips.share.copy": "copy link",
+  "trips.share.copied": "link copied",
+  "trips.share.x": "share on x ↗",
+  "trips.share.whatsapp": "whatsapp ↗"
+}

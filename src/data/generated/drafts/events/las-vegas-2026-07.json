@@ -1,0 +1,162 @@
+{
+  "slug": "las-vegas",
+  "month": 7,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:34:36.224Z",
+  "responseId": "resp_08704390a47e95d00069ff61abb73c81909f503b759a3c3f47",
+  "searchCalls": 15,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 7,
+    "year": 2026,
+    "notes": "July 2026 is anchored by Sphere residencies and Fourth of July weekend arena/stadium plays, with major pop, EDM, Latin, country and hip-hop bookings confirmed.",
+    "events": [
+      {
+        "id": "las-vegas-illenium-odyssey-2026",
+        "title": "ILLENIUM Presents ODYSSEY at Sphere",
+        "type": "concert",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-04",
+        "importance": 92,
+        "venueName": "Sphere at The Venetian Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/entertainment/illenium.html",
+        "ticketUrl": "https://www.venetianlasvegas.com/entertainment/illenium.html",
+        "summary": "ILLENIUM brings ODYSSEY to Sphere for a two-night Fourth of July weekend run supporting his album of the same name. The Venetian/Sphere listing confirms the July 3–4, 2026 dates.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-fuerza-regida-2026",
+        "title": "Fuerza Regida: This Is Our Dream Stadium Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 85,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/fuerza_regida_this_is_our_dream_tour_2026",
+        "ticketUrl": "https://www.allegiantstadium.com/events/detail/fuerza_regida_this_is_our_dream_tour_2026",
+        "summary": "Fuerza Regida’s This Is Our Dream Stadium Tour is confirmed for Allegiant Stadium on Friday, July 10, 2026. The venue lists the show time as 9:00 PM.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-kenny-chesney-sphere-2026",
+        "title": "Kenny Chesney Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 86,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
+        "ticketUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
+        "summary": "Kenny Chesney’s Sphere run continues into July, with Ticketmaster listing a confirmed Saturday, July 11, 2026 performance at 8:00 PM. This is a representative confirmed July date from the residency listing.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-backstreet-boys-sphere-2026",
+        "title": "Backstreet Boys: Into The Millennium",
+        "type": "residency",
+        "startDate": "2026-07-16",
+        "endDate": "2026-07-16",
+        "importance": 88,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/media/news-releases/2026/03-16-backstreet-boys-reveal-final-summer-2026-dates-for-into-the-millennium-sphere-residency.html",
+        "ticketUrl": "https://www.venetianlasvegas.com/media/news-releases/2026/03-16-backstreet-boys-reveal-final-summer-2026-dates-for-into-the-millennium-sphere-residency.html",
+        "summary": "Backstreet Boys return to Sphere with Into The Millennium, with the Venetian/Live Nation announcement listing July 16, 17, 18, 23, 24, 25, 30 and 31 among the summer 2026 dates. July 16 is used as the representative confirmed July performance.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-kelly-clarkson-studio-sessions-2026",
+        "title": "Kelly Clarkson: Studio Sessions – The Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 86,
+        "venueName": "The Colosseum at Caesars Palace",
+        "venueId": null,
+        "sourceUrl": "https://newsroom.caesars.com/press-releases/press-release-details/2025/Kelly-Clarkson-Announces-New-2026-Dates-For-Las-Vegas-Residency-At-The-Colosseum-At-Caesars-Palace-2025-wMQzZoIo-H/default.aspx",
+        "ticketUrl": "https://newsroom.caesars.com/press-releases/press-release-details/2025/Kelly-Clarkson-Announces-New-2026-Dates-For-Las-Vegas-Residency-At-The-Colosseum-At-Caesars-Palace-2025-wMQzZoIo-H/default.aspx",
+        "summary": "Kelly Clarkson’s Studio Sessions residency returns to The Colosseum at Caesars Palace, with Caesars listing July 17, 18, 24, 25 and 31, 2026 performances. July 17 is used as the representative confirmed July date.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-ed-sheeran-loop-2026",
+        "title": "Ed Sheeran: LOOP Tour",
+        "type": "concert",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 90,
+        "venueName": "Allegiant Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/ed-sheeran-loop-2026",
+        "ticketUrl": "https://www.allegiantstadium.com/events/detail/ed-sheeran-loop-2026",
+        "summary": "Ed Sheeran brings the LOOP Tour to Allegiant Stadium on Saturday, July 18, 2026. Allegiant Stadium confirms the date, 5:30 PM start time, and support from Myles Smith, Sigrid and Aaron Rowe.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-new-kids-right-stuff-2026",
+        "title": "New Kids on The Block: The Right Stuff Las Vegas Residency 2026",
+        "type": "residency",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-01",
+        "importance": 80,
+        "venueName": "Dolby Live at Park MGM",
+        "venueId": null,
+        "sourceUrl": "https://parkmgm.mgmresorts.com/en/entertainment/new-kids-on-the-block.html",
+        "ticketUrl": "https://parkmgm.mgmresorts.com/en/entertainment/new-kids-on-the-block.html",
+        "summary": "New Kids on The Block’s The Right Stuff residency is confirmed at Dolby Live with July 1, 3 and 4, 2026 dates. July 1 is used as the representative confirmed July performance.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-don-toliver-octane-2026",
+        "title": "Don Toliver: Octane Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-03",
+        "importance": 78,
+        "venueName": "MGM Grand Garden Arena",
+        "venueId": null,
+        "sourceUrl": "https://mgmgrand.mgmresorts.com/en/entertainment/don-toliver.html",
+        "ticketUrl": "https://mgmgrand.mgmresorts.com/en/entertainment/don-toliver.html",
+        "summary": "Don Toliver’s Octane Tour is confirmed for MGM Grand Garden Arena on Friday, July 3, 2026. MGM lists doors at 6:30 PM and show time at 7:30 PM.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-totally-tubular-festival-2026",
+        "title": "Totally Tubular Festival",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 70,
+        "venueName": "The Pool at SAHARA Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/totally-tubular-festival-las-vegas-nevada-07-25-2026/event/17006491DDD8EDEF",
+        "ticketUrl": "https://www.ticketmaster.com/totally-tubular-festival-las-vegas-nevada-07-25-2026/event/17006491DDD8EDEF",
+        "summary": "Totally Tubular Festival is confirmed for Saturday, July 25, 2026 at The Pool at SAHARA Las Vegas. Ticketmaster lists Thomas Dolby and the Lost Toy People, A Flock of Seagulls, The Motels, The Producers, Animotion, The Escape Club and Tommy Tutone.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

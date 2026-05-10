@@ -1,0 +1,212 @@
+{
+  "slug": "tokyo",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:42:55.729Z",
+  "responseId": "resp_0681f2306d90a3800069ff63948c6c8196b9919344b444eff2",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 in Tokyo is unusually stacked, with Golden Week concerts, Tokyo Dome-scale J-pop/K-pop, a major rock festival, and heavyweight house/techno club bookings.",
+    "events": [
+      {
+        "id": "tokyo-tm-network-2026",
+        "title": "TM NETWORK TOUR 2026 QUANTUM",
+        "type": "concert",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-02",
+        "importance": 78,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://ariake-arena.tokyo/event/",
+        "ticketUrl": "https://fanksintelligence.com/",
+        "summary": "TM NETWORK bring their QUANTUM tour to Ariake Arena for two Tokyo dates, May 1 and 2, with evening start times listed by the venue.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-la-folle-journee-2026",
+        "title": "La Folle Journée TOKYO 2026",
+        "type": "festival",
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-05",
+        "importance": 86,
+        "venueName": "Tokyo International Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.lfj.jp/lfj_2026/history/article_03.html",
+        "ticketUrl": "https://www.lfj.jp/",
+        "summary": "Tokyo's edition of La Folle Journée runs over Golden Week at Tokyo International Forum under the 2026 theme “LES FLEUVES.” The official overview confirms the May 3–5 festival dates.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-poppinparty-roselia-2026",
+        "title": "Poppin'Party × Roselia Joint Live",
+        "type": "concert",
+        "startDate": "2026-05-03",
+        "endDate": "2026-05-03",
+        "importance": 76,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://ariake-arena.tokyo/event/",
+        "ticketUrl": "https://bang-dream.com/events/ppp-roselia2026",
+        "summary": "BanG Dream! bands Poppin'Party and Roselia play a one-night joint live at Ariake Arena, with the venue listing doors at 16:30 and showtime at 18:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-2pm-return-2026",
+        "title": "2PM JAPAN 15th Anniversary Concert “THE RETURN” in TOKYO DOME",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-10",
+        "importance": 90,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.tokyo-dome.co.jp/dome/event/?lang=en",
+        "ticketUrl": "https://www.2pmjapan.com/THE_RETURN/",
+        "summary": "2PM mark their Japan 15th anniversary with two Tokyo Dome concerts on May 9 and 10, as listed on Tokyo Dome's official concert schedule.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-kenny-dope-2026",
+        "title": "Kenny Dope in Tokyo 2026",
+        "type": "club-night",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-09",
+        "importance": 82,
+        "venueName": "MIDNIGHT EAST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2402397",
+        "ticketUrl": "https://ra.co/events/2402397",
+        "summary": "Kenny Dope plays MIDNIGHT EAST in Shibuya, joined by Captain Vinyl, Kango, Yuna Yabe and an Azumaya-floor lineup curated by Manhattan Records.",
+        "genres": [
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-dreams-come-true-2026",
+        "title": "DREAMS COME TRUE CONCERT TOUR 2026 THE BLACK ◯ ALBUM",
+        "type": "concert",
+        "startDate": "2026-05-09",
+        "endDate": "2026-05-10",
+        "importance": 82,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://tour2026.dreamscometrue.com/",
+        "ticketUrl": "https://tour2026.dreamscometrue.com/",
+        "summary": "DREAMS COME TRUE bring their THE BLACK ◯ ALBUM tour to Ariake Arena for two Tokyo concerts, both listed with 15:30 doors and 17:00 starts.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-seventeen-yakusoku-2026",
+        "title": "SEVENTEEN 2026 JAPAN FANMEETING 'YAKUSOKU'",
+        "type": "concert",
+        "startDate": "2026-05-13",
+        "endDate": "2026-05-14",
+        "importance": 90,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.seventeen-17.jp/posts/information/kemabu",
+        "ticketUrl": "https://www.seventeen-17.jp/posts/information/kemabu",
+        "summary": "SEVENTEEN hold two Tokyo Dome dates for their 2026 Japan fanmeeting 'YAKUSOKU', with official times listed for May 13 and May 14.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-metrock-2026",
+        "title": "TOKYO METROPOLITAN ROCK FESTIVAL 2026",
+        "type": "festival",
+        "startDate": "2026-05-16",
+        "endDate": "2026-05-17",
+        "importance": 88,
+        "venueName": "Umi no Mori Park",
+        "venueId": null,
+        "sourceUrl": "https://www.metrock.jp/about/",
+        "ticketUrl": "https://www.metrock.jp/",
+        "summary": "METROCK's Tokyo edition is confirmed for May 16–17 at Umi no Mori Park, with the official page listing the festival title, dates, venue and ticket categories.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-deftones-2026",
+        "title": "DEFTONES JAPAN 2026",
+        "type": "concert",
+        "startDate": "2026-05-18",
+        "endDate": "2026-05-18",
+        "importance": 80,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/deftones/",
+        "ticketUrl": "https://www.creativeman.co.jp/event/deftones/",
+        "summary": "Deftones play Tokyo Garden Theater on May 18 as part of their Japan 2026 dates, with Creativeman listing a 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-nogizaka-birthday-2026",
+        "title": "Nogizaka46 14th YEAR BIRTHDAY LIVE",
+        "type": "concert",
+        "startDate": "2026-05-19",
+        "endDate": "2026-05-21",
+        "importance": 88,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.nogizaka46.com/s/n46/page/14th_birthday_live",
+        "ticketUrl": "https://www.nogizaka46.com/s/n46/page/14th_birthday_live",
+        "summary": "Nogizaka46's 14th YEAR BIRTHDAY LIVE takes over Tokyo Dome for three dates, with the third night billed as Minami Umezawa's graduation concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-reprise-womb-2026",
+        "title": "Reprise: Andrea Zapata / DJ Nobu",
+        "type": "club-night",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-30",
+        "importance": 76,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ra.co/events/2415447",
+        "ticketUrl": "https://ra.co/events/2415447",
+        "summary": "Reprise at WOMB pairs Peruvian techno DJ Andrea Zapata with DJ Nobu on the main floor, with Akiram En and lostbaggage also listed on the lineup.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "tokyo-arashi-2026",
+        "title": "ARASHI LIVE TOUR 2026 “We are ARASHI”",
+        "type": "concert",
+        "startDate": "2026-05-31",
+        "endDate": "2026-05-31",
+        "importance": 93,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.tokyo-dome.co.jp/dome/event/?lang=en",
+        "ticketUrl": "https://starto.jp/s/p/live/10387",
+        "summary": "ARASHI's “We are ARASHI” tour reaches Tokyo Dome on May 31, with Tokyo Dome listing an 18:00 start for the concert.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

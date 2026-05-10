@@ -1,0 +1,173 @@
+{
+  "slug": "accra",
+  "month": 12,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:17:16.855Z",
+  "responseId": "resp_0dd928724f40c68b0069ff5d898b24819385554f40aaea24a8",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "accra",
+    "month": 12,
+    "year": 2026,
+    "notes": "December 2026 is already showing a strong Detty December spine, but many artist lineups remain unannounced this early, so this calendar favors dated, source-confirmed festivals and flagship concerts.",
+    "events": [
+      {
+        "id": "accra-uwmff-dec-2026",
+        "title": "United World Music & Film Festival",
+        "type": "festival",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-13",
+        "importance": 72,
+        "venueName": "Accra International Conference Centre & Black Star Square",
+        "venueId": null,
+        "sourceUrl": "https://uwmff.com/",
+        "ticketUrl": null,
+        "summary": "A four-day music, film, culture, business and innovation festival in Accra, with published daily programming including live concert kickoffs, evening concert series, a “Night of Legends” concert and a closing concert.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "accra-aliv-fest-2026",
+        "title": "ALIV FEST 2026",
+        "type": "carnival",
+        "startDate": "2026-12-17",
+        "endDate": "2027-01-03",
+        "importance": 73,
+        "venueName": "Accra, Ghana",
+        "venueId": null,
+        "sourceUrl": "https://alivfest.com/",
+        "ticketUrl": null,
+        "summary": "An 18-night Accra carnival-style destination experience with one main stage, live music performances, DJs and peak-night Afrobeats and Amapiano programming from Thursday through Sunday.",
+        "genres": [
+          "festival",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "accra-black-sherif-zaama-disco-2026",
+        "title": "Black Sherif Zaama Disco Concert",
+        "type": "concert",
+        "startDate": "2026-12-21",
+        "endDate": "2026-12-21",
+        "importance": 82,
+        "venueName": "Accra",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
+        "ticketUrl": null,
+        "summary": "AccraEvents lists Black Sherif’s Zaama Disco Concert for December 21, 2026, describing it as an immersive production with lights, visuals and performers from across West Africa.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-bhim-festival-2026",
+        "title": "BHIM Festival",
+        "type": "festival",
+        "startDate": "2026-12-24",
+        "endDate": "2026-12-24",
+        "importance": 90,
+        "venueName": "Accra Sports Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
+        "ticketUrl": null,
+        "summary": "Stonebwoy’s BHIM Festival is listed for December 24, 2026, at Accra Sports Stadium, with a focus on Afro-Dancehall, Afrobeats, Reggae, Highlife and Dancehall traditions.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-rapperholic-2026",
+        "title": "Rapperholic",
+        "type": "concert",
+        "startDate": "2026-12-25",
+        "endDate": "2026-12-25",
+        "importance": 88,
+        "venueName": "Accra, Castle Road",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
+        "ticketUrl": null,
+        "summary": "Sarkodie’s annual Rapperholic concert is listed for Christmas Day 2026 in Accra, continuing one of Ghana’s signature year-end hip-hop concert brands.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-afro-gogo-festival-2026",
+        "title": "Afro-GoGo Festival",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-31",
+        "importance": 75,
+        "venueName": "Accra, Ghana",
+        "venueId": null,
+        "sourceUrl": "https://afrogogofestival.com/",
+        "ticketUrl": null,
+        "summary": "A six-day diaspora homecoming festival in Accra with live performances, DJ sets, rooftop parties, a beach party and a Go-Go x NYE finale. The music program highlights Go-Go alongside Afrobeats, Highlife, Reggae, Jazz, R&B, Amapiano and Hip-Hop influences.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "accra-detty-rave-2026",
+        "title": "Detty Rave",
+        "type": "club-night",
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-27",
+        "importance": 86,
+        "venueName": "Accra, Spintex Road",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/event-details-registration/detty-rave",
+        "ticketUrl": "https://www.accraeventsgh.com/event-details-registration/detty-rave",
+        "summary": "Detty Rave is confirmed for December 27, 2026, on Spintex Road, with AccraEvents describing it as a high-energy end-of-year celebration blending African music, fashion, art and culture.",
+        "genres": [
+          "festival",
+          "electronic",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "accra-afrofuture-2026",
+        "title": "AfroFuture",
+        "type": "festival",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-29",
+        "importance": 96,
+        "venueName": "El Wak Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
+        "ticketUrl": null,
+        "summary": "AfroFuture is listed for December 28–29, 2026, at El Wak Stadium, with live performances, DJs, art, food and fashion as part of Accra’s peak Detty December window.",
+        "genres": [
+          "festival",
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-promiseland-concert-2026",
+        "title": "Promiseland Concert",
+        "type": "concert",
+        "startDate": "2026-12-30",
+        "endDate": "2026-12-30",
+        "importance": 86,
+        "venueName": "Accra, Spintex Road",
+        "venueId": null,
+        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
+        "ticketUrl": null,
+        "summary": "Promiseland Concert is listed for December 30, 2026, on Spintex Road; the listing confirms a music-and-culture concert format, though the 2026 supporting lineup is not yet published there.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

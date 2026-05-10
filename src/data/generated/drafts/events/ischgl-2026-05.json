@@ -1,0 +1,84 @@
+{
+  "slug": "ischgl",
+  "month": 5,
+  "year": 2026,
+  "generatedAt": "2026-05-09T16:40:36.204Z",
+  "responseId": "resp_01e5dd166875e86a0069ff63291b508196a597edd9d8b0e8c2",
+  "searchCalls": 13,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 5,
+    "year": 2026,
+    "notes": "May 2026 is dominated by Ischgl’s winter-season finale, with the Top of the Mountain concert and local closing parties before the valley shifts into quieter off-season programming.",
+    "events": [
+      {
+        "id": "ischgl-kitzloch-closing-2026",
+        "title": "Kitzloch Closing",
+        "type": "festival",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-02",
+        "importance": 72,
+        "venueName": "Kitzloch Ischgl",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/kitzloch-closing_event_130510453",
+        "ticketUrl": null,
+        "summary": "Two-day season-closing party directly in front of Kitzloch, with Draufgänger on May 1 and Junge Zillertaler on May 2. The event is listed as free admission and starts at 16:00 on both days.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-rebel-tell-idalp-2026",
+        "title": "Rebel Tell at Idalp",
+        "type": "concert",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-01",
+        "importance": 70,
+        "venueName": "Idalp",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/rebel-tell_event_124876117",
+        "ticketUrl": null,
+        "summary": "Rebel Tell play Idalp at 13:00 with their “Schlagerbilly” blend of Schlager, rock’n’roll energy and party covers. The official listing states regular ski-pass rates apply and there are no additional ticket sales.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-top-mountain-closing-2026",
+        "title": "Top of the Mountain Closing Concert with Christina Aguilera",
+        "type": "concert",
+        "startDate": "2026-05-02",
+        "endDate": "2026-05-02",
+        "importance": 96,
+        "venueName": "Idalp / Ischgl Stage",
+        "venueId": "top-of-the-mountain-ischgl",
+        "sourceUrl": "https://www.samnaun.ch/en/events/winterevents/top-mountain-closing-concert-christina-aguilera",
+        "ticketUrl": "https://tickets.ischgl.com/",
+        "summary": "Christina Aguilera headlines Ischgl’s flagship Top of the Mountain Closing Concert at Idalp at 13:00. The show closes the Silvretta Arena Samnaun/Ischgl winter season with a major international pop headliner.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-hallenfest-mathon-2026",
+        "title": "Hallenfest FF Mathon",
+        "type": "festival",
+        "startDate": "2026-05-30",
+        "endDate": "2026-05-31",
+        "importance": 60,
+        "venueName": "Freiwillige Feuerwehr Mathon",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/hallenfest-ff-mathon_event_129466245",
+        "ticketUrl": null,
+        "summary": "Local fire-brigade hall festival in Mathon, near Ischgl, with a Saturday disco evening starting at 20:00 and a Sunday morning pint from 11:00. The official listing confirms the two-day schedule for May 30–31, 2026.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}
