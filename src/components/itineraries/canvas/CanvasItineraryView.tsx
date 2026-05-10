@@ -6,9 +6,12 @@ import {
   DndContext,
   DragOverlay,
   KeyboardSensor,
+  pointerWithin,
   PointerSensor,
+  rectIntersection,
   useSensor,
   useSensors,
+  type CollisionDetection,
   type DragEndEvent,
   type DragStartEvent
 } from "@dnd-kit/core";
@@ -36,6 +39,19 @@ export function CanvasItineraryView({ itinerary, destination, onChange }: Canvas
     useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
     useSensor(KeyboardSensor, { coordinateGetter: sortableKeyboardCoordinates })
   );
+
+  // Custom collision detection: anchor drags use pointerWithin (cursor must
+  // be inside a day card) which feels more deterministic than closestCenter.
+  // Day reorder drags continue to use closestCenter for sortable behavior.
+  const collisionDetection: CollisionDetection = (args) => {
+    const draggedKind = args.active.data.current?.kind as string | undefined;
+    if (draggedKind === "anchor") {
+      const pointerCollisions = pointerWithin(args);
+      if (pointerCollisions.length > 0) return pointerCollisions;
+      return rectIntersection(args);
+    }
+    return closestCenter(args);
+  };
 
   const legSlugs = useMemo(
     () => itinerary.legs?.map((l) => l.destinationSlug) ?? [destination.slug],
@@ -88,12 +104,16 @@ export function CanvasItineraryView({ itinerary, destination, onChange }: Canvas
     if (!over) return;
 
     const activeData = active.data.current;
-    const overData = over.data.current;
+    const overId = over.id.toString();
 
-    // Anchor card dropped on a day → swap that day's anchor
-    if (activeData?.kind === "anchor" && overData?.kind === "day-dropzone") {
+    // Anchor (event/venue) card dropped on a day → swap that day's anchor.
+    // The drop target is the day's sortable item itself; we identify days
+    // by the `day-` id prefix.
+    if (activeData?.kind === "anchor" && overId.startsWith("day-")) {
       const payload = activeData.payload as AnchorPayload;
-      const dayNumber = overData.dayNumber as number;
+      const dayNumber = parseInt(overId.replace("day-", ""), 10);
+      if (!Number.isFinite(dayNumber)) return;
+
       const nextDays = itinerary.days.map((d) => {
         if (d.day !== dayNumber) return d;
         const dayDest = destinationBySlug.get(d.legSlug ?? legSlugs[0]) ?? destination;
@@ -119,17 +139,16 @@ export function CanvasItineraryView({ itinerary, destination, onChange }: Canvas
     }
 
     // Day card reordered (within its leg only)
-    if (activeData?.kind === "day" && over.id !== active.id && over.id.toString().startsWith("day-")) {
+    if (activeData?.kind === "day" && overId.startsWith("day-") && overId !== active.id) {
       const fromDay = activeData.dayNumber as number;
-      const toDay = parseInt(over.id.toString().replace("day-", ""), 10);
+      const toDay = parseInt(overId.replace("day-", ""), 10);
       const fromIndex = itinerary.days.findIndex((d) => d.day === fromDay);
       const toIndex = itinerary.days.findIndex((d) => d.day === toDay);
       if (fromIndex < 0 || toIndex < 0) return;
-      // Restrict moves to the same leg
+      // Restrict moves to the same leg for now
       if (itinerary.days[fromIndex].legSlug !== itinerary.days[toIndex].legSlug) return;
 
       const reordered = arrayMove(itinerary.days, fromIndex, toIndex);
-      // Renumber day.day so they remain 1..N in display order, preserve dateISO sequence
       const dates = itinerary.days.map((d) => d.dateISO).filter((d): d is string => Boolean(d));
       const renumbered = reordered.map((d, i) => ({
         ...d,
@@ -141,7 +160,12 @@ export function CanvasItineraryView({ itinerary, destination, onChange }: Canvas
   }
 
   return (
-    <DndContext sensors={sensors} collisionDetection={closestCenter} onDragStart={handleDragStart} onDragEnd={handleDragEnd}>
+    <DndContext
+      sensors={sensors}
+      collisionDetection={collisionDetection}
+      onDragStart={handleDragStart}
+      onDragEnd={handleDragEnd}
+    >
       <div className="grid gap-6 lg:grid-cols-[1fr_320px]">
         <div className="min-w-0">
           {/* Sticky route map */}

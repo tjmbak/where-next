@@ -1,6 +1,6 @@
 "use client";
 
-import { useDroppable } from "@dnd-kit/core";
+import { useDndContext } from "@dnd-kit/core";
 import { useSortable } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
 import type { ItineraryDay } from "@/lib/itineraries/generate";
@@ -26,19 +26,15 @@ export function DayCardCanvas({
   onHover
 }: DayCardCanvasProps) {
   const sortableId = `day-${day.day}`;
-  const { attributes, listeners, setNodeRef: setSortableRef, transform, transition, isDragging } = useSortable({
+  const { attributes, listeners, setNodeRef, transform, transition, isDragging, isOver, over } = useSortable({
     id: sortableId,
     data: { kind: "day", dayNumber: day.day }
   });
-  const { isOver, setNodeRef: setDroppableRef } = useDroppable({
-    id: `dropzone-${day.day}`,
-    data: { kind: "day-dropzone", dayNumber: day.day }
-  });
-
-  function setRefs(node: HTMLLIElement | null) {
-    setSortableRef(node);
-    setDroppableRef(node);
-  }
+  // We need to know what kind of item is being dragged, because the same drop
+  // target shows different visual feedback for an anchor swap vs. a day reorder.
+  const { active } = useDndContext();
+  const activeKind = active?.data?.current?.kind as "anchor" | "day" | undefined;
+  const isAnchorOver = isOver && activeKind === "anchor" && over?.id === sortableId;
 
   const style = {
     transform: CSS.Transform.toString(transform),
@@ -52,7 +48,7 @@ export function DayCardCanvas({
 
   return (
     <li
-      ref={setRefs}
+      ref={setNodeRef}
       style={style}
       onMouseEnter={() => onHover?.(day.day)}
       onMouseLeave={() => onHover?.(null)}
@@ -72,7 +68,7 @@ export function DayCardCanvas({
 
       <div
         className={`group relative grid grid-cols-[44px_1fr] gap-3 rounded-xl border bg-[var(--surface)] p-4 transition ${
-          isOver
+          isAnchorOver
             ? "border-[var(--signal)] ring-2 ring-[var(--signal)]/40"
             : isHighlighted
               ? "border-[var(--foreground)]/30"
@@ -125,8 +121,8 @@ export function DayCardCanvas({
           </div>
         </div>
 
-        {isOver ? (
-          <div className="pointer-events-none absolute inset-0 flex items-center justify-center rounded-xl bg-[var(--signal)]/8">
+        {isAnchorOver ? (
+          <div className="pointer-events-none absolute inset-0 flex items-center justify-center rounded-xl bg-[var(--signal)]/10">
             <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--signal)]">
               drop to swap anchor
             </span>
