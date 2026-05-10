@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { CanvasItineraryView } from "@/components/itineraries/canvas/CanvasItineraryView";
 import { ItineraryLoadingState } from "@/components/itineraries/ItineraryLoadingState";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
 import { createSupabaseBrowserClient } from "@/lib/supabase/client";
@@ -31,6 +32,7 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [itinerary, setItinerary] = useState<Itinerary | null>(null);
+  const [viewMode, setViewMode] = useState<"canvas" | "list">("canvas");
 
   const isMultiCity = legs.length > 0;
   const totalDays = useMemo(() => {
@@ -324,22 +326,57 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
 
       {itinerary ? (
         <section id="itinerary-result" className="space-y-8 animate-fade-in">
-          <ItineraryView
-            itinerary={itinerary}
-            destination={destination}
-            onSwapDay={(dayNumber, patch) => {
-              setItinerary((current) =>
-                current
-                  ? {
-                      ...current,
-                      days: current.days.map((d) =>
-                        d.day === dayNumber ? ({ ...d, ...patch } as ItineraryDay) : d
-                      )
-                    }
-                  : current
-              );
-            }}
-          />
+          <div className="flex items-center justify-between">
+            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+              your draft trip
+            </p>
+            <div className="flex gap-1 rounded-full border border-[var(--border-strong)] p-0.5">
+              {(["canvas", "list"] as const).map((m) => (
+                <button
+                  key={m}
+                  type="button"
+                  onClick={() => setViewMode(m)}
+                  className={`rounded-full px-3 py-1 font-mono text-[10px] uppercase tracking-[0.22em] transition ${
+                    viewMode === m
+                      ? "bg-[var(--foreground)] text-[var(--background)]"
+                      : "text-[var(--muted)] hover:text-[var(--foreground)]"
+                  }`}
+                >
+                  {m}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {viewMode === "canvas" ? (
+            <div className="hidden lg:block">
+              <CanvasItineraryView
+                itinerary={itinerary}
+                destination={destination}
+                onChange={setItinerary}
+              />
+            </div>
+          ) : null}
+
+          <div className={viewMode === "canvas" ? "lg:hidden" : ""}>
+            <ItineraryView
+              itinerary={itinerary}
+              destination={destination}
+              onSwapDay={(dayNumber, patch) => {
+                setItinerary((current) =>
+                  current
+                    ? {
+                        ...current,
+                        days: current.days.map((d) =>
+                          d.day === dayNumber ? ({ ...d, ...patch } as ItineraryDay) : d
+                        )
+                      }
+                    : current
+                );
+              }}
+            />
+          </div>
+
           <div className="flex flex-wrap items-center gap-3 border-t border-[var(--border)] pt-6">
             <button
               type="button"
