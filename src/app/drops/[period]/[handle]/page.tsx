@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { MiniMap } from "@/components/visual/MiniMap";
 import { dropPeriodSlug, parseDropPeriod } from "@/lib/drops/generate";
 import type { DropPick } from "@/lib/drops/rank";
+import { DESTINATIONS } from "@/data/music-travel";
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
 import { getMonthLabel } from "@/data/taxonomy";
 
@@ -97,6 +99,36 @@ export default async function DropPage({ params }: DropPageProps) {
         <p className="mt-5 max-w-md text-[14px] leading-7 text-[var(--muted)]">
           Five cities tuned to {handle}&apos;s scenes, regions, and budget.
         </p>
+
+        {drop.picks.length > 0 ? (
+          <div className="mt-10 flex items-center gap-5 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
+            <MiniMap
+              dots={drop.picks
+                .map((pick) => {
+                  const destination = DESTINATIONS.find((d) => d.slug === pick.slug);
+                  return destination
+                    ? {
+                        lat: destination.coordinates.lat,
+                        lng: destination.coordinates.lng,
+                        label: destination.city,
+                        size: "peak" as const
+                      }
+                    : null;
+                })
+                .filter((d): d is NonNullable<typeof d> => Boolean(d))}
+              size={120}
+              connect
+            />
+            <div>
+              <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+                this month&apos;s constellation
+              </p>
+              <p className="mt-2 text-[15px] leading-6 text-[var(--foreground)]">
+                {drop.picks.map((p) => p.city).join(" → ")}
+              </p>
+            </div>
+          </div>
+        ) : null}
 
         {drop.picks.length === 0 ? (
           <p className="mt-12 rounded-md border border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-sm leading-6 text-[var(--muted)]">

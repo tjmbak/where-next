@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { ItineraryLoadingState } from "@/components/itineraries/ItineraryLoadingState";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
 import { createSupabaseBrowserClient } from "@/lib/supabase/client";
 import type { Itinerary, ItineraryDay, ItineraryDuration } from "@/lib/itineraries/generate";
@@ -195,8 +196,14 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
         ) : null}
       </section>
 
+      {generating && !itinerary ? (
+        <section id="itinerary-result" className="animate-fade-in">
+          <ItineraryLoadingState destination={destination} durationDays={duration} />
+        </section>
+      ) : null}
+
       {itinerary ? (
-        <section id="itinerary-result" className="space-y-8">
+        <section id="itinerary-result" className="space-y-8 animate-fade-in">
           <ItineraryView
             itinerary={itinerary}
             destination={destination}

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BoardingPassHeader } from "@/components/itineraries/BoardingPassHeader";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
 import { ShareButtons } from "@/components/sharing/ShareButtons";
 import { getDestinationBySlug } from "@/data/music-travel";
@@ -147,7 +148,17 @@ export default async function ItineraryPage({ params }: RouteContext) {
       </header>
 
       <section className="mx-auto w-full max-w-[820px] px-6 pb-24 pt-12 sm:px-10">
-        <ItineraryView itinerary={itineraryShape} destination={destination} />
+        <BoardingPassHeader
+          destination={destination}
+          itinerary={itineraryShape}
+          ticketNo={itinerary.slug.split("-").pop() ?? itinerary.slug}
+          totalLow={itineraryShape.days.reduce((sum, d) => sum + d.costBandUsd.low, 0)}
+          totalHigh={itineraryShape.days.reduce((sum, d) => sum + d.costBandUsd.high, 0)}
+        />
+
+        <div className="mt-12">
+          <ItineraryView itinerary={itineraryShape} destination={destination} hideSummary />
+        </div>
 
         <div className="mt-12 border-t border-[var(--border)] pt-6">
           <ShareButtons url={shareUrl} title={itinerary.title} />

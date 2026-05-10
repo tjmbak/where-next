@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { redirect } from "next/navigation";
+import { MiniMap } from "@/components/visual/MiniMap";
 import { getDestinationBySlug } from "@/data/music-travel";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
 
@@ -88,39 +89,56 @@ export default async function MyItinerariesPage() {
               const destination = getDestinationBySlug(row.destination_slug);
               return (
                 <li key={row.id} className="py-7">
-                  <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                    {destination?.country ?? row.destination_slug} · {row.duration_days} days · {row.visibility}
-                    {row.start_date && row.end_date ? ` · ${row.start_date} → ${row.end_date}` : ""}
-                  </p>
-                  <h2 className="mt-2 text-2xl font-medium tracking-[-0.01em]">
-                    <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--signal)]">
-                      {row.title}
-                    </Link>
-                  </h2>
-                  {row.vibe_tags.length > 0 ? (
-                    <div className="mt-3 flex flex-wrap gap-2">
-                      {row.vibe_tags.map((tag) => (
-                        <span
-                          key={tag}
-                          className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]"
-                        >
-                          {tag.replace("-", " ")}
-                        </span>
-                      ))}
-                    </div>
-                  ) : null}
-                  <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                    <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--foreground)]">
-                      view ↗
-                    </Link>
+                  <div className="flex items-start gap-5">
                     {destination ? (
-                      <Link
-                        href={`/destinations/${destination.slug}/plan`}
-                        className="transition hover:text-[var(--foreground)]"
-                      >
-                        plan another for {destination.city.toLowerCase()} →
-                      </Link>
+                      <MiniMap
+                        dots={[
+                          {
+                            lat: destination.coordinates.lat,
+                            lng: destination.coordinates.lng,
+                            size: "peak"
+                          }
+                        ]}
+                        size={64}
+                        className="shrink-0"
+                      />
                     ) : null}
+                    <div className="flex-1 min-w-0">
+                      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+                        {destination?.country ?? row.destination_slug} · {row.duration_days} days · {row.visibility}
+                        {row.start_date && row.end_date ? ` · ${row.start_date} → ${row.end_date}` : ""}
+                      </p>
+                      <h2 className="mt-2 text-2xl font-medium tracking-[-0.01em]">
+                        <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--signal)]">
+                          {row.title}
+                        </Link>
+                      </h2>
+                      {row.vibe_tags.length > 0 ? (
+                        <div className="mt-3 flex flex-wrap gap-2">
+                          {row.vibe_tags.map((tag) => (
+                            <span
+                              key={tag}
+                              className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]"
+                            >
+                              {tag.replace("-", " ")}
+                            </span>
+                          ))}
+                        </div>
+                      ) : null}
+                      <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">
+                        <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--foreground)]">
+                          view ↗
+                        </Link>
+                        {destination ? (
+                          <Link
+                            href={`/destinations/${destination.slug}/plan`}
+                            className="transition hover:text-[var(--foreground)]"
+                          >
+                            plan another for {destination.city.toLowerCase()} →
+                          </Link>
+                        ) : null}
+                      </div>
+                    </div>
                   </div>
                 </li>
               );

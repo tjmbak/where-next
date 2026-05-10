@@ -13,11 +13,14 @@ type ItineraryViewProps = {
   destination: Destination;
   // When provided, each day shows a swap-anchor affordance.
   onSwapDay?: (dayNumber: number, patch: Partial<ItineraryDay>) => void;
+  // Hide the lightweight summary header. Used when the page already
+  // renders a full-width BoardingPassHeader above this component.
+  hideSummary?: boolean;
 };
 
 const DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
-export function ItineraryView({ itinerary, destination, onSwapDay }: ItineraryViewProps) {
+export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }: ItineraryViewProps) {
   const events = getEventsForDestination(destination.slug);
   const venues = getVenuesForDestination(destination.slug);
   const eventById = new Map(events.map((e) => [e.id, e]));
@@ -32,6 +35,7 @@ export function ItineraryView({ itinerary, destination, onSwapDay }: ItineraryVi
 
   return (
     <div>
+      {hideSummary ? null : (
       <header className="border-b border-[var(--border)] pb-6">
         <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
           {itinerary.durationDays}-day plan · {destination.city.toLowerCase()}
@@ -59,8 +63,9 @@ export function ItineraryView({ itinerary, destination, onSwapDay }: ItineraryVi
           </span>
         </div>
       </header>
+      )}
 
-      <ol className="mt-10 space-y-10">
+      <ol className={`${hideSummary ? "mt-12" : "mt-10"} space-y-10`}>
         {itinerary.days.map((day) => {
           const event = day.anchorKind === "event" && day.anchorId ? eventById.get(day.anchorId) : null;
           const venue = day.anchorKind === "venue" && day.anchorId ? venueById.get(day.anchorId) : null;
@@ -69,7 +74,11 @@ export function ItineraryView({ itinerary, destination, onSwapDay }: ItineraryVi
             : `Day ${day.day}`;
 
           return (
-            <li key={day.day} className="grid gap-4 border-l border-[var(--border)] pl-5 sm:grid-cols-[120px_1fr] sm:gap-6 sm:pl-0 sm:border-l-0">
+            <li
+              key={day.day}
+              className="wn-itinerary-day grid gap-4 border-l border-[var(--border)] pl-5 sm:grid-cols-[120px_1fr] sm:gap-6 sm:pl-0 sm:border-l-0"
+              style={{ animationDelay: `${(day.day - 1) * 0.12}s` }}
+            >
               <div className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
                 day {String(day.day).padStart(2, "0")}
                 <br />

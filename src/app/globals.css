@@ -147,6 +147,40 @@
   }
 }
 
+/* ====================================================================
+   Itinerary motion choreography
+   ==================================================================== */
+
+@keyframes wn-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: wn-fade-in 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+}
+
+@keyframes wn-day-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.wn-itinerary-day {
+  animation: wn-day-in 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+}
+
 .cursor-blink::after {
   content: "";
   display: inline-block;
