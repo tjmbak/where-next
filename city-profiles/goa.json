@@ -1,0 +1,81 @@
+{
+  "slug": "goa",
+  "city": "Goa",
+  "country": "India",
+  "region": "Asia",
+  "coordinates": { "lat": 15.2993, "lng": 74.124 },
+
+  "tagline": "Sunburn weekend, Hilltop psy-trance season, and a winter beach circuit that runs from November to March.",
+  "summary": "Goa is South Asia's anchor music-tourism destination — Sunburn Festival anchors late December at the country's largest electronic gathering, the historic Hilltop psy-trance scene runs full-moon Saturdays through the cool season, and Anjuna and Vagator beach shacks program day-into-night sets from November through March.",
+
+  "activeMonths": [11, 12, 1, 2, 3],
+  "peakMonths": [12, 1, 2],
+  "genres": ["electronic", "techno", "house", "festival"],
+  "vibes": ["beach", "festival", "underground", "group-trip"],
+  "budget": "low",
+  "averageDailySpendUsd": { "low": 60, "high": 200 },
+
+  "whoFor": ["Winter beach travelers", "Psy-trance and electronic heads", "Asia-on-a-budget groups"],
+  "whenToBook": "Book Sunburn weekend stays 10-12 weeks out — North Goa fills first. Late January is the easiest peak window.",
+  "travelNotes": "Dabolim (GOI) or Mopa (GOX) airports both serve the state; North Goa (Vagator/Anjuna/Morjim) is the music-tourism core, ~45 minutes from either airport.",
+
+  "peakHook": "December stacks Sunburn weekend, Hilltop full-moon Saturdays, and the heaviest international DJ touring window of the South Asian year.",
+
+  "heroScenes": {
+    "peak": "Goa Vagator beach at sunset in December, a wooden bamboo beach shack on stilts, palm trees silhouetted against an orange-pink Arabian Sea sky, distant sound of a bassline, no people, photographic",
+    "shoulder": "Goa Anjuna paddy field in late afternoon February light, a Portuguese-era whitewashed chapel in the distance, dirt road framed by coconut palms, soft warm light, no people",
+    "detail": "interior of a Goa beach club at golden hour, low rattan furniture, a single coconut and a vinyl record on a wooden table, sun-bleached cushions, no people"
+  },
+
+  "venues": [
+    { "id": "hilltop-goa", "name": "Hilltop Vagator", "type": "venue", "sceneTags": ["underground", "late-night"], "officialUrl": "https://www.facebook.com/HilltopVagator/" },
+    { "id": "shiva-valley-goa", "name": "Shiva Valley", "type": "beach-club", "sceneTags": ["beach", "underground"], "officialUrl": "https://www.facebook.com/shivavalleygoa/" },
+    { "id": "sunburn-festival-goa", "name": "Sunburn Festival", "type": "festival", "sceneTags": ["festival", "beach"], "officialUrl": "https://www.sunburn.in/" },
+    { "id": "purple-martini-goa", "name": "Purple Martini", "type": "venue", "sceneTags": ["beach", "late-night"], "officialUrl": "https://www.instagram.com/purplemartini/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "goa-sunburn",
+      "title": "Sunburn Festival",
+      "type": "festival",
+      "startMonth": 12,
+      "startDay": 28,
+      "endMonth": 12,
+      "endDay": 30,
+      "importance": 90,
+      "summary": "Asia's largest dance music festival, held annually at Vagator with mainstage EDM and Resistance-style techno arenas across three end-of-year days. The booking window for Goa NYE.",
+      "venueId": "sunburn-festival-goa",
+      "sourceUrl": "https://www.sunburn.in/",
+      "genres": ["electronic", "festival", "techno"]
+    },
+    {
+      "id": "goa-hilltop-saturdays",
+      "title": "Hilltop Vagator full-moon Saturdays",
+      "type": "residency",
+      "startMonth": 11,
+      "startDay": 1,
+      "endMonth": 3,
+      "endDay": 31,
+      "importance": 85,
+      "summary": "Hilltop's open-air venue runs Saturday programming through Goa's cool season, anchoring the state's psy-trance and progressive scene with full-moon weekends drawing international heads.",
+      "venueId": "hilltop-goa",
+      "sourceUrl": "https://www.facebook.com/HilltopVagator/",
+      "genres": ["electronic", "techno"]
+    },
+    {
+      "id": "goa-shiva-valley-mondays",
+      "title": "Shiva Valley Monday sessions",
+      "type": "residency",
+      "startMonth": 11,
+      "startDay": 1,
+      "endMonth": 3,
+      "endDay": 31,
+      "importance": 78,
+      "summary": "The original Anjuna beach venue's Monday sessions run sunset into late night with a steady rotation of psytrance and progressive DJs through the cool season.",
+      "venueId": "shiva-valley-goa",
+      "sourceUrl": "https://www.facebook.com/shivavalleygoa/",
+      "genres": ["electronic"]
+    }
+  ]
+}

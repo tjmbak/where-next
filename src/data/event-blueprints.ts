@@ -2115,6 +2115,239 @@ export const EVENT_BLUEPRINTS: Record<string, EventBlueprint[]> = {
       sourceUrl: "https://www.tipitinas.com/",
       genres: ["jazz", "r-and-b", "hip-hop"]
     }
+  ],
+  seoul: [
+    {
+      id: "seoul-world-dj-festival",
+      title: "World DJ Festival",
+      type: "festival",
+      startMonth: 5,
+      startDay: 25,
+      endMonth: 5,
+      endDay: 26,
+      importance: 86,
+      summary:
+        "Korea's longest-running EDM festival weekend, alternating Seoul and Yangpyeong with global headline house and techno sets across multiple stages.",
+      venueId: "world-dj-festival-seoul",
+      sourceUrl: "https://www.worlddjfestival.com/",
+      genres: ["house", "electronic", "techno"]
+    },
+    {
+      id: "seoul-ultra-korea",
+      title: "Ultra Korea",
+      type: "festival",
+      startMonth: 6,
+      startDay: 6,
+      endMonth: 6,
+      endDay: 8,
+      importance: 88,
+      summary:
+        "Ultra's Asia stop at the Seoul Olympic Stadium — three days of mainstage EDM plus the Resistance techno tent that anchors Korea's June dance circuit.",
+      sourceUrl: "https://umfkorea.com/",
+      genres: ["electronic", "festival", "techno"]
+    },
+    {
+      id: "seoul-faust-residency",
+      title: "Faust Saturday residencies",
+      type: "residency",
+      startMonth: 1,
+      startDay: 1,
+      endMonth: 12,
+      endDay: 31,
+      importance: 80,
+      summary:
+        "Faust's weekly Saturday programming is Seoul's reference room for Berlin-style techno, with frequent international guests rotating through Itaewon's hill of clubs.",
+      venueId: "faust-seoul",
+      sourceUrl: "https://www.instagram.com/faust_seoul/",
+      genres: ["techno", "electronic"]
+    }
+  ],
+  bangkok: [
+    {
+      id: "bangkok-wonderfruit",
+      title: "Wonderfruit",
+      type: "festival",
+      startMonth: 12,
+      startDay: 11,
+      endMonth: 12,
+      endDay: 14,
+      importance: 92,
+      summary:
+        "Asia's most reference-grade boutique festival — four days of architecture-led stages, organic food villages, and an electronic lineup that pulls from Berlin, Tokyo, and London. Held at The Fields, Pattaya.",
+      venueId: "wonderfruit-pattaya",
+      sourceUrl: "https://www.wonderfruit.co/",
+      genres: ["electronic", "house", "techno", "festival"]
+    },
+    {
+      id: "bangkok-songkran",
+      title: "Songkran Bangkok",
+      type: "festival",
+      startMonth: 4,
+      startDay: 13,
+      endMonth: 4,
+      endDay: 15,
+      importance: 88,
+      summary:
+        "Thailand's water-festival new year takes over Khao San Road, RCA, and Silom with three days of citywide street parties, club rave-ups, and headline DJ sets at Route 66 and S2O.",
+      sourceUrl: "https://www.tatnews.org/",
+      genres: ["electronic", "festival", "house"]
+    },
+    {
+      id: "bangkok-beam-residency",
+      title: "Beam Saturday residencies",
+      type: "residency",
+      startMonth: 11,
+      startDay: 1,
+      endMonth: 4,
+      endDay: 30,
+      importance: 78,
+      summary:
+        "Beam's Sukhumvit basement runs a weekly Saturday techno program with regular international guests through Bangkok's cool-season clubbing window.",
+      venueId: "beam-bangkok",
+      sourceUrl: "https://www.beamclub.com/",
+      genres: ["techno", "house", "electronic"]
+    }
+  ],
+  goa: [
+    {
+      id: "goa-sunburn",
+      title: "Sunburn Festival",
+      type: "festival",
+      startMonth: 12,
+      startDay: 28,
+      endMonth: 12,
+      endDay: 30,
+      importance: 90,
+      summary:
+        "Asia's largest dance music festival, held annually at Vagator with mainstage EDM and Resistance-style techno arenas across three end-of-year days. The booking window for Goa NYE.",
+      venueId: "sunburn-festival-goa",
+      sourceUrl: "https://www.sunburn.in/",
+      genres: ["electronic", "festival", "techno"]
+    },
+    {
+      id: "goa-hilltop-saturdays",
+      title: "Hilltop Vagator full-moon Saturdays",
+      type: "residency",
+      startMonth: 11,
+      startDay: 1,
+      endMonth: 3,
+      endDay: 31,
+      importance: 85,
+      summary:
+        "Hilltop's open-air venue runs Saturday programming through Goa's cool season, anchoring the state's psy-trance and progressive scene with full-moon weekends drawing international heads.",
+      venueId: "hilltop-goa",
+      sourceUrl: "https://www.facebook.com/HilltopVagator/",
+      genres: ["electronic", "techno"]
+    },
+    {
+      id: "goa-shiva-valley-mondays",
+      title: "Shiva Valley Monday sessions",
+      type: "residency",
+      startMonth: 11,
+      startDay: 1,
+      endMonth: 3,
+      endDay: 31,
+      importance: 78,
+      summary:
+        "The original Anjuna beach venue's Monday sessions run sunset into late night with a steady rotation of psytrance and progressive DJs through the cool season.",
+      venueId: "shiva-valley-goa",
+      sourceUrl: "https://www.facebook.com/shivavalleygoa/",
+      genres: ["electronic"]
+    }
+  ],
+  melbourne: [
+    {
+      id: "melbourne-beyond-the-valley",
+      title: "Beyond the Valley",
+      type: "festival",
+      startMonth: 12,
+      startDay: 28,
+      endMonth: 1,
+      endDay: 1,
+      importance: 90,
+      summary:
+        "Australia's flagship NYE camping festival in Lardner Park (90 minutes east of Melbourne), pulling international headliners across electronic, techno, and hip-hop stages over five days.",
+      venueId: "beyond-the-valley",
+      sourceUrl: "https://www.beyondthevalley.com.au/",
+      genres: ["electronic", "techno", "festival"]
+    },
+    {
+      id: "melbourne-sugar-mountain",
+      title: "Sugar Mountain Festival",
+      type: "festival",
+      startMonth: 1,
+      startDay: 18,
+      endMonth: 1,
+      endDay: 18,
+      importance: 85,
+      summary:
+        "A single-day art-and-music festival inside the Victorian College of the Arts campus — Melbourne's reference summer day-festival with a tight curated electronic and hip-hop bill.",
+      venueId: "sugar-mountain-melbourne",
+      sourceUrl: "https://www.sugarmountainfestival.com/",
+      genres: ["electronic", "hip-hop", "festival"]
+    },
+    {
+      id: "melbourne-revolver-residency",
+      title: "Revolver Saturday → Monday afters",
+      type: "residency",
+      startMonth: 11,
+      startDay: 1,
+      endMonth: 3,
+      endDay: 31,
+      importance: 82,
+      summary:
+        "Revolver Upstairs runs from Saturday 9pm through Monday afternoon — Melbourne's defining 36+ hour weekend club institution and one of the world's longest continuous club programs.",
+      venueId: "revolver-upstairs",
+      sourceUrl: "https://www.revolverupstairs.com.au/",
+      genres: ["techno", "house", "electronic"]
+    }
+  ],
+  cartagena: [
+    {
+      id: "cartagena-hay-festival",
+      title: "Hay Festival Cartagena",
+      type: "festival",
+      startMonth: 1,
+      startDay: 25,
+      endMonth: 1,
+      endDay: 28,
+      importance: 85,
+      summary:
+        "Latin America's flagship literature festival pairs four days of talks with concert programming across the walled city, drawing international Latin and afro-Caribbean acts to plaza stages.",
+      venueId: "hay-festival-cartagena",
+      sourceUrl: "https://www.hayfestival.com/cartagena/",
+      genres: ["latin", "festival", "jazz"]
+    },
+    {
+      id: "cartagena-cafe-havana-residency",
+      title: "Café Havana live salsa nights",
+      type: "residency",
+      startMonth: 12,
+      startDay: 1,
+      endMonth: 4,
+      endDay: 30,
+      importance: 82,
+      summary:
+        "Café Havana's nightly Cuban salsa orchestra is Cartagena's defining live-music ritual — a packed dance floor in Getsemaní that runs Tuesday through Sunday across the dry season.",
+      venueId: "cafe-havana-cartagena",
+      sourceUrl: "https://www.cafehavanacartagena.com/",
+      genres: ["latin", "jazz"]
+    },
+    {
+      id: "cartagena-bazurto-residency",
+      title: "Bazurto Social Club Friday programming",
+      type: "residency",
+      startMonth: 12,
+      startDay: 1,
+      endMonth: 4,
+      endDay: 30,
+      importance: 78,
+      summary:
+        "Bazurto Social Club's Friday nights blend afro-Colombian champeta and electronic crossover with live percussion — the city's reference room for Caribbean dance music.",
+      venueId: "bazurto-social-club",
+      sourceUrl: "https://www.bazurtosocialclub.com/",
+      genres: ["latin", "electronic", "house"]
+    }
   ]
   // @scaffold:blueprints — new EventBlueprint arrays keyed by slug go here (see docs/ADD_CITY.md)
 };

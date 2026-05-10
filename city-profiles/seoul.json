@@ -1,0 +1,80 @@
+{
+  "slug": "seoul",
+  "city": "Seoul",
+  "country": "South Korea",
+  "region": "Asia",
+  "coordinates": { "lat": 37.5665, "lng": 126.978 },
+
+  "tagline": "Itaewon and Hongdae basement clubs, plus festival weekends that run year-round.",
+  "summary": "Seoul has Asia's most consistent year-round dance music scene — Itaewon and Hongdae anchor weekly programming at clubs like Faust, Cakeshop, and Vurt, while festival weekends (World DJ Festival, Spring Wave, Ultra Korea, Awakenings Korea) layer headline weekends across spring and autumn.",
+
+  "activeMonths": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+  "peakMonths": [5, 6, 9, 10],
+  "genres": ["techno", "house", "electronic", "hip-hop", "pop"],
+  "vibes": ["city", "underground", "late-night", "cultural"],
+  "budget": "high",
+  "averageDailySpendUsd": { "low": 140, "high": 380 },
+
+  "whoFor": ["Year-round club travelers", "Techno and house heads", "Asia-Pacific weekenders"],
+  "whenToBook": "Book festival weekends 8-10 weeks ahead; club nights are walk-in-friendly except for international guest headliners.",
+  "travelNotes": "Incheon (ICN) is the international gateway; metro from Hongik University to Itaewon takes 25 minutes. Most clubs run Fri–Sat with select Sun afters.",
+
+  "peakHook": "May and June stack Spring Wave + World DJ Festival + early Ultra Korea, while September and October return international guest residencies after summer breaks.",
+
+  "heroScenes": {
+    "peak": "Seoul Hongdae alley at 1am in late spring, neon signage glowing on rain-wet asphalt, a row of basement club entrances with painted door numbers, atmospheric blue-magenta light, no people, photographic",
+    "shoulder": "Seoul Itaewon hillside in autumn afternoon light, stacked low-rise apartment blocks and convenience-store awnings, ginkgo trees turning yellow, soft overcast sky, no people",
+    "detail": "interior of a Seoul basement club at night, mirrored disco ball spinning above an empty wooden dancefloor, neon-lit Korean signage on the wall, low golden lighting, no people"
+  },
+
+  "venues": [
+    { "id": "faust-seoul", "name": "Faust Seoul", "type": "venue", "sceneTags": ["underground", "late-night"], "officialUrl": "https://www.instagram.com/faust_seoul/" },
+    { "id": "cakeshop-seoul", "name": "Cakeshop", "type": "venue", "sceneTags": ["city", "late-night"], "officialUrl": "https://www.cakeshopseoul.com/" },
+    { "id": "vurt-seoul", "name": "Vurt", "type": "venue", "sceneTags": ["underground", "late-night"], "officialUrl": "https://www.instagram.com/vurt.seoul/" },
+    { "id": "world-dj-festival-seoul", "name": "World DJ Festival", "type": "festival", "sceneTags": ["festival", "city"], "officialUrl": "https://www.worlddjfestival.com/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "seoul-world-dj-festival",
+      "title": "World DJ Festival",
+      "type": "festival",
+      "startMonth": 5,
+      "startDay": 25,
+      "endMonth": 5,
+      "endDay": 26,
+      "importance": 86,
+      "summary": "Korea's longest-running EDM festival weekend, alternating Seoul and Yangpyeong with global headline house and techno sets across multiple stages.",
+      "venueId": "world-dj-festival-seoul",
+      "sourceUrl": "https://www.worlddjfestival.com/",
+      "genres": ["house", "electronic", "techno"]
+    },
+    {
+      "id": "seoul-ultra-korea",
+      "title": "Ultra Korea",
+      "type": "festival",
+      "startMonth": 6,
+      "startDay": 6,
+      "endMonth": 6,
+      "endDay": 8,
+      "importance": 88,
+      "summary": "Ultra's Asia stop at the Seoul Olympic Stadium — three days of mainstage EDM plus the Resistance techno tent that anchors Korea's June dance circuit.",
+      "sourceUrl": "https://umfkorea.com/",
+      "genres": ["electronic", "festival", "techno"]
+    },
+    {
+      "id": "seoul-faust-residency",
+      "title": "Faust Saturday residencies",
+      "type": "residency",
+      "startMonth": 1,
+      "startDay": 1,
+      "endMonth": 12,
+      "endDay": 31,
+      "importance": 80,
+      "summary": "Faust's weekly Saturday programming is Seoul's reference room for Berlin-style techno, with frequent international guests rotating through Itaewon's hill of clubs.",
+      "venueId": "faust-seoul",
+      "sourceUrl": "https://www.instagram.com/faust_seoul/",
+      "genres": ["techno", "electronic"]
+    }
+  ]
+}

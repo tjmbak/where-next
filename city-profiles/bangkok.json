@@ -1,0 +1,80 @@
+{
+  "slug": "bangkok",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "region": "Asia",
+  "coordinates": { "lat": 13.7563, "lng": 100.5018 },
+
+  "tagline": "Songkran's water-fight clubbing weekend, Wonderfruit in the cool season, and a year-round late-night city.",
+  "summary": "Bangkok's club calendar runs hottest in Thailand's cool dry season (Nov–Mar), with Songkran transforming Khao San and Sukhumvit into a citywide water-fight rave each April. Wonderfruit in nearby Pattaya anchors December, and weekly programming at Beam, Sing Sing Theater, and Mustache Bangkok runs late seven nights a week.",
+
+  "activeMonths": [11, 12, 1, 2, 3, 4],
+  "peakMonths": [12, 4],
+  "genres": ["house", "electronic", "techno", "festival", "hip-hop"],
+  "vibes": ["city", "late-night", "festival", "group-trip"],
+  "budget": "medium",
+  "averageDailySpendUsd": { "low": 80, "high": 240 },
+
+  "whoFor": ["Asia winter travelers", "Festival travelers", "Late-night city explorers"],
+  "whenToBook": "Book Wonderfruit weekend 8 weeks ahead; Songkran flights and stays should be locked 10-12 weeks out.",
+  "travelNotes": "BKK and DMK serve the city; BTS and MRT run until midnight, then it's tuk-tuks and Grab. Pattaya (for Wonderfruit) is a 2-hour drive south.",
+
+  "peakHook": "December stacks Wonderfruit weekend with cool-season club programming, while April peaks again with Songkran turning the entire city into a water-soaked open-air festival.",
+
+  "heroScenes": {
+    "peak": "Bangkok Sukhumvit at night during the cool season, neon-lit street food carts under the elevated BTS line, motorbike taxis stopped at a red light, electric blue and pink signage reflecting on damp pavement, no people, photographic",
+    "shoulder": "Bangkok temple courtyard at golden hour in late February, ornate gilded chedi against a hazy sky, frangipani trees in bloom, soft warm light, no people",
+    "detail": "interior of a Bangkok rooftop bar at night, brass bar fittings, a single cocktail under a pendant lamp, city skyline blurred in the background through floor-to-ceiling glass, no people"
+  },
+
+  "venues": [
+    { "id": "beam-bangkok", "name": "Beam", "type": "venue", "sceneTags": ["underground", "late-night"], "officialUrl": "https://www.beamclub.com/" },
+    { "id": "sing-sing-bangkok", "name": "Sing Sing Theater", "type": "venue", "sceneTags": ["city", "late-night"], "officialUrl": "https://www.singsing-bangkok.com/" },
+    { "id": "wonderfruit-pattaya", "name": "Wonderfruit", "type": "festival", "sceneTags": ["festival", "group-trip"], "officialUrl": "https://www.wonderfruit.co/" },
+    { "id": "mustache-bangkok", "name": "Mustache Bangkok", "type": "venue", "sceneTags": ["underground", "late-night"], "officialUrl": "https://www.facebook.com/MustacheBangkok/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "bangkok-wonderfruit",
+      "title": "Wonderfruit",
+      "type": "festival",
+      "startMonth": 12,
+      "startDay": 11,
+      "endMonth": 12,
+      "endDay": 14,
+      "importance": 92,
+      "summary": "Asia's most reference-grade boutique festival — four days of architecture-led stages, organic food villages, and an electronic lineup that pulls from Berlin, Tokyo, and London. Held at The Fields, Pattaya.",
+      "venueId": "wonderfruit-pattaya",
+      "sourceUrl": "https://www.wonderfruit.co/",
+      "genres": ["electronic", "house", "techno", "festival"]
+    },
+    {
+      "id": "bangkok-songkran",
+      "title": "Songkran Bangkok",
+      "type": "festival",
+      "startMonth": 4,
+      "startDay": 13,
+      "endMonth": 4,
+      "endDay": 15,
+      "importance": 88,
+      "summary": "Thailand's water-festival new year takes over Khao San Road, RCA, and Silom with three days of citywide street parties, club rave-ups, and headline DJ sets at Route 66 and S2O.",
+      "sourceUrl": "https://www.tatnews.org/",
+      "genres": ["electronic", "festival", "house"]
+    },
+    {
+      "id": "bangkok-beam-residency",
+      "title": "Beam Saturday residencies",
+      "type": "residency",
+      "startMonth": 11,
+      "startDay": 1,
+      "endMonth": 4,
+      "endDay": 30,
+      "importance": 78,
+      "summary": "Beam's Sukhumvit basement runs a weekly Saturday techno program with regular international guests through Bangkok's cool-season clubbing window.",
+      "venueId": "beam-bangkok",
+      "sourceUrl": "https://www.beamclub.com/",
+      "genres": ["techno", "house", "electronic"]
+    }
+  ]
+}

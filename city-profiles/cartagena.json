@@ -1,0 +1,81 @@
+{
+  "slug": "cartagena",
+  "city": "Cartagena",
+  "country": "Colombia",
+  "region": "South America",
+  "coordinates": { "lat": 10.391, "lng": -75.4794 },
+
+  "tagline": "Caribbean salsa nights at Café Havana, Bazurto Social Club's afro-Colombian residencies, and a December–April beach-club season.",
+  "summary": "Cartagena's old walled city pairs nightly live salsa at Café Havana with afro-Colombian DJ programming at Bazurto Social Club, while Bocagrande and the islands run a December-through-April beach-club season anchored by the Hay Festival's January week and Caribbean carnival weekends.",
+
+  "activeMonths": [12, 1, 2, 3, 4],
+  "peakMonths": [1, 2],
+  "genres": ["latin", "electronic", "house", "festival", "jazz"],
+  "vibes": ["beach", "cultural", "late-night", "city"],
+  "budget": "medium",
+  "averageDailySpendUsd": { "low": 110, "high": 320 },
+
+  "whoFor": ["Caribbean winter travelers", "Salsa and afro-Colombian heads", "Couples and group trips"],
+  "whenToBook": "Book Hay Festival weekend (mid-January) 8 weeks ahead; old town hotels are limited and fill quickly.",
+  "travelNotes": "CTG sits 15 minutes from the walled city; stay inside the walls or in Getsemaní for music-tourism density. The Rosario Islands are 45 minutes by speedboat for day-trip beach clubs.",
+
+  "peakHook": "January and February stack Hay Festival's literary-music week, dry-season beach club programming, and the run-up to coastal carnival weekends across the Colombian Caribbean.",
+
+  "heroScenes": {
+    "peak": "Cartagena walled city plaza at dusk in January, colonial Spanish architecture in pastel yellows and pinks, balconies with bougainvillea, soft warm light against a lavender Caribbean sky, no people, photographic",
+    "shoulder": "Cartagena Bocagrande beachfront in late afternoon March light, palm trees casting long shadows on white sand, calm Caribbean blue water, distant Old City spires, no people",
+    "detail": "interior of a Cartagena Getsemaní bar at night, brass ceiling fan, a single mojito on a rough-hewn wooden bar, faded Cuban poster on a peeling-paint wall, low golden light, no people"
+  },
+
+  "venues": [
+    { "id": "cafe-havana-cartagena", "name": "Café Havana", "type": "venue", "sceneTags": ["cultural", "late-night"], "officialUrl": "https://www.cafehavanacartagena.com/" },
+    { "id": "bazurto-social-club", "name": "Bazurto Social Club", "type": "venue", "sceneTags": ["cultural", "late-night"], "officialUrl": "https://www.bazurtosocialclub.com/" },
+    { "id": "hay-festival-cartagena", "name": "Hay Festival Cartagena", "type": "festival", "sceneTags": ["cultural", "city"], "officialUrl": "https://www.hayfestival.com/cartagena/" },
+    { "id": "alquimico-cartagena", "name": "Alquímico", "type": "venue", "sceneTags": ["city", "late-night"], "officialUrl": "https://alquimico.com/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "cartagena-hay-festival",
+      "title": "Hay Festival Cartagena",
+      "type": "festival",
+      "startMonth": 1,
+      "startDay": 25,
+      "endMonth": 1,
+      "endDay": 28,
+      "importance": 85,
+      "summary": "Latin America's flagship literature festival pairs four days of talks with concert programming across the walled city, drawing international Latin and afro-Caribbean acts to plaza stages.",
+      "venueId": "hay-festival-cartagena",
+      "sourceUrl": "https://www.hayfestival.com/cartagena/",
+      "genres": ["latin", "festival", "jazz"]
+    },
+    {
+      "id": "cartagena-cafe-havana-residency",
+      "title": "Café Havana live salsa nights",
+      "type": "residency",
+      "startMonth": 12,
+      "startDay": 1,
+      "endMonth": 4,
+      "endDay": 30,
+      "importance": 82,
+      "summary": "Café Havana's nightly Cuban salsa orchestra is Cartagena's defining live-music ritual — a packed dance floor in Getsemaní that runs Tuesday through Sunday across the dry season.",
+      "venueId": "cafe-havana-cartagena",
+      "sourceUrl": "https://www.cafehavanacartagena.com/",
+      "genres": ["latin", "jazz"]
+    },
+    {
+      "id": "cartagena-bazurto-residency",
+      "title": "Bazurto Social Club Friday programming",
+      "type": "residency",
+      "startMonth": 12,
+      "startDay": 1,
+      "endMonth": 4,
+      "endDay": 30,
+      "importance": 78,
+      "summary": "Bazurto Social Club's Friday nights blend afro-Colombian champeta and electronic crossover with live percussion — the city's reference room for Caribbean dance music.",
+      "venueId": "bazurto-social-club",
+      "sourceUrl": "https://www.bazurtosocialclub.com/",
+      "genres": ["latin", "electronic", "house"]
+    }
+  ]
+}

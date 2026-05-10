@@ -896,6 +896,106 @@ export const DESTINATIONS: Destination[] = [
     whoFor: ["Jazz Fest travelers", "Mardi Gras crews", "Live-music nerds"],
     whenToBook: "Book Mardi Gras (Feb) and Jazz Fest (late April / early May) hotels 4-6 months ahead — French Quarter inventory disappears first.",
     travelNotes: "Stay in the Marigny, Bywater, or French Quarter for venue density. Streetcars connect Uptown clubs (Tipitina's, Maple Leaf) to downtown."
+  },
+  {
+    slug: "seoul",
+    city: "Seoul",
+    country: "South Korea",
+    region: "Asia",
+    coordinates: { lat: 37.5665, lng: 126.978 },
+    tagline: "Itaewon and Hongdae basement clubs, plus festival weekends that run year-round.",
+    summary:
+      "Seoul has Asia's most consistent year-round dance music scene — Itaewon and Hongdae anchor weekly programming at clubs like Faust, Cakeshop, and Vurt, while festival weekends (World DJ Festival, Spring Wave, Ultra Korea, Awakenings Korea) layer headline weekends across spring and autumn.",
+    heroImage: "/images/heroes/seoul.png",
+    activeMonths: [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+    peakMonths: [5, 6, 9, 10],
+    genres: ["techno", "house", "electronic", "hip-hop", "pop"],
+    vibes: ["city", "underground", "late-night", "cultural"],
+    budget: "high",
+    averageDailySpendUsd: { low: 140, high: 380 },
+    whoFor: ["Year-round club travelers", "Techno and house heads", "Asia-Pacific weekenders"],
+    whenToBook: "Book festival weekends 8-10 weeks ahead; club nights are walk-in-friendly except for international guest headliners.",
+    travelNotes: "Incheon (ICN) is the international gateway; metro from Hongik University to Itaewon takes 25 minutes. Most clubs run Fri–Sat with select Sun afters."
+  },
+  {
+    slug: "bangkok",
+    city: "Bangkok",
+    country: "Thailand",
+    region: "Asia",
+    coordinates: { lat: 13.7563, lng: 100.5018 },
+    tagline: "Songkran's water-fight clubbing weekend, Wonderfruit in the cool season, and a year-round late-night city.",
+    summary:
+      "Bangkok's club calendar runs hottest in Thailand's cool dry season (Nov–Mar), with Songkran transforming Khao San and Sukhumvit into a citywide water-fight rave each April. Wonderfruit in nearby Pattaya anchors December, and weekly programming at Beam, Sing Sing Theater, and Mustache Bangkok runs late seven nights a week.",
+    heroImage: "/images/heroes/bangkok.png",
+    activeMonths: [11, 12, 1, 2, 3, 4],
+    peakMonths: [12, 4],
+    genres: ["house", "electronic", "techno", "festival", "hip-hop"],
+    vibes: ["city", "late-night", "festival", "group-trip"],
+    budget: "medium",
+    averageDailySpendUsd: { low: 80, high: 240 },
+    whoFor: ["Asia winter travelers", "Festival travelers", "Late-night city explorers"],
+    whenToBook: "Book Wonderfruit weekend 8 weeks ahead; Songkran flights and stays should be locked 10-12 weeks out.",
+    travelNotes: "BKK and DMK serve the city; BTS and MRT run until midnight, then it's tuk-tuks and Grab. Pattaya (for Wonderfruit) is a 2-hour drive south."
+  },
+  {
+    slug: "goa",
+    city: "Goa",
+    country: "India",
+    region: "Asia",
+    coordinates: { lat: 15.2993, lng: 74.124 },
+    tagline: "Sunburn weekend, Hilltop psy-trance season, and a winter beach circuit that runs from November to March.",
+    summary:
+      "Goa is South Asia's anchor music-tourism destination — Sunburn Festival anchors late December at the country's largest electronic gathering, the historic Hilltop psy-trance scene runs full-moon Saturdays through the cool season, and Anjuna and Vagator beach shacks program day-into-night sets from November through March.",
+    heroImage: "/images/heroes/goa.png",
+    activeMonths: [11, 12, 1, 2, 3],
+    peakMonths: [12, 1, 2],
+    genres: ["electronic", "techno", "house", "festival"],
+    vibes: ["beach", "festival", "underground", "group-trip"],
+    budget: "low",
+    averageDailySpendUsd: { low: 60, high: 200 },
+    whoFor: ["Winter beach travelers", "Psy-trance and electronic heads", "Asia-on-a-budget groups"],
+    whenToBook: "Book Sunburn weekend stays 10-12 weeks out — North Goa fills first. Late January is the easiest peak window.",
+    travelNotes: "Dabolim (GOI) or Mopa (GOX) airports both serve the state; North Goa (Vagator/Anjuna/Morjim) is the music-tourism core, ~45 minutes from either airport."
+  },
+  {
+    slug: "melbourne",
+    city: "Melbourne",
+    country: "Australia",
+    region: "Oceania",
+    coordinates: { lat: -37.8136, lng: 144.9631 },
+    tagline: "Australia's late-night capital — Revolver 24-hour Sundays, Sugar Mountain, Beyond the Valley NYE, and a packed festival summer.",
+    summary:
+      "Melbourne is the southern hemisphere's most consistently programmed dance city — Revolver Upstairs runs from Saturday night to Monday afternoon every weekend, and the southern summer (Nov–Mar) stacks Sugar Mountain, Beyond the Valley, Strawberry Fields, and Pitch Music & Arts across consecutive weekends.",
+    heroImage: "/images/heroes/melbourne.png",
+    activeMonths: [11, 12, 1, 2, 3],
+    peakMonths: [12, 1, 2],
+    genres: ["techno", "house", "electronic", "festival", "hip-hop"],
+    vibes: ["city", "festival", "underground", "late-night"],
+    budget: "high",
+    averageDailySpendUsd: { low: 180, high: 420 },
+    whoFor: ["Southern hemisphere summer travelers", "Year-end festival travelers", "24-hour clubbers"],
+    whenToBook: "Book Beyond the Valley NYE 12 weeks ahead; Sugar Mountain (Jan) and Strawberry Fields (Nov) sell out faster than headline reveals suggest.",
+    travelNotes: "MEL is the gateway; the Skybus reaches the CBD in 25 minutes. Revolver is in Prahran (5km from CBD); festival sites are 60-180 minutes by coach."
+  },
+  {
+    slug: "cartagena",
+    city: "Cartagena",
+    country: "Colombia",
+    region: "South America",
+    coordinates: { lat: 10.391, lng: -75.4794 },
+    tagline: "Caribbean salsa nights at Café Havana, Bazurto Social Club's afro-Colombian residencies, and a December–April beach-club season.",
+    summary:
+      "Cartagena's old walled city pairs nightly live salsa at Café Havana with afro-Colombian DJ programming at Bazurto Social Club, while Bocagrande and the islands run a December-through-April beach-club season anchored by the Hay Festival's January week and Caribbean carnival weekends.",
+    heroImage: "/images/heroes/cartagena.png",
+    activeMonths: [12, 1, 2, 3, 4],
+    peakMonths: [1, 2],
+    genres: ["latin", "electronic", "house", "festival", "jazz"],
+    vibes: ["beach", "cultural", "late-night", "city"],
+    budget: "medium",
+    averageDailySpendUsd: { low: 110, high: 320 },
+    whoFor: ["Caribbean winter travelers", "Salsa and afro-Colombian heads", "Couples and group trips"],
+    whenToBook: "Book Hay Festival weekend (mid-January) 8 weeks ahead; old town hotels are limited and fill quickly.",
+    travelNotes: "CTG sits 15 minutes from the walled city; stay inside the walls or in Getsemaní for music-tourism density. The Rosario Islands are 45 minutes by speedboat for day-trip beach clubs."
   }
   // @scaffold:destinations — new Destination objects go here (see docs/ADD_CITY.md)
 ];
@@ -983,7 +1083,27 @@ export const VENUES: Venue[] = [
   { id: "bagatelle-st-barths", destinationSlug: "st-barths", name: "Bagatelle Saint-Barth", type: "venue", sceneTags: ["luxury", "late-night"], officialUrl: "https://bistrotbagatelle.com/saint-barth/" },
   { id: "jazz-fest-nola", destinationSlug: "new-orleans", name: "New Orleans Jazz & Heritage Festival", type: "festival", sceneTags: ["festival", "cultural"], officialUrl: "https://www.nojazzfest.com/" },
   { id: "preservation-hall-nola", destinationSlug: "new-orleans", name: "Preservation Hall", type: "venue", sceneTags: ["cultural", "city"], officialUrl: "https://www.preservationhall.com/" },
-  { id: "tipitinas-nola", destinationSlug: "new-orleans", name: "Tipitina's", type: "venue", sceneTags: ["city", "late-night", "cultural"], officialUrl: "https://www.tipitinas.com/" }
+  { id: "tipitinas-nola", destinationSlug: "new-orleans", name: "Tipitina's", type: "venue", sceneTags: ["city", "late-night", "cultural"], officialUrl: "https://www.tipitinas.com/" },
+  { id: "faust-seoul", destinationSlug: "seoul", name: "Faust Seoul", type: "venue", sceneTags: ["underground", "late-night"], officialUrl: "https://www.instagram.com/faust_seoul/" },
+  { id: "cakeshop-seoul", destinationSlug: "seoul", name: "Cakeshop", type: "venue", sceneTags: ["city", "late-night"], officialUrl: "https://www.cakeshopseoul.com/" },
+  { id: "vurt-seoul", destinationSlug: "seoul", name: "Vurt", type: "venue", sceneTags: ["underground", "late-night"], officialUrl: "https://www.instagram.com/vurt.seoul/" },
+  { id: "world-dj-festival-seoul", destinationSlug: "seoul", name: "World DJ Festival", type: "festival", sceneTags: ["festival", "city"], officialUrl: "https://www.worlddjfestival.com/" },
+  { id: "beam-bangkok", destinationSlug: "bangkok", name: "Beam", type: "venue", sceneTags: ["underground", "late-night"], officialUrl: "https://www.beamclub.com/" },
+  { id: "sing-sing-bangkok", destinationSlug: "bangkok", name: "Sing Sing Theater", type: "venue", sceneTags: ["city", "late-night"], officialUrl: "https://www.singsing-bangkok.com/" },
+  { id: "wonderfruit-pattaya", destinationSlug: "bangkok", name: "Wonderfruit", type: "festival", sceneTags: ["festival", "group-trip"], officialUrl: "https://www.wonderfruit.co/" },
+  { id: "mustache-bangkok", destinationSlug: "bangkok", name: "Mustache Bangkok", type: "venue", sceneTags: ["underground", "late-night"], officialUrl: "https://www.facebook.com/MustacheBangkok/" },
+  { id: "hilltop-goa", destinationSlug: "goa", name: "Hilltop Vagator", type: "venue", sceneTags: ["underground", "late-night"], officialUrl: "https://www.facebook.com/HilltopVagator/" },
+  { id: "shiva-valley-goa", destinationSlug: "goa", name: "Shiva Valley", type: "beach-club", sceneTags: ["beach", "underground"], officialUrl: "https://www.facebook.com/shivavalleygoa/" },
+  { id: "sunburn-festival-goa", destinationSlug: "goa", name: "Sunburn Festival", type: "festival", sceneTags: ["festival", "beach"], officialUrl: "https://www.sunburn.in/" },
+  { id: "purple-martini-goa", destinationSlug: "goa", name: "Purple Martini", type: "venue", sceneTags: ["beach", "late-night"], officialUrl: "https://www.instagram.com/purplemartini/" },
+  { id: "revolver-upstairs", destinationSlug: "melbourne", name: "Revolver Upstairs", type: "venue", sceneTags: ["late-night", "underground"], officialUrl: "https://www.revolverupstairs.com.au/" },
+  { id: "beyond-the-valley", destinationSlug: "melbourne", name: "Beyond the Valley", type: "festival", sceneTags: ["festival", "group-trip"], officialUrl: "https://www.beyondthevalley.com.au/" },
+  { id: "sugar-mountain-melbourne", destinationSlug: "melbourne", name: "Sugar Mountain Festival", type: "festival", sceneTags: ["festival", "city"], officialUrl: "https://www.sugarmountainfestival.com/" },
+  { id: "pitch-music-arts", destinationSlug: "melbourne", name: "Pitch Music & Arts", type: "festival", sceneTags: ["festival", "underground"], officialUrl: "https://www.pitchmusic.com.au/" },
+  { id: "cafe-havana-cartagena", destinationSlug: "cartagena", name: "Café Havana", type: "venue", sceneTags: ["cultural", "late-night"], officialUrl: "https://www.cafehavanacartagena.com/" },
+  { id: "bazurto-social-club", destinationSlug: "cartagena", name: "Bazurto Social Club", type: "venue", sceneTags: ["cultural", "late-night"], officialUrl: "https://www.bazurtosocialclub.com/" },
+  { id: "hay-festival-cartagena", destinationSlug: "cartagena", name: "Hay Festival Cartagena", type: "festival", sceneTags: ["cultural", "city"], officialUrl: "https://www.hayfestival.com/cartagena/" },
+  { id: "alquimico-cartagena", destinationSlug: "cartagena", name: "Alquímico", type: "venue", sceneTags: ["city", "late-night"], officialUrl: "https://alquimico.com/" }
   // @scaffold:venues — new Venue rows go here (see docs/ADD_CITY.md)
 ];
 
@@ -1175,7 +1295,12 @@ export const PEAK_HOOKS: Record<string, string> = {
   reykjavik: "Iceland Airwaves in early November and June's midnight-sun warehouse parties carve two distinct travel windows; the rest of the year is for hot springs, not headliners.",
   antwerp: "Two Tomorrowland weekends in late July define the entire music-travel year; outside those, the city quietens to its own underground rooms.",
   "st-barths": "Christmas-to-NYE concentrates an unmatched lineup of celebrity DJs, residencies, and yacht parties — the rest of the year is calm villa season.",
-  "new-orleans": "Mardi Gras in February and Jazz Fest's two-weekend run in late April / early May concentrate the city's biggest music-travel windows."
+  "new-orleans": "Mardi Gras in February and Jazz Fest's two-weekend run in late April / early May concentrate the city's biggest music-travel windows.",
+  seoul: "May and June stack Spring Wave + World DJ Festival + early Ultra Korea, while September and October return international guest residencies after summer breaks.",
+  bangkok: "December stacks Wonderfruit weekend with cool-season club programming, while April peaks again with Songkran turning the entire city into a water-soaked open-air festival.",
+  goa: "December stacks Sunburn weekend, Hilltop full-moon Saturdays, and the heaviest international DJ touring window of the South Asian year.",
+  melbourne: "December and January stack Beyond the Valley NYE, Sugar Mountain, and the southern-hemisphere festival summer's longest run of consecutive headline weekends.",
+  cartagena: "January and February stack Hay Festival's literary-music week, dry-season beach club programming, and the run-up to coastal carnival weekends across the Colombian Caribbean."
   // @scaffold:peakHook — new peak-month one-liners go here (see docs/ADD_CITY.md)
 };
 

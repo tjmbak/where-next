@@ -1,0 +1,81 @@
+{
+  "slug": "melbourne",
+  "city": "Melbourne",
+  "country": "Australia",
+  "region": "Oceania",
+  "coordinates": { "lat": -37.8136, "lng": 144.9631 },
+
+  "tagline": "Australia's late-night capital — Revolver 24-hour Sundays, Sugar Mountain, Beyond the Valley NYE, and a packed festival summer.",
+  "summary": "Melbourne is the southern hemisphere's most consistently programmed dance city — Revolver Upstairs runs from Saturday night to Monday afternoon every weekend, and the southern summer (Nov–Mar) stacks Sugar Mountain, Beyond the Valley, Strawberry Fields, and Pitch Music & Arts across consecutive weekends.",
+
+  "activeMonths": [11, 12, 1, 2, 3],
+  "peakMonths": [12, 1, 2],
+  "genres": ["techno", "house", "electronic", "festival", "hip-hop"],
+  "vibes": ["city", "festival", "underground", "late-night"],
+  "budget": "high",
+  "averageDailySpendUsd": { "low": 180, "high": 420 },
+
+  "whoFor": ["Southern hemisphere summer travelers", "Year-end festival travelers", "24-hour clubbers"],
+  "whenToBook": "Book Beyond the Valley NYE 12 weeks ahead; Sugar Mountain (Jan) and Strawberry Fields (Nov) sell out faster than headline reveals suggest.",
+  "travelNotes": "MEL is the gateway; the Skybus reaches the CBD in 25 minutes. Revolver is in Prahran (5km from CBD); festival sites are 60-180 minutes by coach.",
+
+  "peakHook": "December and January stack Beyond the Valley NYE, Sugar Mountain, and the southern-hemisphere festival summer's longest run of consecutive headline weekends.",
+
+  "heroScenes": {
+    "peak": "Melbourne Hosier Lane at dusk in summer, painted graffiti walls glowing in the last light, narrow bluestone laneway with dim café signage, warm electric lights flickering on, no people, photographic",
+    "shoulder": "Melbourne Royal Botanic Gardens in late February, eucalyptus trees and a calm reflective lake, distant CBD skyline, soft golden afternoon light, no people",
+    "detail": "interior of a Melbourne dive bar at night, exposed brick wall with vintage band posters, a single bottle of beer on a worn wooden bar, low pendant lighting, no people"
+  },
+
+  "venues": [
+    { "id": "revolver-upstairs", "name": "Revolver Upstairs", "type": "venue", "sceneTags": ["late-night", "underground"], "officialUrl": "https://www.revolverupstairs.com.au/" },
+    { "id": "beyond-the-valley", "name": "Beyond the Valley", "type": "festival", "sceneTags": ["festival", "group-trip"], "officialUrl": "https://www.beyondthevalley.com.au/" },
+    { "id": "sugar-mountain-melbourne", "name": "Sugar Mountain Festival", "type": "festival", "sceneTags": ["festival", "city"], "officialUrl": "https://www.sugarmountainfestival.com/" },
+    { "id": "pitch-music-arts", "name": "Pitch Music & Arts", "type": "festival", "sceneTags": ["festival", "underground"], "officialUrl": "https://www.pitchmusic.com.au/" }
+  ],
+
+  "blueprints": [
+    {
+      "id": "melbourne-beyond-the-valley",
+      "title": "Beyond the Valley",
+      "type": "festival",
+      "startMonth": 12,
+      "startDay": 28,
+      "endMonth": 1,
+      "endDay": 1,
+      "importance": 90,
+      "summary": "Australia's flagship NYE camping festival in Lardner Park (90 minutes east of Melbourne), pulling international headliners across electronic, techno, and hip-hop stages over five days.",
+      "venueId": "beyond-the-valley",
+      "sourceUrl": "https://www.beyondthevalley.com.au/",
+      "genres": ["electronic", "techno", "festival"]
+    },
+    {
+      "id": "melbourne-sugar-mountain",
+      "title": "Sugar Mountain Festival",
+      "type": "festival",
+      "startMonth": 1,
+      "startDay": 18,
+      "endMonth": 1,
+      "endDay": 18,
+      "importance": 85,
+      "summary": "A single-day art-and-music festival inside the Victorian College of the Arts campus — Melbourne's reference summer day-festival with a tight curated electronic and hip-hop bill.",
+      "venueId": "sugar-mountain-melbourne",
+      "sourceUrl": "https://www.sugarmountainfestival.com/",
+      "genres": ["electronic", "hip-hop", "festival"]
+    },
+    {
+      "id": "melbourne-revolver-residency",
+      "title": "Revolver Saturday → Monday afters",
+      "type": "residency",
+      "startMonth": 11,
+      "startDay": 1,
+      "endMonth": 3,
+      "endDay": 31,
+      "importance": 82,
+      "summary": "Revolver Upstairs runs from Saturday 9pm through Monday afternoon — Melbourne's defining 36+ hour weekend club institution and one of the world's longest continuous club programs.",
+      "venueId": "revolver-upstairs",
+      "sourceUrl": "https://www.revolverupstairs.com.au/",
+      "genres": ["techno", "house", "electronic"]
+    }
+  ]
+}

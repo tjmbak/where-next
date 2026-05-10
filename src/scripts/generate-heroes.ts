@@ -159,7 +159,17 @@ const PEAK_SCENES: Record<string, string> = {
   "st-barths":
     "Gustavia harbor in St. Barth at golden hour in winter, super-yachts moored against red-roofed buildings, a hillside of red-tiled villas behind, calm Caribbean Sea, warm dry-season light, no people",
   "new-orleans":
-    "a French Quarter New Orleans street at golden hour, ornate iron-lace balconies, gas lamps starting to glow, cobbled pavement, warm humid spring light, no people"
+    "a French Quarter New Orleans street at golden hour, ornate iron-lace balconies, gas lamps starting to glow, cobbled pavement, warm humid spring light, no people",
+  seoul:
+    "Seoul Hongdae alley at 1am in late spring, neon signage glowing on rain-wet asphalt, a row of basement club entrances with painted door numbers, atmospheric blue-magenta light, no people, photographic",
+  bangkok:
+    "Bangkok Sukhumvit at night during the cool season, neon-lit street food carts under the elevated BTS line, motorbike taxis stopped at a red light, electric blue and pink signage reflecting on damp pavement, no people, photographic",
+  goa:
+    "Goa Vagator beach at sunset in December, a wooden bamboo beach shack on stilts, palm trees silhouetted against an orange-pink Arabian Sea sky, distant sound of a bassline, no people, photographic",
+  melbourne:
+    "Melbourne Hosier Lane at dusk in summer, painted graffiti walls glowing in the last light, narrow bluestone laneway with dim café signage, warm electric lights flickering on, no people, photographic",
+  cartagena:
+    "Cartagena walled city plaza at dusk in January, colonial Spanish architecture in pastel yellows and pinks, balconies with bougainvillea, soft warm light against a lavender Caribbean sky, no people, photographic"
   // @scaffold:peakScenes — new peak-season scene prompts go here (see docs/ADD_CITY.md)
 };
 
@@ -251,7 +261,17 @@ const SHOULDER_SCENES: Record<string, string> = {
   "st-barths":
     "a quiet St Barth beach in summer rainy season, palm trees in soft tropical wind, dramatic clouds, calm turquoise water, no people",
   "new-orleans":
-    "a Garden District New Orleans avenue in late summer, oak trees with Spanish moss arched over the street, a single streetcar in the distance, soft humid afternoon light, no people"
+    "a Garden District New Orleans avenue in late summer, oak trees with Spanish moss arched over the street, a single streetcar in the distance, soft humid afternoon light, no people",
+  seoul:
+    "Seoul Itaewon hillside in autumn afternoon light, stacked low-rise apartment blocks and convenience-store awnings, ginkgo trees turning yellow, soft overcast sky, no people",
+  bangkok:
+    "Bangkok temple courtyard at golden hour in late February, ornate gilded chedi against a hazy sky, frangipani trees in bloom, soft warm light, no people",
+  goa:
+    "Goa Anjuna paddy field in late afternoon February light, a Portuguese-era whitewashed chapel in the distance, dirt road framed by coconut palms, soft warm light, no people",
+  melbourne:
+    "Melbourne Royal Botanic Gardens in late February, eucalyptus trees and a calm reflective lake, distant CBD skyline, soft golden afternoon light, no people",
+  cartagena:
+    "Cartagena Bocagrande beachfront in late afternoon March light, palm trees casting long shadows on white sand, calm Caribbean blue water, distant Old City spires, no people"
   // @scaffold:shoulderScenes — new shoulder-season scene prompts go here (see docs/ADD_CITY.md)
 };
 
@@ -343,7 +363,17 @@ const DETAIL_SCENES: Record<string, string> = {
   "st-barths":
     "interior of a St Barth beachfront lounge at golden hour, white-rope ceiling, brass fixtures, a single lit candle on a low table, soft warm Caribbean light, no people",
   "new-orleans":
-    "interior of a Frenchmen Street New Orleans jazz club at night, exposed brick walls, a brass tuba on a stand, soft amber pendant lights, no people"
+    "interior of a Frenchmen Street New Orleans jazz club at night, exposed brick walls, a brass tuba on a stand, soft amber pendant lights, no people",
+  seoul:
+    "interior of a Seoul basement club at night, mirrored disco ball spinning above an empty wooden dancefloor, neon-lit Korean signage on the wall, low golden lighting, no people",
+  bangkok:
+    "interior of a Bangkok rooftop bar at night, brass bar fittings, a single cocktail under a pendant lamp, city skyline blurred in the background through floor-to-ceiling glass, no people",
+  goa:
+    "interior of a Goa beach club at golden hour, low rattan furniture, a single coconut and a vinyl record on a wooden table, sun-bleached cushions, no people",
+  melbourne:
+    "interior of a Melbourne dive bar at night, exposed brick wall with vintage band posters, a single bottle of beer on a worn wooden bar, low pendant lighting, no people",
+  cartagena:
+    "interior of a Cartagena Getsemaní bar at night, brass ceiling fan, a single mojito on a rough-hewn wooden bar, faded Cuban poster on a peeling-paint wall, low golden light, no people"
   // @scaffold:detailScenes — new detail/interior scene prompts go here (see docs/ADD_CITY.md)
 };
 
