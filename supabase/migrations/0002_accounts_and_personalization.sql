@@ -429,3 +429,24 @@ create trigger touch_trips before update on public.trips
 drop trigger if exists touch_subscriptions on public.subscriptions;
 create trigger touch_subscriptions before update on public.subscriptions
   for each row execute procedure public.touch_updated_at();
+
+-- ---------------------------------------------------------------------------
+-- Grants
+-- ---------------------------------------------------------------------------
+-- Supabase configures these by default on a fresh project, but resetting the
+-- public schema (drop schema public cascade; create schema public;) wipes
+-- them. Re-applying here makes this migration safe to run on a freshly reset
+-- schema. RLS policies above are still the access-control layer for
+-- per-user data; these grants only let PostgREST and the Auth server reach
+-- the tables in the first place.
+
+grant usage on schema public to anon, authenticated, service_role;
+grant all on schema public to postgres, service_role;
+
+grant all on all tables in schema public to anon, authenticated, service_role;
+grant all on all sequences in schema public to anon, authenticated, service_role;
+grant all on all functions in schema public to anon, authenticated, service_role;
+
+alter default privileges in schema public grant all on tables to anon, authenticated, service_role;
+alter default privileges in schema public grant all on sequences to anon, authenticated, service_role;
+alter default privileges in schema public grant all on functions to anon, authenticated, service_role;
