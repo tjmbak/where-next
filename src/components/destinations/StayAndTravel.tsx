@@ -5,35 +5,68 @@ import type { Destination, MonthNumber } from "@/types/content";
 type StayAndTravelProps = {
   destination: Destination;
   month?: MonthNumber;
+  // Explicit trip-date range (used by itinerary view). When provided, takes
+  // precedence over `month` for hotel/flight URL building.
+  startDate?: string | null;
+  endDate?: string | null;
   homeAirport?: string | null;
 };
 
-function bookingUrl(destination: Destination, month?: MonthNumber) {
-  const checkin = month ? firstDayOfMonth(month) : null;
-  const checkout = month ? firstDayOfNextMonth(month) : null;
+function bookingUrl(
+  destination: Destination,
+  args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber }
+) {
+  const range = resolveDateRange(args);
   const params = new URLSearchParams({
     ss: `${destination.city}, ${destination.country}`,
-    ...(checkin ? { checkin } : {}),
-    ...(checkout ? { checkout } : {}),
+    ...(range.checkin ? { checkin: range.checkin } : {}),
+    ...(range.checkout ? { checkout: range.checkout } : {}),
     selected_currency: "USD"
   });
   return `https://www.booking.com/searchresults.html?${params.toString()}`;
 }
 
-function skyscannerUrl(destination: Destination, month?: MonthNumber, origin = "anywhere") {
-  // Skyscanner browse URLs accept a city slug fragment; we degrade to a search
-  // param if we don't have a verified slug.
-  const yyyymm = month
-    ? `${new Date().getUTCFullYear()}-${String(month).padStart(2, "0")}`
-    : "";
+function skyscannerUrl(
+  destination: Destination,
+  args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber; origin?: string }
+) {
+  const origin = args.origin ?? "anywhere";
   const dest = encodeURIComponent(destination.city);
-  const path = `https://www.skyscanner.com/transport/flights/${origin}/${dest}/${yyyymm ? `?inboundaltsenddate=${yyyymm}-28&outboundaltstartdate=${yyyymm}-01` : ""}`;
-  return path;
+  const range = resolveDateRange(args);
+  // Skyscanner accepts depart/return as YYYY-MM-DD via query when the path
+  // form lacks specifics. We use the search-style URL for reliability.
+  const params = new URLSearchParams();
+  if (range.checkin) params.set("outboundaltstartdate", range.checkin);
+  if (range.checkout) params.set("inboundaltsenddate", range.checkout);
+  const qs = params.toString();
+  return `https://www.skyscanner.com/transport/flights/${origin}/${dest}/${qs ? `?${qs}` : ""}`;
 }
 
-function gygUrl(destination: Destination) {
+function gygUrl(destination: Destination, args: { startDate?: string | null; endDate?: string | null }) {
   const params = new URLSearchParams({ q: `${destination.city} music` });
+  if (args.startDate) params.set("date_from", args.startDate);
+  if (args.endDate) params.set("date_to", args.endDate);
   return `https://www.getyourguide.com/s/?${params.toString()}`;
+}
+
+function resolveDateRange(args: {
+  startDate?: string | null;
+  endDate?: string | null;
+  month?: MonthNumber;
+}): { checkin: string | null; checkout: string | null } {
+  if (args.startDate && args.endDate) {
+    return { checkin: args.startDate, checkout: args.endDate };
+  }
+  if (args.startDate) {
+    return { checkin: args.startDate, checkout: null };
+  }
+  if (args.month) {
+    return {
+      checkin: firstDayOfMonth(args.month),
+      checkout: firstDayOfNextMonth(args.month)
+    };
+  }
+  return { checkin: null, checkout: null };
 }
 
 function firstDayOfMonth(month: MonthNumber) {
@@ -48,8 +81,14 @@ function firstDayOfNextMonth(month: MonthNumber) {
   return `${nextYear}-${String(nextMonth).padStart(2, "0")}-01`;
 }
 
-export function StayAndTravel({ destination, month, homeAirport }: StayAndTravelProps) {
+export function StayAndTravel({ destination, month, startDate, endDate, homeAirport }: StayAndTravelProps) {
   const monthLabel = month ? getMonthLabel(month).toLowerCase() : null;
+  const dateLabel =
+    startDate && endDate
+      ? `${startDate} → ${endDate}`
+      : monthLabel
+        ? `${destination.city.toLowerCase()} · ${monthLabel}`
+        : destination.city.toLowerCase();
 
   return (
     <section>
@@ -57,7 +96,7 @@ export function StayAndTravel({ destination, month, homeAirport }: StayAndTravel
         <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">stay & travel</span>
         <span className="h-px flex-1 bg-[var(--border)]" />
         <h2 className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)]">
-          {monthLabel ? `${destination.city.toLowerCase()} · ${monthLabel}` : destination.city.toLowerCase()}
+          {dateLabel}
         </h2>
       </div>
 
@@ -65,8 +104,14 @@ export function StayAndTravel({ destination, month, homeAirport }: StayAndTravel
         <Tile
           eyebrow="hotels"
           label="search booking.com"
-          subtitle={monthLabel ? `${monthLabel} 2026 stays in ${destination.city}` : `Stays in ${destination.city}`}
-          href={bookingUrl(destination, month)}
+          subtitle={
+            startDate && endDate
+              ? `${startDate} → ${endDate} in ${destination.city}`
+              : monthLabel
+                ? `${monthLabel} 2026 stays in ${destination.city}`
+                : `Stays in ${destination.city}`
+          }
+          href={bookingUrl(destination, { startDate, endDate, month })}
           provider="booking"
           destinationSlug={destination.slug}
           eventLabel="hotels-booking"
@@ -74,8 +119,12 @@ export function StayAndTravel({ destination, month, homeAirport }: StayAndTravel
         <Tile
           eyebrow="flights"
           label="search skyscanner"
-          subtitle={`Flights to ${destination.city}${homeAirport ? ` from ${homeAirport}` : ""}`}
-          href={skyscannerUrl(destination, month, homeAirport ?? "anywhere")}
+          subtitle={
+            startDate && endDate
+              ? `Flights ${homeAirport ? `from ${homeAirport} ` : ""}for ${startDate} → ${endDate}`
+              : `Flights to ${destination.city}${homeAirport ? ` from ${homeAirport}` : ""}`
+          }
+          href={skyscannerUrl(destination, { startDate, endDate, month, origin: homeAirport ?? "anywhere" })}
           provider="skyscanner"
           destinationSlug={destination.slug}
           eventLabel="flights-skyscanner"
@@ -84,7 +133,7 @@ export function StayAndTravel({ destination, month, homeAirport }: StayAndTravel
           eyebrow="experiences"
           label="getyourguide"
           subtitle={`Day plans, transfers, music tours in ${destination.city}`}
-          href={gygUrl(destination)}
+          href={gygUrl(destination, { startDate, endDate })}
           provider="gyg"
           destinationSlug={destination.slug}
           eventLabel="experiences-gyg"

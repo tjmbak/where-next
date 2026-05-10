@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
 import { createSupabaseBrowserClient } from "@/lib/supabase/client";
-import type { Itinerary, ItineraryDuration } from "@/lib/itineraries/generate";
+import type { Itinerary, ItineraryDay, ItineraryDuration } from "@/lib/itineraries/generate";
 import type { Budget, Destination } from "@/types/content";
 
 type ItineraryPlannerProps = {
@@ -197,7 +197,22 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
 
       {itinerary ? (
         <section id="itinerary-result" className="space-y-8">
-          <ItineraryView itinerary={itinerary} destination={destination} />
+          <ItineraryView
+            itinerary={itinerary}
+            destination={destination}
+            onSwapDay={(dayNumber, patch) => {
+              setItinerary((current) =>
+                current
+                  ? {
+                      ...current,
+                      days: current.days.map((d) =>
+                        d.day === dayNumber ? ({ ...d, ...patch } as ItineraryDay) : d
+                      )
+                    }
+                  : current
+              );
+            }}
+          />
           <div className="flex flex-wrap items-center gap-3 border-t border-[var(--border)] pt-6">
             <button
               type="button"

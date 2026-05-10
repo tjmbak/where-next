@@ -180,6 +180,17 @@ venues, or restaurants — every anchor MUST reference an id from the supplied
 events[] or venues[] arrays. Meals, neighborhoods, and transfers describe real
 districts in the destination using the travel notes for context.
 
+VIBE MATCHING IS THE PRIMARY SELECTION CRITERION:
+- Read the user's vibe tags carefully. Examples: "underground" + "late-night"
+  means they want techno clubs, intimate basements, after-hours culture — NOT
+  arena pop concerts, anime conventions, or commercial mainstage festivals.
+- For each candidate event/venue, mentally score: "does this match the vibe?"
+- An off-vibe anchor is WORSE than a free day or a repeated venue. If the
+  best remaining anchor doesn't match the vibe, prefer:
+    1. anchorKind="venue" with a venue you've already used another day (a
+       repeat-visit framing — "second night at this venue, deeper crowd")
+    2. anchorKind="free" with neighborhood-walk meal recs only
+
 Each day must:
 - Have one anchor (an event or venue) reflecting why someone is in town that day.
 - Have a neighborhood (one of the city's known music-tourism districts).
@@ -187,12 +198,11 @@ Each day must:
   restaurant names — say "small-batch coffee in Mitte" not "Bonanza Coffee").
 - Have a transferNote when there's a meaningful logistics tip.
 - Have a costBandUsd reflecting the destination's per-person daily spend.
-- Have a one-sentence anchorWhy explaining what makes this anchor special tonight.
+- Have a one-sentence anchorWhy explaining what makes this anchor special and
+  WHY IT MATCHES THE VIBE the user requested.
 
-Use anchorKind: "event" when an event slot exists, "venue" when stitching a
-venue night, "free" only when supply runs out. Prefer events over venues for
-peak nights (Fri/Sat). Spread anchors across days — don't repeat the same
-event title.
+Spread anchors across days — don't pick the same anchorId twice unless framing
+it as a deliberate repeat visit.
 
 Return JSON matching the requested schema. No prose outside the JSON.`;
 

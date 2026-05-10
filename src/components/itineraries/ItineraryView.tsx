@@ -3,17 +3,21 @@ import {
   getVenuesForDestination
 } from "@/data/music-travel";
 import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
-import type { Itinerary } from "@/lib/itineraries/generate";
+import { StayAndTravel } from "@/components/destinations/StayAndTravel";
+import { ItineraryDayEditor } from "@/components/itineraries/ItineraryDayEditor";
+import type { Itinerary, ItineraryDay } from "@/lib/itineraries/generate";
 import type { Destination } from "@/types/content";
 
 type ItineraryViewProps = {
   itinerary: Itinerary;
   destination: Destination;
+  // When provided, each day shows a swap-anchor affordance.
+  onSwapDay?: (dayNumber: number, patch: Partial<ItineraryDay>) => void;
 };
 
 const DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
-export function ItineraryView({ itinerary, destination }: ItineraryViewProps) {
+export function ItineraryView({ itinerary, destination, onSwapDay }: ItineraryViewProps) {
   const events = getEventsForDestination(destination.slug);
   const venues = getVenuesForDestination(destination.slug);
   const eventById = new Map(events.map((e) => [e.id, e]));
@@ -21,6 +25,10 @@ export function ItineraryView({ itinerary, destination }: ItineraryViewProps) {
 
   const totalLow = itinerary.days.reduce((sum, d) => sum + d.costBandUsd.low, 0);
   const totalHigh = itinerary.days.reduce((sum, d) => sum + d.costBandUsd.high, 0);
+
+  const allAnchorIds = itinerary.days
+    .map((d) => d.anchorId)
+    .filter((id): id is string => Boolean(id));
 
   return (
     <div>
@@ -122,6 +130,15 @@ export function ItineraryView({ itinerary, destination }: ItineraryViewProps) {
                     venue site ↗
                   </TrackedOutboundLink>
                 ) : null}
+
+                {onSwapDay ? (
+                  <ItineraryDayEditor
+                    destination={destination}
+                    day={day}
+                    excludeAnchorIds={allAnchorIds}
+                    onSwap={(patch) => onSwapDay(day.day, patch)}
+                  />
+                ) : null}
               </div>
             </li>
           );
@@ -131,6 +148,14 @@ export function ItineraryView({ itinerary, destination }: ItineraryViewProps) {
       <p className="mt-12 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
         anchors curated · suggested neighborhoods + meals from the destination guide
       </p>
+
+      <div className="mt-14 border-t border-[var(--border)] pt-10">
+        <StayAndTravel
+          destination={destination}
+          startDate={itinerary.startDate}
+          endDate={itinerary.endDate}
+        />
+      </div>
     </div>
   );
 }
