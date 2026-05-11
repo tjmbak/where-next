@@ -3,9 +3,9 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { CanvasItineraryView } from "@/components/itineraries/canvas/CanvasItineraryView";
 import { ItineraryLoadingState } from "@/components/itineraries/ItineraryLoadingState";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
+import { StatsPanel } from "@/components/itineraries/StatsPanel";
 import { createSupabaseBrowserClient } from "@/lib/supabase/client";
 import { DESTINATIONS } from "@/data/music-travel";
 import type { Itinerary, ItineraryDay, ItineraryDuration } from "@/lib/itineraries/generate";
@@ -32,7 +32,6 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [itinerary, setItinerary] = useState<Itinerary | null>(null);
-  const [viewMode, setViewMode] = useState<"canvas" | "list">("canvas");
 
   const isMultiCity = legs.length > 0;
   const totalDays = useMemo(() => {
@@ -326,56 +325,29 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
 
       {itinerary ? (
         <section id="itinerary-result" className="space-y-8 animate-fade-in">
-          <div className="flex items-center justify-between">
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              your draft trip
-            </p>
-            <div className="flex gap-1 rounded-full border border-[var(--border-strong)] p-0.5">
-              {(["canvas", "list"] as const).map((m) => (
-                <button
-                  key={m}
-                  type="button"
-                  onClick={() => setViewMode(m)}
-                  className={`rounded-full px-3 py-1 font-mono text-[10px] uppercase tracking-[0.22em] transition ${
-                    viewMode === m
-                      ? "bg-[var(--foreground)] text-[var(--background)]"
-                      : "text-[var(--muted)] hover:text-[var(--foreground)]"
-                  }`}
-                >
-                  {m}
-                </button>
-              ))}
-            </div>
-          </div>
+          <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+            your draft trip
+          </p>
 
-          {viewMode === "canvas" ? (
-            <div className="hidden lg:block">
-              <CanvasItineraryView
-                itinerary={itinerary}
-                destination={destination}
-                onChange={setItinerary}
-              />
-            </div>
-          ) : null}
+          <StatsPanel itinerary={itinerary} />
 
-          <div className={viewMode === "canvas" ? "lg:hidden" : ""}>
-            <ItineraryView
-              itinerary={itinerary}
-              destination={destination}
-              onSwapDay={(dayNumber, patch) => {
-                setItinerary((current) =>
-                  current
-                    ? {
-                        ...current,
-                        days: current.days.map((d) =>
-                          d.day === dayNumber ? ({ ...d, ...patch } as ItineraryDay) : d
-                        )
-                      }
-                    : current
-                );
-              }}
-            />
-          </div>
+          <ItineraryView
+            itinerary={itinerary}
+            destination={destination}
+            hideSummary
+            onSwapDay={(dayNumber, patch) => {
+              setItinerary((current) =>
+                current
+                  ? {
+                      ...current,
+                      days: current.days.map((d) =>
+                        d.day === dayNumber ? ({ ...d, ...patch } as ItineraryDay) : d
+                      )
+                    }
+                  : current
+              );
+            }}
+          />
 
           <div className="flex flex-wrap items-center gap-3 border-t border-[var(--border)] pt-6">
             <button

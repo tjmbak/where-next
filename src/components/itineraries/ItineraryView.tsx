@@ -4,9 +4,8 @@ import {
   getEventsForDestination,
   getVenuesForDestination
 } from "@/data/music-travel";
-import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
 import { StayAndTravel } from "@/components/destinations/StayAndTravel";
-import { ItineraryDayEditor } from "@/components/itineraries/ItineraryDayEditor";
+import { BentoDayCard } from "@/components/itineraries/BentoDayCard";
 import type { Itinerary, ItineraryDay } from "@/lib/itineraries/generate";
 import type { Destination, Event, Venue } from "@/types/content";
 
@@ -19,8 +18,6 @@ type ItineraryViewProps = {
   // renders a full-width BoardingPassHeader above this component.
   hideSummary?: boolean;
 };
-
-const DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
 export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }: ItineraryViewProps) {
   // Build per-leg event/venue lookup so multi-city days find their anchors.
@@ -82,113 +79,42 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
       </header>
       )}
 
-      <ol className={`${hideSummary ? "mt-12" : "mt-10"} space-y-10`}>
+      <ol className={`${hideSummary ? "mt-12" : "mt-10"} space-y-5`}>
         {itinerary.days.map((day, index) => {
-          const event = day.anchorKind === "event" && day.anchorId ? eventById.get(day.anchorId) : null;
-          const venue = day.anchorKind === "venue" && day.anchorId ? venueById.get(day.anchorId) : null;
+          const event: Event | null =
+            day.anchorKind === "event" && day.anchorId ? eventById.get(day.anchorId) ?? null : null;
+          const venue: Venue | null =
+            day.anchorKind === "venue" && day.anchorId ? venueById.get(day.anchorId) ?? null : null;
           const dayDestination = day.legSlug ? destinationBySlug.get(day.legSlug) ?? destination : destination;
           const prevDay = index > 0 ? itinerary.days[index - 1] : null;
           const showLegHeader = isMultiCity && (!prevDay || prevDay.legSlug !== day.legSlug);
-          const dateLabel = day.dateISO
-            ? `${DOW[new Date(day.dateISO + "T12:00:00Z").getUTCDay()]} ${day.dateISO}`
-            : `Day ${day.day}`;
 
           return (
             <Fragment key={day.day}>
-            {showLegHeader ? (
-              <li
-                className="wn-itinerary-day relative pt-2"
-                style={{ animationDelay: `${(day.day - 1) * 0.12}s` }}
-              >
-                <div className="flex items-center gap-3 border-t border-dashed border-[var(--border-strong)] pt-5">
-                  <span className="font-mono text-[10px] uppercase tracking-[0.32em] text-[var(--muted)]">
-                    {index === 0 ? "starts in" : "next stop"}
-                  </span>
-                  <span className="h-px flex-1 bg-[var(--border)]" />
-                  <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-                    {dayDestination.city}
-                  </span>
-                </div>
-              </li>
-            ) : null}
-            <li
-              className="wn-itinerary-day grid gap-4 border-l border-[var(--border)] pl-5 sm:grid-cols-[120px_1fr] sm:gap-6 sm:pl-0 sm:border-l-0"
-              style={{ animationDelay: `${(day.day - 1) * 0.12}s` }}
-            >
-              <div className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                day {String(day.day).padStart(2, "0")}
-                <br />
-                <span className="text-[var(--muted-2)]">{dateLabel}</span>
-              </div>
-              <div>
-                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-                  {day.anchorKind === "event"
-                    ? event?.type.replace("-", " ") ?? "event"
-                    : day.anchorKind === "venue"
-                      ? venue?.type.replace("-", " ") ?? "venue"
-                      : "open day"}
-                  {" · "}
-                  {day.neighborhood}
-                </p>
-                <h3 className="mt-2 text-[22px] font-medium leading-tight text-[var(--foreground)]">
-                  {day.anchorTitle}
-                </h3>
-                {day.anchorWhy ? (
-                  <p className="mt-2 max-w-2xl text-[15px] leading-7 text-[var(--foreground)]/85">{day.anchorWhy}</p>
-                ) : null}
-
-                <dl className="mt-5 grid gap-3 text-sm sm:grid-cols-2">
-                  <Field label="morning">{day.meal_morning}</Field>
-                  <Field label="evening">{day.meal_evening}</Field>
-                  {day.transferNote ? <Field label="getting around">{day.transferNote}</Field> : null}
-                  <Field label="cost band · per person">
-                    ${day.costBandUsd.low.toLocaleString()} – ${day.costBandUsd.high.toLocaleString()}
-                  </Field>
-                </dl>
-
-                {event?.ticketUrl ? (
-                  <TrackedOutboundLink
-                    href={event.ticketUrl}
-                    eventLabel={`itinerary-${event.id}`}
-                    destinationSlug={dayDestination.slug}
-                    provider="viagogo"
-                    preview={{ kind: "event", eventId: event.id }}
-                    className="mt-5 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
-                  >
-                    grab tickets ↗
-                  </TrackedOutboundLink>
-                ) : event?.sourceUrl ? (
-                  <TrackedOutboundLink
-                    href={event.sourceUrl}
-                    eventLabel={`itinerary-${event.id}-source`}
-                    destinationSlug={dayDestination.slug}
-                    preview={{ kind: "event", eventId: event.id }}
-                    className="mt-5 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
-                  >
-                    official source ↗
-                  </TrackedOutboundLink>
-                ) : venue?.officialUrl ? (
-                  <TrackedOutboundLink
-                    href={venue.officialUrl}
-                    eventLabel={`itinerary-venue-${venue.id}`}
-                    destinationSlug={dayDestination.slug}
-                    preview={{ kind: "venue", venueId: venue.id }}
-                    className="mt-5 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
-                  >
-                    venue site ↗
-                  </TrackedOutboundLink>
-                ) : null}
-
-                {onSwapDay ? (
-                  <ItineraryDayEditor
-                    destination={dayDestination}
-                    day={day}
-                    excludeAnchorIds={allAnchorIds}
-                    onSwap={(patch) => onSwapDay(day.day, patch)}
-                  />
-                ) : null}
-              </div>
-            </li>
+              {showLegHeader ? (
+                <li
+                  className="wn-itinerary-day relative pt-2"
+                  style={{ animationDelay: `${(day.day - 1) * 0.1}s` }}
+                >
+                  <div className="flex items-center gap-3 border-t border-dashed border-[var(--border-strong)] pt-5">
+                    <span className="font-mono text-[10px] uppercase tracking-[0.32em] text-[var(--muted)]">
+                      {index === 0 ? "starts in" : "next stop"}
+                    </span>
+                    <span className="h-px flex-1 bg-[var(--border)]" />
+                    <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+                      {dayDestination.city}
+                    </span>
+                  </div>
+                </li>
+              ) : null}
+              <BentoDayCard
+                day={day}
+                event={event}
+                venue={venue}
+                dayDestination={dayDestination}
+                onSwapDay={onSwapDay}
+                excludeAnchorIds={allAnchorIds}
+              />
             </Fragment>
           );
         })}
@@ -209,11 +135,3 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
   );
 }
 
-function Field({ label, children }: { label: string; children: React.ReactNode }) {
-  return (
-    <div>
-      <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{label}</dt>
-      <dd className="mt-1 text-[14px] leading-6 text-[var(--foreground)]">{children}</dd>
-    </div>
-  );
-}
