@@ -273,6 +273,12 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
         .map((p) => `${p.lat.toFixed(4)},${p.lng.toFixed(4)}`)
         .join("|");
       if (signature && signature !== lastFitSignatureRef.current) {
+        // Force leaflet to recalculate its container size before fitting.
+        // Without this, the first fit after the page reflows (canvas got its
+        // final h-[78vh] height) treats the container as its initial size
+        // and the resulting zoom-to-bounds is off — usually too zoomed-in,
+        // leaving distant cities off-screen.
+        map.invalidateSize({ animate: false });
         if (uniquePositions.length === 1) {
           map.setView([uniquePositions[0].lat, uniquePositions[0].lng], 12, {
             animate: lastFitSignatureRef.current !== null
@@ -281,7 +287,7 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
           const bounds = L.latLngBounds(
             uniquePositions.map((p) => [p.lat, p.lng] as [number, number])
           );
-          map.flyToBounds(bounds, { padding: [80, 80], maxZoom: 8, duration: 0.6 });
+          map.flyToBounds(bounds, { padding: [60, 60], maxZoom: 7, duration: 0.6 });
         }
         lastFitSignatureRef.current = signature;
       }
