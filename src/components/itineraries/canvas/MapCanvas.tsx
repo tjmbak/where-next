@@ -46,6 +46,11 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
   const fittedOnceRef = useRef(false);
   const [activeDay, setActiveDay] = useState<number | null>(itinerary.days[0]?.day ?? null);
   const [libraryOpen, setLibraryOpen] = useState(false);
+  // Track when the async leaflet init completes so the markers-sync effect
+  // (which depends on `mapRef.current`) re-runs once the map is actually live.
+  // Without this, markers + initial fitBounds were silently no-oping because
+  // the sync effect ran once on mount before the dynamic import resolved.
+  const [mapReady, setMapReady] = useState(false);
   const onChangeRef = useRef(onChange);
   const itineraryRef = useRef(itinerary);
   useEffect(() => {
@@ -121,6 +126,7 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
       }).addTo(map);
 
       mapRef.current = map;
+      setMapReady(true);
     })();
 
     const markers = markersRef.current;
@@ -168,16 +174,24 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
           isActive
         });
 
+        // The marker DIV is 200x80 (wrap with pin + slide-out card). The pin
+        // is a 32x32 circle at the LEFT, vertically centered. So its visual
+        // center sits at wrap-coords (16, 40) — that's where the latlng should
+        // point. Single-city trips stack all day-pins at the same coords;
+        // we offset each by (idx * 6px) on Y so they fan visually instead of
+        // collapsing into one indistinguishable dot.
+        const stackOffsetPx = singleCity(dayPositions) ? index * 6 : 0;
+        const iconAnchor: [number, number] = [16, 40 - stackOffsetPx];
+
         let marker = markersRef.current.get(day.day);
         if (marker) {
           marker.setLatLng([pos.lat, pos.lng]);
-          // Replace the icon (cheap; div-icon based)
           marker.setIcon(
             L.divIcon({
               className: "wn-day-marker",
               html,
               iconSize: [200, 80],
-              iconAnchor: [16, 16]
+              iconAnchor
             })
           );
         } else {
@@ -188,7 +202,7 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
               className: "wn-day-marker",
               html,
               iconSize: [200, 80],
-              iconAnchor: [16, 16]
+              iconAnchor
             })
           })
             .addTo(map)
@@ -255,7 +269,7 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
         fittedOnceRef.current = true;
       }
     })();
-  }, [itinerary.days, dayPositions, activeDay, destinationBySlug, legSlugs, destination]);
+  }, [itinerary.days, dayPositions, activeDay, destinationBySlug, legSlugs, destination, mapReady]);
 
   // Pan to active day's position when it changes
   useEffect(() => {
@@ -513,6 +527,10 @@ function dedupePositions(positions: Array<{ lat: number; lng: number }>) {
     out.push(p);
   }
   return out;
+}
+
+function singleCity(positions: Array<{ lat: number; lng: number }>) {
+  return dedupePositions(positions).length === 1;
 }
 
 function positionForDay(
