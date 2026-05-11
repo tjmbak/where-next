@@ -43,7 +43,11 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
   const mapRef = useRef<LeafletMap | null>(null);
   const markersRef = useRef<Map<number, LeafletMarker>>(new Map());
   const arcRef = useRef<Polyline | null>(null);
-  const fittedOnceRef = useRef(false);
+  // Track the unique-position signature we last fit to. When the trip
+  // shape changes (e.g. user adds Ibiza to a Berlin-only trip), this
+  // signature changes and we re-fit. Drags / anchor swaps don't change
+  // the signature, so the user's view is never yanked around mid-edit.
+  const lastFitSignatureRef = useRef<string | null>(null);
   const [activeDay, setActiveDay] = useState<number | null>(itinerary.days[0]?.day ?? null);
   const [libraryOpen, setLibraryOpen] = useState(false);
   // Track when the async leaflet init completes so the markers-sync effect
@@ -258,15 +262,20 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
         arcRef.current = arc;
       }
 
-      // Fit bounds — only on first render or when the leg set changes. We don't
-      // re-fit on every marker drag/anchor swap (that would yank the user's view
-      // around). Single-point trips use setView instead since fitBounds with a
-      // degenerate bounds can be flaky.
-      if (!fittedOnceRef.current && dayPositions.length > 0) {
-        const uniquePositions = dedupePositions(dayPositions);
+      // Fit bounds when the trip's UNIQUE-POSITION SHAPE changes — i.e. when
+      // the user adds a new city, removes a city, or swaps the anchor city.
+      // We do NOT re-fit on every marker drag or anchor swap (those don't
+      // change which cities are part of the trip), so the user's pan/zoom
+      // is preserved while they edit. Single-point trips use setView since
+      // fitBounds with a degenerate (zero-area) bounds can no-op silently.
+      const uniquePositions = dedupePositions(dayPositions);
+      const signature = uniquePositions
+        .map((p) => `${p.lat.toFixed(4)},${p.lng.toFixed(4)}`)
+        .join("|");
+      if (signature && signature !== lastFitSignatureRef.current) {
         if (uniquePositions.length === 1) {
           map.setView([uniquePositions[0].lat, uniquePositions[0].lng], 12, {
-            animate: false
+            animate: lastFitSignatureRef.current !== null
           });
         } else {
           const bounds = L.latLngBounds(
@@ -274,7 +283,7 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
           );
           map.flyToBounds(bounds, { padding: [80, 80], maxZoom: 8, duration: 0.6 });
         }
-        fittedOnceRef.current = true;
+        lastFitSignatureRef.current = signature;
       }
     })();
   }, [itinerary.days, dayPositions, activeDay, destinationBySlug, legSlugs, destination, mapReady]);
