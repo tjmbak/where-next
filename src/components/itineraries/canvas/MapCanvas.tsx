@@ -43,6 +43,7 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
   const mapRef = useRef<LeafletMap | null>(null);
   const markersRef = useRef<Map<number, LeafletMarker>>(new Map());
   const arcRef = useRef<Polyline | null>(null);
+  const fittedOnceRef = useRef(false);
   const [activeDay, setActiveDay] = useState<number | null>(itinerary.days[0]?.day ?? null);
   const [libraryOpen, setLibraryOpen] = useState(false);
   const onChangeRef = useRef(onChange);
@@ -235,10 +236,23 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
         arcRef.current = arc;
       }
 
-      // Fit bounds on first render
-      if (dayPositions.length > 0) {
-        const bounds = L.latLngBounds(dayPositions.map((p) => [p.lat, p.lng] as [number, number]));
-        map.flyToBounds(bounds, { padding: [80, 80], maxZoom: 8, duration: 0.6 });
+      // Fit bounds — only on first render or when the leg set changes. We don't
+      // re-fit on every marker drag/anchor swap (that would yank the user's view
+      // around). Single-point trips use setView instead since fitBounds with a
+      // degenerate bounds can be flaky.
+      if (!fittedOnceRef.current && dayPositions.length > 0) {
+        const uniquePositions = dedupePositions(dayPositions);
+        if (uniquePositions.length === 1) {
+          map.setView([uniquePositions[0].lat, uniquePositions[0].lng], 12, {
+            animate: false
+          });
+        } else {
+          const bounds = L.latLngBounds(
+            uniquePositions.map((p) => [p.lat, p.lng] as [number, number])
+          );
+          map.flyToBounds(bounds, { padding: [80, 80], maxZoom: 8, duration: 0.6 });
+        }
+        fittedOnceRef.current = true;
       }
     })();
   }, [itinerary.days, dayPositions, activeDay, destinationBySlug, legSlugs, destination]);
@@ -317,8 +331,14 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
   return (
     <DndContext sensors={sensors} collisionDetection={pointerWithin} onDragEnd={handleAnchorDrop}>
       <div ref={containerRef} className="relative h-[78vh] min-h-[640px] w-full overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--background)]">
-        {/* The map fills the canvas */}
-        <div ref={mapContainerRef} className="absolute inset-0" aria-label="Trip map canvas" />
+        {/* The map fills the canvas. `isolation: isolate` traps leaflet's internal
+            pane z-indexes (up to 700) inside this stacking context so they don't
+            paint over the absolute-positioned overlays below. */}
+        <div
+          ref={mapContainerRef}
+          className="absolute inset-0 isolate"
+          aria-label="Trip map canvas"
+        />
 
         {/* Top-left: route summary chip */}
         <div className="pointer-events-none absolute left-4 top-4 z-10 max-w-[60%]">
@@ -481,6 +501,18 @@ function FilmstripCard({
       </p>
     </li>
   );
+}
+
+function dedupePositions(positions: Array<{ lat: number; lng: number }>) {
+  const seen = new Set<string>();
+  const out: Array<{ lat: number; lng: number }> = [];
+  for (const p of positions) {
+    const key = `${p.lat.toFixed(4)}:${p.lng.toFixed(4)}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(p);
+  }
+  return out;
 }
 
 function positionForDay(
