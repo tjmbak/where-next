@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { usePreview, type PreviewPayload } from "@/components/preview/PreviewContext";
 import { trackEvent } from "@/lib/analytics";
 import {
@@ -63,9 +63,56 @@ export function PreviewSheet() {
   );
 }
 
+type RemoteMeta = {
+  url: string;
+  resolvedUrl: string;
+  hostname: string;
+  title: string | null;
+  description: string | null;
+  siteName: string | null;
+  image: string | null;
+  fetchedAt: string;
+};
+
+function useRemoteMeta(href: string | undefined) {
+  const [data, setData] = useState<RemoteMeta | null>(null);
+  const [status, setStatus] = useState<"idle" | "loading" | "error" | "ok">("idle");
+  useEffect(() => {
+    if (!href) return;
+    let cancelled = false;
+    // Defer the loading state to a microtask so we don't setState during the
+    // effect body (Tailwind v4-era React strict-mode rule).
+    queueMicrotask(() => {
+      if (cancelled) return;
+      setStatus("loading");
+      setData(null);
+    });
+    fetch(`/api/preview-meta?url=${encodeURIComponent(href)}`, { cache: "force-cache" })
+      .then(async (response) => {
+        if (cancelled) return;
+        if (!response.ok) {
+          setStatus("error");
+          return;
+        }
+        const body = (await response.json()) as RemoteMeta;
+        setData(body);
+        setStatus("ok");
+      })
+      .catch(() => {
+        if (cancelled) return;
+        setStatus("error");
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [href]);
+  return { data, status };
+}
+
 function SheetContent({ payload, onClose }: { payload: PreviewPayload; onClose: () => void }) {
   const destination = getDestinationBySlug(payload.destinationSlug);
   const outboundHref = buildOutboundHref(payload.provider, payload.href, payload.destinationSlug, payload.eventLabel);
+  const { data: meta, status: metaStatus } = useRemoteMeta(payload.href);
   const partnerLabel = useMemo(() => {
     const provider = payload.provider;
     const map: Record<string, string> = {
@@ -75,8 +122,8 @@ function SheetContent({ payload, onClose }: { payload: PreviewPayload; onClose: 
       viagogo: "Viagogo"
     };
     if (provider && map[provider]) return map[provider];
-    return hostnameOf(payload.href);
-  }, [payload.provider, payload.href]);
+    return meta?.siteName ?? hostnameOf(payload.href);
+  }, [payload.provider, payload.href, meta]);
 
   return (
     <>
@@ -94,10 +141,27 @@ function SheetContent({ payload, onClose }: { payload: PreviewPayload; onClose: 
         </button>
       </header>
 
-      <div className="flex-1 overflow-y-auto px-6 py-6">
+      <div className="flex-1 overflow-y-auto">
+        <RemoteHero status={metaStatus} meta={meta} hostname={hostnameOf(payload.href)} />
+
+        <div className="px-6 py-6">
         {payload.kind === "event" ? <EventBody payload={payload} /> : null}
         {payload.kind === "venue" ? <VenueBody payload={payload} /> : null}
         {payload.kind === "external" ? <ExternalBody payload={payload} /> : null}
+
+        {meta && (meta.description || meta.title) && (meta.description !== null || meta.title !== null) ? (
+          <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
+            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+              what {meta.siteName ?? meta.hostname} says
+            </p>
+            {meta.title ? (
+              <p className="mt-2 text-[14px] font-medium leading-6 text-[var(--foreground)]">{meta.title}</p>
+            ) : null}
+            {meta.description ? (
+              <p className="mt-2 text-[13px] leading-6 text-[var(--muted)]">{meta.description}</p>
+            ) : null}
+          </section>
+        ) : null}
 
         {destination ? (
           <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
@@ -112,6 +176,7 @@ function SheetContent({ payload, onClose }: { payload: PreviewPayload; onClose: 
             </p>
           </section>
         ) : null}
+        </div>
       </div>
 
       <footer className="border-t border-[var(--border)] bg-[var(--surface)] px-6 py-5">
@@ -297,6 +362,63 @@ function Cell({ label, value }: { label: string; value: string }) {
     <div>
       <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{label}</dt>
       <dd className="mt-1 text-[14px] leading-6 text-[var(--foreground)]">{value}</dd>
+    </div>
+  );
+}
+
+function RemoteHero({
+  status,
+  meta,
+  hostname
+}: {
+  status: "idle" | "loading" | "error" | "ok";
+  meta: RemoteMeta | null;
+  hostname: string;
+}) {
+  const showImage = status === "ok" && meta?.image;
+  const showSkeleton = status === "loading";
+
+  return (
+    <div className="relative w-full overflow-hidden border-b border-[var(--border)] bg-[var(--surface)]">
+      <div className="relative aspect-[16/9] w-full overflow-hidden">
+        {showImage ? (
+          <>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={meta!.image as string}
+              alt=""
+              className="h-full w-full object-cover"
+              loading="eager"
+              referrerPolicy="no-referrer"
+            />
+            <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-[var(--background)] via-transparent to-transparent" />
+          </>
+        ) : showSkeleton ? (
+          <div className="absolute inset-0 animate-pulse bg-[var(--surface-2)]" />
+        ) : (
+          <div className="absolute inset-0 grid place-items-center bg-[var(--surface-2)]">
+            <div className="flex flex-col items-center gap-2 text-[var(--muted-2)]">
+              <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden>
+                <rect x="3" y="5" width="18" height="14" rx="2" />
+                <path d="M3 16l5-5 4 4 3-3 6 6" />
+                <circle cx="9" cy="10" r="1.4" fill="currentColor" />
+              </svg>
+              <span className="font-mono text-[10px] uppercase tracking-[0.22em]">no preview available</span>
+            </div>
+          </div>
+        )}
+      </div>
+
+      <div className="absolute bottom-3 left-4 right-4 flex items-center gap-2">
+        <span className="rounded-full border border-[var(--border-strong)] bg-[var(--background)]/85 px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--foreground)] backdrop-blur">
+          {meta?.siteName ?? hostname}
+        </span>
+        {showImage ? (
+          <span className="rounded-full bg-[var(--background)]/65 px-2 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)] backdrop-blur">
+            live preview
+          </span>
+        ) : null}
+      </div>
     </div>
   );
 }
