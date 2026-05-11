@@ -175,13 +175,21 @@ export function MapCanvas({ itinerary, destination, onChange }: MapCanvasProps) 
         });
 
         // The marker DIV is 200x80 (wrap with pin + slide-out card). The pin
-        // is a 32x32 circle at the LEFT, vertically centered. So its visual
-        // center sits at wrap-coords (16, 40) — that's where the latlng should
-        // point. Single-city trips stack all day-pins at the same coords;
-        // we offset each by (idx * 6px) on Y so they fan visually instead of
-        // collapsing into one indistinguishable dot.
-        const stackOffsetPx = singleCity(dayPositions) ? index * 6 : 0;
-        const iconAnchor: [number, number] = [16, 40 - stackOffsetPx];
+        // is a 32x32 circle at the LEFT, vertically centered. Its visual
+        // center sits at wrap-coords (16, 40) — that's where the latlng
+        // should point.
+        //
+        // Single-city trips would otherwise stack every day-pin at the same
+        // coords (one dot you can't interact with). For shared coords we
+        // arrange the markers in a polar fan around the location: each pin
+        // is offset by (dx, dy) on screen, distributed evenly on a circle.
+        const sharedCoordPins = countAtSamePosition(dayPositions, pos);
+        const fanOffset = sharedCoordPins > 1
+          ? polarOffsetForIndex(indexAmongSharedCoords(dayPositions, pos, index), sharedCoordPins, 30)
+          : { dx: 0, dy: 0 };
+        // iconAnchor.x: pin shifts RIGHT by dx → anchor.x decreases by dx
+        // iconAnchor.y: pin shifts DOWN  by dy → anchor.y decreases by dy
+        const iconAnchor: [number, number] = [16 - fanOffset.dx, 40 - fanOffset.dy];
 
         let marker = markersRef.current.get(day.day);
         if (marker) {
@@ -529,8 +537,41 @@ function dedupePositions(positions: Array<{ lat: number; lng: number }>) {
   return out;
 }
 
-function singleCity(positions: Array<{ lat: number; lng: number }>) {
-  return dedupePositions(positions).length === 1;
+function positionKey(p: { lat: number; lng: number }) {
+  return `${p.lat.toFixed(4)}:${p.lng.toFixed(4)}`;
+}
+
+function countAtSamePosition(
+  positions: Array<{ lat: number; lng: number }>,
+  target: { lat: number; lng: number }
+) {
+  const key = positionKey(target);
+  return positions.filter((p) => positionKey(p) === key).length;
+}
+
+function indexAmongSharedCoords(
+  positions: Array<{ lat: number; lng: number }>,
+  target: { lat: number; lng: number },
+  flatIndex: number
+) {
+  const key = positionKey(target);
+  let n = 0;
+  for (let i = 0; i < flatIndex; i++) {
+    if (positionKey(positions[i]) === key) n++;
+  }
+  return n;
+}
+
+// Distribute markers around a circle. The first pin sits straight north
+// (visually "above" the location) and we walk clockwise. For 4 pins this
+// gives top / right / bottom / left — clean, predictable, no overlap.
+function polarOffsetForIndex(idx: number, total: number, radiusPx: number) {
+  if (total === 1) return { dx: 0, dy: 0 };
+  const angle = (idx / total) * Math.PI * 2 - Math.PI / 2;
+  return {
+    dx: Math.round(Math.cos(angle) * radiusPx),
+    dy: Math.round(Math.sin(angle) * radiusPx)
+  };
 }
 
 function positionForDay(
