@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { CanvasItineraryView } from "@/components/itineraries/canvas/CanvasItineraryView";
+import { MapCanvas } from "@/components/itineraries/canvas/MapCanvas";
 import { ItineraryLoadingState } from "@/components/itineraries/ItineraryLoadingState";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
 import { createSupabaseBrowserClient } from "@/lib/supabase/client";
@@ -32,7 +32,7 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [itinerary, setItinerary] = useState<Itinerary | null>(null);
-  const [viewMode, setViewMode] = useState<"canvas" | "list">("canvas");
+  const [viewMode, setViewMode] = useState<"map" | "list">("map");
 
   const isMultiCity = legs.length > 0;
   const totalDays = useMemo(() => {
@@ -331,7 +331,7 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
               your draft trip
             </p>
             <div className="flex gap-1 rounded-full border border-[var(--border-strong)] p-0.5">
-              {(["canvas", "list"] as const).map((m) => (
+              {(["map", "list"] as const).map((m) => (
                 <button
                   key={m}
                   type="button"
@@ -348,9 +348,9 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
             </div>
           </div>
 
-          {viewMode === "canvas" ? (
+          {viewMode === "map" ? (
             <div className="hidden lg:block">
-              <CanvasItineraryView
+              <MapCanvas
                 itinerary={itinerary}
                 destination={destination}
                 onChange={setItinerary}
@@ -358,7 +358,7 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
             </div>
           ) : null}
 
-          <div className={viewMode === "canvas" ? "lg:hidden" : ""}>
+          <div className={viewMode === "map" ? "lg:hidden" : ""}>
             <ItineraryView
               itinerary={itinerary}
               destination={destination}
