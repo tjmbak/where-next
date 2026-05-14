@@ -366,6 +366,19 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
           <p className="animate-fade-in mt-5 max-w-md text-[14px] leading-7 text-[var(--muted)]" style={{ animationDelay: "0.42s" }}>
             Festivals, club seasons, and cultural moments worth flying for &mdash; curated city by city, month by month.
           </p>
+
+          <Link
+            href="/compose"
+            className="animate-fade-in group mt-7 inline-flex items-center gap-2.5 rounded-full border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-4 py-2.5 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--signal)] transition hover:bg-[var(--signal)]/15 hover:border-[var(--signal)]/70"
+            style={{ animationDelay: "0.58s" }}
+            onClick={() => trackEvent("compose_entry_click", { source: "home-hero" })}
+          >
+            <span aria-hidden className="grid h-5 w-5 place-items-center rounded-full bg-[var(--signal)] text-[var(--background)] text-[10px]">
+              ✦
+            </span>
+            ask the composer
+            <span aria-hidden className="transition group-hover:translate-x-0.5">→</span>
+          </Link>
         </div>
 
         <div className="animate-fade-in relative order-1 lg:order-2" style={{ animationDelay: "0.28s" }}>

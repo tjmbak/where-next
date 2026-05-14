@@ -1,6 +1,9 @@
 import { NextResponse } from "next/server";
+import { clearPendingComposeCookie, readPendingComposeCookie } from "@/lib/compose/pending";
 import { clearPendingForkCookie, readPendingForkCookie } from "@/lib/fork-pending";
 import { forkItinerary } from "@/lib/itineraries/fork";
+import { generateItinerary } from "@/lib/itineraries/generate";
+import { generateItinerarySlug } from "@/lib/itineraries/slug";
 import { clearReferralCookie, readReferralCookie } from "@/lib/referral";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
@@ -85,6 +88,64 @@ export async function GET(request: Request) {
       if (result.ok) {
         return NextResponse.redirect(new URL(`/itineraries/${result.slug}?forked=1`, url.origin));
       }
+    }
+
+    // If the user clicked "save this trip" in the composer while anonymous,
+    // regenerate from their stashed spec and write the row.
+    const pendingCompose = await readPendingComposeCookie();
+    if (pendingCompose) {
+      try {
+        const itinerary = await generateItinerary({
+          destinationSlug: pendingCompose.destinationSlug,
+          durationDays: pendingCompose.durationDays,
+          startDate: pendingCompose.startDate ?? undefined,
+          vibeTags: pendingCompose.vibeTags,
+          budgetBand: pendingCompose.budgetBand ?? undefined
+        });
+        const service = createSupabaseServiceClient();
+        if (service) {
+          for (let attempt = 0; attempt < 5; attempt++) {
+            const slug = generateItinerarySlug(pendingCompose.city, itinerary.vibeTags, itinerary.durationDays);
+            const { data, error } = await service
+              .from("itineraries")
+              .insert({
+                slug,
+                owner_id: userData.user.id,
+                destination_slug: itinerary.destinationSlug,
+                title: itinerary.title,
+                start_date: itinerary.startDate,
+                end_date: itinerary.endDate,
+                duration_days: itinerary.durationDays,
+                legs: itinerary.legs,
+                vibe_tags: itinerary.vibeTags,
+                budget_band: itinerary.budgetBand,
+                days: itinerary.days,
+                visibility: "private",
+                generation_meta: {
+                  model: itinerary.model,
+                  generatedAt: itinerary.generatedAt,
+                  source: "composer-postauth"
+                }
+              })
+              .select("id, slug")
+              .single();
+            if (!error && data) {
+              await service
+                .from("itinerary_collaborators")
+                .upsert(
+                  { itinerary_id: data.id, user_id: userData.user.id, role: "owner" },
+                  { onConflict: "itinerary_id,user_id" }
+                );
+              await clearPendingComposeCookie();
+              return NextResponse.redirect(new URL(`/itineraries/${data.slug}?from=composer`, url.origin));
+            }
+            if (error && error.code !== "23505") break;
+          }
+        }
+      } catch (err) {
+        console.warn("[auth/callback] pending compose failed:", err);
+      }
+      await clearPendingComposeCookie();
     }
   }
 
