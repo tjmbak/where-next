@@ -1,13 +1,17 @@
 import { COMPOSE_TOOLS, destinationsCatalogSnippet, dispatchTool } from "@/lib/compose/tools";
 import type { ComposeMessage, ComposeToolResult } from "@/lib/compose/types";
+import type { Itinerary } from "@/lib/itineraries/generate";
 
 const MODEL = "gpt-4o-mini";
 
-function systemPrompt(): string {
+function systemPrompt(opts: { hasDraft: boolean }): string {
   const today = new Date();
   const todayIso = today.toISOString().slice(0, 10);
   const currentYear = today.getUTCFullYear();
   const nextYear = currentYear + 1;
+  const draftStatus = opts.hasDraft
+    ? "THE USER HAS A CURRENT DRAFT ITINERARY. They can ask to swap specific days. Use swap_anchor for those requests; do NOT call suggest_itineraries again unless they explicitly want a fresh trip."
+    : "The user does not yet have a draft itinerary. swap_anchor is unavailable until you've generated one with suggest_itineraries.";
   return `You are the Where Next Composer — a music-travel trip designer that helps
 travelers go from "I have some days off" to a curated, booked-ready itinerary.
 
@@ -25,7 +29,9 @@ GROUND TRUTH:
   If the user asks about somewhere not in the catalog, say so and suggest
   the closest match.
 - All event/venue/cost details come from the tools — never invent them.
-- Tools available: search_destinations, suggest_itineraries.
+- Tools available: search_destinations, suggest_itineraries, swap_anchor.
+
+DRAFT STATE: ${draftStatus}
 
 WHEN YOU CALL search_destinations, YOU MUST PASS EVERY FILTER THE USER GAVE
 YOU. If the user said "in Europe", pass regions:["Europe"]. If they said
@@ -44,6 +50,10 @@ YOUR WORKFLOW:
 3. After tool results render, your follow-up message should be short:
    acknowledge what you generated and invite the next action ("Tap save to
    keep it, or tell me what to swap.").
+4. After they have a draft, listen for swap requests ("swap day 3", "change
+   tuesday", "the museum day feels off"). Call swap_anchor with the day
+   number and the user's criteria quoted directly. Acknowledge the swap
+   with one short sentence — the card does the explaining visually.
 
 INPUTS YOU SHOULD CARE ABOUT:
 - Vibe (underground/festival/beach/intimate/etc.) — this is the most
@@ -102,6 +112,7 @@ export type AgentEvent =
 export type AgentTurnInput = {
   messages: ComposeMessage[];
   apiKey: string;
+  currentDraft: Itinerary | null;
 };
 
 /**
@@ -117,7 +128,7 @@ export type AgentTurnInput = {
  */
 export async function* runAgentTurn(input: AgentTurnInput): AsyncGenerator<AgentEvent> {
   const conversation: ChatMessage[] = [
-    { role: "system", content: systemPrompt() },
+    { role: "system", content: systemPrompt({ hasDraft: input.currentDraft !== null }) },
     ...input.messages.map<ChatMessage>((m) => ({ role: m.role, content: m.content }))
   ];
 
@@ -174,7 +185,10 @@ export async function* runAgentTurn(input: AgentTurnInput): AsyncGenerator<Agent
     } catch {
       parsedArgs = {};
     }
-    const result = await dispatchTool(call.function.name, parsedArgs);
+    const result = await dispatchTool(call.function.name, parsedArgs, {
+      apiKey: input.apiKey,
+      currentDraft: input.currentDraft
+    });
 
     if (result.kind === "error") {
       conversation.push({

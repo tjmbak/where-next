@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { runAgentTurn } from "@/lib/compose/agent";
 import type { ComposeMessage } from "@/lib/compose/types";
+import type { Itinerary } from "@/lib/itineraries/generate";
 
 export const runtime = "nodejs";
 // Streamed agent turns can run ~10-30s for the suggest_itineraries tool.
@@ -14,8 +15,27 @@ const messageSchema = z.object({
   createdAt: z.string().max(40)
 });
 
+// currentDraft can balloon to ~20KB serialized; allow it but cap message size.
+// Loose validation here — generateItinerary's schema is the source of truth.
+const draftSchema = z
+  .object({
+    destinationSlug: z.string(),
+    title: z.string(),
+    startDate: z.string().nullable(),
+    endDate: z.string().nullable(),
+    durationDays: z.number().int(),
+    legs: z.array(z.object({ destinationSlug: z.string(), days: z.number().int() })),
+    vibeTags: z.array(z.string()),
+    budgetBand: z.string(),
+    days: z.array(z.record(z.string(), z.unknown())),
+    generatedAt: z.string(),
+    model: z.string()
+  })
+  .passthrough();
+
 const bodySchema = z.object({
-  messages: z.array(messageSchema).min(1).max(40)
+  messages: z.array(messageSchema).min(1).max(40),
+  currentDraft: draftSchema.nullable().optional()
 });
 
 export async function POST(request: Request) {
@@ -37,6 +57,7 @@ export async function POST(request: Request) {
   }
 
   const messages: ComposeMessage[] = parsed.data.messages;
+  const currentDraft = (parsed.data.currentDraft as Itinerary | undefined | null) ?? null;
 
   const encoder = new TextEncoder();
   const stream = new ReadableStream<Uint8Array>({
@@ -52,7 +73,7 @@ export async function POST(request: Request) {
       };
 
       try {
-        for await (const ev of runAgentTurn({ messages, apiKey })) {
+        for await (const ev of runAgentTurn({ messages, apiKey, currentDraft })) {
           send(ev.type, ev);
         }
       } catch (err) {

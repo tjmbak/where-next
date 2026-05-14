@@ -1,13 +1,14 @@
 import { DESTINATIONS } from "@/data/music-travel";
 import { GENRE_LABELS, REGIONS, VIBE_LABELS } from "@/data/taxonomy";
+import { swapAnchorInDraft } from "@/lib/compose/swap";
 import type {
   ComposeDestinationCard,
   ComposeItineraryCard
 } from "@/lib/compose/types";
+import type { Itinerary } from "@/lib/itineraries/generate";
 import { generateItinerary } from "@/lib/itineraries/generate";
 import type {
   Budget,
-  Destination,
   Genre,
   MonthNumber,
   Region,
@@ -18,7 +19,16 @@ import type {
 // Tool descriptors (OpenAI-format function definitions)
 // ---------------------------------------------------------------------------
 
-export const COMPOSE_TOOLS = [
+type ToolDescriptor = {
+  type: "function";
+  function: {
+    name: string;
+    description: string;
+    parameters: Record<string, unknown>;
+  };
+};
+
+export const COMPOSE_TOOLS: ToolDescriptor[] = [
   {
     type: "function" as const,
     function: {
@@ -55,6 +65,28 @@ export const COMPOSE_TOOLS = [
           limit: {
             type: "integer",
             description: "Max results (default 5, cap 8)"
+          }
+        }
+      }
+    }
+  },
+  {
+    type: "function" as const,
+    function: {
+      name: "swap_anchor",
+      description:
+        "Replace a single day's anchor in the user's current draft itinerary based on natural-language criteria. Only call this when (a) there IS a current draft itinerary from a prior suggest_itineraries call and (b) the user is asking to change one specific day. Examples of valid triggers: 'swap day 3 for something quieter', 'replace tuesday with a club night', 'change the museum day'. Returns the full updated itinerary as a fresh card.",
+      parameters: {
+        type: "object",
+        required: ["dayNumber", "criteria"],
+        properties: {
+          dayNumber: {
+            type: "integer",
+            description: "1-indexed day number to swap (1 = first day, etc.)."
+          },
+          criteria: {
+            type: "string",
+            description: "What kind of anchor should replace the current one. Quote the user's words when possible (e.g. 'quieter', 'underground club instead of venue', 'a real event not free time')."
           }
         }
       }
@@ -119,17 +151,29 @@ export const COMPOSE_TOOLS = [
 
 export type ToolCallArgs = Record<string, unknown>;
 
+export type ToolContext = {
+  apiKey: string;
+  currentDraft: Itinerary | null;
+};
+
 export type ToolDispatchResult =
   | { kind: "destinations"; items: ComposeDestinationCard[] }
   | { kind: "itineraries"; items: ComposeItineraryCard[] }
   | { kind: "error"; message: string };
 
-export async function dispatchTool(name: string, args: ToolCallArgs): Promise<ToolDispatchResult> {
+export async function dispatchTool(
+  name: string,
+  args: ToolCallArgs,
+  context: ToolContext
+): Promise<ToolDispatchResult> {
   if (name === "search_destinations") {
     return runSearchDestinations(args);
   }
   if (name === "suggest_itineraries") {
     return runSuggestItineraries(args);
+  }
+  if (name === "swap_anchor") {
+    return runSwapAnchor(args, context);
   }
   return { kind: "error", message: `unknown-tool:${name}` };
 }
@@ -281,6 +325,39 @@ async function runSuggestItineraries(args: ToolCallArgs): Promise<ToolDispatchRe
     return { kind: "error", message: "all generations failed" };
   }
   return { kind: "itineraries", items };
+}
+
+// ---------------------------------------------------------------------------
+// swap_anchor
+// ---------------------------------------------------------------------------
+
+async function runSwapAnchor(args: ToolCallArgs, context: ToolContext): Promise<ToolDispatchResult> {
+  if (!context.currentDraft) {
+    return {
+      kind: "error",
+      message: "no-current-draft — generate an itinerary first before swapping"
+    };
+  }
+  const dayNumber = typeof args.dayNumber === "number" ? Math.floor(args.dayNumber) : NaN;
+  const criteria = typeof args.criteria === "string" ? args.criteria.trim() : "";
+  if (!Number.isFinite(dayNumber) || dayNumber < 1) {
+    return { kind: "error", message: "invalid dayNumber" };
+  }
+  if (criteria.length === 0) {
+    return { kind: "error", message: "missing criteria" };
+  }
+
+  const result = await swapAnchorInDraft({
+    draft: context.currentDraft,
+    dayNumber,
+    criteria,
+    apiKey: context.apiKey
+  });
+
+  if (result.kind === "error") {
+    return { kind: "error", message: result.message };
+  }
+  return { kind: "itineraries", items: [result.card] };
 }
 
 // ---------------------------------------------------------------------------

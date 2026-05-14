@@ -1,17 +1,22 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { ChatMarkdown } from "@/components/compose/ChatMarkdown";
 import { ComposeItineraryCardView } from "@/components/compose/ComposeItineraryCardView";
 import { ComposeDestinationStrip } from "@/components/compose/ComposeDestinationStrip";
 import { trackEvent } from "@/lib/analytics";
+import { generateSessionToken } from "@/lib/compose/session";
 import type {
   ComposeDestinationCard,
   ComposeItineraryCard,
   ComposeMessage,
   ComposeToolResult
 } from "@/lib/compose/types";
+import type { Itinerary } from "@/lib/itineraries/generate";
 
 const STORAGE_KEY = "wn:compose:history:v1";
+const DRAFT_KEY = "wn:compose:draft:v1";
+const TOKEN_KEY = "wn:compose:token:v1";
 const MAX_PERSISTED = 24;
 
 type ComposeChatProps = {
@@ -24,21 +29,71 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
   const [pending, setPending] = useState(false);
   const [phaseLabel, setPhaseLabel] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [currentItinerary, setCurrentItinerary] = useState<Itinerary | null>(null);
+  // Ref mirror so the SSE handler always sees the freshest draft without
+  // re-creating sendMessage every time it changes (which would cancel
+  // mid-stream effects).
+  const currentItineraryRef = useRef<Itinerary | null>(null);
+  const sessionTokenRef = useRef<string | null>(null);
   const scrollRef = useRef<HTMLDivElement | null>(null);
   const abortRef = useRef<AbortController | null>(null);
 
   // Restore history on mount. Deferred via queueMicrotask so we don't trigger
   // a cascading render during the mount effect (linter-enforced React pattern).
+  // Also resolves a stable session token (generates if missing) and attempts
+  // to hydrate from the server for authed users when localStorage is empty.
   useEffect(() => {
     if (typeof window === "undefined") return;
     let cancelled = false;
-    queueMicrotask(() => {
+    queueMicrotask(async () => {
       if (cancelled) return;
+      let token = "";
       try {
+        token = window.localStorage.getItem(TOKEN_KEY) ?? "";
+        if (!token) {
+          token = generateSessionToken();
+          window.localStorage.setItem(TOKEN_KEY, token);
+        }
+        sessionTokenRef.current = token;
+
         const raw = window.localStorage.getItem(STORAGE_KEY);
-        if (!raw) return;
-        const parsed = JSON.parse(raw) as ComposeMessage[];
-        if (Array.isArray(parsed)) setMessages(parsed.slice(-MAX_PERSISTED));
+        const draftRaw = window.localStorage.getItem(DRAFT_KEY);
+        const hasLocal = Boolean(raw);
+        if (raw) {
+          const parsed = JSON.parse(raw) as ComposeMessage[];
+          if (Array.isArray(parsed)) setMessages(parsed.slice(-MAX_PERSISTED));
+        }
+        if (draftRaw) {
+          const draftParsed = JSON.parse(draftRaw) as Itinerary;
+          if (draftParsed && draftParsed.destinationSlug) {
+            currentItineraryRef.current = draftParsed;
+            setCurrentItinerary(draftParsed);
+          }
+        }
+
+        // No local data — attempt to hydrate from server. Anon users get 401
+        // and we silently fall through to the empty state.
+        if (!hasLocal && token) {
+          try {
+            const res = await fetch(`/api/compose/sessions/${encodeURIComponent(token)}`);
+            if (res.ok) {
+              const body = (await res.json()) as {
+                session?: { messages?: ComposeMessage[]; current_draft?: Itinerary | null };
+              };
+              const remoteMessages = body.session?.messages;
+              const remoteDraft = body.session?.current_draft ?? null;
+              if (Array.isArray(remoteMessages) && remoteMessages.length > 0) {
+                setMessages(remoteMessages.slice(-MAX_PERSISTED));
+              }
+              if (remoteDraft && remoteDraft.destinationSlug) {
+                currentItineraryRef.current = remoteDraft;
+                setCurrentItinerary(remoteDraft);
+              }
+            }
+          } catch {
+            /* offline or 404 — fine */
+          }
+        }
       } catch {
         /* ignore */
       }
@@ -57,6 +112,49 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
       /* quota or private-mode */
     }
   }, [messages]);
+
+  // Persist current draft itinerary so swap/save survives reload.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    try {
+      if (currentItinerary) {
+        window.localStorage.setItem(DRAFT_KEY, JSON.stringify(currentItinerary));
+      } else {
+        window.localStorage.removeItem(DRAFT_KEY);
+      }
+    } catch {
+      /* quota or private-mode */
+    }
+  }, [currentItinerary]);
+
+  // Passive sync to server after each completed turn. Authed users transparently
+  // get cross-device resume; anon users get 401 and we drop it on the floor.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (pending) return;
+    if (messages.length === 0) return;
+    const token = sessionTokenRef.current;
+    if (!token) return;
+    const controller = new AbortController();
+    const timer = window.setTimeout(() => {
+      fetch("/api/compose/sessions", {
+        method: "PUT",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          token,
+          messages: messages.slice(-MAX_PERSISTED),
+          currentDraft: currentItineraryRef.current
+        }),
+        signal: controller.signal
+      }).catch(() => {
+        /* anon or offline — keep going */
+      });
+    }, 250);
+    return () => {
+      controller.abort();
+      window.clearTimeout(timer);
+    };
+  }, [messages, pending]);
 
   // Auto-scroll to bottom on new content
   useEffect(() => {
@@ -102,6 +200,13 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
             : m
         )
       );
+      // If the tool produced (or replaced) the draft itinerary, capture it
+      // so the next turn can fire swap_anchor against the right state.
+      if (result.kind === "itineraries" && result.items[0]) {
+        const next = result.items[0].itinerary;
+        currentItineraryRef.current = next;
+        setCurrentItinerary(next);
+      }
       return;
     }
     if (eventName === "text_delta") {
@@ -161,7 +266,10 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
         const res = await fetch("/api/compose/stream", {
           method: "POST",
           headers: { "content-type": "application/json" },
-          body: JSON.stringify({ messages: sendable }),
+          body: JSON.stringify({
+            messages: sendable,
+            currentDraft: currentItineraryRef.current
+          }),
           signal: controller.signal
         });
 
@@ -208,10 +316,25 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
 
   const handleClear = useCallback(() => {
     setMessages([]);
+    currentItineraryRef.current = null;
+    setCurrentItinerary(null);
+    const oldToken = sessionTokenRef.current;
     try {
       window.localStorage.removeItem(STORAGE_KEY);
+      window.localStorage.removeItem(DRAFT_KEY);
+      const fresh = generateSessionToken();
+      window.localStorage.setItem(TOKEN_KEY, fresh);
+      sessionTokenRef.current = fresh;
     } catch {
       /* ignore */
+    }
+    // Best-effort delete the server row for the old token. Anon will 401 — fine.
+    if (oldToken) {
+      fetch(`/api/compose/sessions/${encodeURIComponent(oldToken)}`, {
+        method: "DELETE"
+      }).catch(() => {
+        /* ignore */
+      });
     }
   }, []);
 
@@ -355,7 +478,7 @@ function AssistantBubble({
               {phaseLabel ?? "thinking…"}
             </span>
           ) : content ? (
-            <p className="whitespace-pre-line">{content}</p>
+            <ChatMarkdown content={content} />
           ) : null}
           {pending && content.length > 0 && phaseLabel ? (
             <p className="mt-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
