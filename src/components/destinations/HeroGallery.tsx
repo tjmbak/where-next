@@ -109,9 +109,9 @@ export function HeroGallery({ destination }: HeroGalleryProps) {
             type="button"
             onClick={prev}
             aria-label="Previous photo"
-            className="grid h-7 w-7 place-items-center rounded-full text-white/85 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60"
+            className="grid h-11 w-11 place-items-center rounded-full text-white/85 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 sm:h-9 sm:w-9"
           >
-            <span aria-hidden className="text-[12px] leading-none">‹</span>
+            <span aria-hidden className="text-[18px] leading-none sm:text-[14px]">‹</span>
           </button>
           <div className="flex items-center gap-1.5 px-1">
             {slides.map((slide, idx) => (
@@ -131,9 +131,9 @@ export function HeroGallery({ destination }: HeroGalleryProps) {
             type="button"
             onClick={next}
             aria-label="Next photo"
-            className="grid h-7 w-7 place-items-center rounded-full text-white/85 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60"
+            className="grid h-11 w-11 place-items-center rounded-full text-white/85 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 sm:h-9 sm:w-9"
           >
-            <span aria-hidden className="text-[12px] leading-none">›</span>
+            <span aria-hidden className="text-[18px] leading-none sm:text-[14px]">›</span>
           </button>
           <span aria-hidden className="ml-1 hidden h-3 w-px bg-white/15 sm:block" />
           <span className="hidden font-mono text-[10px] uppercase tracking-[0.22em] text-white/75 sm:inline">

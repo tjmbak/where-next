@@ -282,17 +282,17 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                         ) : null;
                       })()}
                     </div>
-                    <h3 className="mt-2 text-[22px] font-medium leading-tight text-[var(--foreground)]">
+                    <h3 className="mt-2 text-[18px] font-medium leading-snug text-[var(--foreground)] sm:text-[22px] sm:leading-tight">
                       {event.title}
                     </h3>
-                    <p className="mt-3 max-w-2xl text-[15px] leading-7 text-[var(--muted)]">{event.summary}</p>
+                    <p className="mt-2 max-w-2xl text-[14px] leading-6 text-[var(--muted)] sm:mt-3 sm:text-[15px] sm:leading-7">{event.summary}</p>
                     <TrackedOutboundLink
                       href={event.ticketUrl ?? event.sourceUrl}
                       eventLabel={event.title}
                       destinationSlug={destination.slug}
                       provider={event.ticketUrl ? "viagogo" : "raw"}
                       preview={{ kind: "event", eventId: event.id }}
-                      className="mt-4 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+                      className="mt-4 inline-flex min-h-11 items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)] sm:min-h-0"
                     >
                       official source
                       <span aria-hidden>↗</span>
@@ -366,7 +366,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                       ? { color: "#0a0a0a", backgroundColor: "#ededeb", borderColor: "#ededeb" }
                       : undefined
                   }
-                  className={`mb-2 block rounded-md border px-3 py-2 text-center font-mono text-[11px] uppercase tracking-[0.18em] transition ${
+                  className={`mb-2 flex min-h-11 items-center justify-center rounded-md border px-3 py-2.5 text-center font-mono text-[11px] uppercase tracking-[0.18em] transition sm:min-h-0 sm:py-2 ${
                     isYearView
                       ? "font-bold"
                       : "border-[var(--border)] text-[var(--muted-2)] hover:border-[var(--border-strong)] hover:text-[var(--foreground)]/85"
@@ -389,7 +389,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                             ? { color: "#0a0a0a", backgroundColor: "#ededeb", borderColor: "#ededeb" }
                             : undefined
                         }
-                        className={`rounded-md border px-2 py-2 text-center font-mono text-[11px] uppercase tracking-[0.12em] transition ${
+                        className={`flex min-h-11 items-center justify-center rounded-md border px-2 py-2.5 text-center font-mono text-[11px] uppercase tracking-[0.12em] transition sm:min-h-0 sm:py-2 ${
                           isSelected
                             ? "font-bold"
                             : isPeak
