@@ -252,7 +252,7 @@ async function runSuggestItineraries(args: ToolCallArgs): Promise<ToolDispatchRe
       const itinerary = await generateItinerary({
         destinationSlug: plan.destinationSlug as string,
         durationDays: plan.durationDays as 3 | 4 | 5 | 7 | 10 | 14,
-        startDate: plan.startDate,
+        startDate: coerceFutureDate(plan.startDate),
         vibeTags: plan.vibeTags,
         budgetBand: (plan.budgetBand as Budget | undefined) ?? undefined
       });
@@ -302,6 +302,35 @@ function sanitizeArray(value: unknown, allowed: Set<string>): string[] {
 function monthShort(month: MonthNumber): string {
   const labels = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
   return labels[month - 1] ?? String(month);
+}
+
+/**
+ * Belt-and-braces guard: if the LLM passes a date in the past (likely because
+ * it defaulted to a training-era year), advance it forward year-by-year until
+ * we're back in the future. Preserves month + day so the user still gets the
+ * scene/festival window they asked for.
+ *
+ * Returns undefined for invalid dates so generateItinerary falls back to its
+ * own peak-month default-date picker.
+ */
+function coerceFutureDate(raw: string | undefined): string | undefined {
+  if (!raw) return undefined;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(raw)) return undefined;
+  const [yStr, mStr, dStr] = raw.split("-");
+  let year = parseInt(yStr, 10);
+  const month = parseInt(mStr, 10);
+  const day = parseInt(dStr, 10);
+  if (!Number.isFinite(year) || !Number.isFinite(month) || !Number.isFinite(day)) return undefined;
+
+  const today = new Date();
+  const todayMs = Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate());
+  while (true) {
+    const candidate = Date.UTC(year, month - 1, day);
+    if (candidate >= todayMs) break;
+    year++;
+    if (year > today.getUTCFullYear() + 5) return undefined; // safety
+  }
+  return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
 }
 
 // Export a snapshot of the destinations catalog the LLM can ground on. We
