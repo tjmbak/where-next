@@ -3,7 +3,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BoardingPassHeader } from "@/components/itineraries/BoardingPassHeader";
 import { CollaboratorPanel } from "@/components/itineraries/CollaboratorPanel";
+import { ForkTripButton } from "@/components/itineraries/ForkTripButton";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
+import { StatsPanel } from "@/components/itineraries/StatsPanel";
 import { ShareButtons } from "@/components/sharing/ShareButtons";
 import { getDestinationBySlug } from "@/data/music-travel";
 import type { Itinerary } from "@/lib/itineraries/generate";
@@ -12,7 +14,10 @@ import { breadcrumbJsonLd, jsonLdScript, siteUrl } from "@/lib/structured-data";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
 
-type RouteContext = { params: Promise<{ slug: string }> };
+type RouteContext = {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+};
 
 type ItineraryRow = {
   id: string;
@@ -67,7 +72,7 @@ async function loadItinerary(slug: string): Promise<ItineraryRow | null> {
   return data ? (data as ItineraryRow) : null;
 }
 
-export async function generateMetadata({ params }: RouteContext): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const itinerary = await loadItinerary(slug);
   if (!itinerary || itinerary.visibility === "private") return { robots: { index: false } };
@@ -100,8 +105,10 @@ export async function generateMetadata({ params }: RouteContext): Promise<Metada
   };
 }
 
-export default async function ItineraryPage({ params }: RouteContext) {
+export default async function ItineraryPage({ params, searchParams }: RouteContext) {
   const { slug } = await params;
+  const sp = await searchParams;
+  const justForked = sp?.forked === "1";
   const itinerary = await loadItinerary(slug);
   if (!itinerary) notFound();
 
@@ -174,6 +181,17 @@ export default async function ItineraryPage({ params }: RouteContext) {
       </header>
 
       <section className="mx-auto w-full max-w-[820px] px-6 pb-24 pt-12 sm:px-10">
+        {justForked ? (
+          <div className="mb-8 rounded-xl border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-4 py-3">
+            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+              forked · this trip is yours now
+            </p>
+            <p className="mt-1 text-[14px] leading-6 text-[var(--foreground)]">
+              Every day copied. Tap any anchor to swap it for one that fits you better.
+            </p>
+          </div>
+        ) : null}
+
         <BoardingPassHeader
           destination={destination}
           itinerary={itineraryShape}
@@ -181,6 +199,50 @@ export default async function ItineraryPage({ params }: RouteContext) {
           totalLow={itineraryShape.days.reduce((sum, d) => sum + d.costBandUsd.low, 0)}
           totalHigh={itineraryShape.days.reduce((sum, d) => sum + d.costBandUsd.high, 0)}
         />
+
+        <div className="mt-10">
+          <StatsPanel itinerary={itineraryShape} />
+        </div>
+
+        {!isOwner ? (
+          <div className="relative mt-10 overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)]">
+            <div
+              aria-hidden
+              className="pointer-events-none absolute inset-0"
+              style={{
+                background:
+                  "radial-gradient(circle at 0% 0%, rgba(255,107,53,0.14), transparent 55%), radial-gradient(circle at 100% 100%, rgba(255,107,53,0.08), transparent 60%)"
+              }}
+            />
+            <div className="relative grid gap-5 p-6 sm:grid-cols-[1fr_auto] sm:items-center sm:gap-8 sm:p-7">
+              <div>
+                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+                  make it yours
+                </p>
+                <h2 className="mt-2 text-[clamp(1.4rem,3vw,1.8rem)] font-medium leading-tight tracking-[-0.01em] text-[var(--foreground)]">
+                  Fork this trip in one click.
+                </h2>
+                <p className="mt-2 max-w-md text-[14px] leading-6 text-[var(--muted)]">
+                  We&apos;ll copy every day, date, and anchor into a new trip you own. Swap whatever
+                  doesn&apos;t fit.
+                </p>
+                {itinerary.fork_count > 0 ? (
+                  <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
+                    {itinerary.fork_count} {itinerary.fork_count === 1 ? "traveler has" : "travelers have"} planned their version
+                  </p>
+                ) : null}
+              </div>
+              <ForkTripButton
+                itineraryId={itinerary.id}
+                destinationCity={destination.city}
+              />
+            </div>
+          </div>
+        ) : itinerary.fork_count > 0 ? (
+          <p className="mt-6 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
+            {itinerary.fork_count} {itinerary.fork_count === 1 ? "traveler has" : "travelers have"} forked your trip
+          </p>
+        ) : null}
 
         <div className="mt-12">
           <ItineraryView itinerary={itineraryShape} destination={destination} hideSummary />
@@ -199,17 +261,15 @@ export default async function ItineraryPage({ params }: RouteContext) {
         </div>
 
         {!isOwner ? (
-          <div className="mt-10 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">your turn</p>
-            <p className="mt-2 text-[15px] leading-7 text-[var(--foreground)]">
-              Plan your own {destination.city} trip in 30 seconds.
+          <div className="mt-12 flex flex-wrap items-center gap-3 border-t border-[var(--border)] pt-6">
+            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+              prefer a clean slate?
             </p>
             <Link
               href={`/destinations/${destination.slug}/plan`}
-              className="mt-4 inline-flex items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-5 py-2 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)]"
+              className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
             >
-              build my own
-              <span aria-hidden>→</span>
+              plan a new {destination.city.toLowerCase()} trip from scratch →
             </Link>
           </div>
         ) : null}

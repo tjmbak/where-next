@@ -1,4 +1,6 @@
 import { NextResponse } from "next/server";
+import { clearPendingForkCookie, readPendingForkCookie } from "@/lib/fork-pending";
+import { forkItinerary } from "@/lib/itineraries/fork";
 import { clearReferralCookie, readReferralCookie } from "@/lib/referral";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
@@ -70,6 +72,20 @@ export async function GET(request: Request) {
   const { data: userData } = await supabase.auth.getUser();
   if (userData.user) {
     await applyReferralIfPresent(userData.user.id);
+
+    // If the user clicked "fork this trip" while anonymous, complete the fork
+    // server-side and redirect them directly to their new itinerary.
+    const pendingFork = await readPendingForkCookie();
+    if (pendingFork) {
+      const result = await forkItinerary({
+        sourceId: pendingFork.sourceId,
+        viewerId: userData.user.id
+      });
+      await clearPendingForkCookie();
+      if (result.ok) {
+        return NextResponse.redirect(new URL(`/itineraries/${result.slug}?forked=1`, url.origin));
+      }
+    }
   }
 
   return NextResponse.redirect(new URL(next, url.origin));
