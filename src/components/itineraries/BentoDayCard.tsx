@@ -62,18 +62,18 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
           }}
         />
 
-        <div className="relative grid grid-cols-[72px_1fr] gap-5 p-5 sm:grid-cols-[88px_1fr] sm:p-6">
-          <div className="flex flex-col items-center gap-3">
+        <div className="relative grid grid-cols-[56px_1fr] gap-3 p-4 sm:grid-cols-[88px_1fr] sm:gap-5 sm:p-6">
+          <div className="flex flex-col items-center gap-2 sm:gap-3">
             <div className="text-center">
-              <p className="font-mono text-3xl font-medium leading-none tracking-tight text-[var(--foreground)]">
+              <p className="font-mono text-2xl font-medium leading-none tracking-tight text-[var(--foreground)] sm:text-3xl">
                 {String(day.day).padStart(2, "0")}
               </p>
               <p className="mt-1 font-mono text-[9px] uppercase tracking-[0.28em] text-[var(--muted)]">
                 {day.dateISO ? DOW[new Date(day.dateISO + "T12:00:00Z").getUTCDay()] : "—"}
               </p>
             </div>
-            <div className="grid h-11 w-11 place-items-center rounded-full border border-[var(--border)] bg-[var(--background)]/65 text-[var(--foreground)]/85">
-              <AnchorTypeIcon kind={iconKind} size={22} />
+            <div className="grid h-9 w-9 place-items-center rounded-full border border-[var(--border)] bg-[var(--background)]/65 text-[var(--foreground)]/85 sm:h-11 sm:w-11">
+              <AnchorTypeIcon kind={iconKind} size={20} />
             </div>
             {isPeakNight && day.anchorKind !== "free" ? (
               <span className="rounded-full border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--signal)]">
@@ -83,7 +83,7 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
           </div>
 
           <div className="min-w-0">
-            <p className="flex flex-wrap items-baseline gap-x-3 gap-y-1 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+            <p className="flex flex-wrap items-baseline gap-x-2 gap-y-1 font-mono text-[9.5px] uppercase tracking-[0.18em] text-[var(--muted)] sm:gap-x-3 sm:text-[10px] sm:tracking-[0.22em]">
               <span className="text-[var(--signal)]">
                 {day.anchorKind === "event"
                   ? event?.type.replace("-", " ") ?? "event"
@@ -92,11 +92,11 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
                     : "open day"}
               </span>
               <span>{dateLabel}</span>
-              <span className="ml-auto truncate text-[var(--muted-2)]">{day.neighborhood}</span>
+              <span className="basis-full truncate text-[var(--muted-2)] sm:ml-auto sm:basis-auto">{day.neighborhood}</span>
             </p>
 
             <div key={`day-content-${day.anchorId ?? "free"}-${day.day}`} className="wn-day-content">
-              <h3 className="mt-3 text-[clamp(1.4rem,2.5vw,1.75rem)] font-medium leading-[1.15] tracking-[-0.01em] text-[var(--foreground)]">
+              <h3 className="mt-2.5 break-words text-[clamp(1.05rem,4vw,1.75rem)] font-medium leading-[1.15] tracking-[-0.01em] text-[var(--foreground)] sm:mt-3">
                 {day.anchorTitle}
               </h3>
               {day.anchorWhy ? (

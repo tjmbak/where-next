@@ -61,7 +61,7 @@ export function LoginForm({ next, initialError, compact, onSent }: LoginFormProp
           placeholder="you@example.com"
           autoComplete="email"
           disabled={status === "loading" || status === "sent"}
-          className="w-full border-b border-[var(--border)] bg-transparent pb-2 text-[15px] text-[var(--foreground)] outline-none transition placeholder:text-[var(--muted-2)] focus:border-[var(--foreground)] disabled:opacity-60"
+          className="w-full border-b border-[var(--border)] bg-transparent pb-2 text-[16px] text-[var(--foreground)] outline-none transition placeholder:text-[var(--muted-2)] focus:border-[var(--foreground)] disabled:opacity-60"
         />
       </label>
 

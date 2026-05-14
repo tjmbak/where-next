@@ -69,8 +69,8 @@ export default async function MyItinerariesPage() {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
+      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between gap-3 px-5 py-5 sm:px-10 sm:py-6">
+        <Link href="/" className="flex shrink-0 items-center gap-2 text-sm font-semibold tracking-tight">
           <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
             W
           </span>
@@ -78,17 +78,17 @@ export default async function MyItinerariesPage() {
         </Link>
         <Link
           href="/"
-          className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+          className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)] sm:text-[11px] sm:tracking-[0.22em]"
         >
           ← back to map
         </Link>
       </header>
 
-      <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+      <section className="mx-auto w-full max-w-[1100px] px-5 pb-20 pt-8 sm:px-10 sm:pb-24 sm:pt-12">
+        <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] sm:text-[11px] sm:tracking-[0.22em]">
           your itineraries · {rows.length}
         </p>
-        <h1 className="mt-3 text-[clamp(2rem,5vw,3.5rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
+        <h1 className="mt-3 text-[clamp(1.8rem,7vw,3.5rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
           Trips you&apos;ve planned.
         </h1>
         {error ? (
@@ -114,8 +114,8 @@ export default async function MyItinerariesPage() {
               const destination = getDestinationBySlug(row.destination_slug);
               const parent = row.parent_id ? parentLookup.get(row.parent_id) : null;
               return (
-                <li key={row.id} className="py-7">
-                  <div className="flex items-start gap-5">
+                <li key={row.id} className="py-6 sm:py-7">
+                  <div className="flex items-start gap-4 sm:gap-5">
                     {destination ? (
                       <MiniMap
                         dots={[
@@ -125,7 +125,7 @@ export default async function MyItinerariesPage() {
                             size: "peak"
                           }
                         ]}
-                        size={64}
+                        size={56}
                         className="shrink-0"
                       />
                     ) : null}
@@ -148,7 +148,7 @@ export default async function MyItinerariesPage() {
                           </span>
                         ) : null}
                       </div>
-                      <h2 className="mt-2 text-2xl font-medium tracking-[-0.01em]">
+                      <h2 className="mt-2 text-lg font-medium leading-[1.25] tracking-[-0.01em] sm:text-2xl sm:leading-tight">
                         <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--signal)]">
                           {row.title}
                         </Link>

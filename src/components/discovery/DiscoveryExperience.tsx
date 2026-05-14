@@ -314,7 +314,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
           </span>
           <span>where next</span>
         </Link>
-        <nav className="flex items-center gap-5 font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">
+        <nav className="flex items-center gap-3 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)] sm:gap-5 sm:text-[11px] sm:tracking-[0.18em]">
           <Link
             href="/methodology"
             className="hidden transition hover:text-[var(--foreground)] sm:inline"
@@ -325,7 +325,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
             <>
               <Link
                 href="/me/itineraries"
-                className="hidden transition hover:text-[var(--foreground)] sm:inline"
+                className="transition hover:text-[var(--foreground)]"
               >
                 trips
               </Link>
@@ -339,7 +339,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
           ) : (
             <a
               href="#waitlist"
-              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-3 py-1.5 text-[var(--background)] transition hover:bg-transparent hover:text-[var(--foreground)]"
+              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-3 py-1.5 text-[10px] text-[var(--background)] transition hover:bg-transparent hover:text-[var(--foreground)] sm:text-[11px]"
             >
               join waitlist
               <span aria-hidden>→</span>

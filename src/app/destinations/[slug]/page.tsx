@@ -144,14 +144,14 @@ export default async function DestinationPage({ params, searchParams }: Destinat
           />
         );
       })}
-      <header className="absolute left-0 right-0 top-0 z-30 mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight text-white">
+      <header className="absolute left-0 right-0 top-0 z-30 mx-auto flex w-full max-w-[1180px] items-center justify-between gap-3 px-5 py-5 sm:px-10 sm:py-6">
+        <Link href="/" className="flex shrink-0 items-center gap-2 text-sm font-semibold tracking-tight text-white">
           <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-white font-mono text-[11px] font-bold text-black">
             W
           </span>
           <span>where next</span>
         </Link>
-        <nav className="flex items-center gap-5 font-mono text-[11px] uppercase tracking-[0.22em] text-white/70">
+        <nav className="flex items-center gap-4 font-mono text-[10px] uppercase tracking-[0.18em] text-white/70 sm:gap-5 sm:text-[11px] sm:tracking-[0.22em]">
           <Link href="/methodology" className="hidden transition hover:text-white sm:inline">
             methodology
           </Link>
@@ -168,24 +168,24 @@ export default async function DestinationPage({ params, searchParams }: Destinat
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-black" />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-black/65 via-transparent to-transparent" />
 
-        <div className="absolute inset-x-0 bottom-0 mx-auto w-full max-w-[1180px] px-6 pb-14 sm:px-10">
-          <div className="flex items-center gap-3 font-mono text-[11px] uppercase tracking-[0.24em] text-white/70">
+        <div className="absolute inset-x-0 bottom-0 mx-auto w-full max-w-[1180px] px-5 pb-10 sm:px-10 sm:pb-14">
+          <div className="flex flex-wrap items-center gap-x-2.5 gap-y-1 font-mono text-[10px] uppercase tracking-[0.22em] text-white/70 sm:gap-x-3 sm:text-[11px] sm:tracking-[0.24em]">
             <span>issue {issueNumber}</span>
-            <span className="h-1 w-1 rounded-full bg-white/40" />
+            <span aria-hidden className="h-1 w-1 rounded-full bg-white/40" />
             <span>{destination.country}</span>
-            <span className="h-1 w-1 rounded-full bg-white/40" />
+            <span aria-hidden className="h-1 w-1 rounded-full bg-white/40" />
             <span>{destination.region}</span>
-            <span className="h-1 w-1 rounded-full bg-white/40" />
+            <span aria-hidden className="h-1 w-1 rounded-full bg-white/40" />
             <span>{periodLabelWithYear}</span>
           </div>
-          <h1 className="mt-6 text-[clamp(4rem,12vw,10rem)] font-medium leading-[0.92] tracking-[-0.04em] text-white">
+          <h1 className="mt-5 break-words text-[clamp(2.75rem,11vw,10rem)] font-medium leading-[0.95] tracking-[-0.04em] text-white sm:mt-6 sm:leading-[0.92]">
             {destination.city}
           </h1>
-          <p className="mt-6 max-w-2xl text-lg leading-8 text-white/80 md:text-xl md:leading-9">
+          <p className="mt-5 max-w-2xl text-[15px] leading-7 text-white/80 sm:mt-6 sm:text-lg sm:leading-8 md:text-xl md:leading-9">
             {destination.tagline}
           </p>
 
-          <div className="mt-9 flex flex-wrap items-end gap-x-10 gap-y-6">
+          <div className="mt-7 flex flex-wrap items-end gap-x-6 gap-y-5 sm:mt-9 sm:gap-x-10 sm:gap-y-6">
             <Stat
               label={isYearView ? `peak score · ${monthLabelLower}` : "activity"}
               value={`${score?.overallScore ?? 0}`}
@@ -220,7 +220,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
       </section>
 
       {/* ARTICLE BODY */}
-      <section className="mx-auto w-full max-w-[1180px] px-6 pb-24 pt-20 sm:px-10">
+      <section className="mx-auto w-full max-w-[1180px] px-5 pb-20 pt-14 sm:px-10 sm:pb-24 sm:pt-20">
         <div className="mb-14 flex items-baseline justify-between border-b border-[var(--border)] pb-5">
           <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
             <span className="text-[var(--foreground)]">where next</span> / {destination.city.toLowerCase()} / {periodLabel}

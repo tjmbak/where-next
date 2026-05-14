@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { PreviewProvider } from "@/components/preview/PreviewContext";
@@ -16,6 +16,16 @@ const mono = JetBrains_Mono({
   variable: "--font-mono",
   display: "swap"
 });
+
+// Explicit viewport so phone Safari doesn't apply its idiosyncratic
+// auto-zoom on form fields. Allow user scaling for accessibility.
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: "#0a0a0a",
+  viewportFit: "cover"
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),

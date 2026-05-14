@@ -128,7 +128,7 @@ export function UniversalSearch({ onApply }: UniversalSearchProps) {
               onChange={(event) => updateQuery(event.target.value)}
               onKeyDown={handleInputKey}
               placeholder="city, event, artist, scene…"
-              className="flex-1 bg-transparent text-sm leading-6 text-[var(--foreground)] placeholder:text-[var(--muted-2)] focus:outline-none"
+              className="flex-1 bg-transparent text-base leading-6 text-[var(--foreground)] placeholder:text-[var(--muted-2)] focus:outline-none sm:text-sm"
             />
             {query ? (
               <button

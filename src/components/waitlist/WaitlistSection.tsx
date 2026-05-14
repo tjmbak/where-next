@@ -69,7 +69,7 @@ export function WaitlistSection() {
                 value={email}
                 onChange={(event) => setEmail(event.target.value)}
                 placeholder="you@example.com"
-                className="w-full border-b border-[var(--border)] bg-transparent pb-2 text-[15px] text-[var(--foreground)] outline-none transition placeholder:text-[var(--muted-2)] focus:border-[var(--foreground)]"
+                className="w-full border-b border-[var(--border)] bg-transparent pb-2 text-[16px] text-[var(--foreground)] outline-none transition placeholder:text-[var(--muted-2)] focus:border-[var(--foreground)]"
               />
             </Field>
             <Field label="home city">
@@ -77,7 +77,7 @@ export function WaitlistSection() {
                 value={homeCity}
                 onChange={(event) => setHomeCity(event.target.value)}
                 placeholder="London"
-                className="w-full border-b border-[var(--border)] bg-transparent pb-2 text-[15px] text-[var(--foreground)] outline-none transition placeholder:text-[var(--muted-2)] focus:border-[var(--foreground)]"
+                className="w-full border-b border-[var(--border)] bg-transparent pb-2 text-[16px] text-[var(--foreground)] outline-none transition placeholder:text-[var(--muted-2)] focus:border-[var(--foreground)]"
               />
             </Field>
           </div>

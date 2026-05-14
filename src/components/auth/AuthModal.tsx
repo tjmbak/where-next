@@ -30,12 +30,12 @@ export function AuthModal({ open, onClose, reason }: AuthModalProps) {
       role="dialog"
       aria-modal="true"
       aria-labelledby="auth-modal-title"
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 px-6"
+      className="fixed inset-0 z-50 flex items-end justify-center bg-black/70 px-4 pb-4 pt-12 sm:items-center sm:px-6 sm:pb-0 sm:pt-0"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) onClose();
       }}
     >
-      <div className="w-full max-w-[440px] rounded-2xl border border-[var(--border)] bg-[var(--background)] p-8">
+      <div className="max-h-[calc(100dvh-4rem)] w-full max-w-[440px] overflow-y-auto rounded-2xl border border-[var(--border)] bg-[var(--background)] p-6 sm:p-8">
         <div className="flex items-start justify-between gap-4">
           <div>
             <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">save and personalize</p>

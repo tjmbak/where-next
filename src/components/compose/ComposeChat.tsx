@@ -400,7 +400,8 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
             }}
             placeholder="what kind of trip are you thinking…"
             rows={1}
-            className="max-h-32 flex-1 resize-none bg-transparent px-2 py-2 text-[15px] leading-7 text-[var(--foreground)] outline-none placeholder:text-[var(--muted-2)]"
+            // 16px font prevents iOS Safari from auto-zooming on focus.
+            className="max-h-32 flex-1 resize-none bg-transparent px-2 py-2 text-[16px] leading-7 text-[var(--foreground)] outline-none placeholder:text-[var(--muted-2)]"
           />
           {pending ? (
             <button

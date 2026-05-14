@@ -56,7 +56,7 @@ export function ForkTripButton({ itineraryId, destinationCity, variant = "primar
 
   const baseClasses =
     variant === "primary"
-      ? "group relative inline-flex items-center justify-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-wait disabled:opacity-70"
+      ? "group relative inline-flex w-full items-center justify-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-wait disabled:opacity-70 sm:w-auto"
       : "group inline-flex items-center gap-2 rounded-full border border-[var(--border-strong)] bg-transparent px-5 py-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:border-[var(--foreground)] disabled:cursor-wait disabled:opacity-70";
 
   return (

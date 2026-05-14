@@ -157,17 +157,17 @@ export default async function ItineraryPage({ params, searchParams }: RouteConte
         suppressHydrationWarning
         dangerouslySetInnerHTML={{ __html: jsonLdScript(breadcrumb) }}
       />
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
+      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between gap-3 px-5 py-5 sm:px-10 sm:py-6">
+        <Link href="/" className="flex shrink-0 items-center gap-2 text-sm font-semibold tracking-tight">
           <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
             W
           </span>
           <span>where next</span>
         </Link>
-        <nav className="flex items-center gap-4 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+        <nav className="flex items-center gap-3 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] sm:gap-4 sm:text-[11px] sm:tracking-[0.22em]">
           <Link
             href={`/destinations/${destination.slug}`}
-            className="transition hover:text-[var(--foreground)]"
+            className="hidden transition hover:text-[var(--foreground)] sm:inline"
           >
             {destination.city.toLowerCase()} guide
           </Link>
@@ -180,7 +180,7 @@ export default async function ItineraryPage({ params, searchParams }: RouteConte
         </nav>
       </header>
 
-      <section className="mx-auto w-full max-w-[820px] px-6 pb-24 pt-12 sm:px-10">
+      <section className="mx-auto w-full max-w-[820px] px-5 pb-20 pt-8 sm:px-10 sm:pb-24 sm:pt-12">
         {justForked ? (
           <div className="mb-8 rounded-xl border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-4 py-3">
             <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
@@ -214,7 +214,7 @@ export default async function ItineraryPage({ params, searchParams }: RouteConte
                   "radial-gradient(circle at 0% 0%, rgba(255,107,53,0.14), transparent 55%), radial-gradient(circle at 100% 100%, rgba(255,107,53,0.08), transparent 60%)"
               }}
             />
-            <div className="relative grid gap-5 p-6 sm:grid-cols-[1fr_auto] sm:items-center sm:gap-8 sm:p-7">
+            <div className="relative grid gap-5 p-5 sm:grid-cols-[1fr_auto] sm:items-center sm:gap-8 sm:p-7">
               <div>
                 <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
                   make it yours
