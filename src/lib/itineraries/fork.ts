@@ -1,4 +1,5 @@
 import { getDestinationBySlug } from "@/data/music-travel";
+import { notifyForkOwner } from "@/lib/email/triggers/fork-notification";
 import type { Itinerary } from "@/lib/itineraries/generate";
 import { generateItinerarySlug } from "@/lib/itineraries/slug";
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
@@ -88,6 +89,14 @@ export async function forkItinerary(params: { sourceId: string; viewerId: string
           { onConflict: "itinerary_id,user_id" }
         );
       await service.rpc("bump_itinerary_fork_count", { itinerary_id: row.id });
+      // Notify the parent owner. Awaited inline (typical add ~200ms via Resend)
+      // because Vercel serverless functions can be killed after response. The
+      // notifier swallows its own errors so fork still succeeds if email fails.
+      await notifyForkOwner({
+        sourceId: row.id,
+        forkId: data.id,
+        viewerId: params.viewerId
+      });
       return { ok: true, slug: data.slug, id: data.id };
     }
     if (error && error.code !== "23505") {

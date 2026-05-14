@@ -9,6 +9,7 @@ export type UserPreferences = {
   travelWindows: MonthNumber[];
   pushEnabled: boolean;
   dropEnabled: boolean;
+  forkEmailEnabled: boolean;
 };
 
 export const EMPTY_PREFERENCES: UserPreferences = {
@@ -18,7 +19,8 @@ export const EMPTY_PREFERENCES: UserPreferences = {
   budget: null,
   travelWindows: [],
   pushEnabled: false,
-  dropEnabled: true
+  dropEnabled: true,
+  forkEmailEnabled: true
 };
 
 const monthEnum = z.union([
@@ -43,7 +45,8 @@ export const preferencesSchema = z.object({
   budget: z.enum(["low", "medium", "high", "luxury"]).nullable().optional(),
   travelWindows: z.array(monthEnum).max(12).optional(),
   pushEnabled: z.boolean().optional(),
-  dropEnabled: z.boolean().optional()
+  dropEnabled: z.boolean().optional(),
+  forkEmailEnabled: z.boolean().optional()
 });
 
 export type PreferencesInput = z.infer<typeof preferencesSchema>;
@@ -56,6 +59,7 @@ type PreferencesRow = {
   travel_windows: number[] | null;
   push_enabled: boolean | null;
   drop_enabled: boolean | null;
+  fork_email_enabled: boolean | null;
 };
 
 export function normalizePreferencesRow(row: PreferencesRow | null): UserPreferences {
@@ -67,6 +71,7 @@ export function normalizePreferencesRow(row: PreferencesRow | null): UserPrefere
     budget: row.budget,
     travelWindows: ((row.travel_windows ?? []) as MonthNumber[]),
     pushEnabled: row.push_enabled ?? false,
-    dropEnabled: row.drop_enabled ?? true
+    dropEnabled: row.drop_enabled ?? true,
+    forkEmailEnabled: row.fork_email_enabled ?? true
   };
 }

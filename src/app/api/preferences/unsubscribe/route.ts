@@ -13,9 +13,12 @@ export async function GET(request: Request) {
     return NextResponse.redirect(new URL("/?unsubscribed=err", url.origin));
   }
 
-  const update = channel === "push"
-    ? { push_enabled: false }
-    : { drop_enabled: false };
+  const update =
+    channel === "push"
+      ? { push_enabled: false }
+      : channel === "fork"
+        ? { fork_email_enabled: false }
+        : { drop_enabled: false };
 
   await supabase.from("user_preferences").update(update).eq("user_id", token);
 

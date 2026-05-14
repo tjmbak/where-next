@@ -11,7 +11,7 @@ export async function GET() {
 
   const { data, error } = await supabase
     .from("user_preferences")
-    .select("home_city, genres, regions, budget, travel_windows, push_enabled, drop_enabled")
+    .select("home_city, genres, regions, budget, travel_windows, push_enabled, drop_enabled, fork_email_enabled")
     .eq("user_id", userData.user.id)
     .maybeSingle();
 
@@ -41,6 +41,7 @@ export async function PATCH(request: Request) {
   if (parsed.data.travelWindows !== undefined) update.travel_windows = parsed.data.travelWindows;
   if (parsed.data.pushEnabled !== undefined) update.push_enabled = parsed.data.pushEnabled;
   if (parsed.data.dropEnabled !== undefined) update.drop_enabled = parsed.data.dropEnabled;
+  if (parsed.data.forkEmailEnabled !== undefined) update.fork_email_enabled = parsed.data.forkEmailEnabled;
 
   const { error } = await supabase
     .from("user_preferences")

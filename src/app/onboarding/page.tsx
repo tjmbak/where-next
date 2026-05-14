@@ -20,7 +20,7 @@ export default async function OnboardingPage() {
 
   const { data: row } = await supabase
     .from("user_preferences")
-    .select("home_city, genres, regions, budget, travel_windows, push_enabled, drop_enabled")
+    .select("home_city, genres, regions, budget, travel_windows, push_enabled, drop_enabled, fork_email_enabled")
     .eq("user_id", userData.user.id)
     .maybeSingle();
 

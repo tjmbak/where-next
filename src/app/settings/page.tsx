@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import { PushToggle } from "@/components/push/PushToggle";
+import { ForkEmailToggle } from "@/components/settings/ForkEmailToggle";
 import { GENRE_LABELS, MONTHS } from "@/data/taxonomy";
 import { normalizePreferencesRow } from "@/lib/preferences";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
@@ -21,7 +22,7 @@ export default async function SettingsPage() {
 
   const { data: row } = await supabase
     .from("user_preferences")
-    .select("home_city, genres, regions, budget, travel_windows, push_enabled, drop_enabled, handle")
+    .select("home_city, genres, regions, budget, travel_windows, push_enabled, drop_enabled, fork_email_enabled, handle")
     .eq("user_id", userData.user.id)
     .maybeSingle();
   const prefs = normalizePreferencesRow(row);
@@ -85,6 +86,24 @@ export default async function SettingsPage() {
             edit preferences
             <span aria-hidden>→</span>
           </Link>
+        </section>
+
+        <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">
+          <div className="flex items-start justify-between gap-5">
+            <div>
+              <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+                creator emails
+              </p>
+              <h2 className="mt-2 text-xl font-medium text-[var(--foreground)]">
+                Know when your trips get forked.
+              </h2>
+              <p className="mt-3 max-w-xl text-[14px] leading-7 text-[var(--muted)]">
+                One email when another traveler copies one of your public itineraries — throttled to at most
+                one per trip per 24 hours. Off and you&apos;ll never hear from us about forks.
+              </p>
+            </div>
+            <ForkEmailToggle initialEnabled={prefs.forkEmailEnabled} />
+          </div>
         </section>
 
         <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">
