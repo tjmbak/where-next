@@ -3,7 +3,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
 import { HeroGallery } from "@/components/destinations/HeroGallery";
+import { PopularTrips } from "@/components/destinations/PopularTrips";
 import { StayAndTravel } from "@/components/destinations/StayAndTravel";
+import { loadPopularItinerariesForDestination } from "@/lib/itineraries/popular";
 import {
   DESTINATIONS,
   getDestinationBySlug,
@@ -34,6 +36,9 @@ type DestinationPageProps = {
 export function generateStaticParams() {
   return DESTINATIONS.map((destination) => ({ slug: destination.slug }));
 }
+
+// ISR: refresh popular trips + counts every 10 minutes
+export const revalidate = 600;
 
 export async function generateMetadata({ params }: DestinationPageProps): Promise<Metadata> {
   const { slug } = await params;
@@ -97,6 +102,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
   const isShowingFallbackEvents =
     !isYearView && eventsThisMonth.length === 0 && allEvents.length > 0;
   const venues = getVenuesForDestination(destination.slug);
+  const popularItineraries = await loadPopularItinerariesForDestination(destination.slug, 3);
 
   const issueNumber = destination.slug.length.toString().padStart(2, "0");
   const monthLabelLower = getMonthLabel(selectedMonth).toLowerCase();
@@ -296,9 +302,17 @@ export default async function DestinationPage({ params, searchParams }: Destinat
               </ol>
             </Section>
 
+            {popularItineraries.length > 0 ? (
+              <PopularTrips
+                itineraries={popularItineraries}
+                destinationSlug={destination.slug}
+                destinationCity={destination.city}
+              />
+            ) : null}
+
             <StayAndTravel destination={destination} month={isYearView ? undefined : selectedMonth} />
 
-            <Section eyebrow="03" title="Venues & scenes">
+            <Section eyebrow="04" title="Venues & scenes">
               <div className="grid gap-px overflow-hidden rounded-xl border border-[var(--border-strong)] bg-[var(--border)] sm:grid-cols-2">
                 {venues.map((venue) => (
                   <TrackedOutboundLink
@@ -325,7 +339,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
               </div>
             </Section>
 
-            <Section eyebrow="04" title="The full picture">
+            <Section eyebrow="05" title="The full picture">
               <p className="text-[16px] leading-8 text-[var(--foreground)]/85">{destination.summary}</p>
               <p className="mt-5 text-[15px] leading-8 text-[var(--muted)]">{destination.travelNotes}</p>
             </Section>

@@ -23,6 +23,14 @@ type ItineraryRow = {
   vibe_tags: string[];
   visibility: "public" | "unlisted" | "private";
   created_at: string;
+  parent_id: string | null;
+  fork_count: number;
+};
+
+type ParentLookup = {
+  slug: string;
+  title: string;
+  destination_slug: string;
 };
 
 export default async function MyItinerariesPage() {
@@ -35,12 +43,29 @@ export default async function MyItinerariesPage() {
   const { data, error } = await supabase
     .from("itineraries")
     .select(
-      "id, slug, destination_slug, title, start_date, end_date, duration_days, vibe_tags, visibility, created_at"
+      "id, slug, destination_slug, title, start_date, end_date, duration_days, vibe_tags, visibility, created_at, parent_id, fork_count"
     )
     .eq("owner_id", userData.user.id)
     .order("created_at", { ascending: false });
 
   const rows = ((data ?? []) as ItineraryRow[]);
+
+  // Resolve parent itineraries for any forked rows so we can render "forked from" lineage.
+  const parentIds = Array.from(new Set(rows.map((r) => r.parent_id).filter((id): id is string => Boolean(id))));
+  const parentLookup = new Map<string, ParentLookup>();
+  if (parentIds.length > 0) {
+    const { data: parents } = await supabase
+      .from("itineraries")
+      .select("id, slug, title, destination_slug")
+      .in("id", parentIds);
+    for (const parent of (parents ?? []) as Array<ParentLookup & { id: string }>) {
+      parentLookup.set(parent.id, {
+        slug: parent.slug,
+        title: parent.title,
+        destination_slug: parent.destination_slug
+      });
+    }
+  }
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
@@ -87,6 +112,7 @@ export default async function MyItinerariesPage() {
           <ol className="mt-12 divide-y divide-[var(--border)]">
             {rows.map((row) => {
               const destination = getDestinationBySlug(row.destination_slug);
+              const parent = row.parent_id ? parentLookup.get(row.parent_id) : null;
               return (
                 <li key={row.id} className="py-7">
                   <div className="flex items-start gap-5">
@@ -104,15 +130,40 @@ export default async function MyItinerariesPage() {
                       />
                     ) : null}
                     <div className="flex-1 min-w-0">
-                      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                        {destination?.country ?? row.destination_slug} · {row.duration_days} days · {row.visibility}
-                        {row.start_date && row.end_date ? ` · ${row.start_date} → ${row.end_date}` : ""}
-                      </p>
+                      <div className="flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+                        <span>{destination?.country ?? row.destination_slug}</span>
+                        <span>·</span>
+                        <span>{row.duration_days} days</span>
+                        <span>·</span>
+                        <span>{row.visibility}</span>
+                        {row.start_date && row.end_date ? (
+                          <>
+                            <span>·</span>
+                            <span>{row.start_date} → {row.end_date}</span>
+                          </>
+                        ) : null}
+                        {parent ? (
+                          <span className="inline-flex items-center gap-1.5 rounded-full border border-[var(--signal)]/40 bg-[var(--signal)]/10 px-2 py-0.5 text-[var(--signal)]">
+                            forked
+                          </span>
+                        ) : null}
+                      </div>
                       <h2 className="mt-2 text-2xl font-medium tracking-[-0.01em]">
                         <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--signal)]">
                           {row.title}
                         </Link>
                       </h2>
+                      {parent ? (
+                        <p className="mt-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
+                          forked from{" "}
+                          <Link
+                            href={`/itineraries/${parent.slug}`}
+                            className="text-[var(--muted)] underline transition hover:text-[var(--foreground)]"
+                          >
+                            {parent.title}
+                          </Link>
+                        </p>
+                      ) : null}
                       {row.vibe_tags.length > 0 ? (
                         <div className="mt-3 flex flex-wrap gap-2">
                           {row.vibe_tags.map((tag) => (
@@ -136,6 +187,11 @@ export default async function MyItinerariesPage() {
                           >
                             plan another for {destination.city.toLowerCase()} →
                           </Link>
+                        ) : null}
+                        {row.fork_count > 0 ? (
+                          <span className="text-[var(--muted-2)]">
+                            {row.fork_count} {row.fork_count === 1 ? "fork" : "forks"} of yours
+                          </span>
                         ) : null}
                       </div>
                     </div>
