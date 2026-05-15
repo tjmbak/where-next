@@ -484,28 +484,36 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
 
   return (
     <div className="relative w-full overflow-hidden rounded-2xl border border-[var(--border-strong)] bg-[#08080a] shadow-[0_40px_120px_rgba(0,0,0,0.55)]">
-      <div className="absolute left-4 top-4 z-[500] flex items-center gap-2 rounded-full border border-[var(--border-strong)] bg-[rgba(13,13,16,0.7)] px-3 py-1.5 backdrop-blur">
+      {/* Top-left status pill — compact on phone (drops the "live" word), full on sm+ */}
+      <div className="absolute left-3 top-3 z-[500] flex items-center gap-1.5 rounded-full border border-[var(--border-strong)] bg-[rgba(13,13,16,0.78)] px-2.5 py-1.5 backdrop-blur sm:left-4 sm:top-4 sm:gap-2 sm:px-3">
         <span className="relative flex h-1.5 w-1.5">
           <span className="absolute inset-0 animate-ping rounded-full bg-[var(--signal)] opacity-75" />
           <span className="relative h-1.5 w-1.5 rounded-full bg-[var(--signal)] shadow-[0_0_8px_var(--signal)]" />
         </span>
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          live · {liveCount.toString().padStart(2, "0")} cities · {peakCount.toString().padStart(2, "0")} peak
+        <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted)] sm:text-[10px] sm:tracking-[0.22em]">
+          <span className="hidden sm:inline">live · </span>
+          {liveCount.toString().padStart(2, "0")} cities
+          <span className="hidden xs:inline"> · </span>
+          <span className="ml-1 text-[var(--signal)] sm:ml-0 sm:text-[var(--muted)]">
+            {peakCount.toString().padStart(2, "0")} peak
+          </span>
         </span>
       </div>
 
-      <div className="absolute right-4 top-4 z-[500] flex items-center gap-3 rounded-full border border-[var(--border-strong)] bg-[rgba(13,13,16,0.7)] px-3 py-1.5 backdrop-blur">
+      {/* Tier legend — dots only on phone (saves horizontal space), labels on sm+ */}
+      <div className="absolute right-3 top-3 z-[500] flex items-center gap-2 rounded-full border border-[var(--border-strong)] bg-[rgba(13,13,16,0.78)] px-2.5 py-1.5 backdrop-blur sm:right-4 sm:top-4 sm:gap-3 sm:px-3">
         <Legend label="peak" color={TIER_COLORS.peak} />
         <Legend label="hot" color={TIER_COLORS.hot} />
         <Legend label="warm" color={TIER_COLORS.warm} />
       </div>
 
-      <div className="absolute right-4 top-16 z-[500] flex flex-col overflow-hidden rounded-md border border-[var(--border-strong)] bg-[rgba(13,13,16,0.75)] backdrop-blur">
+      {/* Zoom: bottom-left on phone (out of the way of top controls), top-right on sm+ (legacy position) */}
+      <div className="absolute bottom-4 left-3 z-[500] flex flex-col overflow-hidden rounded-md border border-[var(--border-strong)] bg-[rgba(13,13,16,0.8)] backdrop-blur sm:bottom-auto sm:left-auto sm:right-4 sm:top-16">
         <button
           type="button"
           aria-label="zoom in"
           onClick={() => handleZoom("in")}
-          className="flex h-7 w-7 items-center justify-center font-mono text-[14px] leading-none text-[var(--foreground)] transition hover:bg-[var(--surface-2)]"
+          className="flex h-9 w-9 items-center justify-center font-mono text-[16px] leading-none text-[var(--foreground)] transition hover:bg-[var(--surface-2)] sm:h-7 sm:w-7 sm:text-[14px]"
         >
           +
         </button>
@@ -514,13 +522,13 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
           type="button"
           aria-label="zoom out"
           onClick={() => handleZoom("out")}
-          className="flex h-7 w-7 items-center justify-center font-mono text-[14px] leading-none text-[var(--foreground)] transition hover:bg-[var(--surface-2)]"
+          className="flex h-9 w-9 items-center justify-center font-mono text-[16px] leading-none text-[var(--foreground)] transition hover:bg-[var(--surface-2)] sm:h-7 sm:w-7 sm:text-[14px]"
         >
           −
         </button>
       </div>
 
-      <div ref={containerRef} className="aspect-[6/5] w-full sm:aspect-[5/4] lg:aspect-[6/5]" />
+      <div ref={containerRef} className="aspect-[5/4] w-full sm:aspect-[5/4] lg:aspect-[6/5]" />
 
       {clusterPreview ? (
         <ClusterPreviewCard
@@ -556,12 +564,15 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
 
 function Legend({ label, color }: { label: string; color: string }) {
   return (
-    <span className="flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
+    <span
+      className="flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]"
+      aria-label={label}
+    >
       <span
         className="h-1.5 w-1.5 rounded-full"
         style={{ background: color, boxShadow: `0 0 8px ${color}, 0 0 2px ${color}` }}
       />
-      {label}
+      <span className="hidden sm:inline">{label}</span>
     </span>
   );
 }
