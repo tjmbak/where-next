@@ -2,16 +2,325 @@
   "slug": "seoul",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:42:19.610Z",
-  "responseId": "resp_04abb42b26e31973006a0098e3e85c8195b913dbf6e23288b5",
-  "searchCalls": 20,
+  "generatedAt": "2026-10-13T02:35:23.063Z",
+  "responseId": "resp_0e9d8f4261e48a07006acd97fec6a887d0b439c7eb0e98d157+resp_00e630cfe5eec9de006acd988787ac87d0bf0adfb8fdfd73e9",
+  "searchCalls": 38,
   "citations": [],
   "data": {
     "destinationSlug": "seoul",
     "month": 10,
     "year": 2026,
-    "notes": "Confirmed October listings currently skew toward large Seoul-metro stadium and arena pop concerts, with club/festival calendars still thin this far out.",
+    "notes": "October 2026 is unusually stacked around Seoul, with airport-adjacent mega-festivals, Olympic Park pop festivals, and Itaewon/Hapjeong club nights running alongside major arena and stadium concerts.",
     "events": [
+      {
+        "id": "seoul-edc-korea-2026",
+        "title": "EDC Korea 2026",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 95,
+        "venueName": "INSPIRE Entertainment Resort",
+        "venueId": null,
+        "sourceUrl": "https://korea.edc.com/en/",
+        "ticketUrl": "https://korea.edc.com/en/tickets/",
+        "summary": "The Korean edition of Electric Daisy Carnival takes over INSPIRE Entertainment Resort in Incheon on October 3–4. The official lineup includes DJ Snake, Illenium B2B Dabin, Sara Landry, Subtronics, Alok, Tiësto, Fisher and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-weeknd-goyang-2026",
+        "title": "Hyundai Card Super Concert 28: The Weeknd",
+        "type": "concert",
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-08",
+        "importance": 93,
+        "venueName": "Goyang Stadium",
+        "venueId": null,
+        "sourceUrl": "https://nol.yanolja.com/ticket/products/26006903",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26006903",
+        "summary": "The Weeknd headlines Hyundai Card Super Concert 28 at Goyang Stadium on October 7–8, with Creepy Nuts listed as the opening act in the official Hyundai Card announcement.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-xmf-incheon-2026",
+        "title": "XMF (Xnterstellar Music Festival) 2026",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 88,
+        "venueName": "Paradise City Culture Park",
+        "venueId": null,
+        "sourceUrl": "https://xmfestival.com/notice",
+        "ticketUrl": "https://ticket.melon.com/performance/index.htm?prodId=213766",
+        "summary": "A large Korea–Japan live-band festival at Paradise City in Incheon, with Ado, Younha, LUCY, FTISLAND, DAY6, ONE OK ROCK, YB, Xdinary Heroes and more across two days.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-grand-mint-festival-2026",
+        "title": "Grand Mint Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 88,
+        "venueName": "Olympic Park",
+        "venueId": null,
+        "sourceUrl": "https://www.mintpaper.co.kr/posts/4769",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000864/products/26010721?placeCode=26000864",
+        "summary": "Mint Paper’s long-running autumn pop festival returns to Olympic Park across four stages: 88 Grass Field, KSPO Dome, Ticketlink Live Arena and 88 Lakeside Stage.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-ghost-festival-2026",
+        "title": "2026 GHOST Festival | Gyeonggi Hallyu OST Festival",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-11",
+        "importance": 84,
+        "venueName": "Imjingak Pyeonghwa-Nuri",
+        "venueId": null,
+        "sourceUrl": "https://www.ghostfestival.co.kr/",
+        "ticketUrl": "https://www.ghostfestival.kr/",
+        "summary": "The three-day Hallyu OST festival near Seoul features K-drama and film OST-oriented sets, with artists including FTISLAND, YB, Heize, Gummy, Wendy, WINNER, Rain, Lee Youngji, Kim Chang-wan Band and 2am.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-feng-weekend-rockstar-2026",
+        "title": "FENG Weekend Rockstar Asia - SEOUL",
+        "type": "club-night",
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2551178",
+        "ticketUrl": "https://ra.co/events/2551178",
+        "summary": "UK artist FENG’s first Asia run lands at Cakeshop Seoul with Che, trini, Lakepine, AUS10, Unbornarnold and autopilot 77_77, positioned between hip-hop, pop and club sounds.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-undercity-bart-skils-2026",
+        "title": "UNDERCITY presents Bart Skils",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "UNDERCITY",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531270",
+        "ticketUrl": "https://ra.co/events/2531270",
+        "summary": "Amsterdam techno mainstay Bart Skils plays an extended set at UNDERCITY, joined by Pierre Blanche, ION and Oibro.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "seoul-heartbeat-dududo-2026",
+        "title": "HEARTBEAT BY DUDUDO 2026",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 82,
+        "venueName": "Korea University Hwajeong Gymnasium",
+        "venueId": null,
+        "sourceUrl": "https://ticket.melon.com/performance/index.htm?prodId=213848",
+        "ticketUrl": "https://ticket.melon.com/performance/index.htm?prodId=213848",
+        "summary": "A two-day pop, R&B and hip-hop concert event at Korea University Hwajeong Gymnasium with The Rose, iKON, ONF, ASH ISLAND, george, ADOY, jeebanoff, Crush, Loco, Sik-K, Kid Milli, pH-1 and more listed by Melon Ticket.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-cakeshop-14th-anniv-2026",
+        "title": "Cakeshop 14th Anniversary at Cake and Pistil",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 82,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2540496",
+        "ticketUrl": "https://ra.co/events/2540496",
+        "summary": "Cakeshop marks 14 years across Cakeshop and Pistil with a large local-crew bill including bloodzboi live and crews such as SOAR, More Breaks, Darklight, Kimchi Factory Homies and others.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-hightech-hangul-2026",
+        "title": "HIGH-TECH SEOUL day of HANGUL",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 80,
+        "venueName": "The Opera",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2504914",
+        "ticketUrl": "https://ra.co/events/2504914",
+        "summary": "HIGH-TECH SEOUL’s Hangul Day event brings D.Dan, Mari Sakurai, Hadone, E3, SINAE, Youknowsong, JAEHAN, Shinyoung and SEOD to The Opera for a techno-focused all-nighter.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-lil-louis-modeci-2026",
+        "title": "Lil Louis at MODECi",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 80,
+        "venueName": "Modeci",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2551327",
+        "ticketUrl": "https://ra.co/events/2551327",
+        "summary": "Chicago house pioneer Lil Louis headlines MODECi with Acidwork, AND 1, DJ Soulscape, Kyper, Yongmasan and Isco.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "seoul-mind-shock-euro-rave-2026",
+        "title": "STRUGGLE PRESENTS - MIND SHOCK #001 EURO RAVE",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 79,
+        "venueName": "UNDERCITY",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2506752",
+        "ticketUrl": "https://ra.co/events/2506752",
+        "summary": "STRUGGLE launches MIND SHOCK with a Euro-rave concept at UNDERCITY, spanning drum & bass, free tekno, psytrance, trance, techno, UK garage, breakbeat and electro with Tanukichi and local selectors.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-evian-christ-cakeshop-2026",
+        "title": "Cakeshop presents: Evian Christ",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 78,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2551491",
+        "ticketUrl": "https://ra.co/events/2551491",
+        "summary": "Cakeshop welcomes Evian Christ back to Seoul with local support from Wona, Simo, Paola, Tabris, Moon go america and Audiogothh.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "seoul-gegen-faust-2026",
+        "title": "GEGEN x Faust",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Faust",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2535901",
+        "ticketUrl": "https://ra.co/events/2535901",
+        "summary": "Berlin queer techno party brand GEGEN teams with Faust for a Seoul edition featuring Mar/us and Cristian Marras.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-seoul-music-festival-2026",
+        "title": "2026 Seoul Music Festival",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Nodeul Island",
+        "venueId": null,
+        "sourceUrl": "https://culture.seoul.go.kr/en/culture/culture/cultureEvent/view.do?cultcode=159493&menuNo=200010",
+        "ticketUrl": null,
+        "summary": "Seoul’s official city-backed music festival runs for one day at Nodeul Island, with a main performance lineup of Paul Kim, Kwon Jin-ah, Rooftop Moonlight, Nerd Connection, Chudahae Chagis and Kim Chang-wan Band.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-benson-boone-2026",
+        "title": "Benson Boone: Wanted Man Tour in Seoul",
+        "type": "concert",
+        "startDate": "2026-10-26",
+        "endDate": "2026-10-26",
+        "importance": 75,
+        "venueName": "KINTEX 2 Exhibition Hall 10",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26010154?placeCode=26000813",
+        "ticketUrl": "https://world.nol.com/en/ticket/genre/CONCERT/products/26010154?placeCode=26000813",
+        "summary": "Benson Boone brings the Wanted Man Tour to KINTEX in Goyang for a one-night Seoul-area concert on October 26.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-brvj-lunar-palace-2026",
+        "title": "BRVJ presents LUNAR PALACE / 月下宫殿",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-03",
+        "importance": 74,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2541401",
+        "ticketUrl": "https://ra.co/events/2541401",
+        "summary": "BRVJ’s first Korea event at Cakeshop pairs live sets from Yaka and Millennium with DJs Zozy, Jangma Lin, Janny, HYUNHXEE, Excultist and Mamsuuuuu, bridging Chinese club, jungle, techno, bass and Korean hip-hop contexts.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-kontra-musik-vurt-2026",
+        "title": "Kontra-Musik 20 Years Night",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 74,
+        "venueName": "Vurt",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://ja.ra.co/events/2532017",
+        "ticketUrl": "https://ja.ra.co/events/2532017",
+        "summary": "Vurt hosts a 20th-anniversary night for Swedish underground label Kontra-Musik with Ulf Eriksson and a TM404 live set, supported by Seoul selectors.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
       {
         "id": "seoul-post-malone-oct-2026",
         "title": "Post Malone Presents The BIG Stadium World Tour in Seoul",

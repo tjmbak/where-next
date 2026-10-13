@@ -2,16 +2,323 @@
   "slug": "rio-de-janeiro",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:31:07.375Z",
-  "responseId": "resp_0c7348b422c643a20069ff60fe1a808194b24647013d7da34a",
-  "searchCalls": 13,
+  "generatedAt": "2026-10-13T02:54:15.070Z",
+  "responseId": "resp_0bb737b159eb1dfc006acd9ca9fc8c87d0ab46dee3b0fc8d41+resp_00377e5c3d82e384006acd9d1c367887d082cbaef5890ade30",
+  "searchCalls": 30,
   "citations": [],
   "data": {
     "destinationSlug": "rio-de-janeiro",
     "month": 12,
     "year": 2026,
-    "notes": "Only a small number of December 2026 listings are confirmed this far out, with the strongest verified activity clustering around a major stadium concert and New Year’s Eve parties.",
+    "notes": "Focused on verified December 2026 Rio listings from RA, Shotgun, Ticketmaster and local agenda pages, excluding obvious arena-scale concerts where possible.",
     "events": [
+      {
+        "id": "rio-de-janeiro-rio-reveillon-jockey-2026",
+        "title": "Rio Réveillon 2027 — 20th Anniversary at Jockey Club",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 90,
+        "venueName": "Jockey Club Brasileiro",
+        "venueId": null,
+        "sourceUrl": "https://rioreveillon.com.br/en/lineup",
+        "ticketUrl": "https://rioreveillon.com.br/en",
+        "summary": "Rio Réveillon marks its 20th anniversary at Jockey Club Brasileiro with Bom Gosto, Fica Comigo, samba-school drums and DJs. Music is confirmed to run from 21:00 on 31 December 2026 until 05:00 on 1 January 2027.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-reveillon-do-morro-2026",
+        "title": "Réveillon do Morro 2027 — ESPETACUL.AR",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 88,
+        "venueName": "SkyPark | Parque Bondinho Pão de Açúcar",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/espetacular-reveillon-do-morro-2027",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/espetacular-reveillon-do-morro-2027",
+        "summary": "Réveillon do Morro celebrates 30 years with an all-inclusive New Year’s Eve event at Morro da Urca and Pão de Açúcar access tiers. The event page confirms DJs, shows and performances across two main SkyPark dance floors, with the full lineup still to be announced.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-rara-alto-verao-2026",
+        "title": "RARA Alto Verão",
+        "type": "club-night",
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-27",
+        "importance": 84,
+        "venueName": "SkyPark | Parque Bondinho Pão de Açúcar",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/rara-alto-verao",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/rara-alto-verao",
+        "summary": "RARA Alto Verão returns to SkyPark at Parque Bondinho Pão de Açúcar on 27 December. The page frames it as a house-music party at the top of Rio, with international and local names promised for the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-reveillon-blk-rio-2026",
+        "title": "Réveillon BLK Rio 2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 84,
+        "venueName": "Marina da Glória",
+        "venueId": null,
+        "sourceUrl": "https://www.festaserrejota.com.br/reveillon-blk-rio",
+        "ticketUrl": "https://ingresse.com/reveillon-blk-rio-2027/",
+        "summary": "Réveillon BLK Rio returns to Marina da Glória for its second edition with an all-inclusive premium New Year’s party. The listed confirmed attractions include DEADLINE, BEWAV, Alisson Nunes, Jair Sandoval and Luan Poffo.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-some-pre-nye-artbat-2026",
+        "title": "SOME Festival presents: Pre-NYE with ARTBAT / Rio de Janeiro",
+        "type": "festival",
+        "startDate": "2026-12-29",
+        "endDate": "2026-12-30",
+        "importance": 82,
+        "venueName": "Jardins do MAM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2534715",
+        "ticketUrl": "https://www.sympla.com.br/",
+        "summary": "SOME Festival’s pre-New Year’s Eve gathering brings Ukrainian duo ARTBAT to Jardins do MAM with a curated support program and frontstage/backstage ticket tiers.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-kid-abelha-brava-2026",
+        "title": "Kid Abelha — Eu Tive Um Sonho",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 78,
+        "venueName": "Brava Arena Jockey",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/kid-abelha-rio-de-janeiro-data-extra",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/kid-abelha-rio-de-janeiro-data-extra",
+        "summary": "Kid Abelha's Rio show is confirmed for 11 December 2026 at Brava Arena Jockey after a date and venue update. The concert is scheduled for 20:00 with gates at 18:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-kevin-pre-reveillon-2026",
+        "title": "Kevin Pré-Réveillon Rio de Janeiro 29/12 c/ Clementaum",
+        "type": "club-night",
+        "startDate": "2026-12-29",
+        "endDate": "2026-12-30",
+        "importance": 78,
+        "venueName": "The Home",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/kevin-pre-reveillon-rio-de-janeiro-29-12-c-clementaum",
+        "ticketUrl": "https://shotgun.live/en/events/kevin-pre-reveillon-rio-de-janeiro-29-12-c-clementaum",
+        "summary": "Festa KEVIN’s pre-NYE Rio edition takes over The Home with two dancefloors and Clementaum, leaning into a queer, sweaty house/techno/electro-house end-of-year sound.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-svrvrv-bridge-2026",
+        "title": "SVRVRV Bridge RJ",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Praça XV de Novembro",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/en/events/svrvrv-bridge-rj",
+        "ticketUrl": "https://r.shotgun.live/en/events/svrvrv-bridge-rj",
+        "summary": "Rio-born queer dance platform SVRVRV hosts Brooklyn DJ BRIDGE on the final Rio stop of a Brazil tour, foregrounding Black house roots, disco, Chicago house, Latin house and Afro house.",
+        "genres": [
+          "house",
+          "afro-house",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-ferrugem-qualistage-2026",
+        "title": "Ferrugem — Sentimento audiovisual recording",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 76,
+        "venueName": "Qualistage",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/ferrugem-qualistage",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/ferrugem-qualistage",
+        "summary": "Ferrugem records an audiovisual project for Sentimento at Qualistage, presenting material from the album plus career hits and new songs.",
+        "genres": [
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-hole-ultima-anvs-2026",
+        "title": "HOLE: Última Do Anvs 2026",
+        "type": "club-night",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-29",
+        "importance": 76,
+        "venueName": "Rua Sacadura Cabral, 147 - Saúde",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/es/events/hole-ultima-do-anvs-2026",
+        "ticketUrl": "https://shotgun.live/es/events/hole-ultima-do-anvs-2026",
+        "summary": "HOLE closes its 2026 season with DJs, performances and a no-photo queer club format in Saúde, tagged across tech house, tribal house, house, dance and pop.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-jota-quest-brava-2026",
+        "title": "Jota Quest at Brava Arena Jockey",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 75,
+        "venueName": "Brava Arena Jockey",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/jota-quest-rio-de-janeiro",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/jota-quest-rio-de-janeiro",
+        "summary": "Jota Quest plays Brava Arena Jockey on 12 December 2026. The Ticketmaster listing confirms a 20:00 show time and 18:00 gate opening.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-cha-da-alice-17-anos-2026",
+        "title": "Chá da Alice 17 Anos",
+        "type": "club-night",
+        "startDate": "2026-12-29",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Sacadura 154",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/cities/rio-de-janeiro/pop?page=3",
+        "ticketUrl": null,
+        "summary": "Long-running Brazilian pop/funk/axé party brand Chá da Alice marks 17 years with a late-December Rio edition at Sacadura 154.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-barao-vermelho-circo-2026",
+        "title": "Barão Vermelho no Circo Voador",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 74,
+        "venueName": "Circo Voador",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/circo-voador/barao-vermelho-no-circo-voador-4225989/",
+        "ticketUrl": "https://www.eventim.com.br/event/barao-vermelho-no-circo-voador-circo-voador-22044320/",
+        "summary": "Barão Vermelho’s year-end Circo Voador show is confirmed for 19 December, with the Do Tamanho da Vida tour. The event page calls the final-of-year Circo date a tradition and lists classic hits alongside newer songs.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-di-ferrero-charlie-brown-qualistage-2026",
+        "title": "Di Ferrero + Charlie Brown Jr. Acústico at Qualistage",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 73,
+        "venueName": "Qualistage",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/di-ferrero-e-charlie-brown-jr-qualistage",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/di-ferrero-e-charlie-brown-jr-qualistage",
+        "summary": "Di Ferrero and Thiago Castanho & Marcão Britto’s Charlie Brown Jr. Acústico share a Qualistage bill on 19 December. The night pairs Di Ferrero’s SE7E tour with acoustic versions of Charlie Brown Jr. material.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-ponto-equilibrio-circo-2026",
+        "title": "Ponto de Equilíbrio no Circo Voador",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 72,
+        "venueName": "Circo Voador",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/circo-voador/ponto-de-equilibrio-no-circo-voador-4225991/",
+        "ticketUrl": "https://www.eventim.com.br/event/ponto-de-equilibrio-no-circo-voador-circo-voador-22044324/",
+        "summary": "Rio reggae band Ponto de Equilíbrio returns to Circo Voador for a career-spanning show. The Eventim page highlights classics including “Árvore do Reggae” and “Aonde Vai Chegar.”",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-barko-verao-2026",
+        "title": "Barko Abrindo O Verão",
+        "type": "beach-club",
+        "startDate": "2026-12-13",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "BR Marinas - Marina da Glória",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/barko-de-verao-2",
+        "ticketUrl": "https://shotgun.live/en/events/barko-de-verao-2",
+        "summary": "KBRAL’s Barko opens Rio summer with a Marina da Glória boat/day-party format blending baile funk and techno, pitched as a hot, wet, dancefloor-led December return.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-capital-inicial-brava-2026",
+        "title": "Capital Inicial at Brava Arena Jockey",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 70,
+        "venueName": "Brava Arena Jockey",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/capital-inicial-brava-arena-jockey",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/capital-inicial-brava-arena-jockey",
+        "summary": "Brasília pop-rock band Capital Inicial performs at Brava Arena Jockey, with the show listed for 20:00 and gates at 18:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-roberta-sa-circo-2026",
+        "title": "Roberta Sá no Circo Voador",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 70,
+        "venueName": "Circo Voador",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/roberta-sa-no-circo-voador-circo-voador-22000915/",
+        "ticketUrl": "https://www.eventim.com.br/event/roberta-sa-no-circo-voador-circo-voador-22000915/",
+        "summary": "Roberta Sá performs at Circo Voador on 12 December 2026, with the event listed for 20:00. The show brings a major contemporary samba/MPB voice to one of Rio’s defining live venues.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
       {
         "id": "rio-de-janeiro-xuxa-ultimo-voo-2026",
         "title": "Xuxa — O Último Voo da Nave",
@@ -26,6 +333,78 @@
         "summary": "Xuxa brings the stadium-scale “O Último Voo da Nave” show to Maracanã on 20 December 2026 at 19:00, with the event page listing 30e as promoter and tickets via Eventim.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-carioca-new-year-festival-2026",
+        "title": "CARIOCA New Year Festival 2026/2027",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2027-01-02",
+        "importance": 84,
+        "venueName": "Various Rio de Janeiro venues",
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/rio-the-new-world-new-years-festival/",
+        "ticketUrl": null,
+        "summary": "The New World/TNW’s weeklong queer circuit festival returns around New Year, promising multi-day productions, circuit DJs, stage shows, dancers, and large-scale LGBTQ+ party programming across Rio.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-renaissance-black-coffee-2026",
+        "title": "Réveillon Renaissance Black Coffee Rio",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 84,
+        "venueName": "Ilha da Coroa",
+        "venueId": null,
+        "sourceUrl": "https://reveillonsnobrasil.com.br/evento/reveillon-renaissance-black-coffee-rio/",
+        "ticketUrl": "https://reveillonsnobrasil.com.br/evento/reveillon-renaissance-black-coffee-rio/",
+        "summary": "A 1,500-cap private-island electronic NYE led by Black Coffee, with Monkey Safari, Pedro Guerra, Pablito, Bauhaus, and Glitterbloco advertised for a sunrise-focused premium all-inclusive production.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-reveillon-tropical-2026",
+        "title": "Réveillon Tropical 2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 80,
+        "venueName": "Brava Arena Jockey",
+        "venueId": null,
+        "sourceUrl": "https://mareticket.com.br/produto/reveillon-tropical/",
+        "ticketUrl": "https://mareticket.com.br/produto/reveillon-tropical/",
+        "summary": "Maré Ticket lists Réveillon Tropical at Brava Arena Jockey on 31 December 2026, with Anitta billed alongside Fica Comigo, +5521, Adorofrozen Crew with John Faily, Yasmin Vilhena and more.",
+        "genres": [
+          "pop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-sirena-rio-2026",
+        "title": "Réveillon Sirena Rio 2027",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 77,
+        "venueName": "Marina Rio Lounge",
+        "venueId": null,
+        "sourceUrl": "https://festaserrejota.com.br/reveillon-sirena-rio",
+        "ticketUrl": null,
+        "summary": "The Sirena electronic-party brand lands at Marina Rio Lounge for a Rio NYE edition, with Evokings, Gustavo Mota, Fancy Inc, Mell Garcia, Miracle, and Purple Crew listed as confirmed attractions.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
         ]
       },
       {
@@ -46,21 +425,57 @@
         ]
       },
       {
-        "id": "rio-de-janeiro-reveillon-tropical-2026",
-        "title": "Réveillon Tropical 2027",
-        "type": "festival",
+        "id": "rio-de-janeiro-altar-de-copa-2026",
+        "title": "Altar De Copa 2027: A New Year's Eve Above Copacabana",
+        "type": "beach-club",
         "startDate": "2026-12-31",
-        "endDate": "2026-12-31",
-        "importance": 80,
-        "venueName": "Brava Arena Jockey",
+        "endDate": "2027-01-01",
+        "importance": 72,
+        "venueName": "Alma Copacabana Rooftop Pool & Wellness Club",
         "venueId": null,
-        "sourceUrl": "https://mareticket.com.br/produto/reveillon-tropical/",
-        "ticketUrl": "https://mareticket.com.br/produto/reveillon-tropical/",
-        "summary": "Maré Ticket lists Réveillon Tropical at Brava Arena Jockey on 31 December 2026, with Anitta billed alongside Fica Comigo, +5521, Adorofrozen Crew with John Faily, Yasmin Vilhena and more.",
+        "sourceUrl": "https://shotgun.live/pt-br/events/altar-de-copa-reveillon2027",
+        "ticketUrl": "https://shotgun.live/pt-br/events/altar-de-copa-reveillon2027",
+        "summary": "An intimate rooftop NYE above Copacabana, sold via Shotgun, with a music journey advertised around Brazilian rhythms, carnival energy, electronic sounds, premium open bar, and sunrise breakfast.",
         "genres": [
-          "pop",
           "latin",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-white-rooftop-santa-teresa-2026",
+        "title": "White Rooftop Reveillon 2027 | Santa Teresa Collection",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 70,
+        "venueName": "Secret location in Santa Teresa",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/events/white-rooftop-2027-santa-teresa-collection",
+        "ticketUrl": "https://shotgun.live/events/white-rooftop-2027-santa-teresa-collection",
+        "summary": "A White Rooftop/Party Network NYE pre-registration on Shotgun, billed as an intimate all-inclusive house party above Rio in a historic Santa Teresa house.",
+        "genres": [
+          "house",
+          "electronic",
           "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-seu-vidal-2026",
+        "title": "Réveillon Seu Vidal",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 60,
+        "venueName": "Ilha Itanhangá",
+        "venueId": null,
+        "sourceUrl": "https://mareticket.com.br/produto/reveillon-seu-vidal/",
+        "ticketUrl": "https://mareticket.com.br/produto/reveillon-seu-vidal/",
+        "summary": "A local all-inclusive NYE party on Ilha Itanhangá with the music direction announced across hip-hop, funk, pagode, and electronic, though individual attractions are still to be announced.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "electronic"
         ]
       }
     ]

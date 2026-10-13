@@ -26,9 +26,9 @@ export async function GET(request: Request) {
           flexDirection: "column",
           justifyContent: "space-between",
           padding: 64,
-          backgroundColor: "#0a0a0a",
-          color: "#ededeb",
-          fontFamily: "Inter, sans-serif"
+          backgroundColor: "#f7f0e1",
+          color: "#2a1c12",
+          fontFamily: "Plus Jakarta Sans, Inter, sans-serif"
         }}
       >
         <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
@@ -36,9 +36,9 @@ export async function GET(request: Request) {
             style={{
               width: 36,
               height: 36,
-              backgroundColor: "#ededeb",
-              color: "#0a0a0a",
-              fontFamily: "JetBrains Mono, monospace",
+              backgroundColor: "#2a1c12",
+              color: "#f7f0e1",
+              fontFamily: "Geist Mono, JetBrains Mono, monospace",
               fontSize: 22,
               fontWeight: 700,
               display: "flex",
@@ -51,11 +51,11 @@ export async function GET(request: Request) {
           </div>
           <div
             style={{
-              fontFamily: "JetBrains Mono, monospace",
+              fontFamily: "Geist Mono, JetBrains Mono, monospace",
               fontSize: 14,
               letterSpacing: 4,
               textTransform: "uppercase",
-              color: "#888"
+              color: "#7a6a59"
             }}
           >
             {eyebrow}
@@ -66,17 +66,17 @@ export async function GET(request: Request) {
           <div
             style={{
               fontSize: 88,
-              fontWeight: 500,
+              fontWeight: 600,
               lineHeight: 1.0,
               letterSpacing: "-0.03em",
-              color: "#ededeb",
+              color: "#2a1c12",
               maxWidth: 1000
             }}
           >
             {title}
           </div>
           {subtitle ? (
-            <div style={{ fontSize: 28, color: "#a3a3a0", lineHeight: 1.4, maxWidth: 900 }}>{subtitle}</div>
+            <div style={{ fontSize: 28, color: "#7a6a59", lineHeight: 1.4, maxWidth: 900 }}>{subtitle}</div>
           ) : null}
         </div>
 
@@ -86,16 +86,16 @@ export async function GET(request: Request) {
             alignItems: "center",
             justifyContent: "space-between",
             paddingTop: 24,
-            borderTop: "1px solid #2a2a2a"
+            borderTop: "1px solid rgba(42, 28, 18, 0.18)"
           }}
         >
           <div
             style={{
-              fontFamily: "JetBrains Mono, monospace",
+              fontFamily: "Geist Mono, JetBrains Mono, monospace",
               fontSize: 14,
               letterSpacing: 4,
               textTransform: "uppercase",
-              color: "#888"
+              color: "#7a6a59"
             }}
           >
             wherenext.fm
@@ -103,11 +103,11 @@ export async function GET(request: Request) {
           {stat ? (
             <div
               style={{
-                fontFamily: "JetBrains Mono, monospace",
+                fontFamily: "Geist Mono, JetBrains Mono, monospace",
                 fontSize: 16,
                 letterSpacing: 3,
                 textTransform: "uppercase",
-                color: "#ededeb"
+                color: "#e8590c"
               }}
             >
               {stat}

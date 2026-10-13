@@ -1,0 +1,65 @@
+{
+  "slug": "dubai",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:32:27.935Z",
+  "responseId": "resp_0ff8b0841ebe0181006acda5c2940c87d099ba8506a1ec147b+resp_0d47e7155690b1b8006acda5fdbb5487d082ed40a63e8a1ce9",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 3,
+    "year": 2027,
+    "notes": "As of this research pass, only the large-format UNTOLD Dubai festival has firm March 2027 music dates publicly confirmed; most club calendars and venue residencies have not yet published March 2027 programming.",
+    "events": [
+      {
+        "id": "dubai-untold-festival-mar-2027",
+        "title": "UNTOLD Dubai 2027",
+        "type": "festival",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-21",
+        "importance": 95,
+        "venueName": "Dubai Parks and Resorts",
+        "venueId": null,
+        "sourceUrl": "https://www.untold.ae/",
+        "ticketUrl": "https://www.untold.ae/",
+        "summary": "UNTOLD Dubai is confirmed for three days and nights at Dubai Parks and Resorts from 19–21 March 2027. The festival is positioned as Dubai's mega festival and is selling early-bird General Access and VIP passes.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-dubai-experience-pbe-pluto-2027",
+        "title": "The Dubai Experience 2027 Hosted by PBE Pluto",
+        "type": "festival",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-31",
+        "importance": 72,
+        "venueName": "Dubai U.A.E",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108568463-pbe-pluto-at-dubai-u.a.e?came_from=252",
+        "ticketUrl": "https://www.eventbrite.com/e/the-dubai-experience-2027-9-years-of-vibes-luxury-legendary-nights-tickets-1988626274720",
+        "summary": "A multi-day urban nightlife travel takeover hosted by Southern hip-hop artist PBE Pluto, built around exclusive day and nightlife events, Dubai club outings, and an optional yacht-party component.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-rock-the-boat-yacht-party-2027",
+        "title": "ROCK THE BOAT Dubai – All White All-Inclusive Yacht Party 2027",
+        "type": "club-night",
+        "startDate": "2027-03-28",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Location TBD",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/rock-the-boat-dubai-all-white-all-inclusive-yacht-party-2027-tickets-1991959258765",
+        "ticketUrl": "https://www.eventbrite.com/e/rock-the-boat-dubai-all-white-all-inclusive-yacht-party-2027-tickets-1991959258765",
+        "summary": "A late-night all-white yacht party tied to the Dubai urban travel-party circuit, running 11 PM–3 AM with an all-inclusive premium party format.",
+        "genres": []
+      }
+    ]
+  }
+}

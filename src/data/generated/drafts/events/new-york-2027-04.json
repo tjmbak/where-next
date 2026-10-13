@@ -1,0 +1,303 @@
+{
+  "slug": "new-york",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:45:33.842Z",
+  "responseId": "resp_069c09feec880b5e006acda89757a487d093efeffef913ec32+resp_0657036c29f3edf7006acda9059e2887d08e830914aef53e6c",
+  "searchCalls": 40,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 has a still-emerging club calendar, but confirmed anchors already span Brooklyn electronic nights, major pop/Latin arena shows, indie/alternative touring stops, and Jazz at Lincoln Center programming.",
+    "events": [
+      {
+        "id": "new-york-niall-horan-barclays-2027",
+        "title": "Niall Horan: Dinner Party Live on Tour",
+        "type": "concert",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-04",
+        "importance": 85,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/niall-horan-2026",
+        "ticketUrl": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-brooklyn-new-york-04-04-2027/event/300064A6D66AE78A",
+        "summary": "Niall Horan brings Dinner Party Live on Tour to Barclays Center on April 4, with Cameron Whitcomb listed as support on the venue page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-morat-yem-world-tour-2027",
+        "title": "Morat: YEM World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 82,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/morat-2027",
+        "ticketUrl": "https://www.ticketmaster.com/morat-yem-world-tour-2027-brooklyn-04-01-2027/event/300064AF9E103501",
+        "summary": "Colombian pop band Morat brings the YEM World Tour 2027 to Barclays Center in Brooklyn on April 1.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-lola-young-radio-city-2027",
+        "title": "Lola Young: Everything Begins Tour",
+        "type": "concert",
+        "startDate": "2027-04-12",
+        "endDate": "2027-04-12",
+        "importance": 82,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/lola-young-radio-city-music-hall-april-2027/3C006541A9282349",
+        "ticketUrl": "https://www.ticketmaster.com/lola-young-everything-begins-new-york-new-york-04-12-2027/event/3C006541A9282349",
+        "summary": "Lola Young brings the Everything Begins Tour to Radio City Music Hall on April 12, with special guest Sofia and The Antoinettes listed by MSG.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-jalc-ever-fonky-lowdown-2027",
+        "title": "The Ever Fonky Lowdown: Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+        "type": "concert",
+        "startDate": "2027-04-08",
+        "endDate": "2027-04-10",
+        "importance": 80,
+        "venueName": "Rose Theater at Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20745",
+        "ticketUrl": "https://ticketing.jazz.org/20745",
+        "summary": "Jazz at Lincoln Center presents Wynton Marsalis’ The Ever Fonky Lowdown from April 8–10, performed by the Jazz at Lincoln Center Orchestra with Wynton Marsalis and vocalists including Christie Dashiell, Ashley Pezzotti, and Georgia Heers.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-death-cab-radio-city-2027",
+        "title": "Death Cab for Cutie: I Built You A Tower Tour",
+        "type": "concert",
+        "startDate": "2027-04-13",
+        "endDate": "2027-04-13",
+        "importance": 80,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/death-cab-for-cutie-swapmeet-radio-city-music-hall-april-2027/3C006530BB8D26A2",
+        "ticketUrl": "https://www.msg.com/events-tickets/death-cab-for-cutie-swapmeet-radio-city-music-hall-april-2027/3C006530BB8D26A2",
+        "summary": "Death Cab for Cutie headlines Radio City Music Hall on April 13 on the I Built You A Tower Tour, with Swapmeet listed as special guest.",
+        "genres": []
+      },
+      {
+        "id": "new-york-world-in-swing-2027",
+        "title": "The World in Swing — Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+        "type": "concert",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-01",
+        "importance": 80,
+        "venueName": "Rose Theater at Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20750",
+        "ticketUrl": "https://ticketing.jazz.org/20750?z=0",
+        "summary": "A high-profile cross-cultural jazz program pairing the JLCO with Iraqi oud virtuoso Naseer Shamma, Brazilian bandolim master Hamilton de Holanda, and flamenco-jazz pianist Chano Domínguez.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-saint-levant-afandi-2027",
+        "title": "Saint Levant: AFANDI World Tour",
+        "type": "concert",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 78,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://dashboard.promogogo.com/event/saint-levant-afandi-world-tour/af339902-b57f-4e11-8481-3d391cad05d7",
+        "ticketUrl": "https://www.ticketmaster.com/saint-levant-billets/artist/2984782",
+        "summary": "Saint Levant headlines Brooklyn Paramount on the AFANDI World Tour, with the source listing an April 1 show time at the venue.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-beirut-brooklyn-steel-2027",
+        "title": "Beirut: Spring Tour 2027",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-02",
+        "importance": 78,
+        "venueName": "Brooklyn Steel",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1598820/beirut-tickets/promos/1197282",
+        "ticketUrl": "https://www.bandsintown.com/e/1040211078-beirut-at-brooklyn-steel?came_from=252",
+        "summary": "Beirut plays Brooklyn Steel on April 2 as part of its Spring Tour 2027, with the AXS listing confirming the date, venue, and 8:00 PM time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-coltrane-at-100-2027",
+        "title": "Celebrating John Coltrane at 100",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-03",
+        "importance": 78,
+        "venueName": "The Appel Room at Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20738?z=0",
+        "ticketUrl": "https://ticketing.jazz.org/20738?z=0",
+        "summary": "Jazz at Lincoln Center marks John Coltrane’s centennial with multiple Appel Room sets directed by drummer Justin Faulkner, positioning this as one of the month’s key jazz events.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-angele-instinct-paramount-2027",
+        "title": "Angèle: Instinct Tour",
+        "type": "concert",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-21",
+        "importance": 78,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/artist/K8vZ917pgF0/angele-events",
+        "ticketUrl": "https://www.livenation.com/artist/K8vZ917pgF0/angele-events",
+        "summary": "Belgian pop artist Angèle’s Live Nation tour listing confirms an April 21 Brooklyn Paramount date on the Instinct Tour.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-nothing-but-thieves-paramount-2027",
+        "title": "Nothing But Thieves: The Stray Dogs World Tour",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 75,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-world-tour-brooklyn-04-17-2027/event/000064B6B86ED7C4",
+        "ticketUrl": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-world-tour-brooklyn-04-17-2027/event/000064B6B86ED7C4",
+        "summary": "Nothing But Thieves bring The Stray Dogs World Tour to Brooklyn Paramount on April 17, with Ticketmaster confirming the 7:00 PM event listing.",
+        "genres": []
+      },
+      {
+        "id": "new-york-vnv-nation-warsaw-2027",
+        "title": "VNV Nation: An Evening With",
+        "type": "concert",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-09",
+        "importance": 74,
+        "venueName": "Warsaw",
+        "venueId": null,
+        "sourceUrl": "https://vnvnation.com/news/north-american-shows-rescheled",
+        "ticketUrl": "https://web-a.origin.livenation.com/artist/K8vZ9171El0/vnv-nation-events",
+        "summary": "VNV Nation’s official rescheduled North American tour dates list an April 9 Brooklyn show at Warsaw as part of the extended “An Evening With” format.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-adrian-sherwood-live-dub-2027",
+        "title": "Adrian Sherwood: Live Dub Sessions Tour",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "The Roof at Superior Ingredients",
+        "venueId": null,
+        "sourceUrl": "https://www.si-bk.com/shows",
+        "ticketUrl": "https://dice.fm/event/92xrq7-adrian-sherwood-live-dub-sessions-tour-2nd-apr-the-roof-at-superior-ingredients-new-york-tickets",
+        "summary": "On-U Sound figurehead Adrian Sherwood brings a live dub session to Superior Ingredients, a rare reggae/dub/electronic crossover booking in a Brooklyn club setting.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-morgan-seatree-silo-2027",
+        "title": "Morgan Seatree at SILO",
+        "type": "club-night",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 72,
+        "venueName": "SILO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2514900",
+        "ticketUrl": "https://ra.co/events/2514900",
+        "summary": "Resident Advisor confirms Morgan Seatree at SILO in East Williamsburg on April 3, with a 10:00 PM–4:00 AM schedule and RA ticketing.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-notre-dame-unveiled-2027",
+        "title": "Notre Dame at Unveiled",
+        "type": "club-night",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 72,
+        "venueName": "Unveiled",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2402621",
+        "ticketUrl": "https://ra.co/events/2402621",
+        "summary": "Notre Dame headlines Unveiled in Williamsburg on April 3, joined by Fireware, Kindem, and Reid Radke according to the RA listing.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-kein-klub-h0l0-2027",
+        "title": "KEIN KLUB at H0L0",
+        "type": "club-night",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 70,
+        "venueName": "H0L0",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2559366",
+        "ticketUrl": "https://ra.co/events/2559366",
+        "summary": "KEIN KLUB returns to H0L0 on April 3 for a two-room, late-night edition running 10:00 PM–6:00 AM; the lineup is listed as TBA on RA.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-interrupters-brooklyn-paramount-2027",
+        "title": "The Interrupters",
+        "type": "concert",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-04",
+        "importance": 70,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-interrupters-brooklyn-new-york-04-04-2027/event/00006531F02CDF6D",
+        "ticketUrl": "https://www.ticketmaster.com/the-interrupters-brooklyn-new-york-04-04-2027/event/00006531F02CDF6D",
+        "summary": "The Interrupters play Brooklyn Paramount on April 4, with the Ticketmaster event page listing a 6:00 PM start and Brooklyn Paramount as the venue.",
+        "genres": []
+      },
+      {
+        "id": "new-york-iceage-bowery-ballroom-2027",
+        "title": "Iceage",
+        "type": "concert",
+        "startDate": "2027-04-12",
+        "endDate": "2027-04-12",
+        "importance": 70,
+        "venueName": "Bowery Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/iceage-new-york-04-12-2027/event/00006506B8306AD4",
+        "ticketUrl": "https://www.ticketmaster.com/iceage-new-york-04-12-2027/event/00006506B8306AD4",
+        "summary": "Danish band Iceage plays Bowery Ballroom on April 12, with the Ticketmaster event page confirming the venue, date, 7:00 PM time, and general-admission format.",
+        "genres": []
+      }
+    ]
+  }
+}

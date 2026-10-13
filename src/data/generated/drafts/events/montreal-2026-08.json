@@ -2,9 +2,9 @@
   "slug": "montreal",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:28:57.213Z",
-  "responseId": "resp_059217e8774f25d00069ff604fbae48191a54ed70e4eb9485f",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:34:16.145Z",
+  "responseId": "augment:resp_08056fc9a0551ad2006a1b2d39a1a4819a8af8dfb76ba8567e",
+  "searchCalls": 15,
   "citations": [],
   "data": {
     "destinationSlug": "montreal",
@@ -31,40 +31,6 @@
         ]
       },
       {
-        "id": "montreal-daniel-caesar-2026",
-        "title": "Daniel Caesar — Son of Spergy 2026 North American Tour",
-        "type": "concert",
-        "startDate": "2026-08-06",
-        "endDate": "2026-08-06",
-        "importance": 82,
-        "venueName": "Bell Centre",
-        "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/bell-centre/daniel-caesar?code=e008053",
-        "ticketUrl": "https://evenko.ca/en/events/bell-centre/daniel-caesar?code=e008053",
-        "summary": "Daniel Caesar brings his Son of Spergy 2026 North American Tour to Bell Centre, with 070 Shake listed as support. The show is confirmed for Thursday, August 6, 2026 at 7:30 pm.",
-        "genres": [
-          "r-and-b",
-          "pop"
-        ]
-      },
-      {
-        "id": "montreal-olivia-dean-2026",
-        "title": "Olivia Dean — The Art of Loving Live",
-        "type": "concert",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-07",
-        "importance": 80,
-        "venueName": "Bell Centre",
-        "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/bell-centre/olivia-dean?code=e006721",
-        "ticketUrl": "https://evenko.ca/en/events/bell-centre/olivia-dean?code=e006721",
-        "summary": "Olivia Dean’s The Art of Loving Live tour stops at Bell Centre on Friday, August 7, 2026. The arena date follows her rise as a major UK soul-pop voice.",
-        "genres": [
-          "r-and-b",
-          "pop"
-        ]
-      },
-      {
         "id": "montreal-ilesoniq-2026",
         "title": "îLESONIQ 2026",
         "type": "festival",
@@ -79,6 +45,23 @@
         "genres": [
           "electronic",
           "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "montreal-mutek-2026",
+        "title": "MUTEK Montréal 2026: Edition 27 — Amplify & Resonate",
+        "type": "festival",
+        "startDate": "2026-08-25",
+        "endDate": "2026-08-30",
+        "importance": 92,
+        "venueName": "Quartier des spectacles",
+        "venueId": null,
+        "sourceUrl": "https://montreal.mutek.org/en/welcome",
+        "ticketUrl": "https://montreal.mutek.org/en/box-office",
+        "summary": "MUTEK Montréal returns August 25–30, 2026 for six days and nights of electronic music, audiovisual performance and digital creativity. First-wave artists include Jeff Mills, Ben UFO, Barker, Polygonia, A Guy Called Gerald and Rival Consoles.",
+        "genres": [
+          "electronic",
           "techno"
         ]
       },
@@ -115,34 +98,156 @@
         ]
       },
       {
-        "id": "montreal-piknic-worakls-2026",
-        "title": "Piknic Électronik MTL #12: Worakls",
+        "id": "montreal-mutek-jeff-mills-2026",
+        "title": "Jeff Mills, Polygonia, JakoJako, CLEO LEIGH - MUTEK 27",
         "type": "club-night",
-        "startDate": "2026-08-23",
-        "endDate": "2026-08-23",
-        "importance": 72,
-        "venueName": "Piknic Électronik / Parc Jean Drapeau",
-        "venueId": "piknic",
-        "sourceUrl": "https://ra.co/events/2413773",
+        "startDate": "2026-08-28",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443687",
         "ticketUrl": null,
-        "summary": "Piknic Électronik MTL #12 is confirmed for Sunday, August 23, 2026 at Jardin Le Petit Prince in Parc Jean-Drapeau. The lineup features Worakls, Jares and Anaïs Ley from 4:00 pm to 9:30 pm.",
+        "summary": "MUTEK’s Metropolis 1 night brings Jeff Mills, Polygonia, JakoJako and CLEO LEIGH to MTELUS for a high-profile techno and modular/live-electronics bill.",
         "genres": [
-          "electronic",
-          "house"
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "montreal-mutek-2026",
-        "title": "MUTEK Montréal 2026: Edition 27 — Amplify & Resonate",
-        "type": "festival",
-        "startDate": "2026-08-25",
-        "endDate": "2026-08-30",
-        "importance": 92,
-        "venueName": "Quartier des spectacles",
+        "id": "montreal-daniel-caesar-2026",
+        "title": "Daniel Caesar — Son of Spergy 2026 North American Tour",
+        "type": "concert",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-06",
+        "importance": 82,
+        "venueName": "Bell Centre",
         "venueId": null,
-        "sourceUrl": "https://montreal.mutek.org/en/welcome",
-        "ticketUrl": "https://montreal.mutek.org/en/box-office",
-        "summary": "MUTEK Montréal returns August 25–30, 2026 for six days and nights of electronic music, audiovisual performance and digital creativity. First-wave artists include Jeff Mills, Ben UFO, Barker, Polygonia, A Guy Called Gerald and Rival Consoles.",
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/daniel-caesar?code=e008053",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/daniel-caesar?code=e008053",
+        "summary": "Daniel Caesar brings his Son of Spergy 2026 North American Tour to Bell Centre, with 070 Shake listed as support. The show is confirmed for Thursday, August 6, 2026 at 7:30 pm.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-mutek-ben-ufo-2026",
+        "title": "Ben UFO, Rival Consoles, CUERPOS, Facta, Patche - MUTEK 27",
+        "type": "club-night",
+        "startDate": "2026-08-29",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443694",
+        "ticketUrl": null,
+        "summary": "MUTEK’s Metropolis 2 night pairs Ben UFO’s DJ set with Rival Consoles, CUERPOS, Facta and Patche for a house, club, UK bass and live-electronics program running until 06:00.",
+        "genres": [
+          "house",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "montreal-olivia-dean-2026",
+        "title": "Olivia Dean — The Art of Loving Live",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 80,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/olivia-dean?code=e006721",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/olivia-dean?code=e006721",
+        "summary": "Olivia Dean’s The Art of Loving Live tour stops at Bell Centre on Friday, August 7, 2026. The arena date follows her rise as a major UK soul-pop voice.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-dj-nobu-domesicle-2026",
+        "title": "Dômesicle x Homegrown Harvest — DJ Nobu (JP) • dileta",
+        "type": "club-night",
+        "startDate": "2026-08-21",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Société des arts technologiques",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440659",
+        "ticketUrl": null,
+        "summary": "SAT’s immersive Dômesicle series teams with Homegrown Harvest for a techno/bass night led by Japanese underground figure DJ Nobu with resident dileta and 360° visuals.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-hernan-cattaneo-off-piknic-2026",
+        "title": "Hernán Cattáneo - Parc Jean-Drapeau",
+        "type": "festival",
+        "startDate": "2026-08-29",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Piknic Électronik / Parc Jean Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2429356",
+        "ticketUrl": null,
+        "summary": "A dedicated OfF Piknic 2026 outdoor session with progressive-house institution Hernán Cattáneo on the Fizz stage at Parc Jean-Drapeau.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-danny-tenaglia-2026",
+        "title": "Piknic Électronik MTL #13: Danny Tenaglia + MUTEK",
+        "type": "club-night",
+        "startDate": "2026-08-30",
+        "endDate": "2026-08-30",
+        "importance": 78,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-piknic-30-08-2026",
+        "ticketUrl": null,
+        "summary": "Piknic Électronik’s August 30 schedule lists Danny Tenaglia and Guillaume Michaud on the Fizz Stage, plus a MUTEK-branded National Bank Stage with surprise artists. The event is scheduled from 4:00 pm to 9:30 pm.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-adriatique-off-piknic-2026",
+        "title": "Adriatique - Parc Jean-Drapeau",
+        "type": "festival",
+        "startDate": "2026-08-28",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Piknic Électronik / Parc Jean Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2449448",
+        "ticketUrl": null,
+        "summary": "An OfF Piknic 2026 outdoor session at Parc Jean-Drapeau headlined by Adriatique, with additional lineup to be announced.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-mutek-gerald-mia-koden-2026",
+        "title": "A Guy Called Gerald, gyrofield, Honeydrip, Mia Koden, Florence-Delphine Roux - MUTEK 27",
+        "type": "club-night",
+        "startDate": "2026-08-28",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Société des arts technologiques",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443650",
+        "ticketUrl": null,
+        "summary": "A MUTEK Nocturne edition across SAT’s Espace and Satosphère spaces, spanning breakbeat, bass, live electronics and audiovisual performance with A Guy Called Gerald, gyrofield, Honeydrip and Mia Koden among others.",
         "genres": [
           "electronic",
           "techno"
@@ -166,17 +271,86 @@
         ]
       },
       {
-        "id": "montreal-piknic-danny-tenaglia-2026",
-        "title": "Piknic Électronik MTL #13: Danny Tenaglia + MUTEK",
+        "id": "montreal-mutek-vmo-cry-2026",
+        "title": "Violent Magic Orchestra, Cry (Relaxer & Kilbourne), Alan Harman, Evicshen - MUTEK 27",
+        "type": "club-night",
+        "startDate": "2026-08-29",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Société des arts technologiques",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443660",
+        "ticketUrl": null,
+        "summary": "A harder-edged MUTEK Nocturne at SAT focused on techno, noise and live A/V performance with Violent Magic Orchestra, Cry, Evicshen, Alan Harman and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-mutek-dana-ruh-purelink-2026",
+        "title": "Dana Ruh, Dave Huismans, Nazar, Purelink, Matthew Herbert & Julian Sartorius - MUTEK 27",
         "type": "club-night",
         "startDate": "2026-08-30",
-        "endDate": "2026-08-30",
-        "importance": 78,
-        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
-        "venueId": "piknic",
-        "sourceUrl": "https://piknicelectronik.com/en/event/2026-piknic-30-08-2026",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Société des arts technologiques",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443665",
         "ticketUrl": null,
-        "summary": "Piknic Électronik’s August 30 schedule lists Danny Tenaglia and Guillaume Michaud on the Fizz Stage, plus a MUTEK-branded National Bank Stage with surprise artists. The event is scheduled from 4:00 pm to 9:30 pm.",
+        "summary": "A late MUTEK Nocturne closing-style session at SAT featuring Dana Ruh, Purelink with Mika Oki, Dave Huismans, Nazar, Poirier, Matthew Herbert & Julian Sartorius and MUTEK Sound System.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-worakls-2026",
+        "title": "Piknic Électronik MTL #12: Worakls",
+        "type": "club-night",
+        "startDate": "2026-08-23",
+        "endDate": "2026-08-23",
+        "importance": 72,
+        "venueName": "Piknic Électronik / Parc Jean Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413773",
+        "ticketUrl": null,
+        "summary": "Piknic Électronik MTL #12 is confirmed for Sunday, August 23, 2026 at Jardin Le Petit Prince in Parc Jean-Drapeau. The lineup features Worakls, Jares and Anaïs Ley from 4:00 pm to 9:30 pm.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-love-ritual-2026",
+        "title": "Love Festival Montreal: Love Ritual",
+        "type": "festival",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-09",
+        "importance": 72,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://linktr.ee/Lovefestivalmtl",
+        "ticketUrl": "https://linktr.ee/Lovefestivalmtl",
+        "summary": "Montreal’s LGBTQ+ circuit festival returns as Love Ritual with multiple ticketed parties across August 6–9, including Sauvage, Locker Room, District Inferno and Pure Love.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-avision-all-night-2026",
+        "title": "Avision (All Night Long)",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Stereo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425622",
+        "ticketUrl": null,
+        "summary": "A late-night-to-morning all-night session at Stereo Montreal with New York producer/DJ Avision, running 23:59–09:00.",
         "genres": [
           "house",
           "techno",

@@ -2,16 +2,352 @@
   "slug": "sydney",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:52:01.759Z",
-  "responseId": "resp_0c9c239da6a5ff4b0069ff65e77d4481a2a9158dca6c0f3e6f",
-  "searchCalls": 11,
+  "generatedAt": "2026-10-13T02:57:55.858Z",
+  "responseId": "resp_0bd7f58a8e980466006acd9d5a93e887d092083156fad41a41+resp_025b71df6e07d3ae006acd9dce2ae087d0969986234425e568",
+  "searchCalls": 33,
   "citations": [],
   "data": {
     "destinationSlug": "sydney",
     "month": 12,
     "year": 2026,
-    "notes": null,
+    "notes": "December 2026 is anchored by outdoor summer concert series and festivals, with Sydney’s club calendar already showing a strong run of house, techno and NYE parties.",
     "events": [
+      {
+        "id": "sydney-harry-styles-accor-stadium-2026",
+        "title": "Harry Styles – Together, Together Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 92,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.accorstadium.com.au/events/harry_styles_together_together_tour_2026",
+        "ticketUrl": "https://www.accorstadium.com.au/events/harry_styles_together_together_tour_2026",
+        "summary": "Harry Styles brings his Together, Together global residency to Accor Stadium for two Sydney stadium shows on 12 and 13 December.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-lost-paradise-2026",
+        "title": "Lost Paradise 2026",
+        "type": "festival",
+        "startDate": "2026-12-28",
+        "endDate": "2027-01-01",
+        "importance": 92,
+        "venueName": "Glenworth Valley",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2491206",
+        "ticketUrl": "https://ra.co/events/2491206",
+        "summary": "Lost Paradise returns to Glenworth Valley from 28 December to 1 January with John Summit, Skepta, KI/KI, Overmono, Armand Van Helden, Nia Archives, Ewan McVicar and a large electronic lineup.",
+        "genres": [
+          "festival",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "sydney-good-things-festival-2026",
+        "title": "Good Things Festival 2026 – Sydney",
+        "type": "festival",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 91,
+        "venueName": "Sydney Showground",
+        "venueId": null,
+        "sourceUrl": "https://tickets-pre.goodthingsfestival.com.au/outlet/event/1b87d5ef-df7f-4be4-a2a6-f3a2efda46d3",
+        "ticketUrl": "https://tickets-pre.goodthingsfestival.com.au/outlet/event/1b87d5ef-df7f-4be4-a2a6-f3a2efda46d3",
+        "summary": "The Sydney edition of Good Things Festival returns to Sydney Showground with Limp Bizkit, Simple Plan, Spiritbox, Polaris, The All-American Rejects, Bad Religion and more on the official bill.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-ministry-of-sound-summer-dance-2026",
+        "title": "Ministry of Sound Summer Dance Festival – Sydney",
+        "type": "festival",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 86,
+        "venueName": "The Domain",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/ministry-of-sound-summer-dance-festival-sydney/189312",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/ministry-of-sound-summer-dance-festival-sydney/189312",
+        "summary": "Ministry of Sound’s Sydney summer festival takes over The Domain with CLASSICAL performed by the Ministry of Sound Orchestra, plus Roger Sanchez, Seb Fontaine, Braxe + Falcon, Utah Saints, K-Klass, DJ Paulette, John Course, Minx and Sgt Slick.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-james-blake-on-the-steps-2026",
+        "title": "James Blake – Trying Times Australia Tour",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 84,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/james-blake",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/james-blake",
+        "summary": "James Blake returns to Australia for the first time since 2019 for an On The Steps headline show, with special guest Xmunashe.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-ra25-2026",
+        "title": "RA25: Sydney",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Club 77",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497419",
+        "ticketUrl": "https://ra.co/events/2497419",
+        "summary": "Resident Advisor closes its global 25th-birthday tour in the city where RA began, with a scene-heavy lineup including CC:DISCO!, Moopie, DJ Plead b2b DJ PGZ, Sleep D, Stereogamous, Mazzacles and Mikalah Watego at Club 77.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-charlotte-de-witte-hordern-2026",
+        "title": "Charlotte de Witte – Australia 2026",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 84,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552289",
+        "ticketUrl": "https://ra.co/events/2552289",
+        "summary": "Charlotte de Witte plays a major Sydney headline show at Hordern Pavilion on her Australia 2026 run.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-the-works-nye-2026",
+        "title": "THE WORKS [NYE] feat. Armand Van Helden, Ewan McVicar, Jayda G + salute",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531677",
+        "ticketUrl": "https://finelytuned.flicket.io",
+        "summary": "THE WORKS turns Carriageworks into a New Year’s Eve warehouse event with Armand Van Helden, Ewan McVicar, Jayda G and salute, combining major international house names with a club-focused setting.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-dizzee-rascal-on-the-steps-2026",
+        "title": "Dizzee Rascal – On The Steps",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 82,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/dizzee-rascal",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/dizzee-rascal",
+        "summary": "UK grime figurehead Dizzee Rascal headlines the Sydney Opera House Forecourt as part of the On The Steps series, with DJ Swaglord Savannah also on the lineup.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-defected-ivy-2026",
+        "title": "Defected Sydney 2026",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 82,
+        "venueName": "Ivy Sydney",
+        "venueId": null,
+        "sourceUrl": "https://defected.com/events/",
+        "ticketUrl": "https://defected.com/events/",
+        "summary": "Defected’s Australasia run lands at Ivy Sydney with Sam Divine, Nick Curly, Murphy's Law and David Penn on the lineup.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-moktar-liberty-hall-2026",
+        "title": "Moktar - Sydney - Liberty Hall",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Liberty Hall",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2520408",
+        "ticketUrl": "https://go.astralpeople.com",
+        "summary": "Astral People presents Moktar’s Gadigal/Eora live debut, with Moktar, Roza Terenzi and Killian bridging techno, IDM, jungle, breaks and Middle Eastern-rooted club sounds at Liberty Hall.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "sydney-spacey-jane-on-the-steps-2026",
+        "title": "Spacey Jane – Heading Back Down Under",
+        "type": "concert",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-11",
+        "importance": 78,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/spacey-jane",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/spacey-jane",
+        "summary": "Spacey Jane play two Sydney Opera House Forecourt shows for their Heading Back Down Under tour, joined by Telenova and Armlock.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-wolf-alice-on-the-steps-2026",
+        "title": "Wolf Alice – Australian Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 77,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/wolf-alice",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/wolf-alice",
+        "summary": "Wolf Alice play a Sydney headline show as part of the On The Steps series, with Folk Bitch Trio and Swapmeet supporting.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-pegassi-carriageworks-2026",
+        "title": "Pegassi – Australia 2026",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 77,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://www.untitledgroup.com.au/events-tours/pegassi",
+        "ticketUrl": "https://www.untitledgroup.com.au/events-tours/pegassi",
+        "summary": "Belgian electronic artist Pegassi makes his Australian headline debut with a Sydney all-night-long show at Carriageworks.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-dusky-last-dance-2026",
+        "title": "Bondi Lines x Let’s Go Dancing: The Last Dance – NYE 2026 feat. Dusky",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Selina's",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2528210",
+        "ticketUrl": "https://www.moshtix.com.au",
+        "summary": "Bondi Lines and Let’s Go Dancing return to Selina’s for The Last Dance, headlined by UK duo Dusky for an exclusive Sydney show spanning house and garage on New Year’s Eve.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-remi-wolf-enmore-2026",
+        "title": "Remi Wolf – Sydney 2026",
+        "type": "concert",
+        "startDate": "2026-12-15",
+        "endDate": "2026-12-15",
+        "importance": 76,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.frontiertouring.com/current-tours/remiwolf-GEEWQvx/remi-wolf-2026-15-dec-syd",
+        "ticketUrl": "https://www.frontiertouring.com/current-tours/remiwolf-GEEWQvx/remi-wolf-2026-15-dec-syd",
+        "summary": "Remi Wolf plays an exclusive Sydney headline date at Enmore Theatre, presented by Penny Drop and Frontier Touring with special guest Leyla Ebrahimi.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-the-works-pegassi-2026",
+        "title": "THE WORKS feat. Pegassi",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531674",
+        "ticketUrl": "https://my.carriageworks.com.au",
+        "summary": "Finely Tuned’s warehouse-style summer series opens its December program with Pegassi’s Australian headline debut at Carriageworks, positioned as a high-production electronic club event rather than a conventional concert.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-sundrift-club-dabke-2026",
+        "title": "Sundrift x Club Dabke pres. DJ Habibeats + Chamos + Special K",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Bella Vista Hotel",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2486259",
+        "ticketUrl": "https://sundriftxdabkesyd.eventbrite.com.au",
+        "summary": "Sundrift and Club Dabke bring a diaspora-focused golden-hour takeover to Western Sydney, headlined by DJ Habibeats with Chamos, Special K, Talisha and Nadz across house and Afro-house leaning global club sounds.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-guns-n-roses-world-tour-2026",
+        "title": "Guns N’ Roses: World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-14",
+        "endDate": "2026-12-14",
+        "importance": 88,
+        "venueName": "ENGIE Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/guns-n-roses-world-tour-2026-olympic-park-14-12-2026/event/13006459BEE3B8C8",
+        "ticketUrl": "https://www.ticketmaster.com.au/guns-n-roses-world-tour-2026-olympic-park-14-12-2026/event/13006459BEE3B8C8",
+        "summary": "Guns N’ Roses bring their World Tour 2026 to ENGIE Stadium in Sydney Olympic Park, with Airbourne listed as support on Ticketmaster’s tour pages.",
+        "genres": []
+      },
+      {
+        "id": "sydney-epik-the-monster-2026",
+        "title": "EPIK - The Monster",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Sydney Showground",
+        "venueId": null,
+        "sourceUrl": "https://www.thatfestivalsite.com/article/Knockout%20Outdoor%2C%20EPIK%20and%20Mystery%20Events%3A%20HSU%20Events%20Locks%20In%202026%20Calendar",
+        "ticketUrl": null,
+        "summary": "HSU’s year-ending hard-dance production event returns to Sydney Showground, billed as EPIK: The Monster and a key date for Australia’s harder electronic scene.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
       {
         "id": "sydney-dmas-on-the-steps-2026",
         "title": "On The Steps: DMA’S",
@@ -29,19 +365,34 @@
         ]
       },
       {
-        "id": "sydney-wolf-alice-on-the-steps-2026",
-        "title": "On The Steps: Wolf Alice Australian Tour 2026",
+        "id": "sydney-amity-affliction-on-the-steps-2026",
+        "title": "On The Steps: The Amity Affliction",
         "type": "concert",
-        "startDate": "2026-12-04",
-        "endDate": "2026-12-04",
-        "importance": 82,
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 76,
         "venueName": "Sydney Opera House Forecourt",
         "venueId": null,
-        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/wolf-alice",
-        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/wolf-alice",
-        "summary": "Wolf Alice headline the Sydney Opera House Forecourt as part of the On The Steps program, following their album The Clearing and international festival run.",
+        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/the-amity-affliction",
+        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/the-amity-affliction",
+        "summary": "The Amity Affliction play their only Australian headline show celebrating House of Cards at the Sydney Opera House Forecourt as part of On The Steps.",
+        "genres": []
+      },
+      {
+        "id": "sydney-yeah-buoy-sunset-boat-party-2026",
+        "title": "Yeah Buoy - Sunset Boat Party",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "King Street Wharf 3 North / Sydney Harbour",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/yeah-buoy-sunset-boat-party-512-tickets-1986054460354",
+        "ticketUrl": "https://www.eventbrite.com.au/e/yeah-buoy-sunset-boat-party-512-tickets-1986054460354",
+        "summary": "Sydney Harbour boat-party staple Yeah Buoy runs a confirmed sunset cruise on Inception, with the organiser positioning the brand around high-energy DJ cruises and house-music boat parties.",
         "genres": [
-          "pop"
+          "house",
+          "electronic"
         ]
       },
       {
@@ -61,65 +412,21 @@
         ]
       },
       {
-        "id": "sydney-charlotte-de-witte-2026",
-        "title": "Charlotte de Witte",
-        "type": "club-night",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 84,
-        "venueName": "Hordern Pavilion",
+        "id": "sydney-cliff-dive-fridays-2026",
+        "title": "The Cliff Dive Fridays",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-25",
+        "importance": 62,
+        "venueName": "The Cliff Dive",
         "venueId": null,
-        "sourceUrl": "https://thehordern.com.au/event/charlotte-de-witte/",
-        "ticketUrl": "https://thehordern.com.au/event/charlotte-de-witte/",
-        "summary": "Charlotte de Witte’s rescheduled Sydney date lands at Hordern Pavilion, with the venue confirming Saturday 12 December 2026 as the new show date.",
+        "sourceUrl": "https://www.designmynight.com/sydney/whats-on/clubbing/the-cliff-dive-fridays",
+        "ticketUrl": "https://www.designmynight.com/sydney/whats-on/clubbing/the-cliff-dive-fridays",
+        "summary": "A weekly Oxford Street basement residency focused on hip-hop and R&B, with resident DJs, MCs and performers across the December Friday dates.",
         "genres": [
-          "techno",
-          "electronic"
+          "hip-hop",
+          "r-and-b"
         ]
-      },
-      {
-        "id": "sydney-amity-affliction-on-the-steps-2026",
-        "title": "On The Steps: The Amity Affliction",
-        "type": "concert",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 76,
-        "venueName": "Sydney Opera House Forecourt",
-        "venueId": null,
-        "sourceUrl": "https://www.sydneyoperahouse.com/on-the-steps/the-amity-affliction",
-        "ticketUrl": "https://www.sydneyoperahouse.com/on-the-steps/the-amity-affliction",
-        "summary": "The Amity Affliction play their only Australian headline show celebrating House of Cards at the Sydney Opera House Forecourt as part of On The Steps.",
-        "genres": []
-      },
-      {
-        "id": "sydney-harry-styles-together-together-2026",
-        "title": "Harry Styles: Together, Together Tour 2026",
-        "type": "concert",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-13",
-        "importance": 94,
-        "venueName": "Accor Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.accorstadium.com.au/events/harry_styles_together_together_tour_2026",
-        "ticketUrl": "https://www.ticketmaster.com.au/artist/2366444?venueId=304356",
-        "summary": "Harry Styles brings his Together, Together global residency to Accor Stadium for two Sydney shows on Saturday 12 and Sunday 13 December 2026, promoted by Live Nation.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "sydney-guns-n-roses-world-tour-2026",
-        "title": "Guns N’ Roses: World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-12-14",
-        "endDate": "2026-12-14",
-        "importance": 88,
-        "venueName": "ENGIE Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.au/guns-n-roses-world-tour-2026-olympic-park-14-12-2026/event/13006459BEE3B8C8",
-        "ticketUrl": "https://www.ticketmaster.com.au/guns-n-roses-world-tour-2026-olympic-park-14-12-2026/event/13006459BEE3B8C8",
-        "summary": "Guns N’ Roses bring their World Tour 2026 to ENGIE Stadium in Sydney Olympic Park, with Airbourne listed as support on Ticketmaster’s tour pages.",
-        "genres": []
       }
     ]
   }

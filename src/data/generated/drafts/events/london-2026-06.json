@@ -2,9 +2,9 @@
   "slug": "london",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:00:16.311Z",
-  "responseId": "resp_0780cd93e811c66e0069ff597ac6748197b3c9d9fd528e7785",
-  "searchCalls": 17,
+  "generatedAt": "2026-05-30T18:20:43.327Z",
+  "responseId": "augment:resp_00cc07ee14c3e016006a1b2a1ea308819a952cbd9c42e03399",
+  "searchCalls": 15,
   "citations": [],
   "data": {
     "destinationSlug": "london",
@@ -49,20 +49,18 @@
         ]
       },
       {
-        "id": "london-hampton-court-palace-festival-2026",
-        "title": "Hampton Court Palace Festival 2026",
+        "id": "london-bst-garth-brooks-2026",
+        "title": "BST Hyde Park: Garth Brooks",
         "type": "festival",
-        "startDate": "2026-06-10",
-        "endDate": "2026-06-20",
-        "importance": 84,
-        "venueName": "Hampton Court Palace",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 90,
+        "venueName": "Hyde Park",
         "venueId": null,
-        "sourceUrl": "https://hamptoncourtpalacefestival.com/",
-        "ticketUrl": "https://hamptoncourtpalacefestival.com/",
-        "summary": "The palace concert series returns with confirmed 2026 headliners including David Gray, OMD, Pete Tong Ibiza Classics, The Stranglers, Nile Rodgers & CHIC, Elvis Costello & The Imposters, Sophie Ellis-Bextor and 80s Classical. It is a near-London heritage-setting music festival with nightly shows in June.",
+        "sourceUrl": "https://www.bst-hydepark.com/events/garth-brooks-sat-27-june/",
+        "ticketUrl": "https://www.bst-hydepark.com/events/garth-brooks-sat-27-june/",
+        "summary": "American Express presents BST Hyde Park opens its 2026 run with Garth Brooks headlining, joined by Zac Brown Band and Ashley McBryde. The official BST page lists the show for Saturday 27 June 2026.",
         "genres": [
-          "pop",
-          "house",
           "festival"
         ]
       },
@@ -80,23 +78,6 @@
         "summary": "FKA twigs plays a UK-exclusive BODY HIGH TOUR show at The O2 with special guest Yves Tumor. The event is tied to her EUSEXUA Afterglow era and is billed by The O2 for Wednesday 10 June 2026.",
         "genres": [
           "electronic",
-          "pop"
-        ]
-      },
-      {
-        "id": "london-olivia-dean-o2-2026",
-        "title": "Olivia Dean: The Art of Loving Live",
-        "type": "concert",
-        "startDate": "2026-06-11",
-        "endDate": "2026-06-11",
-        "importance": 85,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/olivia-dean",
-        "ticketUrl": "https://www.axs.com/uk/events/1118750/olivia-dean-tickets",
-        "summary": "Olivia Dean brings The Art of Loving Live to The O2 for a London arena run; this entry uses the explicitly listed 11 June 2026 date. The O2 also lists a second June date on 12 June.",
-        "genres": [
-          "r-and-b",
           "pop"
         ]
       },
@@ -119,21 +100,56 @@
         ]
       },
       {
-        "id": "london-start-of-the-line-festival-2026",
-        "title": "Start of the Line Festival",
-        "type": "festival",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 75,
-        "venueName": "Morden Park",
+        "id": "london-olivia-dean-o2-2026",
+        "title": "Olivia Dean: The Art of Loving Live",
+        "type": "concert",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-11",
+        "importance": 85,
+        "venueName": "The O2 arena",
         "venueId": null,
-        "sourceUrl": "https://www.merton.gov.uk/wearemerton/startoftheline",
-        "ticketUrl": "https://www.merton.gov.uk/wearemerton/startoftheline",
-        "summary": "Merton Council’s new one-day festival at Morden Park is confirmed with Soul II Soul, The Hoosiers and Billy Nomates as headliners. The official page lists the event for Saturday 20 June 2026.",
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/olivia-dean",
+        "ticketUrl": "https://www.axs.com/uk/events/1118750/olivia-dean-tickets",
+        "summary": "Olivia Dean brings The Art of Loving Live to The O2 for a London arena run; this entry uses the explicitly listed 11 June 2026 date. The O2 also lists a second June date on 12 June.",
         "genres": [
           "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-hampton-court-palace-festival-2026",
+        "title": "Hampton Court Palace Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-20",
+        "importance": 84,
+        "venueName": "Hampton Court Palace",
+        "venueId": null,
+        "sourceUrl": "https://hamptoncourtpalacefestival.com/",
+        "ticketUrl": "https://hamptoncourtpalacefestival.com/",
+        "summary": "The palace concert series returns with confirmed 2026 headliners including David Gray, OMD, Pete Tong Ibiza Classics, The Stranglers, Nile Rodgers & CHIC, Elvis Costello & The Imposters, Sophie Ellis-Bextor and 80s Classical. It is a near-London heritage-setting music festival with nightly shows in June.",
+        "genres": [
           "pop",
+          "house",
           "festival"
+        ]
+      },
+      {
+        "id": "london-the-cause-8th-birthday-2026",
+        "title": "The Cause ∞ Forever: 8th Birthday - 24hr Non-Stop",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 84,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2331572",
+        "ticketUrl": "https://ra.co/events/2331572",
+        "summary": "A 24-hour, eight-floor birthday marathon for The Cause with Sound Metaphors, Fast & Bi-Furious, Fèmmme Fraîche, Persona, Das Booty and more, spanning house and techno with Chez Damier b2b Jovonn, Prosumer, Paranoid London live, Planetary Assault Systems live and many more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
@@ -151,6 +167,164 @@
         "genres": [
           "electronic",
           "hip-hop"
+        ]
+      },
+      {
+        "id": "london-empire-of-the-sun-ally-pally-2026",
+        "title": "Empire of the Sun: Ask That God Europe 2026",
+        "type": "concert",
+        "startDate": "2026-06-24",
+        "endDate": "2026-06-27",
+        "importance": 82,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/empire-of-the-sun/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/empire-of-the-sun/",
+        "summary": "Empire of the Sun play a multi-night Alexandra Palace Great Hall run for the Ask That God tour. Alexandra Palace lists 24–27 June 2026 and notes an extra 24 June date added due to demand.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-another-thought-2026",
+        "title": "Another Thought 2026",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 82,
+        "venueName": "Blackhorse Lane Multiple Venues",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2381579",
+        "ticketUrl": "https://ra.co/events/2381579",
+        "summary": "Small Talk and Another Thought launch a multi-venue Blackhorse Lane day-to-night dance with Erol Alkan, Dennis Bovell, Emma-Jean Thackray, Joe Armon-Jones, Factory Floor live, Crazy P, Tash LC, Bill Brewster, Sound Metaphors DJs and many local selectors.",
+        "genres": [
+          "house",
+          "electronic",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-multi-multi-2026",
+        "title": "Secretsundaze presents: Multi Multi 2026",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Hackney Wick Multiple Venues",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2317841",
+        "ticketUrl": "https://ra.co/events/2317841",
+        "summary": "Secretsundaze's Multi Multi returns to Hackney Wick with a multi-venue, full-spectrum electronic programme featuring DJ Python, Sound Metaphors DJs, Dar Disku, Beirut Groove Collective, NVST, Paquita Gordon, Nosedrip, Liquid Earth and many crews.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-ddan-freddy-k-cause-2026",
+        "title": "D.Dan & Freddy K curate w/ DJ Nobu, Philippa Pacho, JakoJako, Rene Wise + more - Day & Night",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 80,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2374075",
+        "ticketUrl": "https://ra.co/events/2374075",
+        "summary": "Origins and Small Talk present a 17-hour techno day-into-night at The Cause curated by D.Dan and Freddy K, with DJ Nobu, JakoJako, Philippa Pacho, Rene Wise, Tasha and Voicedrone b2b James Newmarch.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabriclive-grime-jun-2026",
+        "title": "FABRICLIVE: Sir Spyro, Roll Deep, Reeko, Tiffany Calver, Footsie, Capo Lee, Killa P, Big Zuu",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://www.fabriclondon.com/whats-on",
+        "ticketUrl": "https://ra.co/events",
+        "summary": "fabric’s official listings confirm a FABRICLIVE grime and UK rap-focused night with Sir Spyro, Roll Deep, REEK0 & Capo Lee, Tiffany Calver, Footsie, Killa P, Big Zuu and more. The event is listed for Friday 26 June 2026.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-cirque-du-soul-summer-day-party-2026",
+        "title": "Cirque Du Soul: London // Summer Day Party",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2298659",
+        "ticketUrl": "https://ra.co/events/2298659",
+        "summary": "Touring party brand Cirque Du Soul brings its London summer day party back to The Cause, promising open-air and indoor stages with house, garage, breaks, drum & bass and hip-hop across the venue.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-phonox-mot-open-air-2026",
+        "title": "Phonox x MOT Open Air: Leon Vynehall, Powder, Yu Su, AliA - Day & Night",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 78,
+        "venueName": "Phonox / MOT Open Air",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392448",
+        "ticketUrl": "https://ra.co/events/2392448",
+        "summary": "Leon Vynehall anchors a South London day-and-night party across MOT Open Air and Phonox, joined by Powder, AliA and Yu Su for a strong selector-led house/electronic bill.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-shy-fx-keep-on-skankin-2026",
+        "title": "Shy FX 'Keep On Skankin' Open Air Day Party",
+        "type": "club-night",
+        "startDate": "2026-06-28",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2373098",
+        "ticketUrl": "https://ra.co/events/2373098",
+        "summary": "Shy FX brings his Keep On Skankin' open-air day party to The Cause with special guests including 33 Below, Clipz, David Rodigan, Jayahadadream, Kingh and Konny Kon.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-tech-couture-fold-2026",
+        "title": "Tech Couture // Chlär, ANNĒ, Mac Declos, Pablo Bozzi, Blasha & Allatt, BLANKA, Amphia, S3BA",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 77,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2436099",
+        "ticketUrl": "https://ra.co/events/2436099",
+        "summary": "Tech Couture takes over two rooms at FOLD for 12 hours with Chlär, ANNĒ, BLANKA, Amphia, S3BA, residents Blasha & Allatt, plus Mac Declos b2b Pablo Bozzi all night long in the Steam Room.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -172,52 +346,20 @@
         ]
       },
       {
-        "id": "london-empire-of-the-sun-ally-pally-2026",
-        "title": "Empire of the Sun: Ask That God Europe 2026",
-        "type": "concert",
-        "startDate": "2026-06-24",
-        "endDate": "2026-06-27",
-        "importance": 82,
-        "venueName": "Alexandra Palace",
-        "venueId": null,
-        "sourceUrl": "https://www.alexandrapalace.com/whats-on/empire-of-the-sun/",
-        "ticketUrl": "https://www.alexandrapalace.com/whats-on/empire-of-the-sun/",
-        "summary": "Empire of the Sun play a multi-night Alexandra Palace Great Hall run for the Ask That God tour. Alexandra Palace lists 24–27 June 2026 and notes an extra 24 June date added due to demand.",
-        "genres": [
-          "electronic",
-          "pop"
-        ]
-      },
-      {
-        "id": "london-fabriclive-grime-jun-2026",
-        "title": "FABRICLIVE: Sir Spyro, Roll Deep, Reeko, Tiffany Calver, Footsie, Capo Lee, Killa P, Big Zuu",
-        "type": "club-night",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-26",
-        "importance": 78,
-        "venueName": "fabric London",
-        "venueId": "fabric",
-        "sourceUrl": "https://www.fabriclondon.com/whats-on",
-        "ticketUrl": "https://ra.co/events",
-        "summary": "fabric’s official listings confirm a FABRICLIVE grime and UK rap-focused night with Sir Spyro, Roll Deep, REEK0 & Capo Lee, Tiffany Calver, Footsie, Killa P, Big Zuu and more. The event is listed for Friday 26 June 2026.",
-        "genres": [
-          "hip-hop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "london-bst-garth-brooks-2026",
-        "title": "BST Hyde Park: Garth Brooks",
+        "id": "london-start-of-the-line-festival-2026",
+        "title": "Start of the Line Festival",
         "type": "festival",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-27",
-        "importance": 90,
-        "venueName": "Hyde Park",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 75,
+        "venueName": "Morden Park",
         "venueId": null,
-        "sourceUrl": "https://www.bst-hydepark.com/events/garth-brooks-sat-27-june/",
-        "ticketUrl": "https://www.bst-hydepark.com/events/garth-brooks-sat-27-june/",
-        "summary": "American Express presents BST Hyde Park opens its 2026 run with Garth Brooks headlining, joined by Zac Brown Band and Ashley McBryde. The official BST page lists the show for Saturday 27 June 2026.",
+        "sourceUrl": "https://www.merton.gov.uk/wearemerton/startoftheline",
+        "ticketUrl": "https://www.merton.gov.uk/wearemerton/startoftheline",
+        "summary": "Merton Council’s new one-day festival at Morden Park is confirmed with Soul II Soul, The Hoosiers and Billy Nomates as headliners. The official page lists the event for Saturday 20 June 2026.",
         "genres": [
+          "r-and-b",
+          "pop",
           "festival"
         ]
       }

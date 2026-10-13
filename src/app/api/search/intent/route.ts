@@ -136,7 +136,7 @@ Filter rules:
 
 Artist / discovery rules:
 - artist: if the query mentions a DJ, producer, band, or artist by name, set this to the artist's name. Otherwise null.
-- If artist is set OR the query asks "where is X next", "where can I see X", "is X playing in Y" — USE the web_search tool to find verified upcoming shows in 2026. Otherwise DO NOT call web_search; rely on the query alone.
+- If artist is set OR the query asks "where is X next", "where can I see X", "is X playing in Y" — USE the web_search tool to find verified upcoming shows from ${new Date().toISOString().slice(0, 10)} onward (ignore anything already past). Otherwise DO NOT call web_search; rely on the query alone.
 - discoverySummary: a 1–3 sentence answer based ONLY on web_search results. Include venue + date for each confirmed show. If web_search found no concrete info, set to null. NEVER invent dates, venues, or shows.
 - discoveryCitySlugs: city slugs from this list ONLY: ${DESTINATION_SLUGS.join(", ")}. Include a slug ONLY if the artist is confirmed to play in or very near that exact city. Do NOT loosely map by country (e.g. don't map Cannes to paris). Empty array if no exact city match.
 - discoveryCitations: source URL+title for each web result that backs your summary. Required if discoverySummary is non-null. Empty array otherwise.
@@ -230,7 +230,8 @@ export async function POST(req: Request) {
         schema: llmIntentSchema,
         schemaName: "search_intent",
         webSearch: true,
-        timeoutMs: 60_000
+        timeoutMs: 60_000,
+        cost: { maxSearches: 4 }
       });
       const intent = intentFromLlm(query, result.data, result.citations);
       hydrateLocalAnswer(intent);

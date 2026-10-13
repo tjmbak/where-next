@@ -1,0 +1,290 @@
+{
+  "slug": "los-angeles",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:56:19.133Z",
+  "responseId": "resp_019b1e699dc964eb006acdab053dc487d095a06f697135c433+resp_06cf4b57b9cb2489006acdab81807887d080e0e3d0ed340d39",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 5,
+    "year": 2027,
+    "notes": "Confirmed May 2027 listings currently skew toward major concerts and early-announced festival dates; many LA club and underground calendars are not yet published this far out.",
+    "events": [
+      {
+        "id": "los-angeles-harry-styles-2027",
+        "title": "Harry Styles: Together, Together",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 90,
+        "venueName": "Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1iZ_3Bg-0lz/harry-styles-together-together",
+        "ticketUrl": "https://www.livenation.com/event/vvG1iZ_3Bg-0lz/harry-styles-together-together",
+        "summary": "Harry Styles brings the Together, Together tour to the Rose Bowl in Pasadena on May 1, 2027. This is a large-scale stadium pop date in the LA area.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-beachlife-festival-2027",
+        "title": "BeachLife Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 85,
+        "venueName": "BeachLife Festival Redondo Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.beachlifefestival.com/general-info",
+        "ticketUrl": "https://www.axs.com/events/1515460/2027-beachlife-festival-3-day-pass-430-52-tickets",
+        "summary": "BeachLife Festival returns to Redondo Beach for a three-day waterfront edition running April 30–May 2, 2027. The 2027 lineup has not been posted on the official festival page yet, but the dates and site are confirmed.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-niall-horan-kia-forum-2027",
+        "title": "Niall Horan - Dinner Party Live On Tour",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/niall-horan/",
+        "ticketUrl": "https://thekiaforum.com/event/niall-horan/",
+        "summary": "Niall Horan brings Dinner Party Live On Tour to the Kia Forum in Inglewood on May 22, 2027, with Cameron Whitcomb listed as support. The Kia Forum event page confirms the date and venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-def-leppard-hollywood-bowl-2027",
+        "title": "Def Leppard and Goo Goo Dolls",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 80,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/def-leppard-and-goo-goo-dolls-hollywood-california-05-01-2027/event/0B0065410242AA13",
+        "ticketUrl": "https://www.ticketmaster.com/def-leppard-and-goo-goo-dolls-hollywood-california-05-01-2027/event/0B0065410242AA13",
+        "summary": "Def Leppard headline the Hollywood Bowl on May 1, 2027, with Goo Goo Dolls on the bill. The date is part of Def Leppard’s 2027 North American tour.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-saint-levant-afandi-2027",
+        "title": "Saint Levant - AFANDI World Tour",
+        "type": "concert",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-02",
+        "importance": 78,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv1AaZkf_GkdoTX7A/saint-levant-afandi-world-tour",
+        "ticketUrl": "https://www.livenation.com/event/vv1AaZkf_GkdoTX7A/saint-levant-afandi-world-tour",
+        "summary": "Saint Levant opens a confirmed run at The Wiltern on May 2, 2027, as part of the AFANDI World Tour. The show sits at the intersection of hip-hop, R&B, and Arab pop.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-haash-youtube-theater-2027",
+        "title": "Ha*Ash - No Me Hablen de Amor",
+        "type": "concert",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-02",
+        "importance": 76,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.youtubetheater.com/events/detail/haash-1",
+        "ticketUrl": "https://www.ticketmaster.com/haash-no-me-hablen-de-amor-inglewood-california-05-02-2027/event/0A00652FC2E6A548",
+        "summary": "Mexican-American duo Ha*Ash play YouTube Theater in Inglewood on May 2, 2027, on the No Me Hablen de Amor tour. The venue page confirms the 8:00 PM show time and tour context.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-lola-young-greek-2027",
+        "title": "Lola Young - Everything Begins",
+        "type": "concert",
+        "startDate": "2027-05-04",
+        "endDate": "2027-05-04",
+        "importance": 75,
+        "venueName": "Greek Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv16aZk4e0KZA8aeAF/lola-young-everything-begins",
+        "ticketUrl": "https://www.ticketmaster.com/lola-young-everything-begins-los-angeles-california-05-04-2027/event/09006542913F8147",
+        "summary": "Lola Young closes her Everything Begins North American run at the Greek Theatre on May 4, 2027. Sofia and the Antoinettes are listed as support on the Live Nation event page.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-yoon-fest-2027",
+        "title": "Yoon Fest 2027",
+        "type": "festival",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-10",
+        "importance": 75,
+        "venueName": "Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/en/festivals/-/north-america",
+        "ticketUrl": "https://r.shotgun.live/en/festivals/-/north-america",
+        "summary": "Shotgun lists YOON’s Los Angeles festival for May 7–10, pointing to a community-led electronic weekender with house, techno and leftfield dance appeal.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-palaye-royale-club-run-2027",
+        "title": "Palaye Royale - The Amsterdamage World Tour LA Club Run",
+        "type": "residency",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-16",
+        "importance": 72,
+        "venueName": "El Rey Theatre / The Roxy / The Viper Room / Fonda Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/artists/1103405/palaye-royale-tickets?page=2",
+        "ticketUrl": "https://www.axs.com/events/1638422/palaye-royale-tickets",
+        "summary": "Palaye Royale’s Amsterdamage World Tour includes a four-night Los Angeles-area club run from May 13–16, 2027, across El Rey Theatre, The Roxy, The Viper Room, and Fonda Theatre. The run is a notable small-room rock itinerary rather than a single arena play.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-valery-meladze-dolby-2027",
+        "title": "Valery Meladze",
+        "type": "concert",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-15",
+        "importance": 72,
+        "venueName": "Dolby Theatre",
+        "venueId": null,
+        "sourceUrl": "https://dolbytheatre.com/events/details/valery_meladze",
+        "ticketUrl": "https://www.livenation.com/event/vv1AaZkoJGkdGO3HD/valery-meladze",
+        "summary": "Valery Meladze performs at Dolby Theatre in Hollywood on May 15, 2027. The venue confirms the Russian-language concert as part of his 2027 US return.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-french-79-regent-2027",
+        "title": "French 79 - Close To The Giants",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 70,
+        "venueName": "The Regent Theater",
+        "venueId": null,
+        "sourceUrl": "https://regentdtla.com/events/",
+        "ticketUrl": "https://regentdtla.com/events/",
+        "summary": "French electronic artist French 79 plays The Regent Theater in Downtown LA on May 7, 2027. The venue calendar lists the show as Close To The Giants with doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-agnes-obel-ford-2027",
+        "title": "Agnes Obel",
+        "type": "concert",
+        "startDate": "2027-05-18",
+        "endDate": "2027-05-18",
+        "importance": 70,
+        "venueName": "The Ford",
+        "venueId": null,
+        "sourceUrl": "https://www.agnesobel.com/",
+        "ticketUrl": "https://www.bandsintown.com/e/108908483-agnes-obel-at-the-ford?came_from=257",
+        "summary": "Agnes Obel plays The Ford in Los Angeles on May 18, 2027. Her official tour page lists the Los Angeles date at The Ford, supporting the 2027 tour schedule.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-michael-shannon-narducy-rem-document-2027",
+        "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.’s Document",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 68,
+        "venueName": "The Bellwether",
+        "venueId": null,
+        "sourceUrl": "https://apeconcerts.com/events/michael-shannon-jason-narducy-and-friends-270501/",
+        "ticketUrl": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-los-angeles-california-05-01-2027/event/09006538DAC81005",
+        "summary": "Michael Shannon and Jason Narducy bring their R.E.M. tribute project to The Bellwether, performing the album Document with a full band. The show is confirmed for May 1, 2027.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-liminanas-teragram-2027",
+        "title": "The Limiñanas with Native Sun",
+        "type": "concert",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-13",
+        "importance": 68,
+        "venueName": "Teragram Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://teragramballroom.com/tm-event/the-liminanas/",
+        "ticketUrl": "https://www.livenation.com/event/vv170Z_6GkBR5y5_/the-liminanas",
+        "summary": "French psych-rock band The Limiñanas play Teragram Ballroom on May 13, 2027, with Native Sun supporting. The venue page confirms the rescheduled date, doors, show time, and all-ages status.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-too-many-zooz-troubadour-2027",
+        "title": "Too Many Zooz - Audio Lipstick Tour",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 67,
+        "venueName": "Troubadour",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1615248/too-many-zooz-tickets",
+        "ticketUrl": "https://www.axs.com/events/1615248/too-many-zooz-tickets",
+        "summary": "Too Many Zooz bring the Audio Lipstick Tour to the Troubadour in West Hollywood on May 8, 2027. The AXS listing confirms the Troubadour-presented all-ages show.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "los-angeles-powerman-5000-whisky-2027",
+        "title": "Powerman 5000 with Aesthetic Perfection and A Killer’s Confession",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 64,
+        "venueName": "Whisky A Go Go",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/powerman-5000-aesthetic-perfection-a-whisky-a-go-go-tickets/14314324",
+        "ticketUrl": "https://www.ticketweb.com/event/powerman-5000-aesthetic-perfection-a-whisky-a-go-go-tickets/14314324",
+        "summary": "Powerman 5000 headline Whisky A Go Go in West Hollywood on May 22, 2027, with Aesthetic Perfection and A Killer’s Confession also billed. TicketWeb confirms the lineup and 6:00 PM event time.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-club-decades-talking-heads-2027",
+        "title": "Club Decades: Talking Heads Night — David Byrne Birthday",
+        "type": "club-night",
+        "startDate": "2027-05-14",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Boardners",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/talking-heads-night-david-byrne-birthday-tickets-2002504073590",
+        "ticketUrl": "https://www.eventbrite.com/e/talking-heads-night-david-byrne-birthday-tickets-2002504073590",
+        "summary": "Club Decades takes over Boardners for a themed Hollywood dance night built around Talking Heads, David Byrne, new wave, post-punk, art-rock remixes and adjacent dance-floor favorites.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -2,8 +2,8 @@
   "slug": "amsterdam",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:55:58.281Z",
-  "responseId": "resp_06166935edef25eb0069ff5894a90481938f82edd9f4ef9a86",
+  "generatedAt": "2026-05-30T17:59:51.203Z",
+  "responseId": "augment:resp_022f14dab1f1d8dc006a1b252a8cec819a846a78cc9afd7e9a",
   "searchCalls": 14,
   "citations": [],
   "data": {
@@ -13,21 +13,21 @@
     "notes": "June 2026 in Amsterdam is already anchored by major outdoor electronic festivals, jazz and roots programming, and a run of large Ziggo Dome arena shows.",
     "events": [
       {
-        "id": "amsterdam-kaytranada-jun-2026",
-        "title": "KAYTRANADA - EUROPE '26 TOUR",
-        "type": "concert",
-        "startDate": "2026-06-01",
-        "endDate": "2026-06-01",
-        "importance": 85,
-        "venueName": "Ziggo Dome",
+        "id": "amsterdam-909-festival-jun-2026",
+        "title": "909 Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 94,
+        "venueName": "Amsterdamse Bos",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.nl/artist/kaytranada-tickets/923935?language=en-us",
-        "ticketUrl": "https://www.ticketmaster.nl/artist/kaytranada-tickets/923935?language=en-us",
-        "summary": "KAYTRANADA plays Ziggo Dome on 1 June 2026 with Uncle Waffles listed on the bill. The Amsterdam date is part of his Europe '26 Tour.",
+        "sourceUrl": "https://www.909.nl/",
+        "ticketUrl": "https://www.909.nl/",
+        "summary": "909 Festival returns to Amsterdamse Bos on 6 and 7 June 2026. Confirmed names include Adam Beyer, Anfisa Letyago, Fjaak x KiNK live, Mall Grab, Ben Böhmer live, Eric Prydz, Jeff Mills and Kevin Saunderson.",
         "genres": [
-          "electronic",
+          "techno",
           "house",
-          "amapiano"
+          "electronic"
         ]
       },
       {
@@ -48,39 +48,18 @@
         ]
       },
       {
-        "id": "amsterdam-red-light-jazz-jun-2026",
-        "title": "Red Light Jazz 2026",
-        "type": "festival",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-07",
-        "importance": 80,
-        "venueName": "Various Red Light District venues",
+        "id": "amsterdam-guns-n-roses-jun-2026",
+        "title": "Guns N' Roses - World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-20",
+        "importance": 90,
+        "venueName": "Ziggo Dome",
         "venueId": null,
-        "sourceUrl": "https://redlightjazz.com/en/program/",
-        "ticketUrl": "https://redlightjazz.com/en/tickets/",
-        "summary": "Red Light Jazz 2026 runs across 5, 6 and 7 June with performances throughout Amsterdam's Red Light District. The listed programme includes artists such as Mark Beebe Trio, ACHHA, Chocos and Red Light Jazz Dinner feat. DJ + New Cool Collective.",
-        "genres": [
-          "jazz",
-          "festival"
-        ]
-      },
-      {
-        "id": "amsterdam-909-festival-jun-2026",
-        "title": "909 Festival 2026",
-        "type": "festival",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-07",
-        "importance": 94,
-        "venueName": "Amsterdamse Bos",
-        "venueId": null,
-        "sourceUrl": "https://www.909.nl/",
-        "ticketUrl": "https://www.909.nl/",
-        "summary": "909 Festival returns to Amsterdamse Bos on 6 and 7 June 2026. Confirmed names include Adam Beyer, Anfisa Letyago, Fjaak x KiNK live, Mall Grab, Ben Böhmer live, Eric Prydz, Jeff Mills and Kevin Saunderson.",
-        "genres": [
-          "techno",
-          "house",
-          "electronic"
-        ]
+        "sourceUrl": "https://www.ticketmaster.nl/artist/guns-n-roses-tickets/1813?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/guns-n-roses-tickets/1813?language=en-us",
+        "summary": "Guns N' Roses have two confirmed Ziggo Dome shows on 18 and 20 June 2026. Mammoth is listed on the lineup for the Amsterdam dates.",
+        "genres": []
       },
       {
         "id": "amsterdam-amsterdam-open-air-jun-2026",
@@ -98,6 +77,56 @@
           "house",
           "techno",
           "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-doja-cat-jun-2026",
+        "title": "Doja Cat - Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 88,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/doja-cat-tickets/952622?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/doja-cat-tickets/952622?language=en-us",
+        "summary": "Doja Cat performs at Ziggo Dome on 12 June 2026 as part of the Tour Ma Vie World Tour. Ticketmaster lists the Amsterdam concert at 20:00.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-iron-maiden-jun-2026",
+        "title": "Iron Maiden - Run For Your Live World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-10",
+        "importance": 87,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/iron-maiden-tickets/1225?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/iron-maiden-tickets/1225?language=en-us",
+        "summary": "Iron Maiden plays Ziggo Dome on 10 June 2026 on the Run For Your Live World Tour 2026. Evergrey is confirmed as support.",
+        "genres": []
+      },
+      {
+        "id": "amsterdam-kaytranada-jun-2026",
+        "title": "KAYTRANADA - EUROPE '26 TOUR",
+        "type": "concert",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-01",
+        "importance": 85,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/kaytranada-tickets/923935?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/kaytranada-tickets/923935?language=en-us",
+        "summary": "KAYTRANADA plays Ziggo Dome on 1 June 2026 with Uncle Waffles listed on the bill. The Amsterdam date is part of his Europe '26 Tour.",
+        "genres": [
+          "electronic",
+          "house",
+          "amapiano"
         ]
       },
       {
@@ -119,67 +148,21 @@
         ]
       },
       {
-        "id": "amsterdam-further-anniversary-jun-2026",
-        "title": "DJ Bone presents: FURTHER 6th Anniversary",
-        "type": "club-night",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-06",
-        "importance": 75,
-        "venueName": "RADION",
+        "id": "amsterdam-red-light-jazz-jun-2026",
+        "title": "Red Light Jazz 2026",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 80,
+        "venueName": "Various Red Light District venues",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2431848",
-        "ticketUrl": "https://ra.co/events/2431848",
-        "summary": "DJ Bone's FURTHER marks its 6th anniversary at RADION on 6 June 2026. The RA listing confirms DJ Bone b2b Zack Fox, Ellaweeez and residents for a 23:00-07:00 night session.",
+        "sourceUrl": "https://redlightjazz.com/en/program/",
+        "ticketUrl": "https://redlightjazz.com/en/tickets/",
+        "summary": "Red Light Jazz 2026 runs across 5, 6 and 7 June with performances throughout Amsterdam's Red Light District. The listed programme includes artists such as Mark Beebe Trio, ACHHA, Chocos and Red Light Jazz Dinner feat. DJ + New Cool Collective.",
         "genres": [
-          "techno",
-          "house"
+          "jazz",
+          "festival"
         ]
-      },
-      {
-        "id": "amsterdam-iron-maiden-jun-2026",
-        "title": "Iron Maiden - Run For Your Live World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-06-10",
-        "endDate": "2026-06-10",
-        "importance": 87,
-        "venueName": "Ziggo Dome",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.nl/artist/iron-maiden-tickets/1225?language=en-us",
-        "ticketUrl": "https://www.ticketmaster.nl/artist/iron-maiden-tickets/1225?language=en-us",
-        "summary": "Iron Maiden plays Ziggo Dome on 10 June 2026 on the Run For Your Live World Tour 2026. Evergrey is confirmed as support.",
-        "genres": []
-      },
-      {
-        "id": "amsterdam-doja-cat-jun-2026",
-        "title": "Doja Cat - Tour Ma Vie World Tour",
-        "type": "concert",
-        "startDate": "2026-06-12",
-        "endDate": "2026-06-12",
-        "importance": 88,
-        "venueName": "Ziggo Dome",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.nl/artist/doja-cat-tickets/952622?language=en-us",
-        "ticketUrl": "https://www.ticketmaster.nl/artist/doja-cat-tickets/952622?language=en-us",
-        "summary": "Doja Cat performs at Ziggo Dome on 12 June 2026 as part of the Tour Ma Vie World Tour. Ticketmaster lists the Amsterdam concert at 20:00.",
-        "genres": [
-          "hip-hop",
-          "r-and-b",
-          "pop"
-        ]
-      },
-      {
-        "id": "amsterdam-guns-n-roses-jun-2026",
-        "title": "Guns N' Roses - World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-20",
-        "importance": 90,
-        "venueName": "Ziggo Dome",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.nl/artist/guns-n-roses-tickets/1813?language=en-us",
-        "ticketUrl": "https://www.ticketmaster.nl/artist/guns-n-roses-tickets/1813?language=en-us",
-        "summary": "Guns N' Roses have two confirmed Ziggo Dome shows on 18 and 20 June 2026. Mammoth is listed on the lineup for the Amsterdam dates.",
-        "genres": []
       },
       {
         "id": "amsterdam-mystic-garden-echos-jun-2026",
@@ -200,6 +183,92 @@
         ]
       },
       {
+        "id": "amsterdam-piv-festival-2026",
+        "title": "PIV Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "NDSM Docklands",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2314986",
+        "ticketUrl": "https://shop.celebratix.io",
+        "summary": "PIV brings its house-focused label/festival community to NDSM Docklands with Prunk, Locklead, Matisa, M-High, Kellie Allen, Kepler and more.",
+        "genres": [
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-dkmntl-tillatec-2026",
+        "title": "DKMNTL at TILLATEC",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "TILLATEC",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430522",
+        "ticketUrl": "https://shop.weeztix.com",
+        "summary": "Dekmantel brings its DKMNTL series to TILLATEC for a secret-lineup early-summer daytime dance.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "amsterdam-laster-tillatec-2026",
+        "title": "LASTER x TILLATEC [Summer Edition]",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "TILLATEC",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2363000",
+        "ticketUrl": null,
+        "summary": "LASTER brings a heavyweight techno lineup to TILLATEC with Philippa Pacho, Sandrien, Roll Dann, Phara, Costanza and LAIA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-quelza-all-night-2026",
+        "title": "Quelza - all night long",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433830",
+        "ticketUrl": "https://weeztix.shop",
+        "summary": "Lofi gives Berlin-based French techno artist Quelza an all-night Colorfloor session, with lights by Strobert.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-further-anniversary-jun-2026",
+        "title": "DJ Bone presents: FURTHER 6th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 75,
+        "venueName": "RADION",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431848",
+        "ticketUrl": "https://ra.co/events/2431848",
+        "summary": "DJ Bone's FURTHER marks its 6th anniversary at RADION on 6 June 2026. The RA listing confirms DJ Bone b2b Zack Fox, Ellaweeez and residents for a 23:00-07:00 night session.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
         "id": "amsterdam-roots-festival-jun-2026",
         "title": "Amsterdam Roots Festival 2026",
         "type": "festival",
@@ -213,6 +282,75 @@
         "summary": "Amsterdam Roots Festival is confirmed for 28 June 2026 from 13:00 to 23:00. The City of Amsterdam describes it as an event where artists and makers from around the world share cultural backgrounds through music, dance, circus and theatre.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-vbx-summer-day-2026",
+        "title": "VBX Summer Day",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392826",
+        "ticketUrl": "https://shop.weeztix.com",
+        "summary": "Amsterdam minimal-house institution VBX hosts a daytime Lofi session led by Apollonia on an extended set, with Zino & Lorena setting the tone.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-thuishaven-luciano-jamback-2026",
+        "title": "Thuishaven with Luciano / Jamback",
+        "type": "club-night",
+        "startDate": "2026-06-28",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Thuishaven",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392725",
+        "ticketUrl": "https://thuishaven.nl",
+        "summary": "Thuishaven closes the June run with an open-air day party headlined by Luciano and Jamback, alongside Luke Alessi, M-High, Demi Riquisimo and more.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-joris-voorn-spectrum-galaxy-2026",
+        "title": "Joris Voorn presents Spectrum & A Trip To Galaxy",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431655",
+        "ticketUrl": null,
+        "summary": "A 15-hour Lofi day-into-night session: outdoor Spectrum showcase by day, then indoor techno under the A Trip To Galaxy banner after dark.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-agrio-ritmo-fatale-2026",
+        "title": "Agrio Club x Ritmo Fatale",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2398936",
+        "ticketUrl": "https://weeztix.shop",
+        "summary": "Agrio Club and Ritmo Fatale join forces at Lofi for a long indoor/outdoor marathon with Tjade, Kendal, Bella Claxton, DJ Frank, Jenny Cara and more.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       }
     ]

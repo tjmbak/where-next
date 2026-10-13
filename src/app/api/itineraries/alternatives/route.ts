@@ -42,20 +42,26 @@ export async function GET(request: Request) {
   if (!destination) return NextResponse.json({ error: "unknown-destination" }, { status: 404 });
 
   let month: MonthNumber | null = null;
+  let year: number | undefined;
   if (dateParam && /^\d{4}-\d{2}-\d{2}$/.test(dateParam)) {
     const parsed = new Date(dateParam + "T12:00:00Z");
     if (!Number.isNaN(parsed.getTime())) {
       month = (parsed.getUTCMonth() + 1) as MonthNumber;
+      year = parsed.getUTCFullYear();
     }
   }
+  const today = new Date().toISOString().slice(0, 10);
+  const notEnded = (event: Event) => (event.endDate ?? event.startDate) >= today;
 
   const venues = getVenuesForDestination(destinationSlug);
   const venueById = new Map(venues.map((v) => [v.id, v]));
 
-  const monthEvents: Event[] = month ? [...getEventsForDestinationInMonth(destinationSlug, month)] : [];
+  const monthEvents: Event[] = month
+    ? getEventsForDestinationInMonth(destinationSlug, month, year).filter(notEnded)
+    : [];
   // Fall back to all destination events if the month is sparse (< 4 results)
   if (monthEvents.length < 4) {
-    const all = getEventsForDestination(destinationSlug);
+    const all = getEventsForDestination(destinationSlug, year).filter(notEnded);
     const seen = new Set(monthEvents.map((e) => e.id));
     for (const event of all) {
       if (seen.has(event.id)) continue;

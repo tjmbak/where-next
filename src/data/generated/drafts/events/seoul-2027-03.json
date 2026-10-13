@@ -1,0 +1,49 @@
+{
+  "slug": "seoul",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:39:18.527Z",
+  "responseId": "resp_00662768bd6b75d4006acda766badc87d0bb508195264ff697+resp_073c43dae7562b4a006acda7a87c4c87d09f4fcf54d89aec7a",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 3,
+    "year": 2027,
+    "notes": "As of October 13, 2026, confirmed March 2027 contemporary-music listings for Seoul are still sparse, with one major international indie-pop concert publicly ticketed.",
+    "events": [
+      {
+        "id": "seoul-beabadoobee-powerlines-2027",
+        "title": "beabadoobee: The Powerlines Tour in Seoul",
+        "type": "concert",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-23",
+        "importance": 72,
+        "venueName": "Olympic Hall",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/26001244/products/26014497",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26001244/products/26014497",
+        "summary": "beabadoobee brings The Powerlines Tour to Olympic Hall in Seoul on March 23, 2027. The NOL World listing confirms the date, venue, ticket categories, and 12+ age rating.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-rockin-sensation-2027",
+        "title": "Rockin' Sensation vol.15 - 20th Anniversary",
+        "type": "festival",
+        "startDate": "2027-03-27",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Seoul, South Korea",
+        "venueId": null,
+        "sourceUrl": "https://cyphly.com/en/events/3e932860-3586-4bb7-be87-c7d77298a176",
+        "ticketUrl": null,
+        "summary": "A 20th-anniversary edition of Rockin' Sensation, a Seoul breaking event rooted in the city’s hip-hop dance scene and running since 2007; the source lists it as a save-the-date for March 27, 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

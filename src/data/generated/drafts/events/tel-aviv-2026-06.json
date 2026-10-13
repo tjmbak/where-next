@@ -2,9 +2,9 @@
   "slug": "tel-aviv",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:56:48.138Z",
-  "responseId": "resp_096fdc775e6921a70069ff66d0ae2081a3bd13c3d707d08d75",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:50:01.421Z",
+  "responseId": "augment:resp_0d456c8d84bf9081006a1b30c51c888199b1536329b5fe0ad2",
+  "searchCalls": 22,
   "citations": [],
   "data": {
     "destinationSlug": "tel-aviv",
@@ -12,54 +12,6 @@
     "year": 2026,
     "notes": "June 2026 is anchored by Tel Aviv Pride plus a run of high-profile Israeli concerts at Hatikva Stadium, Bloomfield Stadium, Park Ariel Sharon, Heichal HaTarbut, Zappa, and Zocker Hall.",
     "events": [
-      {
-        "id": "tel-aviv-dudu-tassa-jun-2026",
-        "title": "Dudu Tassa at Hatikva Neighborhood Stadium",
-        "type": "concert",
-        "startDate": "2026-06-02",
-        "endDate": "2026-06-02",
-        "importance": 84,
-        "venueName": "Hatikva Neighborhood Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.il/event/MBE01/ALL/en",
-        "ticketUrl": "https://www.ticketmaster.co.il/event/MBE01/ALL/en",
-        "summary": "Dudu Tassa plays a large hometown-style show at Hatikva Neighborhood Stadium with Radio Baghdad, Echo, and a guest list including Yehuda Poliker, Tuna, Mark Eliyahu, and Yehuda Keisar listed by Ticketmaster Israel.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "tel-aviv-yishai-ribo-jun-2026",
-        "title": "Yishai Ribo at Kav Rakia – Park Ariel Sharon",
-        "type": "concert",
-        "startDate": "2026-06-04",
-        "endDate": "2026-06-04",
-        "importance": 80,
-        "venueName": "Kav Rakia - Park Ariel Sharon",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDL/001/ALL/en",
-        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDL/001/ALL/en",
-        "summary": "Yishai Ribo brings a full-band show to the outdoor Kav Rakia stage at Park Ariel Sharon, with doors listed for 19:30 and showtime at 21:00.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "tel-aviv-eyal-golan-bloomfield-jun-2026",
-        "title": "Eyal Golan at Bloomfield Stadium",
-        "type": "concert",
-        "startDate": "2026-06-11",
-        "endDate": "2026-06-11",
-        "importance": 88,
-        "venueName": "Bloomfield Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketle.co.il/en/eyal-golan-tel-aviv-tickets-11-06-2026/event/667665",
-        "ticketUrl": "https://www.ticketle.co.il/en/eyal-golan-tel-aviv-tickets-11-06-2026/event/667665",
-        "summary": "Eyal Golan is listed for a stadium concert at Bloomfield Stadium on 11 June, with additional Tel Aviv dates shown for 13, 14, and 18 June on the same ticket listing.",
-        "genres": [
-          "pop"
-        ]
-      },
       {
         "id": "tel-aviv-pride-parade-2026",
         "title": "Tel Aviv-Yafo Pride Parade 2026",
@@ -79,50 +31,83 @@
         ]
       },
       {
-        "id": "tel-aviv-maya-belsitzman-matan-efrat-jun-2026",
-        "title": "Maya Belsitzman & Matan Efrat – New Album Launch",
+        "id": "tel-aviv-eyal-golan-bloomfield-jun-2026",
+        "title": "Eyal Golan at Bloomfield Stadium",
         "type": "concert",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-19",
-        "importance": 68,
-        "venueName": "Zocker Hall",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-11",
+        "importance": 88,
+        "venueName": "Bloomfield Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.il/performance/MZHBP/001/ALL/en",
-        "ticketUrl": "https://www.ticketmaster.co.il/performance/MZHBP/001/ALL/en",
-        "summary": "Maya Belsitzman and Matan Efrat present a new-album launch show at Zocker Hall with an expanded seven-player ensemble and material blending original songs, jazz, world music, and Hebrew song.",
-        "genres": [
-          "jazz",
-          "pop"
-        ]
-      },
-      {
-        "id": "tel-aviv-danny-sanderson-jun-2026",
-        "title": "Danny Sanderson at Zappa Tel Aviv",
-        "type": "concert",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-19",
-        "importance": 72,
-        "venueName": "Zappa Tel Aviv",
-        "venueId": null,
-        "sourceUrl": "https://www.eventim.co.il/en/artist/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-2789054/",
-        "ticketUrl": "https://www.eventim.co.il/en/artist/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-2789054/",
-        "summary": "Israeli singer-songwriter and guitarist Danny Sanderson is listed by Eventim for a Friday afternoon show at Zappa Tel Aviv.",
+        "sourceUrl": "https://www.ticketle.co.il/en/eyal-golan-tel-aviv-tickets-11-06-2026/event/667665",
+        "ticketUrl": "https://www.ticketle.co.il/en/eyal-golan-tel-aviv-tickets-11-06-2026/event/667665",
+        "summary": "Eyal Golan is listed for a stadium concert at Bloomfield Stadium on 11 June, with additional Tel Aviv dates shown for 13, 14, and 18 June on the same ticket listing.",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "tel-aviv-shlomi-shabat-pablo-rosenberg-jun-2026",
-        "title": "Shlomi Shabat & Pablo Rosenberg at Kav Rakia – Park Ariel Sharon",
+        "id": "tel-aviv-dudu-tassa-jun-2026",
+        "title": "Dudu Tassa at Hatikva Neighborhood Stadium",
         "type": "concert",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 78,
-        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "startDate": "2026-06-02",
+        "endDate": "2026-06-02",
+        "importance": 84,
+        "venueName": "Hatikva Neighborhood Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDH/001/ALL/en",
-        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDH/001/ALL/en",
-        "summary": "Shlomi Shabat and Pablo Rosenberg reunite for a joint show at Kav Rakia, backed by a 10-piece band and focused on hits from their respective catalogues.",
+        "sourceUrl": "https://www.ticketmaster.co.il/event/MBE01/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/event/MBE01/ALL/en",
+        "summary": "Dudu Tassa plays a large hometown-style show at Hatikva Neighborhood Stadium with Radio Baghdad, Echo, and a guest list including Yehuda Poliker, Tuna, Mark Eliyahu, and Yehuda Keisar listed by Ticketmaster Israel.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-mashina-40-jun-2026",
+        "title": "Mashina – 40th Anniversary Show",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 84,
+        "venueName": "Heichal HaTarbut – Charles Bronfman Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.il/event/%D7%9E%D7%A9%D7%99%D7%A0%D7%94br%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-40-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21123138/",
+        "ticketUrl": "https://www.eventim.co.il/event/%D7%9E%D7%A9%D7%99%D7%A0%D7%94br%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-40-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21123138/",
+        "summary": "Mashina marks 40 years of activity with a Tel Aviv date at Heichal HaTarbut, part of the band’s “Nog‘im BaShamayim” anniversary tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-offer-nissim-pride-2026",
+        "title": "Offer Nissim – Pride 2026 @ Park HaYarkon",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Park HaYarkon",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/offer-nissim-pride-2026-park-hayarkon",
+        "ticketUrl": null,
+        "summary": "Annual Pride open-air DJ concert with Offer Nissim, billed as a long set of new material and classics with surprise guests, running from afternoon into the night.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-yehuda-poliker-ashes-dust-2026",
+        "title": "Yehuda Poliker – Ashes and Dust",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 83,
+        "venueName": "Heichal HaTarbut – Charles Bronfman Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.zappa-club.co.il/event/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%A4%D7%95%D7%9C%D7%99%D7%A7%D7%A8-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21142345/",
+        "ticketUrl": "https://www.zappa-club.co.il/event/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%A4%D7%95%D7%9C%D7%99%D7%A7%D7%A8-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21142345/",
+        "summary": "Yehuda Poliker performs the landmark album “Ashes and Dust” at Heichal HaTarbut with a 13-piece band, combining the album material with classics from across his catalogue.",
         "genres": [
           "pop"
         ]
@@ -144,34 +129,224 @@
         ]
       },
       {
-        "id": "tel-aviv-yehuda-poliker-ashes-dust-2026",
-        "title": "Yehuda Poliker – Ashes and Dust",
-        "type": "concert",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-26",
-        "importance": 83,
-        "venueName": "Heichal HaTarbut – Charles Bronfman Auditorium",
+        "id": "tel-aviv-priderave26-haoman17-2026",
+        "title": "PrideRave26 - Haoman 17",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-12",
+        "importance": 81,
+        "venueName": "Haoman 17",
         "venueId": null,
-        "sourceUrl": "https://www.zappa-club.co.il/event/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%A4%D7%95%D7%9C%D7%99%D7%A7%D7%A8-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21142345/",
-        "ticketUrl": "https://www.zappa-club.co.il/event/%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%A4%D7%95%D7%9C%D7%99%D7%A7%D7%A8-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21142345/",
-        "summary": "Yehuda Poliker performs the landmark album “Ashes and Dust” at Heichal HaTarbut with a 13-piece band, combining the album material with classics from across his catalogue.",
+        "sourceUrl": "https://ra.co/events/2453101",
+        "ticketUrl": "https://ra.co/events/2453101",
+        "summary": "CYBERCLUB x PUSHITHARD x RADIO BERLIN Pride edition at Haoman 17, listed on RA with Discotek Tel Aviv/Michael Shekhtman as promoters and an electro/Italo-disco-leaning lineup.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-yishai-ribo-jun-2026",
+        "title": "Yishai Ribo at Kav Rakia – Park Ariel Sharon",
+        "type": "concert",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 80,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDL/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDL/001/ALL/en",
+        "summary": "Yishai Ribo brings a full-band show to the outdoor Kav Rakia stage at Park Ariel Sharon, with doors listed for 19:30 and showtime at 21:00.",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "tel-aviv-mashina-40-jun-2026",
-        "title": "Mashina – 40th Anniversary Show",
-        "type": "concert",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-27",
-        "importance": 84,
-        "venueName": "Heichal HaTarbut – Charles Bronfman Auditorium",
+        "id": "tel-aviv-mega-schwarze-pride-2026",
+        "title": "MEGA SCHWARZE | PRIDE 2026 | MEN ONLY",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-12",
+        "importance": 79,
+        "venueName": "HANGAR 17",
         "venueId": null,
-        "sourceUrl": "https://www.eventim.co.il/event/%D7%9E%D7%A9%D7%99%D7%A0%D7%94br%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-40-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21123138/",
-        "ticketUrl": "https://www.eventim.co.il/event/%D7%9E%D7%A9%D7%99%D7%A0%D7%94br%D7%97%D7%95%D7%92%D7%92%D7%99%D7%9D-40-%D7%94%D7%99%D7%9B%D7%9C-%D7%94%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%AA%D7%90-21123138/",
-        "summary": "Mashina marks 40 years of activity with a Tel Aviv date at Heichal HaTarbut, part of the band’s “Nog‘im BaShamayim” anniversary tour.",
+        "sourceUrl": "https://chillz.com/en/Pride2026?src_page=explore&src_position=16&src_section_id=dsec_ca0OBLa77uUprNJOQyg3OC&src_section_type=list&src_slug=lgbt-tel-aviv",
+        "ticketUrl": "https://chillz.com/en/Pride2026?src_page=explore&src_position=16&src_section_id=dsec_ca0OBLa77uUprNJOQyg3OC&src_section_type=list&src_slug=lgbt-tel-aviv",
+        "summary": "Schwarze’s Pride edition turns Hangar 17 into a large-scale dark neon/fetish Pride production with a main-stage club setup and all-night format.",
         "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-shlomi-shabat-pablo-rosenberg-jun-2026",
+        "title": "Shlomi Shabat & Pablo Rosenberg at Kav Rakia – Park Ariel Sharon",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 78,
+        "venueName": "Kav Rakia - Park Ariel Sharon",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MPSDH/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MPSDH/001/ALL/en",
+        "summary": "Shlomi Shabat and Pablo Rosenberg reunite for a joint show at Kav Rakia, backed by a 10-piece band and focused on hits from their respective catalogues.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-gender-blender-pride-2026",
+        "title": "Gender Blender Pride 2026 @ Haoman 17",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Haoman 17",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/gender-blender-pride-2026-haoman-17",
+        "ticketUrl": null,
+        "summary": "Two-room Pride club production at Haoman 17, headed by E.T.H from Italy and featuring Braidy, Elad Schwartz, Kino Todo, NOYA, Noa Holzman, Michal Serr and a Butt Leharim room.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-aether-minus-one-2026",
+        "title": "AE:THER (Afterlife) @ Minus One",
+        "type": "club-night",
+        "startDate": "2026-06-04",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Minus One",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/categories/parties",
+        "ticketUrl": null,
+        "summary": "Afterlife-associated electronic artist AE:THER is listed for a late-night Minus One date, making this one of the month’s stronger melodic house/techno club bookings.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-danny-sanderson-jun-2026",
+        "title": "Danny Sanderson at Zappa Tel Aviv",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 72,
+        "venueName": "Zappa Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.il/en/artist/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-2789054/",
+        "ticketUrl": "https://www.eventim.co.il/en/artist/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F/%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-2789054/",
+        "summary": "Israeli singer-songwriter and guitarist Danny Sanderson is listed by Eventim for a Friday afternoon show at Zappa Tel Aviv.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-magit-cacoon-minus-one-2026",
+        "title": "Magit Cacoon @ Minus One",
+        "type": "club-night",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-26",
+        "importance": 72,
+        "venueName": "Minus One",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/categories/parties",
+        "ticketUrl": null,
+        "summary": "Late-night Minus One booking for internationally known Israeli DJ/producer Magit Cacoon, a strong local-scene electronic entry after the Pride-week rush.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tel-aviv-maya-belsitzman-matan-efrat-jun-2026",
+        "title": "Maya Belsitzman & Matan Efrat – New Album Launch",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 68,
+        "venueName": "Zocker Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.il/performance/MZHBP/001/ALL/en",
+        "ticketUrl": "https://www.ticketmaster.co.il/performance/MZHBP/001/ALL/en",
+        "summary": "Maya Belsitzman and Matan Efrat present a new-album launch show at Zocker Hall with an expanded seven-player ensemble and material blending original songs, jazz, world music, and Hebrew song.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-hive-6th-birthday-2026",
+        "title": "Hive’s 6th Birthday @ Hive",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Hive",
+        "venueId": null,
+        "sourceUrl": "https://www.secrettelaviv.com/tickets/hives-6th-birthday-hive",
+        "ticketUrl": null,
+        "summary": "Hive’s six-year birthday bash takes over all of the venue’s spaces from afternoon into the night, with live performances, DJ sets and local-community programming.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tel-aviv-neovisions-momentum-2026",
+        "title": "NEOVISIONS Momentum | 11/06",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-12",
+        "importance": 66,
+        "venueName": "Panorama",
+        "venueId": null,
+        "sourceUrl": "https://chillz.com/en/neovisions-11-06",
+        "ticketUrl": "https://chillz.com/en/neovisions-11-06",
+        "summary": "Havana Klosh’s NEOVISIONS Momentum frames the night as an art/visuals-driven electronic journey, running from 23:00 to 06:30 at Panorama.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tel-aviv-time-machine-house-of-2000-2026",
+        "title": "TIME MACHINE - House Of 2000",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-13",
+        "importance": 65,
+        "venueName": "Rothschild Blvd 6",
+        "venueId": null,
+        "sourceUrl": "https://chillz.com/he/time-machine-house-of-2000?src_page=home&src_position=2&src_section_id=dsec_SqFSK5wU67yf8lq3fekS30&src_section_type=carousel",
+        "ticketUrl": "https://chillz.com/he/time-machine-house-of-2000?src_page=home&src_position=2&src_section_id=dsec_SqFSK5wU67yf8lq3fekS30&src_section_type=carousel",
+        "summary": "Post-parade nostalgia dance night focused on late-'90s and early-'00s club hits and dancefloor anthems, with DJs Tsach Zimroni and Yoav Arnon.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-dobe-pride-party-2026",
+        "title": "DoBe's Pride Party",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-12",
+        "importance": 64,
+        "venueName": "Brasco Club",
+        "venueId": null,
+        "sourceUrl": "https://chillz.com/en/dobepride2026?src_page=explore&src_position=21&src_section_id=dsec_ca0OBLa77uUprNJOQyg3OC&src_section_type=list&src_slug=lgbt-tel-aviv",
+        "ticketUrl": "https://chillz.com/en/dobepride2026?src_page=explore&src_position=21&src_section_id=dsec_ca0OBLa77uUprNJOQyg3OC&src_section_type=list&src_slug=lgbt-tel-aviv",
+        "summary": "Bear-community Pride club night at Brasco with DJ Billy Cross opening and DJ Naor Lavi closing, positioned as a dedicated Pride dance-floor gathering.",
+        "genres": [
+          "electronic",
           "pop"
         ]
       }

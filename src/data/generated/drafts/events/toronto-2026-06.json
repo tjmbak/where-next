@@ -2,9 +2,9 @@
   "slug": "toronto",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:29:50.000Z",
-  "responseId": "resp_0dcf66a64db3c15a0069ff608a5ad88195a5a26e513c873e4b",
-  "searchCalls": 14,
+  "generatedAt": "2026-05-30T18:53:05.515Z",
+  "responseId": "augment:resp_066bb5ae730e863c006a1b319b5e0c819aabbd1f4529f09c9e",
+  "searchCalls": 15,
   "citations": [],
   "data": {
     "destinationSlug": "toronto",
@@ -30,6 +30,23 @@
         ]
       },
       {
+        "id": "toronto-rosalia-lux-2026",
+        "title": "ROSALÍA – LUX Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 89,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/rosalia-tickets/artist/2453211",
+        "ticketUrl": "https://www.ticketmaster.ca/rosalia-tickets/artist/2453211",
+        "summary": "ROSALÍA plays Scotiabank Arena on the LUX Tour 2026. Ticketmaster lists the Toronto show for Saturday, June 13 at 8:30 p.m.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
         "id": "toronto-luke-combs-2026",
         "title": "Luke Combs – My Kinda Saturday Night Tour",
         "type": "concert",
@@ -41,6 +58,39 @@
         "sourceUrl": "https://www.ticketmaster.com/luke-combs-tickets/artist/2150342",
         "ticketUrl": null,
         "summary": "Luke Combs plays two nights at Rogers Stadium with support listed by Ticketmaster including Dierks Bentley, Ty Myers, Jake Worthington and Thelma & James.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-post-malone-2026",
+        "title": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
+        "type": "concert",
+        "startDate": "2026-06-16",
+        "endDate": "2026-06-16",
+        "importance": 88,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/post-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE",
+        "ticketUrl": "https://www.ticketmaster.ca/post-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE",
+        "summary": "Post Malone brings The BIG ASS Stadium Tour Part 2 to Rogers Stadium on June 16. The confirmed Ticketmaster listing gives the Toronto show time as 7:30 p.m.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-noah-kahan-great-divide-2026",
+        "title": "Noah Kahan – The Great Divide Tour",
+        "type": "concert",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 87,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/noah-kahan-the-great-divide-tour-toronto-ontario-06-28-2026/event/10006441FE5BE5AD",
+        "ticketUrl": "https://www.ticketmaster.ca/noah-kahan-the-great-divide-tour-toronto-ontario-06-28-2026/event/10006441FE5BE5AD",
+        "summary": "Noah Kahan brings The Great Divide Tour to Rogers Stadium on June 28. Ticketmaster confirms the Toronto stadium date and 6:30 p.m. show time.",
         "genres": [
           "pop"
         ]
@@ -79,36 +129,18 @@
         ]
       },
       {
-        "id": "toronto-rosalia-lux-2026",
-        "title": "ROSALÍA – LUX Tour 2026",
+        "id": "toronto-strokes-reality-awaits-2026",
+        "title": "The Strokes – Reality Awaits North America",
         "type": "concert",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-13",
-        "importance": 89,
-        "venueName": "Scotiabank Arena",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 84,
+        "venueName": "RBC Amphitheatre",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/rosalia-tickets/artist/2453211",
-        "ticketUrl": "https://www.ticketmaster.ca/rosalia-tickets/artist/2453211",
-        "summary": "ROSALÍA plays Scotiabank Arena on the LUX Tour 2026. Ticketmaster lists the Toronto show for Saturday, June 13 at 8:30 p.m.",
+        "sourceUrl": "https://www.ticketmaster.ca/the-strokes-reality-awaits-north-america-toronto-ontario-06-21-2026/event/10006488B1BCC3B6",
+        "ticketUrl": "https://www.ticketmaster.ca/the-strokes-reality-awaits-north-america-toronto-ontario-06-21-2026/event/10006488B1BCC3B6",
+        "summary": "The Strokes play RBC Amphitheatre on June 21 as part of their Reality Awaits North America tour. Ticketmaster confirms the venue and 7:00 p.m. show time.",
         "genres": [
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "toronto-post-malone-2026",
-        "title": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
-        "type": "concert",
-        "startDate": "2026-06-16",
-        "endDate": "2026-06-16",
-        "importance": 88,
-        "venueName": "Rogers Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/post-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE",
-        "ticketUrl": "https://www.ticketmaster.ca/post-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE",
-        "summary": "Post Malone brings The BIG ASS Stadium Tour Part 2 to Rogers Stadium on June 16. The confirmed Ticketmaster listing gives the Toronto show time as 7:30 p.m.",
-        "genres": [
-          "hip-hop",
           "pop"
         ]
       },
@@ -131,19 +163,55 @@
         ]
       },
       {
-        "id": "toronto-strokes-reality-awaits-2026",
-        "title": "The Strokes – Reality Awaits North America",
-        "type": "concert",
-        "startDate": "2026-06-21",
-        "endDate": "2026-06-21",
-        "importance": 84,
-        "venueName": "RBC Amphitheatre",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/the-strokes-reality-awaits-north-america-toronto-ontario-06-21-2026/event/10006488B1BCC3B6",
-        "ticketUrl": "https://www.ticketmaster.ca/the-strokes-reality-awaits-north-america-toronto-ontario-06-21-2026/event/10006488B1BCC3B6",
-        "summary": "The Strokes play RBC Amphitheatre on June 21 as part of their Reality Awaits North America tour. Ticketmaster confirms the venue and 7:00 p.m. show time.",
+        "id": "toronto-prism-revival-2026",
+        "title": "PRISM Toronto presents Revival",
+        "type": "club-night",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 82,
+        "venueName": "REBEL",
+        "venueId": "toronto-rebel",
+        "sourceUrl": "https://www.livenation.com/event/16tZkoMGEZAueaaG/revival",
+        "ticketUrl": "https://www.ticketweb.ca/",
+        "summary": "PRISM Toronto’s Pride-week Revival party takes over REBEL on June 28. Live Nation lists Mark Knight and Victor Calderone on the lineup.",
         "genres": [
-          "pop"
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-rhythm-open-air-toy-tonics-2026",
+        "title": "Rhythm Open Air: Toy Tonics Jam",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "131 McCormack St",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426039",
+        "ticketUrl": "https://ra.co/events/2426039",
+        "summary": "Rhythm, House of Lords and Toronto After Dark bring Berlin’s Toy Tonics Jam to Toronto for the first time, with COEO, Cody Currie, House of Lords and Jodie D leading an open-air house/disco courtyard party.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-afro-rave-2026",
+        "title": "AFRO RAVE - Outdoor Edition",
+        "type": "festival",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-22",
+        "importance": 82,
+        "venueName": "LW Banquet & Convention Centre / 4611 Steeles Ave W outdoor location",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketgateway.com/event/view/afro-rave",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/afro-rave",
+        "summary": "Aso Management bills a 2,000-capacity outdoor Afro Rave uniting Afrobeats, Amapiano, Gqom, Coupé-Décalé and Highlife, with international guest DJs representing East, West and Southern Africa.",
+        "genres": [
+          "festival",
+          "amapiano"
         ]
       },
       {
@@ -165,6 +233,92 @@
         ]
       },
       {
+        "id": "toronto-ozmozis-hernan-cattaneo-2026",
+        "title": "Ozmozis presents Hernan Cattaneo (Extended Set)",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Evergreen Brick Works",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2387411",
+        "ticketUrl": "https://ra.co/events/2387411",
+        "summary": "Ozmozis stages a daytime open-air progressive-house event at Evergreen Brick Works, headlined by Hernan Cattaneo with Manzone & Strong, timed around Toronto’s World Cup summer energy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-one-world-greenspaceto-2026",
+        "title": "One World",
+        "type": "festival",
+        "startDate": "2026-06-26",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Barbara Hall Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2446081",
+        "ticketUrl": null,
+        "summary": "GreenSpaceTO’s free outdoor Pride-weekend program brings Afro House and global house to Barbara Hall Park with La Santa, KARABA, Deko-ze and DJ BlackGold alongside drag and dance performances.",
+        "genres": [
+          "house",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-legendary-rodigan-sfs-2026",
+        "title": "LEGENDARY feat David Rodigan & DJ Starting From Scratch - Day Party",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Acqua Supper Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketgateway.com/event/view/legendarydjs",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/legendarydjs",
+        "summary": "SFS ENT and Rickey D Events present a rare outdoor day party pairing British reggae selector David Rodigan with Toronto’s DJ Starting From Scratch, spanning soul, hip-hop, R&B, soca and reggae.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "toronto-loco-dice-coda-2026",
+        "title": "Loco Dice at CODA",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 76,
+        "venueName": "CODA",
+        "venueId": null,
+        "sourceUrl": "https://embracepresents.com/events/loco-dice-2/",
+        "ticketUrl": "https://www.ticketweb.ca/event/loco-dice-coda-tickets/14804803?pl=CODA",
+        "summary": "Embrace presents Loco Dice with Rudee Nik and Kevin Faria at CODA, a 19+ late-night club show aimed squarely at Toronto’s house and tech-house crowd.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-desifest-20-2026",
+        "title": "DESIFEST presented by TD: Celebrating 20 Years",
+        "type": "festival",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 76,
+        "venueName": "Sankofa Square",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.ca/e/desifest-presented-by-td-celebrating-20-years-tickets-1987962664845",
+        "ticketUrl": "https://www.eventbrite.ca/e/desifest-presented-by-td-celebrating-20-years-tickets-1987962664845",
+        "summary": "DESIFEST marks its 20th anniversary with two free days at Sankofa Square, including Bollywood/Punjabi remix culture and stated collisions between Afrobeats, hip-hop verses, dholak rhythms and soca energy.",
+        "genres": [
+          "festival",
+          "hip-hop"
+        ]
+      },
+      {
         "id": "toronto-guy-j-ozmozis-2026",
         "title": "Ozmozis presents Guy J (All Night Long)",
         "type": "club-night",
@@ -182,37 +336,20 @@
         ]
       },
       {
-        "id": "toronto-prism-revival-2026",
-        "title": "PRISM Toronto presents Revival",
+        "id": "toronto-laylit-2026",
+        "title": "Laylit Toronto",
         "type": "club-night",
-        "startDate": "2026-06-28",
-        "endDate": "2026-06-28",
-        "importance": 82,
-        "venueName": "REBEL",
-        "venueId": "toronto-rebel",
-        "sourceUrl": "https://www.livenation.com/event/16tZkoMGEZAueaaG/revival",
-        "ticketUrl": "https://www.ticketweb.ca/",
-        "summary": "PRISM Toronto’s Pride-week Revival party takes over REBEL on June 28. Live Nation lists Mark Knight and Victor Calderone on the lineup.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "toronto-noah-kahan-great-divide-2026",
-        "title": "Noah Kahan – The Great Divide Tour",
-        "type": "concert",
-        "startDate": "2026-06-28",
-        "endDate": "2026-06-28",
-        "importance": 87,
-        "venueName": "Rogers Stadium",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 75,
+        "venueName": "Standard Time",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/noah-kahan-the-great-divide-tour-toronto-ontario-06-28-2026/event/10006441FE5BE5AD",
-        "ticketUrl": "https://www.ticketmaster.ca/noah-kahan-the-great-divide-tour-toronto-ontario-06-28-2026/event/10006441FE5BE5AD",
-        "summary": "Noah Kahan brings The Great Divide Tour to Rogers Stadium on June 28. Ticketmaster confirms the Toronto stadium date and 6:30 p.m. show time.",
+        "sourceUrl": "https://ra.co/events/2423861",
+        "ticketUrl": "https://ra.co/events/2423861",
+        "summary": "The Laylit collective brings its SWANA-diaspora dance party to Standard Time, blending shaabi, dabke, mahraganat, Arabic pop and hip-hop with techno, breakbeat, UKG, bass, dancehall and baile.",
         "genres": [
-          "pop"
+          "electronic",
+          "hip-hop"
         ]
       }
     ]

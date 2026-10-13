@@ -1,0 +1,50 @@
+{
+  "slug": "bali",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:55:44.590Z",
+  "responseId": "resp_02345b59d1fa6577006acdab61af9887d084bb6450d0eb39b7+resp_00ea46b1961f955f006acdab9d185087d0819896356297a3e5",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 5,
+    "year": 2027,
+    "notes": "Confirmed May 2027 Bali music listings are currently limited, with the strongest verified travel-oriented events clustered at InterContinental Bali Resort in Jimbaran.",
+    "events": [
+      {
+        "id": "bali-music-in-paradise-may-2027",
+        "title": "Birds of Tokyo x Pete Murray x The Rubens: Live in Bali",
+        "type": "festival",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-29",
+        "importance": 74,
+        "venueName": "InterContinental Bali Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.musicinparadise.com.au/event/birds-of-tokyo-pete-murray-the-rubens-live-in-bali/",
+        "ticketUrl": "https://www.musicinparadise.com.au/event/birds-of-tokyo-pete-murray-the-rubens-live-in-bali/",
+        "summary": "Music in Paradise presents a week of five intimate sunset performances across seven nights by Birds of Tokyo, Pete Murray and The Rubens at InterContinental Bali Resort on Jimbaran Bay.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bali-stranded-in-bali-2027",
+        "title": "Stranded in Bali 2027",
+        "type": "festival",
+        "startDate": "2027-05-31",
+        "endDate": "2027-06-07",
+        "importance": 72,
+        "venueName": "InterContinental Bali Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.musicinparadise.com.au/event/stranded-in-bali-2027/",
+        "ticketUrl": "https://www.musicinparadise.com.au/event/stranded-in-bali-2027/",
+        "summary": "Music in Paradise’s Stranded in Bali brings Jimmy Barnes, Joe Camilleri and The Black Sorrows, Ross Wilson and The Peaceniks, and Mahalia Barnes and The Soul Mates for five intimate performances across four event nights.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

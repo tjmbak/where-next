@@ -1,0 +1,111 @@
+{
+  "slug": "los-angeles",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:05:38.848Z",
+  "responseId": "resp_0f3951c6f04e51ac006acdad8a558c87d0ac31e2080ad7b8b0+resp_06f21e43a5e86252006acdadf204e887d0990d5d26c29674d0",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 is still lightly announced for Los Angeles; the strongest confirmed music anchors so far are Hollywood Bowl events plus a few theater and indie-club dates, while most club/festival calendars remain unreleased.",
+    "events": [
+      {
+        "id": "los-angeles-mariachi-usa-hollywood-bowl-2027",
+        "title": "38th Annual MARIACHI USA 2027",
+        "type": "festival",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 85,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://mariachiusa.com/",
+        "ticketUrl": "https://mariachiusa.com/",
+        "summary": "MARIACHI USA returns to the Hollywood Bowl for its 38th annual edition. The official festival site confirms Saturday, June 26, 2027 from 6:00 PM to 10:30 PM, with mariachi performances and a fireworks show.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-a-perfect-circle-hollywood-bowl-2027",
+        "title": "A Perfect Circle with The Cult",
+        "type": "concert",
+        "startDate": "2027-06-06",
+        "endDate": "2027-06-06",
+        "importance": 78,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1iZ_Kj6Yzfl/a-perfect-circle",
+        "ticketUrl": "https://www.livenation.com/event/vvG1iZ_Kj6Yzfl/a-perfect-circle",
+        "summary": "A Perfect Circle headline the Hollywood Bowl with The Cult also listed on the lineup. Live Nation confirms the June 6, 2027 date and 7:30 PM start time.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-two-feet-greek-theatre-2027",
+        "title": "Two Feet",
+        "type": "concert",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 72,
+        "venueName": "Greek Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1614879/two-feet-tickets",
+        "ticketUrl": "https://www.axs.com/events/1614879/two-feet-tickets",
+        "summary": "Two Feet plays the Greek Theatre in Los Angeles. AXS confirms the concert for June 26, 2027 at 8:00 PM.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-airborne-toxic-event-wiltern-2027",
+        "title": "The Airborne Toxic Event",
+        "type": "concert",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-17",
+        "importance": 70,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG10Z_1rtqiIH/the-airborne-toxic-event",
+        "ticketUrl": "https://www.livenation.com/event/vvG10Z_1rtqiIH/the-airborne-toxic-event",
+        "summary": "The Airborne Toxic Event play The Wiltern in Los Angeles. Live Nation confirms the show for June 17, 2027 at 7:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-hazlett-el-rey-2027",
+        "title": "Hazlett",
+        "type": "concert",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-02",
+        "importance": 65,
+        "venueName": "El Rey Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1485537/hazlett-tickets?skin=elrey",
+        "ticketUrl": "https://www.axs.com/events/1485537/hazlett-tickets?skin=elrey",
+        "summary": "Goldenvoice presents Hazlett at El Rey Theatre with doors at 7:00 PM and showtime at 8:00 PM. The AXS event page lists the show as all ages.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-vlad-holiday-zebulon-2027",
+        "title": "Vlad Holiday",
+        "type": "concert",
+        "startDate": "2027-06-25",
+        "endDate": "2027-06-25",
+        "importance": 62,
+        "venueName": "Zebulon",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1655989/vlad-holiday-tickets",
+        "ticketUrl": "https://www.axs.com/events/1655989/vlad-holiday-tickets",
+        "summary": "Vlad Holiday is confirmed for Zebulon in Los Angeles. AXS lists the show for June 25, 2027 at 7:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

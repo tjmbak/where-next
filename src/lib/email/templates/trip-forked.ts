@@ -74,10 +74,10 @@ export function renderTripForkedEmail(input: TripForkedEmailInput) {
       </table>
 
       <p style="margin:28px 0 0;color:#555;font-size:14px;line-height:24px;">
-        Want to plan another? Where Next has ${esc(input.originalCity)} mapped through 2026 — anchors, venues, real ticket links.
+        Want to plan another? Where Next has ${esc(input.originalCity)} mapped month by month — anchors, venues, real ticket links.
       </p>
       <p style="margin:14px 0 0;">
-        <a href="${esc(input.siteUrl)}/destinations/?from=trip-forked&utm_source=trip-forked&utm_medium=email" style="color:#111;font-family:'JetBrains Mono', ui-monospace, monospace;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;text-decoration:none;border-bottom:1px solid #111;padding-bottom:2px;">
+        <a href="${esc(input.siteUrl)}/?from=trip-forked&utm_source=trip-forked&utm_medium=email" style="color:#111;font-family:'JetBrains Mono', ui-monospace, monospace;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;text-decoration:none;border-bottom:1px solid #111;padding-bottom:2px;">
           plan another →
         </a>
       </p>

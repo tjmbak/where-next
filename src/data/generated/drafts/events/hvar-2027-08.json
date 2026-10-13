@@ -1,0 +1,82 @@
+{
+  "slug": "hvar",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:19:24.578Z",
+  "responseId": "resp_08d94eac15377083006acdb0e516cc87d08f40d12a79912ce5+resp_07be589c4cc97ddf006acdb11b66d487d0945d5deaff475ec5",
+  "searchCalls": 16,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 8,
+    "year": 2027,
+    "notes": "As of the latest available venue/festival calendars, Hvar-specific August 2027 club and festival lineups are not yet broadly published; the confirmed music-travel programming found is Yacht Week’s Croatia route, which includes Hvar.",
+    "events": [
+      {
+        "id": "hvar-yacht-week-original-w31-2027",
+        "title": "Yacht Week Croatia Original — Week 31",
+        "type": "festival",
+        "startDate": "2027-07-31",
+        "endDate": "2027-08-07",
+        "importance": 80,
+        "venueName": "Yacht Week Croatia route — Trogir, Brač, Hvar and Vis",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/croatia-original",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-original",
+        "summary": "Official Yacht Week Croatia Original departure, billed as the original floating festival with Yacht Week parties and international DJs. The confirmed route includes Brač, Hvar and Vis.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-yacht-week-original-w32-2027",
+        "title": "Yacht Week Croatia Original — Week 32",
+        "type": "festival",
+        "startDate": "2027-08-07",
+        "endDate": "2027-08-14",
+        "importance": 80,
+        "venueName": "Yacht Week Croatia route — Trogir, Brač, Hvar and Vis",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/croatia-original",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-original",
+        "summary": "Official Yacht Week Croatia Original departure, billed as the original floating festival with Yacht Week parties and international DJs. The confirmed route includes Brač, Hvar and Vis.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-yacht-week-original-w33-2027",
+        "title": "Yacht Week Croatia Original — Week 33",
+        "type": "festival",
+        "startDate": "2027-08-14",
+        "endDate": "2027-08-21",
+        "importance": 80,
+        "venueName": "Yacht Week Croatia route — Trogir, Brač, Hvar and Vis",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/croatia-original",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-original",
+        "summary": "Official Yacht Week Croatia Original departure, billed as the original floating festival with Yacht Week parties and international DJs. The confirmed route includes Brač, Hvar and Vis.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-yacht-week-thursday-singles-2027",
+        "title": "Thursday x Yacht Week Croatia — Singles Week",
+        "type": "festival",
+        "startDate": "2027-08-21",
+        "endDate": "2027-08-28",
+        "importance": 78,
+        "venueName": "Yacht Week Croatia route — Trogir, Brač, Hvar and Vis",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/croatia-thursday",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-thursday",
+        "summary": "Yacht Week’s official Croatia singles collaboration with Thursday, confirmed for Week 34 with floating DJ decks, raft parties and matchmaking events. The source states it follows the same Croatia route to Brač, Hvar and Vis.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

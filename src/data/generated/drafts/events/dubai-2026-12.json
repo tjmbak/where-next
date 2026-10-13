@@ -2,47 +2,355 @@
   "slug": "dubai",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:22:08.169Z",
-  "responseId": "resp_0bf1716e4d3ad4fb0069ff5eeb419c819e9b5976cb6a9e5827",
-  "searchCalls": 14,
+  "generatedAt": "2026-10-13T02:54:18.372Z",
+  "responseId": "resp_0c8229aae5b0a365006acd9c98fc1c87d085e759851bfab483+resp_000debf1fa8c712d006acd9ced87d087d0bb67146b9835e654",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "dubai",
     "month": 12,
     "year": 2026,
-    "notes": null,
+    "notes": "Dubai’s December 2026 calendar is strongest on open-air electronic mega-club programming, with Pacha ICONS, Ushuaïa Dubai, Bohemia and Soho Garden anchoring the month alongside diaspora concerts and New Year’s Eve headline events.",
     "events": [
       {
-        "id": "dubai-charlotte-de-witte-hive-dec-2026",
+        "id": "dubai-katy-perry-nye-2026",
+        "title": "New Year’s Eve Under The Stars Gala Dinner featuring Katy Perry",
+        "type": "concert",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 92,
+        "venueName": "Atlantis, The Palm",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108316/new-years-eve-under-the-stars-gala-dinner-featuring-katy-perry-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108316/new-years-eve-under-the-stars-gala-dinner-featuring-katy-perry-in-dubai",
+        "summary": "Katy Perry headlines Atlantis, The Palm’s New Year’s Eve Under The Stars Gala Dinner on 31 December. The ticket page confirms the gala, outdoor performance setting, live band and midnight celebration.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-dopa-world-2026",
+        "title": "Dopa World 2026",
+        "type": "festival",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-19",
+        "importance": 86,
+        "venueName": "Jubilee Park, Expo City Dubai",
+        "venueId": null,
+        "sourceUrl": "https://www.dopa.world/event-details/artists",
+        "ticketUrl": null,
+        "summary": "Dopa World is confirmed for 18–19 December at Jubilee Park, Expo City Dubai. The official lineup page lists Ziad Zaza on day one and Saint Levant and Shehab on day two, with more programming marked as forthcoming.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-argy-neworld-nye-2026",
+        "title": "Argy presents NEWORLD at Ushuaïa Dubai",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 86,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.ushuaiadubai.com/events/2026/argy-presents-neworld",
+        "ticketUrl": "https://www.ushuaiadubai.com/events/2026/argy-presents-neworld",
+        "summary": "Argy brings his NEWORLD concept to Ushuaïa Dubai Harbour Experience for New Year’s Eve on 31 December. The official page confirms Argy, Chloé Caillet, Hardt Antoine and Solance on the lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-pawsa-pacha-icons-nye-2026",
+        "title": "PAWSA – New Year’s Eve at Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 85,
+        "venueName": "FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108390/pawsa-new-years-eve-pacha-icons",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108390/pawsa-new-years-eve-pacha-icons",
+        "summary": "PAWSA headlines Pacha ICONS at Playa Pacha, FIVE LUXE JBR on 31 December. The Platinumlist page confirms a 21:00 door time and an open-air New Year’s Eve house celebration.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-charlotte-de-witte-hive-2026",
         "title": "Charlotte de Witte at HIVE, Soho Garden",
         "type": "club-night",
         "startDate": "2026-12-04",
         "endDate": "2026-12-04",
-        "importance": 80,
+        "importance": 84,
         "venueName": "Soho Garden Meydan",
         "venueId": "soho-garden",
-        "sourceUrl": "https://www.shazam.com/event/37e5ed0e-b1e0-4407-be97-aa0fcc0c2f48",
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104693/charlotte-de-witte-at-hive-soho-garden-in-dubai",
         "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104693/charlotte-de-witte-at-hive-soho-garden-in-dubai",
-        "summary": "Charlotte de Witte headlines a techno-focused HIVE night at Soho Garden Meydan, with tickets listed via Platinumlist.",
+        "summary": "Charlotte de Witte headlines HIVE at Soho Garden Meydan on 4 December, with doors listed at 22:00. The Platinumlist page describes the night as a techno-focused takeover led by the Belgian DJ-producer.",
         "genres": [
           "techno",
           "electronic"
         ]
       },
       {
-        "id": "dubai-indira-paganotto-hive-dec-2026",
+        "id": "dubai-andme-pacha-icons-2026",
+        "title": "&ME at Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 84,
+        "venueName": "FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/",
+        "ticketUrl": null,
+        "summary": "Keinemusik’s &ME headlines Pacha ICONS at FIVE LUXE JBR on 5 December. Pacha ICONS lists the event from 19:00 to 03:00 with &ME as the confirmed lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-mahmut-orhan-ushuaiadubai-2026",
+        "title": "Mahmut Orhan at Ushuaïa Dubai Harbour Experience",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 82,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.ushuaiadubai.com/events/2026/mahmut-orhan",
+        "ticketUrl": "https://www.ushuaiadubai.com/events/2026/mahmut-orhan",
+        "summary": "Mahmut Orhan headlines Ushuaïa Dubai Harbour Experience on 12 December. The official page highlights his deep-house and indie-dance sound and confirms tickets and VIP tables are on sale.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-argy-neworld-2026",
+        "title": "ARGY Presents NEWORLD New Year’s Eve",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 81,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.ushuaiadubai.com/events/2026/argy-presents-neworld",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108451/argy-presents-neworld-new-years-eve-at-ushuaia-dubai-harbour-experience",
+        "summary": "Argy brings his NEWORLD audiovisual concept to Ushuaïa Dubai Harbour Experience for NYE, joined by Chloé Caillet, Hardt Antoine and Solance for a large-scale melodic/electronic countdown.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "dubai-pawsa-pacha-icons-2026",
+        "title": "PAWSA New Year’s Eve | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 80,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108390/pawsa-new-years-eve-pacha-icons",
+        "summary": "PAWSA headlines the Pacha ICONS New Year’s Eve party at FIVE LUXE JBR, a tech-house/open-air dancefloor alternative to the city’s hotel-gala circuit.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-indira-paganotto-hive-2026",
         "title": "Indira Paganotto at HIVE, Soho Garden Meydan",
         "type": "club-night",
         "startDate": "2026-12-12",
         "endDate": "2026-12-12",
-        "importance": 76,
+        "importance": 78,
         "venueName": "Soho Garden Meydan",
         "venueId": "soho-garden",
-        "sourceUrl": "https://www.shazam.com/event/97cbad35-8898-4db5-94c1-aafe932aee3b",
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/103026/indira-paganotto-at-hive-soho-garden-meydan-dubai",
         "ticketUrl": "https://dubai.platinumlist.net/event-tickets/103026/indira-paganotto-at-hive-soho-garden-meydan-dubai",
-        "summary": "Indira Paganotto brings her psy-techno sound to HIVE at Soho Garden Meydan, with the event listed for 10:00 PM and ticketing via Platinumlist.",
+        "summary": "Indira Paganotto plays HIVE at Soho Garden Meydan on 12 December, with doors listed at 22:00. The event page frames the night around her high-energy psy-techno sound.",
         "genres": [
           "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-luke-dean-max-dean-pacha-icons-2026",
+        "title": "Luke Dean b2b Max Dean at Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 76,
+        "venueName": "FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/111226-luke-dean-b2b-max-dean",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108591/luke-dean-b2b-max-dean-at-pacha-icons-in-dubai",
+        "summary": "Luke Dean and Max Dean play back-to-back at Pacha ICONS on 11 December. The Pacha event page confirms the FIVE LUXE JBR setting, 19:00–03:00 timing and tech-house framing.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-rahat-shah-zaman-2026",
+        "title": "Rahat Fateh Ali Khan & Shah Zaman Ali Khan – Once Upon a Time World Tour",
+        "type": "concert",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-26",
+        "importance": 76,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108561/rahat-fateh-ali-khan-shah-zaman-ali-khan-once-upon-a-time-world-tour",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108561/rahat-fateh-ali-khan-shah-zaman-ali-khan-once-upon-a-time-world-tour",
+        "summary": "Rahat Fateh Ali Khan returns to Coca-Cola Arena on 26 December with Shah Zaman Ali Khan. The listing confirms a programme of Sufi compositions, classics and qawwalis across two generations of the musical family.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-luke-max-pacha-icons-2026",
+        "title": "Luke Dean b2b Max Dean | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/111226-luke-dean-b2b-max-dean",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108591/luke-dean-b2b-max-dean-at-pacha-icons-in-dubai",
+        "summary": "A Pacha ICONS night dedicated to the UK club wave, with Luke Dean and Max Dean going back-to-back across house, UK garage, rolling basslines and groove-led selections.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-bedouin-be-beach-2026",
+        "title": "New Year’s Eve with Bedouin at Be Beach Dubai",
+        "type": "beach-club",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 75,
+        "venueName": "Be Beach Dubai",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/ar/event-tickets/108492/new-years-eve-with-bedouin-at-be-beach-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/ar/event-tickets/108492/new-years-eve-with-bedouin-at-be-beach-dubai",
+        "summary": "Bedouin bring their deep, hypnotic, globally inflected house sound to Be Beach for an open-air New Year’s Eve beach-club party, with Alex Twin also listed.",
+        "genres": [
+          "house",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "dubai-bohemia-miguelle-tons-2026",
+        "title": "Bohemia Presents Miguelle & Tons",
+        "type": "beach-club",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 73,
+        "venueName": "Bohemia Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.bohemiadubai.com/events/bohemia-presents-miguelle-tons-12122026",
+        "ticketUrl": "https://www.bohemiadubai.com/events/bohemia-presents-miguelle-tons-12122026",
+        "summary": "Miguelle & Tons headline Bohemia Beach Club on 12 December at 19:00. The official Bohemia page confirms the duo and positions the night within the venue’s beachfront house programme.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-shaam-e-rekhta-2026",
+        "title": "Shaam-E-Rekhta Dubai 2026",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 72,
+        "venueName": "Dubai Media City Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/shaam-e-rekhta-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/shaam-e-rekhta-dubai",
+        "summary": "Shaam-E-Rekhta runs at Dubai Media City Amphitheatre on 12–13 December, with A. R. Rahman listed for the opening performance and Javed Akhtar, Meiyang Chang and Jahnvi Shrimankar on the closing programme. The source confirms separate programmes across the two dates.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-bamboo-cup-of-joe-2026",
+        "title": "One Stage – Bamboo × Cup of Joe",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 70,
+        "venueName": "Dubai World Trade Centre, Halls 6 & 7",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108446/one-stage-bamboo-x-cup-of-joe",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108446/one-stage-bamboo-x-cup-of-joe",
+        "summary": "Filipino acts Bamboo and Cup of Joe share the One Stage bill at Dubai World Trade Centre on 11 December. The event page confirms doors at 18:00 and a 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-cavo-vessbroz-nye-2026",
+        "title": "Cavo Presents – New Year’s Eve 2026: The Ultimate Countdown Experience",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 67,
+        "venueName": "Cavo, Ramee Dream Hotel",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/nye-cavo",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/nye-cavo",
+        "summary": "Cavo’s New Year’s Eve party on 31 December features Vessbroz and support from Bazz Key, Qtee Rue and Hell Fox. The Platinumlist page confirms a 22:00 start and describes the sound as electronic house with Middle Eastern-inspired elements.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-ravedao-binance-blockchain-week-2026",
+        "title": "RaveDAO Dubai Binance Blockchain Week",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-05",
+        "importance": 72,
+        "venueName": "Dubai, United Arab Emirates",
+        "venueId": null,
+        "sourceUrl": "https://www.plvr.io/events/ravedao-dubai-binance-blockchain-week-20261204-ae",
+        "ticketUrl": "https://www.plvr.io/events/ravedao-dubai-binance-blockchain-week-20261204-ae",
+        "summary": "RaveDAO’s year-end flagship rave during Binance Blockchain Week, billed as a high-energy electronic gathering running 21:00–03:00 for the Web3 and club community.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "dubai-aaron-sevilla-surf-club-2026",
+        "title": "Aaron Sevilla at Surf Club Dubai",
+        "type": "beach-club",
+        "startDate": "2026-12-13",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Surf Club Dubai",
+        "venueId": null,
+        "sourceUrl": "https://www.shazam.com/en-gb/events/dubai-united-arab-emirates/-/-/alternative-20%2Bbollywood-1263%2Bcomedy-3%2Bdance-17",
+        "ticketUrl": null,
+        "summary": "A December dance listing for Aaron Sevilla at Surf Club Dubai, relevant for Afro/Latin-house and beach-club travelers looking beyond arena programming.",
+        "genres": [
+          "afro-house",
+          "house",
           "electronic"
         ]
       }

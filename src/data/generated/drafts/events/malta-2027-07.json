@@ -1,0 +1,153 @@
+{
+  "slug": "malta",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:24:02.604Z",
+  "responseId": "resp_02c65648feea7e5c006acdb18cf02487d090b377bfa287bf8f+resp_03cb8e646ecbfca8006acdb20bd87487d097c4356ba978bbe7",
+  "searchCalls": 42,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 currently has a confirmed national jazz festival plus recurring commercial club, boat and pool-party programming, while several larger Malta summer festivals still have 2027 lineups or dates pending.",
+    "events": [
+      {
+        "id": "malta-jazz-festival-jul-2027",
+        "title": "Malta Jazz Festival",
+        "type": "festival",
+        "startDate": "2027-07-05",
+        "endDate": "2027-07-10",
+        "importance": 86,
+        "venueName": "Valletta",
+        "venueId": null,
+        "sourceUrl": "https://www.festivals.mt/mjf",
+        "ticketUrl": null,
+        "summary": "Festivals Malta lists the 2027 Malta Jazz Festival for 5–10 July in Valletta. The programme is still marked TBC, but the festival is a long-running international jazz fixture mixing global and local artists.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-pukka-up-boat-party-2027",
+        "title": "Pukka Up Malta Boat Party 2027",
+        "type": "club-night",
+        "startDate": "2027-06-05",
+        "endDate": "2027-08-28",
+        "importance": 76,
+        "venueName": "Sliema Ferries",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/malta/Sliema-Ferries/Pukka-Up-Malta-Boat-Party--Malta-2027/42837262/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/malta/Sliema-Ferries/Pukka-Up-Malta-Boat-Party--Malta-2027/42837262/",
+        "summary": "Touring boat-party brand Pukka Up runs its Malta summer season from Sliema Ferries, with July Saturday sailings inside the June–August run and Pukka Up DJs playing house, UK garage, tech house, EDM and disco house at sunset.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-ash-xo-2027",
+        "title": "ASH XO Malta 2027",
+        "type": "festival",
+        "startDate": "2027-07-29",
+        "endDate": "2027-08-01",
+        "importance": 74,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.ashxomusic.com/malta/",
+        "ticketUrl": "https://lovevibesmusic.com/events/ash-xo-malta-2027-ms7lbyue",
+        "summary": "Four-day Malta weekender built around a welcome night, open-air day rave, beach-club takeover and closing daytime party, with Supa D, Coldsteps, Terminal 4 and ASH XO announced and a music policy of soulful, tribal and funky house.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-cafe-del-mar-pool-party-jul-2027",
+        "title": "Café Del Mar Pool Party",
+        "type": "beach-club",
+        "startDate": "2027-07-01",
+        "endDate": "2027-07-01",
+        "importance": 72,
+        "venueName": "Café Del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/malta/events/cafe-del-mar?date=01-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/malta/events/cafe-del-mar?date=01-07-2027",
+        "summary": "A dated Party Hard Travel listing confirms this Café Del Mar Malta pool party for 1 July 2027 at 20:00. The listing describes a large-scale poolside session with DJs and performers at the St Paul’s Bay venue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-pukka-up-boat-party-jul-2027",
+        "title": "Pukka Up Boat Party Malta",
+        "type": "club-night",
+        "startDate": "2027-07-03",
+        "endDate": "2027-07-03",
+        "importance": 70,
+        "venueName": "Sliema Ferries",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/malta/events/pukka-up-boat-party?date=03-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/malta/events/pukka-up-boat-party?date=03-07-2027",
+        "summary": "Party Hard Travel confirms a Pukka Up Boat Party Malta date on 3 July 2027, departing from Sliema Ferries in the early evening. The event is billed as a sunset boat party with local DJs and non-stop party programming.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-toy-room-super-club-jul-2027",
+        "title": "Toy Room Super Club Night",
+        "type": "club-night",
+        "startDate": "2027-07-03",
+        "endDate": "2027-07-03",
+        "importance": 70,
+        "venueName": "Toy Room - St Julians Paceville",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/malta/events/toy-room-super-club-night?date=03-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/malta/events/toy-room-super-club-night?date=03-07-2027",
+        "summary": "A dated Party Hard Travel listing confirms Toy Room Super Club Night for 3 July 2027 at 23:00 in Paceville, St Julian’s. The night is promoted around hip-hop, R&B and reggaeton with DJs, artists, dancers and performers.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "malta-white-party-toy-room-2027",
+        "title": "White Party at Toy Room Beach Club",
+        "type": "beach-club",
+        "startDate": "2027-07-15",
+        "endDate": "2027-07-29",
+        "importance": 62,
+        "venueName": "Toy Room Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://maltanights.com/products/white-party-toy-room-beach-club",
+        "ticketUrl": null,
+        "summary": "Toy Room Club Malta’s all-white daytime beach-club party is scheduled on Wednesdays, with confirmed July editions on 15, 22 and 29 July, featuring pool access, DJ sets, dancers and Toy Room’s high-energy crowd.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "malta-songcraft-showcase-jul-2027",
+        "title": "SongCraft (6th edition)",
+        "type": "concert",
+        "startDate": "2027-07-09",
+        "endDate": "2027-07-09",
+        "importance": 60,
+        "venueName": "Spazju Kreattiv Theatre",
+        "venueId": null,
+        "sourceUrl": "https://spazjukreattiv.org/event/songcraft-6th-edition/",
+        "ticketUrl": null,
+        "summary": "Spazju Kreattiv lists SongCraft’s sixth edition as an all-day event on 9 July 2027, culminating in a live showcase of original work by young singer-songwriters. The programme is run with Aġenzija Żgħażagħ and mentored by established Maltese singer-songwriters.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

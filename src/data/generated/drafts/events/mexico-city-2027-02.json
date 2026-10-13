@@ -1,0 +1,320 @@
+{
+  "slug": "mexico-city",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:22:31.227Z",
+  "responseId": "resp_02012ef3d1c2002c006acda35edb9887d09fe333a06b4b8e8e+resp_083a6742a967a881006acda3b72dd887d09847c668ee2b4ab8",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is anchored by major electronic/festival travel moments around Bahidorá and EDC México, with CDMX Art Week club programming already starting to surface.",
+    "events": [
+      {
+        "id": "mexico-city-edc-mexico-2027",
+        "title": "EDC México 2027",
+        "type": "festival",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-21",
+        "importance": 98,
+        "venueName": "Autódromo Hermanos Rodríguez",
+        "venueId": null,
+        "sourceUrl": "https://mexico.edc.com/en/",
+        "ticketUrl": "https://mexico.edc.com/en/tickets/",
+        "summary": "EDC México is confirmed for February 19–21, 2027 in Mexico City, with the official site selling 3-day ticket tiers. The festival is the month's global electronic flagship, centered on large-scale dance stages, production and performers.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "mexico-city-bahidora-2027",
+        "title": "Bahidorá 2027",
+        "type": "festival",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-14",
+        "importance": 92,
+        "venueName": "Las Estacas, Morelos",
+        "venueId": null,
+        "sourceUrl": "https://bahidora.com/",
+        "ticketUrl": "https://bahidora.com/planea/boletos/",
+        "summary": "Bahidorá confirms its 15th-anniversary edition for February 12–14, 2027 at Las Estacas, Morelos, with three-day and two-day passes announced. The lineup is not yet posted on the source page, but the festival is confirmed as a music, art and nature weekend.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-giegling-2027",
+        "title": "Giegling in Mexico City 2027",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Frontón Bucareli",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2539164",
+        "ticketUrl": "https://ra.co/events/2539164",
+        "summary": "Dynamic Waves brings the cult German label Giegling back to Mexico City during Art Week for a 12-hour house and minimal-techno session at Frontón Bucareli; lineup is still TBA, but the brand and venue make it a destination-level underground date.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-fuerza-regida-palacio-2027",
+        "title": "Fuerza Regida at Palacio de los Deportes",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 82,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/fuerza-regida-boletos/artist/2499958?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/fuerza-regida-boletos/artist/2499958?language=en-mx",
+        "summary": "Ticketmaster lists Fuerza Regida at Palacio de los Deportes on February 6, 2027, part of a multi-date CDMX run also listed on the artist page. This is a major música mexicana arena-level booking for the month.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-the-warning-estadio-gnp-2027",
+        "title": "The Warning - Everything's Falling World Tour",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 82,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/the-warning-tickets/artist/2156114?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/the-warning-tickets/artist/2156114?language=en-mx",
+        "summary": "Ticketmaster confirms The Warning's Everything's Falling World Tour at Estadio GNP Seguros on February 5, 2027. The listing names The Linda Lindas on the lineup as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-hilary-duff-palacio-2027",
+        "title": "Hilary Duff: the lucky me tour",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 79,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/hilary-duff-tickets/artist/882305?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/hilary-duff-tickets/artist/882305?language=en-mx",
+        "summary": "Ticketmaster lists Hilary Duff's the lucky me tour at Palacio de los Deportes on February 12, 2027, with another CDMX date shown for February 13. This is a major pop booking for the month.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-urbano-fest-2027",
+        "title": "Urbano Fest CDMX Vol. 2",
+        "type": "festival",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-21",
+        "importance": 76,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/urbano-fest-boletos/artist/1872039",
+        "ticketUrl": "https://www.ticketmaster.com.mx/urbano-fest-boletos/artist/1872039",
+        "summary": "C-Kan’s Mexican rap and urbano showcase returns to Pepsi Center WTC across two nights, with Ticketmaster listing C-Kan on both 20 and 21 February dates; a strong domestic hip-hop/Latin scene event rather than an arena-pop headliner.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-jorge-drexler-auditorio-2027",
+        "title": "Jorge Drexler at Auditorio Nacional",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 74,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jorge-drexler-tickets/artist/1331860?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jorge-drexler-tickets/artist/1331860?language=en-mx",
+        "summary": "Ticketmaster lists Jorge Drexler at Auditorio Nacional on February 20, 2027. The Grammy- and Latin Grammy-winning Uruguayan songwriter is a strong Latin singer-songwriter draw during EDC weekend.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-la-roux-2027",
+        "title": "La Roux: The Old Flames Tour",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "importance": 73,
+        "venueName": "Pabellón del Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/la-roux-tickets/artist/1332327?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/la-roux-tickets/artist/1332327?language=en-mx",
+        "summary": "Ticketmaster lists La Roux's The Old Flames Tour at Pabellón del Palacio de los Deportes on February 25, 2027. The date adds a synth-pop/electronic touring show to the post-EDC week.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-sin-bandera-auditorio-2027",
+        "title": "Sin Bandera at Auditorio Nacional",
+        "type": "concert",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-07",
+        "importance": 72,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/sin-bandera-boletos/artist/849520?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/sin-bandera-boletos/artist/849520?language=en-mx",
+        "summary": "Ticketmaster confirms Sin Bandera at Auditorio Nacional on February 7, 2027. The duo's CDMX date adds a mainstream Latin-pop draw to the first February concert weekend.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-urbano-fest-pepsi-2027",
+        "title": "Urbano Fest",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 72,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/pepsi-center-boletos-mexico/venue/164952?language=en-mx&page=1",
+        "ticketUrl": "https://www.ticketmaster.com.mx/pepsi-center-boletos-mexico/venue/164952?language=en-mx&page=1",
+        "summary": "Ticketmaster's Pepsi Center WTC calendar lists Urbano Fest on February 21, 2027, with Festival Urbano and C-Kan on the lineup. The show represents the month's confirmed urban/hip-hop programming at a major indoor venue.",
+        "genres": [
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-leyendas-cumbia-2027",
+        "title": "Leyendas de la Cumbia",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 72,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/leyendas-de-la-cumbia-tickets/artist/4388299?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/leyendas-de-la-cumbia-tickets/artist/4388299?language=en-mx",
+        "summary": "Ticketmaster confirms Leyendas de la Cumbia at Auditorio Nacional on February 21, 2027. The listed lineup includes La Sonora Dinamita and Los Socios del Ritmo.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-carlos-sadness-2027",
+        "title": "Carlos Sadness at Auditorio Nacional",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 70,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/carlos-sadness-tickets/artist/2254506?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/carlos-sadness-tickets/artist/2254506?language=en-mx",
+        "summary": "Ticketmaster lists Spanish indie-pop artist Carlos Sadness at Auditorio Nacional on February 5, 2027. It is one of the early confirmed Auditorio Nacional popular-music dates for February.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-maria-daniela-sonido-lasser-2027",
+        "title": "María Daniela y su Sonido Lasser",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 70,
+        "venueName": "Pepsi Center WTC",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/pepsi-center-wtc-boletos-mexico/venue/164952?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/pepsi-center-wtc-boletos-mexico/venue/164952?language=en-mx",
+        "summary": "The Pepsi Center WTC Ticketmaster calendar lists María Daniela y su Sonido Lasser on February 12, 2027. The booking brings a local electro-pop staple into a large CDMX room during the same weekend as several major pop dates.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-hilary-duff-lucky-me-feb13-2027",
+        "title": "Hilary Duff — The Lucky Me Tour",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 78,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/hilary-duff-the-lucky-me-tour-ciudad-de-mexico-13-02-2027/event/14006447E0DDB380?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/hilary-duff-the-lucky-me-tour-ciudad-de-mexico-13-02-2027/event/14006447E0DDB380?language=en-mx",
+        "summary": "A second Hilary Duff date for The Lucky Me Tour is confirmed at Palacio de los Deportes on February 13, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-westlife-arena-cdmx-2027",
+        "title": "Westlife — 25: The Anniversary World Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 73,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43211929-westlife-at-arena-cdmx",
+        "ticketUrl": "https://www.songkick.com/concerts/43211929-westlife-at-arena-cdmx",
+        "summary": "Westlife’s anniversary tour is listed for Arena CDMX on February 27, 2027, with Songkick showing the event and Super Boletos ticketing availability.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-santiago-cruz-sigo-en-pie-2027",
+        "title": "Santiago Cruz — Sigo en Pie Tour",
+        "type": "concert",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 69,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/santiago-cruz-sigo-en-pie-tour-mexico-04-02-2027/event/140064A984646033?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/santiago-cruz-sigo-en-pie-tour-mexico-04-02-2027/event/140064A984646033?language=en-mx",
+        "summary": "Colombian singer-songwriter Santiago Cruz brings his Sigo en Pie Tour to Teatro Metropólitan, with Ticketmaster listing the date and venue for February 4, 2027.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-andres-suarez-gira-lua-2027",
+        "title": "Andrés Suárez — Gira Lua",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 67,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/andres-suarez-gira-lua-mexico-05-02-2027/event/1400649C8E853E3A?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/andres-suarez-gira-lua-mexico-05-02-2027/event/1400649C8E853E3A?language=en-mx",
+        "summary": "Spanish singer-songwriter Andrés Suárez is confirmed for Teatro Metropólitan on the Gira Lua tour, as listed by Ticketmaster for February 5, 2027.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

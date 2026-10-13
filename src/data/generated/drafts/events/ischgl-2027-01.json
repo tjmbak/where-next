@@ -1,0 +1,132 @@
+{
+  "slug": "ischgl",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:08:49.824Z",
+  "responseId": "resp_00eb2ba1a8e0d247006acda02c142c87d0b59384d3132b6464+resp_0f1e82649aaf1b87006acda06d7dc887d0accc1000b2feb976",
+  "searchCalls": 25,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 1,
+    "year": 2027,
+    "notes": "January’s confirmed public music calendar is sparse, with verified listings centered on local night-ski entertainment rather than major Top of the Mountain concerts.",
+    "events": [
+      {
+        "id": "ischgl-trofana-alm-party-deluxe-2027",
+        "title": "Trofana Alm Party de Luxe winter DJ residency",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 68,
+        "venueName": "Trofana Alm",
+        "venueId": "trofana-alm-ischgl",
+        "sourceUrl": "https://cms.ischgl.com/Ischgl.com/en/plan-your-trip/ischgl-a-z/trofana-alm_infra_100003134",
+        "ticketUrl": null,
+        "summary": "Season-long après-ski club residency at one of Ischgl’s flagship party huts, with regular international DJs and late-afternoon-to-midnight dancing during the January ski season.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-fire-ice-apres-ski-2027",
+        "title": "fire & ice APRES.SKI winter club nights",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 66,
+        "venueName": "fire & ice APRES.SKI",
+        "venueId": null,
+        "sourceUrl": "https://cms.ischgl.com/Ischgl.com/de/reise-planen/ischgl-a-z/fire-ice-apres-ski_infra_100002911",
+        "ticketUrl": null,
+        "summary": "Nightly club-and-dance residency at fire & ice APRES.SKI, confirmed for the winter season with daily late-night opening and a club/dancing format next to the Silvretta base area.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-champagnerclub-top-djs-2027",
+        "title": "Champagnerclub winter late-night DJ residency",
+        "type": "residency",
+        "startDate": "2026-11-25",
+        "endDate": "2027-05-02",
+        "importance": 65,
+        "venueName": "Champagnerclub",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/champagnerclub_infra_100005233",
+        "ticketUrl": null,
+        "summary": "Daily late-night club residency in Schlosshotel Ischgl’s Champagnerclub, billed with Europe’s top DJs and a first-class club atmosphere from 22:00 to 04:00 through January.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-freeride-apres-clubbing-2027",
+        "title": "Freeride Après Clubbing daily DJ residency",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 63,
+        "venueName": "Freeride",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/ro/freeride_infra_100002963",
+        "ticketUrl": null,
+        "summary": "Daily afternoon-to-late-night après-clubbing residency where DJs drive the dancefloor, positioned as a clubbier alternative to traditional après-ski during the January season.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-medrig-night-fever-jan-2027",
+        "title": "Medrig Night Fever",
+        "type": "club-night",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-06",
+        "importance": 61,
+        "venueName": "Medrig Alm Stage",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/medrig-night-fever_event_134880171",
+        "ticketUrl": null,
+        "summary": "Official Paznaun/Ischgl calendar listing for See’s Medrig Night Fever, described as a night event all about music with its own stage, laser show, and performances. The source explicitly lists 06.01.2027 at 19:30.",
+        "genres": []
+      },
+      {
+        "id": "ischgl-nightshow-jan-2027",
+        "title": "Nightshow Ischgl",
+        "type": "concert",
+        "startDate": "2027-01-05",
+        "endDate": "2027-01-05",
+        "importance": 60,
+        "venueName": "Prennerhang Ischgl",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/nightshow-ischgl_event_134510833",
+        "ticketUrl": null,
+        "summary": "Official Ischgl Nightshow at Prennerhang with ski-school demonstrations and a DJ providing the soundtrack. The source explicitly lists the January date as 05.01.2027 at 21:00, with free admission.",
+        "genres": []
+      },
+      {
+        "id": "ischgl-nikis-stadl-partyhits-2027",
+        "title": "Niki’s Stadl daily DJ party-hits residency",
+        "type": "residency",
+        "startDate": "2026-11-25",
+        "endDate": "2027-05-02",
+        "importance": 60,
+        "venueName": "Niki's Stadl",
+        "venueId": null,
+        "sourceUrl": "https://cms.ischgl.com/Ischgl.com/de/reise-planen/ischgl-a-z/niki-s-stadl_infra_100005628",
+        "ticketUrl": null,
+        "summary": "Long-running daily après-ski party residency in central Ischgl, with DJs playing current party hits for the winter crowd every afternoon and evening through January.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

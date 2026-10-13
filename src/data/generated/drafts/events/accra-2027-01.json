@@ -1,0 +1,141 @@
+{
+  "slug": "accra",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:06:22.650Z",
+  "responseId": "resp_0ed70d11617845c1006acd9fa82b8487d089edcf7609297c0b+resp_090fd00b5f8c68de006acd9fec079c87d0bf9d1aabe288b2ac",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "accra",
+    "month": 1,
+    "year": 2027,
+    "notes": "Confirmed January 2027 listings are still thin this far out, but Accra’s early-month calendar is anchored by Detty December spillover, Ada destination parties, and beach-club nightlife.",
+    "events": [
+      {
+        "id": "accra-afroson1c-x-2027",
+        "title": "AFROSON1C X Edition 02",
+        "type": "conference",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-09",
+        "importance": 82,
+        "venueName": "Treehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.afroson1cx.com/about",
+        "ticketUrl": "https://www.afroson1cx.com/",
+        "summary": "West Africa-focused showcase festival and music industry conference returning to Accra with live showcases, panels, workshops, curated meetings and expanded multi-day programming after a sold-out debut.",
+        "genres": [
+          "festival",
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-tropical-fiesta-2027",
+        "title": "Tropical Fiesta V",
+        "type": "festival",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-04",
+        "importance": 75,
+        "venueName": "Treasure Island Resort, Ada",
+        "venueId": null,
+        "sourceUrl": "https://tropicalfiestafestival.com/",
+        "ticketUrl": "https://egotickets.com/events/tropical-fiesta",
+        "summary": "A three-day, two-night resort getaway/private party festival outside Accra, powered by Livewire Events, Enjoyment Radio and Black Avenue Muzik, with artists, celebrity DJs, influencers and diaspora guests.",
+        "genres": [
+          "festival",
+          "amapiano",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-aliv-fest-2027",
+        "title": "ALIV FEST 2026",
+        "type": "carnival",
+        "startDate": "2026-12-17",
+        "endDate": "2027-01-03",
+        "importance": 72,
+        "venueName": "Accra, Ghana",
+        "venueId": null,
+        "sourceUrl": "https://alivfest.com/",
+        "ticketUrl": "https://alivfest.com/",
+        "summary": "An 18-day Accra carnival/nightlife experience running into early January, with Afrobeats, Amapiano, drill and Afropop DJ sets, live acts, carnival rides, food and peak-night programming.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-afro-wave-tuesday-2027",
+        "title": "Afro Wave Tuesday",
+        "type": "club-night",
+        "startDate": "2027-01-12",
+        "endDate": "2027-01-13",
+        "importance": 65,
+        "venueName": "Afrikana Beach House",
+        "venueId": null,
+        "sourceUrl": "https://www.afrikanabeachhouse.com/event-details-registration/afro-wave-tuesday-2027-01-12-17-00",
+        "ticketUrl": "https://www.afrikanabeachhouse.com/event-details-registration/afro-wave-tuesday-2027-01-12-17-00",
+        "summary": "Afrikana Beach House’s Afro Wave Tuesday is a beach-club night with Spinset soundtracking the evening with Afrobeats, Amapiano, and hip-hop from sunset until late.",
+        "genres": [
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-one-night-in-accra-2027",
+        "title": "One Night In Accra",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-03",
+        "importance": 64,
+        "venueName": "Enzo Accra",
+        "venueId": null,
+        "sourceUrl": "https://happeningnext.com/event/one-night-in-accra-eid27pun4gls6e",
+        "ticketUrl": "https://happeningnext.com/event/one-night-in-accra-eid27pun4gls6e",
+        "summary": "Chaleboyz-hosted Detty-season closing club night at Enzo Accra, centered on Afrobeats, Amapiano, Highlife, Hiplife, Afrofusion and Ghanaian anthems until 5 AM.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-freedom-parade-2027",
+        "title": "Freedom Parade",
+        "type": "carnival",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 60,
+        "venueName": "Nkyinkyim Museum",
+        "venueId": null,
+        "sourceUrl": "https://nkyinkyimmuseum.org/event/freedom-parade/",
+        "ticketUrl": null,
+        "summary": "Nkyinkyim Museum’s annual Freedom Parade is a body-painting and masquerade festival in Ada with live music, dance performances, and cultural activities.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-labadi-beach-networking-party-2027",
+        "title": "Labadi Beach Networking Party",
+        "type": "beach-club",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 60,
+        "venueName": "Labadi Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108720517?app_id=spt_feed&came_from=281",
+        "ticketUrl": null,
+        "summary": "A New Year beach link-up at Labadi Beach with Whizgee Ras, top DJs, late-night dancing and networking zones, running 8 PM to 5 AM.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

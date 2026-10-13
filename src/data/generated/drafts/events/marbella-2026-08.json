@@ -2,8 +2,8 @@
   "slug": "marbella",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:25:05.921Z",
-  "responseId": "resp_0a384d684ff797520069ff5f7118b481928ab55daddb223717",
+  "generatedAt": "2026-05-30T18:28:36.822Z",
+  "responseId": "augment:resp_02dc09959a5b555a006a1b2beb9da88199bda870b850c54808",
   "searchCalls": 16,
   "citations": [],
   "data": {
@@ -13,19 +13,73 @@
     "notes": "August 2026 in Marbella is anchored by the late-summer Starlite Occident run, with a smaller confirmed Bella Festival date and a dance-pop arena show adding variety beyond the quarry.",
     "events": [
       {
-        "id": "marbella-bella-festival-2026",
-        "title": "Bella Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-01",
-        "endDate": "2026-08-01",
-        "importance": 78,
-        "venueName": "OMA SOUND Marbella",
+        "id": "marbella-nile-rodgers-chic-starlite-2026",
+        "title": "Nile Rodgers & CHIC at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-26",
+        "endDate": "2026-08-26",
+        "importance": 90,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
         "venueId": null,
-        "sourceUrl": "https://bellafestival.es/",
-        "ticketUrl": "https://www.ingresse.com/bella-festival-2026/",
-        "summary": "Bella Festival’s official site confirms its 2026 edition for Saturday, 1 August at OMA SOUND Marbella, with the first ticket batch on sale. The current official page does not yet list a confirmed 2026 artist lineup.",
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/nile-rodgers-chic-en/",
+        "ticketUrl": null,
+        "summary": "Nile Rodgers & CHIC are confirmed to return to Starlite Occident on Wednesday, 26 August. The official listing highlights CHIC’s disco, pop and dance legacy, with showtime at 22:00.",
         "genres": [
-          "festival"
+          "pop",
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-gloria-trevi-starlite-2026",
+        "title": "Gloria Trevi at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-24",
+        "endDate": "2026-08-24",
+        "importance": 88,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/gloria-trevi-2/",
+        "ticketUrl": null,
+        "summary": "Gloria Trevi is confirmed for Starlite Occident on Monday, 24 August, with a 22:00 Auditorium show. The official page describes it as her only European concert for the year and a career-spanning Latin-pop performance.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-gente-de-zona-starlite-2026",
+        "title": "Gente de Zona at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 86,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/gente-de-zona-4/",
+        "ticketUrl": null,
+        "summary": "Cuban duo Gente de Zona are confirmed for Starlite Occident on Wednesday, 5 August, with the official page highlighting a set of Latin and Caribbean urban hits. The concert is scheduled for the Auditorium stage at 22:00.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-black-coffee-2026",
+        "title": "Black Coffee - Marbella 2026",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Recinto Ferial San Pedro Alcántara",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/643593/en",
+        "ticketUrl": "https://feverup.com/m/643593/en",
+        "summary": "Large-scale open-air Afro house event headlined by Black Coffee, presented by Pedro Caldas and Cipriani Group, with doors from 18:00 and music running until 02:00.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -46,20 +100,69 @@
         ]
       },
       {
-        "id": "marbella-gente-de-zona-starlite-2026",
-        "title": "Gente de Zona at Starlite Occident",
+        "id": "marbella-malu-starlite-2026",
+        "title": "Malú at Starlite Occident",
         "type": "concert",
-        "startDate": "2026-08-05",
-        "endDate": "2026-08-05",
-        "importance": 86,
+        "startDate": "2026-08-10",
+        "endDate": "2026-08-10",
+        "importance": 82,
         "venueName": "Starlite Occident, Cantera de Nagüeles",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/gente-de-zona-4/",
+        "sourceUrl": "https://starlitefestival.com/en/line-up-2026/",
         "ticketUrl": null,
-        "summary": "Cuban duo Gente de Zona are confirmed for Starlite Occident on Wednesday, 5 August, with the official page highlighting a set of Latin and Caribbean urban hits. The concert is scheduled for the Auditorium stage at 22:00.",
+        "summary": "Malú is listed on Starlite Occident’s official Marbella 2026 lineup for 10 August. This is a confirmed date within the festival’s August concert programme at the Cantera de Nagüeles.",
         "genres": [
-          "latin",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-love-of-lesbian-starlite-2026",
+        "title": "Love of Lesbian at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 82,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/line-up-2026/",
+        "ticketUrl": "https://www.ticketmaster.es/event/love-of-lesbian-entradas/245251876",
+        "summary": "Love of Lesbian are confirmed on Starlite Occident’s official 2026 lineup for 29 August, closing the listed August run. Ticketmaster also lists the Starlite Auditorium show for Saturday, 29 August at 22:00.",
+        "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "marbella-vanesa-martin-starlite-2026",
+        "title": "Vanesa Martín at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 80,
+        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/vanesa-martin-ok/",
+        "ticketUrl": null,
+        "summary": "Vanesa Martín is confirmed for Starlite Occident on Friday, 14 August, with an Auditorium show at 22:00. The official page notes a set mixing new Casa Mía material with career hits.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-bella-festival-2026",
+        "title": "Bella Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 78,
+        "venueName": "OMA SOUND Marbella",
+        "venueId": null,
+        "sourceUrl": "https://bellafestival.es/",
+        "ticketUrl": "https://www.ingresse.com/bella-festival-2026/",
+        "summary": "Bella Festival’s official site confirms its 2026 edition for Saturday, 1 August at OMA SOUND Marbella, with the first ticket batch on sale. The current official page does not yet list a confirmed 2026 artist lineup.",
+        "genres": [
+          "festival"
         ]
       },
       {
@@ -95,37 +198,21 @@
         ]
       },
       {
-        "id": "marbella-malu-starlite-2026",
-        "title": "Malú at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-08-10",
-        "endDate": "2026-08-10",
-        "importance": 82,
-        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "id": "marbella-kisstory-nao-2026",
+        "title": "KISSTORY Marbella Sundays at NAÔ Pool Club",
+        "type": "beach-club",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-30",
+        "importance": 78,
+        "venueName": "NAÔ Pool Club Marbella",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/line-up-2026/",
-        "ticketUrl": null,
-        "summary": "Malú is listed on Starlite Occident’s official Marbella 2026 lineup for 10 August. This is a confirmed date within the festival’s August concert programme at the Cantera de Nagüeles.",
+        "sourceUrl": "https://www.812events.co.uk/kisstory/",
+        "ticketUrl": "https://www.812events.co.uk/kisstory/",
+        "summary": "KISSTORY’s Marbella pool-party run at NAÔ, with confirmed August Sunday dates including the 30 August Bank Holiday Special and a soundtrack rooted in old-school R&B, hip-hop, garage and party classics.",
         "genres": [
-          "pop",
-          "latin"
-        ]
-      },
-      {
-        "id": "marbella-vanesa-martin-starlite-2026",
-        "title": "Vanesa Martín at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-08-14",
-        "endDate": "2026-08-14",
-        "importance": 80,
-        "venueName": "Starlite Occident, Cantera de Nagüeles",
-        "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/vanesa-martin-ok/",
-        "ticketUrl": null,
-        "summary": "Vanesa Martín is confirmed for Starlite Occident on Friday, 14 August, with an Auditorium show at 22:00. The official page notes a set mixing new Casa Mía material with career hits.",
-        "genres": [
-          "pop",
-          "latin"
+          "r-and-b",
+          "hip-hop",
+          "house"
         ]
       },
       {
@@ -146,54 +233,109 @@
         ]
       },
       {
-        "id": "marbella-gloria-trevi-starlite-2026",
-        "title": "Gloria Trevi at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-08-24",
-        "endDate": "2026-08-24",
-        "importance": 88,
-        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "id": "marbella-nueva-soul-august-residency-2026",
+        "title": "Nueva Soul - The AfroHouse Rooftop Experience: August Residency",
+        "type": "residency",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-30",
+        "importance": 73,
+        "venueName": "Pangea Puerto Banus",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/gloria-trevi-2/",
-        "ticketUrl": null,
-        "summary": "Gloria Trevi is confirmed for Starlite Occident on Monday, 24 August, with a 22:00 Auditorium show. The official page describes it as her only European concert for the year and a career-spanning Latin-pop performance.",
+        "sourceUrl": "https://xceed.me/en/MARBELLA/events/all/festivals",
+        "ticketUrl": "https://xceed.me/en/MARBELLA/events/all/festivals",
+        "summary": "Sunday Afro house rooftop residency above Puerto Banús, with confirmed August dates on 2, 9, 16, 23 Bank Holiday Special and 30 August Closing Party.",
         "genres": [
-          "latin",
-          "pop"
+          "afro-house",
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "marbella-nile-rodgers-chic-starlite-2026",
-        "title": "Nile Rodgers & CHIC at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-08-26",
-        "endDate": "2026-08-26",
-        "importance": 90,
-        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "id": "marbella-afrobeast-mogli-2026",
+        "title": "Afrobeast x Mogli: August Tuesdays",
+        "type": "beach-club",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-25",
+        "importance": 72,
+        "venueName": "Mogli Marbella",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/nile-rodgers-chic-en/",
-        "ticketUrl": null,
-        "summary": "Nile Rodgers & CHIC are confirmed to return to Starlite Occident on Wednesday, 26 August. The official listing highlights CHIC’s disco, pop and dance legacy, with showtime at 22:00.",
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobeast-x-Mogli/42358402/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobeast-x-Mogli/42358402/",
+        "summary": "Weekly poolside Afrobeats, Amapiano, Hip-Hop and Afro-House party at Mogli, running 12:00-20:00 through the summer season with August Tuesday dates.",
         "genres": [
-          "pop",
-          "electronic",
+          "afro-house",
+          "hip-hop",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-rnb-lovers-mogli-2026",
+        "title": "R&B Lovers x Mogli: August Wednesdays",
+        "type": "beach-club",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-26",
+        "importance": 70,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/RB-Lovers-x-Mogli/42358950/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/RB-Lovers-x-Mogli/42358950/",
+        "summary": "Weekly daytime throwback R&B pool party at Mogli, focused on 90s and 00s R&B anthems with DJs in a premium pool-club setting.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "marbella-bad-boujee-tibu-2026",
+        "title": "Bad & Boujee at TIBU: August Fridays",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-28",
+        "importance": 66,
+        "venueName": "TIBU Night Club",
+        "venueId": null,
+        "sourceUrl": "https://www.myguidemarbella.com/no/arrangementer/bad-and-boujee-pa-tibu",
+        "ticketUrl": null,
+        "summary": "Friday-night TIBU residency mixing RnB, Hip-Hop, Afrobeat and house, with August dates on 7, 14, 21 and 28 August and residents Jordan Valleys and DJ PM listed.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-red-cup-tibu-2026",
+        "title": "The Red Cup Party at TIBU: August Thursdays",
+        "type": "club-night",
+        "startDate": "2026-08-06",
+        "endDate": "2026-08-27",
+        "importance": 66,
+        "venueName": "TIBU Night Club",
+        "venueId": null,
+        "sourceUrl": "https://www.myguidemarbella.com/no/arrangementer/the-red-cup-party-pa-tibu",
+        "ticketUrl": null,
+        "summary": "Weekly Thursday urban club night at TIBU with Hip-Hop, RnB, Afrobeats, UK sounds and Bashment, with August dates on 6, 13, 20 and 27 August.",
+        "genres": [
+          "hip-hop",
           "r-and-b"
         ]
       },
       {
-        "id": "marbella-love-of-lesbian-starlite-2026",
-        "title": "Love of Lesbian at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-08-29",
-        "endDate": "2026-08-29",
-        "importance": 82,
-        "venueName": "Starlite Occident, Cantera de Nagüeles",
+        "id": "marbella-backstage-pangea-2026",
+        "title": "Backstage Wednesdays at Pangea Club Marbella",
+        "type": "club-night",
+        "startDate": "2026-08-26",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Pangea | Marbella",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/line-up-2026/",
-        "ticketUrl": "https://www.ticketmaster.es/event/love-of-lesbian-entradas/245251876",
-        "summary": "Love of Lesbian are confirmed on Starlite Occident’s official 2026 lineup for 29 August, closing the listed August run. Ticketmaster also lists the Starlite Auditorium show for Saturday, 29 August at 22:00.",
+        "sourceUrl": "https://www.fatsoma.com/e/9nqpckr4/backstage-wednesdays-at-pangea-club-marbella",
+        "ticketUrl": "https://www.fatsoma.com/e/9nqpckr4/backstage-wednesdays-at-pangea-club-marbella",
+        "summary": "Midweek rooftop club night at Pangea blending House, R&B and Afrobeats above the Puerto Banús marina, listed for 22:00-03:00.",
         "genres": [
-          "pop"
+          "house",
+          "r-and-b",
+          "hip-hop"
         ]
       }
     ]

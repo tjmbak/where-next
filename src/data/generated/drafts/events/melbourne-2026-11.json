@@ -2,65 +2,338 @@
   "slug": "melbourne",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:47:55.781Z",
-  "responseId": "resp_0349fcfbd74368e8006a009a2016c481978d028b0eb166771d",
-  "searchCalls": 13,
+  "generatedAt": "2026-10-13T02:49:07.616Z",
+  "responseId": "resp_099c8943e4099f19006acd9b382a8c87d09227092864f9fc65+resp_046ee52835cc4162006acd9ba9f1e487d081fd63703dbf1067",
+  "searchCalls": 34,
   "citations": [],
   "data": {
     "destinationSlug": "melbourne",
     "month": 11,
     "year": 2026,
-    "notes": "Confirmed November listings are currently strongest for major touring concerts and a few electronic/indie outdoor or club-leaning events; more Melbourne club and festival programs may still be announced closer to the month.",
+    "notes": "November 2026 is especially strong for Melbourne’s electronic scene, with CORE’s Australian debut, A3’s regional weekender and several club-scale house/techno parties around Cup Weekend and late November.",
     "events": [
       {
-        "id": "melbourne-james-morrison-mahalia-barnes-2026",
-        "title": "James Morrison with special guest Mahalia Barnes",
-        "type": "concert",
-        "startDate": "2026-11-01",
-        "endDate": "2026-11-01",
-        "importance": 70,
-        "venueName": "Hamer Hall",
+        "id": "melbourne-core-flemington-2026",
+        "title": "Tomorrowland presents: CORE Melbourne",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 95,
+        "venueName": "Flemington Racecourse",
         "venueId": null,
-        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=JAMESMOR26",
-        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=JAMESMOR26",
-        "summary": "James Morrison and Mahalia Barnes bring a swing-and-soul concert to Hamer Hall, with a band and horn section paying tribute to classics associated with Aretha Franklin, Ray Charles and Tina Turner.",
+        "sourceUrl": "https://www.core.world/es/events/core-melbourne",
+        "ticketUrl": "https://events.humanitix.com/core-melbourne-2026",
+        "summary": "CORE makes its Australian debut at Flemington Racecourse with Tomorrowland’s open-air electronic concept. The confirmed lineup includes Honey Dijon, Moodymann, Mall Grab b2b Effy, TSHA, Dino Lenny, Daria Kolosova, Kobosil, Jennifer Loveless and DJ Jnett.",
         "genres": [
-          "jazz",
-          "r-and-b"
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "melbourne-charlie-puth-whatevers-clever-2026",
-        "title": "Charlie Puth – Whatever’s Clever! World Tour",
-        "type": "concert",
-        "startDate": "2026-11-07",
-        "endDate": "2026-11-07",
-        "importance": 84,
-        "venueName": "Rod Laver Arena",
+        "id": "melbourne-a3-festival-2026",
+        "title": "A3 Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-30",
+        "importance": 90,
+        "venueName": "Lardner Park",
         "venueId": null,
-        "sourceUrl": "https://rodlaverarena.com.au/event/charlie-puth-whatevers-clever-world-tour-melbourne-2026/",
-        "ticketUrl": "https://rodlaverarena.com.au/event/charlie-puth-whatevers-clever-world-tour-melbourne-2026/",
-        "summary": "Charlie Puth returns to Melbourne with the Whatever’s Clever! World Tour, billed as a full-band arena show at Rod Laver Arena.",
+        "sourceUrl": "https://a3festival.com/",
+        "ticketUrl": "https://www.eventbrite.com.au/e/a3-festival-2026-tickets-1555018565389",
+        "summary": "A3 returns to Lardner Park for a four-day electronic music and arts gathering. The confirmed lineup includes VTSS, sim0ne, Kerri Chandler, Skin On Skin, STÜM, Nina Kraviz, Rene Wise, SHDW, LF SYSTEM and more.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-harry-styles-marvel-nov-2026",
+        "title": "Harry Styles — Together, Together",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 88,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/intl_1647457/harry-styles-together-together",
+        "ticketUrl": "https://www.livenation.com/event/intl_1647457/harry-styles-together-together",
+        "summary": "Harry Styles opens his Melbourne run of the Together, Together tour at Marvel Stadium, with Fousheé and Baby J listed on the Live Nation page. The event page confirms the Friday 27 November Melbourne date.",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "melbourne-bunt-pica-2026",
-        "title": "BUNT. | In the Round | Melbourne",
-        "type": "club-night",
-        "startDate": "2026-11-07",
-        "endDate": "2026-11-07",
-        "importance": 74,
-        "venueName": "PICA",
+        "id": "melbourne-amcf-fedsquare-2026",
+        "title": "African Music & Cultural Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 85,
+        "venueName": "Fed Square",
         "venueId": null,
-        "sourceUrl": "https://www.linesapp.co/event/bunt-in-the-round-melbourne-2026-11-07-pica-melbourne",
-        "ticketUrl": "https://www.linesapp.co/event/bunt-in-the-round-melbourne-2026-11-07-pica-melbourne",
-        "summary": "German producer BUNT. brings his stutter-house sound to PICA in Port Melbourne for an in-the-round headline date promoted by TEG Live and Fuzzy.",
+        "sourceUrl": "https://www.amcf.org.au/",
+        "ticketUrl": "https://rsvp.amcf.au/",
+        "summary": "AMCF returns to Fed Square for its 13th year, presenting three days of African music, dance, drumming, fashion, film, markets and food. The official festival site confirms the dates as Friday 20 to Sunday 22 November.",
+        "genres": [
+          "festival",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "melbourne-bicep-underpass-nov-2026",
+        "title": "Novel presents Bicep 1.11",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 84,
+        "venueName": "TBA - The Underpass",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2486262",
+        "ticketUrl": "https://ra.co/events/2486262",
+        "summary": "Bicep play a rare DJ set at The Underpass with 1-800 GIRLS, Pretty Girl and LEXI on the bill. The RA listing confirms the event for Sunday 1 November, 16:00–23:00.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-j-cole-fall-off-2026",
+        "title": "J. Cole — The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 84,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/j-cole-the-fall-off-tour-melbourne-tickets-edp1653886",
+        "ticketUrl": "https://www.livenation.com.au/event/j-cole-the-fall-off-tour-melbourne-tickets-edp1653886",
+        "summary": "J. Cole returns to Australia on The Fall-Off Tour, playing Rod Laver Arena in Melbourne. Live Nation confirms the Sunday 29 November event page, with a Saturday 28 November Melbourne date also listed as an alternative date.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-soothsayer-10-years-2026",
+        "title": "10 Years of Soothsayer",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-02",
+        "importance": 82,
+        "venueName": "Revolver Upstairs",
+        "venueId": "revolver-upstairs",
+        "sourceUrl": "https://ra.co/events/2543658",
+        "ticketUrl": null,
+        "summary": "Naarm institution Soothsayer marks a decade with a 24-hour Revolver takeover featuring Boogs, C.FRIM, DJ JNETT, Kia, Mikalah Watego, Moopie, Sleep D, Wax’o Paradiso and more across techno and house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-daniel-caesar-nov-2026",
+        "title": "Daniel Caesar — Son Of Spergy Tour",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 82,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/daniel-caesar-son-of-spergy-tour-melbourne-tickets-edp1689737",
+        "ticketUrl": "https://www.livenation.com.au/event/daniel-caesar-son-of-spergy-tour-melbourne-tickets-edp1689737",
+        "summary": "Daniel Caesar brings his Son Of Spergy arena tour to Rod Laver Arena. Live Nation confirms the Melbourne date for Sunday 8 November, with an additional Melbourne date listed separately on 9 November.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-khalid-rod-laver-2026",
+        "title": "Khalid — It’s Always Summer Somewhere Tour",
+        "type": "concert",
+        "startDate": "2026-11-15",
+        "endDate": "2026-11-15",
+        "importance": 82,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/khalid-its-always-summer-somewhere-tour-melbourne-2026/",
+        "ticketUrl": "https://rodlaverarena.com.au/event/khalid-its-always-summer-somewhere-tour-melbourne-2026/",
+        "summary": "Khalid returns to Melbourne with his It’s Always Summer Somewhere Tour. Rod Laver Arena confirms the show for Sunday 15 November at 6:30 pm.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-joji-solaris-nov-2026",
+        "title": "JOJI — SOLARIS Tour",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 82,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/joji-solaris-tour-melbourne-tickets-edp1655928",
+        "ticketUrl": "https://www.livenation.com.au/event/joji-solaris-tour-melbourne-tickets-edp1655928",
+        "summary": "Joji’s SOLARIS Tour stops at Rod Laver Arena with Tommy Richman listed as a featured artist. Live Nation confirms the Melbourne date for Tuesday 17 November.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-kerri-chandler-northcote-2026",
+        "title": "Novel presents Kerri Chandler",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 82,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2423108",
+        "ticketUrl": "https://fr.ra.co/events/2423108",
+        "summary": "Novel brings house originator Kerri Chandler to Northcote Theatre for a Friday-night headline show. RA confirms the date as 27 November, 20:30–00:30, and lists the genre as house.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-robyn-sexistential-2026",
+        "title": "Robyn — The Sexistential Tour",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-24",
+        "importance": 80,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/robyn-the-sexistential-tour-melbourne-tickets-edp1650629",
+        "ticketUrl": "https://www.livenation.com.au/event/robyn-the-sexistential-tour-melbourne-tickets-edp1650629",
+        "summary": "Robyn brings The Sexistential Tour to Rod Laver Arena, with Blusher listed as a featured artist. Live Nation confirms the Melbourne show for Tuesday 24 November.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-moodymann-forum-2026",
+        "title": "No Way Back presents Moodymann + TSHA",
+        "type": "club-night",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 80,
+        "venueName": "The Forum Theatre",
+        "venueId": null,
+        "sourceUrl": "https://nl.ra.co/events/2556357",
+        "ticketUrl": "https://nl.ra.co/events/2556357",
+        "summary": "No Way Back brings Detroit house figure Moodymann to The Forum Theatre with special guest TSHA. RA confirms the Melbourne event for Sunday 29 November and lists the genres as house and funk/soul.",
         "genres": [
           "house",
           "electronic"
         ]
+      },
+      {
+        "id": "melbourne-echoes-of-us-2026",
+        "title": "Echoes of Us",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 79,
+        "venueName": "Under The Bridge, Graham ST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2525691",
+        "ticketUrl": null,
+        "summary": "Tang Events brings its Echoes of Us concept to Australia for the first time with a large tech-house/minimal-tech/techno bill including SIDEPIECE, MALAA, Matroda, Marten Hørger, HILLS and Will K.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-high-note-gilles-peterson-2026",
+        "title": "High Note Turns 3 feat. Gilles Peterson + MC Rob Galliano",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 78,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2544760",
+        "ticketUrl": "https://de.ra.co/events/2544760",
+        "summary": "High Note celebrates its third birthday with Gilles Peterson and MC Rob Galliano billed for an exclusive six-hour start-to-finish set. The RA listing also names Alcides Neto, Chuleo FM, DJ Matab, Northside Records DJs and more across the precinct.",
+        "genres": [
+          "jazz",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-all-day-i-dream-2026",
+        "title": "All Day I Dream of Australia | Melbourne",
+        "type": "club-night",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 78,
+        "venueName": "Bourke Street Courtyard",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-melbourne/197778",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-melbourne/197778",
+        "summary": "Return to Rio presents All Day I Dream’s Melbourne date at Bourke Street Courtyard. Moshtix confirms the event for Sunday 29 November at 3:00 pm, and RA lists Lee Burridge, Lost Desert and Double Touch.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-unreal-kuko-2026",
+        "title": "Melbourne pres UNREAL X KUKO All Night Long World Tour",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 78,
+        "venueName": "Melbourne Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2319034",
+        "ticketUrl": null,
+        "summary": "German hard-techno brand UNREAL brings KUKO’s all-night-long world tour to Melbourne Pavilion for an 18+ techno session.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-confide-luna-spring-awakening-2026",
+        "title": "CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 76,
+        "venueName": "Abbotsford Convent",
+        "venueId": null,
+        "sourceUrl": "https://pt.ra.co/events/2541650",
+        "ticketUrl": "https://pt.ra.co/events/2541650",
+        "summary": "CONFIDE and LUNA Blessings present a queer day-to-night gathering at Abbotsford Convent. The lineup includes Aquenta, Ayebatonye, Caucasian Opportunities, DJ Luv You, Junior M, Simona Castricum and TAVONGA among others.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-foo-fighters-marvel-2026",
+        "title": "Foo Fighters – Take Cover Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 92,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/au/events/1328219/foo-fighters-melbourne-tickets",
+        "ticketUrl": "https://www.axs.com/au/events/1328219/foo-fighters-melbourne-tickets",
+        "summary": "Foo Fighters play Marvel Stadium on the Take Cover Tour, with The Belair Lip Bombs and FRENZEE listed as Melbourne supports.",
+        "genres": []
       },
       {
         "id": "melbourne-robbie-williams-britpop-2026",
@@ -74,6 +347,36 @@
         "sourceUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-docklands-11-11-2026/event/2500646DCF7389BE",
         "ticketUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-docklands-11-11-2026/event/2500646DCF7389BE",
         "summary": "Robbie Williams brings the BRITPOP World Tour to Marvel Stadium, with G Flip and The Lottery Winners listed on the Melbourne bill by Ticketmaster.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-iron-maiden-aami-park-2026",
+        "title": "Iron Maiden – Run For Your Lives World Tour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 90,
+        "venueName": "AAMI Park",
+        "venueId": null,
+        "sourceUrl": "https://aamipark.com.au/event/iron-maiden-run-for-your-lives-world-tour-2026/",
+        "ticketUrl": "https://aamipark.com.au/event/iron-maiden-run-for-your-lives-world-tour-2026/",
+        "summary": "Iron Maiden bring their 50th-anniversary Run For Your Lives World Tour to AAMI Park, joined by special guests Megadeth.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-charlie-puth-whatevers-clever-2026",
+        "title": "Charlie Puth – Whatever’s Clever! World Tour",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 84,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/charlie-puth-whatevers-clever-world-tour-melbourne-2026/",
+        "ticketUrl": "https://rodlaverarena.com.au/event/charlie-puth-whatevers-clever-world-tour-melbourne-2026/",
+        "summary": "Charlie Puth returns to Melbourne with the Whatever’s Clever! World Tour, billed as a full-band arena show at Rod Laver Arena.",
         "genres": [
           "pop"
         ]
@@ -95,32 +398,37 @@
         ]
       },
       {
-        "id": "melbourne-iron-maiden-aami-park-2026",
-        "title": "Iron Maiden – Run For Your Lives World Tour",
+        "id": "melbourne-two-door-cinema-club-tourist-history-2026",
+        "title": "Two Door Cinema Club – Tourist History 15th Anniversary Tour",
         "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-13",
-        "importance": 90,
-        "venueName": "AAMI Park",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 80,
+        "venueName": "John Cain Arena",
         "venueId": null,
-        "sourceUrl": "https://aamipark.com.au/event/iron-maiden-run-for-your-lives-world-tour-2026/",
-        "ticketUrl": "https://aamipark.com.au/event/iron-maiden-run-for-your-lives-world-tour-2026/",
-        "summary": "Iron Maiden bring their 50th-anniversary Run For Your Lives World Tour to AAMI Park, joined by special guests Megadeth.",
-        "genres": []
+        "sourceUrl": "https://johncainarena.com.au/event/two-door-cinema-club-tourist-history-15th-anniversary-tour-melbourne-2026/",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=BEEACONM26",
+        "summary": "Two Door Cinema Club perform Tourist History in full plus greatest hits at John Cain Arena, with The Vaccines listed as special guests on the Ticketek event page.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
       },
       {
-        "id": "melbourne-foo-fighters-marvel-2026",
-        "title": "Foo Fighters – Take Cover Tour",
+        "id": "melbourne-live-at-the-gardens-dmas-2026",
+        "title": "Live At The Gardens – DMA’S",
         "type": "concert",
-        "startDate": "2026-11-14",
-        "endDate": "2026-11-14",
-        "importance": 92,
-        "venueName": "Marvel Stadium",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 79,
+        "venueName": "Royal Botanic Gardens Melbourne",
         "venueId": null,
-        "sourceUrl": "https://www.axs.com/au/events/1328219/foo-fighters-melbourne-tickets",
-        "ticketUrl": "https://www.axs.com/au/events/1328219/foo-fighters-melbourne-tickets",
-        "summary": "Foo Fighters play Marvel Stadium on the Take Cover Tour, with The Belair Lip Bombs and FRENZEE listed as Melbourne supports.",
-        "genres": []
+        "sourceUrl": "https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/live-at-the-gardens/",
+        "ticketUrl": "https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/live-at-the-gardens/",
+        "summary": "Live At The Gardens returns to the Observatory Lawn at Royal Botanic Gardens Melbourne, with DMA’S confirmed for the Saturday 28 November date.",
+        "genres": [
+          "pop"
+        ]
       },
       {
         "id": "melbourne-men-i-trust-equus-2026",
@@ -155,52 +463,72 @@
         ]
       },
       {
-        "id": "melbourne-two-door-cinema-club-tourist-history-2026",
-        "title": "Two Door Cinema Club – Tourist History 15th Anniversary Tour",
-        "type": "concert",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-20",
-        "importance": 80,
-        "venueName": "John Cain Arena",
+        "id": "melbourne-bunt-pica-2026",
+        "title": "BUNT. | In the Round | Melbourne",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 74,
+        "venueName": "PICA",
         "venueId": null,
-        "sourceUrl": "https://johncainarena.com.au/event/two-door-cinema-club-tourist-history-15th-anniversary-tour-melbourne-2026/",
-        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=BEEACONM26",
-        "summary": "Two Door Cinema Club perform Tourist History in full plus greatest hits at John Cain Arena, with The Vaccines listed as special guests on the Ticketek event page.",
+        "sourceUrl": "https://www.linesapp.co/event/bunt-in-the-round-melbourne-2026-11-07-pica-melbourne",
+        "ticketUrl": "https://www.linesapp.co/event/bunt-in-the-round-melbourne-2026-11-07-pica-melbourne",
+        "summary": "German producer BUNT. brings his stutter-house sound to PICA in Port Melbourne for an in-the-round headline date promoted by TEG Live and Fuzzy.",
         "genres": [
-          "pop",
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "melbourne-harry-styles-together-together-2026",
-        "title": "Harry Styles – Together, Together",
-        "type": "residency",
-        "startDate": "2026-11-27",
-        "endDate": "2026-11-27",
-        "importance": 96,
-        "venueName": "Marvel Stadium",
+        "id": "melbourne-interstellar-groove-2026",
+        "title": "Interstellar Groove Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-02",
+        "importance": 74,
+        "venueName": "Eagle Ridge Event Park, Tallarook",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.au/harry-styles-together-together-docklands-27-11-2026/event/25006436CFC6E40D",
-        "ticketUrl": "https://www.ticketmaster.com.au/harry-styles-together-together-docklands-27-11-2026/event/25006436CFC6E40D",
-        "summary": "Harry Styles opens his Melbourne Together, Together run at Marvel Stadium, with Fousheé and Baby J listed on the Ticketmaster bill.",
+        "sourceUrl": "https://events.humanitix.com/interstellar-groove-festival-2026",
+        "ticketUrl": "https://events.humanitix.com/interstellar-groove-festival-2026/tickets",
+        "summary": "Boutique Victorian bush electronic gathering running into the first weekend of November, with camping and a program tagged across progressive house, psytrance, techno, house and doof culture.",
         "genres": [
-          "pop"
+          "electronic",
+          "house",
+          "techno",
+          "festival"
         ]
       },
       {
-        "id": "melbourne-live-at-the-gardens-dmas-2026",
-        "title": "Live At The Gardens – DMA’S",
+        "id": "melbourne-james-morrison-mahalia-barnes-2026",
+        "title": "James Morrison with special guest Mahalia Barnes",
         "type": "concert",
-        "startDate": "2026-11-28",
-        "endDate": "2026-11-28",
-        "importance": 79,
-        "venueName": "Royal Botanic Gardens Melbourne",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 70,
+        "venueName": "Hamer Hall",
         "venueId": null,
-        "sourceUrl": "https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/live-at-the-gardens/",
-        "ticketUrl": "https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/live-at-the-gardens/",
-        "summary": "Live At The Gardens returns to the Observatory Lawn at Royal Botanic Gardens Melbourne, with DMA’S confirmed for the Saturday 28 November date.",
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=JAMESMOR26",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=JAMESMOR26",
+        "summary": "James Morrison and Mahalia Barnes bring a swing-and-soul concert to Hamer Hall, with a band and horn section paying tribute to classics associated with Aretha Franklin, Ray Charles and Tina Turner.",
         "genres": [
-          "pop"
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-kofi-stone-2026",
+        "title": "Kofi Stone — All The Flowers Have Bloomed",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "170 Russell",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/kofi-stone-all-the-flowers-have-bloomed/195679",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/kofi-stone-all-the-flowers-have-bloomed/195679",
+        "summary": "UK rapper Kofi Stone’s Melbourne stop at 170 Russell offers a mid-size hip-hop alternative to the month’s arena rap bookings.",
+        "genres": [
+          "hip-hop"
         ]
       }
     ]

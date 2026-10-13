@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 import { notFound } from "next/navigation";
 import { ItineraryPlanner } from "@/components/itineraries/ItineraryPlanner";
 import { getDestinationBySlug } from "@/data/music-travel";
@@ -47,25 +48,15 @@ export default async function PlanPage({ params }: RouteContext) {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
+      <SiteHeader />
+
+      <section className="mx-auto w-full max-w-[820px] px-6 pb-24 pt-8 sm:px-10">
         <Link
           href={`/destinations/${destination.slug}`}
           className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
         >
-          ← back to {destination.city.toLowerCase()}
+          ← {destination.city.toLowerCase()} guide
         </Link>
-      </header>
-
-      <section className="mx-auto w-full max-w-[820px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          plan a trip · {destination.city.toLowerCase()}
-        </p>
         <h1 className="mt-5 text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           A trip to {destination.city.toLowerCase()},
           <br />

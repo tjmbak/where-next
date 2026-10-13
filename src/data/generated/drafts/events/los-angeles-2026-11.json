@@ -2,43 +2,324 @@
   "slug": "los-angeles",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:09:30.175Z",
-  "responseId": "resp_0ea6f9de0d639c7e0069ff5bcd0e008191a8bab8247c835336",
-  "searchCalls": 14,
+  "generatedAt": "2026-10-13T02:39:47.208Z",
+  "responseId": "resp_0f80f65e9cedd5d4006acd98eb358087d08637976b744a25ca+resp_0a91ff5c1b7805dd006acd9968aa3887d094db2a3523002dd0",
+  "searchCalls": 38,
   "citations": [],
   "data": {
     "destinationSlug": "los-angeles",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026 already has a confirmed run of arena, Wiltern, and West Hollywood legacy-rock/metal dates, while most LA club residencies and festival-style lineups have not yet been announced.",
+    "notes": "November 2026 is anchored by Camp Flog Gnaw and major electronic festivals, with LA’s warehouse, queer-club, Latin, and R&B scenes filling the rest of the month.",
     "events": [
       {
-        "id": "los-angeles-marilyn-manson-2026",
-        "title": "Marilyn Manson: Live in Los Angeles",
-        "type": "concert",
-        "startDate": "2026-11-01",
-        "endDate": "2026-11-01",
-        "importance": 74,
-        "venueName": "The Wiltern",
+        "id": "los-angeles-camp-flog-gnaw-2026",
+        "title": "Camp Flog Gnaw Carnival 2026",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 97,
+        "venueName": "Dodger Stadium Grounds",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/marilyn-manson-live-in-los-angeles-los-angeles-01-11-2026/event/09006466890C7815",
-        "ticketUrl": "https://www.ticketmaster.com/marilyn-manson-live-in-los-angeles-los-angeles-01-11-2026/event/09006466890C7815",
-        "summary": "Marilyn Manson headlines The Wiltern on Sunday, November 1, 2026. The Ticketmaster listing confirms the Los Angeles venue and 7:00 PM event time.",
-        "genres": []
+        "sourceUrl": "https://campfloggnaw.com/festival-info/",
+        "ticketUrl": null,
+        "summary": "Tyler, The Creator’s Camp Flog Gnaw returns to Dodger Stadium Grounds on November 14–15, 2026. The official festival site confirms the dates, venue, all-ages policy, noon opening, and 11pm curfew.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
       },
       {
-        "id": "los-angeles-the-liminanas-2026",
-        "title": "The Limiñanas",
-        "type": "concert",
-        "startDate": "2026-11-02",
-        "endDate": "2026-11-02",
-        "importance": 65,
-        "venueName": "Teragram Ballroom",
+        "id": "los-angeles-time-warp-la-2026",
+        "title": "Time Warp Los Angeles 2026",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-28",
+        "importance": 94,
+        "venueName": "ACE*Mission",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/the-liminanas-los-angeles-california-11-02-2026/event/0900647EAF2F92D9",
-        "ticketUrl": "https://www.ticketmaster.com/the-liminanas-los-angeles-california-11-02-2026/event/0900647EAF2F92D9",
-        "summary": "French psych-garage act The Limiñanas play Teragram Ballroom on Monday, November 2, 2026. Ticketmaster lists Native Sun in the event lineup.",
-        "genres": []
+        "sourceUrl": "https://www.time-warp.de/usa/la/",
+        "ticketUrl": "https://timewarpla.frontgatetickets.com/",
+        "summary": "Time Warp debuts in Los Angeles at ACE*Mission on November 27–28, 2026. The official lineup includes Richie Hawtin, Ben Klock, The Martinez Brothers, Helena Hauff b2b Juliana Huxtable, Dennis Ferrer b2b Skream, HAAi, Rødhåd, and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-dreamstate-socal-2026",
+        "title": "Dreamstate SoCal 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 92,
+        "venueName": "Queen Mary Waterfront",
+        "venueId": null,
+        "sourceUrl": "https://socal.dreamstateusa.com/",
+        "ticketUrl": "https://dreamstate.frontgatetickets.com/",
+        "summary": "Insomniac’s trance-focused Dreamstate SoCal is confirmed for November 20–21, 2026, with 2-day and single-day passes on sale. The lineup page lists Above & Beyond, ARTBAT, Astrix, Paul van Dyk, Vini Vici, Infected Mushroom, and many more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-rnb-tour-sofi-2026",
+        "title": "The R&B Tour: Usher Raymond & Chris Brown",
+        "type": "concert",
+        "startDate": "2026-11-15",
+        "endDate": "2026-11-15",
+        "importance": 88,
+        "venueName": "SoFi Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15",
+        "ticketUrl": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15",
+        "summary": "Usher Raymond and Chris Brown bring The R&B Tour to SoFi Stadium on November 15, 2026. The venue page confirms the 7:30 PM start time and notes the show was added due to demand.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-moby-live-pasadena-2026",
+        "title": "Moby Live Pasadena",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 86,
+        "venueName": "Brookside at the Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://mobylivepasadena.com/",
+        "ticketUrl": "https://mobylivepasadena.com/",
+        "summary": "Goldenvoice’s open-air Moby Live Pasadena takes place November 7, 2026 at Brookside at the Rose Bowl. The official bill features Moby, Underworld, Fcukers, Nia Archives DJ set, and DJ Holographic on one stage with no overlapping sets.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-don-omar-kia-forum-2026",
+        "title": "Don Omar: The Last King World Tour",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 84,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/don-omar/",
+        "ticketUrl": "https://thekiaforum.com/event/don-omar/",
+        "summary": "Don Omar plays Kia Forum on November 6, 2026 as part of The Last King World Tour. The official venue page confirms the date and tour title.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-sneaks-birthday-beats-2026",
+        "title": "SNEAK'S BIRTHDAY BEATS 2026",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-16",
+        "importance": 83,
+        "venueName": "TBA - 2341 E Olympic Blvd Los Angeles, CA 90021",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2499458",
+        "ticketUrl": "https://ra.co/events/2499458",
+        "summary": "Certified Groovers stages a major house gathering for DJ Sneak with Derrick Carter, Mark Farina, Doc Martin, Josh Wink, DJ Heather, John Tejada, H-Foundation, Heidi Lawden and more.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-mon-laferte-kia-forum-2026",
+        "title": "Mon Laferte: Femme Fatale Tour",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/mon-laferte/",
+        "ticketUrl": "https://thekiaforum.com/event/mon-laferte/",
+        "summary": "Mon Laferte’s Femme Fatale Tour is confirmed at Kia Forum on November 7, 2026. The official venue page lists the event date and tour name.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-tinashe-palladium-2026",
+        "title": "Tinashe: One Night With A Popstar",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 80,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/tinashe-tickets/artist/1990454?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/tinashe-tickets/artist/1990454?tt_scene=anchor_view",
+        "summary": "Tinashe’s One Night With A Popstar is listed for Hollywood Palladium on November 7, 2026 at 7:00 PM. Ticketmaster confirms the Hollywood date as part of her U.S. concert listings.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-observe-24-anniversary-2026",
+        "title": "OBSERVE 24 Year Anniversary // Chris Liebing [5hr Set] // Truncate // OKTAFORM",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 79,
+        "venueName": "TBA - DTLA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2515135",
+        "ticketUrl": "https://ra.co/events/2515135",
+        "summary": "OBSERVE celebrates 24 years of LA techno with a five-hour Chris Liebing set, Truncate and OKTAFORM visuals in a DTLA warehouse.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-rawayana-kia-forum-2026",
+        "title": "Rawayana: ¿Dónde es el after? World Tour",
+        "type": "concert",
+        "startDate": "2026-11-15",
+        "endDate": "2026-11-15",
+        "importance": 78,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/rawayana/",
+        "ticketUrl": "https://thekiaforum.com/event/rawayana/",
+        "summary": "Rawayana brings the ¿Dónde es el after? World Tour to Kia Forum on November 15, 2026. The official venue page confirms the date and tour title.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-brutalismus-3000-shrine-2026",
+        "title": "Brutalismus 3000: Harmony US Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 78,
+        "venueName": "Shrine Expo Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43388643-brutalismus-3000-at-shrine-expo-hall",
+        "ticketUrl": "https://www.songkick.com/concerts/43388643-brutalismus-3000-at-shrine-expo-hall",
+        "summary": "Brutalismus 3000 plays Shrine Expo Hall on November 19, 2026 with Eurohead, OZA, ali rq, and deBasement. Songkick confirms the Los Angeles date, venue, lineup, and 8 PM doors.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-perreoland-jowell-randy-2026",
+        "title": "PERREOLAND | Los Angeles ft. Jowell y Randy",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "The Mayan",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/perreoland-los-angeles-ft-jowell-y-randy-tickets-2002463693813",
+        "ticketUrl": "https://www.eventbrite.com/e/perreoland-los-angeles-ft-jowell-y-randy-tickets-2002463693813",
+        "summary": "Touring reggaeton party brand PERREOLAND lands at The Mayan with Jowell y Randy for an old-school-vs-new-school reggaeton night.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-bitch-planet-big-freedia-2026",
+        "title": "Bitch Planet: Barbazon presents Big Freedia",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 76,
+        "venueName": "Don Quixote",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2532797",
+        "ticketUrl": "https://ra.co/events/2532797",
+        "summary": "Rhonda INTL, SQUISH, and Bitch Planet present Big Freedia live at Don Quixote on November 6, 2026. The RA listing confirms Big Freedia, UNiiQU3, Star Amerasu, and Cquestt on the lineup.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-rhondavous-ravesgiving-2026",
+        "title": "Rhondavous: The Ravesgiving",
+        "type": "club-night",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 76,
+        "venueName": "Catch One",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2526459",
+        "ticketUrl": "https://ra.co/events/2526459",
+        "summary": "Rhonda INTL’s Thanksgiving Eve party Rhondavous: The Ravesgiving takes over Catch One on November 25, 2026. The RA listing describes five rooms of club concepts running from 6 PM to 4 AM.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-valentino-khan-palladium-2026",
+        "title": "Insomniac presents Valentino Khan",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 75,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/valentino-khan-sf-la-2026/",
+        "ticketUrl": "https://www.insomniac.com/valentino-khan-sf-la-2026/",
+        "summary": "Insomniac presents Valentino Khan at Hollywood Palladium on November 14, 2026. The official Insomniac page confirms the Los Angeles date and venue.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-closer-thermal-6-sense-2026",
+        "title": "CLOSER presents THERMAL with 6 SENSE",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 74,
+        "venueName": "TBA - DTLA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2514233",
+        "ticketUrl": "https://ra.co/events/2514233",
+        "summary": "CLOSER brings Australian duo 6 SENSE to Los Angeles for their LA debut on November 6, 2026. The confirmed RA lineup also includes fun2bjane, S.I.M, Brick, and Dune.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-lights-down-low-yaego-2026",
+        "title": "Lights Down Low feat. yaego",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 74,
+        "venueName": "TBA - Downtown Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2505565",
+        "ticketUrl": "https://ra.co/events/2505565",
+        "summary": "LA party institution Lights Down Low presents yaego on November 7, 2026 at a downtown location disclosed to ticket buyers. The RA listing confirms the 11 PM–4 AM timing and 21+ admission.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
       },
       {
         "id": "los-angeles-bad-gyal-mas-cara-2026",
@@ -56,6 +337,20 @@
           "latin",
           "pop"
         ]
+      },
+      {
+        "id": "los-angeles-three-days-grace-alienation-2026",
+        "title": "Three Days Grace - Alienation Tour",
+        "type": "concert",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 80,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv1AaZkuPGkeRzCMZ/three-days-grace-alienation-tour",
+        "ticketUrl": "https://www.livenation.com/event/vv1AaZkuPGkeRzCMZ/three-days-grace-alienation-tour",
+        "summary": "Three Days Grace closes the U.S. leg of the Alienation Tour at Intuit Dome in nearby Inglewood on Sunday, November 22, 2026. Live Nation lists I Prevail and The Funeral Portrait on the bill.",
+        "genres": []
       },
       {
         "id": "los-angeles-eros-ramazzotti-2026",
@@ -89,20 +384,18 @@
         "genres": []
       },
       {
-        "id": "los-angeles-olafur-arnalds-2026",
-        "title": "Ólafur Arnalds",
+        "id": "los-angeles-the-damned-final-damnation-2026",
+        "title": "The Damned - Final Damnation 50",
         "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-13",
-        "importance": 73,
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 78,
         "venueName": "The Wiltern",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/olafur-arnalds-los-angeles-california-11-13-2026/event/09006428B4269410",
-        "ticketUrl": "https://www.ticketmaster.com/olafur-arnalds-los-angeles-california-11-13-2026/event/09006428B4269410",
-        "summary": "Icelandic composer and electronic/classical artist Ólafur Arnalds performs at The Wiltern on Friday, November 13, 2026. The Ticketmaster listing confirms the date, venue, and 7:00 PM time.",
-        "genres": [
-          "electronic"
-        ]
+        "sourceUrl": "https://www.ticketmaster.com/the-damned-final-damnation-50-los-angeles-california-11-17-2026/event/09006490C927A3CF",
+        "ticketUrl": "https://www.ticketmaster.com/the-damned-final-damnation-50-los-angeles-california-11-17-2026/event/09006490C927A3CF",
+        "summary": "Punk pioneers The Damned bring their Final Damnation 50 show to The Wiltern on Tuesday, November 17, 2026. Ticketmaster lists Flamin' Groovies and The Courettes as support.",
+        "genres": []
       },
       {
         "id": "los-angeles-l7-last-hurrah-2026",
@@ -119,31 +412,96 @@
         "genres": []
       },
       {
-        "id": "los-angeles-the-damned-final-damnation-2026",
-        "title": "The Damned - Final Damnation 50",
+        "id": "los-angeles-neobounce-ueberrest-2026",
+        "title": "NeoBounce Presents: Ueberrest (LA Debut)",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 76,
+        "venueName": "Secret location in Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/neo-bounce-presents-ueberrest-la-debut",
+        "ticketUrl": "https://shotgun.live/en/events/neo-bounce-presents-ueberrest-la-debut",
+        "summary": "NeoBounce brings German hard-techno/bounce act Ueberrest to Los Angeles for a late-night secret-location debut with Casska, Khrome, and NoWhere Inc. supporting.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-marilyn-manson-2026",
+        "title": "Marilyn Manson: Live in Los Angeles",
         "type": "concert",
-        "startDate": "2026-11-17",
-        "endDate": "2026-11-17",
-        "importance": 78,
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 74,
         "venueName": "The Wiltern",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/the-damned-final-damnation-50-los-angeles-california-11-17-2026/event/09006490C927A3CF",
-        "ticketUrl": "https://www.ticketmaster.com/the-damned-final-damnation-50-los-angeles-california-11-17-2026/event/09006490C927A3CF",
-        "summary": "Punk pioneers The Damned bring their Final Damnation 50 show to The Wiltern on Tuesday, November 17, 2026. Ticketmaster lists Flamin' Groovies and The Courettes as support.",
+        "sourceUrl": "https://www.ticketmaster.com/marilyn-manson-live-in-los-angeles-los-angeles-01-11-2026/event/09006466890C7815",
+        "ticketUrl": "https://www.ticketmaster.com/marilyn-manson-live-in-los-angeles-los-angeles-01-11-2026/event/09006466890C7815",
+        "summary": "Marilyn Manson headlines The Wiltern on Sunday, November 1, 2026. The Ticketmaster listing confirms the Los Angeles venue and 7:00 PM event time.",
         "genres": []
       },
       {
-        "id": "los-angeles-three-days-grace-alienation-2026",
-        "title": "Three Days Grace - Alienation Tour",
+        "id": "los-angeles-olafur-arnalds-2026",
+        "title": "Ólafur Arnalds",
         "type": "concert",
-        "startDate": "2026-11-22",
-        "endDate": "2026-11-22",
-        "importance": 80,
-        "venueName": "Intuit Dome",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 73,
+        "venueName": "The Wiltern",
         "venueId": null,
-        "sourceUrl": "https://www.livenation.com/event/vv1AaZkuPGkeRzCMZ/three-days-grace-alienation-tour",
-        "ticketUrl": "https://www.livenation.com/event/vv1AaZkuPGkeRzCMZ/three-days-grace-alienation-tour",
-        "summary": "Three Days Grace closes the U.S. leg of the Alienation Tour at Intuit Dome in nearby Inglewood on Sunday, November 22, 2026. Live Nation lists I Prevail and The Funeral Portrait on the bill.",
+        "sourceUrl": "https://www.ticketmaster.com/olafur-arnalds-los-angeles-california-11-13-2026/event/09006428B4269410",
+        "ticketUrl": "https://www.ticketmaster.com/olafur-arnalds-los-angeles-california-11-13-2026/event/09006428B4269410",
+        "summary": "Icelandic composer and electronic/classical artist Ólafur Arnalds performs at The Wiltern on Friday, November 13, 2026. The Ticketmaster listing confirms the date, venue, and 7:00 PM time.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-fear-factory-demanufacture-2026",
+        "title": "Fear Factory Performing Demanufacture in Its Entirety",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 72,
+        "venueName": "Whisky A Go Go",
+        "venueId": null,
+        "sourceUrl": "https://whiskyagogo.com/calendar/events/14771933/fear-factory-performing-demanufacture-in-its-entirety-darkest-hour-brotality-stepa-of-the-betrayer/",
+        "ticketUrl": "https://whiskyagogo.com/calendar/events/14771933/fear-factory-performing-demanufacture-in-its-entirety-darkest-hour-brotality-stepa-of-the-betrayer/",
+        "summary": "Industrial-metal band Fear Factory performs Demanufacture in full at Whisky A Go Go on Saturday, November 28, 2026. The venue calendar lists Darkest Hour, Brotality, Stepa, and Of The Betrayer on the bill.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-pj-morton-2026",
+        "title": "PJ Morton – Saturday Night Sunday Morning Tour",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "The United Theater on Broadway",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1412249/pj-morton-tickets",
+        "ticketUrl": "https://www.axs.com/events/1412249/pj-morton-tickets",
+        "summary": "Goldenvoice-presented Los Angeles stop for PJ Morton’s Saturday Night Sunday Morning Tour, a non-arena R&B/soul date at The United Theater on Broadway.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "los-angeles-the-liminanas-2026",
+        "title": "The Limiñanas",
+        "type": "concert",
+        "startDate": "2026-11-02",
+        "endDate": "2026-11-02",
+        "importance": 65,
+        "venueName": "Teragram Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-liminanas-los-angeles-california-11-02-2026/event/0900647EAF2F92D9",
+        "ticketUrl": "https://www.ticketmaster.com/the-liminanas-los-angeles-california-11-02-2026/event/0900647EAF2F92D9",
+        "summary": "French psych-garage act The Limiñanas play Teragram Ballroom on Monday, November 2, 2026. Ticketmaster lists Native Sun in the event lineup.",
         "genres": []
       },
       {
@@ -161,18 +519,52 @@
         "genres": []
       },
       {
-        "id": "los-angeles-fear-factory-demanufacture-2026",
-        "title": "Fear Factory Performing Demanufacture in Its Entirety",
-        "type": "concert",
-        "startDate": "2026-11-28",
-        "endDate": "2026-11-28",
-        "importance": 72,
-        "venueName": "Whisky A Go Go",
+        "id": "los-angeles-obscene-industrial-2026",
+        "title": "Obscene (Goth / Industrial / EBM / Darkwave)",
+        "type": "club-night",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-13",
+        "importance": 62,
+        "venueName": "The Slipper Clutch",
         "venueId": null,
-        "sourceUrl": "https://whiskyagogo.com/calendar/events/14771933/fear-factory-performing-demanufacture-in-its-entirety-darkest-hour-brotality-stepa-of-the-betrayer/",
-        "ticketUrl": "https://whiskyagogo.com/calendar/events/14771933/fear-factory-performing-demanufacture-in-its-entirety-darkest-hour-brotality-stepa-of-the-betrayer/",
-        "summary": "Industrial-metal band Fear Factory performs Demanufacture in full at Whisky A Go Go on Saturday, November 28, 2026. The venue calendar lists Darkest Hour, Brotality, Stepa, and Of The Betrayer on the bill.",
-        "genres": []
+        "sourceUrl": "https://ra.co/events/2348304",
+        "ticketUrl": null,
+        "summary": "Los Angeles Industrial’s monthly DTLA dark-music night, with residents Industria Nova and Damascus Knives playing EBM and industrial all night with vendors.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-rnb-wednesdays-mama-shelter-2026",
+        "title": "R&B Wednesdays at Mama Shelter",
+        "type": "residency",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-19",
+        "importance": 62,
+        "venueName": "Mama Shelter",
+        "venueId": null,
+        "sourceUrl": "https://www.free2funla.com/events/tag/things-to-do-with-singles-los-angeles/2026-11/",
+        "ticketUrl": null,
+        "summary": "Recurring Hollywood R&B showcase associated with Bongo ByTheWay and Sterling Simms, pairing live-band R&B performances with DJ-led rooftop nightlife at Mama Shelter.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-hyper-muse-2026",
+        "title": "HYPER-MUSE",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 60,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420095",
+        "ticketUrl": "https://ra.co/events/2420095",
+        "summary": "Horror Hi-Fi’s free RA-ticketed electronica club night at a TBA Los Angeles location, listed for a 10 PM–2 AM run with lineup still to be announced.",
+        "genres": [
+          "electronic"
+        ]
       }
     ]
   }

@@ -1,0 +1,215 @@
+{
+  "slug": "new-orleans",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:40:08.745Z",
+  "responseId": "resp_0692f1f11b417980006acda755bdf087d091fe0f04fa2dc95e+resp_09932a9a300dfefc006acda7b4f94487d081113922506b62cb",
+  "searchCalls": 40,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is still early on the announcement cycle, but confirmed listings already mix touring club/venue shows with Black Masking Indian traditions and Hogs for the Cause.",
+    "events": [
+      {
+        "id": "new-orleans-hogs-for-the-cause-2027",
+        "title": "Hogs for the Cause",
+        "type": "festival",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-20",
+        "importance": 86,
+        "venueName": "UNO Lakefront Arena Festival Grounds",
+        "venueId": null,
+        "sourceUrl": "https://www.neworleans.com/event/hogs-for-the-cause/3264/",
+        "ticketUrl": "https://www.neworleans.com/event/hogs-for-the-cause/3264/",
+        "summary": "Hogs for the Cause is confirmed for March 19–20, 2027 as a two-day barbecue and music fundraiser in New Orleans. The 2027 music lineup had not been announced at research time.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-st-josephs-night-2027",
+        "title": "St. Joseph’s Night 2027 Mardi Gras Indian Masking Day",
+        "type": "carnival",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-19",
+        "importance": 84,
+        "venueName": "Uptown & Downtown New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://oddusee.com/indians/business/st-josephs-night-2027/",
+        "ticketUrl": null,
+        "summary": "Black Masking Indian tribes come out after dark for St. Joseph’s Night, with the listing specifying Uptown and Downtown routes from 6:00 PM to midnight. Expect the tradition's chants, drums, suits, and neighborhood processions rather than a conventional stage lineup.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-uptown-super-sunday-2027",
+        "title": "Uptown Super Sunday 2027 Mardi Gras Indian Masking Day",
+        "type": "carnival",
+        "startDate": "2027-03-21",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "A.L. Davis Park",
+        "venueId": null,
+        "sourceUrl": "https://oddusee.com/indians/business/uptown-super-sunday-2027/",
+        "ticketUrl": null,
+        "summary": "Daytime Uptown Super Sunday gathering and procession from A.L. Davis Park, one of the city’s core Black Masking Indian culture moments, with vendors, sound trucks and post-procession activity expected along the route.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-downtown-super-sunday-2027",
+        "title": "Downtown Super Sunday 2027 Mardi Gras Indian Masking Day",
+        "type": "carnival",
+        "startDate": "2027-03-28",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Bayou St. John",
+        "venueId": null,
+        "sourceUrl": "https://oddusee.com/indians/business/downtown-super-sunday-2027/",
+        "ticketUrl": null,
+        "summary": "Downtown/Bayou St. John edition of Super Sunday, bringing Black Masking Indian tribes and neighborhood crowds into a daytime cultural procession rooted in New Orleans street, drum and masking traditions.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-sylvan-esso-tipitinas-2027",
+        "title": "Sylvan Esso",
+        "type": "concert",
+        "startDate": "2027-03-11",
+        "endDate": "2027-03-11",
+        "importance": 80,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14753423/sylvan-esso/",
+        "ticketUrl": "https://tipitinas.com/event/14753423/sylvan-esso/",
+        "summary": "Sylvan Esso plays an evening show at Tipitina's, one of New Orleans' key live-music rooms. The venue lists doors at 7:00 PM and showtime at 8:00 PM.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-death-cab-saenger-2027",
+        "title": "Death Cab for Cutie w/ Swapmeet",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-26",
+        "importance": 78,
+        "venueName": "Saenger Theatre New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvUv8",
+        "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvUv8",
+        "summary": "Death Cab for Cutie headlines the Saenger Theatre New Orleans with Swapmeet. Ticketmaster lists the show for Friday, March 26 at 7:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-sammy-rae-hob-2027",
+        "title": "Sammy Rae & The Friends - the GET DOWN!",
+        "type": "concert",
+        "startDate": "2027-03-14",
+        "endDate": "2027-03-14",
+        "importance": 76,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/house-of-blues-new-orleans-billets-new-orleans/venue/221834?page=1&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/house-of-blues-new-orleans-billets-new-orleans/venue/221834?page=1&tt_scene=anchor_view",
+        "summary": "Sammy Rae & The Friends bring their GET DOWN! tour to House of Blues New Orleans. The venue calendar lists the show for Sunday, March 14 at 7:00 PM.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-needtobreathe-fillmore-2027",
+        "title": "NEEDTOBREATHE: The Long Surrender Tour",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-19",
+        "importance": 75,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-fillmore-new-orleans-billets-new-orleans/venue/222653?page=1&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/the-fillmore-new-orleans-billets-new-orleans/venue/222653?page=1&tt_scene=anchor_view",
+        "summary": "NEEDTOBREATHE headlines The Fillmore New Orleans on The Long Surrender Tour, with The National Parks appearing on the tour routing. The confirmed Fillmore listing is for 6:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-alaska-thunderfuck-hob-2027",
+        "title": "Alaska Thunderf*ck: The Revolution Tour",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-26",
+        "importance": 72,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/house-of-blues-new-orleans-billets-new-orleans/venue/221834?page=1&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/house-of-blues-new-orleans-billets-new-orleans/venue/221834?page=1&tt_scene=anchor_view",
+        "summary": "Alaska Thunderf*ck brings The Revolution Tour to House of Blues New Orleans. The venue calendar confirms the event for Friday, March 26 at 7:00 PM.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-sungazer-gasa-gasa-2027",
+        "title": "Sungazer with Button Masher",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 68,
+        "venueName": "Gasa Gasa",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1654859/sungazer-tickets",
+        "ticketUrl": "https://www.axs.com/events/1654859/sungazer-tickets",
+        "summary": "Sungazer appears at Gasa Gasa with Button Masher for a late-night Freret Street show listed at 9:00 PM.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-mico-hob-2027",
+        "title": "MICO - IN:BETWEEN TOUR",
+        "type": "concert",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-02",
+        "importance": 65,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/mico-inbetween-tour-new-orleans-louisiana-03-02-2027/event/1B006545C4AE315F?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/mico-inbetween-tour-new-orleans-louisiana-03-02-2027/event/1B006545C4AE315F?tt_scene=anchor_view",
+        "summary": "MICO brings the IN:BETWEEN TOUR to House of Blues New Orleans, with doors listed at 7:00 PM and showtime at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-valencia-grace-gasa-gasa-2027",
+        "title": "Valencia Grace",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-25",
+        "importance": 65,
+        "venueName": "Gasa Gasa",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/valencia-grace-gasa-gasa-tickets/14221924",
+        "ticketUrl": "https://www.ticketweb.com/event/valencia-grace-gasa-gasa-tickets/14221924",
+        "summary": "Valencia Grace plays Gasa Gasa at 9:00 PM, with doors listed at 8:00 PM. The listing describes the artist's sound as modern pop with synth-driven dance production and theatrical elements.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

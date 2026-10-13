@@ -1,0 +1,400 @@
+{
+  "slug": "melbourne",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:29:14.512Z",
+  "responseId": "resp_01ff379679ecdf76006acda4964a8087d09bbee60036201a4f+resp_09a4a7db84fe32c6006acda536fe5887d09dfe4b559b8905d8",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is unusually strong for Melbourne: Laneway and St Kilda anchor the festival calendar, while Flemington, the Bowl, Forum and warehouse-style electronic shows fill out the month.",
+    "events": [
+      {
+        "id": "melbourne-laneway-festival-feb-2027",
+        "title": "Laneway Festival Melbourne 2027",
+        "type": "festival",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-19",
+        "importance": 92,
+        "venueName": "Flemington Park",
+        "venueId": null,
+        "sourceUrl": "https://www.lanewayfestival.com/melbourne/event-info",
+        "ticketUrl": "https://www.lanewayfestival.com/melbourne/ticket-guide-prices",
+        "summary": "Melbourne’s Laneway stop is confirmed for Flemington Park with a 2027 lineup headed by Fontaines D.C., The Hayley Williams Show, Kim Petras, MUNA, Rico Nasty, DIIV, Slayyyter, Ninajirachi and 1TBSP.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-bruno-mars-marvel-feb-2027",
+        "title": "Bruno Mars – The Romantic Tour",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-24",
+        "importance": 92,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/venue/303717?attractionId=1466801",
+        "ticketUrl": "https://www.ticketmaster.com.au/bruno-mars-tickets/artist/1466801",
+        "summary": "Bruno Mars brings The Romantic Tour to Marvel Stadium for a four-date Melbourne run, with Tyla and DJ Pee .Wee listed on the tour billing.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-calvin-harris-flemington-feb-2027",
+        "title": "Calvin Harris – Australia Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-28",
+        "importance": 90,
+        "venueName": "Flemington Racecourse",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/calvin-harris-melbourne-tickets-edp1699371",
+        "ticketUrl": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-flemington-28-02-2027/event/2500653094A93091",
+        "summary": "Calvin Harris’ first Australian headline tour includes multiple Flemington Racecourse dates, bringing a large-scale outdoor electronic show to Melbourne’s festival corridor.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-st-kilda-festival-feb-2027",
+        "title": "St Kilda Festival 2027",
+        "type": "festival",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-21",
+        "importance": 88,
+        "venueName": "St Kilda Foreshore",
+        "venueId": null,
+        "sourceUrl": "https://www.stkildafestival.com.au/festival-info/about-the-festival",
+        "ticketUrl": null,
+        "summary": "The free two-day St Kilda Festival returns to the foreshore with First Peoples First programming and Big Festival Sunday, continuing one of Melbourne’s largest local-music traditions.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-strokes-rod-laver-feb-2027",
+        "title": "The Strokes – Reality Awaits Australia 2027",
+        "type": "concert",
+        "startDate": "2027-02-16",
+        "endDate": "2027-02-17",
+        "importance": 86,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/the-strokes-reality-awaits-melbourne-2027/",
+        "ticketUrl": "https://www.livenation.com.au/event/the-strokes-reality-awaits-melbourne-tickets-edp1699419",
+        "summary": "The Strokes’ Reality Awaits run plays Rod Laver Arena across two Melbourne nights with Courtney Barnett and Promiseland as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-empire-of-the-sun-bowl-feb-2027",
+        "title": "Empire Of The Sun – Ask That God: Afterlife Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 86,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.frontiertouring.com/empireofthesun",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=THSPINSM27",
+        "summary": "Empire Of The Sun bring the Ask That God: Afterlife Tour to Sidney Myer Music Bowl, billed as the final live instalment of the Ask That God journey.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-hayley-williams-forum-feb-2027",
+        "title": "The Hayley Williams Show",
+        "type": "concert",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-17",
+        "importance": 84,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=THAYWILS27&v=FRM",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=THAYWILS27&v=FRM",
+        "summary": "Hayley Williams plays an intimate Melbourne headline date at Forum Melbourne, with the show billed around material from her solo albums and surprise selections.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-orkestrated-wool-store-2027",
+        "title": "Orkestrated - Return To The Underground",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": null,
+        "importance": 81,
+        "venueName": "The Wool Store",
+        "venueId": null,
+        "sourceUrl": "https://untitledgroup.com.au/events-tours/orkestrated",
+        "ticketUrl": "https://www.ticketmaster.com.au/orkestrated-tickets/artist/4710491",
+        "summary": "Melbourne bounce pioneers Orkestrated return for a sold-out hometown warehouse-scale show celebrating the underground sound they helped shape.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-lizzy-mcalpine-bowl-feb-2027",
+        "title": "Lizzy McAlpine – The Over Country Tour",
+        "type": "concert",
+        "startDate": "2027-02-10",
+        "endDate": "2027-02-10",
+        "importance": 80,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=CILNGSM27",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=CILNGSM27",
+        "summary": "Lizzy McAlpine’s The Over Country Tour stops at Sidney Myer Music Bowl with special guest Mila Bea.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-fkj-pica-feb-2027",
+        "title": "FKJ – Tyber Tour",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 80,
+        "venueName": "PICA – Port Melbourne Industrial Centre for the Arts",
+        "venueId": null,
+        "sourceUrl": "https://moshtix.com.au/v2/event/fkj-tyber-tour/197538",
+        "ticketUrl": "https://moshtix.com.au/v2/event/fkj-tyber-tour/197538",
+        "summary": "FKJ returns to Australia and New Zealand with the Tyber Tour, bringing his live looping, improvisational electronic-soul show to PICA.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-yellowman-queen-ifrica-2027",
+        "title": "King Yellowman (JAM) + Queen Ifrica (JAM)",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://moshtix.com.au/v2/event/king-yellowman-jam-queen-ifrica-jam/198749",
+        "ticketUrl": "https://moshtix.com.au/v2/event/king-yellowman-jam-queen-ifrica-jam/198749",
+        "summary": "Stick Mareebo Productions brings Jamaican dancehall pioneer King Yellowman and roots-reggae heavyweight Queen Ifrica to Northcote Theatre, with Monkey Marc on DJ support.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-bastille-festival-hall-feb-2027",
+        "title": "Bastille Australian Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 76,
+        "venueName": "Festival Hall Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.bastillebastille.com/",
+        "ticketUrl": "https://www.facetofacetouring.com.au/current-tours/bastille-australian-tour",
+        "summary": "Bastille’s official tour page confirms a Melbourne stop at Festival Hall as part of the band’s 2027 Australian run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-chicane-timberyard-feb-2027",
+        "title": "30 Years of Chicane – Australian National Tour Melbourne",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 76,
+        "venueName": "The Timber Yard",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-timberyard-melbourne/199911",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-timberyard-melbourne/199911",
+        "summary": "Chicane marks 30 years with a daytime Timber Yard show featuring Anthony Pappa, aimed squarely at Melbourne’s house and trance audience.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-josh-baker-riva-2027",
+        "title": "Josh Baker",
+        "type": "club-night",
+        "startDate": "2027-02-14",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Riva",
+        "venueId": null,
+        "sourceUrl": "https://untitledgroup.com.au/events-tours/joshbaker",
+        "ticketUrl": "https://untitledgroup.com.au/events-tours/joshbaker",
+        "summary": "Manchester house/tech-house DJ Josh Baker brings his You&Me-rooted underground house profile to a Valentine’s Day Melbourne show at Riva via Untitled.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-onefour-back-outside-2027",
+        "title": "ONEFOUR - Back Outside Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Pier Bandroom",
+        "venueId": null,
+        "sourceUrl": "https://pierbandroomfb.oztix.com.au/outlet/event/c44138b0-b0ff-48ed-8d9c-42e4a7c2264c?Event=244730",
+        "ticketUrl": "https://pierbandroomfb.oztix.com.au/outlet/event/c44138b0-b0ff-48ed-8d9c-42e4a7c2264c?Event=244730",
+        "summary": "Western Sydney drill group ONEFOUR bring their Back Outside Tour to Frankston’s Pier Bandroom, a substantial Australian hip-hop/drill booking for greater Melbourne.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-st-kilda-blues-festival-feb-2027",
+        "title": "St Kilda Blues Festival 2027",
+        "type": "festival",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-28",
+        "importance": 74,
+        "venueName": "Various St Kilda venues",
+        "venueId": null,
+        "sourceUrl": "https://stkildabluesfestival.com.au/",
+        "ticketUrl": null,
+        "summary": "St Kilda Blues Festival is confirmed for the last weekend of February, presenting a free venue-based blues and roots program across Acland Street, Fitzroy Street and The Esplanade.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "melbourne-holly-humberstone-forum-feb-2027",
+        "title": "Holly Humberstone – Australia Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-10",
+        "endDate": "2027-02-10",
+        "importance": 73,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=HUMHOL27&v=FRM",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=HUMHOL27&v=FRM",
+        "summary": "Holly Humberstone’s confirmed Melbourne return lands at Forum Melbourne on the same night as several other major February tour stops.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-bob-marley-birthday-bash-2027",
+        "title": "Bob Marley Birthday Bash",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Corner Hotel",
+        "venueId": null,
+        "sourceUrl": "https://themusic.com.au/gigs/bob-marley-birthday-bash/xhOBk3iVQaU",
+        "ticketUrl": "https://tickets.cornerhotel.com/outlet/event/",
+        "summary": "The 23rd annual Bob Marley Birthday Bash returns with Jamaican roots-reggae headliner Iba Mahr plus a broad local reggae lineup, making it a notable diaspora roots event.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-bts-arirang-marvel-2027",
+        "title": "BTS World Tour ‘Arirang’ in Melbourne",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-13",
+        "importance": 94,
+        "venueName": "Marvel Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/bts-tickets-adp830746",
+        "ticketUrl": "https://www.ticketmaster.com.au/bts-tickets/artist/2110227",
+        "summary": "BTS are confirmed for two Melbourne stadium concerts at Marvel Stadium on 12 and 13 February 2027. Live Nation lists both Melbourne dates as part of the Australian leg of the tour.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-midsumma-festival-feb-2027",
+        "title": "Midsumma Festival 2027",
+        "type": "festival",
+        "startDate": "2027-01-17",
+        "endDate": "2027-02-07",
+        "importance": 85,
+        "venueName": "Multiple venues across Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.midsumma.org.au/info/midsumma-festival-dates/",
+        "ticketUrl": "https://www.midsumma.org.au/",
+        "summary": "Melbourne’s major LGBTQIA+ arts and culture festival runs into February, with a program that includes live music, parties, cabaret, performance and community events. The official dates page confirms the 2027 festival dates and major-event framework.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-human-league-generations-2027",
+        "title": "The Human League – Generations: The Greatest Hits Tour",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 76,
+        "venueName": "Palais Theatre",
+        "venueId": null,
+        "sourceUrl": "https://thehumanleague.co.uk/",
+        "ticketUrl": "https://www.destroyalllines.com/tours/thehumanleague",
+        "summary": "The Human League bring their Generations Australia & New Zealand Tour to Palais Theatre in St Kilda. The official artist site lists the Melbourne date as 05/02 at Palais Theatre.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-citizen-halcyon-blues-2027",
+        "title": "Citizen – Halcyon Blues Australian Tour with Drug Church",
+        "type": "concert",
+        "startDate": "2027-02-28",
+        "endDate": "2027-02-28",
+        "importance": 70,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.destroyalllines.com/tours/citizen-2027",
+        "ticketUrl": "https://www.destroyalllines.com/tours/citizen-2027",
+        "summary": "Citizen bring the Halcyon Blues Australian Tour to Forum Melbourne with special guests Drug Church. Destroy All Lines lists the Melbourne show for Sunday 28 February 2027.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-club-palisades-toff-2027",
+        "title": "Club Palisades x The Toff",
+        "type": "club-night",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-07",
+        "importance": 65,
+        "venueName": "The Toff in Town",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2379384",
+        "ticketUrl": "https://ra.co/events/2379384",
+        "summary": "Club Palisades hosts a house-focused night at The Toff in Town with Joey Coco, Mickey P, DYNO and Dave Giovanni. Resident Advisor lists the event for Sunday 7 February 2027, 23:00–03:00.",
+        "genres": [
+          "house"
+        ]
+      }
+    ]
+  }
+}

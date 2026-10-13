@@ -1,0 +1,172 @@
+{
+  "slug": "montreal",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:10:16.000Z",
+  "responseId": "resp_0abfe97721c388f2006acdaea0e82087d09067b8c2c2df5d80+resp_09ff4f1c7a4e02b4006acdaef69c0087d0af144eb5b1891e28",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 6,
+    "year": 2027,
+    "notes": "As of research, Montreal’s confirmed June 2027 music calendar is anchored by Francos de Montréal and the opening weekend of Festival International de Jazz de Montréal, with most club-night and outdoor electronic programming not yet announced.",
+    "events": [
+      {
+        "id": "montreal-jazz-festival-jun-2027",
+        "title": "Festival International de Jazz de Montréal 2027",
+        "type": "festival",
+        "startDate": "2027-06-25",
+        "endDate": "2027-07-04",
+        "importance": 95,
+        "venueName": "Quartier des spectacles",
+        "venueId": null,
+        "sourceUrl": "https://montrealjazzfest.com/en",
+        "ticketUrl": "https://montrealjazzfest.com/en",
+        "summary": "The 47th edition of Festival International de Jazz de Montréal is confirmed for June 25–July 4, 2027. The official festival site confirms the dates, with detailed artist programming still to come.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-francos-jun-2027",
+        "title": "Francos de Montréal 2027",
+        "type": "festival",
+        "startDate": "2027-06-11",
+        "endDate": "2027-06-19",
+        "importance": 90,
+        "venueName": "Quartier des spectacles / Place des Arts",
+        "venueId": null,
+        "sourceUrl": "https://francosmontreal.com/en",
+        "ticketUrl": "https://francosmontreal.com/en",
+        "summary": "The 38th edition of Francos de Montréal is confirmed for June 11–19, 2027. The festival centers French-language music across pop, hip-hop, electro, folk and other contemporary styles in downtown Montréal.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-gilles-vigneault-francos-2027",
+        "title": "Célébrer Gilles Vigneault: Au cœur du pays",
+        "type": "concert",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 65,
+        "venueName": "Salle Wilfrid-Pelletier",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/evenement/gilles-vigneault-au-coeur-du-pays",
+        "ticketUrl": "https://www.placedesarts.com/evenement/gilles-vigneault-au-coeur-du-pays",
+        "summary": "A Francos de Montréal concert celebrating Gilles Vigneault’s songbook, with Lou-Adriane Cassidy, Louis-Jean Cormier, Patrice Michaud, Ariane Moffatt and Ariane Roy listed among the invited artists. The Place des Arts page confirms one performance on June 12, 2027 at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-emile-proulx-cloutier-2027",
+        "title": "Émile Proulx-Cloutier: Ma main au feu - Solo",
+        "type": "concert",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-16",
+        "importance": 62,
+        "venueName": "Théâtre Maisonneuve",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/evenement/emile-proulx-cloutier",
+        "ticketUrl": "https://www.placedesarts.com/evenement/emile-proulx-cloutier",
+        "summary": "Émile Proulx-Cloutier performs a Francos de Montréal solo show featuring songs from Ma main au feu and his repertoire. The Place des Arts page confirms one performance on June 16, 2027 at 21:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-ferland-symphonique-jun-2027",
+        "title": "Ferland symphonique with the OSM",
+        "type": "concert",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-05",
+        "importance": 78,
+        "venueName": "Maison symphonique",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/en/event/ferland-symphonique",
+        "ticketUrl": "https://www.placedesarts.com/en/event/ferland-symphonique",
+        "summary": "GSI Musique and Oziko present a symphonic tribute to Jean-Pierre Ferland, performed by the Orchestre symphonique de Montréal under conductor Alain Trudel with arrangements by Blair Thomson. The Place des Arts listing confirms five performances from June 2 to 5, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-la-belle-helene-jun-2027",
+        "title": "La Belle Hélène",
+        "type": "concert",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-12",
+        "importance": 76,
+        "venueName": "Maison symphonique",
+        "venueId": null,
+        "sourceUrl": "https://orchestre.ca/la-belle-helene/",
+        "ticketUrl": "https://orchestre.ca/la-belle-helene/",
+        "summary": "The Orchestre classique de Montréal and Festival Classica present Offenbach’s operetta La Belle Hélène in a new staging by Lorraine Pintal, starring mezzo-soprano Marie-Nicole Lemieux with Andrei Feher conducting. The official OCM page confirms performances on June 10 and June 12, 2027 at Maison symphonique.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-bach-en-fete-jun-2027",
+        "title": "Les Violons du Roy: Bach en fête!",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-04",
+        "importance": 66,
+        "venueName": "Salle Bourgie",
+        "venueId": null,
+        "sourceUrl": "https://www.violonsduroy.com/en/programming/montreal-season/2027-06-04_19h30_bach-en-fete-4977/",
+        "ticketUrl": "https://www.violonsduroy.com/en/programming/montreal-season/2027-06-04_19h30_bach-en-fete-4977/",
+        "summary": "Les Violons du Roy close their Montreal season at Salle Bourgie with a Bach concerto program led by Bernard Labadie. The program includes the Triple Concerto in A minor, Brandenburg Concerto No. 3 and other works for soloists and orchestra.",
+        "genres": []
+      },
+      {
+        "id": "montreal-concert-ghibli-jun-2027",
+        "title": "Orchestre de Jeux Vidéo: Concert Ghibli",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 64,
+        "venueName": "Église Saint-Jean-Baptiste",
+        "venueId": null,
+        "sourceUrl": "https://orchestre-ojv.ca/fr/concerts",
+        "ticketUrl": "https://www.eventbrite.ca/e/billets-concert-ghibli-1988495218728",
+        "summary": "The Orchestre de Jeux Vidéo presents a Studio Ghibli-themed orchestral concert in Montreal. The official OJV concerts page confirms the June 5, 2027 performance at Église Saint-Jean-Baptiste.",
+        "genres": []
+      },
+      {
+        "id": "montreal-ovmf-hades-jun-2027",
+        "title": "OVMF: Concert Hades I-II",
+        "type": "concert",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-19",
+        "importance": 63,
+        "venueName": "Salle Marguerite-Bourgeoys",
+        "venueId": null,
+        "sourceUrl": "https://ovmf.qc.ca/boutique/concerts/concert-hades-270619/",
+        "ticketUrl": "https://ovmf.qc.ca/boutique/concerts/concert-hades-270619/",
+        "summary": "The OVMF Choir presents music from Hades and Hades II reimagined for choir, orchestra and rock-metal group. The official OVMF event page confirms the June 19, 2027 performance at Salle Marguerite-Bourgeoys.",
+        "genres": []
+      },
+      {
+        "id": "montreal-ovmf-zelda-wind-waker-jun-2027",
+        "title": "OVMF: Concert Zelda Wind Waker",
+        "type": "concert",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 61,
+        "venueName": "Salle Marguerite-Bourgeoys",
+        "venueId": null,
+        "sourceUrl": "https://ovmf.qc.ca/boutique/passes-de-saison/passe-gamer-2026-2027/",
+        "ticketUrl": "https://ovmf.qc.ca/boutique/passes-de-saison/passe-gamer-2026-2027/",
+        "summary": "The Orchestre à Vents de Musiques de Films lists Concert Zelda Wind Waker as part of its 2026–2027 gamer pass, confirming the June 12, 2027 performance at Salle Marguerite-Bourgeoys. It is a live wind-orchestra concert devoted to video-game music.",
+        "genres": []
+      }
+    ]
+  }
+}

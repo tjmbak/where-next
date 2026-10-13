@@ -1,0 +1,34 @@
+{
+  "slug": "cartagena",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:41:53.598Z",
+  "responseId": "resp_05777c9f010c1113006acda7c09d9487d0be925218491cdee6+resp_0b0a9ebae848d60c006acda812d43487d0a0a44246bda3ec25",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 3,
+    "year": 2027,
+    "notes": "Verified March 2027 Cartagena scene listings were sparse across RA, Shotgun, DICE, Eventbrite/Fixr-style searches and local ticketing; generic bar crawls, tours, and non-March events were omitted.",
+    "events": [
+      {
+        "id": "cartagena-invasion-2027",
+        "title": "Invasión Cartagena 2027",
+        "type": "festival",
+        "startDate": "2027-03-11",
+        "endDate": "2027-03-15",
+        "importance": 62,
+        "venueName": "Radisson Ocean Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://invasioncartagena.com/",
+        "ticketUrl": "https://invasioncartagena.com/",
+        "summary": "Small-cap destination Latin dance week by SNDY Music LLC with Zumba masterclasses, Caribbean/Latin instructors, an island class day, sunset bay tour, themed party, and closing dinner; capped at 50 participants.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

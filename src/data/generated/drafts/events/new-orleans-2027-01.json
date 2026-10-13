@@ -1,0 +1,267 @@
+{
+  "slug": "new-orleans",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:12:57.429Z",
+  "responseId": "resp_004581d55954009c006acda0d28ba087d086220a8d7b9dfc3d+resp_01e5f76c110c9d3c006acda159fbe087d08f4573f8e47870e8",
+  "searchCalls": 40,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is early Carnival season in New Orleans, with confirmed parade culture alongside Tipitina’s roots-rock and Jazz Market jazz/R&B dates.",
+    "events": [
+      {
+        "id": "new-orleans-mardi-gras-indian-ball-2027",
+        "title": "4th Annual New Orleans Mardi Gras Indian Ball",
+        "type": "carnival",
+        "startDate": "2027-01-08",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/4th-annual-new-orleans-mardi-gras-indian-ball-tickets-2002800270523?aff=ebdssbdestsearch",
+        "ticketUrl": "https://www.eventbrite.com/e/4th-annual-new-orleans-mardi-gras-indian-ball-tickets-2002800270523?aff=ebdssbdestsearch",
+        "summary": "Ticketed Carnival-season ball led by Big Queen Lo Lawless, centered on New Orleans Mardi Gras Indian culture and advertised as a night to groove and celebrate one of the city’s defining Black masking traditions.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-krewe-du-vieux-2027",
+        "title": "Krewe du Vieux",
+        "type": "carnival",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 80,
+        "venueName": "French Quarter / Marigny route",
+        "venueId": null,
+        "sourceUrl": "https://www.neworleans.com/event/krewe-du-vieux/3242/",
+        "ticketUrl": null,
+        "summary": "Krewe du Vieux is confirmed for January 23, 2027 on the official New Orleans tourism calendar. The satirical Carnival parade is one of the earliest and most distinctive downtown parades of the season.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-chewbacchus-2027",
+        "title": "Intergalactic Krewe of Chewbacchus Parade",
+        "type": "carnival",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 78,
+        "venueName": "Bywater / Faubourg Marigny / French Quarter route",
+        "venueId": null,
+        "sourceUrl": "https://chewbacchus.org/",
+        "ticketUrl": null,
+        "summary": "The Intergalactic Krewe of Chewbacchus is confirmed for January 16, 2027 at 7:00 PM. The sci-fi Carnival walking krewe is one of New Orleans' signature early-season parades.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-donald-harrison-new-jam-band-2027",
+        "title": "DONALD HARRISON NEW JAM BAND INITIATIVE",
+        "type": "concert",
+        "startDate": "2027-01-27",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/donald-harrison-tickets/artist/769260?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/donald-harrison-tickets/artist/769260?tt_scene=anchor_view",
+        "summary": "NEA Jazz Master and Big Chief Donald Harrison presents a New Jam Band Initiative at New Orleans Jazz Market, described in listings as blending post-bop, funk, soul and hip-hop into his New Orleans-rooted “nouveau swing” approach.",
+        "genres": [
+          "jazz",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-radiators-2-0-2027",
+        "title": "The Radiators 2.0",
+        "type": "concert",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15",
+        "importance": 76,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14370564/the-radiators-2-0/",
+        "ticketUrl": "https://tipitinas.com/event/14370564/the-radiators-2-0/",
+        "summary": "The New Orleans roots-rock institution The Radiators 2.0 plays the first night of a confirmed two-night Tipitina's run. Doors are listed at 8:00 PM with showtime at 9:00 PM.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-tailor-made-2027",
+        "title": "TAILOR MADE 2027: New Year’s Day Black Tie Boat Ride",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Creole Queen",
+        "venueId": null,
+        "sourceUrl": "https://www.tickettailor.com/events/soundwaveent/2431320",
+        "ticketUrl": "https://www.tickettailor.com/events/soundwaveent/2431320",
+        "summary": "I AM LEGACI / Rock The Boat-style New Year’s Day Mississippi River cruise with DJs playing hip-hop, R&B, Afrobeats, reggae, classics and more; formal black-tie dress code, boarding at 7 PM and sailing 8–10 PM.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "new-orleans-kermit-ruffins-barbecue-swingers-2027",
+        "title": "Kermit Ruffins and the Barbecue Swingers",
+        "type": "concert",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "importance": 75,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kermit-ruffins-and-the-barbecue-swingers-new-orleans-louisiana-01-26-2027/event/1B00648D9DB09AA5",
+        "ticketUrl": "https://www.ticketmaster.com/kermit-ruffins-and-the-barbecue-swingers-new-orleans-louisiana-01-26-2027/event/1B00648D9DB09AA5",
+        "summary": "New Orleans trumpeter, vocalist, and bandleader Kermit Ruffins appears with the Barbecue Swingers at New Orleans Jazz Market. The event page highlights his traditional jazz, funk, and R&B-rooted New Orleans sound.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-radiators-tipitinas-2027",
+        "title": "The Radiators 2.0 — Two-Night Run",
+        "type": "concert",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-16",
+        "importance": 73,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.ticketweb.com/event/the-radiators-20-tipitinas-tickets/14370604",
+        "ticketUrl": "https://www.ticketweb.com/event/the-radiators-20-tipitinas-tickets/14370604",
+        "summary": "Two-night Tipitina’s run by New Orleans cult favorites The Radiators 2.0, a local-club weekend rather than an arena play; shows start at 9 PM with 18+ admission.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-aj-mclean-better-man-2027",
+        "title": "AJ McLean presents Alexander James: The Better Man Tour",
+        "type": "concert",
+        "startDate": "2027-01-31",
+        "endDate": "2027-01-31",
+        "importance": 72,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_KMx5hm4/aj-mclean-presents-alexander-james-the-better-man-tour",
+        "ticketUrl": "https://www.livenation.com/event/G5viZ_KMx5hm4/aj-mclean-presents-alexander-james-the-better-man-tour",
+        "summary": "AJ McLean brings his Alexander James: The Better Man Tour to House of Blues New Orleans. Live Nation lists the show for January 31, 2027 at 7:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-judy-collins-farewell-2027",
+        "title": "Judy Collins - Sweet Judy Blue Eyes: Farewell",
+        "type": "concert",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-17",
+        "importance": 70,
+        "venueName": "The Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/judy-collins-sweet-judy-blue-eyes-new-orleans-louisiana-01-17-2027/event/1B0064F4BDC3B420",
+        "ticketUrl": "https://www.ticketmaster.com/judy-collins-sweet-judy-blue-eyes-new-orleans-louisiana-01-17-2027/event/1B0064F4BDC3B420",
+        "summary": "Folk-pop singer Judy Collins brings her Sweet Judy Blue Eyes farewell tour to The Joy Theater. The Ticketmaster event lists Judy Collins in the lineup with an 8:00 PM start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-temptation-fitness-fete-2027",
+        "title": "TEMPTATION: FITNESS FETE",
+        "type": "club-night",
+        "startDate": "2027-01-09",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Location TBD",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/temptation-fitness-fete-tickets-2000946340368",
+        "ticketUrl": "https://www.eventbrite.com/e/temptation-fitness-fete-tickets-2000946340368",
+        "summary": "General K Promotions’ annual winter soca fete, billed as 100% soca all night with top international DJs, workout-attire theme, and a 10 PM–4 AM late-night format.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-eddie-9v-2027",
+        "title": "Eddie 9V + Nether Hour",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 69,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/14218594/eddie-9v/",
+        "ticketUrl": "https://tipitinas.com/event/14218594/eddie-9v/",
+        "summary": "Atlanta blues, soul, and Southern-rock artist Eddie 9V plays Tipitina's with Nether Hour. Tipitina's lists doors at 8:00 PM and showtime at 9:00 PM.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-west-africa-nubian-queens-2027",
+        "title": "Krewe of West Africa Nubian Queens Recruit (Gumbo Nation)",
+        "type": "carnival",
+        "startDate": "2027-01-30",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "New Orleans East Area",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/krewe-of-west-africa-nubian-queens-recruit-gumbo-nation-tickets-1975844358665",
+        "ticketUrl": "https://www.eventbrite.com/e/krewe-of-west-africa-nubian-queens-recruit-gumbo-nation-tickets-1975844358665",
+        "summary": "NOLA Krewe of West Africa community Carnival meet-and-greet/party in New Orleans East, advertised with dancing, gumbo, soulful vibes and recruitment around the Krewe of Gumbo Nations parade culture.",
+        "genres": [
+          "festival",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-berkley-take-504-2027",
+        "title": "Berkley The Artist - \"Take 504\"",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 66,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/berkley-the-artist-new-orleans-louisiana-01-16-2027/event/1B0065372C51549C",
+        "ticketUrl": "https://www.ticketmaster.com/berkley-the-artist-new-orleans-louisiana-01-16-2027/event/1B0065372C51549C",
+        "summary": "New Orleans-bred singer-songwriter Berkley The Artist brings the Take 504 show to New Orleans Jazz Market. The event page describes his sound as blending gospel, soul, jazz, R&B, and hip-hop influences.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-black-jacket-symphony-thriller-2027",
+        "title": "The Black Jacket Symphony Presents Michael Jackson's 'Thriller'",
+        "type": "concert",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 62,
+        "venueName": "Jefferson Performing Arts Center",
+        "venueId": null,
+        "sourceUrl": "https://www.jeffersonpac.com/events/detail/the-black-jacket-symphony-presents-michael-jacksons-thriller",
+        "ticketUrl": "https://www.jeffersonpac.com/events/detail/the-black-jacket-symphony-presents-michael-jacksons-thriller",
+        "summary": "The Black Jacket Symphony recreates Michael Jackson's Thriller live in full, followed by a set of Michael Jackson hits. Bogdan Ioan is listed as vocalist for the tour.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

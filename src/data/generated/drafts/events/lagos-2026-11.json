@@ -2,16 +2,186 @@
   "slug": "lagos",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:16:20.758Z",
-  "responseId": "resp_01f4e4dd9783974e0069ff5d730bbc81919498bd6b6e58d245",
-  "searchCalls": 15,
+  "generatedAt": "2026-10-13T02:40:24.442Z",
+  "responseId": "resp_052cac369e85968c006acd993aaf3c87d0bec031b5c3304639+resp_0cd343dbc9ff61eb006acd99bc8c5c87d0b394c8481dfa227f",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "lagos",
     "month": 11,
     "year": 2026,
-    "notes": "Confirmed November 2026 music programming in Lagos is still limited this far out, with Entertainment Week Africa as the main announced anchor.",
+    "notes": "November’s confirmed Lagos calendar is anchored by creative-industry festivals and art-week programming, with late-month Afrobeats/live-performance events starting to appear ahead of Detty December.",
     "events": [
+      {
+        "id": "lagos-canex-wknd-2026",
+        "title": "CANEX WKND 2026",
+        "type": "conference",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-08",
+        "importance": 86,
+        "venueName": "Wole Soyinka Centre for Culture and Creative Arts",
+        "venueId": null,
+        "sourceUrl": "https://wknd.canex.africa/",
+        "ticketUrl": "https://wknd.canex.africa/",
+        "summary": "Afreximbank’s Creative Africa Nexus flagship event comes to Lagos for four days of creative-industry programming. The official site confirms live performances, CANEX Music Factory and a CANEX WKND Music Concert showcasing artists from Africa and the diaspora.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-livespot-x-festival-2026",
+        "title": "Livespot X Festival",
+        "type": "festival",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 86,
+        "venueName": "Livespot Entertarium",
+        "venueId": null,
+        "sourceUrl": "https://tix.dot360.co/event/livespot-x-festival",
+        "ticketUrl": "https://tix.dot360.co/event/livespot-x-festival",
+        "summary": "Livespot X Festival is confirmed for 22 November at Livespot Entertarium as the flagship music event of Livespot and the crown jewel of Entertainment Week Africa. The ticket page promises major African-artist performances, with specific lineup details still to be announced.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-entertainment-week-africa-2026",
+        "title": "Entertainment Week Africa 2026",
+        "type": "conference",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-22",
+        "importance": 84,
+        "venueName": "Livespot Entertarium and multiple Lagos locations",
+        "venueId": null,
+        "sourceUrl": "https://ewafrica.com/",
+        "ticketUrl": "https://tix.dot360.co/event/entertainment-week-africa-day-sessions",
+        "summary": "Entertainment Week Africa is confirmed for 17–22 November in Lagos, with summits, markets, showcases and live experiences across music, film, fashion, tech, art and live events. The official programme includes a music track and night experiences culminating in Livespot X Festival.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-art-x-live-2026",
+        "title": "ART X Lagos 2026 / ART X Live!",
+        "type": "festival",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-08",
+        "importance": 78,
+        "venueName": "ART X Lagos venue TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.artxlagos.com/programme",
+        "ticketUrl": "https://www.artxlagos.com/",
+        "summary": "ART X Lagos is confirmed for 5–8 November 2026 and its programme includes ART X Live!, the fair’s music-and-visual-art performance platform. The 2026 artist lineup and detailed ART X Live! set time have not yet been published.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-turn-up-lagos-2026",
+        "title": "Turn Up Lagos",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://ewafrica.com/experiences/",
+        "ticketUrl": null,
+        "summary": "Entertainment Week Africa lists Turn Up Lagos for 20 November as its nightlife event. The official description confirms an Afrobeats, amapiano and global-sounds party within EWA’s 2026 signature experiences.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-orlando-owoh-festival-2026",
+        "title": "Dr. Orlando Owoh Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 73,
+        "venueName": "KYMA Beach, Elegushi, Lekki",
+        "venueId": null,
+        "sourceUrl": "https://pmnewsnigeria.com/2026/10/12/orlando-owoh-music-festival-2026-holds-nov-7-in-lagos/",
+        "ticketUrl": null,
+        "summary": "A tribute festival for highlife and Kenery music icon Dr. Orlando Owoh, scheduled from 3pm to 4am at KYMA Beach. Organisers confirm Kenery, jùjú, highlife, Afrobeat, live bands, DJs and cultural displays.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "lagos-lagos-fringe-nov-2026",
+        "title": "Lagos Fringe 2026",
+        "type": "festival",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-08",
+        "importance": 72,
+        "venueName": "Multiple venues, Lagos",
+        "venueId": null,
+        "sourceUrl": "https://lagosfringe.com/2026-programme/",
+        "ticketUrl": "https://lagosfringe.com/",
+        "summary": "The 2026 Lagos Fringe programme runs 3–8 November with theatre, film, music, performance and social experiences across Lagos. The published schedule includes music/performance slots plus late-night RAVE programming within the festival week.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-lagos-island-block-party-glow-2026",
+        "title": "Lagos Island Block Party – Glow Edition",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Hotel Lawa",
+        "venueId": null,
+        "sourceUrl": "https://www.busyupdates.com/lagos-island-block-party-brings-the-glow-edition-to-lagos-this-november/",
+        "ticketUrl": "https://www.busyupdates.com/lagos-island-block-party-brings-the-glow-edition-to-lagos-this-november/",
+        "summary": "JMB Entertainment’s Lagos Island Block Party edition, with DJs Saulty, Ferra and Cool DJ Bee, positions itself as a premium Lagos Island community nightlife and culture gathering rather than an arena show.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-dai-verse-experience-2026",
+        "title": "The Dai Verse Experience 2026 - The Third Edition",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 70,
+        "venueName": "POP Landmark",
+        "venueId": null,
+        "sourceUrl": "https://event.landmarkafrica.com/event/the-dai-verse-experience-2026-the-third-edition1790181037",
+        "ticketUrl": "https://event.landmarkafrica.com/event/the-dai-verse-experience-2026-the-third-edition1790181037",
+        "summary": "Dai Verse’s third-edition live experience is confirmed for 27 November at POP Landmark, running 7pm–4am. The event page lists a live performance by Dai Verse, special guest acts, curated sounds and full production by 10Stringz Production x Live And Wavy.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lagos-livafterdark-vi-2026",
+        "title": "LIVafterDark VI, Lagos",
+        "type": "residency",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-27",
+        "importance": 61,
+        "venueName": "LIVbykuiknosh Restaurant & Grills",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/livafterdark-vi-lagos-tickets-1997505142653",
+        "ticketUrl": "https://www.eventbrite.com/e/livafterdark-vi-lagos-tickets-1997505142653",
+        "summary": "A recurring Victoria Island pre-club hangout billed around Afro-house and amapiano music, guest DJs, dancers and live entertainment, with November dates covered by the multiple-date ticket listing.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "electronic"
+        ]
+      },
       {
         "id": "lagos-ewa-music-festival-2026",
         "title": "EWA Music Festival",
@@ -28,42 +198,6 @@
           "festival",
           "amapiano",
           "house"
-        ]
-      },
-      {
-        "id": "lagos-turn-up-lagos-2026",
-        "title": "Turn Up Lagos",
-        "type": "club-night",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-20",
-        "importance": 78,
-        "venueName": null,
-        "venueId": null,
-        "sourceUrl": "https://ewafrica.com/music-events/",
-        "ticketUrl": null,
-        "summary": "EWA lists Turn Up Lagos for 7 PM on Friday, November 20, 2026. The event is billed as a nightlife experience with DJs and artists spanning Afrobeats, Amapiano, house, and global sounds; the lineup is not yet announced.",
-        "genres": [
-          "amapiano",
-          "house",
-          "pop"
-        ]
-      },
-      {
-        "id": "lagos-livespot-x-festival-2026",
-        "title": "Livespot X Festival",
-        "type": "festival",
-        "startDate": "2026-11-22",
-        "endDate": "2026-11-22",
-        "importance": 88,
-        "venueName": null,
-        "venueId": null,
-        "sourceUrl": "https://ewafrica.com/music-events/",
-        "ticketUrl": null,
-        "summary": "EWA lists Livespot X Festival for 6 PM on Sunday, November 22, 2026. The event is described as Livespot360’s flagship large-scale live music event with major African and international performers; the 2026 lineup is not yet announced.",
-        "genres": [
-          "festival",
-          "pop",
-          "hip-hop"
         ]
       },
       {

@@ -2,48 +2,48 @@
   "slug": "paris",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:20:59.155Z",
-  "responseId": "resp_0cdb4d54b1dab6420069ff5e549f6c81929678ab914fc81a09",
-  "searchCalls": 16,
+  "generatedAt": "2026-10-13T02:30:05.257Z",
+  "responseId": "resp_067b203ed8cda236006acd96d5b10c87d0b227cadc641be24a+resp_08fbb3a8aa46c7a4006acd974db75487d0afef0bb1e10f5e77",
+  "searchCalls": 31,
   "citations": [],
   "data": {
     "destinationSlug": "paris",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is already anchored by major arena pop/rap dates, electronic standouts, and two confirmed multi-day industry/festival events.",
+    "notes": "October balances industry showcases, electronic Halloween week, diaspora/world-music programming and arena-scale pop, rap and Afrobeats concerts.",
     "events": [
       {
-        "id": "paris-celine-dion-oct-residency-2026",
-        "title": "Céline Dion Paris 2026 – October residency dates",
-        "type": "residency",
-        "startDate": "2026-10-02",
-        "endDate": "2026-10-17",
-        "importance": 96,
-        "venueName": "Paris La Défense Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.dion2026.com/",
-        "ticketUrl": "https://www.dion2026.com/",
-        "summary": "Céline Dion’s Paris residency continues through October with confirmed dates on October 2, 3, 7, 9, 10, 14, 16 and 17 at Paris La Défense Arena. The run is billed as sixteen Paris dates from September 12 to October 17, 2026.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "paris-dream-nation-oct-2026",
-        "title": "Dream Nation Festival 2026",
+        "id": "paris-dream-nation-2026",
+        "title": "Dream Nation Festival 2026 — Halloween Edition",
         "type": "festival",
         "startDate": "2026-10-30",
         "endDate": "2026-10-31",
-        "importance": 92,
+        "importance": 95,
         "venueName": "Parc des Expositions Paris Nord Villepinte",
         "venueId": null,
-        "sourceUrl": "https://dreamnation.fr/en/2026/04/20/dream-nation-festival-2026-first-wave-of-artists-announced/",
-        "ticketUrl": "https://dreamnation.fr/en/2026/04/20/dream-nation-festival-2026-first-wave-of-artists-announced/",
-        "summary": "Dream Nation returns for two Halloween-themed electronic nights at Paris Nord Villepinte. The first wave includes Pendulum, Vini Vici, The Bloody Beetroots, Flux Pavilion, Da Tweekaz, Novah, Alignment and more across techno, bass, trance and hard music stages.",
+        "sourceUrl": "https://dreamnation.fr/",
+        "ticketUrl": null,
+        "summary": "Dream Nation’s 13th edition brings two Halloween nights of electronic music to Paris Nord Villepinte, with NOVAH, Vini Vici, Pendulum DJ set, Netsky, Angerfist live, Da Tweekaz, Infected Mushroom and many more on the bill.",
         "genres": [
           "electronic",
           "techno",
           "festival"
+        ]
+      },
+      {
+        "id": "paris-celine-dion-residency-2026",
+        "title": "Céline Dion Paris 2026",
+        "type": "residency",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 94,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://paris.celinedion.com/?lang=en",
+        "ticketUrl": "https://www.dion2026.com/product?date=10",
+        "summary": "Céline Dion’s Paris 2026 limited engagement reaches its October run at Paris La Défense Arena; the 17 October performance is a confirmed representative date from the residency schedule.",
+        "genres": [
+          "pop"
         ]
       },
       {
@@ -53,11 +53,11 @@
         "startDate": "2026-10-14",
         "endDate": "2026-10-16",
         "importance": 88,
-        "venueName": "Pigalle & Montmartre venues",
+        "venueName": "Pigalle and Montmartre venues",
         "venueId": null,
-        "sourceUrl": "https://mama-musicandconvention.com/en/a-propos/",
-        "ticketUrl": "https://mama-musicandconvention.com/en/a-propos/",
-        "summary": "MaMA returns from Wednesday October 14 to Friday October 16, 2026, combining a music-industry convention with public concerts across Pigalle and Montmartre. The official 2026 artist lineup has not yet been published.",
+        "sourceUrl": "https://mama-musicandconvention.com/en/",
+        "ticketUrl": "https://shotgun.live/fr/festivals/ma-ma-music-du-14-au-16-octobre-2026",
+        "summary": "The 17th edition of MaMA returns to Pigalle and Montmartre for three days of music-industry convention programming and emerging-artist showcases across multiple venues.",
         "genres": [
           "festival",
           "electronic",
@@ -65,18 +65,263 @@
         ]
       },
       {
-        "id": "paris-the-strokes-accor-2026",
+        "id": "paris-chevry-agency-8th-2026",
+        "title": "Chevry Agency: 8th Anniversary [XXL Format · 4 Stages]",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-10",
+        "importance": 85,
+        "venueName": "FVTVR / Wanderlust",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/chevry-agency-8th-anniversary-xxl-format-4-stages",
+        "ticketUrl": "https://shotgun.live/en/events/chevry-agency-8th-anniversary-xxl-format-4-stages",
+        "summary": "A 22-hour, four-stage anniversary by Chevry Agency across FVTVR and Wanderlust, billed with 34+ international guests and 4,000 people expected.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-paris-electronic-week-2026",
+        "title": "Paris Electronic Week 26",
+        "type": "conference",
+        "startDate": "2026-09-30",
+        "endDate": "2026-10-04",
+        "importance": 84,
+        "venueName": "Mains d’Œuvres / La Station - Gare des Mines / Petit Bain / Point Éphémère / TLM",
+        "venueId": null,
+        "sourceUrl": "https://www.pariselectronicweek.com/programme",
+        "ticketUrl": "https://www.pariselectronicweek.com/billetterie",
+        "summary": "Technopol’s electronic-music convention and festival runs across Paris-area venues with conferences, workshops and live/club programming including Femme Bass Mafia, La Station live sets and Mains d’Œuvres showcases.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-jazz-sur-seine-2026",
+        "title": "Festival Jazz sur Seine 2026",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-24",
+        "importance": 84,
+        "venueName": "Multiple Paris and Île-de-France jazz clubs",
+        "venueId": null,
+        "sourceUrl": "https://www.parisjazzclub.net/en/events/festival-jazz-sur-seine-2026?view=grid",
+        "ticketUrl": "https://www.parisjazzclub.net/en/events/festival-jazz-sur-seine-2026?view=grid",
+        "summary": "Paris Jazz Club’s anniversary edition spans 30 venues with 200 concerts and 450+ artists, foregrounding the city’s year-round club jazz ecosystem across jazz, blues, soul and fusion.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-asake-2026",
+        "title": "Asake: In God We Trust World Tour",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/asake-in-god-we-trust-world-tour--5d369",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/asake-in-god-we-trust-world-tour--5d369",
+        "summary": "Nigerian Afrobeats star Asake plays Accor Arena on his In God We Trust World Tour, with BNXN and TxC listed as support.",
+        "genres": [
+          "amapiano",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-le-sserafim-pureflow-2026",
+        "title": "2026 LE SSERAFIM Tour ‘Pureflow’ in Paris",
+        "type": "concert",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 83,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/2026-le-sserafim-tour-pureflow-in-paris--7f679",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/2026-le-sserafim-tour-pureflow-in-paris--7f679",
+        "summary": "LE SSERAFIM play their first France concert at Accor Arena as part of the 2026 ‘Pureflow’ tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-the-strokes-2026",
         "title": "The Strokes",
         "type": "concert",
         "startDate": "2026-10-22",
         "endDate": "2026-10-22",
-        "importance": 88,
+        "importance": 83,
         "venueName": "Accor Arena",
         "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/the-strokes--27510",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/the-strokes--27510",
-        "summary": "The Strokes play a landmark Paris arena show at Accor Arena on October 22, 2026. The venue page confirms the band will perform around the release of their upcoming seventh album, Reality Awaits, alongside catalog material.",
-        "genres": []
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/the-strokes--27510",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/the-strokes--27510",
+        "summary": "The Strokes bring an arena-scale Paris date to Accor Arena, with the venue billing the show around new album material plus the band’s catalogue classics.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-temet-fata-morgana-2026",
+        "title": "TEMET x Fata Morgana",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "La Station - Gare des Mines",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2522696",
+        "ticketUrl": "https://ra.co/events/2522696",
+        "summary": "RA Pick experimental-club takeover at La Station with Amnesia Scanner DJ set, k means b2b Simo Cell, Rosa Pistola, Rodrigue Dubois live and Fata Morgana all-stars.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-amapianoland-halloween-2026",
+        "title": "AMAPIANOLAND - Amapiano & Afrobeats Halloween Day Party",
+        "type": "festival",
+        "startDate": "2026-10-18",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Pantin",
+        "venueId": null,
+        "sourceUrl": "https://openagenda.com/fr/shotgun/events/70195606_amapianoland-amapiano-and-afrobeats-halloween-day-party",
+        "ticketUrl": "https://shotgun.live/festivals/amapianoland-fete-de-la-musique-festival-2",
+        "summary": "WhatsTheMotiveUK brings the touring AmapianoLand brand to Greater Paris for a 2,000-person day party centered on amapiano, afrobeats, kwaito and Afro-house culture.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-villes-musiques-monde-2026",
+        "title": "Villes des Musiques du Monde 2026",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-11-08",
+        "importance": 82,
+        "venueName": "Paris and Seine-Saint-Denis venues",
+        "venueId": null,
+        "sourceUrl": "https://www.villesdesmusiquesdumonde.com/le-festival/programmation/",
+        "ticketUrl": null,
+        "summary": "The world/diaspora music festival’s October programme includes Paris and near-Paris dates with Imarhan, Sulaf, Temenik Electric, Tiwiza, Séksion Maloya, Alune Wade and other cross-cultural projects.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "paris-arte-concert-festival-2026",
+        "title": "ARTE Concert Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 82,
+        "venueName": "La Gaîté Lyrique",
+        "venueId": null,
+        "sourceUrl": "https://concerts.paris/events/serie-arte-concert-festival-soiree-1",
+        "ticketUrl": null,
+        "summary": "ARTE Concert Festival returns to La Gaîté Lyrique for two free evenings of live performances and encounters, with reported 2026 names including Shygirl and Kneecap.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-youssou-ndour-grand-bal-2026",
+        "title": "Le Grand Bal — Youssou Ndour & Le Super Étoile de Dakar",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 82,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/le-grand-bal-youssou-ndour-and-le-super-etoile-de-dakar--6c14e",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/le-grand-bal-youssou-ndour-and-le-super-etoile-de-dakar--6c14e",
+        "summary": "Youssou Ndour and Le Super Étoile de Dakar bring the mythic Grand Bal back to Accor Arena with guests and surprises announced for the Paris show.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-free-your-funk-theo-parrish-2026",
+        "title": "Free Your Funk présente Theo Parrish All Night Long",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 82,
+        "venueName": "La Bellevilloise",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2534147",
+        "ticketUrl": "https://fr.ra.co/events/2534147",
+        "summary": "Detroit house figure Theo Parrish returns to Paris for a rare vinyl-only all-night set for Free Your Funk, with Matt Ma Moustache and Wolff also listed upstairs.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-spectrum-waves-pride-2026",
+        "title": "Spectrum Waves: Pride edition",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "DOCK B",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2529570",
+        "ticketUrl": "https://ra.co/events/2529570",
+        "summary": "Large queer house/techno night by Spectrum Waves at DOCK B with two rooms, a no-photo/no-video policy and a sold-out advance allocation; RA listed 1.9K interested.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-djs-for-flirt-2026",
+        "title": "Djs for FLIRT",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "La Station - Gare des Mines",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2548732",
+        "ticketUrl": "https://ra.co/events/2548732",
+        "summary": "RA Pick La Station night bringing together Oklou, DJ Assou, Bamao b2b Fetva, Urtrax b2b Lux18 and more for leftfield pop, bass, techno and hazy club textures.",
+        "genres": [
+          "electronic",
+          "pop",
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-deepsea-grooves-2026",
+        "title": "Deepsea Grooves: Chez Damier, Mézigue, Vitaline & More",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Kilomètre25",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/deepsea-groove-vitaline-mezigue-chez-damier-kilometre25",
+        "ticketUrl": "https://shotgun.live/en/events/deepsea-groove-vitaline-mezigue-chez-damier-kilometre25",
+        "summary": "Deepsea Grooves’ first Kilomètre25 takeover and final open-air house date of the season, led by Chicago/Detroit house figure Chez Damier with Mézigue, Vitaline, STO, Bakaer and R1D1.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
       },
       {
         "id": "paris-jungle-accor-2026",
@@ -110,6 +355,24 @@
         "genres": [
           "hip-hop",
           "pop"
+        ]
+      },
+      {
+        "id": "paris-grunt-festival-2026",
+        "title": "Grünt Festival 5",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 82,
+        "venueName": "Grande Halle de la Villette",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/grunt-festival-5",
+        "ticketUrl": "https://shotgun.live/en/festivals/grunt-festival-5",
+        "summary": "Grünt’s hip-hop and rap festival returns to Grande Halle de la Villette with a scene-heavy lineup including Limsa D’Aulnay, Isha, BU$HI, Asfar Shamsi, REALO, DEELEE S and BEN plg.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
         ]
       },
       {
@@ -210,6 +473,77 @@
           "r-and-b",
           "jazz",
           "pop"
+        ]
+      },
+      {
+        "id": "paris-bellaire-cigale-2026",
+        "title": "Bellaire — La Cigale",
+        "type": "concert",
+        "startDate": "2026-10-08",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "La Cigale",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/bellaire-la-cigale",
+        "ticketUrl": "https://shotgun.live/en/events/bellaire-la-cigale",
+        "summary": "French producer Bellaire brings a warm, dancefloor-focused live show to La Cigale, explicitly billed around house, electro, disco-house, jazz, funk and hip-hop influences.",
+        "genres": [
+          "house",
+          "electronic",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-deejay-mk-2026",
+        "title": "Deejay MK — Afro-Caribbean Live Show",
+        "type": "concert",
+        "startDate": "2026-10-18",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Cabaret Sauvage",
+        "venueId": null,
+        "sourceUrl": "https://www.cabaretsauvage.com/work/deejay-mk",
+        "ticketUrl": "https://www.bizouk.com/events/details/deejay-mk-en-concert-au-cabaret-sauvage/114125",
+        "summary": "A diaspora-focused DJ show from Ivorian/Paris-region selector Deejay MK, billed around afrobeats, dancehall, shatta, bouyon, soca, amapiano and urban club sounds at Cabaret Sauvage.",
+        "genres": [
+          "afro-house",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-fakear-olympia-2026",
+        "title": "Fakear — L’Olympia",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "L’Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/agenda/fakear/",
+        "ticketUrl": "https://www.olympiahall.com/agenda/fakear/",
+        "summary": "Fakear’s new live show is described by L’Olympia as a raw, club-leaning electronic set rooted in the international bass-music resurgence.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-spectrum-waves-2026",
+        "title": "Spectrum Waves (Nord + Sud)",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 71,
+        "venueName": "La Station - Gare des Mines",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392797",
+        "ticketUrl": "https://ra.co/events/2392797",
+        "summary": "Spectrum Waves returns to La Station for a queer techno-and-house night across the Nord/Sud spaces, with a no-photo policy, awareness team, and community-first safer-space framing.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
         ]
       }
     ]

@@ -1,0 +1,34 @@
+{
+  "slug": "bali",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:16:45.564Z",
+  "responseId": "resp_0da87b33f1102d64006acdb032afdc87d0a31504bedad7a166+resp_0ffefcc2fa7b2cb8006acdb05d450c87d08014679206a7354a",
+  "searchCalls": 28,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 8,
+    "year": 2027,
+    "notes": "Only one August 2027 Bali music event with specific confirmed dates was found in current public sources; most club and beach-club calendars are not yet published that far ahead.",
+    "events": [
+      {
+        "id": "bali-ubud-village-jazz-2027",
+        "title": "Ubud Village Jazz Festival 2027",
+        "type": "festival",
+        "startDate": "2027-08-06",
+        "endDate": "2027-08-07",
+        "importance": 80,
+        "venueName": "STHALA Ubud Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.antaranews.com/berita/5687009/ubud-village-jazz-festival-akan-digelar-lagi-tahun-depan",
+        "ticketUrl": null,
+        "summary": "Festival organizers announced that Ubud Village Jazz Festival will return to STHALA Ubud Bali on 6–7 August 2027. The annual Bali jazz festival brings Indonesian and international musicians together across multiple stages.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

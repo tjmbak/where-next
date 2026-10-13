@@ -1,0 +1,118 @@
+{
+  "slug": "bangkok",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:40:01.187Z",
+  "responseId": "resp_07552a2a7c0b2e45006acda7960d3887d0b54324b956bb8cd2+resp_0ba4b2b173cb3872006acda7ce59b087d0a2c7a573226d750a",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 3,
+    "year": 2027,
+    "notes": "As of current published listings, March 2027 has very few Bangkok music events confirmed this far ahead; club calendars and festival schedules appear largely unannounced.",
+    "events": [
+      {
+        "id": "bangkok-ben-ja-pet-2027",
+        "title": "Ben-Ja-Pet The Celebration Concert",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 72,
+        "venueName": "UOB LIVE, Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://uoblive.asia/blog/ben-chalatit-to-celebrate-25th-anniversary-ben-ja-pet-the-celebration-concert",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_benchalatit",
+        "summary": "Ben Chalatit celebrates 25 years in music with a full-scale anniversary concert at UOB LIVE, Emsphere. The show is billed as his first major concert in 14 years, built around fan-favorite songs from across his career.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "bangkok-dott-seiji-maru-2027",
+        "title": "ELSEWHERE: DOTT, SEIJI, MARU",
+        "type": "club-night",
+        "startDate": "2027-03-13",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-03-13/",
+        "ticketUrl": null,
+        "summary": "A stronger Saturday-night selector bill at Elsewhere Bangkok featuring DOTT, SEIJI and MARU, listed for 11:30 PM on the venue’s official programme.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-dott-elsewhere-2027",
+        "title": "ELSEWHERE: DOTT",
+        "type": "club-night",
+        "startDate": "2027-03-26",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-03-26/",
+        "ticketUrl": null,
+        "summary": "DOTT headlines Elsewhere Bangkok’s Friday late-night slot, a solid local-scene electronic club night listed on the venue’s official programme.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-saoteknik-dj-zombie-2027",
+        "title": "ELSEWHERE: SaoTeknik + DJ Zombie",
+        "type": "club-night",
+        "startDate": "2027-03-12",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-03-12/",
+        "ticketUrl": null,
+        "summary": "Official Elsewhere Bangkok programme date pairing SaoTeknik and DJ Zombie for a 11:30 PM underground electronic club night.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-civic-boys-2027",
+        "title": "ELSEWHERE: CIVIC BOYS",
+        "type": "club-night",
+        "startDate": "2027-03-19",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-03-19/",
+        "ticketUrl": null,
+        "summary": "CIVIC BOYS take over Elsewhere Bangkok for a late-night underground club session starting at 11:30 PM.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-cice-2027",
+        "title": "ELSEWHERE: CicE",
+        "type": "club-night",
+        "startDate": "2027-03-05",
+        "endDate": null,
+        "importance": 61,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-03-05/",
+        "ticketUrl": null,
+        "summary": "Late-night Elsewhere Bangkok electronic club session with CicE, starting at 11:30 PM; the venue notes entry details will be announced closer to the date.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

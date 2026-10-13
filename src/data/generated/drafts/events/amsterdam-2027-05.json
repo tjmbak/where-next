@@ -1,0 +1,321 @@
+{
+  "slug": "amsterdam",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:54:09.483Z",
+  "responseId": "resp_07e2b65261410341006acdaa917afc87d0b8139662fb25278b+resp_0d33979edea2220b006acdab09c9d487d0bbf8026285fecfdb",
+  "searchCalls": 43,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is already anchored by Music On and Awakenings Upclose, with Amsterdam’s confirmed calendar also showing pop, R&B, indie and diaspora club programming across major venues.",
+    "events": [
+      {
+        "id": "amsterdam-upclose-awakenings-may-2027",
+        "title": "Awakenings Upclose 2027",
+        "type": "festival",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-16",
+        "importance": 92,
+        "venueName": "Houtrak (Spaarnwoude-park)",
+        "venueId": null,
+        "sourceUrl": "https://www.awakenings.com/en/events/2027/05/awakenings-upclose-2027/396040/",
+        "ticketUrl": "https://www.awakenings.com/en/events/2027/05/awakenings-upclose-2027/396040/",
+        "summary": "Awakenings Upclose returns to Houtrak in Spaarnwoude-park on 15–16 May, running 12:00–23:00 each day. Lineup is still TBA, but the official Awakenings page confirms the dates, venue and regular ticket sale timing.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-music-on-festival-may-2027",
+        "title": "Music On Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 88,
+        "venueName": "Meerpark",
+        "venueId": null,
+        "sourceUrl": "https://www.musiconfestival.nl/faq/",
+        "ticketUrl": null,
+        "summary": "Music On Festival returns for a two-day 10-year anniversary edition; the official FAQ says all artists from the cancelled 2026 lineup have reconfirmed for 2027. Confirmed names include Marco Carola, AMÉMÉ, Franky Rizardo, Dennis Cruz, Ilario Alicante, Luciano, Mason Collective and Sosa.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-upclose-2027",
+        "title": "Upclose 2027 Awakenings",
+        "type": "festival",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-16",
+        "importance": 84,
+        "venueName": "Houtrak (Spaarnwoude-park)",
+        "venueId": null,
+        "sourceUrl": "https://www.awakenings.com/en/events/2027/05/awakenings-upclose-2027/396040/",
+        "ticketUrl": null,
+        "summary": "Awakenings’ more intimate, dance-floor-focused techno festival returns to Houtrak/Spaarnwoude for two daytime sessions, with ticket sales due later in 2026.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-gracie-abrams-ziggo-may-2027",
+        "title": "Gracie Abrams - The Look at My Life Tour",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 82,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://ziggodome.nl/en/events/c34716dd-b66e-4554-8b67-4922fe3244fb/",
+        "ticketUrl": "https://ziggodome.nl/en/events/c34716dd-b66e-4554-8b67-4922fe3244fb/",
+        "summary": "Gracie Abrams begins a three-show Ziggo Dome run on 7 May, with additional dates listed for 8 and 10 May. Jake Minch is confirmed as special guest for The Look at My Life Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-jorja-smith-ziggo-may-2027",
+        "title": "10 Years of Jorja Smith",
+        "type": "concert",
+        "startDate": "2027-05-26",
+        "endDate": "2027-05-26",
+        "importance": 82,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/jorja-smith-tickets/982459?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/jorja-smith-tickets/982459?language=en-us",
+        "summary": "Jorja Smith performs 10 Years of Jorja Smith at Ziggo Dome on 26 May. Ticketmaster lists the Amsterdam concert at 20:00 and identifies the genre as soul.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-lentekabinet-2027",
+        "title": "Lentekabinet 2027",
+        "type": "festival",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-16",
+        "importance": 82,
+        "venueName": "Het Twiske",
+        "venueId": null,
+        "sourceUrl": "https://www.lentekabinet.com/",
+        "ticketUrl": "https://www.lentekabinet.com/",
+        "summary": "Dekmantel’s spring festival returns to Het Twiske just north of Amsterdam, pairing adventurous electronic music with art, performance, and local creative partners.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-amsterdams-verbond-may-2027",
+        "title": "Het Amsterdams Verbond 2027",
+        "type": "festival",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 80,
+        "venueName": "Olympisch Stadion Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://hetamsterdamsverbond.nl/",
+        "ticketUrl": "https://hetamsterdamsverbond.nl/",
+        "summary": "Het Amsterdams Verbond returns on Liberation Day, bringing Amsterdam nightlife culture to the Olympic Stadium. The official site confirms the festival for 5 May 2027 and frames it as a large freedom celebration with dancing and city-wide collectivity.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-hilary-duff-ziggo-may-2027",
+        "title": "Hilary Duff - the lucky me tour",
+        "type": "concert",
+        "startDate": "2027-05-17",
+        "endDate": "2027-05-17",
+        "importance": 78,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/event/hilary-duff-the-lucky-me-tour-tickets/483716086?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/event/hilary-duff-the-lucky-me-tour-tickets/483716086?language=en-us",
+        "summary": "Hilary Duff brings the lucky me tour to Ziggo Dome on 17 May, with Rebecca Black listed in the lineup. Ticketmaster lists the Amsterdam show at 19:30.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-rod-stewart-ziggo-may-2027",
+        "title": "Rod Stewart - The Final Encore",
+        "type": "concert",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-28",
+        "importance": 78,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.nl/en/event/rod-stewart-the-final-encore-amsterdam-tickets-edp1700393",
+        "ticketUrl": "https://www.livenation.nl/en/event/rod-stewart-the-final-encore-amsterdam-tickets-edp1700393",
+        "summary": "Rod Stewart brings The Final Encore to Ziggo Dome on 28 May. Live Nation lists the show at 20:00 with Rod Stewart as headliner.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-angele-afas-may-2027",
+        "title": "Angèle - Instinct Tour",
+        "type": "concert",
+        "startDate": "2027-05-11",
+        "endDate": "2027-05-11",
+        "importance": 76,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/angele",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/angele",
+        "summary": "Angèle brings her Instinct Tour to AFAS Live on 11 May. The venue page notes the tour supports her Instinct era, with an electronic core and a new large-scale stage show.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-liberte-liberte-2027",
+        "title": "Liberté Liberté 2027",
+        "type": "club-night",
+        "startDate": "2027-05-05",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://www.zeezout.info/event/liberte-liberte",
+        "ticketUrl": "https://www.zeezout.info/event/liberte-liberte",
+        "summary": "ZeeZout’s Liberation Day day-into-night session returns to Lofi with an inside/outside format; lineup is still TBA, but the promoter and date are confirmed.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-craig-david-afas-may-2027",
+        "title": "Craig David",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-12",
+        "importance": 75,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/craig-david",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/craig-david",
+        "summary": "Craig David plays AFAS Live on 12 May 2027. The venue page highlights his UK garage/R&B legacy and the global success of his TS5 live concept.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-weezer-afas-may-2027",
+        "title": "Weezer - The Gathering Tour",
+        "type": "concert",
+        "startDate": "2027-05-26",
+        "endDate": "2027-05-26",
+        "importance": 75,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/weezer",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/weezer",
+        "summary": "Weezer play AFAS Live on 26 May as part of The Gathering Tour, with Taking Back Sunday listed as support. The AFAS page confirms the Amsterdam date and notes the tour supports Weezer's 2026 self-titled album.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-sombr-ziggo-may-2027",
+        "title": "SOMBR - You Are The Reason Tour",
+        "type": "concert",
+        "startDate": "2027-05-31",
+        "endDate": "2027-05-31",
+        "importance": 73,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/artist/sombr-tickets/1283673?int_cmp_creative=Home-main-1&int_cmp_id=NL-Home-611&int_cmp_name=sombr&language=en-us&tm_link=tm_ccp_Home_main_sombr",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/sombr-tickets/1283673?int_cmp_creative=Home-main-1&int_cmp_id=NL-Home-611&int_cmp_name=sombr&language=en-us&tm_link=tm_ccp_Home_main_sombr",
+        "summary": "SOMBR plays Ziggo Dome on 31 May as part of the You Are The Reason Tour. Ticketmaster lists Ravyn Lenae and Jessie Mazin in the Amsterdam lineup.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "amsterdam-loreen-paradiso-may-2027",
+        "title": "Loreen - THE WILDFIRE TOUR",
+        "type": "concert",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-25",
+        "importance": 72,
+        "venueName": "Paradiso - Main Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/loreen-the-wildfire-tour/2929145",
+        "ticketUrl": "https://www.paradiso.nl/en/program/loreen-the-wildfire-tour/2929145",
+        "summary": "Loreen brings THE WILDFIRE TOUR to Paradiso Main Hall on 25 May, with doors at 19:00 and main programme at 20:30. Paradiso notes the date is a rescheduled show and that existing tickets remain valid.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-island-vibes-2027",
+        "title": "Island Vibes Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-29",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "IJLAND",
+        "venueId": null,
+        "sourceUrl": "https://reggae-agenda.nl/events/island-vibes-reggae-festival-ijland-amsterdam-29-05-2027/",
+        "ticketUrl": null,
+        "summary": "A new 1,100-capacity Caribbean/reggae day festival at IJLAND, advertised with roots reggae, lovers rock, dancehall, island classics, DJs, food, and market programming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-james-marriott-melkweg-may-2027",
+        "title": "James Marriott - World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-15",
+        "importance": 68,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/james-marriott-15-05-2027/",
+        "ticketUrl": "https://www.melkweg.nl/en/agenda/james-marriott-15-05-2027/",
+        "summary": "James Marriott plays Melkweg MAX on 15 May as part of World Tour 2027. The venue bills him as a British singer-songwriter with energetic indie-rock and pop songwriting.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-jeangu-macrooy-melkweg-may-2027",
+        "title": "Jeangu Macrooy - Zolang Ik Blijf Dansen Album Presentatie",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 66,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/jeangu-macrooy-22-05-2027/",
+        "ticketUrl": "https://www.melkweg.nl/en/agenda/jeangu-macrooy-22-05-2027/",
+        "summary": "Jeangu Macrooy presents his Dutch-language album Zolang Ik Blijf Dansen at Melkweg MAX on 22 May. Melkweg tags the show as electronic, pop and R&B, and notes a club-oriented collaboration with DJ Joost van Bellen.",
+        "genres": [
+          "electronic",
+          "pop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "marrakech",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:57:59.263Z",
+  "responseId": "resp_0a2f60199d9cdbfd006acdabea2fbc87d09b28c878efad700c+resp_00a06fcf9563dd55006acdac1ea61887d0b9657c7bcc61c81c",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 5,
+    "year": 2027,
+    "notes": "As of October 2026, Marrakech’s May 2027 calendar has only a small number of solid public confirmations; major club calendars and larger electronic festivals have not yet announced full May 2027 programming.",
+    "events": [
+      {
+        "id": "marrakech-gnaoua-show-2027",
+        "title": "10th Festival Gnaoua Show pour le Monde",
+        "type": "festival",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-09",
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://aujourdhui.ma/culture/ce-spectacle-transportera-le-public-dans-un-univers-vibrant-entre-transe-groove-et-emotions-le-10eme-festival-gnaoua-show-pour-le-monde-les-8-et-9-mai-2027",
+        "ticketUrl": null,
+        "summary": "Two-day Marrakech edition of Festival Gnaoua Show pour le Monde focused on gnaoua rhythms, trance, live percussion and fusion. The article identifies Association Le Grand Atlas de Marrakech and Association Hmitti for Culture as organizers/partners.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-four-directions-source-2027",
+        "title": "FOUR DIRECTIONS to THE SOURCE - DRUM VOL.3",
+        "type": "festival",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-30",
+        "importance": 78,
+        "venueName": "The Source, Hotel, Music & Spa",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/morocco/THE-SOURCE-HOTEL,-MUSIC-And-SPA/FOUR-DIRECTIONS-to-THE-SOURCE---DRUM-VOL3/42506633/",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/four-directions-to-the-source-tickets-1996881169332",
+        "summary": "A four-day, four-night Black dance music gathering at The Source Marrakech, with house/deep-house leaning programming including Atjazz, Johnny Reckless, Handson Family, Pete BBE, Cee ElAssaad, Lev & Faro, Beatkozina and FOUR DIRECTIONS DJs.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

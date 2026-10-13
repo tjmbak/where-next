@@ -5,7 +5,9 @@ const nextConfig: NextConfig = {
     root: process.cwd()
   },
   experimental: {
-    optimizePackageImports: ["maplibre-gl"]
+    optimizePackageImports: ["maplibre-gl"],
+    // The research pipeline rewrites ~20MB of generated JSON per task; a persistent dev cache balloons to 20GB+.
+    turbopackFileSystemCacheForDev: false
   },
   images: {
     remotePatterns: [

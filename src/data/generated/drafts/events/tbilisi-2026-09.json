@@ -2,15 +2,15 @@
   "slug": "tbilisi",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:54:28.743Z",
-  "responseId": "resp_06bd6715a97081bc0069ff66946ea0819491d202d60b48fc24",
-  "searchCalls": 11,
+  "generatedAt": "2026-05-30T18:48:22.951Z",
+  "responseId": "augment:resp_0b942e473dc85ddd006a1b30b217c8819ba80a1f33999c380f",
+  "searchCalls": 12,
   "citations": [],
   "data": {
     "destinationSlug": "tbilisi",
     "month": 9,
     "year": 2026,
-    "notes": null,
+    "notes": "As of 2026-05-30, confirmed September 2026 Tbilisi listings on RA/Songkick-style discovery are sparse; major club calendars for Bassiani/KHIDI/MTKVARZE appear not to have announced September 2026 programmes yet.",
     "events": [
       {
         "id": "tbilisi-imany-sep-2026",
@@ -27,6 +27,23 @@
         "genres": [
           "r-and-b",
           "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-blockhead-proleter-2026",
+        "title": "Blockhead, ProleteR, Arms and Sleepers",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "TBA - Revolution / Revolution ART SPACE ||| MUSIC STAGE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2437367",
+        "ticketUrl": "https://ra.co/events/2437367",
+        "summary": "International instrumental hip-hop, downtempo and electronic trip-hop tour stop presented by Crunch Tapes and Positive Transmitter, pairing NYC beatmaker Blockhead with ProleteR and Arms and Sleepers at Revolution in Tbilisi.",
+        "genres": [
+          "electronic",
+          "hip-hop"
         ]
       }
     ]

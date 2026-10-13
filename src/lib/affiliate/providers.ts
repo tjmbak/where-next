@@ -15,7 +15,7 @@ export const PROVIDERS: Record<AffiliateProvider, ProviderConfig> = {
   booking: { id: "booking", param: "aid", envVar: "BOOKING_AID", hostMatcher: /booking\.com$/ },
   skyscanner: {
     id: "skyscanner",
-    param: "associateid",
+    param: "mediaPartnerId",
     envVar: "SKYSCANNER_PARTNER_ID",
     hostMatcher: /skyscanner\./
   },
@@ -33,6 +33,17 @@ export function isAffiliateProvider(value: string): value is AffiliateProvider {
   return value in PROVIDERS;
 }
 
+/** The provider that actually owns the target host; anything else is a plain outbound click. */
+export function resolveProvider(provider: AffiliateProvider, target: string): AffiliateProvider {
+  const matcher = PROVIDERS[provider].hostMatcher;
+  if (!matcher) return "raw";
+  try {
+    return matcher.test(new URL(target).hostname) ? provider : "raw";
+  } catch {
+    return "raw";
+  }
+}
+
 export function rewriteUrl(provider: AffiliateProvider, target: string, clickId: string): string {
   let parsed: URL;
   try {
@@ -42,6 +53,10 @@ export function rewriteUrl(provider: AffiliateProvider, target: string, clickId:
   }
 
   const config = PROVIDERS[provider];
+  if (provider === "raw") {
+    parsed.searchParams.set("utm_source", "wherenext");
+    return parsed.toString();
+  }
   if (config.param && config.envVar) {
     const tag = process.env[config.envVar];
     if (tag) parsed.searchParams.set(config.param, tag);

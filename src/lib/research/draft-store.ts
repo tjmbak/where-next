@@ -114,32 +114,35 @@ export function listDraftSummaries(): DraftSummary[] {
   );
 }
 
+// A corrupt file must throw: returning [] here would let the next approve
+// overwrite the whole corpus with a single month.
 function readApproved(): ApprovedEntry[] {
   if (!fs.existsSync(APPROVED_FILE)) return [];
-  try {
-    const raw = fs.readFileSync(APPROVED_FILE, "utf8").trim();
-    if (!raw) return [];
-    const parsed = JSON.parse(raw) as ApprovedEntry[];
-    return Array.isArray(parsed) ? parsed : [];
-  } catch (err) {
-    console.warn("[draft-store] failed to read approved-events.json:", err);
-    return [];
-  }
+  const raw = fs.readFileSync(APPROVED_FILE, "utf8").trim();
+  if (!raw) throw new Error(`${APPROVED_FILE} is empty; restore it from git before writing`);
+  const parsed = JSON.parse(raw) as ApprovedEntry[];
+  if (!Array.isArray(parsed)) throw new Error(`${APPROVED_FILE} is not an array`);
+  return parsed;
+}
+
+function writeAtomic(file: string, contents: string) {
+  const tmp = `${file}.${process.pid}.tmp`;
+  fs.writeFileSync(tmp, contents, "utf8");
+  fs.renameSync(tmp, file);
 }
 
 function writeApproved(entries: ApprovedEntry[]) {
   ensureDir(GENERATED_DIR);
-  fs.writeFileSync(
-    APPROVED_FILE,
-    JSON.stringify(entries, null, 2) + "\n",
-    "utf8"
-  );
+  writeAtomic(APPROVED_FILE, JSON.stringify(entries, null, 2) + "\n");
   // Mirror a slim version that the public bundle imports. Drop admin-only
-  // metadata (notes, approvedAt, sourceResponseId, year, redundant nesting)
-  // so the client bundle stays ~600 KB lighter.
+  // metadata (notes, approvedAt, sourceResponseId, redundant nesting) so the
+  // client bundle stays ~600 KB lighter. `year` is kept — it's a real runtime
+  // dimension the year selector reads (legacy entries default to edition year).
   const slim = entries.map((e) => ({
     slug: e.slug,
     month: e.month,
+    year: e.year,
+    approvedOn: e.approvedAt?.slice(0, 10),
     events: (e.data.events ?? []).map((ev) => ({
       id: ev.id,
       title: ev.title,
@@ -154,11 +157,16 @@ function writeApproved(entries: ApprovedEntry[]) {
       genres: ev.genres
     }))
   }));
-  fs.writeFileSync(APPROVED_SLIM_FILE, JSON.stringify(slim) + "\n", "utf8");
+  writeAtomic(APPROVED_SLIM_FILE, JSON.stringify(slim) + "\n");
 }
 
 export function listApproved(): ApprovedEntry[] {
   return readApproved();
+}
+
+/** Bulk rewrite used by audit fixes; keeps the slim runtime file in sync. */
+export function replaceApproved(entries: ApprovedEntry[]) {
+  writeApproved(entries);
 }
 
 export function findApproved(
@@ -171,6 +179,52 @@ export function findApproved(
     all.find((e) => e.slug === slug && e.year === year && e.month === month) ??
     null
   );
+}
+
+type ResearchedEvent = ResearchedEventsResponse["events"][number];
+
+const MERGE_STOPWORDS = new Set([
+  "the", "and", "presents", "present", "pres", "with", "party", "closing", "opening", "night", "nights",
+  "festival", "fest", "live", "tour", "edition", "part", "official", "tickets", "season", "weekend"
+]);
+
+function titleTokens(title: string, city: string): Set<string> {
+  const cityTokens = new Set(city.toLowerCase().split(/[^a-z0-9]+/));
+  return new Set(
+    title
+      .toLowerCase()
+      .normalize("NFKD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/\b(19|20)\d{2}\b/g, " ")
+      .split(/[^a-z0-9]+/)
+      .filter((t) => t.length >= 3 && !MERGE_STOPWORDS.has(t) && !cityTokens.has(t))
+  );
+}
+
+function sameEvent(a: ResearchedEvent, b: ResearchedEvent, city: string): boolean {
+  if (a.id === b.id) return true;
+  const aEnd = a.endDate ?? a.startDate;
+  const bEnd = b.endDate ?? b.startDate;
+  if (a.startDate > bEnd || b.startDate > aEnd) return false;
+  const ta = titleTokens(a.title, city);
+  const tb = titleTokens(b.title, city);
+  if (ta.size === 0 || tb.size === 0) return a.startDate === b.startDate && a.venueName === b.venueName;
+  let shared = 0;
+  for (const t of ta) if (tb.has(t)) shared++;
+  return shared / Math.min(ta.size, tb.size) >= 0.6;
+}
+
+/**
+ * Fresh research wins; any previously approved event the new pass didn't
+ * find again is carried over so a re-run never shrinks the calendar.
+ */
+export function mergeResearchedEvents(
+  fresh: ResearchedEvent[],
+  previous: ResearchedEvent[],
+  city: string
+): { events: ResearchedEvent[]; kept: number } {
+  const carried = previous.filter((old) => !fresh.some((e) => sameEvent(e, old, city)));
+  return { events: [...fresh, ...carried], kept: carried.length };
 }
 
 export function approveDraft(envelope: DraftEnvelope): ApprovedEntry {

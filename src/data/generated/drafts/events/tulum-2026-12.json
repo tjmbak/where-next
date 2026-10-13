@@ -2,16 +2,223 @@
   "slug": "tulum",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:05:39.597Z",
-  "responseId": "resp_099a30b50c3e6e9e0069ff5affbf2481908950c4b092539ce1",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T02:51:02.756Z",
+  "responseId": "resp_01dd5e4bc6d45e0a006acd9bc38f3087d08bf93736129d3672+resp_0add1ee93071f903006acd9c3d98d087d09fd93116e591c3be",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "tulum",
     "month": 12,
     "year": 2026,
-    "notes": null,
+    "notes": "As of October 2026, Tulum’s confirmed December 2026 calendar is concentrated around Gitano’s weekly/special parties and a major New Year’s Eve cluster led by Zamna, Papaya Playa Project and Gitano.",
     "events": [
+      {
+        "id": "tulum-zamna-renaissance-nye-2026",
+        "title": "RENAISSANCE Tulum NYE",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 92,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://www.zamnafestival.com/events/renaissance-tulum-nye",
+        "ticketUrl": "https://www.ticketfairy.com/event/renaissance-tulum?locale=en",
+        "summary": "Renaissance opens Zamna Tulum’s 10th-anniversary season on New Year’s Eve with Sasha, Maceo Plex, Ida Engberg and Sébastien Léger confirmed. The official Zamna page lists the date as December 31, 2026 at 22:00 at Zamna Tulum.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-papaya-playa-nye-2026",
+        "title": "PPP Presents - New Years Eve 2026-2027",
+        "type": "beach-club",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 82,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://www.tributulum.com/en/events/papaya-playa-project-new-years-eve-2026-2027-2026-12-31",
+        "ticketUrl": "https://www.ticketfairy.com/event/ppp-presents-nye-2026-2027-31dec2026",
+        "summary": "Papaya Playa Project’s New Year’s Eve beach-club event is confirmed from Thursday, December 31 at 6 PM to Friday, January 1 at 5 AM. No lineup has been published yet, but the official Ticket Fairy listing includes party access, dinner and lodging packages.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-gitano-jungle-nye-2026",
+        "title": "NYE 2027 Gitano Jungle",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 78,
+        "venueName": "Gitano Jungle",
+        "venueId": null,
+        "sourceUrl": "https://tulumbible.com/event/nye-2027-gitano-jungle-31dec2026",
+        "ticketUrl": "https://tf.link/exuei6wx",
+        "summary": "Gitano Jungle’s New Year’s Eve party is confirmed for December 31, 2026 with dinner, cocktails, international DJs, live entertainment and the Gitano Cabaret show. Guests can book a four-course dinner package or arrive later for open-bar access and dancing.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tulum-gitano-beach-nye-2026",
+        "title": "NYE 2027 Gitano Beach",
+        "type": "beach-club",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 78,
+        "venueName": "Gitano Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/nye-2027-gitano-beach-31dec2025",
+        "ticketUrl": "https://www.ticketfairy.com/event/nye-2027-gitano-beach-31dec2025",
+        "summary": "Gitano Beach’s New Year’s Eve beach party is confirmed for Thursday, December 31 at 6 PM. The ticketing page lists open-bar, dinner-and-dancing and bottle-service options, with music, dancing, Gitano Flamenco and a midnight toast built into the programme.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-gitano-full-moon-rising-2026",
+        "title": "Full Moon Rising",
+        "type": "beach-club",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 74,
+        "venueName": "Gitano Beach Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/full-moon-rising-19-dec",
+        "ticketUrl": "https://www.ticketfairy.com/event/full-moon-rising-19-dec",
+        "summary": "Gitano Beach’s Full Moon Rising is confirmed for Saturday, December 19 at 6 PM. The beachfront party lists DJ-driven electronic music, general admission, dinner-and-party options, and VIP tables near the DJ booth.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-porque-no-week-2026",
+        "title": "¿PorQuéNo? Tulum Week: Villa & Festival Experience",
+        "type": "festival",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-06",
+        "importance": 73,
+        "venueName": "¿PorQuéNo? Tulum Villa",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.ca/e/porqueno-tulum-week-villa-festival-experience-tickets-1979841101029",
+        "ticketUrl": "https://www.eventbrite.ca/e/porqueno-tulum-week-villa-festival-experience-tickets-1979841101029",
+        "summary": "A curated NYE-week villa and festival package built around Zamna plans, open-deck/pool programming and the two-day ¿PorQuéNo? Cenote Festival in the jungle on January 2–3.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-gitano-gypsy-disco-special-2026",
+        "title": "Gypsy Disco Special Edition",
+        "type": "club-night",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 72,
+        "venueName": "GITANO Jungle Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/gypsy-disco-special-edition-18dec-2026?locale=en",
+        "ticketUrl": "https://www.ticketfairy.com/event/gypsy-disco-special-edition-18dec-2026?locale=en",
+        "summary": "A special anniversary edition of Gitano’s Gypsy Disco is confirmed for Friday, December 18 at 6 PM. The event frames the night as a celebration of Gitano’s jungle-night music community with dancing from 6 PM until late.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-gitano-gypsy-disco-dec-2026",
+        "title": "Gypsy Disco",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 70,
+        "venueName": "GITANO Jungle Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/gypsy-disco-4dec-2026",
+        "ticketUrl": "https://www.ticketfairy.com/event/gypsy-disco-4dec-2026",
+        "summary": "Gitano’s weekly Gypsy Disco series is confirmed for Friday, December 4 at 6 PM, with dinner, cocktails and dancing at the jungle venue. The listing describes it as a recurring Friday night built around music, movement and the bohemian Gitano atmosphere.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-tap-in-saturdays-2026",
+        "title": "TAP IN Saturdays at Toxic Tulum",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-27",
+        "importance": 64,
+        "venueName": "Toxic Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/tap-in-saturdays-at-toxic-tulum-tickets-1979898729397",
+        "ticketUrl": "https://www.eventbrite.com/e/tap-in-saturdays-at-toxic-tulum-tickets-1979898729397",
+        "summary": "Weekly Black Zama Saturday party at Tulum’s Black-owned Toxic Tulum, focused on Hip Hop, R&B, Dancehall, Afrobeats and Caribbean music.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tulum-xclusive-fridays-toxic-2026",
+        "title": "XCLUSIVE Fridays at Toxic Tulum",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-18",
+        "importance": 63,
+        "venueName": "Toxic Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/xclusive-fridays-at-toxic-tulum-tickets-1988792159887",
+        "ticketUrl": "https://www.eventbrite.com/e/xclusive-fridays-at-toxic-tulum-tickets-1988792159887",
+        "summary": "Black Zama’s Friday diaspora night at Toxic Tulum, billed around Hip Hop, R&B, Dancehall and Afrobeats with music by the Tulum Collective.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tulum-sunday-splash-kuul-2026",
+        "title": "Sunday Splash Pool Party at Kuul Beachclub",
+        "type": "beach-club",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-20",
+        "importance": 61,
+        "venueName": "KUUL BEACH TULUM",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/sunday-splash-pool-party-at-kuul-beachclub-tickets-1979918058210",
+        "ticketUrl": "https://www.eventbrite.com/e/sunday-splash-pool-party-at-kuul-beachclub-tickets-1979918058210",
+        "summary": "A recurring Sunday pool-party format from Black Zama, explicitly centered on Hip Hop, R&B, Afrobeats and Caribbean music at Kuul Beach Tulum.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tulum-mtulum-latino-afrobeats-tuesday-2026",
+        "title": "TUESDAY - MTULUM - Latino - Afrobeats - Hip Hop",
+        "type": "club-night",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-30",
+        "importance": 60,
+        "venueName": "M tulum Hookah & Pool Lounge",
+        "venueId": null,
+        "sourceUrl": "https://happeningnext.com/event/tuesday-mtulum-latino-afrobeats-hiphop-eid1ef0l3tjo7ta",
+        "ticketUrl": "https://happeningnext.com/event/tuesday-mtulum-latino-afrobeats-hiphop-eid1ef0l3tjo7ta",
+        "summary": "A weekly Mtulum/Místico Tuesday night listing with reggaeton, salsa, Afrobeats, soca, Hip Hop and R&B, running through the December high-season window.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
       {
         "id": "tulum-zamna-multipass-2026",
         "title": "Multipass Zamna Tulum 2027",
@@ -24,22 +231,6 @@
         "sourceUrl": "https://www.zamnafestival.com/events/multipass-zamna-tulum-2027",
         "ticketUrl": "https://www.tixr.com/groups/zamnafestival/events/multipass-zamna-tulum-2027-175296",
         "summary": "Zamna’s official listing confirms its 2026/2027 Tulum season multipass on December 31, 2026 at Zamna Tulum. Individual party lineups are not yet announced on the source page, but the pass is sold for Zamna Festival events at the jungle venue.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
-        "id": "tulum-ppp-nye-2026",
-        "title": "PPP Presents - New Years Eve 2026-2027",
-        "type": "beach-club",
-        "startDate": "2026-12-31",
-        "endDate": "2026-12-31",
-        "importance": 80,
-        "venueName": "Papaya Playa Project",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketfairy.com/event/ppp-presents-nye-2026-2027-31dec2026",
-        "ticketUrl": "https://www.ticketfairy.com/event/ppp-presents-nye-2026-2027-31dec2026",
-        "summary": "Papaya Playa Project’s ticketing page confirms a New Year’s Eve celebration on December 31, 2026 at 6:00 PM in Tulum. The listing describes a beachfront night with music, art, and performance, but does not yet name artists.",
         "genres": [
           "electronic"
         ]

@@ -1,0 +1,51 @@
+{
+  "slug": "cartagena",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:28:16.548Z",
+  "responseId": "resp_062b513da4e19622006acda4d491f887d092e54526ba3db3a0+resp_03aeb8d07649f1f8006acda50ea8e887d082db3c3699c03daa",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 2,
+    "year": 2027,
+    "notes": "No in-scope contemporary music events in or very near Cartagena could be verified with a specific February 2027 date from primary or reputable event sources at this time.",
+    "events": [
+      {
+        "id": "cartagena-barranquilla-carnival-2027",
+        "title": "Carnaval de Barranquilla 2027",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-09",
+        "importance": 98,
+        "venueName": "Barranquilla citywide",
+        "venueId": null,
+        "sourceUrl": "https://carnavaldebarranquilla.org/",
+        "ticketUrl": null,
+        "summary": "The official Carnival site lists the 2027 main Carnival days as February 6–9, covering Saturday through Tuesday of Carnival. Though based in Barranquilla, it is the Caribbean coast’s flagship music-and-dance carnival and a major side trip from Cartagena.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-candelaria-2027",
+        "title": "Fiesta de Nuestra Señora de La Candelaria",
+        "type": "festival",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 70,
+        "venueName": "Convento de Santa Cruz de la Popa / Cartagena citywide",
+        "venueId": null,
+        "sourceUrl": "https://www.calendarr.com/colombia/dia-de-la-virgen-de-la-candelaria/",
+        "ticketUrl": null,
+        "summary": "Cartagena’s patron-saint celebration falls on February 2 and is traditionally marked with processions, community festivities, cumbia, gaitas and dance around La Popa and the city.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

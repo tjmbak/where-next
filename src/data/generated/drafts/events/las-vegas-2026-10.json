@@ -2,16 +2,319 @@
   "slug": "las-vegas",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:34:56.322Z",
-  "responseId": "resp_092d3819631718880069ff61dc06688192964e36208527be40",
-  "searchCalls": 10,
+  "generatedAt": "2026-10-13T02:31:26.587Z",
+  "responseId": "resp_03bf901dc347f559006acd96d5b4d487d0948de433ab086970+resp_061f34d1ef1319b0006acd976c62ac87d08cd56e31ae05763f",
+  "searchCalls": 36,
   "citations": [],
   "data": {
     "destinationSlug": "las-vegas",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is anchored by Strip residencies and arena-level concerts rather than a confirmed destination festival calendar, with major rock, pop, R&B/funk, Latin, and classical dates already on sale.",
+    "notes": "October 2026 in Las Vegas is heavily shaped by Halloween club programming, arena-scale hip-hop/pop concerts, and one-of-a-kind Sphere residency dates.",
     "events": [
+      {
+        "id": "las-vegas-metallica-sphere-oct-2026",
+        "title": "Metallica: Life Burns Faster at Sphere",
+        "type": "residency",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 94,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://metallica.lnk.to/MetallicaSphere",
+        "ticketUrl": "https://metallica.lnk.to/MetallicaSphere",
+        "summary": "Metallica’s Life Burns Faster Sphere residency includes an explicitly listed October 31, 2026 Las Vegas date as part of its No Repeat Weekend format.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-doja-cat-tour-ma-vie-2026",
+        "title": "Doja Cat: Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 89,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/doja-cat",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/doja-cat",
+        "summary": "Doja Cat brings the Tour Ma Vie World Tour to T-Mobile Arena on Saturday, October 31, 2026, with Latto listed on the bill.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-megan-hottieween-zouk-2026",
+        "title": "Megan Thee Stallion's Hottieween",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 88,
+        "venueName": "Zouk Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://zoukgrouplv.com/event/EVE50511500020261030/megan-thee-stallion-s-hottieween/",
+        "ticketUrl": "https://zoukgrouplv.com/event/EVE50511500020261030/megan-thee-stallion-s-hottieween/",
+        "summary": "Megan Thee Stallion’s Hottieween takes over Zouk Nightclub on Friday, October 30, 2026, with a portion of proceeds noted for the Pete & Thomas Foundation.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-martin-garrix-omnia-halloween-2026",
+        "title": "Martin Garrix w/ Justin Mylo - Halloween Weekend",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 88,
+        "venueName": "OMNIA Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://taogroup.com/event/10-31-2026-martin-garrix-omnia-nightclub/",
+        "ticketUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-10-31-2026/tickets",
+        "summary": "Martin Garrix headlines OMNIA Nightclub’s Halloween Weekend event with Justin Mylo, running from October 31, 2026 at 10:30 PM to November 1 at 4:00 AM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-wu-tang-final-chamber-2026",
+        "title": "Wu-Tang Forever: The Final Chamber",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 86,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/wu-tang-clan-1378837",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/wu-tang-clan-1378837",
+        "summary": "Wu-Tang Clan’s Final Chamber Tour stops at T-Mobile Arena with Mobb Deep listed as special guest. This is the month’s biggest classic hip-hop arena play.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-dom-dolla-liv-2026",
+        "title": "Dom Dolla at LIV Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 84,
+        "venueName": "LIV Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.livnightclub.com/las-vegas/event/EVE-EU1F7B/dom-dolla/",
+        "ticketUrl": "https://www.livnightclub.com/las-vegas/event/EVE-EU1F7B/dom-dolla/",
+        "summary": "Dom Dolla headlines LIV Las Vegas at Fontainebleau on Friday, October 9, 2026, with the venue billing it as a house-music night on the Strip.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-tiesto-liv-2026",
+        "title": "Tiësto at LIV Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 84,
+        "venueName": "LIV Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.fontainebleaulasvegas.com/event/tiesto-at-liv-2/2026-10-16/",
+        "ticketUrl": "https://www.fontainebleaulasvegas.com/event/tiesto-at-liv-2/2026-10-16/",
+        "summary": "Tiësto plays a confirmed resident-DJ date at LIV Las Vegas on Friday, October 16, 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-adriatique-liv-halloween-2026",
+        "title": "Adriatique - Halloween at LIV Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 83,
+        "venueName": "LIV Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.livnightclub.com/las-vegas/event/EVE-A0W2XT/adriatique/",
+        "ticketUrl": "https://www.livnightclub.com/las-vegas/event/EVE-A0W2XT/adriatique/",
+        "summary": "Adriatique headlines LIV Las Vegas on Halloween night, Saturday, October 31, 2026 at 10:30 PM, with the venue describing the duo’s sound as house and techno.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-taemin-liminal-2026",
+        "title": "TAEMIN: 2026-27 TAEMIN WORLD TOUR <LiMiNaL>",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1582164/taemin-tickets?skin=tmobile",
+        "ticketUrl": "https://www.axs.com/events/1582164/taemin-tickets?skin=tmobile",
+        "summary": "TAEMIN brings the 2026-27 <LiMiNaL> world tour to T-Mobile Arena on Friday, October 16, 2026 at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-strong-music-festival-2026",
+        "title": "Strong Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 82,
+        "venueName": "Thomas & Mack Center",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/17AYv0G62WYtPnK/strong-music-festival-2026",
+        "ticketUrl": "https://www.livenation.com/event/17AYv0G62WYtPnK/strong-music-festival-2026",
+        "summary": "Strong Music Festival 2026 is confirmed for Friday, October 30, 2026 at Thomas & Mack Center, with Yeat, Destroy Lonely, Waka Flocka Flame, slayr, Babyfxce E and others listed on the Live Nation lineup.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-chase-status-zouk-2026",
+        "title": "Chase & Status at Zouk Nightclub",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 82,
+        "venueName": "Zouk Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://zoukgrouplv.com/event/EVE50511500020261031/chase-status/",
+        "ticketUrl": "https://zoukgrouplv.com/event/EVE50511500020261031/chase-status/",
+        "summary": "Chase & Status headline Zouk Nightclub on Saturday, October 31, 2026, with doors listed at 10:30 PM.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-tacos-tequila-festival-2026",
+        "title": "Tacos & Tequila Festival Las Vegas",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 82,
+        "venueName": "Las Vegas Ballpark",
+        "venueId": null,
+        "sourceUrl": "https://tacosandtequilafestival.com/market/las-vegas/",
+        "ticketUrl": "https://tacosandtequilafestival.com/market/las-vegas/",
+        "summary": "Touring 2000s hip-hop and R&B nostalgia festival making its Las Vegas stop with T.I., Fat Joe, Pretty Ricky, Trina, Chingy, Petey Pablo, Ying Yang Twins and more, plus tacos, tequila bars and lucha libre.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-scarea15-khan-o-ween-2026",
+        "title": "ScAREA15: Strange Circus presents Khan-O-Ween",
+        "type": "festival",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 82,
+        "venueName": "AREA15",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/area-15-tickets-las-vegas/venue/189552",
+        "ticketUrl": "https://www.ticketmaster.com/area-15-tickets-las-vegas/venue/189552",
+        "summary": "AREA15’s 18+ Halloween-night electronic takeover spreads across the district with Valentino Khan’s Khan-O-Ween concept and a Strange Circus immersive production footprint.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-don-toliver-zouk-2026",
+        "title": "Don Toliver at Zouk Nightclub",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 80,
+        "venueName": "Zouk Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://zoukgrouplv.com/event/EVE50511500020261017/don-toliver/",
+        "ticketUrl": "https://zoukgrouplv.com/event/EVE50511500020261017/don-toliver/",
+        "summary": "Don Toliver headlines Zouk Nightclub at Resorts World Las Vegas on Saturday, October 17, 2026.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-hugel-ebc-night-2026",
+        "title": "Hugel with support by Juany Bravo",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 79,
+        "venueName": "Encore Beach Club At Night",
+        "venueId": null,
+        "sourceUrl": "https://www.wynnsocial.com/event/EVE116300020261023/hugel-with-support-by-juany-bravo/",
+        "ticketUrl": "https://www.wynnsocial.com/event/EVE116300020261023/hugel-with-support-by-juany-bravo/",
+        "summary": "Hugel plays Encore Beach Club At Night on Friday, October 23, 2026, with Juany Bravo listed as support.",
+        "genres": [
+          "house",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-chief-keef-brooklyn-bowl-2026",
+        "title": "Chief Keef",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 79,
+        "venueName": "Brooklyn Bowl Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynbowl.com/las-vegas/events/detail/chief-keef-1kayvp8-gacps3e",
+        "ticketUrl": "https://www.brooklynbowl.com/las-vegas/events/detail/chief-keef-1kayvp8-gacps3e",
+        "summary": "Chief Keef has a second-show-added Brooklyn Bowl Las Vegas date on Wednesday, October 28, 2026, with doors listed at 7:30 PM.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-madeon-victory-live-2026",
+        "title": "Madeon presents Victory Live",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 78,
+        "venueName": "House of Blues Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/17AYv0G61KwSj4R/madeon-presents-victory-live",
+        "ticketUrl": "https://www.livenation.com/event/17AYv0G61KwSj4R/madeon-presents-victory-live",
+        "summary": "Madeon brings Victory Live to House of Blues Las Vegas with Contact Sports also listed on the lineup.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-schoolboy-q-blank-face-2026",
+        "title": "ScHoolboy Q - 10 Years of Blank Face LP",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 78,
+        "venueName": "Brooklyn Bowl Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynbowl.com/las-vegas/shows",
+        "ticketUrl": "https://www.brooklynbowl.com/las-vegas/shows",
+        "summary": "Brooklyn Bowl Las Vegas lists ScHoolboy Q’s 10 Years of Blank Face LP show for Saturday, October 17, 2026, with doors at 7:00 PM.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
       {
         "id": "las-vegas-metallica-life-burns-faster-2026",
         "title": "Metallica: Life Burns Faster",
@@ -25,65 +328,6 @@
         "ticketUrl": "https://www.ticketmaster.com/Metallica-tickets/artist/735647",
         "summary": "Metallica opens its Life Burns Faster residency at Sphere with an explicitly listed October 1, 2026 performance. The Sphere run is billed around the band’s No Repeat Weekend format.",
         "genres": []
-      },
-      {
-        "id": "las-vegas-scorpions-coming-home-2026",
-        "title": "Scorpions – Coming Home to Las Vegas",
-        "type": "residency",
-        "startDate": "2026-09-17",
-        "endDate": "2026-10-03",
-        "importance": 85,
-        "venueName": "PH Live at Planet Hollywood Resort & Casino",
-        "venueId": null,
-        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/scorpions-return-las-vegas-new-headlining-residency-ph-live",
-        "ticketUrl": "https://www.ticketmaster.com/scorpions-coming-home-to-las-vegas-las-vegas-nevada-10-03-2026/event/3900644CEE646525",
-        "summary": "Scorpions return to PH Live for a Las Vegas residency running September 17 through October 3, 2026, with Buckcherry as special guest. Confirmed October performances are October 1 and October 3.",
-        "genres": []
-      },
-      {
-        "id": "las-vegas-lynyrd-skynyrd-2026",
-        "title": "Lynyrd Skynyrd",
-        "type": "concert",
-        "startDate": "2026-10-03",
-        "endDate": "2026-10-03",
-        "importance": 72,
-        "venueName": "Pearl Concert Theater",
-        "venueId": null,
-        "sourceUrl": "https://www.axs.com/events/1396982/lynyrd-skynyrd-tickets",
-        "ticketUrl": "https://www.axs.com/events/1396982/lynyrd-skynyrd-tickets",
-        "summary": "Lynyrd Skynyrd is confirmed for Pearl Concert Theater at Palms Casino Resort on October 3, 2026. The AXS listing gives an 8:00 p.m. show time.",
-        "genres": []
-      },
-      {
-        "id": "las-vegas-ludovico-einaudi-2026",
-        "title": "Ludovico Einaudi: Solo Piano",
-        "type": "concert",
-        "startDate": "2026-10-07",
-        "endDate": "2026-10-07",
-        "importance": 73,
-        "venueName": "Encore Theater at Wynn Las Vegas",
-        "venueId": null,
-        "sourceUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/ludovico-einaudi",
-        "ticketUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/ludovico-einaudi",
-        "summary": "Composer and pianist Ludovico Einaudi performs a solo piano concert at Wynn Las Vegas’ Encore Theater on October 7, 2026. Wynn lists the show at 8:00 p.m.",
-        "genres": []
-      },
-      {
-        "id": "las-vegas-juanes-2026",
-        "title": "Juanes – North America Tour 2026",
-        "type": "concert",
-        "startDate": "2026-10-10",
-        "endDate": "2026-10-10",
-        "importance": 75,
-        "venueName": "Pearl Concert Theater",
-        "venueId": null,
-        "sourceUrl": "https://www.axs.com/events/1332595/juanes-tickets",
-        "ticketUrl": "https://www.axs.com/events/1332595/juanes-tickets",
-        "summary": "Juanes brings his North America Tour 2026 to Pearl Concert Theater on October 10, 2026. The AXS event page lists an 8:00 p.m. show time.",
-        "genres": [
-          "latin",
-          "pop"
-        ]
       },
       {
         "id": "las-vegas-earth-wind-fire-2026",
@@ -104,6 +348,136 @@
         ]
       },
       {
+        "id": "las-vegas-scorpions-coming-home-2026",
+        "title": "Scorpions – Coming Home to Las Vegas",
+        "type": "residency",
+        "startDate": "2026-09-17",
+        "endDate": "2026-10-03",
+        "importance": 85,
+        "venueName": "PH Live at Planet Hollywood Resort & Casino",
+        "venueId": null,
+        "sourceUrl": "https://investor.caesars.com/news-releases/news-release-details/scorpions-return-las-vegas-new-headlining-residency-ph-live",
+        "ticketUrl": "https://www.ticketmaster.com/scorpions-coming-home-to-las-vegas-las-vegas-nevada-10-03-2026/event/3900644CEE646525",
+        "summary": "Scorpions return to PH Live for a Las Vegas residency running September 17 through October 3, 2026, with Buckcherry as special guest. Confirmed October performances are October 1 and October 3.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-lazy-peach-2026",
+        "title": "Lazy Peach Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-04",
+        "importance": 84,
+        "venueName": "Las Vegas Festival Grounds",
+        "venueId": null,
+        "sourceUrl": "https://www.visitlasvegas.com/event/lazy-peach-music-festival-2026/54042/",
+        "ticketUrl": null,
+        "summary": "Debut multi-genre destination festival promising 60+ artists across hip-hop, R&B, electronic, reggae, and global sounds, plus immersive art, VIP lounges, food, and nightlife-style activations.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-reggae-rise-up-2026",
+        "title": "Reggae Rise Up Las Vegas 2026",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-05",
+        "importance": 79,
+        "venueName": "TBA - Downtown Las Vegas Event Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2320366",
+        "ticketUrl": null,
+        "summary": "Touring reggae/roots festival brand’s Vegas weekend, with a lineup that also crosses into hip-hop via Public Enemy, E-40 & Too $hort, and Shwayze alongside reggae and island-rooted acts.",
+        "genres": [
+          "festival",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-kygo-palm-tree-2026",
+        "title": "Kygo at Palm Tree Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-10-10",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Palm Tree Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/kygo-saturday-pool-party-vegas-palm-tree-beach-club-tickets-1981290969625",
+        "ticketUrl": "https://www.eventbrite.com/e/kygo-saturday-pool-party-vegas-palm-tree-beach-club-tickets-1981290969625",
+        "summary": "Large-scale Saturday dayclub session at MGM Grand’s Palm Tree Beach Club, a 3,000-capacity pool venue built around tropical-house and EDM headliners.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-juanes-2026",
+        "title": "Juanes – North America Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 75,
+        "venueName": "Pearl Concert Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1332595/juanes-tickets",
+        "ticketUrl": "https://www.axs.com/events/1332595/juanes-tickets",
+        "summary": "Juanes brings his North America Tour 2026 to Pearl Concert Theater on October 10, 2026. The AXS event page lists an 8:00 p.m. show time.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-steve-aoki-omnia-2026",
+        "title": "Steve Aoki at OMNIA Nightclub",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 74,
+        "venueName": "OMNIA Las Vegas Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/steve-aoki-las-vegas-party-saturday-omnia-nightclub-tickets-1982345762539",
+        "ticketUrl": "https://www.eventbrite.com/e/steve-aoki-las-vegas-party-saturday-omnia-nightclub-tickets-1982345762539",
+        "summary": "Confirmed Saturday-night Strip megaclub booking for Steve Aoki, fitting the high-energy EDM/pop-electronic residency lane rather than an arena show.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-ludovico-einaudi-2026",
+        "title": "Ludovico Einaudi: Solo Piano",
+        "type": "concert",
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-07",
+        "importance": 73,
+        "venueName": "Encore Theater at Wynn Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/ludovico-einaudi",
+        "ticketUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/ludovico-einaudi",
+        "summary": "Composer and pianist Ludovico Einaudi performs a solo piano concert at Wynn Las Vegas’ Encore Theater on October 7, 2026. Wynn lists the show at 8:00 p.m.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-lynyrd-skynyrd-2026",
+        "title": "Lynyrd Skynyrd",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 72,
+        "venueName": "Pearl Concert Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1396982/lynyrd-skynyrd-tickets",
+        "ticketUrl": "https://www.axs.com/events/1396982/lynyrd-skynyrd-tickets",
+        "summary": "Lynyrd Skynyrd is confirmed for Pearl Concert Theater at Palms Casino Resort on October 3, 2026. The AXS listing gives an 8:00 p.m. show time.",
+        "genres": []
+      },
+      {
         "id": "las-vegas-rise-against-2026",
         "title": "Rise Against with Alkaline Trio",
         "type": "concert",
@@ -118,6 +492,23 @@
         "genres": []
       },
       {
+        "id": "las-vegas-mustard-hakkasan-halloween-2026",
+        "title": "Mustard Halloween Night at Hakkasan",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Hakkasan Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/mustard-las-vegas-halloween-party-hakkasan-tickets-1983757102896",
+        "ticketUrl": "https://www.eventbrite.com/e/mustard-las-vegas-halloween-party-hakkasan-tickets-1983757102896",
+        "summary": "Halloween-night hip-hop club booking with DJ Mustard at Hakkasan inside MGM Grand, positioned as a costume-friendly Vegas nightlife event rather than a concert hall show.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
         "id": "las-vegas-taking-back-sunday-2026",
         "title": "Taking Back Sunday with Thrice and Saves The Day",
         "type": "concert",
@@ -130,6 +521,23 @@
         "ticketUrl": "https://www.axs.com/events/1407709/taking-back-sunday-tickets",
         "summary": "Taking Back Sunday plays Pearl Concert Theater on October 18, 2026, with Thrice and Saves The Day also listed. The AXS page confirms a 7:00 p.m. show time.",
         "genres": []
+      },
+      {
+        "id": "las-vegas-rnb-fest-2026",
+        "title": "R&B Fest - Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "We All Scream",
+        "venueId": null,
+        "sourceUrl": "https://likeit-loveit.com/us/events/r-and-b-fest-we-all-scream-426/",
+        "ticketUrl": "https://fixr.co/event/rb-fest-las-vegas-tickets-371717799?lang=en-US",
+        "summary": "Touring R&B Fest party at downtown’s We All Scream, built around DJs playing 90s/00s R&B and hip-hop anthems with dancers, visuals, and singalong club energy.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
       },
       {
         "id": "las-vegas-donny-osmond-2026",
@@ -148,21 +556,20 @@
         ]
       },
       {
-        "id": "las-vegas-doja-cat-tour-ma-vie-2026",
-        "title": "Doja Cat – Tour Ma Vie World Tour",
-        "type": "concert",
-        "startDate": "2026-10-31",
-        "endDate": "2026-10-31",
-        "importance": 83,
-        "venueName": "T-Mobile Arena",
+        "id": "las-vegas-bed-by-10-2026",
+        "title": "Bed By 10pm - Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "We All Scream",
         "venueId": null,
-        "sourceUrl": "https://www.t-mobilearena.com/events/detail/doja-cat",
-        "ticketUrl": "https://www.axs.com/events/1157134/doja-cat-tickets?tt_scene=anchor_view",
-        "summary": "Doja Cat’s Tour Ma Vie World Tour is confirmed for T-Mobile Arena on October 31, 2026. The official arena listing places the show in Las Vegas on Halloween night.",
+        "sourceUrl": "https://likeit-loveit.com/us/events/bed-by-10pm-we-all-scream-408/",
+        "ticketUrl": "https://fixr.co/",
+        "summary": "Touring early-evening 30+ clubbing party at We All Scream, focused on 80s, 90s, and early-2000s club classics with a DJ-led dancefloor format ending by 10pm.",
         "genres": [
-          "hip-hop",
-          "r-and-b",
-          "pop"
+          "pop",
+          "electronic"
         ]
       }
     ]

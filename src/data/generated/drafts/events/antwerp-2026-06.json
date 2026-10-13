@@ -2,8 +2,8 @@
   "slug": "antwerp",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:53:03.604Z",
-  "responseId": "resp_04a0e98487afd0400069ffd67fec988195a533766ffff9cf26",
+  "generatedAt": "2026-05-30T18:01:50.518Z",
+  "responseId": "augment:resp_012fc58a551b5b88006a1b25915df4819bb4c8b2843c80cc12",
   "searchCalls": 16,
   "citations": [],
   "data": {
@@ -12,121 +12,6 @@
     "year": 2026,
     "notes": "June 2026 is unusually strong in Antwerp, with arena-scale pop and rock, the three-day Live is Live open-air series, and a run of outdoor/electronic parties around OLT, Ampere, and Olympic Stadium.",
     "events": [
-      {
-        "id": "antwerp-k3-originals-jun-2026",
-        "title": "K3 Originals",
-        "type": "residency",
-        "startDate": "2026-06-07",
-        "endDate": "2026-06-07",
-        "importance": 86,
-        "venueName": "AFAS Dome",
-        "venueId": null,
-        "sourceUrl": "https://www.afas-dome.be/en/event/k3-originals-423b060a",
-        "ticketUrl": "https://www.ticketmaster.be/artist/k3-originals-tickets/1276754",
-        "summary": "Karen, Kristel and Kathleen continue the sold-out K3 Originals reunion run at AFAS Dome, with the source explicitly listing a Sunday 7 June 2026 show at 20:30. This is a major Belgian pop-nostalgia residency rather than a one-off club event.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "antwerp-father-john-misty-2026",
-        "title": "Father John Misty + Grace Cummings",
-        "type": "concert",
-        "startDate": "2026-06-10",
-        "endDate": "2026-06-10",
-        "importance": 76,
-        "venueName": "OLT Rivierenhof",
-        "venueId": null,
-        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/father-john-misty/a0NP500000IEx7VMAT",
-        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/father-john-misty/a0NP500000IEx7VMAT",
-        "summary": "Father John Misty plays OLT Rivierenhof on 10 June 2026 with support from Grace Cummings. The venue page confirms the date, venue, ticket status and 19:00 doors.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "antwerp-garbage-2026",
-        "title": "Garbage: Afscheidstour",
-        "type": "concert",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-13",
-        "importance": 78,
-        "venueName": "OLT Rivierenhof",
-        "venueId": null,
-        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/garbage/a0NP500000IRYMbMAP",
-        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/garbage/a0NP500000IRYMbMAP",
-        "summary": "Garbage bring their farewell tour to OLT Rivierenhof on 13 June 2026. The official venue listing highlights the Antwerp stop as one of the band’s limited European dates and confirms 19:00 doors.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "antwerp-fenrick-u-2026",
-        "title": "Fenrick <3 U! ft. Fenrick, Miamor, Cara Elisabeth & EMILIJA B2B Dj IP",
-        "type": "club-night",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-19",
-        "importance": 70,
-        "venueName": "OLT Rivierenhof",
-        "venueId": null,
-        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/fenrick-3-u/a0NP500000PTRPpMAP",
-        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/fenrick-3-u/a0NP500000PTRPpMAP",
-        "summary": "Fenrick brings the Fenrick <3 U! concept to the open-air OLT stage on 19 June 2026, joined by Miamor, Cara Elisabeth and EMILIJA B2B Dj IP. The venue describes the sound as UK garage, fast breakbeats and high-energy dancefloor music.",
-        "genres": [
-          "electronic",
-          "house"
-        ]
-      },
-      {
-        "id": "antwerp-headspace-v-recordings-2026",
-        "title": "Headspace presents V Recordings: Bryan Gee, Bladerunner, Benny L + more",
-        "type": "club-night",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-20",
-        "importance": 72,
-        "venueName": "Ampere",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2378431",
-        "ticketUrl": "https://ra.co/events/2378431",
-        "summary": "Headspace closes the club season at Ampere on 19 June 2026 with a V Recordings-focused drum & bass bill. Resident Advisor lists Bryan Gee, Bladerunner, Benny L, Command Strange, Paul T & Edward Oberon, This Is Inja and MC hosts, with the event running 22:00–06:00.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
-        "id": "antwerp-disco-seck-2026",
-        "title": "Disco Seck",
-        "type": "club-night",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 72,
-        "venueName": "OLT Rivierenhof",
-        "venueId": null,
-        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/disco-seck/a0NP500000PTQOvMAP",
-        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/disco-seck/a0NP500000PTQOvMAP",
-        "summary": "Disco Seck returns to OLT Rivierenhof on 20 June 2026 for a daytime/evening open-air dance gathering. The confirmed lineup includes Bibi Seck, Oko Stellar, Tori Ann and salute, with the venue citing house, garage and feel-good club energy.",
-        "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "antwerp-froukje-solo-tour-2026",
-        "title": "Froukje: Solo Tour + Morpheus",
-        "type": "concert",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-26",
-        "importance": 76,
-        "venueName": "OLT Rivierenhof",
-        "venueId": null,
-        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
-        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
-        "summary": "Dutch-Belgian pop favorite Froukje brings her Solo Tour to OLT Rivierenhof on 26 June 2026 with support from Morpheus. The official listing confirms the date and describes a solo setup using piano, guitar and electronic elements.",
-        "genres": [
-          "pop",
-          "electronic"
-        ]
-      },
       {
         "id": "antwerp-live-is-live-robbie-williams-2026",
         "title": "Live is Live 2026: Robbie Williams, Sugababes, Suzan & Freek + more",
@@ -142,23 +27,6 @@
         "genres": [
           "festival",
           "pop"
-        ]
-      },
-      {
-        "id": "antwerp-reinier-zonneveld-2026",
-        "title": "Reinier Zonneveld 8H Extended Live",
-        "type": "club-night",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-27",
-        "importance": 82,
-        "venueName": "Olympic Stadium Antwerp",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2418578",
-        "ticketUrl": "https://ra.co/events/2418578",
-        "summary": "Reinier Zonneveld plays an eight-hour extended live set at the Olympic Stadium pop-up arena in Antwerp on 27 June 2026. Resident Advisor confirms the 15:00–23:00 schedule and lists the genres as techno and acid.",
-        "genres": [
-          "techno",
-          "electronic"
         ]
       },
       {
@@ -206,6 +74,281 @@
         "summary": "Live is Live’s Monday 29 June 2026 edition is headlined by Iron Maiden at Middenvijver Park. The official lineup page confirms Epica, Testament, Doro and Fleddy Melculy as special guests.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "antwerp-k3-originals-jun-2026",
+        "title": "K3 Originals",
+        "type": "residency",
+        "startDate": "2026-06-07",
+        "endDate": "2026-06-07",
+        "importance": 86,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.afas-dome.be/en/event/k3-originals-423b060a",
+        "ticketUrl": "https://www.ticketmaster.be/artist/k3-originals-tickets/1276754",
+        "summary": "Karen, Kristel and Kathleen continue the sold-out K3 Originals reunion run at AFAS Dome, with the source explicitly listing a Sunday 7 June 2026 show at 20:30. This is a major Belgian pop-nostalgia residency rather than a one-off club event.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-reinier-zonneveld-2026",
+        "title": "Reinier Zonneveld 8H Extended Live",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 82,
+        "venueName": "Olympic Stadium Antwerp",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2418578",
+        "ticketUrl": "https://ra.co/events/2418578",
+        "summary": "Reinier Zonneveld plays an eight-hour extended live set at the Olympic Stadium pop-up arena in Antwerp on 27 June 2026. Resident Advisor confirms the 15:00–23:00 schedule and lists the genres as techno and acid.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-further-dj-bone-2026",
+        "title": "DJ Bone presents: FURTHER x Ampere 6th Anniversary with DJ Bone b2b Zack Fox",
+        "type": "club-night",
+        "startDate": "2026-06-07",
+        "endDate": "2026-06-07",
+        "importance": 82,
+        "venueName": "Ampere",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431811",
+        "ticketUrl": "https://ra.co/events/2431811",
+        "summary": "A rare Sunday daytime FURTHER anniversary session at Ampere, pairing Detroit techno figure DJ Bone with Zack Fox in a b2b supported by Ellaweeez and Herton.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-transit-festival-2026",
+        "title": "Transit Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 82,
+        "venueName": "Park Vogelzang",
+        "venueId": null,
+        "sourceUrl": "https://happeningnext.com/event/transit-festival-2026-eid3a0dkow9qi",
+        "ticketUrl": "https://www.ticketswap.com/transit-festival",
+        "summary": "Transit returns to Antwerp’s Vogelzang site for an intimate four-stage celebration of modern club and rave culture, foregrounding atmosphere, scenography and a curated 28-act programme.",
+        "genres": [
+          "festival",
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-dour-x-garage-2026",
+        "title": "Dour x Garage",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 80,
+        "venueName": "Garage Klub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2437281",
+        "ticketUrl": "https://ra.co/events/2437281",
+        "summary": "Garage Klub hosts a Dour Festival showcase with 2HOT2PLAY, BILLY, Hannah Laing, ØTTA and Panteros666, positioning the night around hard-bounce, hard-techno and festival-rave energy.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-garbage-2026",
+        "title": "Garbage: Afscheidstour",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 78,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/garbage/a0NP500000IRYMbMAP",
+        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/garbage/a0NP500000IRYMbMAP",
+        "summary": "Garbage bring their farewell tour to OLT Rivierenhof on 13 June 2026. The official venue listing highlights the Antwerp stop as one of the band’s limited European dates and confirms 19:00 doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-curated-phemia-philippa-pacho-2026",
+        "title": "Curated by Phemia: Philippa Pacho",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 77,
+        "venueName": "TRAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2449479",
+        "ticketUrl": "https://ra.co/events/2449479",
+        "summary": "TRAUM resident Phemia curates a focused techno night headlined by Berlin-based Philippa Pacho, joined by Egna and Phemia for groovy, hypnotic and percussion-led techno.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-father-john-misty-2026",
+        "title": "Father John Misty + Grace Cummings",
+        "type": "concert",
+        "startDate": "2026-06-10",
+        "endDate": "2026-06-10",
+        "importance": 76,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/father-john-misty/a0NP500000IEx7VMAT",
+        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/father-john-misty/a0NP500000IEx7VMAT",
+        "summary": "Father John Misty plays OLT Rivierenhof on 10 June 2026 with support from Grace Cummings. The venue page confirms the date, venue, ticket status and 19:00 doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-froukje-solo-tour-2026",
+        "title": "Froukje: Solo Tour + Morpheus",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 76,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
+        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
+        "summary": "Dutch-Belgian pop favorite Froukje brings her Solo Tour to OLT Rivierenhof on 26 June 2026 with support from Morpheus. The official listing confirms the date and describes a solo setup using piano, guitar and electronic elements.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-oh-honey-hard-long-2026",
+        "title": "Oh Honey... we go hard and long",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 76,
+        "venueName": "TRAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2435529",
+        "ticketUrl": "https://ra.co/events/2435529",
+        "summary": "Queer Antwerp party Oh Honey stretches to a 12-hour TRAUM edition, splitting the club between raw euphoric techno in the main room and a house-focused balcony plus morning afterhours.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-lb-aka-labat-2026",
+        "title": "LB a.k.a. LABAT",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 75,
+        "venueName": "TRAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2449477",
+        "ticketUrl": "https://ra.co/events/2449477",
+        "summary": "TRAUM hosts Lyon-born producer and Poumpet Records founder LB aka LABAT for a genre-crossing night of filtered house, UKG, hard house, techno and hip-house with She The DJ and MOKER.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-traum-the-hacker-2026",
+        "title": "Traum: The Hacker",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-13",
+        "importance": 74,
+        "venueName": "TRAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412634",
+        "ticketUrl": "https://ra.co/events/2412634",
+        "summary": "French electro mainstay The Hacker headlines TRAUM with John Noseda and renni, bridging electro, Italo disco, EBM, early house and noir club sounds.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "antwerp-enfnts-terribles-2026",
+        "title": "ENFNTS TERRIBLES x Antwerp Fashion Festival Afterparty",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 74,
+        "venueName": "TRAUM",
+        "venueId": null,
+        "sourceUrl": "https://www.djguide.nl/party.p/564276/enfnts-terribles?language=en",
+        "ticketUrl": "https://www.djguide.nl/party.p/564276/enfnts-terribles?language=en",
+        "summary": "Antwerp tastemakers ENFNTS TERRIBLES take over TRAUM as the Antwerp Fashion Festival afterparty, with Josh Caffé, Dana Montana, Malo Z, Ivan Smagghe and r.omy across house, techno, electro and queer underground sounds.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-headspace-v-recordings-2026",
+        "title": "Headspace presents V Recordings: Bryan Gee, Bladerunner, Benny L + more",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 72,
+        "venueName": "Ampere",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2378431",
+        "ticketUrl": "https://ra.co/events/2378431",
+        "summary": "Headspace closes the club season at Ampere on 19 June 2026 with a V Recordings-focused drum & bass bill. Resident Advisor lists Bryan Gee, Bladerunner, Benny L, Command Strange, Paul T & Edward Oberon, This Is Inja and MC hosts, with the event running 22:00–06:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-disco-seck-2026",
+        "title": "Disco Seck",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 72,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/disco-seck/a0NP500000PTQOvMAP",
+        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/disco-seck/a0NP500000PTQOvMAP",
+        "summary": "Disco Seck returns to OLT Rivierenhof on 20 June 2026 for a daytime/evening open-air dance gathering. The confirmed lineup includes Bibi Seck, Oko Stellar, Tori Ann and salute, with the venue citing house, garage and feel-good club energy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-fenrick-u-2026",
+        "title": "Fenrick <3 U! ft. Fenrick, Miamor, Cara Elisabeth & EMILIJA B2B Dj IP",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 70,
+        "venueName": "OLT Rivierenhof",
+        "venueId": null,
+        "sourceUrl": "https://www.oltrivierenhof.be/nl/programma/fenrick-3-u/a0NP500000PTRPpMAP",
+        "ticketUrl": "https://www.oltrivierenhof.be/nl/programma/fenrick-3-u/a0NP500000PTRPpMAP",
+        "summary": "Fenrick brings the Fenrick <3 U! concept to the open-air OLT stage on 19 June 2026, joined by Miamor, Cara Elisabeth and EMILIJA B2B Dj IP. The venue describes the sound as UK garage, fast breakbeats and high-energy dancefloor music.",
+        "genres": [
+          "electronic",
+          "house"
         ]
       }
     ]

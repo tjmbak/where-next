@@ -2,9 +2,9 @@
   "slug": "lisbon-portimao",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:47:43.093Z",
-  "responseId": "resp_0a29a4e6f629726d0069ff56ae513c8193981ce6ef3688aea5",
-  "searchCalls": 13,
+  "generatedAt": "2026-05-30T18:19:37.913Z",
+  "responseId": "augment:resp_04cbdddf9fca55b9006a1b29d5d57c81988b2caafe17a2d8a2",
+  "searchCalls": 12,
   "citations": [],
   "data": {
     "destinationSlug": "lisbon-portimao",
@@ -13,19 +13,74 @@
     "notes": "June 2026 is a peak music-travel month, with Rock in Rio anchoring Lisbon and beach-led dance/rap programming stretching to Costa da Caparica and Portimão.",
     "events": [
       {
-        "id": "lisbon-portimao-father-john-misty-jun-2026",
-        "title": "Father John Misty",
-        "type": "concert",
-        "startDate": "2026-06-01",
-        "endDate": "2026-06-01",
-        "importance": 72,
-        "venueName": "Sagres Campo Pequeno",
+        "id": "lisbon-portimao-rock-in-rio-lisboa-jun21-2026",
+        "title": "Rock in Rio Lisboa 2026 – June 21: Linkin Park, Cypress Hill and The Pretty Reckless",
+        "type": "festival",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 96,
+        "venueName": "Parque Tejo",
         "venueId": null,
-        "sourceUrl": "https://www.sagrescampopequeno.pt/en/calendar/father-john-misty",
-        "ticketUrl": null,
-        "summary": "Father John Misty opens his European summer run with a Lisbon concert at Sagres Campo Pequeno, performing material from Mahashmashana and his wider singer-songwriter catalogue.",
+        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
+        "ticketUrl": "https://tickets.rockinriolisboa.pt",
+        "summary": "Rock in Rio Lisboa’s June 21 bill is headed by Linkin Park, with Cypress Hill, The Pretty Reckless, Grandson, Kaiser Chiefs, Hoobastank, Sepultura, P.O.D. and Portuguese acts including Sam The Kid with Orquestra e Orelha Negra.",
         "genres": [
+          "festival",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-rock-in-rio-lisboa-jun20-2026",
+        "title": "Rock in Rio Lisboa 2026 – June 20: Katy Perry, Charlie Puth, Pedro Sampaio, Calema and Alok",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 95,
+        "venueName": "Parque Tejo",
+        "venueId": null,
+        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
+        "ticketUrl": "https://tickets.rockinriolisboa.pt",
+        "summary": "The opening Saturday of Rock in Rio Lisboa 2026 is led by Katy Perry and Charlie Puth, with Pedro Sampaio, Calema, Alok, Audrey Nuna, Nena, Maninho, Bebe Rexha, Napa and Sofia Camara also listed.",
+        "genres": [
+          "pop",
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-rock-in-rio-lisboa-jun28-2026",
+        "title": "Rock in Rio Lisboa 2026 – June 28: 21 Savage, Central Cee, Rema and Matuê",
+        "type": "festival",
+        "startDate": "2026-06-28",
+        "endDate": "2026-06-28",
+        "importance": 95,
+        "venueName": "Parque Tejo",
+        "venueId": null,
+        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
+        "ticketUrl": "https://tickets.rockinriolisboa.pt",
+        "summary": "The final day of Rock in Rio Lisboa 2026 is a hip-hop, Afrobeats and pop-leaning bill headed by 21 Savage, Central Cee, Rema and Matuê, with Filipe Ret, Dennis, Carlão, Irina Barros, Lola Índigo and CeeLo Green also confirmed.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
           "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-rock-in-rio-lisboa-jun27-2026",
+        "title": "Rock in Rio Lisboa 2026 – June 27: Rod Stewart, Cyndi Lauper, Shaggy and 4 Non Blondes",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 94,
+        "venueName": "Parque Tejo",
+        "venueId": null,
+        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
+        "ticketUrl": "https://tickets.rockinriolisboa.pt",
+        "summary": "Rock in Rio Lisboa’s June 27 lineup brings classic pop and rock names including Rod Stewart, Cyndi Lauper, Shaggy, 4 Non Blondes, Xutos & Pontapés, GNR, UHF, Jafumega, Joss Stone, Belo, The Wailers and Syro.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "festival"
         ]
       },
       {
@@ -44,6 +99,59 @@
           "pop",
           "hip-hop",
           "r-and-b"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-rhythm-waves-portimao-jun-2026",
+        "title": "Rhythm + Waves 2026",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-28",
+        "importance": 86,
+        "venueName": "Praia da Rocha",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/festivals/3329401-rhythm-waves/id/42924646-rhythm--waves-2026",
+        "ticketUrl": "https://www.seetickets.com/pt/event/rhythm-waves-festival/praia-da-rocha/3564518",
+        "summary": "Rhythm + Waves debuts on Praia da Rocha in Portimão with a rap and electronic lineup listing A Boogie Wit da Hoodie, Gunna, Chase & Status, Ken Carson, D-Block Europe, Destroy Lonely, Skream, Andy C, Sherelle and more.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-suncebeat-new-horizons-jun-2026",
+        "title": "SuncéBeat New Horizons Lisbon 2026",
+        "type": "festival",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-22",
+        "importance": 84,
+        "venueName": "Irmão, Costa da Caparica",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/suncebeat-new-horizons-lisbon-18-22-june-2026",
+        "ticketUrl": "https://shotgun.live/en/festivals/suncebeat-new-horizons-lisbon-18-22-june-2026",
+        "summary": "SuncéBeat New Horizons returns to Costa da Caparica with house, funk, soul, disco, R&B and live/DJ programming across Irmão, Praia da Sereia afterparties and boat parties. The confirmed lineup includes Kenny Dope, Louie Vega, Chez Damier, DJ Spen, Jeremy Underground, Henrik Schwarz and more.",
+        "genres": [
+          "house",
+          "afro-house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-golfos-dennis-cruz-pawsa-2026",
+        "title": "Golfos Lisboa - Dennis Cruz B2B PAWSA",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-13",
+        "importance": 84,
+        "venueName": "Terreiro das Missas",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/golfos-lisboa-dennis-cruz-b-2-b-pawsa",
+        "ticketUrl": "https://shotgun.live/en/events/golfos-lisboa-dennis-cruz-b-2-b-pawsa",
+        "summary": "Golfos lands in Lisbon for the first time with Dennis Cruz and PAWSA’s B2B project, a nine-hour house takeover from afternoon into late night with over 1,000 listed as interested.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -80,73 +188,107 @@
         ]
       },
       {
-        "id": "lisbon-portimao-suncebeat-new-horizons-jun-2026",
-        "title": "SuncéBeat New Horizons Lisbon 2026",
-        "type": "festival",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-22",
-        "importance": 84,
-        "venueName": "Irmão, Costa da Caparica",
-        "venueId": null,
-        "sourceUrl": "https://shotgun.live/en/festivals/suncebeat-new-horizons-lisbon-18-22-june-2026",
-        "ticketUrl": "https://shotgun.live/en/festivals/suncebeat-new-horizons-lisbon-18-22-june-2026",
-        "summary": "SuncéBeat New Horizons returns to Costa da Caparica with house, funk, soul, disco, R&B and live/DJ programming across Irmão, Praia da Sereia afterparties and boat parties. The confirmed lineup includes Kenny Dope, Louie Vega, Chez Damier, DJ Spen, Jeremy Underground, Henrik Schwarz and more.",
-        "genres": [
-          "house",
-          "afro-house",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "lisbon-portimao-excursions-lisbon-jun-2026",
-        "title": "Excursions: Lisbon 2026",
+        "id": "lisbon-portimao-collect-move-d-2026",
+        "title": "Collect 7 Years with Move D",
         "type": "club-night",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-18",
-        "importance": 70,
-        "venueName": "Rive Rouge",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 78,
+        "venueName": "TBA - Portugal",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2421013",
-        "ticketUrl": "https://ra.co/events/2421013",
-        "summary": "Chicago house institution Excursions lands at Rive Rouge with Cordell Johnson, James Vincent and Godi Osegueda for a late-night Lisbon session.",
+        "sourceUrl": "https://ra.co/events/2354336",
+        "ticketUrl": "https://ra.co/events/2354336",
+        "summary": "Collect marks seven years with an annual pool-party edition headlined by Move D, framed as a private villa gathering for deep, disco-rooted underground house.",
         "genres": [
           "house",
           "electronic"
         ]
       },
       {
-        "id": "lisbon-portimao-rock-in-rio-lisboa-jun20-2026",
-        "title": "Rock in Rio Lisboa 2026 – June 20: Katy Perry, Charlie Puth, Pedro Sampaio, Calema and Alok",
-        "type": "festival",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 95,
-        "venueName": "Parque Tejo",
+        "id": "lisbon-portimao-fuse-dubfire-2026",
+        "title": "Fuse All Night: Dubfire",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 78,
+        "venueName": "Ministerium Club",
         "venueId": null,
-        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
-        "ticketUrl": "https://tickets.rockinriolisboa.pt",
-        "summary": "The opening Saturday of Rock in Rio Lisboa 2026 is led by Katy Perry and Charlie Puth, with Pedro Sampaio, Calema, Alok, Audrey Nuna, Nena, Maninho, Bebe Rexha, Napa and Sofia Camara also listed.",
+        "sourceUrl": "https://ra.co/events/2422440",
+        "ticketUrl": "https://ra.co/events/2422440",
+        "summary": "Lisbon institution Fuse Records hosts an all-night Ministerium session with Dubfire, Gusta-vo, DJ Nox, Dario Dea and DANNI across techno and house.",
         "genres": [
-          "pop",
-          "electronic",
-          "latin"
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "lisbon-portimao-rock-in-rio-lisboa-jun21-2026",
-        "title": "Rock in Rio Lisboa 2026 – June 21: Linkin Park, Cypress Hill and The Pretty Reckless",
-        "type": "festival",
-        "startDate": "2026-06-21",
-        "endDate": "2026-06-21",
-        "importance": 96,
-        "venueName": "Parque Tejo",
+        "id": "lisbon-portimao-basement-love-gop-tun-2026",
+        "title": "Basement Love x Gop Tun with Ryan Elliott",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 78,
+        "venueName": "Those Who Dance",
         "venueId": null,
-        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
-        "ticketUrl": "https://tickets.rockinriolisboa.pt",
-        "summary": "Rock in Rio Lisboa’s June 21 bill is headed by Linkin Park, with Cypress Hill, The Pretty Reckless, Grandson, Kaiser Chiefs, Hoobastank, Sepultura, P.O.D. and Portuguese acts including Sam The Kid with Orquestra e Orelha Negra.",
+        "sourceUrl": "https://ra.co/events/2382674",
+        "ticketUrl": "https://ra.co/events/2382674",
+        "summary": "Lisbon promoter Basement Love links with Brazilian party institution Gop Tun for a house night at Those Who Dance led by Ryan Elliott alongside Tiago Oudman, Gop Tun DJs and Adriana Ruas.",
         "genres": [
-          "festival",
-          "hip-hop"
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-voyage-festival-edition-2026",
+        "title": "Voyage Festival Edition",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 76,
+        "venueName": "Anfiteatro de Pedra / Lorosae Sol Nascente Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/voyage-festival-edition",
+        "ticketUrl": "https://shotgun.live/en/festivals/voyage-festival-edition",
+        "summary": "Three-day Voyage edition spanning Tapada da Ajuda’s Stone Amphitheatre and a beach-club closing sunset, with Afro house, electronica and progressive house names including Maxi Meraki, AJNA, Fiona Kraft and DJ Vibe.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-sarau-stacy-kidd-2026",
+        "title": "Sarau Presents Stacy Kidd (US)",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Carmo rooftop",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/sarau-presents-stacy-kidd-usa-at-carmo-rooftop-14-june",
+        "ticketUrl": "https://shotgun.live/en/events/sarau-presents-stacy-kidd-usa-at-carmo-rooftop-14-june",
+        "summary": "Sarau Music Gatherings hosts Chicago house veteran Stacy Kidd at Carmo Rooftop with residents M.Dusa and Yvu for a free, soulful house-focused Sunday session.",
+        "genres": [
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-father-john-misty-jun-2026",
+        "title": "Father John Misty",
+        "type": "concert",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-01",
+        "importance": 72,
+        "venueName": "Sagres Campo Pequeno",
+        "venueId": null,
+        "sourceUrl": "https://www.sagrescampopequeno.pt/en/calendar/father-john-misty",
+        "ticketUrl": null,
+        "summary": "Father John Misty opens his European summer run with a Lisbon concert at Sagres Campo Pequeno, performing material from Mahashmashana and his wider singer-songwriter catalogue.",
+        "genres": [
+          "pop"
         ]
       },
       {
@@ -167,57 +309,56 @@
         ]
       },
       {
-        "id": "lisbon-portimao-rock-in-rio-lisboa-jun27-2026",
-        "title": "Rock in Rio Lisboa 2026 – June 27: Rod Stewart, Cyndi Lauper, Shaggy and 4 Non Blondes",
-        "type": "festival",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-27",
-        "importance": 94,
-        "venueName": "Parque Tejo",
+        "id": "lisbon-portimao-assembling-lx-factory-2026",
+        "title": "ASSEMBLING Lx Factory Lisboa w/ Lowtec Live + Roger 23",
+        "type": "club-night",
+        "startDate": "2026-06-25",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "LX Factory",
         "venueId": null,
-        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
-        "ticketUrl": "https://tickets.rockinriolisboa.pt",
-        "summary": "Rock in Rio Lisboa’s June 27 lineup brings classic pop and rock names including Rod Stewart, Cyndi Lauper, Shaggy, 4 Non Blondes, Xutos & Pontapés, GNR, UHF, Jafumega, Joss Stone, Belo, The Wailers and Syro.",
+        "sourceUrl": "https://ra.co/events/2398148",
+        "ticketUrl": null,
+        "summary": "Assemble Music continues its 11th summer season of free outdoor LX Factory sessions with Lowtec live, Roger 23, Solid-Funk and Schlingen across house and techno.",
         "genres": [
-          "pop",
-          "r-and-b",
-          "festival"
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "lisbon-portimao-rhythm-waves-portimao-jun-2026",
-        "title": "Rhythm + Waves 2026",
-        "type": "festival",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-28",
-        "importance": 86,
-        "venueName": "Praia da Rocha",
+        "id": "lisbon-portimao-artemis-boat-edition-10-2026",
+        "title": "Boat Edition #10",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Cais Rocha Conde de Óbidos",
         "venueId": null,
-        "sourceUrl": "https://www.songkick.com/festivals/3329401-rhythm-waves/id/42924646-rhythm--waves-2026",
-        "ticketUrl": "https://www.seetickets.com/pt/event/rhythm-waves-festival/praia-da-rocha/3564518",
-        "summary": "Rhythm + Waves debuts on Praia da Rocha in Portimão with a rap and electronic lineup listing A Boogie Wit da Hoodie, Gunna, Chase & Status, Ken Carson, D-Block Europe, Destroy Lonely, Skream, Andy C, Sherelle and more.",
+        "sourceUrl": "https://shotgun.live/en/events/boat-edition",
+        "ticketUrl": "https://shotgun.live/en/events/boat-edition",
+        "summary": "Artemis Boat Edition returns for its 10th Lisbon sailing with Afro house, house and deep house selectors including Djorge Cadete, Pedro Tabuada and Jess Soveral.",
         "genres": [
-          "hip-hop",
-          "electronic",
-          "techno"
+          "afro-house",
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "lisbon-portimao-rock-in-rio-lisboa-jun28-2026",
-        "title": "Rock in Rio Lisboa 2026 – June 28: 21 Savage, Central Cee, Rema and Matuê",
-        "type": "festival",
-        "startDate": "2026-06-28",
-        "endDate": "2026-06-28",
-        "importance": 95,
-        "venueName": "Parque Tejo",
+        "id": "lisbon-portimao-excursions-lisbon-jun-2026",
+        "title": "Excursions: Lisbon 2026",
+        "type": "club-night",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 70,
+        "venueName": "Rive Rouge",
         "venueId": null,
-        "sourceUrl": "https://rockinriolisboa.pt/en/line-up?pag=1",
-        "ticketUrl": "https://tickets.rockinriolisboa.pt",
-        "summary": "The final day of Rock in Rio Lisboa 2026 is a hip-hop, Afrobeats and pop-leaning bill headed by 21 Savage, Central Cee, Rema and Matuê, with Filipe Ret, Dennis, Carlão, Irina Barros, Lola Índigo and CeeLo Green also confirmed.",
+        "sourceUrl": "https://ra.co/events/2421013",
+        "ticketUrl": "https://ra.co/events/2421013",
+        "summary": "Chicago house institution Excursions lands at Rive Rouge with Cordell Johnson, James Vincent and Godi Osegueda for a late-night Lisbon session.",
         "genres": [
-          "hip-hop",
-          "r-and-b",
-          "pop"
+          "house",
+          "electronic"
         ]
       }
     ]

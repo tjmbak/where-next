@@ -1,0 +1,319 @@
+{
+  "slug": "paris",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:19:56.049Z",
+  "responseId": "resp_0d04a022852dfdb6006acda2c7703487d0b9647bd10f29c537+resp_0996f6cb7d186185006acda31b435887d0a41c5a1e393fe21e",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is already strong for Paris arena and theatre touring—especially electronic, jazz/R&B and pop—while many underground club calendars are not yet published this far out.",
+    "events": [
+      {
+        "id": "paris-charli-xcx-accor-2027",
+        "title": "Charli xcx – Music, Fashion, Film Tour",
+        "type": "concert",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-24",
+        "importance": 90,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/charli-xcx--d6a28",
+        "ticketUrl": "https://www.livenation.fr/event/charli-xcx-music-fashion-film-tour-paris-tickets-edp1691962",
+        "summary": "Charli xcx brings the Music, Fashion, Film Tour to Accor Arena, with Live Nation listing Audrey Hobert as support.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-chase-status-zenith-2027",
+        "title": "Chase & Status",
+        "type": "concert",
+        "startDate": "2027-02-28",
+        "endDate": "2027-02-28",
+        "importance": 86,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Chase%20&%20Status-22709",
+        "ticketUrl": "https://le-zenith.com/shows/Chase%20&%20Status-22709",
+        "summary": "Chase & Status close the month at Zénith Paris - La Villette, bringing their UK drum & bass and electronic live concept SECTION 63 to Paris.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-john-summit-zenith-2027",
+        "title": "John Summit",
+        "type": "concert",
+        "startDate": "2027-02-23",
+        "endDate": "2027-02-23",
+        "importance": 85,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/John%20Summit-22700",
+        "ticketUrl": "https://le-zenith.com/shows/John%20Summit-22700",
+        "summary": "John Summit plays Zénith Paris - La Villette, with the venue framing him as a major global electronic figure behind the Experts Only label and movement.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-aespa-synk-complexity-2027",
+        "title": "2026-27 aespa LIVE TOUR–SYNK:Complæxity",
+        "type": "concert",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/2026-27-aespa-live-toursynkcomplaexity--ccab2",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/2026-27-aespa-live-toursynkcomplaexity--ccab2",
+        "summary": "K-pop group aespa brings its global SYNK:Complæxity tour to Accor Arena, with the venue billing it as part of an arena tour across Asia, the Americas, the UK and Europe.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-masego-pleyel-2027",
+        "title": "Masego – Fix Your Face Tour",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 82,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/masego/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/masego/",
+        "summary": "Masego plays Salle Pleyel on the Fix Your Face Tour, with the venue describing a live show shaped by jazz, R&B, hip-hop and his multi-instrumentalist approach.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-ezra-collective-zenith-2027",
+        "title": "Ezra Collective",
+        "type": "concert",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-24",
+        "importance": 82,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Ezra%20Collective-21823",
+        "ticketUrl": "https://le-zenith.com/shows/Ezra%20Collective-21823",
+        "summary": "Mercury Prize- and BRIT Award-winning UK band Ezra Collective comes to Zénith Paris - La Villette, with JOY Anonymous listed as support.",
+        "genres": [
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-emeli-sande-pleyel-2027",
+        "title": "Emeli Sandé – Our Version of Events 15th Anniversary",
+        "type": "concert",
+        "startDate": "2027-02-22",
+        "endDate": "2027-02-22",
+        "importance": 80,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/emeli-sande/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/emeli-sande/",
+        "summary": "Emeli Sandé performs at Salle Pleyel on a 15th-anniversary tour for Our Version of Events, billed as her only France stop on the tour.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-phantom-galop-galop-2027",
+        "title": "Phantom X Galop Galop: Bassjackers, Part Time Killer",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-21",
+        "importance": 80,
+        "venueName": "Phantom Paris",
+        "venueId": null,
+        "sourceUrl": "https://shtgn.live/en/events/phantom-x-galop-galop",
+        "ticketUrl": "https://shtgn.live/en/events/phantom-x-galop-galop",
+        "summary": "Large-format Phantom x Galop Galop club night pairing Bassjackers with Part Time Killer and a trance/techno lineup, listed with strong interest on Shotgun.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-lewis-ofman-machine-2027",
+        "title": "Lewis OfMan",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 76,
+        "venueName": "La Machine du Moulin Rouge",
+        "venueId": null,
+        "sourceUrl": "https://www.lamachinedumoulinrouge.com/evenement/lewis-ofman/",
+        "ticketUrl": "https://www.lamachinedumoulinrouge.com/evenement/lewis-ofman/",
+        "summary": "Lewis OfMan moves into La Machine du Moulin Rouge for a concert/club-format Paris date built around electro-pop, disco grooves and synth textures.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-electric-callboy-accor-2027",
+        "title": "Electric Callboy",
+        "type": "concert",
+        "startDate": "2027-02-15",
+        "endDate": "2027-02-15",
+        "importance": 74,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/electric-callboy--5d961",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/electric-callboy--5d961",
+        "summary": "Electric Callboy brings the TANZNEID World Tour 2027 to Accor Arena, with the venue highlighting the band’s mix of heavy riffs, electronic beats and high-energy staging.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-evnne-bataclan-2027",
+        "title": "EVNNE “ONE TAKE” Tour",
+        "type": "concert",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "importance": 72,
+        "venueName": "Le Bataclan",
+        "venueId": null,
+        "sourceUrl": "https://www.bataclan.fr/en/event/evnne_2027-02-14_en/",
+        "ticketUrl": "https://www.bataclan.fr/en/event/evnne_2027-02-14_en/",
+        "summary": "K-pop group EVNNE brings its ONE TAKE fan-concert tour to Le Bataclan, with Paris listed among the tour’s international stops.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-mon-amour-valentines-2027",
+        "title": "Mon Amour - Valentine’s Night",
+        "type": "club-night",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-14",
+        "importance": 72,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/venues/monamour",
+        "ticketUrl": "https://shotgun.live/en/venues/monamour",
+        "summary": "Valentine’s edition from Mon Amour, a recurring Paris house/electro promoter brand with Afro-house and tech-house programming and a sizable Shotgun following.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-erik-truffaz-antonio-lizana-2027",
+        "title": "Erik Truffaz & Antonio Lizana",
+        "type": "concert",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 70,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/erik-truffaz-antonio-lizana/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/erik-truffaz-antonio-lizana/",
+        "summary": "Electro-jazz trumpeter Erik Truffaz joins saxophonist/vocalist Antonio Lizana for a Salle Pleyel concert inspired by jazz, flamenco and Spanish musical traditions.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-pasion-de-buena-vista-2027",
+        "title": "Pasión de Buena Vista",
+        "type": "concert",
+        "startDate": "2027-02-03",
+        "endDate": "2027-02-03",
+        "importance": 70,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/pasion-de-buena-vista/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/pasion-de-buena-vista/",
+        "summary": "Pasión de Buena Vista brings a Cuban music-and-dance production to Salle Pleyel, centered on rumba, mambo, cha-cha-cha, salsa and classic Cuban repertoire.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "paris-sam-quealy-olympia-2027",
+        "title": "Sam Quealy",
+        "type": "concert",
+        "startDate": "2027-02-09",
+        "endDate": "2027-02-09",
+        "importance": 70,
+        "venueName": "L’Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/en/upcoming-events/sam-quealy/",
+        "ticketUrl": "https://www.olympiahall.com/en/upcoming-events/sam-quealy/",
+        "summary": "Paris-based performer Sam Quealy presents her album JAWBREAKER at L’Olympia, with the venue describing a dance-pop, disco and electro show shaped by club culture.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-young-chang-mc-olympia-2027",
+        "title": "Young Chang MC",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 70,
+        "venueName": "L’Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/agenda/young-chang-mc/",
+        "ticketUrl": "https://www.olympiahall.com/agenda/young-chang-mc/",
+        "summary": "Guadeloupean artist Young Chang MC plays L’Olympia with a set rooted in Caribbean dancehall, rap and Antillean sounds.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-generation-90-2000-2027",
+        "title": "Generation 90 Vs 2000 (Sam 06 Fév)",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-07",
+        "importance": 70,
+        "venueName": "Bateau Concorde Atlantique",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/es/events/generation-90-vs-2000-sam-06-fev",
+        "ticketUrl": "https://r.shotgun.live/es/events/generation-90-vs-2000-sam-06-fev",
+        "summary": "Recurring 90s/2000s boat-party brand on the Seine, mixing pop, house and hip-hop across two floors and a covered terrace, with the listing advertising 800+ partygoers.",
+        "genres": [
+          "pop",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-dominguinho-pleyel-2027",
+        "title": "Dominguinho",
+        "type": "concert",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-17",
+        "importance": 68,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/dominguinho/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/dominguinho/",
+        "summary": "João Gomes, Mestrinho and Jota.Pê present Dominguinho at Salle Pleyel, bringing a Brazilian music project centered on warmth, songcraft and live performance.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

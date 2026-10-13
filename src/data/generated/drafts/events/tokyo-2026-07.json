@@ -2,9 +2,9 @@
   "slug": "tokyo",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:43:28.533Z",
-  "responseId": "resp_01cd9f0faf767c1a0069ff63c9e22881a2ab19795ad220d6b7",
-  "searchCalls": 15,
+  "generatedAt": "2026-05-30T18:51:05.397Z",
+  "responseId": "augment:resp_06e169fdd4257656006a1b31379578819bbd703c27310dd296",
+  "searchCalls": 18,
   "citations": [],
   "data": {
     "destinationSlug": "tokyo",
@@ -13,36 +13,36 @@
     "notes": "July 2026 is unusually strong for Tokyo-area arena and stadium pop, with confirmed anime-song festivals, idol/franchise live events, and international R&B headliners already on sale or announced.",
     "events": [
       {
-        "id": "tokyo-stereolab-japan-tour-2026",
-        "title": "STEREOLAB Japan Tour 2026",
+        "id": "tokyo-mrs-green-apple-stadium-2026",
+        "title": "Mrs. GREEN APPLE: ZENJIN MITO TO IM/MUTABLE ~Interlude~",
         "type": "concert",
-        "startDate": "2026-07-01",
-        "endDate": "2026-07-01",
-        "importance": 72,
-        "venueName": "KANDA SQUARE HALL",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 92,
+        "venueName": "MUFG Stadium (National Stadium)",
         "venueId": null,
-        "sourceUrl": "https://kanda-square.com/event/stereolab-japan-tour-2026/",
+        "sourceUrl": "https://mrsgreenapple.com/feature/zenjinmito_2026?_normalbrowse_=1&app=&lang=en",
         "ticketUrl": null,
-        "summary": "Stereolab play KANDA SQUARE HALL on July 1 with doors at 18:00 and showtime at 19:00. The venue page confirms the Japan tour date, location, and SMASH production credit.",
+        "summary": "Mrs. GREEN APPLE close their stadium run with two Tokyo dates at MUFG Stadium on July 4 and July 5, both opening at 16:30 and starting at 18:30. The official tour page lists the National Stadium schedule and SOGO TOKYO inquiry details.",
         "genres": [
-          "pop",
-          "electronic"
+          "pop"
         ]
       },
       {
-        "id": "tokyo-ichiko-aoba-nhk-hall-2026",
-        "title": "Ichiko Aoba: 文月の衣紋に綴る熱帯魚",
-        "type": "concert",
-        "startDate": "2026-07-02",
-        "endDate": "2026-07-02",
-        "importance": 72,
-        "venueName": "NHK Hall",
+        "id": "tokyo-animelo-summer-live-2026",
+        "title": "Animelo Summer Live 2026 -Messenger-",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-12",
+        "importance": 90,
+        "venueName": "Makuhari Messe",
         "venueId": null,
-        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27744",
+        "sourceUrl": "https://anisama.tv/2026/en/",
         "ticketUrl": null,
-        "summary": "Ichiko Aoba is confirmed for NHK Hall on July 2, opening at 18:00 and starting at 19:00. The HOT STUFF promotion page lists the date, venue, and ticket tiers.",
+        "summary": "Animelo Summer Live 2026 runs July 10–12 at Makuhari Messe in Chiba, with artists including SHOUTA AOI, angela, fripSide, GRANRODEO, TrySail, MYTH & ROID, Umamusume: Pretty Derby, CHiCO with HoneyWorks, and ReoNa. The official English site bills ANISAMA as a major anime-song music event and lists daily lineups and start times.",
         "genres": [
-          "pop"
+          "pop",
+          "festival"
         ]
       },
       {
@@ -64,17 +64,17 @@
         ]
       },
       {
-        "id": "tokyo-mrs-green-apple-stadium-2026",
-        "title": "Mrs. GREEN APPLE: ZENJIN MITO TO IM/MUTABLE ~Interlude~",
+        "id": "tokyo-hige-dandism-k-arena-2026",
+        "title": "OFFICIAL HIGE DANDISM one-man tour 2026",
         "type": "concert",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-05",
-        "importance": 92,
-        "venueName": "MUFG Stadium (National Stadium)",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 88,
+        "venueName": "K-Arena Yokohama",
         "venueId": null,
-        "sourceUrl": "https://mrsgreenapple.com/feature/zenjinmito_2026?_normalbrowse_=1&app=&lang=en",
+        "sourceUrl": "https://k-arena.com/en/schedule/20260725-1/",
         "ticketUrl": null,
-        "summary": "Mrs. GREEN APPLE close their stadium run with two Tokyo dates at MUFG Stadium on July 4 and July 5, both opening at 16:30 and starting at 18:30. The official tour page lists the National Stadium schedule and SOGO TOKYO inquiry details.",
+        "summary": "Official HIGE DANdism are confirmed for K-Arena Yokohama on July 25 and July 26, with the venue schedule listing 18:00 starts. K-Arena’s official event pages confirm the artist, dates, and ticket categories.",
         "genres": [
           "pop"
         ]
@@ -94,57 +94,6 @@
         "genres": [
           "r-and-b",
           "jazz"
-        ]
-      },
-      {
-        "id": "tokyo-animelo-summer-live-2026",
-        "title": "Animelo Summer Live 2026 -Messenger-",
-        "type": "festival",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-12",
-        "importance": 90,
-        "venueName": "Makuhari Messe",
-        "venueId": null,
-        "sourceUrl": "https://anisama.tv/2026/en/",
-        "ticketUrl": null,
-        "summary": "Animelo Summer Live 2026 runs July 10–12 at Makuhari Messe in Chiba, with artists including SHOUTA AOI, angela, fripSide, GRANRODEO, TrySail, MYTH & ROID, Umamusume: Pretty Derby, CHiCO with HoneyWorks, and ReoNa. The official English site bills ANISAMA as a major anime-song music event and lists daily lineups and start times.",
-        "genres": [
-          "pop",
-          "festival"
-        ]
-      },
-      {
-        "id": "tokyo-gaerea-live-2026",
-        "title": "GAEREA Live in Tokyo 2026",
-        "type": "concert",
-        "startDate": "2026-07-14",
-        "endDate": "2026-07-14",
-        "importance": 66,
-        "venueName": "Daikanyama SPACE ODD",
-        "venueId": null,
-        "sourceUrl": "https://www.creativeman.co.jp/event/gaerea26/",
-        "ticketUrl": null,
-        "summary": "Portuguese extreme-metal act GAEREA make their first Japan appearance at Daikanyama SPACE ODD on July 14. Creativeman confirms the Tokyo-only show with doors at 18:00 and start at 19:00.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
-        "id": "tokyo-honne-anniversary-2026",
-        "title": "HONNE 10 YEAR ANNIVERSARY TOUR",
-        "type": "concert",
-        "startDate": "2026-07-22",
-        "endDate": "2026-07-22",
-        "importance": 75,
-        "venueName": "SGC Hall Ariake",
-        "venueId": null,
-        "sourceUrl": "https://www.creativeman.co.jp/event/honne_2026/",
-        "ticketUrl": null,
-        "summary": "HONNE bring their 10 Year Anniversary Tour to SGC Hall Ariake on July 22. Creativeman confirms the Tokyo performance, with doors at 18:00 and showtime at 19:00.",
-        "genres": [
-          "pop",
-          "r-and-b",
-          "electronic"
         ]
       },
       {
@@ -181,19 +130,23 @@
         ]
       },
       {
-        "id": "tokyo-hige-dandism-k-arena-2026",
-        "title": "OFFICIAL HIGE DANDISM one-man tour 2026",
-        "type": "concert",
+        "id": "tokyo-afro-jam-festival-2026",
+        "title": "AFRO JAM FESTIVAL TOKYO 2026",
+        "type": "festival",
         "startDate": "2026-07-25",
-        "endDate": "2026-07-26",
-        "importance": 88,
-        "venueName": "K-Arena Yokohama",
+        "endDate": "2026-07-27",
+        "importance": 84,
+        "venueName": "Musashino Forest Sport Plaza",
         "venueId": null,
-        "sourceUrl": "https://k-arena.com/en/schedule/20260725-1/",
-        "ticketUrl": null,
-        "summary": "Official HIGE DANdism are confirmed for K-Arena Yokohama on July 25 and July 26, with the venue schedule listing 18:00 starts. K-Arena’s official event pages confirm the artist, dates, and ticket categories.",
+        "sourceUrl": "https://thebeatsofafrica.com/beats-event/afro-jam-festival-tokyo-2026/",
+        "ticketUrl": "https://www.afrojam.jp/",
+        "summary": "A diaspora-focused Tokyo festival listing for Afrobeats, Afrohouse, Amapiano, Hip-Hop and R&B, positioned as a large-scale Afrobeat festival for Japan with international artists planned.",
         "genres": [
-          "pop"
+          "afro-house",
+          "amapiano",
+          "hip-hop",
+          "r-and-b",
+          "festival"
         ]
       },
       {
@@ -210,6 +163,194 @@
         "summary": "&TEAM’s official site confirms the Chiba stop of the 2026 BLAZE THE WAY tour at LaLa arena TOKYO-BAY on July 25 and July 26. Further performance details are marked as forthcoming on the announcement page.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "tokyo-jakojako-samsara-2026",
+        "title": "JakoJako / SAMSARA EPISODE 14",
+        "type": "club-night",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-11",
+        "importance": 79,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2441964",
+        "ticketUrl": "https://ra.co/events/2441964",
+        "summary": "SAMSARA brings Berghain resident and modular-synth-focused techno artist JakoJako to VENT, backed by Chhabb, Mitayo, IRON and a second-room local lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-chaos-wwwx-2026",
+        "title": "CHAOS",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-19",
+        "importance": 79,
+        "venueName": "WWW X",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2449138",
+        "ticketUrl": null,
+        "summary": "Fumiya Tanaka’s CHAOS continues as a WWW X regular party, bringing Kyoto’s NC4K figures Stones Taro and Lomax into a techno/house-focused Tokyo night.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-steve-bug-vent-2026",
+        "title": "Steve Bug at VENT",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-19",
+        "importance": 76,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443951",
+        "ticketUrl": "https://ra.co/events/2443951",
+        "summary": "Poker Flat founder Steve Bug headlines VENT for a house and tech-house night, a notable touring underground booking in one of Tokyo’s core dance-music rooms.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-ken-ishii-vent-2026",
+        "title": "Ken Ishii at VENT",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 76,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443956",
+        "ticketUrl": "https://ra.co/events/2443956",
+        "summary": "Tokyo techno institution Ken Ishii headlines VENT, with Room 1 and Room 2 support from local techno selectors; a high-value local-legend night rather than an arena play.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-honne-anniversary-2026",
+        "title": "HONNE 10 YEAR ANNIVERSARY TOUR",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 75,
+        "venueName": "SGC Hall Ariake",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/honne_2026/",
+        "ticketUrl": null,
+        "summary": "HONNE bring their 10 Year Anniversary Tour to SGC Hall Ariake on July 22. Creativeman confirms the Tokyo performance, with doors at 18:00 and showtime at 19:00.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-temple-of-dance-2026",
+        "title": "The Temple of Dance",
+        "type": "club-night",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-26",
+        "importance": 75,
+        "venueName": "ZEROTOKYO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2401129",
+        "ticketUrl": "https://ra.co/events/2401129",
+        "summary": "ZEROTOKYO’s large-scale psychedelic-trance club night headlined by FADERS from Astrix’s Shamanic Tales orbit, with Rinkadink, Spectra Sonics, Xipe totecs and Japanese scene figures across rooms.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-stereolab-japan-tour-2026",
+        "title": "STEREOLAB Japan Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-01",
+        "importance": 72,
+        "venueName": "KANDA SQUARE HALL",
+        "venueId": null,
+        "sourceUrl": "https://kanda-square.com/event/stereolab-japan-tour-2026/",
+        "ticketUrl": null,
+        "summary": "Stereolab play KANDA SQUARE HALL on July 1 with doors at 18:00 and showtime at 19:00. The venue page confirms the Japan tour date, location, and SMASH production credit.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-ichiko-aoba-nhk-hall-2026",
+        "title": "Ichiko Aoba: 文月の衣紋に綴る熱帯魚",
+        "type": "concert",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-02",
+        "importance": 72,
+        "venueName": "NHK Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.red-hot.ne.jp/play/detail.php?pid=py27744",
+        "ticketUrl": null,
+        "summary": "Ichiko Aoba is confirmed for NHK Hall on July 2, opening at 18:00 and starting at 19:00. The HOT STUFF promotion page lists the date, venue, and ticket tiers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-oyubi-open-to-last-2026",
+        "title": "Oyubi OPEN TO LAST -White birch burns Release Special-",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-12",
+        "importance": 72,
+        "venueName": "Live Haus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2451156",
+        "ticketUrl": null,
+        "summary": "Trekkie Trax-affiliated Tokyo producer/DJ Oyubi plays open-to-close for the release of his debut album, framing footwork, ghetto tech, juke, jungle and techno as a full-night narrative.",
+        "genres": [
+          "techno",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-citrus-sun-2026",
+        "title": "Bluey from INCOGNITO presents \"CITRUS SUN\"",
+        "type": "concert",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-26",
+        "importance": 70,
+        "venueName": "Blue Note Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
+        "ticketUrl": "https://www.bluenote.co.jp/jp/artists/citrus-sun/",
+        "summary": "Bluey’s Incognito offshoot Citrus Sun plays a four-day Blue Note Tokyo run of acid-jazz, jazz-funk, soul, Latin and groove-led live music, including a dance-space/Jazz for Children matinee on July 25.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-gaerea-live-2026",
+        "title": "GAEREA Live in Tokyo 2026",
+        "type": "concert",
+        "startDate": "2026-07-14",
+        "endDate": "2026-07-14",
+        "importance": 66,
+        "venueName": "Daikanyama SPACE ODD",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/gaerea26/",
+        "ticketUrl": null,
+        "summary": "Portuguese extreme-metal act GAEREA make their first Japan appearance at Daikanyama SPACE ODD on July 14. Creativeman confirms the Tokyo-only show with doors at 18:00 and start at 19:00.",
+        "genres": [
+          "electronic"
         ]
       }
     ]

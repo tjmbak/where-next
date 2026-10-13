@@ -4,9 +4,14 @@ export const runtime = "nodejs";
 export const maxDuration = 10;
 
 const FETCH_TIMEOUT_MS = 5000;
-const MAX_BYTES = 220 * 1024; // 220KB — meta tags always live in <head>, no need to read the whole page
+const MICROLINK_TIMEOUT_MS = 4500;
+// Read enough of the page to also catch JSON-LD blocks, which often live just
+// below </head>. Capped to keep the fetch fast.
+const MAX_BYTES = 360 * 1024;
+// A real browser UA dramatically raises the hit-rate: many sites drop requests
+// from obvious bot user-agents (which is what our old "WhereNextBot" UA was).
 const USER_AGENT =
-  "Mozilla/5.0 (compatible; WhereNextBot/1.0; +https://wherenext-hazel.vercel.app/preview-meta)";
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 type PreviewMeta = {
   url: string;
@@ -16,8 +21,19 @@ type PreviewMeta = {
   description: string | null;
   siteName: string | null;
   image: string | null;
+  /** Brand mark (favicon/apple-touch-icon/logo) — never stretched into the hero. */
+  logo: string | null;
+  /** Where the image came from, for debugging/telemetry. */
+  source: "og" | "jsonld" | "image_src" | "microlink" | "none";
   fetchedAt: string;
 };
+
+// Lightweight in-process cache so repeated opens of the same link (and the
+// React strict-mode double-fetch) don't re-hit the network. Survives for the
+// life of the serverless instance; the HTTP Cache-Control header handles the
+// CDN layer.
+const CACHE = new Map<string, { meta: PreviewMeta; expires: number }>();
+const CACHE_TTL_MS = 1000 * 60 * 60 * 6; // 6h
 
 function isPrivateHost(hostname: string): boolean {
   // Block obvious SSRF targets — localhost, link-local, private RFC1918,
@@ -71,6 +87,125 @@ function extractTitleTag(html: string): string | null {
   return match ? decodeEntities(match[1]) : null;
 }
 
+/** Pull the first usable image URL out of any schema.org JSON-LD blocks. */
+function extractJsonLdImage(html: string): string | null {
+  const blocks = html.matchAll(
+    /<script[^>]+type\s*=\s*["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi
+  );
+  for (const block of blocks) {
+    const raw = block[1]?.trim();
+    if (!raw) continue;
+    let json: unknown;
+    try {
+      json = JSON.parse(raw);
+    } catch {
+      continue;
+    }
+    const found = findJsonLdImage(json);
+    if (found) return found;
+  }
+  return null;
+}
+
+function findJsonLdImage(node: unknown, depth = 0): string | null {
+  if (!node || depth > 6) return null;
+  if (Array.isArray(node)) {
+    for (const item of node) {
+      const found = findJsonLdImage(item, depth + 1);
+      if (found) return found;
+    }
+    return null;
+  }
+  if (typeof node !== "object") return null;
+  const obj = node as Record<string, unknown>;
+  const image = obj.image ?? obj.thumbnailUrl ?? obj.logo;
+  if (typeof image === "string") return image;
+  if (Array.isArray(image)) {
+    const first = image[0];
+    if (typeof first === "string") return first;
+    if (first && typeof first === "object" && typeof (first as Record<string, unknown>).url === "string") {
+      return (first as Record<string, string>).url;
+    }
+  }
+  if (image && typeof image === "object" && typeof (image as Record<string, unknown>).url === "string") {
+    return (image as Record<string, string>).url;
+  }
+  // Recurse into common containers.
+  for (const key of ["@graph", "mainEntity", "mainEntityOfPage", "subjectOf"]) {
+    if (obj[key]) {
+      const found = findJsonLdImage(obj[key], depth + 1);
+      if (found) return found;
+    }
+  }
+  return null;
+}
+
+/** Brand mark (apple-touch-icon → icon → shortcut icon). */
+function extractIcon(html: string): string | null {
+  const linkTags = html.match(/<link[^>]+>/gi) ?? [];
+  const byRel = (rel: RegExp): string | null => {
+    for (const tag of linkTags) {
+      if (!rel.test(tag)) continue;
+      const href = tag.match(/href\s*=\s*["']([^"']+)["']/i)?.[1];
+      if (href) return decodeEntities(href);
+    }
+    return null;
+  };
+  return (
+    byRel(/rel\s*=\s*["'][^"']*apple-touch-icon[^"']*["']/i) ??
+    byRel(/rel\s*=\s*["'][^"']*\bicon\b[^"']*["']/i)
+  );
+}
+
+type MicrolinkResult = {
+  image: string | null;
+  logo: string | null;
+  title: string | null;
+  description: string | null;
+  siteName: string | null;
+};
+
+/**
+ * Fallback to Microlink's hosted resolver (JS rendering + rotating UAs) when
+ * our own scrape can't find an image. Free tier is rate-limited and best-
+ * effort; failures are swallowed so the route still returns gracefully.
+ */
+async function fetchMicrolink(url: string): Promise<MicrolinkResult | null> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), MICROLINK_TIMEOUT_MS);
+  try {
+    const api = `https://api.microlink.io/?url=${encodeURIComponent(url)}`;
+    const response = await fetch(api, {
+      signal: controller.signal,
+      headers: { Accept: "application/json" }
+    });
+    if (!response.ok) return null;
+    const body = (await response.json()) as {
+      status?: string;
+      data?: {
+        image?: { url?: string } | null;
+        logo?: { url?: string } | null;
+        title?: string | null;
+        description?: string | null;
+        publisher?: string | null;
+      };
+    };
+    if (body.status !== "success" || !body.data) return null;
+    const d = body.data;
+    return {
+      image: d.image?.url ?? null,
+      logo: d.logo?.url ?? null,
+      title: d.title ?? null,
+      description: d.description ?? null,
+      siteName: d.publisher ?? null
+    };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 function resolveUrl(maybeRelative: string | null, base: string): string | null {
   if (!maybeRelative) return null;
   try {
@@ -103,12 +238,13 @@ async function fetchSnippet(url: string): Promise<{ html: string; finalUrl: stri
     const decoder = new TextDecoder();
     let html = "";
     let total = 0;
+    // Read up to MAX_BYTES. We intentionally don't stop at </head> so JSON-LD
+    // blocks (often just below it) are captured for image extraction.
     while (total < MAX_BYTES) {
       const { value, done } = await reader.read();
       if (done) break;
       total += value.byteLength;
       html += decoder.decode(value, { stream: true });
-      if (/<\/head>/i.test(html)) break;
     }
     try {
       await reader.cancel();
@@ -144,24 +280,74 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "blocked-host" }, { status: 400 });
   }
 
-  const fetched = await fetchSnippet(parsedTarget.toString());
-  if (!fetched) {
-    const empty: PreviewMeta = {
-      url: parsedTarget.toString(),
-      resolvedUrl: parsedTarget.toString(),
-      hostname: parsedTarget.host,
-      title: null,
-      description: null,
-      siteName: null,
-      image: null,
-      fetchedAt: new Date().toISOString()
-    };
-    return NextResponse.json(empty, {
-      headers: { "Cache-Control": "public, s-maxage=900, stale-while-revalidate=3600" }
+  const cacheKey = parsedTarget.toString();
+  const cached = CACHE.get(cacheKey);
+  if (cached && cached.expires > Date.now()) {
+    return NextResponse.json(cached.meta, {
+      headers: { "Cache-Control": "public, s-maxage=86400, stale-while-revalidate=604800" }
     });
   }
 
-  const { html, finalUrl } = fetched;
+  const fetched = await fetchSnippet(cacheKey);
+
+  let title: string | null = null;
+  let description: string | null = null;
+  let siteName: string | null = null;
+  let image: string | null = null;
+  let logo: string | null = null;
+  let source: PreviewMeta["source"] = "none";
+  let finalUrl = cacheKey;
+
+  if (fetched) {
+    const { html } = fetched;
+    finalUrl = fetched.finalUrl || cacheKey;
+    title = extractMeta(html, ["og:title", "twitter:title"]) ?? extractTitleTag(html);
+    description = extractMeta(html, ["og:description", "twitter:description", "description"]);
+    siteName = extractMeta(html, ["og:site_name", "application-name"]);
+    logo = resolveUrl(extractIcon(html), finalUrl);
+
+    // Image priority: og/twitter → JSON-LD → <link rel=image_src>.
+    const ogImage = resolveUrl(
+      extractMeta(html, ["og:image", "og:image:secure_url", "twitter:image", "twitter:image:src", "image"]),
+      finalUrl
+    );
+    if (ogImage) {
+      image = ogImage;
+      source = "og";
+    } else {
+      const jsonLd = resolveUrl(extractJsonLdImage(html), finalUrl);
+      if (jsonLd) {
+        image = jsonLd;
+        source = "jsonld";
+      } else {
+        const imageSrc = resolveUrl(
+          html.match(/<link[^>]+rel\s*=\s*["']image_src["'][^>]*>/i)?.[0]?.match(/href\s*=\s*["']([^"']+)["']/i)?.[1] ?? null,
+          finalUrl
+        );
+        if (imageSrc) {
+          image = imageSrc;
+          source = "image_src";
+        }
+      }
+    }
+  }
+
+  // Fallback: hosted resolver (JS rendering) when our own scrape found no
+  // image — covers bot-blocked and client-rendered partner pages.
+  if (!image) {
+    const ml = await fetchMicrolink(cacheKey);
+    if (ml) {
+      if (ml.image) {
+        image = ml.image;
+        source = "microlink";
+      }
+      title = title ?? ml.title;
+      description = description ?? ml.description;
+      siteName = siteName ?? ml.siteName;
+      logo = logo ?? ml.logo;
+    }
+  }
+
   const finalUrlParsed = (() => {
     try {
       return new URL(finalUrl);
@@ -170,35 +356,25 @@ export async function GET(request: Request) {
     }
   })();
 
-  const title =
-    extractMeta(html, ["og:title", "twitter:title"]) ?? extractTitleTag(html);
-  const description = extractMeta(html, [
-    "og:description",
-    "twitter:description",
-    "description"
-  ]);
-  const siteName = extractMeta(html, ["og:site_name", "application-name"]);
-  const rawImage = extractMeta(html, [
-    "og:image",
-    "og:image:secure_url",
-    "twitter:image",
-    "twitter:image:src",
-    "image"
-  ]);
-  const image = resolveUrl(rawImage, finalUrl);
-
   const meta: PreviewMeta = {
-    url: parsedTarget.toString(),
+    url: cacheKey,
     resolvedUrl: finalUrl,
     hostname: finalUrlParsed.host,
     title,
     description,
     siteName,
     image,
+    logo,
+    source,
     fetchedAt: new Date().toISOString()
   };
 
-  return NextResponse.json(meta, {
-    headers: { "Cache-Control": "public, s-maxage=86400, stale-while-revalidate=604800" }
-  });
+  CACHE.set(cacheKey, { meta, expires: Date.now() + CACHE_TTL_MS });
+
+  // Shorter CDN TTL when we came up empty, so a later retry can succeed.
+  const cacheControl = image
+    ? "public, s-maxage=86400, stale-while-revalidate=604800"
+    : "public, s-maxage=900, stale-while-revalidate=3600";
+
+  return NextResponse.json(meta, { headers: { "Cache-Control": cacheControl } });
 }

@@ -1,0 +1,119 @@
+{
+  "slug": "verbier",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:08:57.018Z",
+  "responseId": "resp_0c1a3bc846dc5807006acda024809087d0afcb9b0cb002433d+resp_05955918f957137a006acda072385c87d0959a131815e185ae",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is currently confirmed more through Verbier’s season-long après-ski and DJ residencies than through one-off touring lineups.",
+    "events": [
+      {
+        "id": "verbier-farinet-apres-ski-2027",
+        "title": "Farinet Après-ski Winter Live Band Residency",
+        "type": "residency",
+        "startDate": "2026-12-11",
+        "endDate": "2027-04-11",
+        "importance": 72,
+        "venueName": "Farinet Après-ski",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-apres-ski-verbier-en-2923576/",
+        "ticketUrl": null,
+        "summary": "Farinet Après-ski confirms daily winter opening through 11 April 2027 with live music from 18:00 to 21:00 every day. The venue is one of Verbier’s core après-ski music institutions on Place Centrale.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-farinet-lounge-djs-2027",
+        "title": "Farinet Lounge Bar Winter DJ Nights",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2027-04-24",
+        "importance": 72,
+        "venueName": "Farinet Lounge Bar",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/decouvrir/pause-activites-indoor-wellness/farinet-lounge-bar-lourtier-fr-2788382/",
+        "ticketUrl": null,
+        "summary": "Farinet Lounge Bar is confirmed open daily for the winter season through 24 April 2027, with DJs from 21:00 and a late-night festive programme. The same page describes the linked South venue becoming one of Verbier’s livelier nightclubs on weekends.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "verbier-le-rouge-dj-programme-2027",
+        "title": "Le Rouge Winter DJ Programme",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2027-04-25",
+        "importance": 68,
+        "venueName": "Le Rouge Restaurant & Après-Ski",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/pratique/taste-restaurants-et-bars/le-rouge-restaurant-verbier-fr-2788471/",
+        "ticketUrl": "https://www.lerouge-verbier.com/",
+        "summary": "Le Rouge confirms winter-season public events with a contemporary DJ programme at its restaurant and après-ski venue at the foot of the piste. The venue is listed as open every day from 4 December 2026 to 25 April 2027.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "verbier-south-nightclub-season-2027",
+        "title": "SOUTH Restaurant & Club Winter Nightclub Season",
+        "type": "residency",
+        "startDate": "2026-12-18",
+        "endDate": "2027-04-17",
+        "importance": 65,
+        "venueName": "SOUTH Restaurant & Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/pratique/taste-restaurants-et-bars/south-restaurant-club-verbier-fr-4557632/",
+        "ticketUrl": null,
+        "summary": "Farinet’s lower-ground-floor SOUTH runs as an intimate restaurant-to-nightclub concept, with music central to the experience and late sessions until 04:00 on Friday and Saturday nights.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-taratata-dj-sets-2027",
+        "title": "Taratata Festive Late-Night DJ Sets",
+        "type": "club-night",
+        "startDate": "2026-12-03",
+        "endDate": "2027-04-30",
+        "importance": 60,
+        "venueName": "Taratata",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/taratata-verbier-en-3012180/",
+        "ticketUrl": "https://www.taratata-verbier.ch",
+        "summary": "Taratata is confirmed open through 30 April 2027 and describes its winter concept as a tasting-menu restaurant with festive late-night parties and DJ sets. Its listed services include dance, concert and evening entertainment.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-w-living-room-djs-2027",
+        "title": "W Living Room Resident DJ Sessions",
+        "type": "residency",
+        "startDate": "2026-11-07",
+        "endDate": "2027-04-30",
+        "importance": 60,
+        "venueName": "W Living Room & Cigar Lounge",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/w-living-room-cigar-lounge-verbier-en-4489958/",
+        "ticketUrl": null,
+        "summary": "W Verbier’s lounge programme runs through winter with resident DJ mixes in a cocktail-bar setting near Médran, suited to upscale pre-club and late-evening sessions.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

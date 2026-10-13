@@ -10,3 +10,5 @@ coverage/
 tsconfig.tsbuildinfo
 supabase/.branches/
 supabase/.temp/
+.research-raw/
+.vercel

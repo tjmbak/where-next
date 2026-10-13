@@ -1,0 +1,153 @@
+{
+  "slug": "ibiza",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:20:03.509Z",
+  "responseId": "resp_0fa7b3e7d83c36e2006acdb1031ba887d09927a7cce6e74096+resp_0dff0655f00b6a67006acdb12242ac87d0bf9d2250e08aa1a3",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 Ibiza underground/diaspora club calendars on RA/DICE/Shotgun/Eventbrite remain largely unannounced; the verified July listings found are established house-led day/boat-party formats from package/ticket sellers.",
+    "events": [
+      {
+        "id": "ibiza-house-in-paradise-2027-07-07",
+        "title": "O Beach Ibiza – House in Paradise",
+        "type": "beach-club",
+        "startDate": "2027-07-07",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "O Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=07-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=07-07-2027",
+        "summary": "Wednesday O Beach pool-party format built around house music, Ibiza DJs, large-scale poolside production, performers and surprise guest appearances.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-house-in-paradise-2027-07-14",
+        "title": "O Beach Ibiza – House in Paradise",
+        "type": "beach-club",
+        "startDate": "2027-07-14",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "O Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=14-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=14-07-2027",
+        "summary": "House in Paradise returns to O Beach on Wednesday with Ibiza DJs, immersive production, performers and a daytime house-focused pool-party setup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-house-in-paradise-2027-07-21",
+        "title": "O Beach Ibiza – House in Paradise",
+        "type": "beach-club",
+        "startDate": "2027-07-21",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "O Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=21-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=21-07-2027",
+        "summary": "Confirmed July edition of O Beach’s House in Paradise Wednesday residency, advertised with world-class house music, productions and Ibiza DJs.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-house-in-paradise-2027-07-28",
+        "title": "O Beach Ibiza – House in Paradise",
+        "type": "beach-club",
+        "startDate": "2027-07-28",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "O Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=28-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/house-in-paradise?date=28-07-2027",
+        "summary": "End-of-July House in Paradise date at O Beach, a house-led daytime beach-club party with poolside production, DJs and performers.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-pukka-up-boat-party-2027-07-06",
+        "title": "Pukka Up Boat Party Ibiza",
+        "type": "club-night",
+        "startDate": "2027-07-06",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Rio Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=06-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=06-07-2027",
+        "summary": "Long-running Ibiza sunset boat-party brand departing via Rio Bar, with a three-hour floating party, resident DJs, performers and drinks included.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-pukka-up-boat-party-2027-07-13",
+        "title": "Pukka Up Boat Party Ibiza",
+        "type": "club-night",
+        "startDate": "2027-07-13",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Rio Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=13-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=13-07-2027",
+        "summary": "Recurring Tuesday sunset boat party with Pukka Up’s Ibiza resident-DJ format, dancers/performers and three drink tokens included.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-pukka-up-boat-party-2027-07-20",
+        "title": "Pukka Up Boat Party Ibiza",
+        "type": "club-night",
+        "startDate": "2027-07-20",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Rio Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=20-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=20-07-2027",
+        "summary": "Pukka Up’s mid-July Ibiza boat party date, combining resident DJs, sax/performer-style entertainment and the San Antonio sunset route.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-pukka-up-boat-party-2027-07-27",
+        "title": "Pukka Up Boat Party Ibiza",
+        "type": "club-night",
+        "startDate": "2027-07-27",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Rio Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=27-07-2027",
+        "ticketUrl": "https://www.partyhardtravel.com/ibiza/events/pukka-up-boat-party?date=27-07-2027",
+        "summary": "Late-July Tuesday sailing of Pukka Up’s Ibiza boat-party series, centred on resident-DJ sets, dancers/performers and sunset-at-sea atmosphere.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

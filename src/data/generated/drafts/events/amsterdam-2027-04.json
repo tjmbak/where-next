@@ -1,0 +1,318 @@
+{
+  "slug": "amsterdam",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:42:59.267Z",
+  "responseId": "resp_072affff94da3ca6006acda80b399487d08ccfa4881072382d+resp_0393fb9dd3383356006acda86b3f3487d0a7cf19588b500365",
+  "searchCalls": 28,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is already anchored by major arena concerts, Melkweg electronic club nights, Paradiso/Tolhuistuin live-music programming, and King's Day festival activity, with more underground lineups likely to be announced closer to the date.",
+    "events": [
+      {
+        "id": "amsterdam-kingsland-apr-2027",
+        "title": "Kingsland Festival Amsterdam 2027",
+        "type": "festival",
+        "startDate": "2027-04-27",
+        "endDate": "2027-04-27",
+        "importance": 88,
+        "venueName": "Olympisch Stadion Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://www.olympischstadion.nl/evenement/kingsland/",
+        "ticketUrl": "https://www.olympischstadion.nl/evenement/kingsland/",
+        "summary": "Kingsland is confirmed at Olympisch Stadion on King's Day, 27 April 2027, from 12:00 to 20:30. The venue describes it as a King's Day music festival with live performances by well-known artists and DJs, with the program still to follow.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "amsterdam-eurovision-in-concert-apr-2027",
+        "title": "Eurovision in Concert 2027",
+        "type": "concert",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 84,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/eurovision-in-concert-2027-2",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/eurovision-in-concert-2027-2",
+        "summary": "Amsterdam's large Eurovision pre-party returns to AFAS Live on 3 April 2027, presenting artists slated for the May 2027 Eurovision Song Contest. The venue confirms the show date and ticket sale details.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-new-wave-all-stars-apr-2027",
+        "title": "New Wave All Stars",
+        "type": "concert",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-22",
+        "importance": 84,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ziggodome.nl/en/events/9990462c-27f5-4dac-ba95-5fd326ed833b/",
+        "ticketUrl": "https://www.ziggodome.nl/en/events/9990462c-27f5-4dac-ba95-5fd326ed833b/",
+        "summary": "New Wave returns to Ziggo Dome with an All Stars show featuring hits, new material and guest artists. The Ziggo Dome event page confirms the 22 April 2027 show and lists additional April dates for the run.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-chefspecial-apr-2027",
+        "title": "Chef'Special",
+        "type": "concert",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-17",
+        "importance": 78,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/chefspecial-2",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/chefspecial-2",
+        "summary": "Chef'Special play two sold-out AFAS Live shows on 16 and 17 April 2027. The venue describes the run as the band's final performance in its current line-up before guitarist Guido Joseph leaves and the group pauses.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-thirty-seconds-to-mars-apr-2027",
+        "title": "Thirty Seconds to Mars — A Beautiful Lie vs This Is War",
+        "type": "concert",
+        "startDate": "2027-04-25",
+        "endDate": "2027-04-25",
+        "importance": 78,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/thirty-seconds-to-mars",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/thirty-seconds-to-mars",
+        "summary": "Thirty Seconds to Mars bring their A Beautiful Lie vs This Is War tour to AFAS Live on 25 April 2027. The venue confirms the show date and frames the tour around the band's 2005 and 2009 albums.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-we-are-it-2027",
+        "title": "We Are iT Festival 2027 - The Golden Age of House 89/00",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Thuishaven",
+        "venueId": null,
+        "sourceUrl": "https://ietstedoen.nl/en/event/2745/",
+        "ticketUrl": "https://shop.tickets.cm.com/",
+        "summary": "A 3-stage, 3,000-capacity daytime festival at Thuishaven celebrating the late-80s/90s golden age of house, with Erick E, Marcello, Dimitri Kneppers, ISIS and Alexander Koning listed.",
+        "genres": [
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-brandi-carlile-apr-2027",
+        "title": "Brandi Carlile — The Human Tour",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-02",
+        "importance": 77,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/brandi-carlile",
+        "ticketUrl": "https://www.afaslive.nl/agenda/brandi-carlile",
+        "summary": "Brandi Carlile's AFAS Live date has been moved to 2 April 2027, with KT Tunstall listed as support. The venue page confirms tickets remain valid for the new date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-wombats-gashouder-apr-2027",
+        "title": "The Wombats — Twenty Years Of A Guide To Love, Loss & Desperation",
+        "type": "concert",
+        "startDate": "2027-04-07",
+        "endDate": "2027-04-07",
+        "importance": 74,
+        "venueName": "Gashouder",
+        "venueId": null,
+        "sourceUrl": "https://www.mojo.nl/concerten/the-wombats",
+        "ticketUrl": "https://www.mojo.nl/concerten/the-wombats",
+        "summary": "The Wombats play Gashouder Amsterdam on 7 April 2027 with The Snuts in support. MOJO confirms the date, venue, 20:00 start time and Ticketmaster sales route.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-high-tea-indoor-festeaval-apr-2027",
+        "title": "High Tea Indoor Festeaval 2027",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-10",
+        "importance": 74,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/high-tea-indoor-festeaval-2027-10-04-2027/",
+        "ticketUrl": "https://www.melkweg.nl/en/agenda/high-tea-indoor-festeaval-2027-10-04-2027/",
+        "summary": "High Tea and Melkweg present the third edition of their indoor drum & bass festival on 10 April 2027. The event is confirmed across seven Melkweg areas, with the lineup still TBA.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-kraft-kingsday-2027",
+        "title": "KRAFT Kingsday Festival 2027: Premium Pounding Techno",
+        "type": "festival",
+        "startDate": "2027-04-27",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Lagerwal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2508571",
+        "ticketUrl": "https://ra.co/events/2508571",
+        "summary": "KRAFT’s King's Day techno festival at Lagerwal is confirmed for 13:00–20:00 with techno and acid listed; lineup is TBA.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-rodrigo-y-gabriela-apr-2027",
+        "title": "Rodrigo y Gabriela",
+        "type": "concert",
+        "startDate": "2027-04-14",
+        "endDate": "2027-04-14",
+        "importance": 73,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/rodrigo-y-gabriela/2895335",
+        "ticketUrl": "https://www.paradiso.nl/en/program/rodrigo-y-gabriela/2895335",
+        "summary": "Mexican guitar duo Rodrigo y Gabriela play Paradiso's Main Hall on 14 April 2027. Paradiso confirms the date, venue room and a 20:30 main programme.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "amsterdam-elba-ramalho-apr-2027",
+        "title": "Elba Ramalho",
+        "type": "concert",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-21",
+        "importance": 72,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/elba-ramalho-21-04-2027/",
+        "ticketUrl": "https://www.melkweg.nl/en/agenda/elba-ramalho-21-04-2027/",
+        "summary": "Brazilian singer Elba Ramalho is confirmed at Melkweg OZ on 21 April 2027. The venue describes a set rooted in MPB and forró from the two-time Latin Grammy winner.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "amsterdam-ilse-delange-apr-2027",
+        "title": "Ilse DeLange",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 72,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/ilse-delange",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/ilse-delange",
+        "summary": "Ilse DeLange closes a three-city Dutch venue run at AFAS Live on 24 April 2027 with her full live band. The AFAS Live timetable lists doors at 18:30 and the performance at 20:30.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-high-tea-indoor-2027",
+        "title": "High Tea Indoor Festeaval 2027: 7 Areas of Drum & Bass",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/nl/agenda/high-tea-indoor-festeaval-2027-10-04-2027/",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "High Tea and Melkweg’s indoor electronic festival takes over multiple Melkweg spaces with seven areas, DJ sets, live acts, cinema and games built around the High Tea drum & bass community.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-jools-holland-apr-2027",
+        "title": "Jools Holland and his Rhythm & Blues Orchestra",
+        "type": "concert",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-09",
+        "importance": 70,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/jools-holland-and-his-rhythm-and-blues-orchestra-with-giuest-star-pauline-black-the-selecter-guest-vocalists-ruby-turne/2921821",
+        "ticketUrl": "https://www.paradiso.nl/en/program/jools-holland-and-his-rhythm-and-blues-orchestra-with-giuest-star-pauline-black-the-selecter-guest-vocalists-ruby-turne/2921821",
+        "summary": "Jools Holland brings his Rhythm & Blues Orchestra to Paradiso's Main Hall on 9 April 2027 with Pauline Black, Ruby Turner, Louise Marshall and Sumudu Jayatilaka. The program lists a 20:30 main performance.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "amsterdam-jake-bugg-apr-2027",
+        "title": "Jake Bugg — Alamo UK & European Tour",
+        "type": "concert",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-16",
+        "importance": 70,
+        "venueName": "Melkweg",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/jake-bugg-16-04-2027/",
+        "ticketUrl": "https://www.melkweg.nl/en/agenda/jake-bugg-16-04-2027/",
+        "summary": "Jake Bugg brings the Alamo UK & European Tour to Melkweg MAX on 16 April 2027. The venue lists the show at 19:00 and frames Bugg as a key British folk/indie singer-songwriter.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-joy-oladokun-apr-2027",
+        "title": "Joy Oladokun",
+        "type": "concert",
+        "startDate": "2027-04-18",
+        "endDate": "2027-04-18",
+        "importance": 70,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/joy-oladokun/2938675",
+        "ticketUrl": "https://www.paradiso.nl/en/program/joy-oladokun/2938675",
+        "summary": "Joy Oladokun plays Paradiso's Main Hall on 18 April 2027 as part of the Sugar Mountain series. Paradiso highlights her Nigerian-rooted collaborators and the new album Hope Is A Heavy Thing.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-kandace-springs-apr-2027",
+        "title": "Kandace Springs",
+        "type": "concert",
+        "startDate": "2027-04-26",
+        "endDate": "2027-04-26",
+        "importance": 70,
+        "venueName": "Tolhuistuin",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/kandace-springs/2908455",
+        "ticketUrl": "https://www.paradiso.nl/en/program/kandace-springs/2908455",
+        "summary": "Soul-jazz singer and pianist Kandace Springs plays Tolhuistuin's Club on 26 April 2027. Paradiso confirms the date, 20:30 main programme and lineup listing for Springs.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

@@ -26,7 +26,7 @@ export function ComparePickerTray({ picks, onRemove, onClear, onCompare }: Compa
     <div
       role="region"
       aria-label="compare picker"
-      className="fixed bottom-4 left-1/2 z-[850] w-[min(560px,calc(100%-2rem))] -translate-x-1/2 rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 px-4 py-2 shadow-[0_24px_64px_rgba(0,0,0,0.55)] backdrop-blur-md"
+      className="fixed bottom-[calc(6rem+env(safe-area-inset-bottom))] left-1/2 z-[850] md:bottom-4 w-[min(560px,calc(100%-2rem))] -translate-x-1/2 rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 px-4 py-2 shadow-[0_24px_64px_rgba(0,0,0,0.55)] backdrop-blur-md"
     >
       <div className="flex items-center gap-3">
         <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">

@@ -4,9 +4,10 @@ import { redirect } from "next/navigation";
 import { MiniMap } from "@/components/visual/MiniMap";
 import { getDestinationBySlug } from "@/data/music-travel";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 export const metadata: Metadata = {
-  title: "Your itineraries",
+  title: "Your trips",
   robots: { index: false }
 };
 
@@ -69,24 +70,11 @@ export default async function MyItinerariesPage() {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between gap-3 px-5 py-5 sm:px-10 sm:py-6">
-        <Link href="/" className="flex shrink-0 items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <Link
-          href="/"
-          className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)] sm:text-[11px] sm:tracking-[0.22em]"
-        >
-          ← back to map
-        </Link>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto w-full max-w-[1100px] px-5 pb-20 pt-8 sm:px-10 sm:pb-24 sm:pt-12">
         <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] sm:text-[11px] sm:tracking-[0.22em]">
-          your itineraries · {rows.length}
+          your trips · {rows.length}
         </p>
         <h1 className="mt-3 text-[clamp(1.8rem,7vw,3.5rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
           Trips you&apos;ve planned.
@@ -98,7 +86,7 @@ export default async function MyItinerariesPage() {
         {rows.length === 0 ? (
           <div className="mt-12 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">
             <p className="text-[15px] leading-7 text-[var(--foreground)]">
-              No itineraries yet. Pick a city and plan your first trip.
+              No trips yet. Pick a city and plan your first one.
             </p>
             <Link
               href="/"
@@ -177,9 +165,6 @@ export default async function MyItinerariesPage() {
                         </div>
                       ) : null}
                       <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                        <Link href={`/itineraries/${row.slug}`} className="transition hover:text-[var(--foreground)]">
-                          view ↗
-                        </Link>
                         {destination ? (
                           <Link
                             href={`/destinations/${destination.slug}/plan`}

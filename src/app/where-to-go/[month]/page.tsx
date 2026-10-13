@@ -2,11 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AxisDestinationList } from "@/components/discovery/AxisDestinationList";
-import { GENRE_LABELS, MONTHS, REGIONS, getMonthLabel } from "@/data/taxonomy";
+import { GENRE_LABELS, MONTHS, REGIONS, getMonthLabel, upcomingYearForMonth } from "@/data/taxonomy";
 import { getFilteredDestinations } from "@/data/music-travel";
 import { breadcrumbJsonLd, itemListJsonLd, jsonLdScript, siteUrl } from "@/lib/structured-data";
 import { ogImageUrl } from "@/lib/og";
 import type { Genre, MonthNumber, MonthlyDestinationScore, Region } from "@/types/content";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 type PageProps = { params: Promise<{ month: string }> };
 
@@ -25,6 +26,12 @@ function parseMonthSlug(value: string): MonthNumber | null {
   return found ? found.value : null;
 }
 
+// Copy names the upcoming edition of each month, which rolls forward daily.
+export const revalidate = 86400;
+
+// Unknown params must 404 before streaming starts; the root loading boundary would otherwise commit a 200.
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return MONTHS.map((month) => ({ month: monthSlug(month.value) }));
 }
@@ -34,8 +41,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const month = parseMonthSlug(monthParam);
   if (!month) return { robots: { index: false } };
   const monthLabel = getMonthLabel(month);
-  const title = `Where to go in ${monthLabel.toLowerCase()} 2026`;
-  const description = `Curated music-travel destinations for ${monthLabel} 2026 — festivals, club seasons, residencies, and venue scenes worth flying for.`;
+  const title = `Where to go in ${monthLabel.toLowerCase()} ${upcomingYearForMonth(month)}`;
+  const description = `Curated music-travel destinations for ${monthLabel} ${upcomingYearForMonth(month)} — festivals, club seasons, residencies, and venue scenes worth flying for.`;
   const path = `/where-to-go/${monthSlug(month)}`;
 
   return {
@@ -104,29 +111,17 @@ export default async function WhereToGoMonthPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: jsonLdScript(breadcrumb) }}
       />
 
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          <Link href="/" className="transition hover:text-[var(--foreground)]">
-            ← back to map
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-12 sm:px-10">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          where to go · {monthLabel.toLowerCase()} 2026
+          where to go · {monthLabel.toLowerCase()} {upcomingYearForMonth(month)}
         </p>
         <h1 className="mt-5 max-w-3xl text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           Where to go in {monthLabel.toLowerCase()}.
         </h1>
         <p className="mt-5 max-w-2xl text-[15px] leading-7 text-[var(--muted)]">
-          {items.length} curated destinations for {monthLabel} 2026. Filter by scene or region below.
+          {items.length} curated destinations, ranked by activity. Filter by scene or region below.
         </p>
 
         <div className="mt-12">

@@ -1,0 +1,182 @@
+{
+  "slug": "paris",
+  "month": 9,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:28:09.686Z",
+  "responseId": "resp_0c6a713032186e67006acdb2add34c87d0b3bc8e488cf1b842+resp_0013879fc784a929006acdb30113c487d0936a9be13734ae5e",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 9,
+    "year": 2027,
+    "notes": "As of October 2026, September 2027 confirmations are mostly venue-promoted concerts; Paris club nights and late-summer festivals are not yet substantially announced.",
+    "events": [
+      {
+        "id": "paris-jokair-arena-sep-2027",
+        "title": "Jok'Air",
+        "type": "concert",
+        "startDate": "2027-09-25",
+        "endDate": "2027-09-25",
+        "importance": 82,
+        "venueName": "Plenitude Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.plenitudearena.com/en/event/jokair-en/",
+        "ticketUrl": "https://www.plenitudearena.com/en/event/jokair-en/",
+        "summary": "Paris rapper Jok'Air headlines Plenitude Arena for the biggest concert of his career, following the album Pretty Girls Love Jok'Air and a major 2025 sold-out run.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-trinix-olympia-sep-2027",
+        "title": "Trinix",
+        "type": "concert",
+        "startDate": "2027-09-17",
+        "endDate": "2027-09-18",
+        "importance": 78,
+        "venueName": "L'Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/en/upcoming-events/trinix/",
+        "ticketUrl": "https://www.olympiahall.com/en/upcoming-events/trinix/",
+        "summary": "French electronic duo Trinix plays two Olympia nights billed as their only French indoor dates of 2027, presenting a new live show after several years of international touring.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-agnes-obel-olympia-sep-2027",
+        "title": "Agnes Obel",
+        "type": "concert",
+        "startDate": "2027-09-23",
+        "endDate": "2027-09-24",
+        "importance": 76,
+        "venueName": "L'Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/en/upcoming-events/agnes-obel/",
+        "ticketUrl": "https://www.olympiahall.com/en/upcoming-events/agnes-obel/",
+        "summary": "Agnes Obel plays two Olympia dates around her album The Meaning of Flowers, bringing her chamber-pop sound with elements of alternative pop, jazz and electronic music.",
+        "genres": [
+          "pop",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-mari-froes-zenith-sep-2027",
+        "title": "Mari Froes",
+        "type": "concert",
+        "startDate": "2027-09-18",
+        "endDate": "2027-09-18",
+        "importance": 75,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Mari%20Froes-22483",
+        "ticketUrl": "https://le-zenith.com/shows/Mari%20Froes-22483",
+        "summary": "Brazilian artist Mari Froes brings her international tour to Zénith Paris, with a set drawing on Brazilian popular music, new-album material, and earlier songs.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-ronan-keating-sep-2027",
+        "title": "Ronan Keating - Just Getting Started World Tour",
+        "type": "concert",
+        "startDate": "2027-09-04",
+        "endDate": "2027-09-04",
+        "importance": 74,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/ronan-keating/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/ronan-keating/",
+        "summary": "Ronan Keating brings his Just Getting Started World Tour to Salle Pleyel, mixing solo material with Boyzone-era pop hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-zazie-zenith-sep-2027",
+        "title": "Zazie - Volatil Tour",
+        "type": "concert",
+        "startDate": "2027-09-30",
+        "endDate": "2027-09-30",
+        "importance": 73,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Zazie-22372",
+        "ticketUrl": "https://le-zenith.com/shows/Zazie-22372",
+        "summary": "Zazie returns to the Paris stage at Zénith Paris - La Villette as part of her 2027 Volatil Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-orange-blossom-trianon-sep-2027",
+        "title": "Orange Blossom",
+        "type": "concert",
+        "startDate": "2027-09-18",
+        "endDate": "2027-09-18",
+        "importance": 70,
+        "venueName": "Le Trianon",
+        "venueId": null,
+        "sourceUrl": "https://www.letrianon.fr/en/event/orange-blossom/",
+        "ticketUrl": "https://www.letrianon.fr/en/event/orange-blossom/",
+        "summary": "Orange Blossom closes the Spells from the Drunken Sirens tour at Le Trianon, blending electronic production with Turkish, Egyptian, Malian, Senegalese and Cuban influences.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-ycare-olympia-residency-sep-2027",
+        "title": "Ycare - Resilience Tour",
+        "type": "residency",
+        "startDate": "2027-09-25",
+        "endDate": "2027-09-25",
+        "importance": 69,
+        "venueName": "L'Olympia",
+        "venueId": null,
+        "sourceUrl": "https://www.olympiahall.com/en/upcoming-events/ycare/",
+        "ticketUrl": "https://www.olympiahall.com/en/upcoming-events/ycare/",
+        "summary": "Ycare opens a four-date Olympia residency with the Resilience Tour, centered on a rock-influenced Jacques Brel tribute project arranged with Pascal Obispo.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-marie-sarah-trianon-sep-2027",
+        "title": "Marie Sarah",
+        "type": "concert",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-10",
+        "importance": 62,
+        "venueName": "Le Trianon",
+        "venueId": null,
+        "sourceUrl": "https://www.letrianon.fr/en/event/marie-sarah/",
+        "ticketUrl": "https://www.letrianon.fr/en/event/marie-sarah/",
+        "summary": "Marie Sarah plays Le Trianon after sold-out 2026 full-band dates and support slots for artists including Zucchero and Nile Rodgers/Chic.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-i-gotta-feeling-sep-2027",
+        "title": "I Gotta Feeling – Saison 3",
+        "type": "concert",
+        "startDate": "2027-09-24",
+        "endDate": "2027-09-25",
+        "importance": 68,
+        "venueName": "Le Dôme de Paris - Palais des Sports",
+        "venueId": null,
+        "sourceUrl": "https://www.ledomedeparis.com/fr/spectacle/352/i-gotta-feeling",
+        "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/i-gotta-feeling-saison-3-billet/idmanif/652808/idtier/78166",
+        "summary": "I Gotta Feeling – Saison 3 is confirmed for two 20:00 performances at Le Dôme de Paris on 24 and 25 September 2027, presented as a three-hour 2000s nostalgia concert show with era-defining hits.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -13,12 +13,18 @@ export type AnalyticsEventName =
   | "compose_save_success"
   | "compose_save_auth_prompt"
   | "filter_change"
+  | "year_change"
+  | "watch_toggle"
+  | "window_find"
   | "itinerary_fork_click"
   | "itinerary_fork_success"
   | "itinerary_fork_auth_prompt"
   | "outbound_link_click"
+  | "preview_open"
+  | "preview_open_guide"
   | "search_intent_apply"
   | "search_apply"
+  | "trip_from_saved_click"
   | "waitlist_signup";
 
 type AnalyticsPayload = Record<string, string | number | boolean | null | undefined>;

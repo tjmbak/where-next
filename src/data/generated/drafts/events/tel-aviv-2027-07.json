@@ -1,0 +1,81 @@
+{
+  "slug": "tel-aviv",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:29:38.358Z",
+  "responseId": "resp_07b8bcf0f24cde55006acdb359f67887d08950e32802d242aa+resp_0875d627448d8bc7006acdb3897e5087d0846c4fa5a49b8256",
+  "searchCalls": 19,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 7,
+    "year": 2027,
+    "notes": "After checking RA, DICE, Shotgun, Eventbrite, Fixr/Boiler Room-style listings and broad genre queries, I found no verified Tel Aviv techno/house/electronic or diaspora-scene events for July 2027 that meet the inclusion threshold.",
+    "events": [
+      {
+        "id": "tel-aviv-hot-jazz-divas-gray-jul-2027",
+        "title": "Hot Jazz 2026-2027: The Great Divas of Jazz – Grand Season Finale",
+        "type": "concert",
+        "startDate": "2027-07-13",
+        "endDate": "2027-07-13",
+        "importance": 66,
+        "venueName": "Gray Club Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1421",
+        "ticketUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1421",
+        "summary": "Dawn Tyler Watson All Stars perform the Hot Jazz season-finale tribute to major women jazz vocalists at Gray Club Tel Aviv. The source lists the Tel Aviv club date for Tuesday, July 13, 2027 at 21:00, with doors at 19:00.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-hot-jazz-divas-museum-thu-jul-2027",
+        "title": "Hot Jazz 2026-2027: The Great Divas of Jazz – Grand Season Finale",
+        "type": "concert",
+        "startDate": "2027-07-15",
+        "endDate": "2027-07-15",
+        "importance": 66,
+        "venueName": "Tel Aviv Museum of Art – Recanati Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1423",
+        "ticketUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1423",
+        "summary": "Dawn Tyler Watson All Stars perform a Hot Jazz tribute to Billie Holiday, Sarah Vaughan, Ella Fitzgerald, Nina Simone, and Dinah Washington. The source lists the Tel Aviv Museum of Art performance for Thursday, July 15, 2027 at 20:00.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-hot-jazz-divas-museum-fri-jul-2027",
+        "title": "Hot Jazz 2026-2027: The Great Divas of Jazz – Grand Season Finale",
+        "type": "concert",
+        "startDate": "2027-07-16",
+        "endDate": "2027-07-16",
+        "importance": 66,
+        "venueName": "Tel Aviv Museum of Art – Recanati Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1424",
+        "ticketUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1424",
+        "summary": "Dawn Tyler Watson All Stars play the Friday edition of the Hot Jazz season-finale program at Tel Aviv Museum of Art. The source lists the performance for Friday, July 16, 2027 at 21:00.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-hot-jazz-divas-ganei-tikva-jul-2027",
+        "title": "Hot Jazz 2026-2027: The Great Divas of Jazz – Grand Season Finale",
+        "type": "concert",
+        "startDate": "2027-07-10",
+        "endDate": "2027-07-10",
+        "importance": 64,
+        "venueName": "Merkaz HaBama, Ganei Tikva",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1419",
+        "ticketUrl": "https://shamayim.smarticket.co.il/The_Great_Divas_of_Jazz___Grand_Season_Finale/?id=1419",
+        "summary": "Dawn Tyler Watson All Stars present a tribute to Billie Holiday, Sarah Vaughan, Ella Fitzgerald, Nina Simone, and Dinah Washington as part of the Hot Jazz 2026-2027 international series. The source lists the Ganei Tikva date for Saturday, July 10, 2027 at 21:00.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

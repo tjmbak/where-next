@@ -1,0 +1,71 @@
+{
+  "slug": "detroit",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:11:29.694Z",
+  "responseId": "resp_0d8a925c9112230d006acdaedaf76c87d094ac6d1480f75ab9+resp_06159cd711c80cae006acdaf291ae487d0aca019c1ff325c17",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "detroit",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 is still lightly announced, but Detroit already has a confirmed Juneteenth riverfront hip-hop festival date at Hart Plaza.",
+    "events": [
+      {
+        "id": "detroit-hart-of-detroit-summer-festival-2027",
+        "title": "Hart of Detroit Summer Festival",
+        "type": "festival",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-19",
+        "importance": 82,
+        "venueName": "Hart Plaza",
+        "venueId": null,
+        "sourceUrl": "https://313summer.com/",
+        "ticketUrl": null,
+        "summary": "The festival’s official site confirms a June 19, 2027 Juneteenth weekend return to Hart Plaza, with the 2027 lineup to be announced later. Prior editions have centered Detroit hip-hop and citywide Black cultural celebration on the riverfront.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "detroit-hart-of-detroit-2027",
+        "title": "Hart of Detroit Summer Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-19",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Hart Plaza",
+        "venueId": null,
+        "sourceUrl": "https://313summer.com/",
+        "ticketUrl": null,
+        "summary": "The Juneteenth-weekend Hart of Detroit Summer Festival has confirmed June 19, 2027 at Hart Plaza for its third year; the lineup is still pending, but the event is positioned around Detroit’s Black music culture, local artists, vendors, and a large riverfront festival gathering.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "detroit-motor-city-pride-2027",
+        "title": "Motor City Pride 2027",
+        "type": "festival",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-13",
+        "importance": 72,
+        "venueName": "Hart Plaza",
+        "venueId": null,
+        "sourceUrl": "https://motorcitypride.org/",
+        "ticketUrl": null,
+        "summary": "Michigan’s largest Pride celebration returns to Hart Plaza on June 12–13, 2027, with entertainment stages, parade/community programming, and a strong Detroit LGBTQ+ dance-floor context from recent Riverfront Dance Stage editions.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -2,9 +2,9 @@
   "slug": "las-vegas",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:34:36.224Z",
-  "responseId": "resp_08704390a47e95d00069ff61abb73c81909f503b759a3c3f47",
-  "searchCalls": 15,
+  "generatedAt": "2026-05-30T18:18:41.518Z",
+  "responseId": "augment:resp_0a62238a0300eaae006a1b297f44208199b2ec1e8ca1263a10",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "las-vegas",
@@ -29,34 +29,20 @@
         ]
       },
       {
-        "id": "las-vegas-fuerza-regida-2026",
-        "title": "Fuerza Regida: This Is Our Dream Stadium Tour 2026",
+        "id": "las-vegas-ed-sheeran-loop-2026",
+        "title": "Ed Sheeran: LOOP Tour",
         "type": "concert",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-10",
-        "importance": 85,
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 90,
         "venueName": "Allegiant Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.allegiantstadium.com/events/detail/fuerza_regida_this_is_our_dream_tour_2026",
-        "ticketUrl": "https://www.allegiantstadium.com/events/detail/fuerza_regida_this_is_our_dream_tour_2026",
-        "summary": "Fuerza Regida’s This Is Our Dream Stadium Tour is confirmed for Allegiant Stadium on Friday, July 10, 2026. The venue lists the show time as 9:00 PM.",
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/ed-sheeran-loop-2026",
+        "ticketUrl": "https://www.allegiantstadium.com/events/detail/ed-sheeran-loop-2026",
+        "summary": "Ed Sheeran brings the LOOP Tour to Allegiant Stadium on Saturday, July 18, 2026. Allegiant Stadium confirms the date, 5:30 PM start time, and support from Myles Smith, Sigrid and Aaron Rowe.",
         "genres": [
-          "latin"
+          "pop"
         ]
-      },
-      {
-        "id": "las-vegas-kenny-chesney-sphere-2026",
-        "title": "Kenny Chesney Live at Sphere",
-        "type": "residency",
-        "startDate": "2026-07-11",
-        "endDate": "2026-07-11",
-        "importance": 86,
-        "venueName": "Sphere",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
-        "ticketUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
-        "summary": "Kenny Chesney’s Sphere run continues into July, with Ticketmaster listing a confirmed Saturday, July 11, 2026 performance at 8:00 PM. This is a representative confirmed July date from the residency listing.",
-        "genres": []
       },
       {
         "id": "las-vegas-backstreet-boys-sphere-2026",
@@ -73,6 +59,20 @@
         "genres": [
           "pop"
         ]
+      },
+      {
+        "id": "las-vegas-kenny-chesney-sphere-2026",
+        "title": "Kenny Chesney Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 86,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
+        "ticketUrl": "https://www.ticketmaster.com/kenny-chesney-tickets/artist/767989",
+        "summary": "Kenny Chesney’s Sphere run continues into July, with Ticketmaster listing a confirmed Saturday, July 11, 2026 performance at 8:00 PM. This is a representative confirmed July date from the residency listing.",
+        "genres": []
       },
       {
         "id": "las-vegas-kelly-clarkson-studio-sessions-2026",
@@ -92,19 +92,53 @@
         ]
       },
       {
-        "id": "las-vegas-ed-sheeran-loop-2026",
-        "title": "Ed Sheeran: LOOP Tour",
+        "id": "las-vegas-fuerza-regida-2026",
+        "title": "Fuerza Regida: This Is Our Dream Stadium Tour 2026",
         "type": "concert",
-        "startDate": "2026-07-18",
-        "endDate": "2026-07-18",
-        "importance": 90,
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 85,
         "venueName": "Allegiant Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.allegiantstadium.com/events/detail/ed-sheeran-loop-2026",
-        "ticketUrl": "https://www.allegiantstadium.com/events/detail/ed-sheeran-loop-2026",
-        "summary": "Ed Sheeran brings the LOOP Tour to Allegiant Stadium on Saturday, July 18, 2026. Allegiant Stadium confirms the date, 5:30 PM start time, and support from Myles Smith, Sigrid and Aaron Rowe.",
+        "sourceUrl": "https://www.allegiantstadium.com/events/detail/fuerza_regida_this_is_our_dream_tour_2026",
+        "ticketUrl": "https://www.allegiantstadium.com/events/detail/fuerza_regida_this_is_our_dream_tour_2026",
+        "summary": "Fuerza Regida’s This Is Our Dream Stadium Tour is confirmed for Allegiant Stadium on Friday, July 10, 2026. The venue lists the show time as 9:00 PM.",
         "genres": [
-          "pop"
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-chris-lake-palm-tree-2026",
+        "title": "Chris Lake at Palm Tree Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Palm Tree Beach Club at MGM Grand",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/chris-lake-palm-tree-beach-club-vegas-july-18/",
+        "ticketUrl": null,
+        "summary": "Chris Lake’s July 18 Palm Tree Beach Club date is a peak-summer tech-house dayclub draw and one of the month’s strongest house-focused pool parties.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-fisher-palm-tree-2026",
+        "title": "Fisher at Palm Tree Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Palm Tree Beach Club at MGM Grand",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/fisher-palm-tree-beach-club-vegas-july-4/",
+        "ticketUrl": null,
+        "summary": "Major July 4 daytime tech-house pool party at the new Palm Tree Beach Club footprint, aimed squarely at music travelers prioritizing house over open-format Vegas programming.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -138,6 +172,161 @@
         "genres": [
           "hip-hop",
           "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-meduza-zouk-2026",
+        "title": "Meduza at Zouk Nightclub",
+        "type": "club-night",
+        "startDate": "2026-07-03",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Zouk Nightclub at Resorts World",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/meduza-zouk-vegas-july-3/",
+        "ticketUrl": null,
+        "summary": "Fourth of July weekend house booking from Italian trio Meduza at Zouk, giving the holiday Strip schedule a more club-focused house anchor.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-metro-boomin-liv-2026",
+        "title": "Metro Boomin at LIV Nightclub",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "LIV Nightclub at Fontainebleau",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/metro-boomin-liv-vegas-july-11-2/",
+        "ticketUrl": null,
+        "summary": "Metro Boomin’s LIV appearance is one of July’s strongest producer-led hip-hop nightlife bookings, suited to travelers chasing club culture rather than a seated show.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-hugel-encore-beach-2026",
+        "title": "Hugel at Encore Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Encore Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/hugel-encore-beach-vegas-july-4/",
+        "ticketUrl": null,
+        "summary": "Hugel’s July 4 Encore Beach Club date brings a Latin-leaning house/Afro-house crossover sound into one of Vegas’s biggest dayclub settings.",
+        "genres": [
+          "house",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-mustard-hakkasan-2026",
+        "title": "Mustard at Hakkasan",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Hakkasan at MGM Grand",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/mustard-hakkasan-vegas-july-11/",
+        "ticketUrl": null,
+        "summary": "West Coast hip-hop/R&B producer-DJ Mustard headlines Hakkasan’s main-room Saturday, a strong rap/R&B club booking beyond the arena calendar.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-layton-giordani-liv-2026",
+        "title": "Layton Giordani at LIV Nightclub",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "LIV Nightclub at Fontainebleau",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/layton-giordani-liv-vegas-july-18/",
+        "ticketUrl": null,
+        "summary": "Drumcode-associated techno artist Layton Giordani gives LIV a rare techno-forward Saturday-night booking for the Las Vegas July calendar.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-ben-sterling-liv-2026",
+        "title": "Ben Sterling at LIV Nightclub",
+        "type": "club-night",
+        "startDate": "2026-07-17",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "LIV Nightclub at Fontainebleau",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/ben-sterling-liv-vegas-july-17/",
+        "ticketUrl": null,
+        "summary": "UK house/tech-house selector Ben Sterling brings a more underground-leaning club sound to LIV’s Friday-night schedule.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-what-so-not-substance-2026",
+        "title": "What So Not at Substance on Fremont",
+        "type": "club-night",
+        "startDate": "2026-07-17",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Substance on Fremont",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/what-so-not-vegas-july-17/",
+        "ticketUrl": null,
+        "summary": "Australian electronic artist What So Not plays Substance on Fremont, placing a recognizable touring name in a downtown electronic room rather than a casino mega-club.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "las-vegas-prospa-liv-2026",
+        "title": "Prospa at LIV Nightclub",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "LIV Nightclub at Fontainebleau",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/prospa-liv-vegas-july-24/",
+        "ticketUrl": null,
+        "summary": "UK duo Prospa bring rave-influenced house/electronic programming to LIV, a credible club-night option for travelers looking beyond commercial EDM names.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-whethan-substance-2026",
+        "title": "Whethan at Substance on Fremont",
+        "type": "club-night",
+        "startDate": "2026-07-23",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Substance on Fremont",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/event/whethan-vegas-july-23/",
+        "ticketUrl": null,
+        "summary": "Whethan’s Substance date keeps the downtown Fremont room active with touring electronic programming outside the usual Strip residency ecosystem.",
+        "genres": [
+          "electronic",
+          "pop"
         ]
       },
       {

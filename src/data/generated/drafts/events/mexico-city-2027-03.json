@@ -1,0 +1,237 @@
+{
+  "slug": "mexico-city",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:37:10.564Z",
+  "responseId": "resp_025a9f8095bfb892006acda6ddb87087d095c0acc0aa904d24+resp_03af936d248fce1c006acda726ac5087d0bfa3ad1498cc6120",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 underground listings are still sparse this far out, so this only includes dated, source-backed genre/club-oriented events found on ticketing/listing or promoter pages.",
+    "events": [
+      {
+        "id": "mexico-city-fck-fantasm-all-night-2027",
+        "title": "F*CK FANTASM All Night Long – Mexico City",
+        "type": "club-night",
+        "startDate": "2027-03-19",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Sala Urbana",
+        "venueId": null,
+        "sourceUrl": "https://reu.mx/eventos/fantasm-all-night-long",
+        "ticketUrl": "https://reu.mx/eventos/fantasm-all-night-long",
+        "summary": "Rebels/Reu-presented hard-techno all-night-long takeover by FANTASM at Sala Urbana, running 23:00–05:00 with external ticketing and a stated techno focus.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-i-love-reggaeton-2027",
+        "title": "I Love Reggaeton 2027",
+        "type": "festival",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 82,
+        "venueName": "Estadio Fray Nano de Beisbol",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/festivals/3747840-i-love-reggaeton/id/43454127-i-love-reggaeton-2027",
+        "ticketUrl": null,
+        "summary": "I Love Reggaeton is confirmed for March 6, 2027 at Estadio Fray Nano de Beisbol, with De La Ghetto, Kevin Roldan, Alexis y Fido, Ivy Queen, Trébol Clan, Jory Boy, Baby Rasta y Gringo and more listed. The official tour site also lists the CDMX stop on March 6, 2027.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-jungle-world-tour-2027",
+        "title": "JUNGLE - World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-19",
+        "importance": 80,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jungle-tickets/artist/1947184?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jungle-tickets/artist/1947184?language=en-mx",
+        "summary": "Jungle are confirmed at Palacio de los Deportes on March 19, 2027 at 8:00 p.m., with Sports listed on the bill. Ticketmaster lists the CDMX show as part of JUNGLE - World Tour 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-love-the-90s-mexico-2027",
+        "title": "Love The 90s Mexico 2027",
+        "type": "festival",
+        "startDate": "2027-03-05",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Estadio Fray Nano de Beisbol",
+        "venueId": null,
+        "sourceUrl": "https://songkick.com/festivals/3734766-love-the-90s-mexico/id/43373052-love-the-90s-mexico-2027",
+        "ticketUrl": "https://songkick.com/festivals/3734766-love-the-90s-mexico/id/43373052-love-the-90s-mexico-2027",
+        "summary": "Outdoor 90s dance/eurodance nostalgia festival with Haddaway, Robin S, Corona, Black Box, Ultra Naté, Sonique, Whigfield, Safri Duo, Proyecto Uno and Reel 2 Real at the 5,000-cap Estadio Fray Nano.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-lola-indigo-2027",
+        "title": "Lola Índigo",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-25",
+        "importance": 74,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/lola-indigo-boletos/artist/2614950",
+        "ticketUrl": "https://www.ticketmaster.com.mx/lola-indigo-boletos/artist/2614950",
+        "summary": "Lola Índigo is confirmed for March 25, 2027 at 9:00 p.m. at Teatro Metropólitan. Ticketmaster describes the Spanish artist's show as pop urbano and lists the single Mexico City date.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-tomora-pabellon-oeste-2027",
+        "title": "TOMORA – Mexico City Show",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Pabellón del Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/tomora-mexico-26-03-2027/event/1400652FB28D6F9F",
+        "ticketUrl": "https://www.ticketmaster.com.mx/tomora-mexico-26-03-2027/event/1400652FB28D6F9F",
+        "summary": "Electronic live show from TOMORA, the project pairing AURORA with Tom Rowlands of The Chemical Brothers, confirmed for Pabellón Oeste at 20:30 via Ticketmaster México.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-tomora-2027",
+        "title": "TOMORA",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-26",
+        "importance": 72,
+        "venueName": "Pabellón del Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/tomora-boletos/artist/4305949",
+        "ticketUrl": "https://www.ticketmaster.com.mx/tomora-boletos/artist/4305949",
+        "summary": "TOMORA is confirmed at Pabellón del Palacio de los Deportes on March 26, 2027 at 8:30 p.m. Ticketmaster classifies the artist under electrónica and lists the Mexico City concert date.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-ke-personajes-2027",
+        "title": "Ke Personajes",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 72,
+        "venueName": "Pepsi Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/ke-personajes-mexico-27-03-2027/event/14006541826F3473",
+        "ticketUrl": "https://www.ticketmaster.com.mx/ke-personajes-mexico-27-03-2027/event/14006541826F3473",
+        "summary": "Ke Personajes are confirmed for March 27, 2027 at 8:00 p.m. at Pepsi Center, Mexico City. The Ticketmaster event page lists the date, venue, ticket sale windows, and artist lineup.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-peter-hook-and-the-light-2027",
+        "title": "Peter Hook and the Light",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 70,
+        "venueName": "Pabellón del Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/peter-hook-and-the-light-tickets/artist/1783912",
+        "ticketUrl": "https://www.ticketmaster.com.mx/peter-hook-and-the-light-tickets/artist/1783912",
+        "summary": "Peter Hook and the Light are confirmed at Pabellón del Palacio de los Deportes on March 5, 2027 at 8:30 p.m. Ticketmaster lists the Mexico City date as part of the artist's 2026-27 concert dates.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-kid-francescoli-kind-wave-2027",
+        "title": "Kid Francescoli - A Kind Wave Tour",
+        "type": "concert",
+        "startDate": "2027-03-21",
+        "endDate": "2027-03-21",
+        "importance": 70,
+        "venueName": "Foro Puebla",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/kid-francescoli-tickets/artist/2443684",
+        "ticketUrl": "https://www.ticketmaster.com.mx/kid-francescoli-tickets/artist/2443684",
+        "summary": "Kid Francescoli is confirmed for March 21, 2027 at 8:00 p.m. at Foro Puebla. Ticketmaster lists the show under the artist's Mexico concerts for A Kind Wave Tour.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-conociendo-rusia-2027",
+        "title": "Conociendo Rusia",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 70,
+        "venueName": "Auditorio BB",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/conociendo-rusia-boletos/artist/2792625",
+        "ticketUrl": "https://www.ticketmaster.com.mx/conociendo-rusia-boletos/artist/2792625",
+        "summary": "Conociendo Rusia is confirmed for March 27, 2027 at 8:00 p.m. at Auditorio BB. Ticketmaster lists the CDMX date among the artist's Mexico concerts.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-pol-granch-2027",
+        "title": "Pol Granch",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-26",
+        "importance": 68,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/pol-granch-tickets/artist/2685636",
+        "ticketUrl": "https://www.ticketmaster.com.mx/pol-granch-tickets/artist/2685636",
+        "summary": "Pol Granch is confirmed for March 26, 2027 at 9:00 p.m. at Teatro Metropólitan. Ticketmaster lists the date and notes the show as a special Mexico City presentation for the Spanish pop artist.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-syml-2027",
+        "title": "SYML",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 64,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/syml-tickets/artist/2431236?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/syml-tickets/artist/2431236?language=en-mx",
+        "summary": "SYML is confirmed for March 6, 2027 at 9:00 p.m. at Teatro Metropólitan. Ticketmaster lists the Mexico City date under the artist's Mexico concerts.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

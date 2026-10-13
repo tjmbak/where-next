@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 import { notFound } from "next/navigation";
 import { MiniMap } from "@/components/visual/MiniMap";
 import { dropPeriodSlug, parseDropPeriod } from "@/lib/drops/generate";
@@ -74,20 +75,7 @@ export default async function DropPage({ params }: DropPageProps) {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <Link
-          href="/auth/login"
-          className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-        >
-          get your own drop →
-        </Link>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto w-full max-w-[760px] px-6 py-12 sm:px-10">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
@@ -124,7 +112,8 @@ export default async function DropPage({ params }: DropPageProps) {
                 this month&apos;s constellation
               </p>
               <p className="mt-2 text-[15px] leading-6 text-[var(--foreground)]">
-                {drop.picks.map((p) => p.city).join(" → ")}
+                {drop.picks.length} cities across {new Set(drop.picks.map((p) => p.region)).size}{" "}
+                {new Set(drop.picks.map((p) => p.region)).size === 1 ? "region" : "regions"}
               </p>
             </div>
           </div>
@@ -163,9 +152,14 @@ export default async function DropPage({ params }: DropPageProps) {
           </ol>
         )}
 
-        <p className="mt-16 border-t border-[var(--border)] pt-6 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-          curated · sent {new Date(drop.sent_at).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }).toLowerCase()}
-        </p>
+        <div className="mt-16 flex flex-wrap items-center justify-between gap-4 border-t border-[var(--border)] pt-6 font-mono text-[10px] uppercase tracking-[0.22em]">
+          <p className="text-[var(--muted-2)]">
+            curated · sent {new Date(drop.sent_at).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }).toLowerCase()}
+          </p>
+          <Link href="/auth/login" className="text-[var(--foreground)] transition hover:text-[var(--signal)]">
+            get your own drop →
+          </Link>
+        </div>
       </section>
     </main>
   );

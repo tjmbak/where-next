@@ -1,0 +1,211 @@
+{
+  "slug": "lisbon-portimao",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:52:55.719Z",
+  "responseId": "resp_02a5338821d34954006acdaa27198c87d085a18f99050e129e+resp_0fd0c3805e9c0738006acdaabfc4c487d08f0fd1fb8651aac5",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lisbon-portimao",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is still early in the announcement cycle, but Lisbon already has a confirmed mix of arena Lusophone pop, electronic-adjacent concerts, Cascais festival programming, and a nearby YARD season opener.",
+    "events": [
+      {
+        "id": "lisbon-portimao-coala-festival-2027",
+        "title": "Coala Festival Portugal 2027",
+        "type": "festival",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-30",
+        "importance": 86,
+        "venueName": "Hipódromo Manuel Possolo",
+        "venueId": null,
+        "sourceUrl": "https://coalafestival.pt/en",
+        "ticketUrl": null,
+        "summary": "Coala Festival Portugal returns to Cascais for its 4th edition, with the official site confirming two open-air days across two stages and a Brazil–Portugal–Africa Lusophone focus; lineup is still to be announced.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-yard-festival-2027",
+        "title": "YARD Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-30",
+        "importance": 82,
+        "venueName": "YARD The White Sand Mountains",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/yard-season-ticket-2027",
+        "ticketUrl": "https://shotgun.live/en/festivals/yard-season-ticket-2027",
+        "summary": "YARD’s 2027 season ticket page confirms YARD Festival across May 27, 28, 29 and 30 as the opening music chapter of its 2027 season near Lisbon.",
+        "genres": [
+          "electronic",
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-calema-raizes-360-2027",
+        "title": "Calema — Raízes 360 Tour",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 80,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://event.bol.pt/Comprar/Bilhetes/186712-calema_raizes_360_tour-meo_arena/",
+        "ticketUrl": "https://event.bol.pt/Comprar/Bilhetes/186712-calema_raizes_360_tour-meo_arena/",
+        "summary": "Calema bring the Raízes 360 Tour to Lisbon’s MEO Arena, with a 360-degree stage format placing António and Fradique at the center of the room.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-soul-fusion-portugal-2027",
+        "title": "Soul Fusion Portugal 2027",
+        "type": "festival",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-13",
+        "importance": 76,
+        "venueName": "Alvor, Algarve",
+        "venueId": null,
+        "sourceUrl": "https://portugal.soulfusion.online/",
+        "ticketUrl": "https://portugal.soulfusion.online/",
+        "summary": "Seven-night deep and soulful underground house music holiday based in Alvor, with beach parties, pool parties, club events, beach-club sessions and cruise parties across the Algarve coast near Portimão.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-ry-x-2027",
+        "title": "RY X — DUSK Tour",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 75,
+        "venueName": "Coliseu dos Recreios",
+        "venueId": null,
+        "sourceUrl": "https://coliseulisboa.com/eventos/ry-x/",
+        "ticketUrl": "https://coliseulisboa.com/eventos/ry-x/",
+        "summary": "RY X returns to Portugal to present DUSK alongside material from across his catalogue, with the Coliseu listing highlighting his electronic and cross-disciplinary approach to performance.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-rodrigo-y-gabriela-2027",
+        "title": "Rodrigo y Gabriela — OurHome Tour",
+        "type": "concert",
+        "startDate": "2027-05-11",
+        "endDate": "2027-05-11",
+        "importance": 75,
+        "venueName": "Cineteatro Capitólio",
+        "venueId": null,
+        "sourceUrl": "https://www.primeartists.eu/rodrigoygabriela-2027/",
+        "ticketUrl": "https://www.primeartists.eu/rodrigoygabriela-2027/",
+        "summary": "The Grammy-winning Mexican guitar duo Rodrigo y Gabriela return to Portugal for a Lisbon date at Cineteatro Capitólio, presenting the OurHome world tour.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-block-party-weekender-2027",
+        "title": "The Block Party Weekender 2027",
+        "type": "festival",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-30",
+        "importance": 72,
+        "venueName": "Albufeira, Algarve",
+        "venueId": null,
+        "sourceUrl": "https://www.sbworld.org/products/block-party-weekender-2027",
+        "ticketUrl": "https://www.sbworld.org/products/block-party-weekender-2027",
+        "summary": "UK-rooted Block Party brand’s first Portugal weekender, with four days of themed parties, poolside events, beach parties and boat-party programming; listed genres include Afrobeats, Dancehall, Soca, Amapiano, Afro House, Baile Funk, Garage, Funky House, Hip-Hop and R&B.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "house",
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-the-interrupters-2027",
+        "title": "The Interrupters @ Lisboa 2027",
+        "type": "concert",
+        "startDate": "2027-05-18",
+        "endDate": "2027-05-18",
+        "importance": 70,
+        "venueName": "LAV - Lisboa Ao Vivo",
+        "venueId": null,
+        "sourceUrl": "https://www.wook.pt/en/bilheteira/eventos/the-interrupters-lisboa-2027/33931270",
+        "ticketUrl": "https://www.wook.pt/en/bilheteira/eventos/the-interrupters-lisboa-2027/33931270",
+        "summary": "Los Angeles ska-punk band The Interrupters return to Lisbon for a confirmed LAV show promoted by LX Droogs after their 2024 Portugal debut.",
+        "genres": []
+      },
+      {
+        "id": "lisbon-portimao-takeoff-weekender-2027",
+        "title": "Takeoff Weekender - Albufeira 2027",
+        "type": "festival",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-03",
+        "importance": 70,
+        "venueName": "Avenida Sá Carneiro, Albufeira",
+        "venueId": null,
+        "sourceUrl": "https://takeoff.eventcube.io/",
+        "ticketUrl": "https://takeoff.eventcube.io/",
+        "summary": "Four-day Algarve diaspora weekender with beach parties, pool parties, themed events, brunches and club nights; the stated music policy covers R&B, hip-hop, dancehall, soca, Afrobeats, Amapiano, house and funky sounds.",
+        "genres": [
+          "amapiano",
+          "house",
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-enigma-voices-2027",
+        "title": "Original Enigma Voices",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 65,
+        "venueName": "Coliseu dos Recreios",
+        "venueId": null,
+        "sourceUrl": "https://coliseulisboa.com/eventos/enigma-voices/",
+        "ticketUrl": "https://coliseulisboa.com/eventos/enigma-voices/",
+        "summary": "Original Enigma Voices brings a live production built around the musical universe of Enigma to Coliseu dos Recreios, combining music, lighting, dance and immersive staging.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-pantua-mariana-dionisio-2027",
+        "title": "PANTUÃ | Mariana Dionísio",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 60,
+        "venueName": "Centro Cultural de Belém",
+        "venueId": null,
+        "sourceUrl": "https://lisboaevents.bol.pt/Comprar/Bilhetes/180364-pantua_mariana_dionisio-ccb/",
+        "ticketUrl": "https://lisboaevents.bol.pt/Comprar/Bilhetes/180364-pantua_mariana_dionisio-ccb/",
+        "summary": "Mariana Dionísio leads PANTUÃ, a voice-and-percussion quintet at CCB described as moving between hypnosis, ecstasy and celebratory ritual.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

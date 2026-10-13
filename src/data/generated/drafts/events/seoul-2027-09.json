@@ -1,0 +1,73 @@
+{
+  "slug": "seoul",
+  "month": 9,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:27:31.614Z",
+  "responseId": "resp_0a6c68998363ccdf006acdb2da953087d0a8861afcab0071df+resp_07027702ba29e715006acdb2f1a9b487d097a4f36a424e19ac",
+  "searchCalls": 21,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 9,
+    "year": 2027,
+    "notes": "No qualifying Seoul scene/club/diaspora events for September 2027 were verifiably listed yet; searches mainly surfaced 2026 club listings, non-music listings, or September 2027 mega-festival/TBC pages without exact dates.",
+    "events": [
+      {
+        "id": "seoul-yuja-wang-recital-sep-2027",
+        "title": "Yuja Wang Piano Recital",
+        "type": "concert",
+        "startDate": "2027-09-25",
+        "endDate": "2027-09-25",
+        "importance": 78,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=80470",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center confirms internationally prominent pianist Yuja Wang for a Concert Hall recital on September 25, 2027 at 17:00.",
+        "genres": []
+      },
+      {
+        "id": "seoul-sunwook-kim-beethoven-sep-2027",
+        "title": "Sunwook Kim Beethoven Piano Sonata Cycle (6)",
+        "type": "concert",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-10",
+        "importance": 72,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=80300",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center confirms pianist Sunwook Kim’s sixth Beethoven piano sonata cycle concert at Concert Hall on September 10, 2027 at 19:30.",
+        "genres": []
+      },
+      {
+        "id": "seoul-yeoleum-son-recital-sep-2027",
+        "title": "Yeol Eum Son Piano Recital",
+        "type": "concert",
+        "startDate": "2027-09-23",
+        "endDate": "2027-09-23",
+        "importance": 72,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=80059",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center lists a piano recital by Yeol Eum Son at Concert Hall on September 23, 2027 at 19:30.",
+        "genres": []
+      },
+      {
+        "id": "seoul-sungwon-yang-bach-sep-2027",
+        "title": "Sung-Won Yang Cello Recital – Bach Solo Cello Suites",
+        "type": "concert",
+        "startDate": "2027-09-02",
+        "endDate": "2027-09-02",
+        "importance": 68,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=80492",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center lists cellist Sung-Won Yang for a Bach solo cello suites recital at Concert Hall on September 2, 2027 at 19:30.",
+        "genres": []
+      }
+    ]
+  }
+}

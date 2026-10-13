@@ -1,0 +1,474 @@
+{
+  "slug": "melbourne",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:16:37.218Z",
+  "responseId": "resp_084ccecfa8d0dd20006acda16fabe487d0aa5cf01485b5be89+resp_0f718b8d2142908e006acda22a4f4087d08b01de67bfec5ddf",
+  "searchCalls": 43,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 in Melbourne is led by New Year’s Day dance culture, warehouse-scale electronic shows, summer outdoor concerts and a handful of globally touring R&B/pop and hip-hop acts.",
+    "events": [
+      {
+        "id": "melbourne-ltecnyd-2027",
+        "title": "LTECNYD 2027",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 91,
+        "venueName": "The Nursery At Flemington",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536207",
+        "ticketUrl": "https://ra.co/events/2536207",
+        "summary": "Let Them Eat Cake returns on New Year’s Day with Anetha, Boys Noize, Joy Orbison, Lady Shaka, Chaos In The CBD, Ewan McVicar, Jennifer Loveless, Partiboi69 and more across a midday-to-11pm dance festival.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-dangerous-goods-xxl-2027",
+        "title": "Dangerous Goods XXL Festival - Melbourne 2027",
+        "type": "festival",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 89,
+        "venueName": "Melbourne Showgrounds",
+        "venueId": null,
+        "sourceUrl": "https://megatix.com.au/events/dangerous-goods-xxl-festival-melbourne-JAN2027?source=presenter",
+        "ticketUrl": "https://megatix.com.au/events/dangerous-goods-xxl-festival-melbourne-JAN2027?source=presenter",
+        "summary": "Dangerous Goods XXL brings a large-scale electronic festival to Melbourne Showgrounds with Boris Brejcha, Claptone, Darude, Holy Priest, Neelix, Sub Zero Project and more on the phase-one lineup.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-foreverafter-2027",
+        "title": "Foreverafter 2027",
+        "type": "festival",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-17",
+        "importance": 86,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.frontiertouring.com/foreverafter",
+        "ticketUrl": "https://www.frontiertouring.com/foreverafter",
+        "summary": "Conceived and curated by The Presets, Foreverafter lands at Sidney Myer Music Bowl with The Presets, Cut Copy, Bag Raiders, Ladyhawke, Bang Gang DJs and FUKHED.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-bryson-tiller-neo-trapsoul-2027",
+        "title": "Bryson Tiller - The Neo Trapsoul Tour",
+        "type": "concert",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-21",
+        "importance": 83,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/bryson-tiller-the-neo-trapsoul-tour--melbourne-tickets-edp1678437",
+        "ticketUrl": "https://www.livenation.com.au/event/bryson-tiller-the-neo-trapsoul-tour--melbourne-tickets-edp1678437",
+        "summary": "Bryson Tiller returns to Melbourne for The Neo Trapsoul Tour, with Majid Jordan listed as support across the tour.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-vince-staples-2027",
+        "title": "Vince Staples - Cry Baby Tour",
+        "type": "concert",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-07",
+        "importance": 82,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://forummelbourne.com.au/shows/vince-staples-26",
+        "ticketUrl": "https://forummelbourne.com.au/shows/vince-staples-26",
+        "summary": "Vince Staples brings his Cry Baby Tour to Forum Melbourne, marking his first Australian headline run since 2018.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-sam-alfred-job-jobse-2027",
+        "title": "Sam Alfred B2B Job Jobse",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 82,
+        "venueName": "The Wool Store",
+        "venueId": null,
+        "sourceUrl": "https://www.untitledgroup.com.au/events-tours/samalfredxjobjobse",
+        "ticketUrl": "https://www.untitledgroup.com.au/events-tours/samalfredxjobjobse",
+        "summary": "Australian selector Sam Alfred and Dutch DJ Job Jobse play a one-off back-to-back show at The Wool Store, spanning house, techno, trance and garage.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-overmono-2027",
+        "title": "Overmono - Pure Devotion World Tour",
+        "type": "concert",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 82,
+        "venueName": "PICA (Port Melbourne Industrial Centre for the Arts)",
+        "venueId": null,
+        "sourceUrl": "https://pica.melbourne/",
+        "ticketUrl": "https://pica.melbourne/",
+        "summary": "Overmono bring the Pure Devotion World Tour to PICA, one of Melbourne’s key large-format electronic venues.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-nia-archives-2027",
+        "title": "Nia Archives - Melbourne",
+        "type": "concert",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-06",
+        "importance": 78,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.niaarchives.com/gig/wednesday-january-6th-2027-melbourne/",
+        "ticketUrl": "https://www.niaarchives.com/gig/wednesday-january-6th-2027-melbourne/",
+        "summary": "Nia Archives plays Forum Melbourne on 6 January, bringing her jungle and drum-and-bass-rooted live show to the city.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-smalltown-nyd-2027",
+        "title": "smalltown NYD with Âme, Kölsch + Mano Le Tough",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 78,
+        "venueName": "Cremorne Carpark",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/smalltown-nyd-with-ame-dj-kolsch-mano-le-tough-tickets-1999330843373",
+        "ticketUrl": "https://www.eventbrite.com.au/e/smalltown-nyd-with-ame-dj-kolsch-mano-le-tough-tickets-1999330843373",
+        "summary": "Novel's smalltown brand takes over a Cremorne carpark for a New Year's Day day-into-night electronic session led by Âme, Kölsch, Mano Le Tough, Gumm and Samantha Loveridge.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-sienna-spiro-my-house-2027",
+        "title": "Sienna Spiro - My House Tour",
+        "type": "concert",
+        "startDate": "2027-01-19",
+        "endDate": "2027-01-20",
+        "importance": 76,
+        "venueName": "Festival Hall Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.officialsiennaspiro.com/tour/",
+        "ticketUrl": "https://www.officialsiennaspiro.com/tour/",
+        "summary": "London singer-songwriter Sienna Spiro brings the My House Tour to Festival Hall Melbourne for two confirmed nights on 19 and 20 January.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-soul-mass-transit-system-2027",
+        "title": "Soul Mass Transit System | All Night Long",
+        "type": "club-night",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 75,
+        "venueName": "The Night Cat",
+        "venueId": null,
+        "sourceUrl": "https://thenightcat.com.au/events/soul-mass-transit-system-all-night-long-199674",
+        "ticketUrl": "https://thenightcat.com.au/events/soul-mass-transit-system-all-night-long-199674",
+        "summary": "Soul Mass Transit System plays an all-night 10pm–3am set at The Night Cat, centred on UK garage and bassline-influenced club music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-midsumma-carnival-2027",
+        "title": "Midsumma Carnival",
+        "type": "carnival",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-17",
+        "importance": 75,
+        "venueName": "Alexandra Gardens",
+        "venueId": null,
+        "sourceUrl": "https://www.midsumma.org.au/carnival",
+        "ticketUrl": null,
+        "summary": "Midsumma Carnival launches the LGBTQIA+ festival with four stages of live entertainment and an evening dance party with DJs and major headliners still to be detailed.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-jme-2027",
+        "title": "Jme",
+        "type": "concert",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 73,
+        "venueName": "170 Russell",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/jme/197990",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/jme/197990",
+        "summary": "UK grime pioneer Jme returns to Australia and New Zealand for the first time in 11 years, with a Melbourne date at 170 Russell.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-cat-empire-orchestra-2027",
+        "title": "The Cat Empire with Orchestra Victoria",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 73,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=CATEMPOV27",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=CATEMPOV27",
+        "summary": "Melbourne favourites The Cat Empire reimagine their catalogue with Orchestra Victoria for a summer Bowl show.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-dusky-signals-2027",
+        "title": "DUSKY (UK) 'Signals World Tour' - Melbourne",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 72,
+        "venueName": "ark (Melb)",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2472129",
+        "ticketUrl": "https://ra.co/events/2472129",
+        "summary": "UK duo Dusky bring their Signals world tour to Melbourne for a late-night house event running 10pm–6am.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-carpenter-brut-2027",
+        "title": "Carpenter Brut Australia-Tour.27",
+        "type": "concert",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 72,
+        "venueName": "170 Russell",
+        "venueId": null,
+        "sourceUrl": "https://moshtix.com.au/v2/event/carpenter-brut-australia-tour-27/198151",
+        "ticketUrl": "https://moshtix.com.au/v2/event/carpenter-brut-australia-tour-27/198151",
+        "summary": "Carpenter Brut brings his Australia-Tour.27 synth-heavy live show to 170 Russell in Melbourne.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-smalltown-labat-2027",
+        "title": "smalltown with LB aka LABAT & Ollie Lishman",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 72,
+        "venueName": "Preston Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2550421",
+        "ticketUrl": "https://ra.co/events/2550421",
+        "summary": "Novel's smalltown series heads to Preston Warehouse for an industrial day-into-night party led by LB aka LABAT and Berlin-based Melbourne selector Ollie Lishman, with Mikalah Watego b2b Prizefight among support.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-laszewo-2027",
+        "title": "Łaszewo - Melbourne",
+        "type": "concert",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-07",
+        "importance": 70,
+        "venueName": "170 Russell",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/%C5%82aszewo-melbourne-tickets-edp1697092",
+        "ticketUrl": "https://www.livenation.com.au/event/%C5%82aszewo-melbourne-tickets-edp1697092",
+        "summary": "Santa Barbara electronic-pop trio Łaszewo make their Melbourne debut at 170 Russell as part of their first Australian dates.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-ao-live-jan-2027",
+        "title": "AO LIVE 2027",
+        "type": "festival",
+        "startDate": "2027-01-11",
+        "endDate": "2027-01-31",
+        "importance": 90,
+        "venueName": "Melbourne Park",
+        "venueId": null,
+        "sourceUrl": "https://ausopen.com/aolive",
+        "ticketUrl": "https://ausopen.com/aolive",
+        "summary": "The Australian Open’s official AO LIVE page lists the music program for 11–31 January 2027, spanning the tournament precinct. Artist-by-artist 2027 programming should be checked again closer to the event as the AO page is updated.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-let-them-eat-cake-jan-2027",
+        "title": "Let Them Eat Cake 2027",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 88,
+        "venueName": "Werribee Mansion / Werribee Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/guides/festivals-in-australia",
+        "ticketUrl": null,
+        "summary": "Resident Advisor lists Let Them Eat Cake for 1 January 2027 in Naarm/Melbourne, describing the NYD event as a long-running electronic music festival at Werribee Mansion. The 2027 lineup was not yet published in the source.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "melbourne-our-city-our-sound-jan-2027",
+        "title": "Our City, Our Sound",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 87,
+        "venueName": "Sidney Myer Music Bowl",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=OCOSMLB27",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=OCOSMLB27",
+        "summary": "Ticketek confirms Our City, Our Sound at Sidney Myer Music Bowl on Saturday 30 January 2027 at 2:00pm, presented by Danny Rants, Orkestrated and Kinetix Group. The event is billed as a tribute to the pioneers and later generations of Melbourne’s dance music scene.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-share-the-spirit-jan-2027",
+        "title": "Share The Spirit 2027",
+        "type": "festival",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "importance": 76,
+        "venueName": "Treasury Gardens",
+        "venueId": null,
+        "sourceUrl": "https://www.onlymelbourne.com.au/share-the-spirit",
+        "ticketUrl": null,
+        "summary": "OnlyMelbourne lists Share The Spirit at Treasury Gardens on Tuesday 26 January 2027 from 12:00pm to 6:30pm. The long-running Songlines event showcases First Nations music and culture, with styles including folk, country, rock, blues, soul, funk and hip hop.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-public-image-ltd-forum-jan-2027",
+        "title": "Public Image Ltd — This Is Not… The Final PiL Tour",
+        "type": "concert",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-24",
+        "importance": 75,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://forummelbourne.com.au/shows/public-image-ltd-27",
+        "ticketUrl": "https://forummelbourne.com.au/shows/public-image-ltd-27",
+        "summary": "Forum Melbourne confirms Public Image Ltd play a standing 18+ show on Sunday 24 January 2027 at 7:00pm. The current PiL lineup features John Lydon, Bruce Smith, Lu Edmonds and Scott Firth.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-beartooth-festival-hall-jan-2027",
+        "title": "Beartooth — Pure Ecstasy World Tour Australia",
+        "type": "concert",
+        "startDate": "2027-01-28",
+        "endDate": "2027-01-28",
+        "importance": 74,
+        "venueName": "Festival Hall Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.destroyalllines.com/tours/beartooth",
+        "ticketUrl": "https://www.destroyalllines.com/tours/beartooth",
+        "summary": "Destroy All Lines confirms Beartooth’s Melbourne show at Festival Hall on Thursday 28 January 2027, with Fit For A King and Volumes. The date is part of the band’s Pure Ecstasy Australian headline tour.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-transenergy-revolver-jan-2027",
+        "title": "Narciss B2B Morphena — Transenergy x Revolver Fridays",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 72,
+        "venueName": "Revolver Upstairs",
+        "venueId": "revolver-upstairs",
+        "sourceUrl": "https://ra.co/events/2324807",
+        "ticketUrl": "https://ra.co/events/2324807",
+        "summary": "Revolver Upstairs and Transenergy host Narciss B2B Morphena for a four-hour set, with 2 Factor Authentication, C000KIE, CHARBINK$, Henry Who, Mike Callander, Sophie Forrest and Tong also listed. Resident Advisor confirms the 9:00pm–7:00am club event and tags it as techno and house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-waylon-wyatt-northcote-jan-2027",
+        "title": "Waylon Wyatt — Dustpiles World Tour",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 72,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.frontiertouring.com/waylonwyatt",
+        "ticketUrl": "https://www.frontiertouring.com/waylonwyatt",
+        "summary": "Frontier Touring confirms Waylon Wyatt’s Dustpiles World Tour reaches Northcote Theatre for Melbourne shows on 23 and 24 January 2027, joined by Clover County. The Melbourne second show was added due to demand.",
+        "genres": []
+      },
+      {
+        "id": "melbourne-narciss-morphena-transenergy-2027",
+        "title": "Narciss B2B Morphena (4HRS - DE) — Transenergy x Revolver Fridays",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-03",
+        "importance": 72,
+        "venueName": "Revolver Upstairs",
+        "venueId": "revolver-upstairs",
+        "sourceUrl": "https://ra.co/events/2324807",
+        "ticketUrl": "https://ra.co/events/2324807",
+        "summary": "Berlin-based Narciss and Morphena play a four-hour B2B for Transenergy x Revolver Fridays, running 21:00–07:00 at Melbourne institution Revolver Upstairs with local support across techno, house and forward electronic sounds.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

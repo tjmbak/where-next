@@ -2,9 +2,9 @@
   "slug": "las-vegas",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:35:53.105Z",
-  "responseId": "resp_0d244e971ad31e9d0069ff61cbe66c81a2830d38ba28cf2e3f",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T18:18:43.467Z",
+  "responseId": "augment:resp_01c486f54381b5d0006a1b29980380819babdedc616ca319c2",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "las-vegas",
@@ -12,6 +12,24 @@
     "year": 2026,
     "notes": "September 2026 is especially strong for Mexican Independence Day-adjacent Latin programming, alongside major Strip residencies and arena-scale festival dates.",
     "events": [
+      {
+        "id": "las-vegas-iheartradio-music-festival-2026",
+        "title": "iHeartRadio Music Festival",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-19",
+        "importance": 95,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/iheartradio-music-festival",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/iheartradio-music-festival",
+        "summary": "T-Mobile Arena confirms the iHeartRadio Music Festival for Friday, September 18 and Saturday, September 19, 2026. The annual two-night festival is one of Las Vegas’ marquee multi-genre pop events.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
       {
         "id": "las-vegas-carin-leon-sphere-2026",
         "title": "Carín León at Sphere",
@@ -29,53 +47,18 @@
         ]
       },
       {
-        "id": "las-vegas-dom-dolla-liv-beach-2026",
-        "title": "Dom Dolla at LIV Beach",
-        "type": "beach-club",
-        "startDate": "2026-09-05",
-        "endDate": "2026-09-05",
-        "importance": 78,
-        "venueName": "LIV Beach at Fontainebleau Las Vegas",
+        "id": "las-vegas-eagles-sphere-2026",
+        "title": "Eagles Live at Sphere",
+        "type": "residency",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-19",
+        "importance": 92,
+        "venueName": "Sphere",
         "venueId": null,
-        "sourceUrl": "https://www.livnightclub.com/las-vegas-artists-dom-dolla/",
-        "ticketUrl": "https://www.livnightclub.com/las-vegas-artists-dom-dolla/",
-        "summary": "LIV lists Dom Dolla for a 2026 residency season across LIV Nightclub and LIV Beach, including a Saturday, September 5, 2026 LIV Beach date. Expect house-focused pool-party programming from the Australian DJ and producer.",
+        "sourceUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977?venueId=189524",
+        "ticketUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977?venueId=189524",
+        "summary": "Ticketmaster lists Eagles Live at Sphere performances on September 18 and 19, 2026, at Sphere in Las Vegas. The dates extend the band’s long-running immersive Sphere residency.",
         "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "las-vegas-mana-vivir-sin-aire-2026",
-        "title": "MANÁ: Vivir Sin Aire Tour",
-        "type": "concert",
-        "startDate": "2026-09-11",
-        "endDate": "2026-09-11",
-        "importance": 85,
-        "venueName": "T-Mobile Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.t-mobilearena.com/events/detail/mana",
-        "ticketUrl": "https://www.t-mobilearena.com/events/detail/mana",
-        "summary": "MANÁ’s Vivir Sin Aire Tour is confirmed at T-Mobile Arena on Friday, September 11, 2026. The show anchors Mexican Independence Day weekend with one of Latin rock’s biggest legacy acts.",
-        "genres": [
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "las-vegas-matute-disco-stereo-2026",
-        "title": "Matute: Disco Stereo Tour",
-        "type": "concert",
-        "startDate": "2026-09-11",
-        "endDate": "2026-09-12",
-        "importance": 74,
-        "venueName": "The Venetian Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.venetianlasvegas.com/media/news-releases/2026/03-04-matute-returning-to-the-venetian-resort-las-vegas-september-11-and-12-2026.html",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "The Venetian confirms Matute’s Disco Stereo Tour for September 11 and 12, 2026, at 8:30 p.m. The Mexican group’s Las Vegas weekend is billed around its high-energy live treatment of ’80s Spanish- and English-language hits.",
-        "genres": [
-          "latin",
           "pop"
         ]
       },
@@ -91,6 +74,23 @@
         "sourceUrl": "https://www.fontainebleaulasvegas.com/entertainment/marc-anthony/",
         "ticketUrl": "https://www.fontainebleaulasvegas.com/entertainment/marc-anthony/",
         "summary": "Fontainebleau lists newly added Marc Anthony residency dates on September 11, 12, 13, 16, 18, and 19, 2026. The show is described as a first-of-its-kind intimate residency featuring English- and Spanish-language hits from across his career.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-mana-vivir-sin-aire-2026",
+        "title": "MANÁ: Vivir Sin Aire Tour",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-11",
+        "importance": 85,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/mana",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/mana",
+        "summary": "MANÁ’s Vivir Sin Aire Tour is confirmed at T-Mobile Arena on Friday, September 11, 2026. The show anchors Mexican Independence Day weekend with one of Latin rock’s biggest legacy acts.",
         "genres": [
           "latin",
           "pop"
@@ -125,52 +125,39 @@
         "genres": []
       },
       {
-        "id": "las-vegas-eagles-sphere-2026",
-        "title": "Eagles Live at Sphere",
-        "type": "residency",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-19",
-        "importance": 92,
-        "venueName": "Sphere",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977?venueId=189524",
-        "ticketUrl": "https://www.ticketmaster.com/eagles-tickets/artist/734977?venueId=189524",
-        "summary": "Ticketmaster lists Eagles Live at Sphere performances on September 18 and 19, 2026, at Sphere in Las Vegas. The dates extend the band’s long-running immersive Sphere residency.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "las-vegas-iheartradio-music-festival-2026",
-        "title": "iHeartRadio Music Festival",
+        "id": "las-vegas-high-stakes-2026",
+        "title": "High Stakes Festival 2026",
         "type": "festival",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-19",
-        "importance": 95,
-        "venueName": "T-Mobile Arena",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-26",
+        "importance": 80,
+        "venueName": "The A-Lot at AREA15",
         "venueId": null,
-        "sourceUrl": "https://www.t-mobilearena.com/events/detail/iheartradio-music-festival",
-        "ticketUrl": "https://www.t-mobilearena.com/events/detail/iheartradio-music-festival",
-        "summary": "T-Mobile Arena confirms the iHeartRadio Music Festival for Friday, September 18 and Saturday, September 19, 2026. The annual two-night festival is one of Las Vegas’ marquee multi-genre pop events.",
+        "sourceUrl": "https://highstakesfestival.com/",
+        "ticketUrl": "https://www.area15.com/entertainment/high-stakes-festival",
+        "summary": "Two-night electronic festival at AREA15 with a 2026 lineup including ACRAZE, NGHTMRE, JOYRYDE, Getter, Ship Wrek, Wuki, Softest Hard and more.",
         "genres": [
-          "pop",
-          "hip-hop",
+          "electronic",
+          "house",
           "festival"
         ]
       },
       {
-        "id": "las-vegas-world-of-warcraft-music-2026",
-        "title": "World of Warcraft: 20 Years of Music",
-        "type": "concert",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-20",
-        "importance": 70,
-        "venueName": "Resorts World Theatre",
+        "id": "las-vegas-dom-dolla-liv-beach-2026",
+        "title": "Dom Dolla at LIV Beach",
+        "type": "beach-club",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 78,
+        "venueName": "LIV Beach at Fontainebleau Las Vegas",
         "venueId": null,
-        "sourceUrl": "https://www.rwlasvegas.com/entertainment/world-of-warcraft/",
-        "ticketUrl": "https://www.rwlasvegas.com/entertainment/world-of-warcraft/",
-        "summary": "Resorts World confirms World of Warcraft: 20 Years of Music for September 19 and 20, 2026, at Resorts World Theatre. The production features a full symphonic orchestra and choir performing music from across the game’s universe.",
-        "genres": []
+        "sourceUrl": "https://www.livnightclub.com/las-vegas-artists-dom-dolla/",
+        "ticketUrl": "https://www.livnightclub.com/las-vegas-artists-dom-dolla/",
+        "summary": "LIV lists Dom Dolla for a 2026 residency season across LIV Nightclub and LIV Beach, including a Saturday, September 5, 2026 LIV Beach date. Expect house-focused pool-party programming from the Australian DJ and producer.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
       },
       {
         "id": "las-vegas-soul-fest-2026",
@@ -191,6 +178,54 @@
         ]
       },
       {
+        "id": "las-vegas-matute-disco-stereo-2026",
+        "title": "Matute: Disco Stereo Tour",
+        "type": "concert",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-12",
+        "importance": 74,
+        "venueName": "The Venetian Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.venetianlasvegas.com/media/news-releases/2026/03-04-matute-returning-to-the-venetian-resort-las-vegas-september-11-and-12-2026.html",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "The Venetian confirms Matute’s Disco Stereo Tour for September 11 and 12, 2026, at 8:30 p.m. The Mexican group’s Las Vegas weekend is billed around its high-energy live treatment of ’80s Spanish- and English-language hits.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-rl-grime-zouk-2026",
+        "title": "RL Grime at Zouk Nightclub",
+        "type": "club-night",
+        "startDate": "2026-09-18",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Zouk Nightclub at Resorts World",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/artist/rl-grime/",
+        "ticketUrl": null,
+        "summary": "Zouk resident-date for RL Grime, anchoring the bass/trap side of Las Vegas’s large-format club programming in September.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-world-of-warcraft-music-2026",
+        "title": "World of Warcraft: 20 Years of Music",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 70,
+        "venueName": "Resorts World Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.rwlasvegas.com/entertainment/world-of-warcraft/",
+        "ticketUrl": "https://www.rwlasvegas.com/entertainment/world-of-warcraft/",
+        "summary": "Resorts World confirms World of Warcraft: 20 Years of Music for September 19 and 20, 2026, at Resorts World Theatre. The production features a full symphonic orchestra and choir performing music from across the game’s universe.",
+        "genres": []
+      },
+      {
         "id": "las-vegas-alison-krauss-union-station-2026",
         "title": "Alison Krauss & Union Station",
         "type": "concert",
@@ -203,6 +238,110 @@
         "ticketUrl": "https://www.wynnlasvegas.com/entertainment/upcoming-shows/alison-krauss-and-union-station",
         "summary": "Wynn lists Alison Krauss & Union Station for Tuesday, September 29, 2026, at 8 p.m. at Encore Theater. The booking brings a respected roots and bluegrass ensemble to the Strip’s theater circuit.",
         "genres": []
+      },
+      {
+        "id": "las-vegas-wetouchgrass-anime-rave-2026",
+        "title": "WeTouchGrass presents: Anime Rave",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "SUBSTANCE",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1453737/wetouchgrass-anime-rave-21-event-tickets",
+        "ticketUrl": "https://www.axs.com/events/1453737/wetouchgrass-anime-rave-21-event-tickets",
+        "summary": "Touring anime-rave party brand brings a 21+ pop-culture/electronic club event to downtown Las Vegas’s SUBSTANCE.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-miyukicore-2026",
+        "title": "MIYUKICORE Las Vegas",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 68,
+        "venueName": "Moonlight Karaoke Lounge",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/miyukicore-las-vegas-tickets-1987351577065",
+        "ticketUrl": "https://www.eventbrite.com/e/miyukicore-las-vegas-tickets-1987351577065",
+        "summary": "MIYUKI’s debut headlining-tour stop billed as a high-energy night of techno, trance and live flute performance.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-lowkey-library-2026",
+        "title": "Lowkey in the Library — September Wednesdays",
+        "type": "residency",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-30",
+        "importance": 65,
+        "venueName": "Marquee at Cosmopolitan",
+        "venueId": null,
+        "sourceUrl": "https://electronic.vegas/las-vegas-house-techno-calendar/",
+        "ticketUrl": null,
+        "summary": "Weekly Wednesday Library-room house series at Marquee, with September 2026 listings including DJ Hills, Close Friends Only, Chris Garcia and L’Core.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-drais-afterhours-rnb-2026",
+        "title": "Drai’s After Hours: R&B Thursdays",
+        "type": "club-night",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-25",
+        "importance": 65,
+        "venueName": "Drai’s After Hours",
+        "venueId": null,
+        "sourceUrl": "https://www.draisgroup.com/",
+        "ticketUrl": "https://www.draisgroup.com/",
+        "summary": "Recurring late-night R&B/hip-hop after-hours series from Drai’s, one of Las Vegas’s longest-running after-hours institutions.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-drais-house-hiphop-2026",
+        "title": "Drai’s After Hours: House • Hip Hop Sundays",
+        "type": "club-night",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-27",
+        "importance": 64,
+        "venueName": "Drai’s After Hours",
+        "venueId": null,
+        "sourceUrl": "https://www.draisgroup.com/",
+        "ticketUrl": "https://www.draisgroup.com/",
+        "summary": "Weekly Drai’s After Hours Sunday programming blending house and hip-hop in the club’s post-1am late-night format.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-lightwave-c-rave-2026",
+        "title": "LIGHTWAVE C-Rave Experience",
+        "type": "club-night",
+        "startDate": "2026-09-26",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "The Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/lightwave-c-rave-experience-tickets-1983426112896",
+        "ticketUrl": "https://www.eventbrite.com/e/lightwave-c-rave-experience-tickets-1983426112896",
+        "summary": "Local 18+ warehouse-style rave focused on uplifting trance, melodic techno and bass house, billed as supporting the underground community.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
       }
     ]
   }

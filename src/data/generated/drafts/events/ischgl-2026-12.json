@@ -2,16 +2,102 @@
   "slug": "ischgl",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T18:53:55.736Z",
-  "responseId": "resp_0116052ea75273300069ff828575a4819089fcef220002ea79",
-  "searchCalls": 5,
+  "generatedAt": "2026-10-13T02:56:14.078Z",
+  "responseId": "resp_0ce11c3b78ecd5b0006acd9d38169487d08af4c1be896b8657+resp_0d7dc7d8d302ef1f006acd9d6f89ec87d0af4c037988996756",
+  "searchCalls": 27,
   "citations": [],
   "data": {
     "destinationSlug": "ischgl",
     "month": 12,
     "year": 2026,
-    "notes": "December 2026 club and après-ski lineups for Ischgl are not yet published; the only primary-source music date found is the late-November season-opening concert requested for context.",
+    "notes": "Confirmed December music programming is concentrated in Paznaun ski-opening and après-style events rather than a December Top of the Mountain concert.",
     "events": [
+      {
+        "id": "ischgl-electronic-dias-2026",
+        "title": "Electronic Dias Kappl",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Roof terrace at Sunny Mountain, Kappl ski resort",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/electronic-dias_event_127775141",
+        "ticketUrl": "https://www.kappl-see.com/en/tickets-prices/operating-times-prices",
+        "summary": "High-altitude electronic day party in the Paznaun-Ischgl area with Tiffany Seguí, Pvssycat, Marvin Aloys, Karotte and Sante Sansone; free admission with a valid ski pass, gondola open late until 19:00.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "ischgl-galtuer-ski-opening-2026",
+        "title": "Galtür Ski Opening",
+        "type": "festival",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-06",
+        "importance": 64,
+        "venueName": "Silvapark Galtür",
+        "venueId": null,
+        "sourceUrl": "https://www.galtuer.com/de/veranstaltungen-erlebnisse/topevents/galt-r-ski-opening_event_39796715",
+        "ticketUrl": "https://shop.galtuer.com/",
+        "summary": "Radio Ramasuri / Radio Galaxy Ski Opening 2026 runs 4–6 December in nearby Galtür, with live music from Boazn Briada, hut-sound programming, and a Saturday opening party with a live band at Huberstadl.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-freeride-apres-clubbing-2026",
+        "title": "Freeride Après Clubbing – Winter 2026/27 Residency",
+        "type": "residency",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-31",
+        "importance": 62,
+        "venueName": "Freeride",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/ro/freeride_infra_100002963",
+        "ticketUrl": null,
+        "summary": "Daily winter après-clubbing residency running through the 2026/27 season, with DJs every afternoon heating the dancefloor from 13:00 into the late-night window.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-bad-medicine-kappl-2026",
+        "title": "Bad Medicine - Bon Jovi Tribute Band in Kappl",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 61,
+        "venueName": "Bergbahnen Kappl AG",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/bad-medicine-bon-jovi-tribute-band-in-kappl_event_135355845",
+        "ticketUrl": null,
+        "summary": "Bad Medicine perform Bon Jovi hits live on 12 December as the music component of the Skischaukel Kappl & See opening event near Ischgl.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-kuhstall-daily-dj-apres-2026",
+        "title": "Kuhstall Daily DJ Après-Ski Residency – Winter 2026/27",
+        "type": "residency",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-31",
+        "importance": 61,
+        "venueName": "Kuhstall",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/kuhstall_infra_100004856",
+        "ticketUrl": null,
+        "summary": "Long-running Ischgl après-ski party institution with daily winter opening, DJs, dancing and high-energy pop/dance entertainment through the December ski-season period.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
       {
         "id": "ischgl-top-mountain-opening-2026",
         "title": "Top of the Mountain Opening Concert",

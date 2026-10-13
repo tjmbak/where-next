@@ -1,0 +1,113 @@
+{
+  "slug": "ischgl",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:46:17.402Z",
+  "responseId": "resp_0bc78c63220649f6006acda91625d087d08d3372ff3c0165d1+resp_02acaca582686f9c006acda9542e1c87d095eefa16127d6570",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is centered on Spring Blanc-style mountain music: high-altitude concerts, DJ sunset sessions, and ski-area live-music formats, with some headline artists still to be announced.",
+    "events": [
+      {
+        "id": "ischgl-top-mountain-spring-2027",
+        "title": "Top of the Mountain Spring Concert",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 90,
+        "venueName": "Ischgl Stage",
+        "venueId": "top-of-the-mountain-ischgl",
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/top-of-the-mountain-spring-concert_event_48589017",
+        "ticketUrl": null,
+        "summary": "Ischgl’s Spring Blanc concert series returns to the Ischgl Stage at 2,300 metres for a top-class open-air concert; the artist lineup is still marked as coming soon.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-spring-snow-festival-alp-trida-2027",
+        "title": "37th International Spring Snow Festival",
+        "type": "festival",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 85,
+        "venueName": "Silvretta Ski-Arena Samnaun/Ischgl, Alp Trida",
+        "venueId": null,
+        "sourceUrl": "https://www.samnaun.ch/en/37th-international-spring-snow-festival",
+        "ticketUrl": null,
+        "summary": "The 37th International Spring Snow Festival brings top-class musical entertainment to Alp Trida in the connected Samnaun/Ischgl ski area; the headliner has not yet been announced.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-sundowner-apr9-2027",
+        "title": "sun.downer Ischgl",
+        "type": "club-night",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-09",
+        "importance": 65,
+        "venueName": "Bergrestaurant Pardorama at Pardatschgrat",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/sun-downer-ischgl_event_135700991",
+        "ticketUrl": null,
+        "summary": "A limited-capacity sunset session at 2,624 metres with chill DJ sounds, an outdoor lounge, ice bar and grill from 19:00 to 21:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-sundowner-apr23-2027",
+        "title": "sun.downer Ischgl",
+        "type": "club-night",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-23",
+        "importance": 65,
+        "venueName": "Bergrestaurant Pardorama at Pardatschgrat",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/sun-downer-ischgl_event_135700991",
+        "ticketUrl": null,
+        "summary": "The second April 2027 sun.downer date pairs the Pardatschgrat sunset with chill DJ sounds, an outdoor lounge, ice bar and grill from 19:00 to 21:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-huttenrallye-see-2027",
+        "title": "Hüttenrallye See",
+        "type": "festival",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 60,
+        "venueName": "See ski area, Paznaun Valley",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/event-calendar/huettenrallye_event_134978631",
+        "ticketUrl": null,
+        "summary": "A hut-to-hut live-music day in the nearby See ski area, with three bands scheduled across Gratli, Ascherhütte and Medrig Alm; specific music groups are still listed as forthcoming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-lodge-rally-2027",
+        "title": "Lodge Rally: 3 Bands 3 Lodges",
+        "type": "festival",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 64,
+        "venueName": "Ski area See",
+        "venueId": null,
+        "sourceUrl": "https://www.paznaun-ischgl.com/en/events-experiences/topevents/lodge-rally_event_115789501",
+        "ticketUrl": null,
+        "summary": "A piste-to-piste live-music rally in See, Paznaun, with three bands performing across three mountain lodges. The official listing names Oidhoiz for the finale at Medrig Alm and states admission is free with a valid ski ticket.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

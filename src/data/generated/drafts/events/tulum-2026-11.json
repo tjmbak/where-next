@@ -2,16 +2,186 @@
   "slug": "tulum",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:05:56.315Z",
-  "responseId": "resp_0bfdecadde2268c70069ff5afa5864819da29ee7642f65a210",
-  "searchCalls": 15,
+  "generatedAt": "2026-10-13T02:37:18.084Z",
+  "responseId": "resp_0fa12c6e084a18d7006acd988b4cbc87d0a29a9b9a8e355ec3+resp_0a3e5e4d96d8e9d2006acd98f96ad087d09840786309d0dcf8",
+  "searchCalls": 41,
   "citations": [],
   "data": {
     "destinationSlug": "tulum",
     "month": 11,
     "year": 2026,
-    "notes": "Confirmed November 2026 Tulum programming is still sparse; the strongest verified listings are cultural/party formats rather than full club-season lineups.",
+    "notes": "November is lighter than peak Zamna season, but confirmed programming still centers on Day of the Dead, beach/jungle club nights, and a major Riviera Maya destination EDM festival.",
     "events": [
+      {
+        "id": "tulum-ember-shores-riviera-maya-2026",
+        "title": "Ember Shores 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 88,
+        "venueName": "Barceló Riviera Maya Resort",
+        "venueId": null,
+        "sourceUrl": "https://embershores.com/info",
+        "ticketUrl": "https://embershores.com/",
+        "summary": "ILLENIUM’s destination festival returns to the Riviera Maya for three days at Barceló Riviera Maya Resort, with multiple stages and a large electronic support lineup.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-umbral-stavroz-2026",
+        "title": "PPP Presents UMBRAL: Music Journey by Stavroz (Live)",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 76,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/ppp-presents-umbral-music-journey-by-stavroz-live-show-1nov2026?locale=en",
+        "ticketUrl": "https://www.ticketfairy.com/event/ppp-presents-umbral-music-journey-by-stavroz-live-show-1nov2026?locale=en",
+        "summary": "Papaya Playa Project’s UMBRAL Día de Muertos program includes a November 1 live music journey by Stavroz, billed around organic rhythms, warm melodies and deep tropical groove.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-gitano-full-moon-rising-2026",
+        "title": "Full Moon Rising",
+        "type": "beach-club",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 72,
+        "venueName": "Gitano Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.gitano.com/full-moon-rising",
+        "ticketUrl": "https://www.gitano.com/full-moon-rising",
+        "summary": "Gitano Beach’s Full Moon Rising is its confirmed November full-moon party, advertised with electronic music and DJ sets on the beach from 8 PM until late.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-ppp-full-moon-2026",
+        "title": "Papaya Playa Project Presents The Full Moon",
+        "type": "beach-club",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 72,
+        "venueName": "Papaya Playa Project",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/papaya-playa-project-presents-the-full-moon-21nov2026",
+        "ticketUrl": "https://www.ticketfairy.com/event/papaya-playa-project-presents-the-full-moon-21nov2026",
+        "summary": "Papaya Playa Project’s November 21 Full Moon party is a beachfront electronic night billed around deep grooves and late-night dancing; the lineup is listed as TBA.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-proper-collective-11-years-2026",
+        "title": "11 Years of Proper Collective",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/mx/tulum/house",
+        "ticketUrl": null,
+        "summary": "Proper Collective’s 11-year anniversary in Tulum, listed on RA’s house calendar; the collective is rooted in underground house culture, deep/minimal house, long-form sets, and intimate community-focused dance floors.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-gypsy-disco-nov-2026",
+        "title": "Gypsy Disco",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 66,
+        "venueName": "Gitano Jungle",
+        "venueId": null,
+        "sourceUrl": "https://tulumbible.com/es-mx/event/gypsy-disco-13nov-2026",
+        "ticketUrl": "https://tulumbible.com/es-mx/event/gypsy-disco-13nov-2026",
+        "summary": "Gitano’s long-running Friday Gypsy Disco pairs dinner, mezcal cocktails and local DJs playing disco, funk, groove and nu-disco in the Jungle Room.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-sosrec-showcase-2026",
+        "title": "SOSrec Showcase Tulum",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 65,
+        "venueName": "Obsidiana Tulum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2553083",
+        "ticketUrl": null,
+        "summary": "SOS Productions takes over Obsidiana Tulum’s rooftop for a vinyl-only house and minimal night with Nomad and Guille Sola.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-la-noche-gitano-2026",
+        "title": "LA NOCHE",
+        "type": "beach-club",
+        "startDate": "2026-11-05",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Gitano Beach Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/la-noche-5nov2026",
+        "ticketUrl": "https://www.ticketfairy.com/event/la-noche-5nov2026",
+        "summary": "Gitano Beach’s dinner-to-dance Latin beats and Afro house night, with salsa class options, cabaret/show elements, open-bar and dinner packages, and late beachfront dancing.",
+        "genres": [
+          "afro-house",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-gypsy-disco-especial-2026",
+        "title": "Gypsy Disco Especial Edition",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Gitano Jungle",
+        "venueId": null,
+        "sourceUrl": "https://tulumbible.com/event/gypsy-disco-especial-edition-20nov-2026",
+        "ticketUrl": "https://tulumbible.com/event/gypsy-disco-especial-edition-20nov-2026",
+        "summary": "Special edition of Gitano Jungle’s Friday Gypsy Disco format, built around local DJs, disco, funk, groove and nu-disco, with dinner, cocktails, table service and a gradual build from social dining into dancing.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-hanal-pixan-vesica-2026",
+        "title": "Concert Night | HANAL PIXÁN",
+        "type": "concert",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 62,
+        "venueName": "Vesica Cenote",
+        "venueId": null,
+        "sourceUrl": "https://tulumbible.com/event/concert-night-vesica-santuario-1nov2026",
+        "ticketUrl": "https://tf.link/gosfmfgl",
+        "summary": "Vesica Cenote hosts a candlelit Hanal Pixán concert night with live Mexican music and a collective Day of the Dead altar beside the cenote.",
+        "genres": [
+          "latin"
+        ]
+      },
       {
         "id": "tulum-umbral-dia-de-muertos-2026",
         "title": "PPP Presents - UMBRAL Dia de Muertos",

@@ -2,16 +2,425 @@
   "slug": "sao-paulo",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:51:32.387Z",
-  "responseId": "resp_0d4f8788b5e871fc0069ff65a3cbb08193924b30a66c89f564",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:44:46.931Z",
+  "responseId": "resp_02223e5811a93d9f006acd9a405fd087d09a133a7c29573add+resp_0e8bd0c70b0b3571006acd9aa7c41887d0b491482d72f2f11b",
+  "searchCalls": 40,
   "citations": [],
   "data": {
     "destinationSlug": "sao-paulo",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026 is already anchored by international arena and club-date concerts in São Paulo, with festival-scale announcements still sparse this far out.",
+    "notes": "November 2026 is anchored by large-scale electronic programming, diaspora-led club culture, and a strong run of international electronic, hip-hop, R&B and alternative-pop shows.",
     "events": [
+      {
+        "id": "sao-paulo-whole-festival-brasil-2026",
+        "title": "WHOLE Festival Brasil 2026",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-09",
+        "importance": 88,
+        "venueName": "Locação secreta em São Paulo",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/pt-br/festivals/whole-festival-brasil-2026",
+        "ticketUrl": "https://r.shotgun.live/pt-br/festivals/whole-festival-brasil-2026",
+        "summary": "WHOLE Festival’s first Brazil edition takes place in São Paulo from 6 November at 23:00 until 9 November at 09:00. The confirmed Shotgun festival page describes a multi-location programme focused on music, art and community.",
+        "genres": [
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-batekoo-festival-2026",
+        "title": "Batekoo Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 87,
+        "venueName": "São Paulo - SP, Brasil",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/pt-br/festivals/batekoo-festival-2026",
+        "ticketUrl": "https://r.shotgun.live/pt-br/festivals/batekoo-festival-2026",
+        "summary": "Batekoo Festival 2026 takes place in São Paulo on 14 November from 18:00 to 06:00. The Shotgun listing confirms a 12-hour programme with more than 20 attractions across two stages, including Pixote, D’Leesa, Bia Soull, DJ MikeQ, Clementaum and Paulete Lindacelva.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-music-on-2026",
+        "title": "Music On São Paulo",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 86,
+        "venueName": "Vale do Anhangabaú",
+        "venueId": null,
+        "sourceUrl": "https://pt.ra.co/events/2513564",
+        "ticketUrl": "https://www.ingresse.com/",
+        "summary": "Music On São Paulo returns to Vale do Anhangabaú on 7 November 2026 from 14:00 to 23:00, promoted by BEON-Entertainment. Resident Advisor lists Marco Carola on the programme and describes the Ibiza-born Music On label’s third São Paulo edition.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-solomun-villa-lobos-2026",
+        "title": "Solomun :: SP 01/11",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 84,
+        "venueName": "Parque Villa-Lobos",
+        "venueId": null,
+        "sourceUrl": "https://eventos.plurstation.com.br/evento/34010/solomun-sp-01-11-sao-paulo-2026-11-01",
+        "ticketUrl": "https://eventos.plurstation.com.br/evento/34010/solomun-sp-01-11-sao-paulo-2026-11-01",
+        "summary": "Solomun returns to São Paulo for a daytime electronic event at Parque Villa-Lobos on 1 November 2026. The event page lists Parque Villa-Lobos as the venue and confirms the São Paulo date.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-new-order-espaco-unimed-2026",
+        "title": "New Order | São Paulo",
+        "type": "concert",
+        "startDate": "2026-11-23",
+        "endDate": "2026-11-23",
+        "importance": 84,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/new-order-data-extra",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/new-order-data-extra",
+        "summary": "New Order plays an added São Paulo date at Espaço Unimed on 23 November 2026 at 22:00. Ticketmaster confirms the date-extra listing, venue and on-sale information.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-one-life-2026",
+        "title": "Michael Bibi presents One Life São Paulo",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Centro de Eventos - Arena Pinheiros",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2513572",
+        "ticketUrl": "https://www.ingresse.com/",
+        "summary": "Michael Bibi brings his ONE LIFE project to Brazil for the first time with a daytime São Paulo edition at Arena Pinheiros, focused on house, tech house and minimal groove.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-jeff-mills-liquid-room-2026",
+        "title": "Gop Tun apresenta Jeff Mills - Live at Liquid Room 30th Anniversary",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 82,
+        "venueName": "Komplexo Tempo",
+        "venueId": null,
+        "sourceUrl": "https://festas.me/eventos/sao-paulo/gop-tun-apresenta-jeff-mills-live-at-liquid-room-30th-anniversary",
+        "ticketUrl": "https://www.ingresse.com/",
+        "summary": "Gop Tun hosts Jeff Mills at Komplexo Tempo for a São Paulo recreation of the landmark ‘Live at Liquid Room’ techno set, marking its 30th anniversary.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "sao-paulo-mia-cine-joia-2026",
+        "title": "M.I.A.",
+        "type": "concert",
+        "startDate": "2026-11-02",
+        "endDate": "2026-11-02",
+        "importance": 80,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/m-i-a-cine-joia-22086161/",
+        "ticketUrl": "https://www.eventim.com.br/event/m-i-a-cine-joia-22086161/",
+        "summary": "M.I.A. performs at Cine Joia on 2 November 2026 at 21:00. Eventim lists the São Paulo show with venue, date and ticketing details.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-he-she-they-cristobal-pesce-2026",
+        "title": "HE.SHE.THEY. Presents: Cristobal Pesce",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 80,
+        "venueName": "Sonora Garden",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/he-she-they-presents-cristobal-pesce",
+        "ticketUrl": "https://shotgun.live/en/events/he-she-they-presents-cristobal-pesce",
+        "summary": "International queer party brand HE.SHE.THEY. makes its first São Paulo edition at Sonora Garden with Cristobal Pesce, ANANDA, Delcu, Pedro Gariani and EM11 across techno, hard techno and house.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "sao-paulo-hot-chip-audio-2026",
+        "title": "Hot Chip",
+        "type": "concert",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 80,
+        "venueName": "Audio",
+        "venueId": "audio-club-sp",
+        "sourceUrl": "https://www.eventim.com.br/artist/hot-chip/",
+        "ticketUrl": "https://www.eventim.com.br/artist/hot-chip/",
+        "summary": "Hot Chip play Audio in Barra Funda on 22 November 2026 at 21:00. Eventim confirms the show as the band’s only Brazil date, celebrating the anthology “Joy in Repetition” and 20 years of “The Warning.”",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-tricky-cine-joia-2026",
+        "title": "Tricky",
+        "type": "concert",
+        "startDate": "2026-11-26",
+        "endDate": "2026-11-26",
+        "importance": 79,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/tricky/",
+        "ticketUrl": "https://www.eventim.com.br/event/tricky-cine-joia-22047970/",
+        "summary": "Tricky performs at Cine Joia on 26 November 2026 at 23:00, celebrating 20 years of Só Pedrada Musical. Eventim confirms the show and notes that Tricky is joined by Polish vocalist Marta Złakowska.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-loyle-carner-cine-joia-2026",
+        "title": "Loyle Carner",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-24",
+        "importance": 78,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/loyle-carner-cine-joia-22125159/",
+        "ticketUrl": "https://www.eventim.com.br/event/loyle-carner-cine-joia-22125159/",
+        "summary": "Loyle Carner brings his UK hip-hop to Cine Joia on 24 November 2026 at 21:00. Eventim confirms the date, venue, ticket sale schedule and official pricing details.",
+        "genres": [
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "sao-paulo-gop-tun-atelie-smiile-2026",
+        "title": "GOP TUN x ATELIE presents SMIILE",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Armazem Solon",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2556374",
+        "ticketUrl": "https://de.ra.co/events/2556374",
+        "summary": "Gop Tun and Ateliê join forces for the São Paulo arrival of Chloé Caillet’s SMIILE label, with Chloé Caillet, Luke Alessi, Cashu and Gop Tun DJs spanning rave, house, disco and acid energy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-grid-unreal-2026",
+        "title": "THE GRID presents UNREAL",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 78,
+        "venueName": "Komplexo Tempo",
+        "venueId": null,
+        "sourceUrl": "https://2sp.com.br/eventos/the-grid-unreal-komplexo-tempo-2026-11-21/",
+        "ticketUrl": "https://www.ingresse.com/",
+        "summary": "German hard-techno label UNREAL makes its Brazil debut in collaboration with THE GRID at Komplexo Tempo, with Kuko, Cloudy, Davyboi, Johannes Schuster, Serafina, Acid Asian and Sayba under a no-phone policy.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "sao-paulo-yanamaste-meio-2026",
+        "title": "Yanamaste | 13.11 [M]Eio 8ª Edição",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 75,
+        "venueName": "Ubicación secreta en São Paulo",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/es/events/yanamaste-13-11-m-eio-8-edicao",
+        "ticketUrl": "https://shotgun.live/es/events/yanamaste-13-11-m-eio-8-edicao",
+        "summary": "[M]EIO presents Yanamaste in São Paulo on 13 November 2026 from 23:59 to 08:00. The Shotgun page confirms the Georgian KHIDI/Bassiani-associated techno artist for an underground, no-phone-policy night.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-trst-cine-joia-2026",
+        "title": "TR/ST em São Paulo",
+        "type": "concert",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 73,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/tr-st-em-sao-paulo",
+        "ticketUrl": "https://shotgun.live/pt-br/events/tr-st-em-sao-paulo",
+        "summary": "TR/ST plays Cine Joia on 1 November 2026, presented by Descobrir Música. The Shotgun listing describes the show as the Canadian artist’s first time in Brazil and highlights darkwave, synthpop and electronic influences.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-jmsn-cine-joia-2026",
+        "title": "JMSN em São Paulo",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 72,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://meaple.com.br/jmsn/sao-paulo",
+        "ticketUrl": "https://meaple.com.br/jmsn/sao-paulo",
+        "summary": "JMSN performs at Cine Joia on 14 November 2026. The Meaple ticket page confirms the São Paulo date, venue and ticket categories for the R&B/soul artist.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-luedji-luna-cine-joia-2026",
+        "title": "Luedji Luna No Cine Joia",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 72,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/en/events/luedjilunanocinejoia",
+        "ticketUrl": "https://r.shotgun.live/en/events/luedjilunanocinejoia",
+        "summary": "Luedji Luna brings the “Um Mar Pra Cada Um, Antes Que A Terra Acabe” tour to Cine Joia on 18 November 2026. The Shotgun page confirms the show date, venue and a description referencing neo-soul, jazz, MPB and hip-hop textures.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-babymetal-2026",
+        "title": "BABYMETAL",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 83,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/babymetal/",
+        "ticketUrl": "https://www.eventim.com.br/event/babymetal-espaco-unimed-21521180/",
+        "summary": "Japanese kawaii-metal trio BABYMETAL return to São Paulo for a single show at Espaço Unimed on 28 November 2026. Eventim lists the performance at 21:00, with doors at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-seal-2026",
+        "title": "Seal",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 82,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/seal-allianz-parque-21478682/",
+        "ticketUrl": "https://www.eventim.com.br/event/seal-allianz-parque-21478682/",
+        "summary": "Seal plays Allianz Parque in São Paulo on 28 November 2026. Eventim lists the concert as SEAL SP with a 16:00 start time.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-hayley-williams-nov12-2026",
+        "title": "Hayley Williams",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 78,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/en/event/hayley-williams-espaco-unimed-21618803/",
+        "ticketUrl": "https://www.eventim.com.br/en/event/hayley-williams-espaco-unimed-21618803/",
+        "summary": "Hayley Williams brings The Hayley Williams Show to Espaço Unimed on 12 November 2026. Eventim lists the São Paulo performance at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-eros-ramazzotti-2026",
+        "title": "Eros Ramazzotti: Una Storia Importante",
+        "type": "concert",
+        "startDate": "2026-11-30",
+        "endDate": "2026-11-30",
+        "importance": 78,
+        "venueName": "Vibra São Paulo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/eros-ramazzotti/",
+        "ticketUrl": "https://www.eventim.com.br/event/eros-ramazzotti-una-storia-importante-vibra-sao-paulo-20150470/",
+        "summary": "Italian pop singer Eros Ramazzotti brings the Una Storia Importante world tour to Vibra São Paulo on 30 November 2026. Eventim lists the São Paulo show at 21:30.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-ca7riel-paco-amoroso-2026",
+        "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 77,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
+        "summary": "Argentine duo CA7RIEL & Paco Amoroso bring the Free Spirits World Tour to Espaço Unimed on 18 November 2026. Ticketmaster lists doors at 18:00 and show time at 21:00.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-hayley-williams-extra-2026",
+        "title": "Hayley Williams #2",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 76,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/es/event/hayley-williams-espaco-unimed-21638573/",
+        "ticketUrl": "https://www.eventim.com.br/es/event/hayley-williams-espaco-unimed-21638573/",
+        "summary": "A second São Paulo date for Hayley Williams is confirmed at Espaço Unimed on 13 November 2026. Eventim lists the extra show at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
       {
         "id": "sao-paulo-opeth-2026",
         "title": "Opeth",
@@ -42,106 +451,6 @@
           "jazz",
           "latin",
           "pop"
-        ]
-      },
-      {
-        "id": "sao-paulo-hayley-williams-nov12-2026",
-        "title": "Hayley Williams",
-        "type": "concert",
-        "startDate": "2026-11-12",
-        "endDate": "2026-11-12",
-        "importance": 78,
-        "venueName": "Espaço Unimed",
-        "venueId": null,
-        "sourceUrl": "https://www.eventim.com.br/en/event/hayley-williams-espaco-unimed-21618803/",
-        "ticketUrl": "https://www.eventim.com.br/en/event/hayley-williams-espaco-unimed-21618803/",
-        "summary": "Hayley Williams brings The Hayley Williams Show to Espaço Unimed on 12 November 2026. Eventim lists the São Paulo performance at 20:00.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "sao-paulo-hayley-williams-extra-2026",
-        "title": "Hayley Williams #2",
-        "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-13",
-        "importance": 76,
-        "venueName": "Espaço Unimed",
-        "venueId": null,
-        "sourceUrl": "https://www.eventim.com.br/es/event/hayley-williams-espaco-unimed-21638573/",
-        "ticketUrl": "https://www.eventim.com.br/es/event/hayley-williams-espaco-unimed-21638573/",
-        "summary": "A second São Paulo date for Hayley Williams is confirmed at Espaço Unimed on 13 November 2026. Eventim lists the extra show at 20:00.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "sao-paulo-ca7riel-paco-amoroso-2026",
-        "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour",
-        "type": "concert",
-        "startDate": "2026-11-18",
-        "endDate": "2026-11-18",
-        "importance": 77,
-        "venueName": "Espaço Unimed",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-        "summary": "Argentine duo CA7RIEL & Paco Amoroso bring the Free Spirits World Tour to Espaço Unimed on 18 November 2026. Ticketmaster lists doors at 18:00 and show time at 21:00.",
-        "genres": [
-          "hip-hop",
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "sao-paulo-seal-2026",
-        "title": "Seal",
-        "type": "concert",
-        "startDate": "2026-11-28",
-        "endDate": "2026-11-28",
-        "importance": 82,
-        "venueName": "Allianz Parque",
-        "venueId": null,
-        "sourceUrl": "https://www.eventim.com.br/event/seal-allianz-parque-21478682/",
-        "ticketUrl": "https://www.eventim.com.br/event/seal-allianz-parque-21478682/",
-        "summary": "Seal plays Allianz Parque in São Paulo on 28 November 2026. Eventim lists the concert as SEAL SP with a 16:00 start time.",
-        "genres": [
-          "r-and-b",
-          "pop"
-        ]
-      },
-      {
-        "id": "sao-paulo-babymetal-2026",
-        "title": "BABYMETAL",
-        "type": "concert",
-        "startDate": "2026-11-28",
-        "endDate": "2026-11-28",
-        "importance": 83,
-        "venueName": "Espaço Unimed",
-        "venueId": null,
-        "sourceUrl": "https://www.eventim.com.br/artist/babymetal/",
-        "ticketUrl": "https://www.eventim.com.br/event/babymetal-espaco-unimed-21521180/",
-        "summary": "Japanese kawaii-metal trio BABYMETAL return to São Paulo for a single show at Espaço Unimed on 28 November 2026. Eventim lists the performance at 21:00, with doors at 19:00.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "sao-paulo-eros-ramazzotti-2026",
-        "title": "Eros Ramazzotti: Una Storia Importante",
-        "type": "concert",
-        "startDate": "2026-11-30",
-        "endDate": "2026-11-30",
-        "importance": 78,
-        "venueName": "Vibra São Paulo",
-        "venueId": null,
-        "sourceUrl": "https://www.eventim.com.br/artist/eros-ramazzotti/",
-        "ticketUrl": "https://www.eventim.com.br/event/eros-ramazzotti-una-storia-importante-vibra-sao-paulo-20150470/",
-        "summary": "Italian pop singer Eros Ramazzotti brings the Una Storia Importante world tour to Vibra São Paulo on 30 November 2026. Eventim lists the São Paulo show at 21:30.",
-        "genres": [
-          "pop",
-          "latin"
         ]
       }
     ]

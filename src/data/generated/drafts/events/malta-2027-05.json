@@ -1,0 +1,157 @@
+{
+  "slug": "malta",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:57:08.037Z",
+  "responseId": "resp_073add027191b13d006acdab621c0887d09bd1f38ee31cc339+resp_08f1fe5de662b205006acdabb7851887d082b92e26765baf02",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 in Malta is already anchored by a run of fly-in electronic festivals spanning house, techno, trance, hard techno and drum & bass, with several lineups still TBA.",
+    "events": [
+      {
+        "id": "malta-rong-open-air-may-2027",
+        "title": "Rong Open Air Festival Malta 2027",
+        "type": "festival",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-09",
+        "importance": 84,
+        "venueName": "Multiple venues: Café del Mar, Little Armier Beach, UNO Malta and boat parties",
+        "venueId": null,
+        "sourceUrl": "https://malta.rongevents.com/",
+        "ticketUrl": "https://malta.rongevents.com/products/general-admission-festival-tickets-2027",
+        "summary": "Four-day trance festival across six Malta venues, including open-air club events, sunset, beach and boat parties. Confirmed artists include Paul van Dyk, Ferry Corsten, Aly & Fila, Markus Schulz, Ben Hemsley, Chicane, Giuseppe Ottaviani and many more.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-xxl-2027",
+        "title": "XXL Malta Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-20",
+        "endDate": "2027-05-23",
+        "importance": 83,
+        "venueName": "Various venues around Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/festivals/xxl-malta/",
+        "ticketUrl": "https://www.xxltechno.uk/",
+        "summary": "Teletech and The Warehouse Project’s hard-techno island takeover returns for another Malta edition across multiple venues, including beach and heritage-site style settings.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-xxl-may-2027",
+        "title": "XXL Malta 2027",
+        "type": "festival",
+        "startDate": "2027-05-20",
+        "endDate": "2027-05-23",
+        "importance": 82,
+        "venueName": "Multiple venues around Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.xxltechno.uk/",
+        "ticketUrl": "https://www.skiddle.com/festivals/xxl-malta/",
+        "summary": "The Warehouse Project and Teletech-associated hard-techno festival returns to Malta for its fourth edition. The 2027 lineup and final venues are still to be announced, but the dates are confirmed.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-wah-2027",
+        "title": "WAH Malta 2027",
+        "type": "festival",
+        "startDate": "2027-04-29",
+        "endDate": "2027-05-02",
+        "importance": 80,
+        "venueName": "UNO Malta, Little Armier Beach and Sliema boat parties",
+        "venueId": null,
+        "sourceUrl": "https://wah-malta.com/",
+        "ticketUrl": "https://www.skiddle.com/festivals/wah-malta/",
+        "summary": "Worried About Henry’s Malta edition returns with four days of heavyweight drum & bass programming across open-air arenas, beach sessions and boat parties.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-sunny-side-2027",
+        "title": "Sunny Side Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-17",
+        "importance": 78,
+        "venueName": "Ta' Qali Craft Village",
+        "venueId": null,
+        "sourceUrl": "https://www.raveparty.fr/en/festival/sunny-side-festival",
+        "ticketUrl": "https://www.raveparty.fr/en/festival/sunny-side-festival",
+        "summary": "Boutique underground house and techno gathering scheduled for five days at Ta' Qali Craft Village, with a 2027 lineup still to be announced.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-higher-love-2027",
+        "title": "Higher Love Malta 2027",
+        "type": "festival",
+        "startDate": "2027-04-28",
+        "endDate": "2027-05-04",
+        "importance": 76,
+        "venueName": "Gianpula Village / Malta",
+        "venueId": null,
+        "sourceUrl": "https://book.wearehigherlove.com/",
+        "ticketUrl": "https://book.wearehigherlove.com/",
+        "summary": "A week-long house-led Malta festival from the LoveJuice/Higher Love camp, with general admission, VIP and group packages confirmed for 28 April–4 May 2027.",
+        "genres": [
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-euphoria-weekender-may-2027",
+        "title": "Euphoria Weekender Malta 2027",
+        "type": "festival",
+        "startDate": "2027-05-26",
+        "endDate": "2027-06-01",
+        "importance": 73,
+        "venueName": "Gianpula Village",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/malta/Gianpula-Village/Euphoria-Weekender-Malta-2027/42497444/",
+        "ticketUrl": "https://www.tickettailor.com/events/euphoriamalta/2261461",
+        "summary": "Week-long trance and hard-trance gathering at Gianpula Village and other Malta locations. Confirmed names include Lange, Ian Van Dahl, Rob Tissera, Roger Shah, Agnelli & Nelson, XiJaro & Pitch, Darren Tate and Maria Healy.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-euphoria-2027",
+        "title": "Euphoria Malta 2027",
+        "type": "festival",
+        "startDate": "2027-05-26",
+        "endDate": "2027-06-01",
+        "importance": 71,
+        "venueName": "All around Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.tickettailor.com/events/euphoriamalta/2261461",
+        "ticketUrl": "https://www.tickettailor.com/events/euphoriamalta/2261461",
+        "summary": "An intimate week-long trance rave holiday with extended sets, new venues and a limited-capacity community feel, running from 26 May to 1 June 2027.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

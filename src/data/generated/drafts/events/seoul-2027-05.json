@@ -1,0 +1,34 @@
+{
+  "slug": "seoul",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:02:53.976Z",
+  "responseId": "resp_09d9d6e212b58398006acdad07888487d0b49b25b202a0d50d+resp_03f11ccfd257857b006acdad3b07f887d08092f5ee00211122",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 5,
+    "year": 2027,
+    "notes": "Only one strong Seoul-area contemporary music event with firm May 2027 dates surfaced in current official/ticketing listings; festival and club calendars for May 2027 do not appear to be announced yet.",
+    "events": [
+      {
+        "id": "seoul-bruno-mars-romantic-tour-2027",
+        "title": "Bruno Mars - The Romantic Tour",
+        "type": "concert",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-30",
+        "importance": 88,
+        "venueName": "Goyang Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/bruno-mars-the-romantic-tour-seoul-tickets-edp1693110",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26001046/products/26012591",
+        "summary": "Bruno Mars brings The Romantic Tour to the Seoul area at Goyang Stadium, with Anderson .Paak appearing as DJ Pee .Wee. Official listings show the run dated May 21–30, 2027.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

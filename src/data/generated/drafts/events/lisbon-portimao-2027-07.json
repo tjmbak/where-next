@@ -1,0 +1,85 @@
+{
+  "slug": "lisbon-portimao",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:23:51.166Z",
+  "responseId": "resp_06ec246dd75e4cf5006acdb14cc02887d0aa6690b8defe5715+resp_0ebb461e424027f8006acdb1ecbdb487d090be6c111712974f",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lisbon-portimao",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 is already anchored by NOS Alive in Algés plus major Latin/Brazilian arena-scale concerts; Portimão’s flagship Afro Nation edition is confirmed for June rather than July.",
+    "events": [
+      {
+        "id": "lisbon-portimao-nos-alive-jul-2027",
+        "title": "NOS Alive 2027",
+        "type": "festival",
+        "startDate": "2027-07-08",
+        "endDate": "2027-07-10",
+        "importance": 95,
+        "venueName": "Passeio Marítimo de Algés",
+        "venueId": null,
+        "sourceUrl": "https://nosalive.com/en/festival/tame-impala-2/",
+        "ticketUrl": "https://nosalive.com/en/ticket-office/",
+        "summary": "NOS Alive’s 19th edition is confirmed for July 8–10 at Passeio Marítimo de Algés. Early official announcements include Tame Impala on the NOS Stage on July 10.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-don-omar-jul-2027",
+        "title": "Don Omar — The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-07-22",
+        "endDate": "2027-07-22",
+        "importance": 82,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.bol.pt/Comprar/Bilhetes/183475-don_omar_lisboa-meo_arena/",
+        "ticketUrl": "https://www.bol.pt/Comprar/Bilhetes/183475-don_omar_lisboa-meo_arena/",
+        "summary": "Reggaeton figure Don Omar brings The Last King World Tour to Lisbon’s MEO Arena on July 22, with the show billed around two decades of hits including “Dale Don Dale” and “Danza Kuduro.”",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-pedro-sampaio-jul-2027",
+        "title": "Pedro Sampaio",
+        "type": "concert",
+        "startDate": "2027-07-17",
+        "endDate": "2027-07-17",
+        "importance": 78,
+        "venueName": "Passeio Marítimo de Algés",
+        "venueId": null,
+        "sourceUrl": "https://everythingisnew.pt/pedro-sampaio/",
+        "ticketUrl": "https://everythingisnew.pt/pedro-sampaio/",
+        "summary": "Brazilian DJ/producer Pedro Sampaio plays an exclusive Portugal concert at Passeio Marítimo de Algés on July 17, bringing funk carioca, pop and electronic production to a large outdoor summer setting.",
+        "genres": [
+          "latin",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-lisbon-choral-festival-2027",
+        "title": "Lisbon Choral Festival 2027 with Dr. Cameron LaBarr",
+        "type": "festival",
+        "startDate": "2027-06-29",
+        "endDate": "2027-07-03",
+        "importance": 60,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://perform-international.com/wp-content/uploads/2025/09/flyer_lisbon_choral_festival_2027.pdf",
+        "ticketUrl": null,
+        "summary": "Perform International’s Lisbon Choral Festival runs June 29–July 3, 2027, with Dr. Cameron F. LaBarr leading a festival choir in concert with a Portuguese chamber orchestra and pianist/organist Parker Payne. The organizer states the concert program will be performed in one of Lisbon’s historic churches; the exact venue is not yet named.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

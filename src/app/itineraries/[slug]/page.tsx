@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 import { notFound } from "next/navigation";
 import { BoardingPassHeader } from "@/components/itineraries/BoardingPassHeader";
 import { CollaboratorPanel } from "@/components/itineraries/CollaboratorPanel";
@@ -157,30 +158,15 @@ export default async function ItineraryPage({ params, searchParams }: RouteConte
         suppressHydrationWarning
         dangerouslySetInnerHTML={{ __html: jsonLdScript(breadcrumb) }}
       />
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between gap-3 px-5 py-5 sm:px-10 sm:py-6">
-        <Link href="/" className="flex shrink-0 items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="flex items-center gap-3 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] sm:gap-4 sm:text-[11px] sm:tracking-[0.22em]">
-          <Link
-            href={`/destinations/${destination.slug}`}
-            className="hidden transition hover:text-[var(--foreground)] sm:inline"
-          >
-            {destination.city.toLowerCase()} guide
-          </Link>
-          <Link
-            href={`/destinations/${destination.slug}/plan`}
-            className="transition hover:text-[var(--foreground)]"
-          >
-            plan another
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
-      <section className="mx-auto w-full max-w-[820px] px-5 pb-20 pt-8 sm:px-10 sm:pb-24 sm:pt-12">
+      <section className="mx-auto w-full max-w-[820px] px-5 pb-20 pt-6 sm:px-10 sm:pb-24 sm:pt-8">
+        <Link
+          href={`/destinations/${destination.slug}`}
+          className="mb-6 inline-block font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+        >
+          ← {destination.city.toLowerCase()} guide
+        </Link>
         {justForked ? (
           <div className="mb-8 rounded-xl border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-4 py-3">
             <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
@@ -201,7 +187,7 @@ export default async function ItineraryPage({ params, searchParams }: RouteConte
         />
 
         <div className="mt-10">
-          <StatsPanel itinerary={itineraryShape} />
+          <StatsPanel itinerary={itineraryShape} anchorMixOnly />
         </div>
 
         {!isOwner ? (

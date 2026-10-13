@@ -1,0 +1,16 @@
+{
+  "slug": "goa",
+  "month": 12,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:18:21.787Z",
+  "responseId": "resp_093ad840cac6cb93006acdb0b2bc0c87d0949c42cfba9bd07f+resp_029a5851b627ca2f006acdb0ed535887d09298acac163faa9e",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 12,
+    "year": 2027,
+    "notes": "No verifiable underground/genre-scene club nights or promoter parties for Goa in December 2027 were found on RA, DICE, Shotgun, Eventbrite, Boiler Room, District/Insider/BookMyShow, or related searches; empty array returned rather than padding with unconfirmed events.",
+    "events": []
+  }
+}

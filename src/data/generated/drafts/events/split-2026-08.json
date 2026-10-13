@@ -2,9 +2,9 @@
   "slug": "split",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:25:57.293Z",
-  "responseId": "resp_020051f0f611a2a00069ff5fb93c74819698892aa60fafafab",
-  "searchCalls": 17,
+  "generatedAt": "2026-05-30T18:47:11.798Z",
+  "responseId": "augment:resp_0f0ea86fcd5bc960006a1b3021dd2c819aae6c61bce5edb8a5",
+  "searchCalls": 16,
   "citations": [],
   "data": {
     "destinationSlug": "split",
@@ -12,39 +12,6 @@
     "year": 2026,
     "notes": "August 2026 is anchored by Vibrez Festival’s late-month run at Meštrović Gallery, with select Split Summer Festival chamber concerts earlier in the month.",
     "events": [
-      {
-        "id": "split-summer-string-quartet-2026",
-        "title": "Split Summer Festival: Split String Quartet",
-        "type": "concert",
-        "startDate": "2026-08-01",
-        "endDate": "2026-08-01",
-        "importance": 62,
-        "venueName": "Meštrović's Crikvine - Kaštilac",
-        "venueId": null,
-        "sourceUrl": "https://www.operabase.com/productions/split-string-quartet-425742/01-august-2026/en",
-        "ticketUrl": null,
-        "summary": "Split String Quartet performs a chamber program at Meštrović's Crikvine - Kaštilac as part of Split Summer Festival 2026. The listed program includes works by Silvije Bombardelli, Boris Papandopulo, and Pyotr Ilyich Tchaikovsky.",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
-        "id": "split-summer-papandopulo-quartet-2026",
-        "title": "Split Summer Festival: Papandopulo Quartet",
-        "type": "concert",
-        "startDate": "2026-08-14",
-        "endDate": "2026-08-14",
-        "importance": 63,
-        "venueName": "Meštrović's Crikvine - Kaštilac",
-        "venueId": null,
-        "sourceUrl": "https://www.operabase.com/productions/papandopulo-quartet-425745/en",
-        "ticketUrl": null,
-        "summary": "Papandopulo Quartet performs at Meštrović's Crikvine - Kaštilac for Split Summer Festival 2026. The program lists works by György Ligeti, Boris Papandopulo, Margareta Ferek Petrić, Philippe Geiss, and George Gershwin.",
-        "genres": [
-          "jazz",
-          "festival"
-        ]
-      },
       {
         "id": "split-vibrez-mogwai-2026",
         "title": "Vibrez Festival 2026: Mogwai",
@@ -62,6 +29,23 @@
         ]
       },
       {
+        "id": "split-vibrez-morcheeba-2026",
+        "title": "Vibrez Festival 2026: Morcheeba",
+        "type": "concert",
+        "startDate": "2026-08-30",
+        "endDate": "2026-08-30",
+        "importance": 82,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4817/morcheeba--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4817/morcheeba--vibrez-festival-2026",
+        "summary": "British downtempo and trip-hop band Morcheeba closes the August Meštrović Gallery run of Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
         "id": "split-vibrez-mariza-2026",
         "title": "Vibrez Festival 2026: Mariza",
         "type": "concert",
@@ -75,6 +59,22 @@
         "summary": "Portuguese fado singer Mariza performs as part of Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "split-vibrez-laibach-2026",
+        "title": "Vibrez Festival 2026: Laibach",
+        "type": "concert",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 79,
+        "venueName": "Galerija Meštrović",
+        "venueId": null,
+        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4833/laibach--vibrez-festival-2026",
+        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4833/laibach--vibrez-festival-2026",
+        "summary": "Slovenian avant-garde industrial group Laibach performs during Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "genres": [
+          "electronic"
         ]
       },
       {
@@ -95,36 +95,122 @@
         ]
       },
       {
-        "id": "split-vibrez-laibach-2026",
-        "title": "Vibrez Festival 2026: Laibach",
-        "type": "concert",
-        "startDate": "2026-08-29",
-        "endDate": "2026-08-29",
-        "importance": 79,
-        "venueName": "Galerija Meštrović",
+        "id": "split-h2o-croatia-2026",
+        "title": "H2o Croatia Dance Festival",
+        "type": "festival",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-10",
+        "importance": 74,
+        "venueName": "Split, Croatia",
         "venueId": null,
-        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4833/laibach--vibrez-festival-2026",
-        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4833/laibach--vibrez-festival-2026",
-        "summary": "Slovenian avant-garde industrial group Laibach performs during Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "sourceUrl": "https://www.skiddle.com/whats-on/croatia/Split%252C-Croatia/H2o-Croatia-Dance-Festival/41389830/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/croatia/Split%252C-Croatia/H2o-Croatia-Dance-Festival/41389830/",
+        "summary": "Four-day Croatia dance weekender billed around boats, clubs and beach clubs, with house, tech-house, hard-house and disco programming and headline announcements pending.",
         "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "split-agenda-beach-club-2026",
+        "title": "Agenda Beach Club Party Croatia",
+        "type": "beach-club",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-23",
+        "importance": 64,
+        "venueName": "TBC",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/croatia/events/calendar/august",
+        "ticketUrl": "https://www.partyhardtravel.com/croatia/events/agenda-beach-club-party?date=16-08-2026",
+        "summary": "Croatia debut of the Agenda Beach Club Party brand, billed as a weekly Adriatic beach-club party with DJs and high-energy house/tech-house programming on 2, 9, 16 and 23 August.",
+        "genres": [
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "split-vibrez-morcheeba-2026",
-        "title": "Vibrez Festival 2026: Morcheeba",
+        "id": "split-summer-papandopulo-quartet-2026",
+        "title": "Split Summer Festival: Papandopulo Quartet",
         "type": "concert",
-        "startDate": "2026-08-30",
-        "endDate": "2026-08-30",
-        "importance": 82,
-        "venueName": "Galerija Meštrović",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 63,
+        "venueName": "Meštrović's Crikvine - Kaštilac",
         "venueId": null,
-        "sourceUrl": "https://whitelabel.shop.adriaticket.com/event-details/4817/morcheeba--vibrez-festival-2026",
-        "ticketUrl": "https://whitelabel.shop.adriaticket.com/event-details/4817/morcheeba--vibrez-festival-2026",
-        "summary": "British downtempo and trip-hop band Morcheeba closes the August Meštrović Gallery run of Vibrez Festival 2026. The concert is confirmed for 20:00 at Galerija Meštrović in Split.",
+        "sourceUrl": "https://www.operabase.com/productions/papandopulo-quartet-425745/en",
+        "ticketUrl": null,
+        "summary": "Papandopulo Quartet performs at Meštrović's Crikvine - Kaštilac for Split Summer Festival 2026. The program lists works by György Ligeti, Boris Papandopulo, Margareta Ferek Petrić, Philippe Geiss, and George Gershwin.",
         "genres": [
-          "electronic",
-          "pop"
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "split-out-to-sea-2026",
+        "title": "Out To Sea Boat Party",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-27",
+        "importance": 63,
+        "venueName": "TBC / Split boat route",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/croatia/events/calendar/august",
+        "ticketUrl": "https://www.partyhardtravel.com/croatia/events/out-to-sea-boat-party?date=27-08-2026",
+        "summary": "Recurring Split daytime boat-party brand with live DJs, performers, Adriatic sailing and swim-stop format, listed across August on 2, 6, 9, 13, 16, 20, 23 and 27 August.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "split-summer-string-quartet-2026",
+        "title": "Split Summer Festival: Split String Quartet",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 62,
+        "venueName": "Meštrović's Crikvine - Kaštilac",
+        "venueId": null,
+        "sourceUrl": "https://www.operabase.com/productions/split-string-quartet-425742/01-august-2026/en",
+        "ticketUrl": null,
+        "summary": "Split String Quartet performs a chamber program at Meštrović's Crikvine - Kaštilac as part of Split Summer Festival 2026. The listed program includes works by Silvije Bombardelli, Boris Papandopulo, and Pyotr Ilyich Tchaikovsky.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "split-after-dark-2026",
+        "title": "Split After Dark",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-23",
+        "importance": 61,
+        "venueName": "Jimmy Bar / TBC boat and club route",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/croatia/events/calendar/august",
+        "ticketUrl": "https://www.partyhardtravel.com/croatia/events/split-after-dark?date=02-08-2026",
+        "summary": "Party Hard’s Sunday boat-to-club night in Split, starting at Jimmy Bar with free shots before a live-DJ night boat party and VIP club entry; August dates listed on 2, 9, 16 and 23 August.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "split-croatia-pool-party-2026",
+        "title": "Croatia Pool Party",
+        "type": "beach-club",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-22",
+        "importance": 60,
+        "venueName": "TBC",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/croatia/events/calendar/august",
+        "ticketUrl": "https://www.partyhardtravel.com/croatia/events/pool-party?date=01-08-2026",
+        "summary": "Party Hard Travel’s recurring Saturday Croatia pool-party series for Split’s August 2026 season, listed on 1, 8, 15 and 22 August as part of the Croatia events programme.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       }
     ]

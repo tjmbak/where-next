@@ -1,0 +1,70 @@
+{
+  "slug": "lagos",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:06:12.353Z",
+  "responseId": "resp_07874942f10268d0006acd9f922fc487d09e842e1e8c48c830+resp_0068d8b6b853311b006acd9fe2c0dc87d09b3cfc4abf56970c",
+  "searchCalls": 40,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lagos",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 currently has only a small number of solidly published Lagos nightlife/music listings, with the New Year’s Day Mainland BlockParty as the clearest destination event.",
+    "events": [
+      {
+        "id": "lagos-mainland-blockparty-mission-27k-2027",
+        "title": "Mainland BlockParty: Mission 27k",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 88,
+        "venueName": "TBA, Mainland, Lagos",
+        "venueId": null,
+        "sourceUrl": "https://mainlandblockparty.com/event/mainland-blockparty-mission-27k/?currency=ngn",
+        "ticketUrl": "https://mainlandblockparty.com/event/mainland-blockparty-mission-27k/?currency=ngn",
+        "summary": "Mainland BlockParty’s annual New Year’s Day edition runs from 8:00 PM on January 1 to 5:00 AM on January 2 in Ikeja/Lagos Mainland. The official event page confirms music, DJs, entertainment and ticket tiers, with the exact venue still listed as TBA.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-festac50-2027",
+        "title": "FESTAC@50",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2027-01-02",
+        "importance": 78,
+        "venueName": "Multiple venues across Lagos",
+        "venueId": null,
+        "sourceUrl": "https://www.tantacom.org/wp-content/uploads/2026/01/FESTAC50_.pdf",
+        "ticketUrl": null,
+        "summary": "A Pan-African and diaspora-focused cultural festival marking 50 years since FESTAC ’77, with concurrent Lagos programming across arts, culture, music, fashion, film and heritage streams into early January.",
+        "genres": [
+          "festival",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-obis-house-monday-nights-2027",
+        "title": "Obi’s House Lagos — Monday Nights",
+        "type": "residency",
+        "startDate": "2027-01-04",
+        "endDate": "2027-01-04",
+        "importance": 72,
+        "venueName": "Shiro Lagos",
+        "venueId": null,
+        "sourceUrl": "https://viewlagos.ng/event/obis-house-lagos-monday-nights/",
+        "ticketUrl": "https://www.instagram.com/p/DVN4QVRjMIl/",
+        "summary": "DJ Obi’s weekly Monday night party at Shiro Lagos is listed as running every Monday through January 4, 2027. The listing describes the night as a high-energy DJ-led Lagos nightlife ritual with curated dancefloor sounds.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "malta",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:10:03.616Z",
+  "responseId": "resp_0f0a122c76dad4d9006acdae861ca087d0996982d4be800c64+resp_004b112443ad7522006acdaed4bd6887d0b3193def88b929cf",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "malta",
+    "month": 6,
+    "year": 2027,
+    "notes": "Confirmed June 2027 music-travel picks are concentrated in early-month festival/weekender formats; several larger Malta summer brands had not yet published specific June 2027 programmes.",
+    "events": [
+      {
+        "id": "malta-earth-garden-2027",
+        "title": "Earth Garden Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-06",
+        "importance": 84,
+        "venueName": "Ta' Qali National Park",
+        "venueId": null,
+        "sourceUrl": "https://www.earthgarden.com.mt/",
+        "ticketUrl": null,
+        "summary": "Malta’s long-running alternative music festival is confirmed for 4 to 6 June 2027. The official site has the dates live but had not yet published a 2027 lineup at the time of research.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-sidewinder-2027",
+        "title": "Sidewinder Malta 2027",
+        "type": "festival",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-13",
+        "importance": 78,
+        "venueName": "Multiple venues / hotel takeover",
+        "venueId": null,
+        "sourceUrl": "https://www.sidewindermalta.com/",
+        "ticketUrl": "https://www.sidewindermalta.com/",
+        "summary": "A four-day destination weekender from the Sidewinder brand, built around six events, a full adults-only hotel takeover, club nights, beach parties and pool parties for UKG/R&B-led nightlife travellers.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-euphoria-weekender-2027",
+        "title": "Euphoria Weekender Malta 2027",
+        "type": "festival",
+        "startDate": "2027-05-26",
+        "endDate": "2027-06-01",
+        "importance": 74,
+        "venueName": "Gianpula Village / Beachaven Club",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/malta/Gianpula-Village/Euphoria-Weekender-Malta-2027/42497450/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/malta/Gianpula-Village/Euphoria-Weekender-Malta-2027/42497450/",
+        "summary": "Seven-day trance-focused weekender running from 26 May to 1 June 2027, with listed artists including Lange, Ian Van Dahl, Rob Tissera, Roger Shah, Agnelli & Nelson and XiJaro & Pitch. The June date listed in the itinerary is Tuesday 1 June at Beachaven Club.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "malta-pukka-up-boat-party-2027",
+        "title": "Pukka Up Malta Boat Party | Party Hard Travel",
+        "type": "residency",
+        "startDate": "2027-06-05",
+        "endDate": "2027-08-28",
+        "importance": 70,
+        "venueName": "Sliema Ferries",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/malta/Sliema-Ferries/Pukka-Up-Malta-Boat-Party--Party-Hard-Travel/42837264/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/malta/Sliema-Ferries/Pukka-Up-Malta-Boat-Party--Party-Hard-Travel/42837264/",
+        "summary": "A summer-long Saturday boat-party series from the touring Pukka Up brand, billed with Pukka Up DJs playing house, tech house and party anthems on a four-hour sunset cruise.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

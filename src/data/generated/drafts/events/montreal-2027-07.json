@@ -1,0 +1,203 @@
+{
+  "slug": "montreal",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:29:05.454Z",
+  "responseId": "resp_01dae4484febc76b006acdb2575acc87d0a5a65100f567f45e+resp_06d498286d5233cb006acdb30df60887d0b60a75bd10073d14",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 is already anchored by Montréal’s major summer-festival corridor: Jazz Fest spills into early July, African/Caribbean/Latin festivals cluster mid-month, and OSHEAGA closes the month at Parc Jean-Drapeau.",
+    "events": [
+      {
+        "id": "montreal-jazz-festival-jul-2027",
+        "title": "Festival International de Jazz de Montréal 2027",
+        "type": "festival",
+        "startDate": "2027-06-25",
+        "endDate": "2027-07-04",
+        "importance": 98,
+        "venueName": "Quartier des Spectacles",
+        "venueId": null,
+        "sourceUrl": "https://montrealjazzfest.com/en",
+        "ticketUrl": null,
+        "summary": "The 47th edition of Montréal’s flagship jazz festival is confirmed for June 25 to July 4, 2027. The artist lineup has not been announced yet, but the festival is a global anchor for jazz and adjacent contemporary music in the city.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-osheaga-jul-2027",
+        "title": "OSHEAGA Music and Arts Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-30",
+        "endDate": "2027-08-01",
+        "importance": 96,
+        "venueName": "Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://osheaga.com/en/faq",
+        "ticketUrl": "https://www.ticketmaster.ca/osheaga-2027-3-jours-montreal-quebec-07-30-2027/event/310064F6C614A235",
+        "summary": "The 20th edition of OSHEAGA is confirmed for July 30 to August 1, 2027 at Parc Jean-Drapeau. The lineup has not been announced yet, but the event is one of Montréal’s major multi-genre destination festivals.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-nuits-afrique-jul-2027",
+        "title": "Festival International Nuits d’Afrique 2027",
+        "type": "festival",
+        "startDate": "2027-07-06",
+        "endDate": "2027-07-18",
+        "importance": 90,
+        "venueName": "Quartier des spectacles and participating venues",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalnuitsdafrique.com/accueil-principal/",
+        "ticketUrl": null,
+        "summary": "The 41st edition of Nuits d’Afrique is confirmed for July 6–18, 2027. The festival’s core identity is African, Caribbean and Latin music, with outdoor programming and venue shows across Montréal.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-nuits-dafrique-2027",
+        "title": "Festival International Nuits d'Afrique de Montréal",
+        "type": "festival",
+        "startDate": "2027-07-06",
+        "endDate": "2027-07-18",
+        "importance": 82,
+        "venueName": "Quartier des spectacles",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalnuitsdafrique.com/accueil-principal/",
+        "ticketUrl": null,
+        "summary": "A scene-defining Montréal diaspora music festival centered on music from Africa, the Caribbean and Latin America, returning for its 41st edition from July 6 to 18, 2027.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "montreal-taste-caribbean-jul-2027",
+        "title": "Un Goût des Caraïbes / Taste of the Caribbean Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-08",
+        "endDate": "2027-07-11",
+        "importance": 80,
+        "venueName": "Old Port of Montréal",
+        "venueId": null,
+        "sourceUrl": "https://totc.ca/fr/",
+        "ticketUrl": "https://www.eventbrite.ca/e/taste-of-the-caribbean-festival-2027-tickets-1996765333865",
+        "summary": "Taste of the Caribbean is confirmed for July 8–11, 2027 at the Old Port of Montréal. The official festival page lists live Caribbean music including reggae, soca, dancehall, reggaeton, konpa, zouk, calypso and Latin sounds across its concert and Latin zones.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-taste-caribbean-2027",
+        "title": "Taste of the Caribbean Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-08",
+        "endDate": "2027-07-11",
+        "importance": 78,
+        "venueName": "Clock Tower Quay, Old Port of Montréal",
+        "venueId": null,
+        "sourceUrl": "https://totc.ca/fr/",
+        "ticketUrl": "https://www.eventbrite.ca/e/taste-of-the-caribbean-festival-2027-tickets-1996765333865?aff=ebdssbpointsofinterest",
+        "summary": "A free four-day Caribbean music, arts, food and culture festival in the Old Port, with live stages, dance and percussion workshops, steel-pan, reggae/soca/zouk/Latin programming and Caribbean vendors.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "montreal-soulfest-jul-2027",
+        "title": "SOULFEST MTL 2027",
+        "type": "festival",
+        "startDate": "2027-07-08",
+        "endDate": "2027-07-11",
+        "importance": 75,
+        "venueName": "Quartier des Spectacles",
+        "venueId": null,
+        "sourceUrl": "https://www.soulfestmtl.com/en",
+        "ticketUrl": null,
+        "summary": "SOULFEST MTL is confirmed to return July 8–11, 2027 in the heart of Montréal’s Quartier des Spectacles. The festival says the 2027 edition will focus on Soul, Motown, Funk, R&B, Gospel and Disco, with artist reveals still to come.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-slipknot-parc-jd-2027",
+        "title": "Slipknot: (sic)est Tour at Parc Jean-Drapeau",
+        "type": "concert",
+        "startDate": "2027-07-21",
+        "endDate": "2027-07-21",
+        "importance": 74,
+        "venueName": "Espace 67, Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://www.parcjeandrapeau.com/en/slipknot-sicest-bring-horizon-kublai-khan-vended-show-music-event-espace67-montreal/",
+        "ticketUrl": "https://www.ticketmaster.ca/slipknot-sic-est-tour-at-parc-jean-drapeau-montreal-07-21-2027/event/3100652AE390A46D",
+        "summary": "Slipknot is confirmed at Espace 67 in Parc Jean-Drapeau on July 21, 2027, with doors at 4:30 p.m. and the show at 6 p.m. The Parc Jean-Drapeau listing names the event around Slipknot with Bring Me The Horizon, Kublai Khan TX and Vended.",
+        "genres": []
+      },
+      {
+        "id": "montreal-groove-kizomba-2027",
+        "title": "Groove N' Kizomba Festival - 10th Edition",
+        "type": "festival",
+        "startDate": "2027-07-15",
+        "endDate": "2027-07-19",
+        "importance": 74,
+        "venueName": "Sheraton Laval Hotel / Centre des Congrès Sheraton Laval",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.ca/e/groove-n-kizomba-festival-10th-edition-all-in-one-july-15-19-2027-tickets-1995684439882?aff=ebdssbdestsearch",
+        "ticketUrl": "https://www.eventbrite.ca/e/groove-n-kizomba-festival-10th-edition-all-in-one-july-15-19-2027-tickets-1995684439882?aff=ebdssbdestsearch",
+        "summary": "A Greater Montréal all-in-one dance weekender with workshops, themed socials, late-night parties until 6am, and Afro-house, amapiano, kuduro, kizomba, semba, tarraxinha and konpa programming.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "montreal-greta-van-fleet-2027",
+        "title": "Greta Van Fleet – Into The Beginning",
+        "type": "concert",
+        "startDate": "2027-07-28",
+        "endDate": "2027-07-28",
+        "importance": 70,
+        "venueName": "Place Bell",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/greta-van-fleet-into-the-beginning-laval-quebec-07-28-2027/event/3100653CC94F6595",
+        "ticketUrl": "https://www.ticketmaster.ca/greta-van-fleet-into-the-beginning-laval-quebec-07-28-2027/event/3100653CC94F6595",
+        "summary": "Greta Van Fleet’s Into The Beginning tour is confirmed for Place Bell in Laval, just north of Montréal, on July 28, 2027 at 7:00 p.m. Ticketmaster lists Portugal. The Man and Friko on the event lineup.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-dripfest-2027",
+        "title": "DRIPFEST 2027 | Water & Color Festival",
+        "type": "festival",
+        "startDate": "2027-07-17",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "Location TBD",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.ca/e/dripfest-2027-water-color-festival-tickets-1999630101462",
+        "ticketUrl": "https://www.eventbrite.ca/e/dripfest-2027-water-color-festival-tickets-1999630101462",
+        "summary": "An 18+ outdoor Caribbean water-and-colour day party in Montréal built around soca, Jab Jab, dancehall and bouyon, with DJs, live entertainment, food and drinks advertised.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "slug": "miami",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:17:29.897Z",
+  "responseId": "resp_04dc6a2f7f22bd7c006acda202ffdc87d0863efb4ffeb76c52+resp_0e5dad3f7d76a880006acda2705ae887d082f0bf32a5ec3a4a",
+  "searchCalls": 42,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 already has confirmed Miami-area music travel anchors across cruise festivals, Latin concerts, indie/alt shows, and the We Belong Here electronic festival, while most club residencies have not yet announced that far out.",
+    "events": [
+      {
+        "id": "miami-we-belong-here-2027",
+        "title": "We Belong Here: Miami 2027",
+        "type": "festival",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-28",
+        "importance": 88,
+        "venueName": "Historic Virginia Key Beach Park",
+        "venueId": null,
+        "sourceUrl": "https://www.webelonghere.world/miami/",
+        "ticketUrl": "https://posh.vip/e/we-belong-here-miami-2027",
+        "summary": "We Belong Here returns to Historic Virginia Key Beach Park for a three-day open-air electronic music festival; lineup is still TBA, but the festival dates, venue and ticketing are confirmed.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-jam-cruise-2027",
+        "title": "Jam Cruise 23",
+        "type": "festival",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-10",
+        "importance": 82,
+        "venueName": "MSC Poesia / PortMiami",
+        "venueId": null,
+        "sourceUrl": "https://jamcruise.com/lineup/",
+        "ticketUrl": "https://jamcruise.com/experience/",
+        "summary": "Jam Cruise 23 sails from Miami with Parliament Funkadelic feat. George Clinton, Stephen Marley, moe., Karl Denson’s Tiny Universe, Lettuce, Daniel Donato’s Cosmic Country and many more across funk, jam, reggae and electronic-leaning live sets.",
+        "genres": [
+          "jazz",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-pablo-alboran-2027",
+        "title": "Pablo Alborán: Global Tour KM0",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 82,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_8VoXwm3/pablo-alboran-global-tour-km0",
+        "ticketUrl": "https://www.ticketmaster.com/pablo-alboran-tickets/artist/1948520",
+        "summary": "Spanish singer-songwriter Pablo Alborán opens the U.S. leg of his Global Tour KM0 at Kaseya Center at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-rock-boat-2027",
+        "title": "The Rock Boat XXVI",
+        "type": "festival",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-07",
+        "importance": 78,
+        "venueName": "Norwegian Jewel / PortMiami",
+        "venueId": null,
+        "sourceUrl": "https://www.therockboat.com/lineup/",
+        "ticketUrl": "https://www.therockboat.com/",
+        "summary": "The Rock Boat XXVI sails from Miami to Key West and Cozumel with WALK THE MOON, Switchfoot, Better Than Ezra, American Authors, Barns Courtney, The 502s and more confirmed on the lineup.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-nickelback-hard-rock-2027",
+        "title": "Nickelback: Everything Under The Sun Tour",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 76,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/el-gr/hollywood/newsroom/2026/10/nickelbacks-everything-under-the-sun-tour-is-coming-to-hard-rock-live-at-seminole-hard-rock-hotel-and-casino-in-hollywood-fla-friday-feb-26-2027-at-630-pm",
+        "ticketUrl": "https://www.ticketmaster.com/nickelback-everything-under-the-sun-tour-hollywood-florida-02-26-2027/event/0D006545AEF28005?landing=c&tt_scene=anchor_view",
+        "summary": "Nickelback’s Everything Under The Sun Tour comes to Hard Rock Live in Hollywood with Don Broco supporting.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-jorge-celedon-2027",
+        "title": "Jorge Celedón: La Historia Mía",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 76,
+        "venueName": "Doral Amphitheater at Doral Central Park",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/jorge-celedon-la-historia-mia-doral-florida-02-27-2027/event/0D006545CD88C14A?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/jorge-celedon-la-historia-mia-doral-florida-02-27-2027/event/0D006545CD88C14A?tt_scene=anchor_view",
+        "summary": "Colombian vallenato star Jorge Celedón brings La Historia Mía to Doral Amphitheater at Doral Central Park at 8:00 PM.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-leoni-torres-2027",
+        "title": "Leoni Torres: Un Clásico de Amor",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 75,
+        "venueName": "James L. Knight Center",
+        "venueId": null,
+        "sourceUrl": "https://jlkc.com/event/leoni-torres-un-clasico-de-amor-2027/",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Cuban singer Leoni Torres brings the 10th-anniversary edition of “Un Clásico de Amor” to James L. Knight Center at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-ibeyi-bandshell-2027",
+        "title": "Ibeyi",
+        "type": "concert",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "importance": 74,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://wl.eventim.us/event/ibeyi/695324?afflky=MiamiBeachBandshell",
+        "ticketUrl": "https://wl.eventim.us/event/ibeyi/695324?afflky=MiamiBeachBandshell",
+        "summary": "French-Cuban twins Ibeyi return to the Miami Beach Bandshell with their Afro-Cuban, Yoruba-rooted soul and electronic sound in support of Offering.",
+        "genres": [
+          "r-and-b",
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-made-in-colombia-2027",
+        "title": "Made In Colombia En Vivo",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 73,
+        "venueName": "The Fillmore Miami Beach at Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/made-in-colombia-en-vivo-miami-beach-florida-02-20-2027/event/0D006549E039D464?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/made-in-colombia-en-vivo-miami-beach-florida-02-20-2027/event/0D006549E039D464?tt_scene=anchor_view",
+        "summary": "Made In Colombia En Vivo brings Doctor Krápula, Sinónimo de Lucro, Subcantante and San Alejo to The Fillmore Miami Beach for a Colombian music celebration.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-alvaro-torres-2027",
+        "title": "Álvaro Torres: Eternamente Romántico",
+        "type": "concert",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "importance": 72,
+        "venueName": "James L. Knight Center",
+        "venueId": null,
+        "sourceUrl": "https://jlkc.com/event/alvaro-torres-eternamente-romantico-2027/",
+        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_3BHKyXH/alvaro-torres",
+        "summary": "Salvadoran balladeer Álvaro Torres returns to James L. Knight Center for a Valentine’s Day edition of Eternamente Romántico at 7:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-kc-sunshine-band-2027",
+        "title": "KC & the Sunshine Band",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "importance": 71,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kc-the-sunshine-band-hollywood-florida-02-25-2027/event/0D00653EB730B263?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/kc-the-sunshine-band-hollywood-florida-02-25-2027/event/0D00653EB730B263?tt_scene=anchor_view",
+        "summary": "Miami disco-funk institution KC & the Sunshine Band plays Hard Rock Live in Hollywood, just north of Miami, at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-lemonheads-love-chant-2027",
+        "title": "The Lemonheads: The Love Chant Tour",
+        "type": "concert",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-17",
+        "importance": 70,
+        "venueName": "Las Rosas",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/the-lemonheads-the-love-chant-las-rosas-tickets/14313194?REFID=clientsitewp&pl=endoxa",
+        "ticketUrl": "https://www.ticketweb.com/event/the-lemonheads-the-love-chant-las-rosas-tickets/14313194?REFID=clientsitewp&pl=endoxa",
+        "summary": "The Lemonheads bring The Love Chant Tour to Las Rosas, presented by Endoxa and Breakeven Booking, for an 18+ Miami club date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-heritage-fest-2027",
+        "title": "Heritage Fest",
+        "type": "festival",
+        "startDate": "2027-02-20",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Thomson Plaza for the Arts, Adrienne Arsht Center",
+        "venueId": null,
+        "sourceUrl": "https://admin.arshtcenter.org/tickets/2026-2027/the-heritage-project/heritage-fest/",
+        "ticketUrl": "https://admin.arshtcenter.org/tickets/2026-2027/the-heritage-project/heritage-fest/",
+        "summary": "The eighth annual Heritage Fest is a free/pay-what-you-can Black History Month gathering spotlighting South Florida pan-African artists, with live performances, food vendors, dancing and an evening concert.",
+        "genres": [
+          "festival",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-vacations-bandshell-2027",
+        "title": "Vacations with TWEN",
+        "type": "concert",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-17",
+        "importance": 69,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://wl.eventim.us/event/vacations/706696?afflky=MiamiBeachBandshell",
+        "ticketUrl": "https://wl.eventim.us/event/vacations/706696?afflky=MiamiBeachBandshell",
+        "summary": "Australian indie quartet Vacations plays the Miami Beach Bandshell on the Pursuit of Anything Tour, with TWEN opening.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-tony-and-the-kings-2027",
+        "title": "Live on the Plaza: Tony & the Kings",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Parker and Vann Thomson Plaza for the Arts, Adrienne Arsht Center",
+        "venueId": null,
+        "sourceUrl": "https://admin.arshtcenter.org/tickets/2026-2027/live-on-the-plaza/live-on-the-plaza/",
+        "ticketUrl": "https://admin.arshtcenter.org/tickets/2026-2027/live-on-the-plaza/live-on-the-plaza/",
+        "summary": "Miami seven-piece Tony & the Kings bring a locally rooted Latin funk and soul set with Puerto Rican, Cuban and African influences as part of the Arsht Center’s outdoor Live on the Plaza series.",
+        "genres": [
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-son-gitano-2027",
+        "title": "Live on the Plaza: Son Gitano",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": null,
+        "importance": 61,
+        "venueName": "Parker and Vann Thomson Plaza for the Arts, Adrienne Arsht Center",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/live-on-the-plaza-son-gitano/42823",
+        "ticketUrl": "https://admin.arshtcenter.org/tickets/2026-2027/live-on-the-plaza/live-on-the-plaza/",
+        "summary": "Son Gitano returns to the Live on the Plaza series with an acoustic fusion of salsa, bolero and flamenco drawing on musical traditions from Spain and Latin America.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

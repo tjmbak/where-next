@@ -1,0 +1,48 @@
+{
+  "slug": "reykjavik",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:13:39.100Z",
+  "responseId": "resp_000a87476cadf0a6006acdaf71db4887d0b5b96054ac2774e7+resp_010e64023d2d5677006acdafb914f487d0b31007889970f745",
+  "searchCalls": 26,
+  "citations": [],
+  "data": {
+    "destinationSlug": "reykjavik",
+    "month": 6,
+    "year": 2027,
+    "notes": "As of current listings, Reykjavík’s June 2027 club and festival programmes are mostly not yet announced; only firmly confirmed in-scope contemporary music events are included.",
+    "events": [
+      {
+        "id": "reykjavik-joipe-kroli-10-ar-2027",
+        "title": "JóiPé & Króli í 10 ár!",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-05",
+        "importance": 74,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/22195",
+        "ticketUrl": "https://tix.is/event/22195/joipe-kroli-i-10-ar",
+        "summary": "Icelandic hip-hop/pop duo JóiPé & Króli celebrate 10 years with two Eldborg shows at Harpa on June 4, 2027. The event page notes they have been among Iceland’s most popular musicians since 2017 and are known for energetic live performances.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-cms-international-conference-2027",
+        "title": "2027 CMS International Conference",
+        "type": "conference",
+        "startDate": "2027-06-06",
+        "endDate": "2027-06-12",
+        "importance": 65,
+        "venueName": "Listaháskóli Íslands (Iceland Academy of the Arts)",
+        "venueId": null,
+        "sourceUrl": "https://www.music.org/events/international-conferences/2027-cms-international-conference.html",
+        "ticketUrl": null,
+        "summary": "The College Music Society’s 2027 International Conference is confirmed for Reykjavík with the theme “Engaging Creative Pathways: Dialogues, Connections, and Crossings in Music.” The programme call includes performance-focused formats, including an Iceland Ensemble-in-Residence and site-specific music events.",
+        "genres": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "buenos-aires",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:24:22.959Z",
+  "responseId": "resp_09202a373135030e006acda3b31a5087d0822655dd9fa6f7ec+resp_0f562d830375ba7b006acda41bfd9087d0873c42957c51e0c6",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is currently strongest for stadium and arena concerts; major Buenos Aires electronic club calendars do not yet show solid February confirmations.",
+    "events": [
+      {
+        "id": "buenos-aires-karol-g-tropitour-2027",
+        "title": "Karol G — Viajando Por El Mundo / Tropitour",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 93,
+        "venueName": "Estadio River Plate",
+        "venueId": null,
+        "sourceUrl": "https://linda.buenosaires.gob.ar/eventos/karol-g",
+        "ticketUrl": "https://www.allaccess.com.ar/event/karol-g",
+        "summary": "Karol G brings her Viajando Por El Mundo – Tropitour to Estadio River Plate, her first show at the venue. The city event page lists the concert for 5 February 2027 at 21:00.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-foo-fighters-river-2027",
+        "title": "Foo Fighters — Take Cover Tour",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "importance": 92,
+        "venueName": "Estadio River Plate",
+        "venueId": null,
+        "sourceUrl": "https://linda.buenosaires.gob.ar/eventos/foo-fighters",
+        "ticketUrl": "https://www.allaccess.com.ar/event/foo-fighters",
+        "summary": "Foo Fighters play Estadio River Plate on 25 February 2027 with Usted Señalemelo and Pacifica as local openers. The listing places the show within the band’s Take Cover Tour.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-maria-becerra-quimera-2027",
+        "title": "María Becerra — Quimera Tour",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 86,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://mariabecerra.live/",
+        "ticketUrl": "https://www.movistararena.com.ar/show/993a2d46-39d7-4455-b199-87a5a2dc9b83",
+        "summary": "María Becerra adds a Buenos Aires Movistar Arena date to her Quimera tour. Her official site lists the 06/02 Buenos Aires show with a Movistar Arena ticket link.",
+        "genres": [
+          "latin",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "buenos-aires-tan-bionica-movistar-2027",
+        "title": "Tan Biónica — Movistar Arena run",
+        "type": "concert",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-12",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://linda.buenosaires.gob.ar/eventos/tan-bionica-0",
+        "ticketUrl": "https://www.movistararena.com.ar/show/148a7bae-bb0a-4efa-b4f8-aca6f46beb26",
+        "summary": "Tan Biónica return to Movistar Arena for two Buenos Aires shows on 11 and 12 February 2027. The listing frames the run around their classics and newer El Regreso material.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-jack-johnson-2027",
+        "title": "Jack Johnson — SURFILMUSIC Tour",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 80,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://jackjohnsonmusic.com/tour/2027-02-05-movistar-arena/",
+        "ticketUrl": "https://jackjohnsonmusic.com/tour/2027-02-05-movistar-arena/",
+        "summary": "Jack Johnson plays Movistar Arena on the SURFILMUSIC Tour, with doors and show time listed on his official tour page. The Buenos Aires date is part of his South American run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-reik-movistar-2027",
+        "title": "Reik",
+        "type": "concert",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "importance": 76,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://leb-ent.com/shows/",
+        "ticketUrl": "https://www.movistararena.com.ar/",
+        "summary": "Mexican pop trio Reik play Movistar Arena Buenos Aires on 14 February 2027. LEB Entertainment’s official shows page lists the Buenos Aires date among the group’s Argentina/Uruguay run.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-sin-bandera-movistar-2027",
+        "title": "Sin Bandera — Escenas Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 75,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://leb-ent.com/shows/",
+        "ticketUrl": "https://www.movistararena.com.ar/",
+        "summary": "Sin Bandera bring their Escenas Tour to Movistar Arena Buenos Aires on 27 February 2027. LEB Entertainment lists the date as part of the duo’s regional itinerary.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-donavon-frankenreiter-niceto-2027",
+        "title": "Donavon Frankenreiter with Hendrix Frankenreiter",
+        "type": "concert",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "importance": 70,
+        "venueName": "Niceto Club",
+        "venueId": "niceto-ba",
+        "sourceUrl": "https://venti.live/evento/donavon-en-niceto-club",
+        "ticketUrl": "https://venti.live/evento/donavon-en-niceto-club",
+        "summary": "Donavon Frankenreiter plays a Valentine’s Day headline show at Niceto Club with Hendrix Frankenreiter opening. The event is listed for 14 February 2027 at Niceto Club.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-lebanon-hanover-2027",
+        "title": "Lebanon Hanover",
+        "type": "concert",
+        "startDate": "2027-02-10",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "El Teatrito",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/lebanon-hanover",
+        "ticketUrl": "https://www.passline.com/eventos/lebanon-hanover",
+        "summary": "Confirmed Buenos Aires date for the cult coldwave/darkwave duo, promoted within the Gothic BA orbit and aimed at the city's synth, goth and dark electronic scene.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-bragolin-carrellee-2027",
+        "title": "Bragolin y Carrellee en Argentina",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Marquee Session Live",
+        "venueId": null,
+        "sourceUrl": "https://songkick.com/es/concerts/43461276-bragolin-at-marquee",
+        "ticketUrl": "https://www.passline.com/venue/marquee-session-live",
+        "summary": "Gothic BA-linked darkwave/minimal-synth bill pairing Bragolin with Carrellee at Marquee Session Live, a niche touring date for Buenos Aires' goth and electronic underground.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

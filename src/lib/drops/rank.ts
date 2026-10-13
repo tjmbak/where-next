@@ -3,6 +3,7 @@ import {
   getEventsForDestinationInMonth,
   getScoreForDestinationMonth
 } from "@/data/music-travel";
+import { upcomingYearForMonth } from "@/data/taxonomy";
 import type {
   Budget,
   Destination,
@@ -59,7 +60,10 @@ function affinityBoost(destination: Destination, preferences: RankInputs["prefer
 }
 
 function topEventForMonth(slug: string, month: MonthNumber) {
-  const events = getEventsForDestinationInMonth(slug, month);
+  const today = new Date().toISOString().slice(0, 10);
+  const events = getEventsForDestinationInMonth(slug, month, upcomingYearForMonth(month)).filter(
+    (event) => (event.endDate ?? event.startDate) >= today
+  );
   if (events.length === 0) return null;
   return events.slice().sort((a, b) => b.importanceScore - a.importanceScore)[0];
 }

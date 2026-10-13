@@ -1,0 +1,148 @@
+{
+  "slug": "seoul",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:11:43.500Z",
+  "responseId": "resp_00aec452f90475f9006acda0e20d1887d099a890e1442fdfcb+resp_0e89883959cb9ad3006acda1337dbc87d0a370302f4e465f2f",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 1,
+    "year": 2027,
+    "notes": "Confirmed January listings lean toward touring pop, J-pop, Korean hip-hop and Hongdae-adjacent indie; Seoul club calendars for January 2027 are not yet published far enough ahead to verify signature underground nights.",
+    "events": [
+      {
+        "id": "seoul-fujii-kaze-prema-2027",
+        "title": "Fujii Kaze Prema World Tour in Seoul",
+        "type": "concert",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 90,
+        "venueName": "Gocheok Sky Dome",
+        "venueId": null,
+        "sourceUrl": "https://hehn.fujiikaze.com/pwt/en/",
+        "ticketUrl": "https://ticket.melon.com/performance/index.htm?prodId=213396",
+        "summary": "Fujii Kaze’s Prema World Tour stops at Seoul’s Gocheok Sky Dome for a major Saturday-night concert on January 9, 2027.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-epik-high-kspo-2027",
+        "title": "2027 Epik High Concert",
+        "type": "concert",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-24",
+        "importance": 88,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://ticket.melon.com/performance/index.htm?prodId=213943",
+        "ticketUrl": "https://ticket.melon.com/performance/index.htm?prodId=213943",
+        "summary": "Epik High plays a three-night KSPO DOME run from January 22 to 24, 2027, with performances scheduled Friday through Sunday.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-maroon-5-asia-2027",
+        "title": "Maroon 5 Asia 2027 in Seoul",
+        "type": "concert",
+        "startDate": "2027-01-27",
+        "endDate": "2027-01-27",
+        "importance": 87,
+        "venueName": "KINTEX Hall 4,5",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/maroon-5-asia-2027-in-seoul-seoul-tickets-edp1689735",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26011315",
+        "summary": "Maroon 5’s Asia 2027 tour includes a Seoul-area concert at KINTEX Hall 4 and 5 on January 27, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-aosaka-parannoul-kurayamisaka-2027",
+        "title": "Aosaka: kurayamisaka & parannoul",
+        "type": "concert",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 76,
+        "venueName": "KT&G Sangsangmadang Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://koreagenda.com/en/events/aosaka-kurayamisaka-parannoul-2027-b1e308",
+        "ticketUrl": null,
+        "summary": "Japanese band kurayamisaka and Seoul project parannoul share a bill at KT&G Sangsangmadang Live Hall in Hongdae on January 9, 2027.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-sienna-spiro-my-house-2027",
+        "title": "Sienna Spiro: My House Tour in Seoul",
+        "type": "concert",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-07",
+        "importance": 72,
+        "venueName": "Myunghwa Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://siennaspiro.lnk.to/myhousetour",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26008451",
+        "summary": "Sienna Spiro brings her My House Tour to Seoul for a one-night show at Myunghwa Live Hall on January 7, 2027.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-hump-back-hello-anew-2027",
+        "title": "Hump Back “HELLO ANEW TOUR SEOUL 2027”",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 68,
+        "venueName": "YES24 Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://m.ticket.yes24.com/Notice/18427?order=1&type=1",
+        "ticketUrl": "https://m.ticket.yes24.com/Notice/18427?order=1&type=1",
+        "summary": "Japanese three-piece Hump Back brings HELLO ANEW TOUR SEOUL 2027 to YES24 Live Hall on January 23, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-nanaoakari-all-eyes-2027",
+        "title": "NANAOAKARI: ALL EYES -in Seoul-",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 65,
+        "venueName": "YES24 Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sma.co.jp/s/sma/news/detail/115206?ima=0000&link=ROBO004",
+        "ticketUrl": "https://m.ticket.yes24.com/Perf/Detail/PerfEtcInfo.aspx?IdPerf=60411&IdSubGenre=15463",
+        "summary": "NANAOAKARI’s ALL EYES -in Seoul- is confirmed for YES24 Live Hall on January 30, 2027, with tickets handled by YES24.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-cutie-street-winter-live-2027",
+        "title": "CUTIE STREET Live in Korea 2027 WINTER",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 64,
+        "venueName": "KINTEX Hall 9A",
+        "venueId": null,
+        "sourceUrl": "https://ticket.melon.com/performance/index.htm?prodId=213705",
+        "ticketUrl": "https://ticket.melon.com/performance/index.htm?prodId=213705",
+        "summary": "Japanese idol-pop group CUTIE STREET performs a one-night WINTER live at KINTEX Hall 9A in Goyang, just outside Seoul, on January 23, 2027.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

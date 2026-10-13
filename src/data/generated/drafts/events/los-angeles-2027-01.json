@@ -1,0 +1,327 @@
+{
+  "slug": "los-angeles",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:06:19.926Z",
+  "responseId": "resp_0b13d6603ba719da006acd9f282d8887d0b9715afe7b28d523+resp_0a839f023733374a006acd9fb71a1887d0879e21a8e4197aea",
+  "searchCalls": 43,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is especially strong for Los Angeles electronic music, led by Framework’s re:frame season alongside arena pop and club bookings across Hollywood and downtown.",
+    "events": [
+      {
+        "id": "los-angeles-olivia-rodrigo-unraveled-2027",
+        "title": "Olivia Rodrigo: The Unraveled Tour",
+        "type": "concert",
+        "startDate": "2027-01-12",
+        "endDate": "2027-01-12",
+        "importance": 94,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-01-12-2027/event/0900649DE7C663B2",
+        "ticketUrl": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-inglewood-01-12-2027/event/0900649DE7C663B2",
+        "summary": "Olivia Rodrigo brings The Unraveled Tour to Intuit Dome on January 12, with The Last Dinner Party and Devon Again listed on the Ticketmaster lineup for this date. It is part of a large Los Angeles-area run at the Inglewood arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-sasha-john-digweed-reframe-2027",
+        "title": "Sasha & John Digweed at re:frame",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 84,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/event/sasha-john-digweed/",
+        "ticketUrl": "https://link.dice.fm/n029e56c8eb9",
+        "summary": "Framework presents Sasha & John Digweed at Reframe Studios Indoors, pairing two major progressive house and electronic selectors. The confirmed listing places the event on Friday, January 8.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-deadmau5-reframe-birthday-2027",
+        "title": "deadmau5 Birthday Celebration at re:frame",
+        "type": "club-night",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 83,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/3/",
+        "ticketUrl": "https://link.dice.fm/K2d31b93080a",
+        "summary": "Framework presents deadmau5 for a birthday celebration at Reframe Studios Indoors. The promoter’s confirmed event listing places the show on Saturday, January 9.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-sasha-digweed-reframe-2027",
+        "title": "Framework presents Sasha & John Digweed",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/2/",
+        "ticketUrl": "https://dice.fm/event/oe95rm-sasha-john-digweed-8th-jan-reframe-studios-indoors-los-angeles-tickets",
+        "summary": "A rare LA club-scale appearance for Sasha & John Digweed, aimed squarely at progressive house and tech-house heads.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-green-velvet-reframe-2027",
+        "title": "Green Velvet at re:frame",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 80,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/event/green-velvet/",
+        "ticketUrl": "https://link.dice.fm/V1ed02b3f995",
+        "summary": "Framework presents Chicago house and techno figure Green Velvet at Reframe Studios Indoors as part of its winter re:frame run. The event is confirmed for Saturday, January 2 at the Atwater Village studio venue.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-masterbeat-new-years-2027",
+        "title": "Masterbeat 2027: New Year's Los Angeles",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 78,
+        "venueName": "The Vermont Hollywood / The Mayan Theater",
+        "venueId": null,
+        "sourceUrl": "https://events.leapevents.com/event/masterbeat-2027-new-year-s-los-angeles",
+        "ticketUrl": "https://events.leapevents.com/event/masterbeat-2027-new-year-s-los-angeles",
+        "summary": "Masterbeat’s New Year’s circuit event returns with a two-venue overnight format at The Vermont Hollywood and The Mayan Theater. The confirmed DJ lineup includes Jace M & Toy Armada and Micky Friedmann.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-layton-giordani-reframe-2027",
+        "title": "Layton Giordani: 4 Hour Extended Set",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-22",
+        "importance": 78,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://whm.thisisframework.com/event/layton-giordani-4-hour-extended-set/",
+        "ticketUrl": "https://link.dice.fm/K55b28eb0283",
+        "summary": "Framework and Goldenvoice present Layton Giordani for a four-hour extended set at Reframe Studios Indoors. The official listing confirms the Friday, January 22 date.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-ibeyi-pacific-electric-2027",
+        "title": "Ibeyi",
+        "type": "concert",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 78,
+        "venueName": "Pacific Electric",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/ibeyi-los-angeles-california-01-29-2027/event/090064CFD810ADEE",
+        "ticketUrl": "https://www.ticketmaster.com/ibeyi-los-angeles-california-01-29-2027/event/090064CFD810ADEE",
+        "summary": "Ibeyi are confirmed for Pacific Electric in Los Angeles on Friday, January 29. The duo’s show fits the month’s broader mix of electronic, soul, and global-pop touring acts.",
+        "genres": [
+          "r-and-b",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-blk-winter-pride-2027",
+        "title": "BLK Winter Pride 2027 | MLK Weekend Los Angeles",
+        "type": "festival",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-18",
+        "importance": 78,
+        "venueName": "BLK Winter Pride",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/blk-winter-pride-2027-mlk-weekend-los-angeles-tickets-1998023811004",
+        "ticketUrl": "https://www.eventbrite.com/e/blk-winter-pride-2027-mlk-weekend-los-angeles-tickets-1998023811004",
+        "summary": "A four-day inaugural Black LGBTQ+ MLK weekend program with day parties, nightlife, R&B lounge programming, brunch, and West Coast social events.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-nic-fanciulli-paco-osuna-2027",
+        "title": "Framework presents Nic Fanciulli & Paco Osuna",
+        "type": "club-night",
+        "startDate": "2027-01-15",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/2/",
+        "ticketUrl": "https://dice.fm/event/avkoyv-nic-fanciulli-paco-osuna-15th-jan-reframe-studios-indoors-los-angeles-tickets",
+        "summary": "A high-grade tech-house pairing from Framework’s Re:Frame season, matching UK selector Nic Fanciulli with Spanish minimal/techno staple Paco Osuna.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-sister-nancy-bellwether-2027",
+        "title": "Sister Nancy & The Fully Fullwood Band",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 77,
+        "venueName": "The Bellwether",
+        "venueId": null,
+        "sourceUrl": "https://thebellwetherla.com/calendar/",
+        "ticketUrl": "https://www.ticketmaster.com/sister-nancy-los-angeles-california-01-16-2027/event/09006536B0DC9359",
+        "summary": "The Bellwether confirms Sister Nancy & The Fully Fullwood Band with DJ Mysta Crooks for Saturday, January 16. The show brings a landmark dancehall/reggae voice to a central L.A. live room.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-lord-huron-wiltern-2027",
+        "title": "Lord Huron",
+        "type": "concert",
+        "startDate": "2027-01-10",
+        "endDate": "2027-01-10",
+        "importance": 76,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.lordhuron.com/gig/sunday-january-10th-2027-the-wiltern/",
+        "ticketUrl": "https://www.lordhuron.com/gig/sunday-january-10th-2027-the-wiltern/",
+        "summary": "Lord Huron’s official tour page confirms a January 10 Los Angeles concert at The Wiltern. The show is a strong indie/folk-rock draw in one of L.A.’s landmark mid-size rooms.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-nic-fanciulli-paco-osuna-reframe-2027",
+        "title": "Nic Fanciulli & Paco Osuna at re:frame",
+        "type": "club-night",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15",
+        "importance": 76,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/3/",
+        "ticketUrl": "https://link.dice.fm/k1c74e79ac44",
+        "summary": "Framework presents Nic Fanciulli & Paco Osuna at Reframe Studios Indoors on Friday, January 15. The booking brings established tech-house and techno names into the re:frame winter series.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-layton-giordani-madminds-2027",
+        "title": "Goldenvoice & Framework present Layton Giordani: Madminds",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/2/",
+        "ticketUrl": "https://thisisframework.com/eventslist/page/2/",
+        "summary": "Layton Giordani brings his Madminds concept to Reframe Studios for a big-room techno and tech-house Friday night.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-dod-shrine-2027",
+        "title": "D.O.D",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 75,
+        "venueName": "Shrine Expo Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1592102/dod-tickets?cid=edmtrain",
+        "ticketUrl": "https://www.axs.com/events/1592102/dod-tickets?cid=edmtrain",
+        "summary": "Goldenvoice presents D.O.D at Shrine Expo Hall on January 16, with Twin Diplomacy, nate band, and Teebs listed on the AXS event page. The show is confirmed as an 18+ dance/electronic event.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-dennis-cruz-reframe-2027",
+        "title": "Framework presents Dennis Cruz",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/2/",
+        "ticketUrl": "https://dice.fm/event/q2dyyy-dennis-cruz-23rd-jan-reframe-studios-indoors-los-angeles-tickets",
+        "summary": "Spanish tech-house mainstay Dennis Cruz lands at Reframe Studios as part of Framework’s January run.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-cassian-reframe-2027",
+        "title": "Framework presents Cassian",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://thisisframework.com/eventslist/page/2/",
+        "ticketUrl": "https://thisisframework.com/eventslist/page/2/",
+        "summary": "Australian melodic/progressive house producer Cassian headlines a late-January Framework night at Reframe Studios.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-cid-palladium-2027",
+        "title": "CID",
+        "type": "concert",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 74,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/cid-hollywood-california-01-09-2027/event/0900653032FDAFBF",
+        "ticketUrl": "https://www.ticketmaster.com/cid-hollywood-california-01-09-2027/event/0900653032FDAFBF",
+        "summary": "CID plays the Hollywood Palladium on January 9, with Ticketmaster confirming the venue, date, 8:00 PM time, and 18+ admission. The event is billed under the CID lineup on the official ticketing page.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

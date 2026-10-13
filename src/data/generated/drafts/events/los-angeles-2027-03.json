@@ -1,0 +1,322 @@
+{
+  "slug": "los-angeles",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:32:33.189Z",
+  "responseId": "resp_00637dc877ae8510006acda550b61c87d086df0d03ae1d0cf0+resp_0af4aaedc7142235006acda5ec66e487d085828b91c253b248",
+  "searchCalls": 44,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is still early-announced, but confirmed highlights already span LA indie rooms, electronic one-offs, a Lusophone pop stop, and the major Southern California rave calendar.",
+    "events": [
+      {
+        "id": "los-angeles-beyond-wonderland-socal-2027",
+        "title": "Beyond Wonderland Southern California 2027",
+        "type": "festival",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-27",
+        "importance": 92,
+        "venueName": "NOS Events Center",
+        "venueId": null,
+        "sourceUrl": "https://socal.beyondwonderland.com/guide/hours-and-info/",
+        "ticketUrl": "https://beyondsocal.frontgatetickets.com/event/6me135q7s6sk3yzd",
+        "summary": "Insomniac’s Beyond Wonderland SoCal returns to NOS Events Center in San Bernardino on March 26–27, 2027. The official site confirms the dates and venue for the two-day electronic festival.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-alan-walker-torch-2027",
+        "title": "Insomniac Presents Alan Walker – LEGEND OF ATLANTIS Tour",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 82,
+        "venueName": "The Torch at LA Coliseum",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1613193/alan-walker-tickets?cid=sponslatourism",
+        "ticketUrl": "https://www.axs.com/events/1613193/alan-walker-tickets?cid=sponslatourism",
+        "summary": "Insomniac presents Alan Walker’s LEGEND OF ATLANTIS Tour at The Torch at LA Coliseum. AXS confirms the Saturday, March 6, 2027 Los Angeles date at 6:00 PM.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-axel-boman-midnight-lovers-2027",
+        "title": "Midnight Lovers with Axel Boman all night",
+        "type": "residency",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-20",
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://ra.co/news/85023",
+        "ticketUrl": null,
+        "summary": "Resident Advisor reports that Axel Boman’s year-long Los Angeles residency with Midnight Lovers concludes on March 20, 2027 with an all-night set. The residency is framed around house, techno, and disco.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "los-angeles-calema-bellwether-2027",
+        "title": "Calema – Origin Tour",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-19",
+        "importance": 74,
+        "venueName": "The Bellwether",
+        "venueId": null,
+        "sourceUrl": "https://thebellwetherla.com/events/calema-270319",
+        "ticketUrl": "https://thebellwetherla.com/events/calema-270319",
+        "summary": "Calema brings the Origin Tour to The Bellwether on March 19, 2027. The venue describes the duo’s sound as blending African rhythms, pop, and Latin music.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-vacations-palladium-2027",
+        "title": "Vacations – Pursuit Of Anything Tour",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-19",
+        "importance": 72,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/09006541AC5CCBAC?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/event/09006541AC5CCBAC?tt_scene=anchor_view",
+        "summary": "Australian indie-pop band Vacations headlines the Hollywood Palladium with twen. Ticketmaster confirms the March 19, 2027 date, 7:00 PM doors, and 8:00 PM show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-open-melody-2027",
+        "title": "Open Melody 2027",
+        "type": "festival",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-28",
+        "importance": 72,
+        "venueName": "2220 Arts + Archives",
+        "venueId": null,
+        "sourceUrl": "https://openmelody.la/",
+        "ticketUrl": null,
+        "summary": "Open Melody 2027 is confirmed for March 26–28, 2027 at 2220 Arts + Archives in Los Angeles. The independent festival focuses on adventurous, border-crossing music; lineup details were not yet posted on the source page.",
+        "genres": [
+          "festival",
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "los-angeles-blondshell-wiltern-2027",
+        "title": "Blondshell – Scaring Strangers Tour",
+        "type": "concert",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-02",
+        "importance": 70,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG10Z_1DrttoA/blondshell-scaring-strangers-tour",
+        "ticketUrl": "https://www.livenation.com/event/vvG10Z_1DrttoA/blondshell-scaring-strangers-tour",
+        "summary": "Blondshell brings the Scaring Strangers Tour to The Wiltern on March 2, 2027. The Live Nation event page confirms the Los Angeles date and venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-michelle-branch-wiltern-2027",
+        "title": "Michelle Branch – Everywhere And Back Again Tour",
+        "type": "concert",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 70,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv170Z_8GkSJroC_/michelle-branch-everywhere-and-back-again-tour",
+        "ticketUrl": "https://www.livenation.com/event/vv170Z_8GkSJroC_/michelle-branch-everywhere-and-back-again-tour",
+        "summary": "Michelle Branch brings the Everywhere And Back Again Tour to The Wiltern. The Live Nation event page confirms the March 13, 2027 Los Angeles performance.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-oscars-after-party-roosevelt-2027",
+        "title": "Oscars Awards After Party at The Roosevelt Hotel",
+        "type": "club-night",
+        "startDate": "2027-03-14",
+        "endDate": "2027-03-14",
+        "importance": 70,
+        "venueName": "The Hollywood Roosevelt – Grand Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2551417",
+        "ticketUrl": "https://ra.co/events/2551417",
+        "summary": "This Oscars-night party at The Hollywood Roosevelt lists Devin Lucien and DJ Tay James for a 9:00 PM–2:00 AM event. Resident Advisor confirms the March 14, 2027 date and house/hip-hop music billing.",
+        "genres": [
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-ely-oaks-academy-2027",
+        "title": "Ely Oaks at Academy LA",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Academy LA",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1040350418-ely-oaks-at-academy-la?came_from=115",
+        "ticketUrl": "https://www.bandsintown.com/e/1040350418-ely-oaks-at-academy-la?came_from=115",
+        "summary": "A 21+ late-night Academy LA date from Berlin-based dance producer Ely Oaks, billed for 10 PM with EDM, techno, trance, and commercial dance crossover energy.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-vnv-nation-belasco-2027",
+        "title": "VNV Nation",
+        "type": "concert",
+        "startDate": "2027-03-20",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "The Belasco",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv170ZbVGklJ1kgc/vnv-nation",
+        "ticketUrl": "https://www.livenation.com/event/vv170ZbVGklJ1kgc/vnv-nation",
+        "summary": "A Los Angeles stop for VNV Nation’s rescheduled North American tour, bringing the group’s synthpop, trance, and EBM-rooted electronic following to The Belasco.",
+        "genres": [
+          "electronic",
+          "techno",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-sungazer-teragram-2027",
+        "title": "Sungazer with Button Masher",
+        "type": "concert",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-02",
+        "importance": 68,
+        "venueName": "Teragram Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/es/e/1040439889-sungazer-at-teragram-ballroom",
+        "ticketUrl": "https://www.bandsintown.com/es/e/1040439889-sungazer-at-teragram-ballroom",
+        "summary": "Sungazer plays Teragram Ballroom with support from Button Masher. The bill is confirmed as a jazz-fusion/electronic-leaning concert with doors listed for March 2, 2027.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-wasia-project-wiltern-2027",
+        "title": "Wasia Project – Nocturne Live 2027",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 68,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/wasia-project-nocturne-live-2027-los-angeles-california-03-03-2027/event/09006538E48B2254",
+        "ticketUrl": "https://www.ticketmaster.com/wasia-project-nocturne-live-2027-los-angeles-california-03-03-2027/event/09006538E48B2254",
+        "summary": "Wasia Project’s Nocturne Live 2027 tour stops at The Wiltern on March 3, 2027. Ticketmaster confirms the Los Angeles venue, date, and 7:00 PM doors.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "los-angeles-kid-francescoli-teragram-2027",
+        "title": "Kid Francescoli – A Kind Wave Tour",
+        "type": "concert",
+        "startDate": "2027-03-24",
+        "endDate": "2027-03-24",
+        "importance": 68,
+        "venueName": "Teragram Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/kid-francescoli-a-kind-wave-tour-los-angeles-california-03-24-2027/event/090064BBC257BA1B?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/kid-francescoli-a-kind-wave-tour-los-angeles-california-03-24-2027/event/090064BBC257BA1B?tt_scene=anchor_view",
+        "summary": "Kid Francescoli’s A Kind Wave Tour stops at Teragram Ballroom. Ticketmaster confirms the Los Angeles date as March 24, 2027, with doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-valley-bellwether-2027",
+        "title": "Valley with Moody Joody – Do You Need To Be Entertained? Tour",
+        "type": "concert",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-02",
+        "importance": 66,
+        "venueName": "The Bellwether",
+        "venueId": null,
+        "sourceUrl": "https://thebellwetherla.com/events/valley-270302",
+        "ticketUrl": "https://thebellwetherla.com/events/valley-270302",
+        "summary": "Canadian alternative-pop band Valley plays The Bellwether with Moody Joody. The venue page confirms the March 2, 2027 date with doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-oscar-ortiz-roxy-2027",
+        "title": "Oscar Ortiz",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 66,
+        "venueName": "The Roxy",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1541926/oscar-ortiz-tickets",
+        "ticketUrl": "https://www.axs.com/events/1541926/oscar-ortiz-tickets",
+        "summary": "Goldenvoice presents Oscar Ortiz at The Roxy on March 27, 2027. AXS confirms the 9:00 PM all-ages Los Angeles concert.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-circus-runaways-anniversary-2027",
+        "title": "Circus Runaways Anniversary: Originality — The Fifth Element of Breaking",
+        "type": "festival",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-14",
+        "importance": 66,
+        "venueName": "Mira Costa High School",
+        "venueId": null,
+        "sourceUrl": "https://thecircusrunaways.com/",
+        "ticketUrl": "https://thecircusrunaways.com/",
+        "summary": "A two-day breaking and hip-hop culture gathering with youth 1v1, pro 3-on-3 TBA, DJs, vendors, and a warehouse-style big-top layout centered on originality in b-boy/b-girl movement.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-west-coast-riot-2027",
+        "title": "WEST COAST RIOT",
+        "type": "club-night",
+        "startDate": "2027-03-05",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Exchange LA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2503671",
+        "ticketUrl": "https://ra.co/events/2503671",
+        "summary": "A B.W.S.A-presented hard-dance/gabber night at Exchange LA running 11 PM–6 AM, headlined by Marius Tiberian with Ravencore and Kryon support.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "cartagena",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:15:27.450Z",
+  "responseId": "resp_0eebfae0859901d7006acda18e2b0087d0aa7e4f3e04d473f8+resp_05327f0e90cb4dd2006acda1ddae9087d0bd2b7e0f3b8e50ff",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 1,
+    "year": 2027,
+    "notes": "Only a small number of in-scope January 2027 contemporary music events are confirmed so far; classical Cartagena Festival de Música listings were excluded.",
+    "events": [
+      {
+        "id": "cartagena-buena-vida-beach-2027",
+        "title": "Buena Vida Beach 2027",
+        "type": "festival",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-10",
+        "importance": 90,
+        "venueName": "Punta Canoa",
+        "venueId": null,
+        "sourceUrl": "https://buenavidabeach.com.co/",
+        "ticketUrl": "https://www.warenaeventos.com/event/buena-vida-beach-2027-3098.aspx",
+        "summary": "Three-day electronic beach festival at Punta Canoa, Cartagena, confirmed for January 8–10, 2027. The official site bills it as a major Caribbean electronic festival; the artist lineup is still marked as forthcoming.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-music-week-2027",
+        "title": "Cartagena Music Week",
+        "type": "festival",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-11",
+        "importance": 82,
+        "venueName": "Cartagena, Colombia",
+        "venueId": null,
+        "sourceUrl": "https://3nomadsx.com/",
+        "ticketUrl": null,
+        "summary": "A multi-day 3 NOMADS X–listed music-week takeover in Cartagena, running January 3–11, likely the broadest confirmed underground/travel-party framework around the city’s peak electronic week.",
+        "genres": [
+          "electronic",
+          "house",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-juicy-cream-atolon-2027",
+        "title": "Juicy & Cream at Atolón Beach Club",
+        "type": "beach-club",
+        "startDate": "2027-01-09",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Atolón Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://3nomadsx.com/",
+        "ticketUrl": null,
+        "summary": "3 NOMADS X lists Juicy & Cream at Atolón Beach Club in Cartagena for January 9, marking a notable beach-club edition from its Colombian experiential party ecosystem.",
+        "genres": [
+          "electronic",
+          "house",
+          "latin"
+        ]
+      },
+      {
+        "id": "cartagena-motion-fest-rainbow-beach-2027",
+        "title": "Motion Fest – Rainbow Beach",
+        "type": "festival",
+        "startDate": "2027-01-10",
+        "endDate": "2027-01-11",
+        "importance": 74,
+        "venueName": "Cartagena de Indias",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/motion-fest-rainbow-beach",
+        "ticketUrl": "https://www.passline.com/eventos/motion-fest-rainbow-beach",
+        "summary": "Passline lists this 18+ Caribbean festival celebrating music, freedom, diversity and love, with a two-day program that includes a Carrusel Boat party and a Main Party in Cartagena.",
+        "genres": [
+          "latin",
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-nativo-2027",
+        "title": "Nativo Cartagena",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Cartagena, Colombia",
+        "venueId": null,
+        "sourceUrl": "https://3nomadsx.com/",
+        "ticketUrl": null,
+        "summary": "3 NOMADS X lists its Nativo Cartagena event on its 2027 experience calendar for January 2 in Cartagena, positioning it as part of the city’s early-January electronic/Latin travel-party circuit.",
+        "genres": [
+          "electronic",
+          "house",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

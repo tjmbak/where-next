@@ -2,9 +2,9 @@
   "slug": "berlin",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:53:49.668Z",
-  "responseId": "resp_0040814fda4314610069ff5810669c81a0a9797f7063f58b50",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:08:08.184Z",
+  "responseId": "augment:resp_0e37aa88f90aee5e006a1b2727def4819aa7637ea41033d25c",
+  "searchCalls": 12,
   "citations": [],
   "data": {
     "destinationSlug": "berlin",
@@ -29,6 +29,23 @@
         ]
       },
       {
+        "id": "berlin-sigur-ros-orchestral-2026",
+        "title": "Sigur Rós — The Orchestral Tour",
+        "type": "concert",
+        "startDate": "2026-09-20",
+        "endDate": "2026-09-21",
+        "importance": 88,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/sigur-ros",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/sigur-ros",
+        "summary": "Sigur Rós perform two Berlin orchestral shows at Uber Eats Music Hall on 20 and 21 September 2026. The concerts feature the band with a 41-piece orchestra and choir, including music from ÁTTA and repertoire highlights.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
         "id": "berlin-baby-keem-2026",
         "title": "Baby Keem — The Ca$ino Tour",
         "type": "concert",
@@ -45,53 +62,90 @@
         ]
       },
       {
-        "id": "berlin-adam-folsom-2026",
-        "title": "ADAM Berlin — Folsom Europe Official Opening Party",
+        "id": "berlin-else-dj-koze-2026",
+        "title": "Else Season Closing x DJ Koze",
         "type": "club-night",
-        "startDate": "2026-09-10",
-        "endDate": "2026-09-10",
-        "importance": 75,
-        "venueName": "Metropol",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 83,
+        "venueName": "Else",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2415943",
-        "ticketUrl": "https://ra.co/events/2415943",
-        "summary": "ADAM Berlin returns to Metropol as the Folsom Europe official opening party on 10 September 2026. The confirmed lineup includes DJ Hell, Lady Starlight live, Arson Fire, Ruby and Goat Spokesperson.",
+        "sourceUrl": "https://ra.co/events/2372753",
+        "ticketUrl": "https://ra.co/events/2372753",
+        "summary": "Else’s 2026 season-closing party is headlined by DJ Koze on 19 September 2026. The event is listed as a house-focused all-day programme at the Treptower Park open-air venue.",
         "genres": [
-          "techno",
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "berlin-else-opus-yanamaste-2026",
-        "title": "Else x OPUS pres. Yanamaste (All Day Long)",
+        "id": "berlin-watergate-open-air-2026",
+        "title": "Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter & Natalie Robinson",
         "type": "club-night",
-        "startDate": "2026-09-12",
-        "endDate": "2026-09-12",
-        "importance": 74,
-        "venueName": "Else",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 82,
+        "venueName": "SAGE",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2407324",
-        "ticketUrl": "https://ra.co/events/2407324",
-        "summary": "Else and OPUS present an all-day-long Yanamaste session on 12 September 2026. The open-air-to-indoor event is listed as a techno programme with more artists to be announced.",
+        "sourceUrl": "https://ra.co/events/2391985",
+        "ticketUrl": "https://ra.co/events/2391985",
+        "summary": "A major riverside Watergate open-air session at SAGE pairing contemporary techno force Anfisa Letyago with deep-house pioneer Chez Damier and Berlin/local support across beach and container floors.",
         "genres": [
-          "techno"
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "berlin-jony-2026",
-        "title": "JONY live at Uber Eats Music Hall",
+        "id": "berlin-metric-bss-stars-2026",
+        "title": "All The Feelings Tour with Metric, Broken Social Scene and Stars",
         "type": "concert",
-        "startDate": "2026-09-15",
-        "endDate": "2026-09-15",
-        "importance": 70,
-        "venueName": "Uber Eats Music Hall",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 80,
+        "venueName": "Columbiahalle",
         "venueId": null,
-        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/jony/2026-09-15-1900",
-        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/jony/2026-09-15-1900",
-        "summary": "Pop singer and songwriter JONY performs at Uber Eats Music Hall on 15 September 2026. The venue describes his music as emotional, R&B-influenced pop with international crossover reach.",
+        "sourceUrl": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164",
+        "ticketUrl": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164",
+        "summary": "Metric, Broken Social Scene and Stars bring the All The Feelings Tour to Columbiahalle on 19 September 2026. The Berlin concert is presented as a major triple-bill for Canadian indie music fans.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-djavan-2026",
+        "title": "Djavan — 50 years: The Greatest Hits",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 80,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/djavan_2026-09-25_20/",
+        "ticketUrl": "https://www.tempodrom.de/event/djavan_2026-09-25_20/tickets/",
+        "summary": "Brazilian singer-songwriter Djavan celebrates 50 years of his career at Tempodrom on 25 September 2026. The programme is billed as a greatest-hits tour dedicated to his classic repertoire.",
+        "genres": [
+          "latin",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-gegen-gear-2026",
+        "title": "Gegen Gear",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-12",
+        "importance": 78,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2446027",
+        "ticketUrl": "https://ra.co/events/2446027",
+        "summary": "Gegen’s queer, sex-positive KitKatClub takeover returns with a gear/fetish dresscode, multiple performance and harm-reduction elements, and a lineup including fka.m4a, Spikey Lee, Nymed, BOYCA, Buday and Mar/us.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -113,70 +167,71 @@
         ]
       },
       {
-        "id": "berlin-else-dj-koze-2026",
-        "title": "Else Season Closing x DJ Koze",
+        "id": "berlin-betriebsfeier-hoppetosse-2026",
+        "title": "23 Jahre Betriebsfeier",
         "type": "club-night",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 83,
-        "venueName": "Else",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-13",
+        "importance": 76,
+        "venueName": "Hoppetosse",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2372753",
-        "ticketUrl": "https://ra.co/events/2372753",
-        "summary": "Else’s 2026 season-closing party is headlined by DJ Koze on 19 September 2026. The event is listed as a house-focused all-day programme at the Treptower Park open-air venue.",
+        "sourceUrl": "https://ra.co/events/2364382",
+        "ticketUrl": "https://ra.co/events/2364382",
+        "summary": "A 36+ hour anniversary edition of the long-running Berlin Betriebsfeier on the MS Hoppetosse boat, celebrating its 23rd year with techno and house.",
         "genres": [
+          "techno",
           "house",
           "electronic"
         ]
       },
       {
-        "id": "berlin-automatic-noise-2026",
-        "title": "Automatic Noise Berlin",
-        "type": "festival",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 70,
-        "venueName": "Mikropol",
+        "id": "berlin-adam-folsom-2026",
+        "title": "ADAM Berlin — Folsom Europe Official Opening Party",
+        "type": "club-night",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 75,
+        "venueName": "Metropol",
         "venueId": null,
-        "sourceUrl": "https://mikropol-berlin.de/en/event/2026-09-19-automatic-noise-berlin/",
-        "ticketUrl": "https://shop.automaticmusic.eu",
-        "summary": "Automatic Noise Festival lands in Berlin on 19 September 2026 for its first city edition after six editions in Amsterdam. The confirmed shoegaze lineup features Mahogany, Resplandor, Attic Ocean and Part Garden.",
+        "sourceUrl": "https://ra.co/events/2415943",
+        "ticketUrl": "https://ra.co/events/2415943",
+        "summary": "ADAM Berlin returns to Metropol as the Folsom Europe official opening party on 10 September 2026. The confirmed lineup includes DJ Hell, Lady Starlight live, Arson Fire, Ruby and Goat Spokesperson.",
         "genres": [
-          "festival",
-          "pop"
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "berlin-metric-bss-stars-2026",
-        "title": "All The Feelings Tour with Metric, Broken Social Scene and Stars",
-        "type": "concert",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 80,
-        "venueName": "Columbiahalle",
+        "id": "berlin-balkanbeats-gretchen-2026",
+        "title": "BALKANBEATS - Robert Soko DJ-Set",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 75,
+        "venueName": "Gretchen",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164",
-        "ticketUrl": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164",
-        "summary": "Metric, Broken Social Scene and Stars bring the All The Feelings Tour to Columbiahalle on 19 September 2026. The Berlin concert is presented as a major triple-bill for Canadian indie music fans.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "berlin-sigur-ros-orchestral-2026",
-        "title": "Sigur Rós — The Orchestral Tour",
-        "type": "concert",
-        "startDate": "2026-09-20",
-        "endDate": "2026-09-21",
-        "importance": 88,
-        "venueName": "Uber Eats Music Hall",
-        "venueId": null,
-        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/sigur-ros",
-        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/sigur-ros",
-        "summary": "Sigur Rós perform two Berlin orchestral shows at Uber Eats Music Hall on 20 and 21 September 2026. The concerts feature the band with a 41-piece orchestra and choir, including music from ÁTTA and repertoire highlights.",
+        "sourceUrl": "https://ra.co/events/2442095",
+        "ticketUrl": "https://ra.co/events/2442095",
+        "summary": "Robert Soko brings the legendary BalkanBeats party series to Gretchen, connecting Balkan brass, Eastern European pop, breakbeats, hip-hop and electronica as a Berlin diaspora-club staple.",
         "genres": [
           "electronic",
-          "pop"
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-else-opus-yanamaste-2026",
+        "title": "Else x OPUS pres. Yanamaste (All Day Long)",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 74,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2407324",
+        "ticketUrl": "https://ra.co/events/2407324",
+        "summary": "Else and OPUS present an all-day-long Yanamaste session on 12 September 2026. The open-air-to-indoor event is listed as a techno programme with more artists to be announced.",
+        "genres": [
+          "techno"
         ]
       },
       {
@@ -197,21 +252,107 @@
         ]
       },
       {
-        "id": "berlin-djavan-2026",
-        "title": "Djavan — 50 years: The Greatest Hits",
-        "type": "concert",
-        "startDate": "2026-09-25",
-        "endDate": "2026-09-25",
-        "importance": 80,
-        "venueName": "Tempodrom",
+        "id": "berlin-mayhem-ost-2026",
+        "title": "MAYHEM x OST",
+        "type": "club-night",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-05",
+        "importance": 72,
+        "venueName": "OST",
         "venueId": null,
-        "sourceUrl": "https://www.tempodrom.de/event/djavan_2026-09-25_20/",
-        "ticketUrl": "https://www.tempodrom.de/event/djavan_2026-09-25_20/tickets/",
-        "summary": "Brazilian singer-songwriter Djavan celebrates 50 years of his career at Tempodrom on 25 September 2026. The programme is billed as a greatest-hits tour dedicated to his classic repertoire.",
+        "sourceUrl": "https://ra.co/events/2420285",
+        "ticketUrl": "https://ra.co/events/2420285",
+        "summary": "MAYHEM brings a hard-edged techno lineup to OST with ALT8, Krl Mx, L.zwo, Maudux, NYRA, SATYS FYRE and YOVA listed.",
         "genres": [
-          "latin",
-          "jazz",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-supa-club-2026",
+        "title": "SUPA CLUB",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 72,
+        "venueName": "Spindler & Klatt Berlin",
+        "venueId": null,
+        "sourceUrl": "https://rausgegangen.de/en/events/supa-club-0/",
+        "ticketUrl": "https://rausgegangen.de/en/events/supa-club-0/",
+        "summary": "A two-to-three-floor Berlin party at Spindler & Klatt focused on house, tech house, afro house and electro, listing Noel Holler, Thomas Lizzara, Tube & Berger, Nena Polap, Waikiki and more.",
+        "genres": [
+          "house",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "berlin-jony-2026",
+        "title": "JONY live at Uber Eats Music Hall",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 70,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/jony/2026-09-15-1900",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/jony/2026-09-15-1900",
+        "summary": "Pop singer and songwriter JONY performs at Uber Eats Music Hall on 15 September 2026. The venue describes his music as emotional, R&B-influenced pop with international crossover reach.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-automatic-noise-2026",
+        "title": "Automatic Noise Berlin",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 70,
+        "venueName": "Mikropol",
+        "venueId": null,
+        "sourceUrl": "https://mikropol-berlin.de/en/event/2026-09-19-automatic-noise-berlin/",
+        "ticketUrl": "https://shop.automaticmusic.eu",
+        "summary": "Automatic Noise Festival lands in Berlin on 19 September 2026 for its first city edition after six editions in Amsterdam. The confirmed shoegaze lineup features Mahogany, Resplandor, Attic Ocean and Part Garden.",
+        "genres": [
+          "festival",
           "pop"
+        ]
+      },
+      {
+        "id": "berlin-birgits-weekender-2026",
+        "title": "Birgits WEEKENDER",
+        "type": "club-night",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-06",
+        "importance": 70,
+        "venueName": "Birgit",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2427151",
+        "ticketUrl": "https://ra.co/events/2427151",
+        "summary": "A full weekend-format Birgit & Bier party running from Friday evening into Sunday morning, mixing open-air and clubnight floors across techno and house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-direkt-am-wasser-2026",
+        "title": "OPEN AIR DIREKT AM WASSER - FREE",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Gestrandet An Der Jannowitzbrücke",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2377084",
+        "ticketUrl": "https://ra.co/events/2377084",
+        "summary": "A donation/free daytime waterside house and deep-house open air by JYR, with Philippe Autuori, Mad Shivers b2b Hansen, Eloa, Robert Owens and Æ Problæm listed.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       }
     ]

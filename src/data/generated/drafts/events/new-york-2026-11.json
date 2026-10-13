@@ -2,100 +2,325 @@
   "slug": "new-york",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:13:57.064Z",
-  "responseId": "resp_0d652a15936790750069ff5cc1d0a081a3b0c6f1291717baf9",
-  "searchCalls": 14,
+  "generatedAt": "2026-10-13T02:39:38.472Z",
+  "responseId": "resp_037d7d9531b4b88c006acd990b1c7c87d088c6253240e76879+resp_0b4238d9d0145667006acd998c58ac87d0a39808665d4500e7",
+  "searchCalls": 33,
   "citations": [],
   "data": {
     "destinationSlug": "new-york",
     "month": 11,
     "year": 2026,
-    "notes": "Confirmed November 2026 programming is currently concert-led, with major arena pop/Latin tours, multi-night theater runs, and Jazz at Lincoln Center highlights more visible than club-festival announcements.",
+    "notes": "November 2026 in New York is led by heavyweight electronic programming in Brooklyn and Queens, with major arena R&B/Latin/pop dates and diaspora-rooted dance-floor parties filling out the month.",
     "events": [
       {
-        "id": "new-york-bad-gyal-terminal5-2026",
-        "title": "Bad Gyal — Más Cara World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-11-04",
-        "endDate": "2026-11-04",
-        "importance": 78,
-        "venueName": "Terminal 5",
+        "id": "new-york-time-warp-nyc-2026",
+        "title": "Time Warp NYC 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 94,
+        "venueName": "Duggal Greenhouse",
         "venueId": null,
-        "sourceUrl": "https://www.bowerypresents.com/shows/detail/1415798-bad-gyal",
-        "ticketUrl": "https://www.axs.com/events/1415798/bad-gyal-tickets",
-        "summary": "Bad Gyal brings the Más Cara World Tour 2026 to Terminal 5, with the source listing doors at 7:00 PM and show at 8:00 PM.",
+        "sourceUrl": "https://ra.co/events/2518700",
+        "ticketUrl": "https://ra.co/events/2518700",
+        "summary": "Time Warp returns to Brooklyn’s waterfront with a two-night warehouse edition at Duggal Greenhouse and the Agger Building. RA lists artists including Sven Väth, DVS1, Âme, Anetha, Indira Paganotto, VTSS, DJ Tennis b2b Red Axes, Franky Rizardo, KlangKuenstler, Chlär, KYRUH, and more.",
         "genres": [
-          "latin",
-          "pop",
+          "techno",
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "new-york-young-miko-barclays-2026",
-        "title": "Young Miko — Late Checkout Tour",
+        "id": "new-york-stevie-wonder-msg-2026",
+        "title": "Stevie Wonder: Songs In The Key of Life Performances 50th Anniversary Tour",
         "type": "concert",
-        "startDate": "2026-11-05",
-        "endDate": "2026-11-05",
-        "importance": 86,
-        "venueName": "Barclays Center",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 90,
+        "venueName": "Madison Square Garden",
         "venueId": null,
-        "sourceUrl": "https://www.barclayscenter.com/events/detail/young-miko",
-        "ticketUrl": "https://www.barclayscenter.com/events/detail/young-miko",
-        "summary": "Young Miko brings the Late Checkout Tour to Barclays Center in Brooklyn for an 8:00 PM arena show.",
+        "sourceUrl": "https://www.msg.com/events-tickets/stevie-wonder-madison-square-garden-november-2026/3B0064C5A0CF3D01",
+        "ticketUrl": "https://www.msg.com/events-tickets/stevie-wonder-madison-square-garden-november-2026/3B0064C5A0CF3D01",
+        "summary": "Stevie Wonder brings the Songs In The Key of Life Performances 50th Anniversary Tour to Madison Square Garden. MSG lists the concert for Thursday, November 19, 2026, at 8:00 PM.",
         "genres": [
-          "latin",
-          "hip-hop",
+          "r-and-b",
           "pop"
         ]
       },
       {
-        "id": "new-york-sammy-rae-paramount-2026",
-        "title": "Sammy Rae & The Friends with Melt",
+        "id": "new-york-john-summit-barclays-2026",
+        "title": "John Summit: CTRL ESCAPE Arena Tour",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 88,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/john-summit-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/john-summit-2026",
+        "summary": "John Summit brings the CTRL ESCAPE Arena Tour with Cassian and Jackie Hollander to Barclays Center for two nights. Barclays Center lists the dates as November 28 and 29, 2026, at 7:00 PM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-young-miko-late-checkout-2026",
+        "title": "Young Miko: Late Checkout Tour",
         "type": "concert",
         "startDate": "2026-11-05",
-        "endDate": "2026-11-06",
-        "importance": 72,
-        "venueName": "Brooklyn Paramount",
+        "endDate": "2026-11-05",
+        "importance": 84,
+        "venueName": "Barclays Center",
         "venueId": null,
-        "sourceUrl": "https://www.brooklynparamount.com/shows/calendar/2026-11",
-        "ticketUrl": "https://www.livenation.com/event/k7v17_djZG7IT1g/sammy-rae-the-friends-with-special-guest-melt",
-        "summary": "Brooklyn Paramount’s November calendar lists Sammy Rae & The Friends with special guest Melt on November 5 and November 6.",
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/young-miko",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/young-miko",
+        "summary": "Young Miko brings the Late Checkout Tour to Barclays Center in Brooklyn on November 5, 2026. The venue page lists an 8:00 PM start.",
         "genres": [
-          "pop",
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-mister-sunday-season-closer-2026",
+        "title": "Mister Sunday Season Closer: Eamon Harkin and Justin Carter",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 82,
+        "venueName": "Nowadays",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2503334",
+        "ticketUrl": "https://ra.co/events/2503334",
+        "summary": "Mister Sunday closes its outdoor season at Nowadays with residents Eamon Harkin and Justin Carter. The source lists the party for Sunday, November 1, 2026, from 15:00 to 21:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-jessie-reyez-barclays-2026",
+        "title": "Jessie Reyez: A Little Vengeance Tour",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 82,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/jessie-reyez-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/jessie-reyez-2026",
+        "summary": "Jessie Reyez brings A Little Vengeance Tour to Barclays Center in Brooklyn on November 19, 2026. The official venue page lists an 8:00 PM start.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-victoria-monet-msg-2026",
+        "title": "Victoria Monét: Frequency Of Love Tour",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-24",
+        "importance": 82,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/victoria-monet-infosys-theater-at-madison-square-garden-november-2026/3B0065238AD32241",
+        "ticketUrl": "https://www.msg.com/events-tickets/victoria-monet-infosys-theater-at-madison-square-garden-november-2026/3B0065238AD32241",
+        "summary": "Victoria Monét brings the Frequency Of Love Tour to the Infosys Theater at Madison Square Garden. MSG confirms Tuesday, November 24, 2026, at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-wrecked-november-2026",
+        "title": "WRECKED: Partok / Mike Servito / PEPIITA / Loren / Ron Like Hell / Ryan Smith",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 82,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://app.discotech.me/events/38293945-wrecked-partok-mike-servito-pepiita-loren-ron-like-hell-ryan-smith-at-basement",
+        "ticketUrl": "https://app.discotech.me/events/38293945-wrecked-partok-mike-servito-pepiita-loren-ron-like-hell-ryan-smith-at-basement",
+        "summary": "Wrecked, one of NYC's defining queer underground parties, takes over BASEMENT with Partok, Mike Servito, PEPIITA, Loren, Ron Like Hell and Ryan Smith.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-dax-j-knockdown-2026",
+        "title": "DAX J (Open to Close)",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 80,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2534689",
+        "ticketUrl": "https://ra.co/events/2534689",
+        "summary": "DAX J plays an open-to-close techno set in Knockdown Center’s Main Hall. RA lists the event for Saturday, November 14, 2026, from 22:00 to 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-autumn-lights-festival-2026",
+        "title": "Autumn Lights Festival",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 80,
+        "venueName": "Melrose Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2554506",
+        "ticketUrl": "https://ra.co/events/2554506",
+        "summary": "Autumn Lights returns to Melrose Ballroom for two nights across two stages with 20+ artists. The RA event text confirms November 20 and 21, 2026, with eight hours of music each night.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-pornceptual-basement-2026",
+        "title": "Pornceptual: The Lady Machine / Huamaniser / KONZ / LYDO / Curses / Kim Ann Foxman / Shaun J. Wright",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 80,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2553746",
+        "ticketUrl": "https://de.ra.co/events/2553746",
+        "summary": "Berlin's radical queer club-art platform Pornceptual returns for a full-venue BASEMENT takeover with techno in the main room and acid, synthwave and house in STUDIO.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-tratratrax-nonstop-2026",
+        "title": "TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 79,
+        "venueName": "Nowadays",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2549176",
+        "ticketUrl": "https://de.ra.co/events/2549176",
+        "summary": "A 24-hour Nowadays Nonstop edition with Colombia's TraTraTrax orbit—Verraco, BADSISTA, Nick León and more—connecting Latin bass, bass music and experimental club pressure.",
+        "genres": [
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-sith-secret-rendezvous-2026",
+        "title": "SITH: Secret Rendezvous - November 6th",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "TBA - Secret Manhattan Location",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2522981",
+        "ticketUrl": "https://ra.co/events/2522981",
+        "summary": "Soul In The Horn presents a secret-location Manhattan night with Natasha Diggs, Pete Rock, Donis, DJ Shannon, Operator Emz, Just Blaze, Joey Carvello, Misbehaviour, and $MoneyMike$. RA lists the event for Friday, November 6, 2026, from 22:00 to 03:00.",
+        "genres": [
+          "house",
+          "hip-hop",
           "r-and-b"
         ]
       },
       {
-        "id": "new-york-olafur-arnalds-townhall-2026",
-        "title": "Ólafur Arnalds at The Town Hall",
-        "type": "concert",
-        "startDate": "2026-11-04",
-        "endDate": "2026-11-05",
-        "importance": 74,
-        "venueName": "The Town Hall",
+        "id": "new-york-function-nastia-basement-2026",
+        "title": "Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagic",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 78,
+        "venueName": "BASEMENT",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/olafur-arnalds-tickets/artist/1532790?tt_scene=anchor_view",
-        "ticketUrl": "https://www.bowerypresents.com/shows/detail/1290138-olafur-arnalds",
-        "summary": "Ticketmaster lists Ólafur Arnalds for two New York shows at The Town Hall on November 4 and November 5, 2026.",
+        "sourceUrl": "https://ra.co/events/2553762",
+        "ticketUrl": "https://ra.co/events/2553762",
+        "summary": "BASEMENT hosts Function’s 30-year celebration with a b2b alongside Nastia Reigel plus NEUX, Juana, Cormac, x3butterfly, and Will Automagic. RA lists the event for Saturday, November 21, 2026, from 22:30 to 07:00.",
         "genres": [
-          "electronic",
-          "jazz"
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "new-york-marsalis-swinging-cities-2026",
-        "title": "Marsalis’ Swinging Cities — Jazz at Lincoln Center Orchestra with Wynton Marsalis",
-        "type": "concert",
-        "startDate": "2026-11-06",
-        "endDate": "2026-11-07",
-        "importance": 82,
-        "venueName": "Frederick P. Rose Hall",
+        "id": "new-york-no-way-back-nonstop-2026",
+        "title": "The Bunker presents: No Way Back Nonstop",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 78,
+        "venueName": "Nowadays",
         "venueId": null,
-        "sourceUrl": "https://ticketing.jazz.org/20624/20626",
-        "ticketUrl": "https://ticketing.jazz.org/20624/20626",
-        "summary": "Jazz at Lincoln Center presents Wynton Marsalis and the Jazz at Lincoln Center Orchestra in a program featuring Vitoria Suite, Shanghai Suite, and Marciac Suite across November 6–7.",
+        "sourceUrl": "https://es.ra.co/events/2549177",
+        "ticketUrl": "https://es.ra.co/events/2549177",
+        "summary": "The Bunker and Interdimensional Transmissions expand No Way Back into a 24-hour Nowadays Nonstop edition with Derek Plaslaiko, Bryan Kasenic, Patrick Russell, Carlos Souffront, Erika, BMG, Mike Servito and Scott Zacharias.",
         "genres": [
-          "jazz"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-piv-records-2026",
+        "title": "PIV Records w. Prunk + Kellie Allen, MADVILLA, & More",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "H0L0",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531302",
+        "ticketUrl": "https://ra.co/events/2531302",
+        "summary": "Amsterdam house imprint and touring party brand PIV lands in New York with Prunk, Kellie Allen, MADVILLA, m.O.N.R.O.E. and a second room of local selectors.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-joshwa-99-scott-2026",
+        "title": "Joshwa All Night Long Birthday Set",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 76,
+        "venueName": "99 Scott Ave",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2481885",
+        "ticketUrl": "https://ra.co/events/2481885",
+        "summary": "Joshwa plays an extended open-to-close birthday set at 99 Scott Ave. RA confirms Saturday, November 21, 2026, from 22:00 to 04:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-soul-in-the-horn-november-2026",
+        "title": "Soul in the Horn ft. Natasha Diggs & Friends - November 25",
+        "type": "club-night",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 76,
+        "venueName": "The Chocolate Factory",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2482571",
+        "ticketUrl": "https://ra.co/events/2482571",
+        "summary": "Soul In The Horn returns to The Chocolate Factory with Natasha Diggs and friends for a Thanksgiving-week Brooklyn dance-floor session. RA lists the date as Wednesday, November 25, 2026, from 22:00 to 05:00.",
+        "genres": [
+          "house",
+          "r-and-b",
+          "hip-hop"
         ]
       },
       {
@@ -113,56 +338,6 @@
         "genres": [
           "pop",
           "jazz"
-        ]
-      },
-      {
-        "id": "new-york-bunbury-kings-theatre-2026",
-        "title": "Bunbury — Nuevas Mutaciones Tour 2026",
-        "type": "concert",
-        "startDate": "2026-11-12",
-        "endDate": "2026-11-12",
-        "importance": 76,
-        "venueName": "Kings Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.livenation.com/event/16dZZ_AZKG7gQEu/bunbury-nuevas-mutaciones-tour-2026",
-        "ticketUrl": "https://www.livenation.com/event/16dZZ_AZKG7gQEu/bunbury-nuevas-mutaciones-tour-2026",
-        "summary": "Spanish rock artist Enrique Bunbury brings the Nuevas Mutaciones Tour 2026 to Kings Theatre in Brooklyn at 8:00 PM.",
-        "genres": [
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "new-york-eddie-palmieri-jalc-2026",
-        "title": "Eddie Palmieri Experience: An All-Star Celebration",
-        "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-14",
-        "importance": 83,
-        "venueName": "Frederick P. Rose Hall",
-        "venueId": null,
-        "sourceUrl": "https://ticketing.jazz.org/20627",
-        "ticketUrl": "https://ticketing.jazz.org/20627",
-        "summary": "Jazz at Lincoln Center honors Eddie Palmieri with an all-star celebration led by Palmieri alumni including Louis Fouché, Luques Curtis, Brian Lynch, Conrad Herwig, Herman Olivera, and Nelson Gonzalez.",
-        "genres": [
-          "latin",
-          "jazz"
-        ]
-      },
-      {
-        "id": "new-york-il-volo-msg-2026",
-        "title": "Il Volo at Infosys Theater at MSG",
-        "type": "concert",
-        "startDate": "2026-11-17",
-        "endDate": "2026-11-17",
-        "importance": 80,
-        "venueName": "Infosys Theater at MSG",
-        "venueId": null,
-        "sourceUrl": "https://www.msg.com/events-tickets/il-volo-infosys-theater-at-madison-square-garden-november-2026/3B00648781071B9A",
-        "ticketUrl": "https://www.msg.com/events-tickets/il-volo-infosys-theater-at-madison-square-garden-november-2026/3B00648781071B9A",
-        "summary": "Il Volo performs at Infosys Theater at Madison Square Garden, with MSG listing an 8:00 PM show and 7:00 PM doors.",
-        "genres": [
-          "pop"
         ]
       },
       {
@@ -198,6 +373,73 @@
         ]
       },
       {
+        "id": "new-york-eddie-palmieri-jalc-2026",
+        "title": "Eddie Palmieri Experience: An All-Star Celebration",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 83,
+        "venueName": "Frederick P. Rose Hall",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20627",
+        "ticketUrl": "https://ticketing.jazz.org/20627",
+        "summary": "Jazz at Lincoln Center honors Eddie Palmieri with an all-star celebration led by Palmieri alumni including Louis Fouché, Luques Curtis, Brian Lynch, Conrad Herwig, Herman Olivera, and Nelson Gonzalez.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-marsalis-swinging-cities-2026",
+        "title": "Marsalis’ Swinging Cities — Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Frederick P. Rose Hall",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20624/20626",
+        "ticketUrl": "https://ticketing.jazz.org/20624/20626",
+        "summary": "Jazz at Lincoln Center presents Wynton Marsalis and the Jazz at Lincoln Center Orchestra in a program featuring Vitoria Suite, Shanghai Suite, and Marciac Suite across November 6–7.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-il-volo-msg-2026",
+        "title": "Il Volo at Infosys Theater at MSG",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 80,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/il-volo-infosys-theater-at-madison-square-garden-november-2026/3B00648781071B9A",
+        "ticketUrl": "https://www.msg.com/events-tickets/il-volo-infosys-theater-at-madison-square-garden-november-2026/3B00648781071B9A",
+        "summary": "Il Volo performs at Infosys Theater at Madison Square Garden, with MSG listing an 8:00 PM show and 7:00 PM doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-bad-gyal-terminal5-2026",
+        "title": "Bad Gyal — Más Cara World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 78,
+        "venueName": "Terminal 5",
+        "venueId": null,
+        "sourceUrl": "https://www.bowerypresents.com/shows/detail/1415798-bad-gyal",
+        "ticketUrl": "https://www.axs.com/events/1415798/bad-gyal-tickets",
+        "summary": "Bad Gyal brings the Más Cara World Tour 2026 to Terminal 5, with the source listing doors at 7:00 PM and show at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
         "id": "new-york-aitana-paramount-2026",
         "title": "Aitana at Brooklyn Paramount",
         "type": "concert",
@@ -212,6 +454,108 @@
         "genres": [
           "latin",
           "pop"
+        ]
+      },
+      {
+        "id": "new-york-bunbury-kings-theatre-2026",
+        "title": "Bunbury — Nuevas Mutaciones Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 76,
+        "venueName": "Kings Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/16dZZ_AZKG7gQEu/bunbury-nuevas-mutaciones-tour-2026",
+        "ticketUrl": "https://www.livenation.com/event/16dZZ_AZKG7gQEu/bunbury-nuevas-mutaciones-tour-2026",
+        "summary": "Spanish rock artist Enrique Bunbury brings the Nuevas Mutaciones Tour 2026 to Kings Theatre in Brooklyn at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-olafur-arnalds-townhall-2026",
+        "title": "Ólafur Arnalds at The Town Hall",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-05",
+        "importance": 74,
+        "venueName": "The Town Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/olafur-arnalds-tickets/artist/1532790?tt_scene=anchor_view",
+        "ticketUrl": "https://www.bowerypresents.com/shows/detail/1290138-olafur-arnalds",
+        "summary": "Ticketmaster lists Ólafur Arnalds for two New York shows at The Town Hall on November 4 and November 5, 2026.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-sammy-rae-paramount-2026",
+        "title": "Sammy Rae & The Friends with Melt",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-06",
+        "importance": 72,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynparamount.com/shows/calendar/2026-11",
+        "ticketUrl": "https://www.livenation.com/event/k7v17_djZG7IT1g/sammy-rae-the-friends-with-special-guest-melt",
+        "summary": "Brooklyn Paramount’s November calendar lists Sammy Rae & The Friends with special guest Melt on November 5 and November 6.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-sid-sriram-julius-rodriguez-2026",
+        "title": "Sid Sriram with Julius Rodriguez",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-05",
+        "importance": 70,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/sid-sriram-tickets/artist/2646095",
+        "ticketUrl": "https://www.ticketmaster.com/sid-sriram-tickets/artist/2646095",
+        "summary": "A two-night Blue Note run pairing South Asian diaspora vocalist Sid Sriram with NYC jazz pianist Julius Rodriguez, bridging R&B, jazz and soul in an intimate club setting.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-desire-johnny-jewel-2026",
+        "title": "Desire and Johnny Jewel",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Market Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43239846-desire-at-market-hotel",
+        "ticketUrl": "https://www.songkick.com/concerts/43239846-desire-at-market-hotel",
+        "summary": "Cult Italians Do It Better synth-pop/electronic figureheads Desire and Johnny Jewel play Market Hotel, a Brooklyn date likely to draw the city’s indie-dance and dark disco crowd.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-club-baile-2026",
+        "title": "Club Baile ft. Lil Zé, Papi Weli, Powla",
+        "type": "club-night",
+        "startDate": "2026-11-03",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Pianos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2313346",
+        "ticketUrl": null,
+        "summary": "Free late-night Brazilian baile funk and club session at Pianos with Lil Zé, Papi Weli, Powla and live percussion from Meia Noite, representing NYC’s Brazilian party circuit.",
+        "genres": [
+          "latin",
+          "electronic"
         ]
       }
     ]

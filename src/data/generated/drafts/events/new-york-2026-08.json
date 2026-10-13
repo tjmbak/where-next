@@ -2,9 +2,9 @@
   "slug": "new-york",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:13:02.866Z",
-  "responseId": "resp_05975af9d1ce74f90069ff5c90dfc48194a808640d9ee6ad30",
-  "searchCalls": 15,
+  "generatedAt": "2026-05-30T18:39:14.836Z",
+  "responseId": "augment:resp_07ca874519e66bd9006a1b2e35cb24819bbcd10405c3dd8f54",
+  "searchCalls": 18,
   "citations": [],
   "data": {
     "destinationSlug": "new-york",
@@ -12,6 +12,74 @@
     "year": 2026,
     "notes": "August 2026 is already anchored by major open-air electronic bookings in Brooklyn and Randall’s Island, plus arena-scale pop/R&B residencies in the NYC metro area.",
     "events": [
+      {
+        "id": "new-york-harry-styles-msg-2026",
+        "title": "Harry Styles: Together, Together at Madison Square Garden",
+        "type": "residency",
+        "startDate": "2026-08-26",
+        "endDate": "2026-08-26",
+        "importance": 94,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/harry-styles-tickets/artist/2366444?venueId=483329",
+        "ticketUrl": "https://www.ticketmaster.com/harry-styles-tickets/artist/2366444?venueId=483329",
+        "summary": "Harry Styles opens his Together, Together Madison Square Garden run on August 26, 2026, with Jamie xx listed as support on ticketing pages. Ticketmaster confirms multiple August MSG dates, including August 26, 28, and 29.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-bruno-mars-metlife-2026",
+        "title": "Bruno Mars: The Romantic Tour at MetLife Stadium",
+        "type": "concert",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-26",
+        "importance": 93,
+        "venueName": "MetLife Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.metlifestadium.com/events/detail/bruno-mars-the-romantic-tour",
+        "ticketUrl": "https://www.ticketmaster.com/bruno-mars-tickets/artist/1466801?venueId=1233",
+        "summary": "Bruno Mars brings The Romantic Tour to the NYC metro area for four MetLife Stadium shows on August 21, 22, 25, and 26, 2026. The venue page confirms the dates, 7:00 PM showtimes, and on-sale status.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-zedd-in-the-park-2026",
+        "title": "Zedd In The Park NYC",
+        "type": "festival",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-15",
+        "importance": 90,
+        "venueName": "Randall’s Island Park",
+        "venueId": null,
+        "sourceUrl": "https://www.zitp.com/",
+        "ticketUrl": "https://www.zitp.com/",
+        "summary": "Zedd In The Park brings a two-day electronic event curated by Zedd to Randall’s Island Park on August 14–15, 2026. The official site confirms the dates, daily hours, and VIP/ticketing information.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-nomad-jazz-festival-2026",
+        "title": "NoMad Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-08",
+        "importance": 86,
+        "venueName": "NoMad / Flatiron / Madison Square Park",
+        "venueId": null,
+        "sourceUrl": "https://nomadjazzfestival.com/nomad-jazz-festival-returns-august-2-8/",
+        "ticketUrl": null,
+        "summary": "NoMad Jazz Festival returns August 2–8, 2026, with free mainstage performances scheduled for August 7 and 8 in Madison Square Park. The announcement confirms a week of jazz programming across NoMad and Flatiron, with lineup details still to come.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
       {
         "id": "new-york-sara-landry-under-k-2026",
         "title": "Sara Landry at Under the K Bridge Park",
@@ -47,54 +115,123 @@
         ]
       },
       {
-        "id": "new-york-nomad-jazz-festival-2026",
-        "title": "NoMad Jazz Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-02",
-        "endDate": "2026-08-08",
-        "importance": 86,
-        "venueName": "NoMad / Flatiron / Madison Square Park",
+        "id": "new-york-alesso-bat-2026",
+        "title": "Alesso at Brooklyn Army Terminal",
+        "type": "club-night",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 82,
+        "venueName": "Brooklyn Army Terminal - Pier 4",
         "venueId": null,
-        "sourceUrl": "https://nomadjazzfestival.com/nomad-jazz-festival-returns-august-2-8/",
-        "ticketUrl": null,
-        "summary": "NoMad Jazz Festival returns August 2–8, 2026, with free mainstage performances scheduled for August 7 and 8 in Madison Square Park. The announcement confirms a week of jazz programming across NoMad and Flatiron, with lineup details still to come.",
+        "sourceUrl": "https://dice.fm/event/7dp5bp-alesso-22nd-aug-brooklyn-army-terminal-pier-4-new-york-city-tickets",
+        "ticketUrl": "https://dice.fm/event/7dp5bp-alesso-22nd-aug-brooklyn-army-terminal-pier-4-new-york-city-tickets",
+        "summary": "Alesso headlines an open-air Project 91 event at Brooklyn Army Terminal - Pier 4 on August 22, 2026. The DICE listing confirms the 3:00 PM start, venue, promoter, and 21+ status.",
         "genres": [
-          "jazz",
-          "festival"
+          "house",
+          "electronic",
+          "pop"
         ]
       },
       {
-        "id": "new-york-claude-vonstroke-ruins-2026",
-        "title": "Claude VonStroke in The Ruins",
+        "id": "new-york-cloonee-hellbent-2026",
+        "title": "Teksupport: Cloonee (Hellbent)",
+        "type": "club-night",
+        "startDate": "2026-08-15",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Brooklyn Army Terminal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386213",
+        "ticketUrl": "https://ra.co/events/2386213",
+        "summary": "Teksupport hosts Cloonee’s Hellbent party at Brooklyn Army Terminal, a large-scale waterfront tech-house event from one of NYC’s defining electronic promoters.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-seth-loco-victor-pacha-2026",
+        "title": "Seth Troxler, Loco Dice and Victor Calderone",
+        "type": "club-night",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-22",
+        "importance": 82,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2449310",
+        "ticketUrl": "https://ra.co/events/2449310",
+        "summary": "Pacha New York books Seth Troxler, Loco Dice, and Victor Calderone for an all-night house and techno summit pairing international selectors with a New York veteran.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-charlotte-de-witte-2026",
+        "title": "Charlotte de Witte",
         "type": "club-night",
         "startDate": "2026-08-07",
-        "endDate": "2026-08-07",
-        "importance": 74,
+        "endDate": "2026-08-08",
+        "importance": 80,
         "venueName": "Knockdown Center",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2426894",
-        "ticketUrl": "https://ra.co/events/2426894",
-        "summary": "Claude VonStroke plays The Ruins at Knockdown Center on August 7, 2026. Resident Advisor lists the event as a house-focused show tied to his new LP Wrong Number.",
+        "sourceUrl": "https://ra.co/events/2432019",
+        "ticketUrl": "https://ra.co/events/2432019",
+        "summary": "Charlotte de Witte headlines Knockdown Center’s Main Hall after a prior instant-sellout Ruins takeover, making this one of August’s major techno club-room moments.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-josh-baker-day-night-2026",
+        "title": "Josh Baker: DAY AND NIGHT",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 78,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2410465",
+        "ticketUrl": "https://ra.co/events/2410465",
+        "summary": "UK tech-house selector Josh Baker leads a day-into-night takeover across The Ruins and Main Hall, with separate day, night, and combined tickets for a full extended dance-floor run.",
         "genres": [
           "house",
           "electronic"
         ]
       },
       {
-        "id": "new-york-carlita-teksupport-2026",
-        "title": "Teksupport: Carlita (Extended Set)",
+        "id": "new-york-gerd-janson-nursery-2026",
+        "title": "The Nursery: Gerd Janson, Ron Like Hell",
         "type": "club-night",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-07",
-        "importance": 72,
-        "venueName": "Sunset Park Rooftop",
+        "startDate": "2026-08-23",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "public records",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2428382",
-        "ticketUrl": "https://ra.co/events/2428382",
-        "summary": "Teksupport hosts Carlita for an extended set at Sunset Park Rooftop on August 7, 2026. The Resident Advisor listing confirms the venue, promoter, and house genre billing.",
+        "sourceUrl": "https://ra.co/events/2412469",
+        "ticketUrl": "https://ra.co/events/2412469",
+        "summary": "Running Back boss Gerd Janson joins Ron Like Hell at public records’ outdoor Nursery, a strong Sunday house/techno booking for travelers chasing open-air selector culture.",
         "genres": [
           "house",
-          "electronic"
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-soul-in-the-horn-2026",
+        "title": "Soul in the Horn ft. Natasha Diggs & Friends - August 21",
+        "type": "club-night",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-22",
+        "importance": 77,
+        "venueName": "99 Scott Ave",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2394358",
+        "ticketUrl": "https://ra.co/events/2394358",
+        "summary": "Natasha Diggs brings Soul in the Horn to 99 Scott, blending house, hip-hop, disco, soul, and rare grooves in a Brooklyn edition of her influential live/DJ culture platform.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "r-and-b",
+          "jazz"
         ]
       },
       {
@@ -115,72 +252,69 @@
         ]
       },
       {
-        "id": "new-york-zedd-in-the-park-2026",
-        "title": "Zedd In The Park NYC",
-        "type": "festival",
-        "startDate": "2026-08-14",
-        "endDate": "2026-08-15",
-        "importance": 90,
-        "venueName": "Randall’s Island Park",
-        "venueId": null,
-        "sourceUrl": "https://www.zitp.com/",
-        "ticketUrl": "https://www.zitp.com/",
-        "summary": "Zedd In The Park brings a two-day electronic event curated by Zedd to Randall’s Island Park on August 14–15, 2026. The official site confirms the dates, daily hours, and VIP/ticketing information.",
-        "genres": [
-          "electronic",
-          "house",
-          "pop"
-        ]
-      },
-      {
-        "id": "new-york-harry-styles-msg-2026",
-        "title": "Harry Styles: Together, Together at Madison Square Garden",
-        "type": "residency",
-        "startDate": "2026-08-26",
-        "endDate": "2026-08-26",
-        "importance": 94,
-        "venueName": "Madison Square Garden",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/harry-styles-tickets/artist/2366444?venueId=483329",
-        "ticketUrl": "https://www.ticketmaster.com/harry-styles-tickets/artist/2366444?venueId=483329",
-        "summary": "Harry Styles opens his Together, Together Madison Square Garden run on August 26, 2026, with Jamie xx listed as support on ticketing pages. Ticketmaster confirms multiple August MSG dates, including August 26, 28, and 29.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "new-york-bruno-mars-metlife-2026",
-        "title": "Bruno Mars: The Romantic Tour at MetLife Stadium",
-        "type": "concert",
-        "startDate": "2026-08-21",
-        "endDate": "2026-08-26",
-        "importance": 93,
-        "venueName": "MetLife Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.metlifestadium.com/events/detail/bruno-mars-the-romantic-tour",
-        "ticketUrl": "https://www.ticketmaster.com/bruno-mars-tickets/artist/1466801?venueId=1233",
-        "summary": "Bruno Mars brings The Romantic Tour to the NYC metro area for four MetLife Stadium shows on August 21, 22, 25, and 26, 2026. The venue page confirms the dates, 7:00 PM showtimes, and on-sale status.",
-        "genres": [
-          "pop",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "new-york-alesso-bat-2026",
-        "title": "Alesso at Brooklyn Army Terminal",
+        "id": "new-york-soul-summit-nursery-2026",
+        "title": "The Nursery: Soul Summit All Day Long",
         "type": "club-night",
-        "startDate": "2026-08-22",
-        "endDate": "2026-08-22",
-        "importance": 82,
-        "venueName": "Brooklyn Army Terminal - Pier 4",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "public records",
         "venueId": null,
-        "sourceUrl": "https://dice.fm/event/7dp5bp-alesso-22nd-aug-brooklyn-army-terminal-pier-4-new-york-city-tickets",
-        "ticketUrl": "https://dice.fm/event/7dp5bp-alesso-22nd-aug-brooklyn-army-terminal-pier-4-new-york-city-tickets",
-        "summary": "Alesso headlines an open-air Project 91 event at Brooklyn Army Terminal - Pier 4 on August 22, 2026. The DICE listing confirms the 3:00 PM start, venue, promoter, and 21+ status.",
+        "sourceUrl": "https://ra.co/events/2412434",
+        "ticketUrl": "https://ra.co/events/2412434",
+        "summary": "Brooklyn institution Soul Summit takes over public records’ outdoor Nursery for an all-day soulful house session—one of the city’s most enduring Black house-music gatherings.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-claude-vonstroke-ruins-2026",
+        "title": "Claude VonStroke in The Ruins",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 74,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426894",
+        "ticketUrl": "https://ra.co/events/2426894",
+        "summary": "Claude VonStroke plays The Ruins at Knockdown Center on August 7, 2026. Resident Advisor lists the event as a house-focused show tied to his new LP Wrong Number.",
         "genres": [
           "house",
-          "electronic",
-          "pop"
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-oguz-guests-2026",
+        "title": "OGUZ & Guests",
+        "type": "club-night",
+        "startDate": "2026-08-09",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Superior Ingredients",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2411240",
+        "ticketUrl": "https://ra.co/events/2411240",
+        "summary": "GRAY-AREA books Dutch-Turkish techno artist OGUZ for a daytime rooftop session with Medina and JSMN, bringing high-energy European techno into a summer Brooklyn setting.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-carlita-teksupport-2026",
+        "title": "Teksupport: Carlita (Extended Set)",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 72,
+        "venueName": "Sunset Park Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2428382",
+        "ticketUrl": "https://ra.co/events/2428382",
+        "summary": "Teksupport hosts Carlita for an extended set at Sunset Park Rooftop on August 7, 2026. The Resident Advisor listing confirms the venue, promoter, and house genre billing.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {

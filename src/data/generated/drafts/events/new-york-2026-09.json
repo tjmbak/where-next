@@ -2,9 +2,9 @@
   "slug": "new-york",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:13:17.747Z",
-  "responseId": "resp_0c4163e6921415410069ff5c9671908195a368ad373f7e4e8d",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:38:36.027Z",
+  "responseId": "augment:resp_053b2a820c3629f0006a1b2e3bfb808198a33c53bf5235294d",
+  "searchCalls": 12,
   "citations": [],
   "data": {
     "destinationSlug": "new-york",
@@ -80,23 +80,6 @@
         ]
       },
       {
-        "id": "new-york-agape-festival-2026",
-        "title": "ÄGAPĒ Festival 2026",
-        "type": "festival",
-        "startDate": "2026-09-05",
-        "endDate": "2026-09-06",
-        "importance": 78,
-        "venueName": "Industry City",
-        "venueId": null,
-        "sourceUrl": "https://agape-festival.com/",
-        "ticketUrl": "https://agape-festival.com/",
-        "summary": "ÄGAPĒ Festival is confirmed for September 5–6, 2026 at Industry City in Brooklyn. The official page describes a two-day techno program across indoor and outdoor stages with 20 artists.",
-        "genres": [
-          "techno",
-          "electronic"
-        ]
-      },
-      {
         "id": "new-york-robyn-barclays-2026",
         "title": "Robyn: the sexistential tour",
         "type": "concert",
@@ -114,6 +97,24 @@
         ]
       },
       {
+        "id": "new-york-fabric-resolute-2026",
+        "title": "fabric New York: Jeff Mills, Ben UFO, Helena Hauff, x3butterfly, Shvili + more TBA",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 84,
+        "venueName": "Under the K Bridge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2418732",
+        "ticketUrl": "https://ra.co/events/2418732",
+        "summary": "London club institution fabric links with ReSolute for its first New York audiovisual takeover, pairing Jeff Mills, Ben UFO, Helena Hauff and local/underground support in a large-scale Brooklyn setting.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
         "id": "new-york-weezer-barclays-2026",
         "title": "Weezer: The Gathering",
         "type": "concert",
@@ -125,22 +126,6 @@
         "sourceUrl": "https://www.barclayscenter.com/events/detail/weezer-2026",
         "ticketUrl": "https://www.barclayscenter.com/events/detail/weezer-2026",
         "summary": "Weezer brings WEEZER: The Gathering to Barclays Center on September 30, 2026. The Barclays Center listing confirms The Shins and Silversun Pickups as support.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "new-york-liz-phair-sleater-kinney-bric-2026",
-        "title": "Liz Phair & Sleater-Kinney: The Flannel and The Fury 2026",
-        "type": "concert",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 77,
-        "venueName": "Lena Horne Bandshell",
-        "venueId": null,
-        "sourceUrl": "https://bricartsmedia.org/event/benefit-show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/",
-        "ticketUrl": "https://bricartsmedia.org/event/benefit-show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/",
-        "summary": "Liz Phair and Sleater-Kinney play a ticketed BRIC Celebrate Brooklyn! benefit concert on September 19, 2026. BRIC confirms doors at 6 PM and showtime at 7 PM at the Lena Horne Bandshell.",
         "genres": [
           "pop"
         ]
@@ -181,6 +166,92 @@
         ]
       },
       {
+        "id": "new-york-black-coffee-pacha-2026",
+        "title": "Black Coffee at Pacha New York",
+        "type": "club-night",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-07",
+        "importance": 80,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2442816",
+        "ticketUrl": "https://ra.co/events/2442816",
+        "summary": "Black Coffee brings a deep Afro-house and soulful electronic session to Pacha New York as part of a summer run, making this a major diaspora-rooted club event for the month.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-agape-festival-2026",
+        "title": "ÄGAPĒ Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 78,
+        "venueName": "Industry City",
+        "venueId": null,
+        "sourceUrl": "https://agape-festival.com/",
+        "ticketUrl": "https://agape-festival.com/",
+        "summary": "ÄGAPĒ Festival is confirmed for September 5–6, 2026 at Industry City in Brooklyn. The official page describes a two-day techno program across indoor and outdoor stages with 20 artists.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-house-of-grooves-2026",
+        "title": "House Of Grooves: Eli Escobar All Night + Sissies Of Mercy",
+        "type": "residency",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-05",
+        "importance": 78,
+        "venueName": "House of Yes",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/house-of-grooves-september-4-2026",
+        "ticketUrl": "https://shotgun.live/en/events/house-of-grooves-september-4-2026",
+        "summary": "Eli Escobar’s long-running NYC all-night House Of Grooves residency returns to House of Yes with Sissies Of Mercy in the Onyx Room, a strong local dance-floor institution rather than a mainstream concert booking.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-teksupport-mau-p-friday-2026",
+        "title": "Teksupport: Mau P (Friday)",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Brooklyn Army Terminal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2370377",
+        "ticketUrl": "https://ra.co/events/2370377",
+        "summary": "Teksupport brings Mau P, Joseph Capriati and Quest to Brooklyn Army Terminal for a large-format daytime techno/house event from one of NYC’s defining electronic promoters.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-liz-phair-sleater-kinney-bric-2026",
+        "title": "Liz Phair & Sleater-Kinney: The Flannel and The Fury 2026",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 77,
+        "venueName": "Lena Horne Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://bricartsmedia.org/event/benefit-show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/",
+        "ticketUrl": "https://bricartsmedia.org/event/benefit-show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/",
+        "summary": "Liz Phair and Sleater-Kinney play a ticketed BRIC Celebrate Brooklyn! benefit concert on September 19, 2026. BRIC confirms doors at 6 PM and showtime at 7 PM at the Lena Horne Bandshell.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "new-york-ricardo-montaner-radio-city-2026",
         "title": "Ricardo Montaner: El Último Regreso Tour",
         "type": "concert",
@@ -198,6 +269,24 @@
         ]
       },
       {
+        "id": "new-york-sasha-digweed-2026",
+        "title": "Sasha & John Digweed",
+        "type": "club-night",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-26",
+        "importance": 76,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426901",
+        "ticketUrl": "https://ra.co/events/2426901",
+        "summary": "Sasha & John Digweed return to Knockdown Center’s Main Hall for a late-night progressive house/trance/techno session, a legacy club pairing still relevant to dance-music travelers.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
         "id": "new-york-pat-metheny-beacon-2026",
         "title": "Pat Metheny: Side-Eye III+",
         "type": "concert",
@@ -211,6 +300,58 @@
         "summary": "Pat Metheny brings the Side-Eye III+ Tour to the Beacon Theatre on September 26, 2026. The official MSG listing confirms the 8 PM performance time.",
         "genres": [
           "jazz"
+        ]
+      },
+      {
+        "id": "new-york-vault-maz-2026",
+        "title": "VAULT presents: MAZ [Open to Close]",
+        "type": "club-night",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-28",
+        "importance": 72,
+        "venueName": "Classic Car Club Manhattan",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2252164",
+        "ticketUrl": "https://ra.co/events/2252164",
+        "summary": "VAULT brings Brazilian Afro/deep-house artist Maz for an open-to-close night in a members-club setting, framed as an intimate cultural escape rather than a standard club booking.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-nitefreak-hinde-2026",
+        "title": "Nitefreak presents HiNDE",
+        "type": "club-night",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-19",
+        "importance": 72,
+        "venueName": "99 Scott Ave",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2421571",
+        "ticketUrl": "https://ra.co/events/2421571",
+        "summary": "Zimbabwean Afro-house artist Nitefreak brings his HiNDE cultural platform to 99 Scott, connecting African electronic sounds with NYC’s warehouse-adjacent club circuit.",
+        "genres": [
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-nursery-benji-b-2026",
+        "title": "The Nursery: Benji B, Nabihah Iqbal [DJ]",
+        "type": "club-night",
+        "startDate": "2026-09-13",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "public records",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412484",
+        "ticketUrl": "https://ra.co/events/2412484",
+        "summary": "Public Records’ Sunday Nursery series brings Benji B and Nabihah Iqbal for an afternoon/evening house session, a tasteful selector-led booking for travelers tracking NYC’s deeper club circuit.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       }
     ]

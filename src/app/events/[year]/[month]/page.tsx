@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
-import { MONTHS, getMonthLabel } from "@/data/taxonomy";
-import { DESTINATIONS, EVENTS, getVenuesForDestination } from "@/data/music-travel";
+import { MONTHS, SUPPORTED_YEARS, getMonthLabel, yearQueryFor } from "@/data/taxonomy";
+import { DESTINATIONS, getEventsForYear, getVenuesForDestination } from "@/data/music-travel";
 import {
   breadcrumbJsonLd,
   eventToJsonLd,
@@ -13,11 +13,12 @@ import {
 } from "@/lib/structured-data";
 import { ogImageUrl } from "@/lib/og";
 import type { MonthNumber } from "@/types/content";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 type RouteParams = { year: string; month: string };
-type PageProps = { params: Promise<RouteParams> };
 
-const SUPPORTED_YEARS = [2025, 2026, 2027];
+export const revalidate = 3600;
+type PageProps = { params: Promise<RouteParams> };
 
 function monthSlug(month: MonthNumber) {
   return getMonthLabel(month).toLowerCase();
@@ -25,6 +26,14 @@ function monthSlug(month: MonthNumber) {
 
 function parseMonthSlug(value: string): MonthNumber | null {
   const found = MONTHS.find((m) => m.label.toLowerCase() === value.toLowerCase());
+  return found ? found.value : null;
+}
+
+function parseMonthLoose(value: string): MonthNumber | null {
+  const lower = value.toLowerCase();
+  const n = Number(lower);
+  if (Number.isInteger(n) && n >= 1 && n <= 12) return n as MonthNumber;
+  const found = MONTHS.find((m) => m.shortLabel.toLowerCase() === lower.slice(0, 3));
   return found ? found.value : null;
 }
 
@@ -75,7 +84,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 function eventsInMonth(month: MonthNumber, year: number) {
-  return EVENTS.filter((event) => {
+  return getEventsForYear(year).filter((event) => {
     const start = new Date(event.startDate);
     if (Number.isNaN(start.getTime())) return false;
     const end = event.endDate ? new Date(event.endDate) : start;
@@ -94,6 +103,10 @@ export default async function EventsArchivePage({ params }: PageProps) {
   const { year: yearParam, month: monthParam } = await params;
   const year = parseYear(yearParam);
   const month = parseMonthSlug(monthParam);
+  if (year && !month) {
+    const loose = parseMonthLoose(monthParam);
+    if (loose) permanentRedirect(`/events/${year}/${monthSlug(loose)}`);
+  }
   if (!year || !month) notFound();
 
   const monthLabel = getMonthLabel(month);
@@ -101,6 +114,63 @@ export default async function EventsArchivePage({ params }: PageProps) {
   const path = `/events/${year}/${monthSlug(month)}`;
 
   const destinationsBySlug = new Map(DESTINATIONS.map((d) => [d.slug, d]));
+  const monthStartIso = `${year}-${String(month).padStart(2, "0")}-01`;
+  const today = new Date().toISOString().slice(0, 10);
+  const endIso = (event: (typeof events)[number]) => (event.endDate ?? event.startDate).slice(0, 10);
+  const startingHere = events.filter((event) => event.startDate.slice(0, 10) >= monthStartIso);
+  const carriedOver = events.filter((event) => event.startDate.slice(0, 10) < monthStartIso);
+  const ahead = startingHere.filter((event) => endIso(event) >= today);
+  const done = startingHere.filter((event) => endIso(event) < today);
+  const dayGroups: { day: string; events: typeof events }[] = [];
+  for (const event of ahead) {
+    const day = event.startDate.slice(0, 10);
+    const last = dayGroups[dayGroups.length - 1];
+    if (last && last.day === day) last.events.push(event);
+    else dayGroups.push({ day, events: [event] });
+  }
+
+  const renderEvent = (event: (typeof events)[number], compact = false) => {
+    const destination = destinationsBySlug.get(event.destinationSlug);
+    if (!destination) return null;
+    return (
+      <li key={event.id} className={compact ? "py-4" : "py-6 first:pt-0"}>
+        <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+          <span className="text-[var(--foreground)]">{destination.city}</span> · {destination.country} ·{" "}
+          <span className="text-[var(--signal)]">{event.type.replaceAll("-", " ")}</span>
+          {compact || (event.endDate && event.endDate !== event.startDate) ? (
+            <> · {formatDateRange(event.startDate, event.endDate)}</>
+          ) : null}
+          {event.confirmed === false ? (
+            <span className="ml-2 rounded-full border border-[var(--border-strong)] px-2 py-0.5 text-[9px] tracking-[0.18em]">
+              expected · dates tbc
+            </span>
+          ) : null}
+        </p>
+        <h3 className={`mt-1.5 font-medium tracking-[-0.01em] text-[var(--foreground)] ${compact ? "text-[16px]" : "text-[20px] leading-snug sm:text-[22px]"}`}>
+          {event.title}
+        </h3>
+        {compact ? null : (
+          <p className="mt-2 max-w-2xl text-[14px] leading-7 text-[var(--muted)]">{event.summary}</p>
+        )}
+        <div className={`flex flex-wrap gap-x-5 gap-y-2 ${compact ? "mt-2" : "mt-3"}`}>
+          <Link
+            href={`/destinations/${destination.slug}?month=${month}${yearQueryFor(month, year)}`}
+            className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+          >
+            {destination.city.toLowerCase()} guide →
+          </Link>
+          <TrackedOutboundLink
+            href={event.ticketUrl ?? event.sourceUrl}
+            eventLabel={event.title}
+            destinationSlug={destination.slug}
+            className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+          >
+            official source ↗
+          </TrackedOutboundLink>
+        </div>
+      </li>
+    );
+  };
 
   const itemList = itemListJsonLd({
     name: `Music events in ${monthLabel} ${year}`,
@@ -144,64 +214,57 @@ export default async function EventsArchivePage({ params }: PageProps) {
         );
       })}
 
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          <Link href="/" className="transition hover:text-[var(--foreground)]">
-            ← back to map
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-12 sm:px-10">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          events archive · {monthLabel.toLowerCase()} {year}
+          events calendar
         </p>
         <h1 className="mt-5 max-w-3xl text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
-          Music events in {monthLabel.toLowerCase()} {year}.
+          Music events in {monthLabel} {year}.
         </h1>
         <p className="mt-5 max-w-2xl text-[15px] leading-7 text-[var(--muted)]">
-          {events.length} {events.length === 1 ? "event" : "events"} on the curated calendar — festivals, club seasons, residencies, carnivals, and concerts worth flying for.
+          {events.length > 0
+            ? `${startingHere.length} ${startingHere.length === 1 ? "event starts" : "events start"} this month${
+                carriedOver.length > 0 ? `, plus ${carriedOver.length} season-long ${carriedOver.length === 1 ? "run" : "runs"}` : ""
+              } — festivals, club nights, residencies, and concerts worth flying for.`
+            : `Nothing confirmed for ${monthLabel} ${year} yet. We only list events with a confirmed source, and most organizers announce three to nine months out.`}
         </p>
 
-        <ol className="mt-12 divide-y divide-[var(--border)]">
-          {events.map((event) => {
-            const destination = destinationsBySlug.get(event.destinationSlug);
-            if (!destination) return null;
-            return (
-              <li key={event.id} className="py-7">
-                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                  {formatDateRange(event.startDate, event.endDate)} · {destination.city}, {destination.country} · {event.type.replace("-", " ")}
-                </p>
-                <h2 className="mt-2 text-2xl font-medium tracking-[-0.01em] text-[var(--foreground)]">
-                  {event.title}
+        {dayGroups.length > 0 ? (
+          <div className="mt-14 divide-y divide-[var(--border)] border-t border-[var(--border)]">
+            {dayGroups.map((group) => (
+              <section key={group.day} className="grid gap-3 py-8 sm:grid-cols-[150px_minmax(0,1fr)] sm:gap-8">
+                <h2 className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] sm:sticky sm:top-6 sm:self-start">
+                  <span className="block text-[28px] font-sans font-medium leading-none tracking-[-0.02em] text-[var(--foreground)] normal-case sm:text-[34px]">
+                    {Number(group.day.slice(8, 10))}
+                  </span>
+                  <span className="mt-1.5 block">{formatWeekday(group.day)}</span>
                 </h2>
-                <p className="mt-2 max-w-2xl text-[14px] leading-7 text-[var(--muted)]">{event.summary}</p>
-                <div className="mt-4 flex flex-wrap gap-3">
-                  <Link
-                    href={`/destinations/${destination.slug}?month=${month}`}
-                    className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
-                  >
-                    read the {destination.city.toLowerCase()} guide →
-                  </Link>
-                  <TrackedOutboundLink
-                    href={event.ticketUrl ?? event.sourceUrl}
-                    eventLabel={event.title}
-                    destinationSlug={destination.slug}
-                    className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-                  >
-                    official source ↗
-                  </TrackedOutboundLink>
-                </div>
-              </li>
-            );
-          })}
-        </ol>
+                <ol className="divide-y divide-[var(--border)]">{group.events.map((event) => renderEvent(event))}</ol>
+              </section>
+            ))}
+          </div>
+        ) : null}
+
+        {done.length > 0 ? (
+          <details className="group mt-10 rounded-xl border border-[var(--border)]" open={dayGroups.length === 0}>
+            <summary className="flex cursor-pointer list-none items-center justify-between px-5 py-4 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]">
+              {done.length} already happened this month
+              <span aria-hidden className="transition group-open:rotate-180">↓</span>
+            </summary>
+            <ol className="divide-y divide-[var(--border)] border-t border-[var(--border)] px-5 opacity-70">
+              {done.map((event) => renderEvent(event, true))}
+            </ol>
+          </details>
+        ) : null}
+
+        {carriedOver.length > 0 ? (
+          <div className="mt-14">
+            <h2 className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">running all month</h2>
+            <ol className="mt-2 divide-y divide-[var(--border)]">{carriedOver.map((event) => renderEvent(event, true))}</ol>
+          </div>
+        ) : null}
 
         <nav className="mt-16 grid gap-8 border-t border-[var(--border)] pt-10 sm:grid-cols-2">
           <div>
@@ -242,6 +305,14 @@ export default async function EventsArchivePage({ params }: PageProps) {
       </section>
     </main>
   );
+}
+
+function formatWeekday(iso: string) {
+  const d = new Date(`${iso}T00:00:00Z`);
+  if (Number.isNaN(d.getTime())) return "";
+  const weekday = d.toLocaleDateString("en-US", { weekday: "short", timeZone: "UTC" });
+  const month = d.toLocaleDateString("en-US", { month: "short", timeZone: "UTC" });
+  return `${weekday} · ${month}`.toLowerCase();
 }
 
 function formatDateRange(start: string, end?: string) {

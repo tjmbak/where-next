@@ -1,0 +1,16 @@
+{
+  "slug": "melbourne",
+  "month": 12,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:25:01.263Z",
+  "responseId": "resp_06bd0a5b473a3c33006acdb230554087d0874dfa638b084302+resp_01f25d765fc0f290006acdb277151087d09b8f7acd7441a1b4",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 12,
+    "year": 2027,
+    "notes": "No qualifying Melbourne underground, promoter-led, or diaspora/genre club events for December 2027 were found with confirmed dates and source URLs at this time.",
+    "events": []
+  }
+}

@@ -2,15 +2,15 @@
   "slug": "los-angeles",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:08:55.735Z",
-  "responseId": "resp_04085edb5c7743f40069ff5b922fc881a2ab2593b4477cf57b",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:24:26.439Z",
+  "responseId": "augment:resp_0a713a5d5a2f48b2006a1b2b0048ec8199be1f3c341abb568d",
+  "searchCalls": 13,
   "citations": [],
   "data": {
     "destinationSlug": "los-angeles",
     "month": 9,
     "year": 2026,
-    "notes": null,
+    "notes": "Focused on confirmed underground, promoter-led, and diaspora/genre-scene events with verifiable listing pages; obvious arena headliners were excluded unless they are especially relevant to Afrobeats/amapiano culture.",
     "events": [
       {
         "id": "los-angeles-bts-arirang-sofi-2026",
@@ -45,17 +45,17 @@
         "genres": []
       },
       {
-        "id": "los-angeles-bikini-kill-wiltern-2026",
-        "title": "Bikini Kill",
+        "id": "los-angeles-iron-maiden-bmo-2026",
+        "title": "Iron Maiden: Run For Your Lives World Tour 2026",
         "type": "concert",
-        "startDate": "2026-09-09",
-        "endDate": "2026-09-09",
-        "importance": 78,
-        "venueName": "The Wiltern",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 88,
+        "venueName": "BMO Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/bikini-kill-los-angeles-california-09-09-2026/event/09006436E85BAB04",
-        "ticketUrl": "https://www.ticketmaster.com/bikini-kill-los-angeles-california-09-09-2026/event/09006436E85BAB04",
-        "summary": "Bikini Kill is confirmed for an all-ages show at The Wiltern on September 9.",
+        "sourceUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-los-angeles-california-09-25-2026/event/0A006355C2E05EEB",
+        "ticketUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-los-angeles-california-09-25-2026/event/0A006355C2E05EEB",
+        "summary": "Iron Maiden's Run For Your Lives World Tour 2026 is confirmed for BMO Stadium in Los Angeles on September 25.",
         "genres": []
       },
       {
@@ -70,40 +70,6 @@
         "sourceUrl": "https://www.intuitdome.com/events/event-schedule/ticketevent-783683006",
         "ticketUrl": "https://www.ticketmaster.com/mana-vivir-sin-aire-tour-inglewood-california-09-18-2026/event/0900637A9D42855B",
         "summary": "Maná brings the Vivir Sin Aire Tour to Intuit Dome in Inglewood on September 18.",
-        "genres": [
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "los-angeles-peter-hook-palladium-2026",
-        "title": "Peter Hook & The Light - North American Tour 2026",
-        "type": "concert",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 76,
-        "venueName": "Hollywood Palladium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
-        "ticketUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
-        "summary": "Peter Hook & The Light are confirmed at the Hollywood Palladium, with the event billed around performing New Order's Get Ready live plus Joy Division and New Order selections.",
-        "genres": [
-          "electronic",
-          "pop"
-        ]
-      },
-      {
-        "id": "los-angeles-carin-leon-bmo-2026",
-        "title": "Carin Leon - De Sonora Para El Mundo Tour 2026",
-        "type": "concert",
-        "startDate": "2026-09-20",
-        "endDate": "2026-09-20",
-        "importance": 82,
-        "venueName": "BMO Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/carin-leon-de-sonora-para-el-los-angeles-california-09-20-2026/event/0A00644328E0E003",
-        "ticketUrl": "https://www.ticketmaster.com/carin-leon-de-sonora-para-el-los-angeles-california-09-20-2026/event/0A00644328E0E003",
-        "summary": "Carin León's De Sonora Para El Mundo Tour 2026 is confirmed for BMO Stadium in Los Angeles on September 20.",
         "genres": [
           "latin",
           "pop"
@@ -127,37 +93,6 @@
         ]
       },
       {
-        "id": "los-angeles-work-overtime-techno-2026",
-        "title": "WORK OVER/TIME: Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose & Wata Igarashi",
-        "type": "club-night",
-        "startDate": "2026-09-25",
-        "endDate": "2026-09-27",
-        "importance": 80,
-        "venueName": "TBA - Los Angeles",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2428630",
-        "ticketUrl": "https://ra.co/events/2428630",
-        "summary": "WORK OVER/TIME presents an extended Los Angeles techno weekender with Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose and Wata Igarashi listed on the lineup.",
-        "genres": [
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "los-angeles-iron-maiden-bmo-2026",
-        "title": "Iron Maiden: Run For Your Lives World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-09-25",
-        "endDate": "2026-09-25",
-        "importance": 88,
-        "venueName": "BMO Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-los-angeles-california-09-25-2026/event/0A006355C2E05EEB",
-        "ticketUrl": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-los-angeles-california-09-25-2026/event/0A006355C2E05EEB",
-        "summary": "Iron Maiden's Run For Your Lives World Tour 2026 is confirmed for BMO Stadium in Los Angeles on September 25.",
-        "genres": []
-      },
-      {
         "id": "los-angeles-amelie-lens-grand-park-2026",
         "title": "Factory 93 presents: Amelie Lens at Grand Park Block 2",
         "type": "club-night",
@@ -172,6 +107,23 @@
         "genres": [
           "techno",
           "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-carin-leon-bmo-2026",
+        "title": "Carin Leon - De Sonora Para El Mundo Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-20",
+        "endDate": "2026-09-20",
+        "importance": 82,
+        "venueName": "BMO Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/carin-leon-de-sonora-para-el-los-angeles-california-09-20-2026/event/0A00644328E0E003",
+        "ticketUrl": "https://www.ticketmaster.com/carin-leon-de-sonora-para-el-los-angeles-california-09-20-2026/event/0A00644328E0E003",
+        "summary": "Carin León's De Sonora Para El Mundo Tour 2026 is confirmed for BMO Stadium in Los Angeles on September 20.",
+        "genres": [
+          "latin",
+          "pop"
         ]
       },
       {
@@ -192,6 +144,91 @@
         ]
       },
       {
+        "id": "los-angeles-work-overtime-techno-2026",
+        "title": "WORK OVER/TIME: Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose & Wata Igarashi",
+        "type": "club-night",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-27",
+        "importance": 80,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2428630",
+        "ticketUrl": "https://ra.co/events/2428630",
+        "summary": "WORK OVER/TIME presents an extended Los Angeles techno weekender with Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose and Wata Igarashi listed on the lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-day-trip-armand-van-helden-2026",
+        "title": "Day Trip In The Park LA: Armand Van Helden, James Poole, Adam Auburn, Athena",
+        "type": "festival",
+        "startDate": "2026-09-27",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Los Angeles State Historic Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2436982",
+        "ticketUrl": "https://ra.co/events/2436982",
+        "summary": "Insomniac’s Day Trip brings a daytime house-focused park event to Los Angeles State Historic Park, headlined by Armand Van Helden with James Poole, Adam Auburn and Athena.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-everyday-people-la-2026",
+        "title": "Everyday People LA",
+        "type": "club-night",
+        "startDate": "2026-09-27",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "The Beehive",
+        "venueId": null,
+        "sourceUrl": "https://www.unation.com/event/everyday-people-la-65226879/",
+        "ticketUrl": "https://www.unation.com/event/everyday-people-la-65226879/",
+        "summary": "The touring Everyday People day-party brand returns to The Beehive, a strong diaspora/social dance event for hip-hop, R&B, Afro-diasporic and soul-leaning crowds.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "afro-house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "los-angeles-studio-barnhus-summer-dance-party-2026",
+        "title": "Studio Barnhus Summer Dance Party with Axel Boman, Kornel Kovacs, Nikki Nair",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 79,
+        "venueName": "The Bridge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423932",
+        "ticketUrl": "https://ra.co/events/2423932",
+        "summary": "Midnight Lovers’ Axel Boman residency lands at The Bridge for an outdoor day-into-night Studio Barnhus edition with Kornél Kovács, Nikki Nair, Masha Mar and local support.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-bikini-kill-wiltern-2026",
+        "title": "Bikini Kill",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 78,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/bikini-kill-los-angeles-california-09-09-2026/event/09006436E85BAB04",
+        "ticketUrl": "https://www.ticketmaster.com/bikini-kill-los-angeles-california-09-09-2026/event/09006436E85BAB04",
+        "summary": "Bikini Kill is confirmed for an all-ages show at The Wiltern on September 9.",
+        "genres": []
+      },
+      {
         "id": "los-angeles-dominic-fike-wiltern-2026",
         "title": "\"Comedy Tragedy Parody\" Dominic Fike in North America",
         "type": "concert",
@@ -207,6 +244,93 @@
           "pop",
           "hip-hop",
           "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-francis-mercier-soley-2026",
+        "title": "Francis Mercier presents Solèy",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Reframe Studios",
+        "venueId": null,
+        "sourceUrl": "https://app.discotech.me/events/38189462-francis-mercier-presents-soley-at-reframe-studios",
+        "ticketUrl": "https://app.discotech.me/events/38189462-francis-mercier-presents-soley-at-reframe-studios",
+        "summary": "Framework presents Francis Mercier’s Solèy concept at Reframe Studios, with Shimza listed on related listings and an Afro-house/3-step/gqom-adjacent direction.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-peter-hook-palladium-2026",
+        "title": "Peter Hook & The Light - North American Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 76,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
+        "ticketUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
+        "summary": "Peter Hook & The Light are confirmed at the Hollywood Palladium, with the event billed around performing New Order's Get Ready live plus Joy Division and New Order selections.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-tunnel-dj-gigola-2026",
+        "title": "TUNNEL presents: DJ Gigola, Annie Lew, OZA",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-06",
+        "importance": 76,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2394150",
+        "ticketUrl": "https://ra.co/events/2394150",
+        "summary": "TUNNEL brings Live From Earth’s DJ Gigola back for a late-night techno/trance warehouse-style session, with venue details sent to ticket holders before the event.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-overmono-pure-devotion-2026",
+        "title": "Overmono - Pure Devotion World Tour",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-26",
+        "importance": 76,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2446440",
+        "ticketUrl": "https://ra.co/events/2446440",
+        "summary": "HARD Selects brings Overmono to the Hollywood Palladium for a UK rave-rooted live show spanning garage, techno, breaks and bass-heavy electronic music.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "los-angeles-rich-medina-home-2026",
+        "title": "Rich Medina: HOME (All Night Set)",
+        "type": "club-night",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-27",
+        "importance": 73,
+        "venueName": "High Tide",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2432766",
+        "ticketUrl": "https://ra.co/events/2432766",
+        "summary": "Fusicology and WCS present Rich Medina all night at High Tide, centered on house, rare groove and garage classics with a soulful, culture-led dancefloor focus.",
+        "genres": [
+          "house",
+          "r-and-b",
+          "hip-hop"
         ]
       }
     ]

@@ -21,11 +21,12 @@ const MAX_PERSISTED = 24;
 
 type ComposeChatProps = {
   suggestions: string[];
+  initialDraft?: string;
 };
 
-export function ComposeChat({ suggestions }: ComposeChatProps) {
+export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
   const [messages, setMessages] = useState<ComposeMessage[]>([]);
-  const [draft, setDraft] = useState("");
+  const [draft, setDraft] = useState(initialDraft ?? "");
   const [pending, setPending] = useState(false);
   const [phaseLabel, setPhaseLabel] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -299,7 +300,8 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
         if (controller.signal.aborted) {
           // user pressed stop — silent
         } else {
-          setError(err instanceof Error ? err.message : "stream-failed");
+          console.error("[compose] stream failed:", err);
+          setError("Lost the connection to the planner. Check your network and try again.");
         }
       } finally {
         setPending(false);
@@ -316,6 +318,7 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
 
   const handleClear = useCallback(() => {
     setMessages([]);
+    setError(null);
     currentItineraryRef.current = null;
     setCurrentItinerary(null);
     const oldToken = sessionTokenRef.current;
@@ -348,13 +351,11 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
 
   return (
     <div className="flex flex-col gap-6">
+      {messages.length > 0 ? (
       <div
         ref={scrollRef}
         className="max-h-[60vh] min-h-[280px] overflow-y-auto rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-5"
       >
-        {messages.length === 0 ? (
-          <ComposeEmptyState suggestions={suggestions} onPick={sendMessage} />
-        ) : (
           <ol className="space-y-7">
             {messages.map((m) => (
               <li key={m.id} className="space-y-3">
@@ -372,11 +373,11 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
               </li>
             ))}
           </ol>
-        )}
       </div>
+      ) : null}
 
       {error ? (
-        <p className="rounded-lg border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-3 py-2 font-mono text-[11px] uppercase tracking-[0.2em] text-[var(--signal)]">
+        <p className="rounded-xl border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-3 py-2 font-mono text-[11px] uppercase tracking-[0.2em] text-[var(--signal)]">
           {error}
         </p>
       ) : null}
@@ -388,7 +389,7 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
         }}
         className="flex flex-col gap-3"
       >
-        <div className="flex items-end gap-3 rounded-2xl border border-[var(--border-strong)] bg-[var(--surface)] p-3">
+        <div className="flex items-end gap-3 rounded-2xl border border-[var(--border-strong)] bg-[var(--surface)] p-3 shadow-[0_18px_40px_-28px_rgba(28,22,18,0.45)] transition focus-within:border-[var(--foreground)]">
           <textarea
             value={draft}
             onChange={(event) => setDraft(event.target.value)}
@@ -423,7 +424,7 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
         </div>
 
         <div className="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-          <span>enter to send · shift+enter for new line</span>
+          <span className="hidden sm:inline">enter to send · shift+enter for new line</span>
           {messages.length > 0 ? (
             <button
               type="button"
@@ -435,6 +436,8 @@ export function ComposeChat({ suggestions }: ComposeChatProps) {
           ) : null}
         </div>
       </form>
+
+      {messages.length === 0 ? <ComposeEmptyState suggestions={suggestions} onPick={sendMessage} /> : null}
     </div>
   );
 }
@@ -522,22 +525,17 @@ function ComposeEmptyState({
   onPick: (text: string) => void;
 }) {
   return (
-    <div className="py-6">
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-        try one of these to start
-      </p>
-      <ul className="mt-4 grid gap-2">
+    <div>
+      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">or start from one of these</p>
+      <ul className="mt-3 flex flex-wrap gap-2">
         {suggestions.map((s) => (
           <li key={s}>
             <button
               type="button"
               onClick={() => onPick(s)}
-              className="group block w-full rounded-xl border border-[var(--border)] bg-[var(--background)] px-4 py-3 text-left text-[14px] leading-6 text-[var(--foreground)]/85 transition hover:border-[var(--foreground)]/55 hover:text-[var(--foreground)]"
+              className="rounded-full border border-[var(--border-strong)] bg-[var(--surface)] px-4 py-2 text-left text-[13px] leading-5 text-[var(--foreground)]/80 transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
             >
-              <span className="font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted-2)] transition group-hover:text-[var(--signal)]">
-                example →
-              </span>
-              <span className="mt-1 block">{s}</span>
+              {s}
             </button>
           </li>
         ))}

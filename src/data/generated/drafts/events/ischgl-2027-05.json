@@ -1,0 +1,86 @@
+{
+  "slug": "ischgl",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:58:45.198Z",
+  "responseId": "resp_03057ff13439d21d006acdac1452e087d0a381825a3bb207ab+resp_0240dc8d47663b66006acdac3562fc87d096e7255d3672ad77",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 5,
+    "year": 2027,
+    "notes": "Ischgl’s confirmed May 2027 music calendar is centered on the season-closing Top of the Mountain Concert on the Ischgl Stage.",
+    "events": [
+      {
+        "id": "ischgl-top-of-the-mountain-closing-2027",
+        "title": "Top of the Mountain Closing Concert",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 90,
+        "venueName": "Ischgl Stage, Silvretta Arena Ischgl/Samnaun",
+        "venueId": "top-of-the-mountain-ischgl",
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/top-of-the-mountain-closing-concert_event_48589015",
+        "ticketUrl": "https://www.ischgl.com/en/events-experiences/topevents/top-of-the-mountain-closing-concert_event_48589015",
+        "summary": "Official Ischgl listings confirm the Top of the Mountain Closing Concert for 1 May 2027 at the Ischgl Stage in the Silvretta Arena. The 2027 headliner is still listed as coming soon, but the event is confirmed as the resort’s season-finale mountain concert.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-kuhstall-apres-dj-2027",
+        "title": "Kuhstall Ischgl End-of-Season Après-Ski DJ Party",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 65,
+        "venueName": "Kuhstall Ischgl",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/kuhstall_infra_100004856",
+        "ticketUrl": null,
+        "summary": "Legendary Ischgl après-ski party spot with entertainment, lively beats and regular party programming, confirmed open through 2027-05-01 for the final ski-season Saturday.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-nikis-stadl-dj-2027",
+        "title": "Niki's Stadl Daily DJ Après-Ski Finale",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 64,
+        "venueName": "Niki's Stadl",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/de/reise-planen/ischgl-a-z/niki-s-stadl_infra_100005628",
+        "ticketUrl": null,
+        "summary": "Long-running Ischgl après-ski and late-night party venue with daily DJs and party hits, confirmed open daily through 2027-05-02 for the season-closing weekend.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-schloss-lounge-2027",
+        "title": "Schloss Lounge End-of-Season Clubbing Nights",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 62,
+        "venueName": "Schloss Lounge - Schlosshotel Ischgl",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/schlosslounge-schlosshotel-ischgl_infra_100002533",
+        "ticketUrl": null,
+        "summary": "Stylish hotel lounge positioned as a highlight of Ischgl’s nightlife and clubbing scene with party atmosphere and good sounds, confirmed open nightly through 2027-05-02.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

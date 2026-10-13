@@ -1,0 +1,374 @@
+{
+  "slug": "port-of-spain",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:25:02.039Z",
+  "responseId": "resp_00ca0a5280db0db6006acda3d1bb6087d09d0409995e13e868+resp_0f417ee9427287fb006acda44656d487d091511272b10a4e6a",
+  "searchCalls": 24,
+  "citations": [],
+  "data": {
+    "destinationSlug": "port-of-spain",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is Carnival month in Port of Spain, with the confirmed calendar concentrated around soca fetes, J’Ouvert, Panorama steelpan, and the Feb. 8–9 road climax.",
+    "events": [
+      {
+        "id": "port-of-spain-trinidad-carnival-2027",
+        "title": "Trinidad Carnival 2027",
+        "type": "carnival",
+        "startDate": "2027-02-08",
+        "endDate": "2027-02-09",
+        "importance": 100,
+        "venueName": "Port of Spain streets / Queen's Park Savannah",
+        "venueId": "trinidad-carnival",
+        "sourceUrl": "https://visittrinidad.tt/things-to-do/trinidad-carnival/",
+        "ticketUrl": null,
+        "summary": "Official tourism listing confirms Trinidad’s Carnival road days for Monday, February 8 and Tuesday, February 9, 2027. Expect masquerade bands, soca and calypso sound systems, and the main Port of Spain street parade atmosphere.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-soca-brainwash-2027",
+        "title": "Soca Brainwash Music Festival: A Pirate’s Tale",
+        "type": "festival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 94,
+        "venueName": "St Mary's Grounds",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/SocaBrainwash",
+        "ticketUrl": "https://islandetickets.com/event/SocaBrainwash",
+        "summary": "DJ Private Ryan’s Soca Brainwash is confirmed for Carnival Saturday, February 6, at St Mary's Grounds. The listing gives the 2027 theme as “A Pirate’s Tale.”",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "port-of-spain-lime-hyatt-2027",
+        "title": "LIME: The Ultimate Carnival Fete",
+        "type": "club-night",
+        "startDate": "2027-02-03",
+        "endDate": "2027-02-03",
+        "importance": 91,
+        "venueName": "Hyatt Regency Trinidad",
+        "venueId": null,
+        "sourceUrl": "https://hyattlime.com/",
+        "ticketUrl": "https://hyattlime.com/",
+        "summary": "Hyatt LIME is confirmed for February 3, 2027 at Hyatt Regency Trinidad. The official page describes the all-inclusive Carnival Wednesday fete with soca, calypso and chutney entertainment, premium food and waterfront production.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-panorama-large-finals-2027",
+        "title": "National Panorama 2027 — Large Conventional Band Finals",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 89,
+        "venueName": "Grand & North Stands, Queen's Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/largefinals2027",
+        "ticketUrl": "https://islandetickets.com/event/largefinals2027",
+        "summary": "Pan Trinbago confirms the Large Conventional Band Finals of National Panorama 2027 for February 6 at Queen’s Park Savannah. This is the flagship steelpan competition night of the Carnival season.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-iz-we-kes-2027",
+        "title": "IZ WE 2027: Roots, Rock, Soca — We Coming Home",
+        "type": "concert",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 88,
+        "venueName": "Queen's Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/iz-we-2027-roots-rock-soca-we-coming-home-tickets-2000643943892",
+        "ticketUrl": "https://www.eventbrite.com/e/iz-we-2027-roots-rock-soca-we-coming-home-tickets-2000643943892",
+        "summary": "Kes The Band’s Carnival-season cultural concert is confirmed at Queen’s Park Savannah, with the listing describing a Main Stage headlined by Kes and additional artists and DJs.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-tribe-ignite-2027",
+        "title": "TRIBE Ignite — Olympia 2027",
+        "type": "club-night",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-05",
+        "importance": 86,
+        "venueName": "Port of Spain",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/TRIBE-Ignite-Olympia",
+        "ticketUrl": "https://islandetickets.com/event/TRIBE-Ignite-Olympia",
+        "summary": "TRIBE Carnival confirms its Ignite Olympia fete for Carnival Thursday from February 4 into February 5. The listing promises soca artistes, top DJs, premium drinks and a white/gold/silver dress code.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "port-of-spain-dimanche-gras-2027",
+        "title": "Dimanche Gras — Senior Kings and Queens Finals 2027",
+        "type": "festival",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-07",
+        "importance": 85,
+        "venueName": "Carnival City, Queen's Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://ttcarnival365.com/",
+        "ticketUrl": null,
+        "summary": "The National Carnival Commission calendar confirms Dimanche Gras Senior Kings and Queens Finals for February 7 at Carnival City, Queen’s Park Savannah. It is the major Carnival Sunday stage event before J’Ouvert and the road days.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-am-beach-club-2027",
+        "title": "A.M.BEACH CLUB '27",
+        "type": "beach-club",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 84,
+        "venueName": "North Coast Trinidad",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/ambeachclub27",
+        "ticketUrl": "https://islandetickets.com/event/ambeachclub27",
+        "summary": "Caesar’s Army confirms A.M.BEACH CLUB for Carnival Thursday, February 4. The listing describes a North Coast beach-club experience with soca, premium drinks, Caribbean cuisine and local/international DJs.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "port-of-spain-awol-tt-2027",
+        "title": "AWOL TT 2027",
+        "type": "club-night",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 79,
+        "venueName": "Harts Cut, Chaguaramas",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/AWOLTT2027",
+        "ticketUrl": "https://islandetickets.com/event/AWOLTT2027",
+        "summary": "AWOL’s Carnival Thursday cooler cruise is confirmed for February 4 at Harts Cut, Chaguaramas. The event page lists 9:00 AM boarding and 10:00 AM sailing.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-citrus-trinidad-2027",
+        "title": "Citrus Trinidad Carnival 2027",
+        "type": "club-night",
+        "startDate": "2027-02-03",
+        "endDate": "2027-02-03",
+        "importance": 78,
+        "venueName": "Green Meadows, Santa Cruz",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/citrus-tt-27",
+        "ticketUrl": "https://islandetickets.com/event/citrus-tt-27",
+        "summary": "Illusions, Private Ryan and Radiance Productions list this premium all-inclusive tropical Carnival Wednesday fete at Green Meadows in nearby Santa Cruz. The event page highlights DJs, Caribbean food and premium drinks.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-we-jouvert-2027",
+        "title": "WE J'ouvert Band",
+        "type": "carnival",
+        "startDate": "2027-02-08",
+        "endDate": "2027-02-08",
+        "importance": 78,
+        "venueName": "Port of Spain road route",
+        "venueId": null,
+        "sourceUrl": "https://wejouvertband.com/experience",
+        "ticketUrl": "https://wejouvertband.com/register",
+        "summary": "WE J’ouvert confirms its all-inclusive band will touch road from the heart of Port of Spain on Carnival Monday, February 8, 2027. The package includes a soca music truck, breakfast, drinks, paint, powder, water truck and security.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-dj-jel-jusso-2027",
+        "title": "DJ JEL: Jus'so Fete 2027 — The Night Market",
+        "type": "club-night",
+        "startDate": "2027-02-03",
+        "endDate": "2027-02-04",
+        "importance": 76,
+        "venueName": "SoundForge Woodbrook",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/dj-jel-jusso-fete-2027",
+        "ticketUrl": "https://islandetickets.com/event/dj-jel-jusso-fete-2027",
+        "summary": "DJ JEL’s Jus'so Fete is confirmed at SoundForge Woodbrook from February 3 into February 4. The food-inclusive night market concept pairs Trinidadian food, drinks and soca in Port of Spain.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-carnival-lagniappe-2027",
+        "title": "Carnival Lagniappe — 2027 Champs",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 75,
+        "venueName": "Grand Stand, Queen's Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/2027champs",
+        "ticketUrl": "https://islandetickets.com/event/2027champs",
+        "summary": "Pan Trinbago lists Carnival Lagniappe — 2027 Champs for February 13 at the Grand Stand, Queen’s Park Savannah. The post-Carnival steelpan event presents the 2027 champions under the National Panorama banner.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-pure-white-2027",
+        "title": "Hennessy Pure White 2027",
+        "type": "club-night",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 74,
+        "venueName": "Harbour Master",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/PureWhite2027",
+        "ticketUrl": "https://islandetickets.com/event/PureWhite2027",
+        "summary": "Harbour Master lists Pure White 2027 for February 4, presented with Lyrikal and Viking Ding Dong. It is billed as a premium all-white Carnival boatride.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-frolic-2027",
+        "title": "Frolic: Rhythm of Our People",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-06",
+        "importance": 73,
+        "venueName": "Fete Yard, Queen's Hall, St. Ann's",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/froliccarnivalfete27",
+        "ticketUrl": "https://islandetickets.com/event/froliccarnivalfete27",
+        "summary": "Frolic returns on Carnival Friday at Fete Yard, Queen’s Hall, from February 5 into February 6. The listing describes a food-inclusive cooler fete with performances from major soca names.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-imagine-jouvert-gems-2027",
+        "title": "IMAGINE 'Jouvert Gems'",
+        "type": "carnival",
+        "startDate": "2027-02-07",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/imagine-jouvert-gems-tickets-1986014156805?aff=ebdssbdestsearch",
+        "ticketUrl": "https://www.eventbrite.com/e/imagine-jouvert-gems-tickets-1986014156805?aff=ebdssbdestsearch",
+        "summary": "DJ Private Ryan presents a Carnival Sunday evening J’ouvert-style experience built around paint, oil, mud, powder, water and riddim.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-jlime-2027",
+        "title": "J'lime Trinidad Carnival 2027",
+        "type": "club-night",
+        "startDate": "2027-02-03",
+        "endDate": "2027-02-04",
+        "importance": 72,
+        "venueName": "Mille Fleurs",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/jlimett27",
+        "ticketUrl": "https://islandetickets.com/event/jlimett27",
+        "summary": "Pumpers Inc confirms J’lime at Mille Fleurs from February 3 into February 4. The listing bills it as a premium drinks-inclusive soca event with gourmet tapas and live up-close performances.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-hard-fete-2027",
+        "title": "Hard Fete — Fete Harder!",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-06",
+        "importance": 72,
+        "venueName": "Port of Spain",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/Hard-Fete-Fete-Harder",
+        "ticketUrl": "https://islandetickets.com/event/Hard-Fete-Fete-Harder",
+        "summary": "Hard Fete is confirmed in Port of Spain from February 5 into February 6. The event page bills it directly as a power-soca experience.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-hyatt-lime-2027",
+        "title": "Lime at the Hyatt",
+        "type": "carnival",
+        "startDate": "2027-02-03",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Hyatt Regency Trinidad",
+        "venueId": null,
+        "sourceUrl": "https://trinidadcarnivalpackages.com/5nights",
+        "ticketUrl": null,
+        "summary": "All-white Carnival-week all-inclusive fete listed as a Platinum-ticket upgrade for Ultimate Trinidad Carnival 2027, positioned as an early-week premium diaspora/soca kickoff before the main road days.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-sahara-jouvert-2027",
+        "title": "Sahara J’ouvert 27",
+        "type": "carnival",
+        "startDate": "2027-02-08",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Woodbrook, Port of Spain",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/sahara-jouvert-27-tickets-1983663005448",
+        "ticketUrl": "https://www.eventbrite.com/e/sahara-jouvert-27-tickets-1983663005448",
+        "summary": "Orange-themed J’ouvert road party in Woodbrook promising Jamaican DJs, paint, drinks, and Carnival Monday road energy from midnight to morning.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-sunny-side-up-2027",
+        "title": "Sunny Side Up Breakfast Party",
+        "type": "carnival",
+        "startDate": "2027-02-07",
+        "endDate": null,
+        "importance": 70,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://trinidadcarnivalpackages.com/5nights",
+        "ticketUrl": null,
+        "summary": "Confirmed as the Sunday all-inclusive breakfast fete in the Ultimate Trinidad Carnival 2027 package, Sunny Side Up fits the sunrise/breakfast-party lane that anchors Carnival-week fete culture.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-phuket-all-inclusive-2027",
+        "title": "Phuket All-Inclusive",
+        "type": "carnival",
+        "startDate": "2027-02-05",
+        "endDate": null,
+        "importance": 68,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://trinidadcarnivalpackages.com/5nights",
+        "ticketUrl": null,
+        "summary": "A Friday Carnival-week all-inclusive fete included in the Ultimate Trinidad Carnival 2027 premium experience, geared toward the food-and-drinks-inclusive soca/fete circuit rather than arena programming.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

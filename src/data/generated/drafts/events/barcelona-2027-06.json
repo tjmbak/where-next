@@ -1,0 +1,106 @@
+{
+  "slug": "barcelona",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:06:03.099Z",
+  "responseId": "resp_09b36134031613a8006acdad6e0a0087d08bd5a29efcb2743c+resp_0e29f04186fc14b3006acdadf0bf2487d0ab61eba4c1e2d8b4",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 is anchored by Barcelona’s two global music-travel flagships—Primavera Sound and Sónar—while most independent club-night calendars are not yet announced this far out.",
+    "events": [
+      {
+        "id": "barcelona-primavera-sound-jun-2027",
+        "title": "Primavera Sound Barcelona 2027",
+        "type": "festival",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-06",
+        "importance": 99,
+        "venueName": "Primavera Sound",
+        "venueId": "primavera",
+        "sourceUrl": "https://www.primaverasound.com/en/tickets",
+        "ticketUrl": "https://www.primaverasound.com/en/tickets",
+        "summary": "Primavera Sound’s 25th-anniversary Barcelona edition is confirmed for 2–6 June 2027. Reported headliners and major names include Doechii, Phoebe Bridgers, Fontaines D.C., Massive Attack, The Chemical Brothers, Robyn, Bad Gyal, Turnstile and FKA twigs.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-sonar-jun-2027",
+        "title": "Sónar Barcelona 2027",
+        "type": "festival",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-19",
+        "importance": 97,
+        "venueName": "Sónar Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://sonar.es/en",
+        "ticketUrl": null,
+        "summary": "Sónar Barcelona is confirmed for 17–19 June 2027, continuing the city’s flagship festival for electronic music, creativity and technology. The 2027 lineup has not yet been announced on the official site.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "barcelona-karol-g-tropitour-jun-2027",
+        "title": "Karol G – Viajando Por El Mundo Tropitour",
+        "type": "concert",
+        "startDate": "2027-06-03",
+        "endDate": "2027-06-04",
+        "importance": 88,
+        "venueName": "Estadi Olímpic Lluís Companys",
+        "venueId": null,
+        "sourceUrl": "https://estadiolimpic.barcelona/en/karol-g",
+        "ticketUrl": "https://www.ticketmaster.es/artist/karol-g-entradas/988809?venueId=2317",
+        "summary": "Karol G is confirmed for two stadium dates in Barcelona on 3 and 4 June 2027 at Estadi Olímpic Lluís Companys, part of her Viajando Por El Mundo Tropitour.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-primavera-bits-jun-2027",
+        "title": "Primavera Bits closing party: Richie Hawtin, Four Tet and Dixon",
+        "type": "club-night",
+        "startDate": "2027-06-06",
+        "endDate": "2027-06-06",
+        "importance": 85,
+        "venueName": "Primavera Sound",
+        "venueId": "primavera",
+        "sourceUrl": "https://djmag.com/news/primavera-sound-2027-line-announced",
+        "ticketUrl": "https://www.primaverasound.com/en/tickets",
+        "summary": "Primavera Sound’s Sunday closing event, Primavera Bits, is confirmed for 6 June with Richie Hawtin, Four Tet and Dixon alternating across an extended electronic session.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-quevedo-el-baifo-jun-2027",
+        "title": "Quevedo – El Baifo Tour",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-01",
+        "importance": 78,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/quevedo",
+        "ticketUrl": "https://quevedotour.com/",
+        "summary": "Quevedo brings El Baifo Tour to Palau Sant Jordi on a listed Tuesday 1 June Barcelona date, part of a limited Madrid/Barcelona arena run.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

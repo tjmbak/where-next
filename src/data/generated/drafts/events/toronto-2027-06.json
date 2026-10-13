@@ -1,0 +1,113 @@
+{
+  "slug": "toronto",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:11:01.614Z",
+  "responseId": "resp_0a4eead7e5e8372d006acdaeb050e087d09ed26b1df73d6a60+resp_0f0cfe86ca27c86c006acdaf106a9087d093e9acece3edb667",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 6,
+    "year": 2027,
+    "notes": "Only a limited set of June 2027 Toronto music events have fully specific confirmed dates so far; several major annuals are still awaiting exact schedules or lineups.",
+    "events": [
+      {
+        "id": "toronto-caribbean-carnival-launch-jun-2027",
+        "title": "Official Launch of Toronto Caribbean Carnival 2027",
+        "type": "carnival",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 82,
+        "venueName": "Scarborough Town Centre",
+        "venueId": "toronto-caribana",
+        "sourceUrl": "https://torontocarnival.ca/event/official-launch-of-toronto-caribbean-carnival-2027/",
+        "ticketUrl": null,
+        "summary": "Toronto Caribbean Carnival opens its 60th anniversary season on June 12, 2027, with live performances, Caribbean cuisine, marketplace activity, and previews of costumes and artistic presentations. The official event page lists the event time as 1:00 PM–10:00 PM at Scarborough Town Centre.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-nxne-jun-2027",
+        "title": "NXNE Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-20",
+        "importance": 82,
+        "venueName": "Various downtown Toronto venues",
+        "venueId": null,
+        "sourceUrl": "https://www.nxne.com/faq",
+        "ticketUrl": null,
+        "summary": "NXNE’s official FAQ confirms the next North by Northeast festival will take place June 16–20, 2027, across downtown Toronto. The festival focuses on emerging Canadian and international talent through clubland-style showcases and industry programming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-jazz-festival-jun-2027",
+        "title": "Toronto Jazz Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-18",
+        "endDate": "2027-06-27",
+        "importance": 80,
+        "venueName": "Various Toronto venues",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzfestivalscanada.ca/festival/toronto-jazz-festival/",
+        "ticketUrl": "https://torontojazz.com/",
+        "summary": "Jazz Festivals Canada lists the Toronto Jazz Festival for June 18–27, 2027. The listing describes the festival, produced by Toronto Downtown Jazz, as one of North America’s premier jazz festivals with performances across the city.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "toronto-prepare-ground-jun-2027",
+        "title": "Prepare The Ground 2027",
+        "type": "festival",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-06",
+        "importance": 76,
+        "venueName": "Multiple venues in Toronto",
+        "venueId": null,
+        "sourceUrl": "https://www.preparetheground.com/about-us",
+        "ticketUrl": "https://dice.fm/partner/tickets/event/yowkdx-prepare-the-ground-2027-4th-jun-trinity-st-pauls-lees-palace-dance-cave-and-tranzac-toronto-tickets",
+        "summary": "Prepare The Ground is a community-led arts and heavy music festival returning to Toronto for June 4–6, 2027. The official festival page confirms the return dates and describes the event as a curated heavy-music and arts festival across multiple venues.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-lizzy-mcalpine-jun-2027",
+        "title": "Lizzy McAlpine: The Over Country Tour",
+        "type": "concert",
+        "startDate": "2027-06-27",
+        "endDate": "2027-06-27",
+        "importance": 76,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/lizzy-mcalpine",
+        "ticketUrl": "https://www.scotiabankarena.com/events/detail/lizzy-mcalpine",
+        "summary": "Scotiabank Arena confirms Lizzy McAlpine’s The Over Country Tour for Sunday, June 27, 2027, at 7:00 PM. This is the currently confirmed major pop arena concert in Toronto for late June 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-combine-techno-jun-2027",
+        "title": "Combine: TBA",
+        "type": "club-night",
+        "startDate": "2027-06-11",
+        "endDate": "2027-06-11",
+        "importance": 70,
+        "venueName": "TBA - New location",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2498002",
+        "ticketUrl": "https://ra.co/events/2498002",
+        "summary": "Resident Advisor lists Combine: TBA as a 19+ techno event promoted by Apollo inc on June 11, 2027, with a 16:00–22:30 time window. The lineup and final location are still marked TBA on the event page.",
+        "genres": [
+          "techno"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "slug": "london",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:53:34.452Z",
+  "responseId": "resp_0da3650baa0946d0006acdaa96327487d0a6c397ddb33fa657+resp_022b1b2d26ecc6dc006acdab0ab83887d092f7a1a20c845900",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 London underground/genre calendars are still early; confirmed club-night listings on RA/DICE/Shotgun/Eventbrite are sparse, so this includes only verifiable scene-focused events with live source pages.",
+    "events": [
+      {
+        "id": "london-olivia-rodrigo-o2-residency-2027",
+        "title": "Olivia Rodrigo: The Unraveled Tour at The O2",
+        "type": "residency",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-09",
+        "importance": 92,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/olivia-rodrigo-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/olivia-rodrigo-2027",
+        "summary": "Olivia Rodrigo's UK-exclusive O2 residency continues into May, with a confirmed Sunday 9 May 2027 date. Die Spitz are listed as special guests for the May residency dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-sxsw-london-music-festival-2027",
+        "title": "SXSW London Music Festival 2027",
+        "type": "conference",
+        "startDate": "2027-05-24",
+        "endDate": "2027-05-29",
+        "importance": 90,
+        "venueName": "Shoreditch venues",
+        "venueId": null,
+        "sourceUrl": "https://sxswlondon.com/music-festival",
+        "ticketUrl": "https://sxswlondon.com/music-festival",
+        "summary": "SXSW London Music Festival is confirmed for 24–29 May 2027, with daytime music-industry sessions and nighttime showcases across east London venues. The page positions the music programme as a discovery platform for emerging artists.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-field-day-2027",
+        "title": "Field Day London 2027",
+        "type": "festival",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 88,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/festivals/field-day/?direct=true",
+        "ticketUrl": "https://www.skiddle.com/festivals/field-day/?direct=true",
+        "summary": "Field Day London is confirmed for Saturday 29 May 2027 at Brockwell Park. The 2027 lineup is still to be announced, but the festival remains one of London's key electronic-music dates.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-city-splash-2027",
+        "title": "City Splash Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-31",
+        "endDate": "2027-05-31",
+        "importance": 88,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://festivalsandgigs.com/news/city-splash-announces-damian-marley-for-huge-2027-edition",
+        "ticketUrl": "https://www.city-splash.com/2027",
+        "summary": "City Splash returns to Brockwell Park on Bank Holiday Monday 31 May 2027, with Damian \"Jr. Gong\" Marley leading the first wave. Dexta Daps, Skillibeng, Wayne Wonder, Stefflon Don, Warrior King, DJ Tunez, DJ Puffy and major soundsystem crews are also confirmed.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-cross-the-tracks-2027",
+        "title": "Cross The Tracks 2027",
+        "type": "festival",
+        "startDate": "2027-05-30",
+        "endDate": "2027-05-30",
+        "importance": 86,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://www.xthetracks.com/",
+        "ticketUrl": "https://www.xthetracks.com/",
+        "summary": "Cross The Tracks is confirmed to return on Sunday 30 May 2027. The festival's official page frames the event around jazz, funk and soul heritage, emerging artists and community programming.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-gracie-abrams-o2-may-2027",
+        "title": "Gracie Abrams at The O2",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/gracie-abrams-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/gracie-abrams-2027",
+        "summary": "Gracie Abrams brings The Look at My Life arena tour to The O2, with Samia as special guest. The O2 lists May performances including Saturday 1 May 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-maisie-peters-o2-2027",
+        "title": "Maisie Peters at The O2",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/maisie-peters",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/maisie-peters",
+        "summary": "Maisie Peters is confirmed for her debut headline show at The O2 on Saturday 8 May 2027, opening the venue's 20th anniversary live programme.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-desertfest-2027",
+        "title": "Desertfest London 2027",
+        "type": "festival",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-23",
+        "importance": 82,
+        "venueName": "Multiple Camden Town venues",
+        "venueId": null,
+        "sourceUrl": "https://www.desertfest.co.uk/melvins-to-headline-desertfest-london-2027-plus-monolord-mantar-inter-arma-dopethrone-and-more-phase-1-tickets-on-sale-now/",
+        "ticketUrl": "https://www.desertfest.co.uk/melvins-to-headline-desertfest-london-2027-plus-monolord-mantar-inter-arma-dopethrone-and-more-phase-1-tickets-on-sale-now/",
+        "summary": "Desertfest London returns to Camden Town from 21–23 May 2027, with Melvins announced as the first headliner. The first wave also includes Monolord, Mantar, Inter Arma, Dopethrone and Year of the Cobra.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-weezer-alexandra-palace-2027",
+        "title": "Weezer: The Gathering 2027 Tour",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 82,
+        "venueName": "Alexandra Palace, The Great Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/weezer/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/weezer/",
+        "summary": "Weezer bring The Gathering 2027 Tour to Alexandra Palace on 22 May 2027, with Taking Back Sunday confirmed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-clockstock-2027",
+        "title": "Clockstock 2027",
+        "type": "festival",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 82,
+        "venueName": "Barking Park",
+        "venueId": null,
+        "sourceUrl": "https://clockstockfestival.co.uk/",
+        "ticketUrl": "https://clockstockfestival.co.uk/",
+        "summary": "Clockstock is confirmed for Saturday 29 May 2027 at Barking Park. The announced lineup includes Faithless DJ Set and Pete Tong on the main stage, plus Marco Lys, Danny Rampling, Graeme Park, Tall Paul and more across multiple stages.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-garage-nation-o2-2027",
+        "title": "Garage Nation The Concert",
+        "type": "concert",
+        "startDate": "2027-05-30",
+        "endDate": "2027-05-30",
+        "importance": 80,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/garage-nation-the-concert-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/garage-nation-the-concert-2027",
+        "summary": "Garage Nation brings a UK garage concert-rave format to The O2 on Bank Holiday Sunday 30 May 2027. The event is billed as blending concert production with a high-energy rave atmosphere.",
+        "genres": [
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-erasure-o2-2027",
+        "title": "Erasure with Ladytron",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-12",
+        "importance": 78,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/erasure-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/erasure-2027",
+        "summary": "Erasure bring their Radio!! Radio!! tour to The O2 on 12 May 2027, with Ladytron confirmed as special guests.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-brixton-disco-festival-2027",
+        "title": "Brixton Disco Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 74,
+        "venueName": "Various Brixton venues",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2457558",
+        "ticketUrl": "https://ra.co/events/2457558",
+        "summary": "The 9th annual Brixton Disco Festival is confirmed as a multi-venue celebration of disco culture in Brixton, running from 14:00 to 02:00. The 2027 lineup is still to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

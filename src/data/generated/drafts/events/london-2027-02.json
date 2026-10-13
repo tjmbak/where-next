@@ -1,0 +1,326 @@
+{
+  "slug": "london",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:17:27.273Z",
+  "responseId": "resp_02c54fe4ce5ba943006acda1f530e887d0a066520cb8e85581+resp_0845e4d698a6a004006acda254007087d0a7d2c902c37696e6",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is already unusually strong for London, with arena-scale pop/electronic shows alongside diaspora-led club nights and intimate Camden programming.",
+    "events": [
+      {
+        "id": "london-charli-xcx-o2-feb-2027",
+        "title": "Charli XCX",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-20",
+        "importance": 89,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/charli-xcx-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/charli-xcx-2027",
+        "summary": "Charli XCX brings the Music, Fashion, Film Tour to The O2 for two nights. Audrey Hobert is listed as special guest.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-john-summit-o2-feb-2027",
+        "title": "JOHN SUMMIT: Europe CTRL ESCAPE Arena Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/john-summit-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/john-summit-2027",
+        "summary": "John Summit returns to The O2 with the Europe CTRL ESCAPE Arena Tour. The venue bills him as a global dance music headliner and label owner known for high-energy arena and festival sets.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-bonobo-alexandra-palace-feb-2027",
+        "title": "Bonobo: Distance In Static Live UK/EU Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-27",
+        "importance": 86,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/bonobo/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/bonobo/",
+        "summary": "Bonobo brings his new Distance In Static live show to Alexandra Palace for two nights. Alexandra Palace notes an extra 27 February date was added due to demand.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-dlala-thukzin-ember-2027",
+        "title": "Labyrinth presents: Dlala Thukzin - EMBER Added Date",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.labyrinthevents.com/events/dlala-thukzin-2027-2",
+        "ticketUrl": "https://www.labyrinthevents.com/events/dlala-thukzin-2027-2",
+        "summary": "Labyrinth’s added Roundhouse date for Dlala Thukzin’s EMBER show, foregrounding South African afro-tech, gqom and amapiano in a major London venue after the initial date sold out quickly.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-masego-o2-feb-2027",
+        "title": "Masego & Friends: One Night Only In London",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/masego",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/masego",
+        "summary": "Masego headlines The O2 for a one-night London show. The venue notes his blend of live instrumentation with jazz, R&B and hip-hop influences, and references music from his forthcoming project.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-malugi-jumping-around-2027",
+        "title": "MALUGI: Jumping Around",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/malugi/",
+        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/malugi/",
+        "summary": "MALUGI brings his Happy Hour-adjacent high-energy, UK-influenced house sound to Roundhouse for a big-room electronic night promoted by Origins/Broadwick Live.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-jpegmafia-brixton-feb-2027",
+        "title": "JPEGMAFIA: ‘Experimental Rap’ Tour",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 78,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/jpegmafia-experimental-rap-tour-london-tickets-edp1694302",
+        "ticketUrl": "https://www.livenation.co.uk/event/jpegmafia-experimental-rap-tour-london-tickets-edp1694302",
+        "summary": "JPEGMAFIA brings his 2027 Experimental Rap Tour to O2 Academy Brixton. Live Nation lists the American rapper, singer and producer as the headliner for the London date.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-frantic-timeless-2027",
+        "title": "Frantic Timeless 2027",
+        "type": "club-night",
+        "startDate": "2027-02-27",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/KOKO/Frantic-Timeless-2027/42599582/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/KOKO/Frantic-Timeless-2027/42599582/",
+        "summary": "Long-running London hard house and trance brand Frantic opens its 30-year series with a daytime classics party at KOKO, featuring John Askew, Cally Gage, Captain Tinrib and Steve Maynard.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-role-model-wembley-feb-2027",
+        "title": "Role Model Presents: Chuck On Tour",
+        "type": "concert",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-24",
+        "importance": 76,
+        "venueName": "OVO Arena Wembley",
+        "venueId": null,
+        "sourceUrl": "https://www.ovoarena.co.uk/events/detail/role-model-chuck-on-tour",
+        "ticketUrl": "https://www.ovoarena.co.uk/events/detail/role-model-chuck-on-tour",
+        "summary": "Role Model plays OVO Arena Wembley on the UK/EU leg of Chuck On Tour. Keni Titus is confirmed as the special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-egyptian-lover-2027",
+        "title": "The Egyptian Lover (Live)",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2500900",
+        "ticketUrl": "https://ra.co/events/2500900",
+        "summary": "A live set from West Coast electro and 808 hip-hop pioneer Egyptian Lover at The Jazz Cafe, bridging classic electro, club culture and early hip-hop lineage.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-christian-ab-origins-2027",
+        "title": "Origins: Christian AB",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Night Tales",
+        "venueId": null,
+        "sourceUrl": "https://events.musicofourdesire.com/event/wsgd-origins-christian-ab-event-london-united-kingdom",
+        "ticketUrl": "https://events.musicofourdesire.com/event/wsgd-origins-christian-ab-event-london-united-kingdom",
+        "summary": "Christian AB plays an all-night-long Hackney session spanning house, techno, breaks and electro, with terrace access and paid club entry.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-rnb-ldn-day-party-2027",
+        "title": "R'N'B LDN Day Party @ House Party Soho",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "House Party Soho",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/rnb-ldn-day-party-house-party-soho-tickets-2002713204105",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/rnb-ldn-day-party-house-party-soho-tickets-2002713204105",
+        "summary": "Supa Dupa Fly’s daytime R&B party at House Party Soho, with a second room for 90s and 00s hip-hop, old-school garage and bashment.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-buena-vista-orchestra-feb-2027",
+        "title": "The Buena Vista Orchestra",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 72,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/buena-vista-orchestra",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/buena-vista-orchestra",
+        "summary": "The Buena Vista Orchestra brings a Cuban repertory show to indigo at The O2. The venue describes the ensemble as featuring musicians connected to Buena Vista Social Club, Afro-Cuban All Stars, Celia Cruz, Omara Portuondo, Chucho Valdés and Willie Colon projects.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-rum-punch-brunch-2027",
+        "title": "Rum Punch Brunch - Saturday 13th February 2027",
+        "type": "club-night",
+        "startDate": "2027-02-13",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Brixton Jamm",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/rum-punch-brunch-saturday-13th-february-2027-tickets-1999375795827",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/rum-punch-brunch-saturday-13th-february-2027-tickets-1999375795827",
+        "summary": "A Brixton Jamm daytime diaspora party with DJs billed for tribal house, dancehall, amapiano, hip-hop, soca and afro-house alongside the Rum Punch Brunch format.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop",
+          "house"
+        ]
+      },
+      {
+        "id": "london-herbaliser-band-2027",
+        "title": "The Herbaliser Band",
+        "type": "concert",
+        "startDate": "2027-02-16",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/The-Jazz-Cafe/The-Herbaliser-Band/42811184/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/The-Jazz-Cafe/The-Herbaliser-Band/42811184/",
+        "summary": "Ninja Tune-associated UK jazz, hip-hop and electronic group The Herbaliser Band bring live horns, turntables and instrumental hip-hop to The Jazz Cafe.",
+        "genres": [
+          "jazz",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-disney-worlds-collide-feb-2027",
+        "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+        "type": "concert",
+        "startDate": "2027-02-15",
+        "endDate": "2027-02-16",
+        "importance": 70,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/disney-worlds-collide-concert-tour-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/disney-worlds-collide-concert-tour-2027",
+        "summary": "The Disney Worlds Collide arena production plays two London dates at The O2. The cast listed by the venue includes Malachi Barton, Liamani Segura, Dara Reneé, Mekonnen Knife, Hudson Stone, Swayam Bhatia, Kiara Romero and Alexandro Byrd.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-lovers-rock-laughter-feb-2027",
+        "title": "Lovers Rock & Laughter",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 70,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/lovers-rock-and-laughter",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/lovers-rock-and-laughter",
+        "summary": "Lovers Rock & Laughter returns to indigo at The O2 with live performances from Winsome, Sandra Cross, Paul Dawkins, Paulette Tajah, The Divettes and G Diamondz, backed by the Reminisce Reggae Band. The night also lists DJ Daze and Mr Yard on music duties.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-lit-haus-afrobeats-feb-2027",
+        "title": "Haus – Lit Haus Afrobeats Fridays",
+        "type": "club-night",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 68,
+        "venueName": "Cococure Haus Stratford",
+        "venueId": null,
+        "sourceUrl": "https://cococure.com/event/haus-lit-haus-afrobeats-fridays-dj-slapzz-bonae-ii-dj-fizz-4/",
+        "ticketUrl": "https://cococure.com/event/haus-lit-haus-afrobeats-fridays-dj-slapzz-bonae-ii-dj-fizz-4/",
+        "summary": "Cococure’s weekly Lit Haus party runs 11pm–4am in Stratford, with DJ Slapzz, DJ Emzy, DJ Bradshaw and Bonae the Second listed for this date. The event advertises Afrobeats, amapiano, bashment and hip-hop on one dancefloor.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

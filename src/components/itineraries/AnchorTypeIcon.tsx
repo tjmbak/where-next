@@ -150,7 +150,7 @@ export function anchorIconKindFor(args: {
 export function gradientTokensFor(kind: AnchorIconKind): { from: string; via: string; to: string } {
   switch (kind) {
     case "festival":
-      return { from: "rgba(255,139,61,0.12)", via: "rgba(255,139,61,0.04)", to: "transparent" };
+      return { from: "rgba(232,89,12,0.14)", via: "rgba(232,89,12,0.04)", to: "transparent" };
     case "club-night":
       return { from: "rgba(120,108,220,0.14)", via: "rgba(120,108,220,0.04)", to: "transparent" };
     case "residency":

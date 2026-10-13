@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default function AdminPage() {
-  const referenceDate = new Date("2026-05-05").getTime();
+  const referenceDate = new Date().getTime();
   const staleSources = CURATION_SOURCES.filter((source) => {
     const daysSinceChecked = (referenceDate - new Date(source.lastChecked).getTime()) / 86_400_000;
     return daysSinceChecked > 30;

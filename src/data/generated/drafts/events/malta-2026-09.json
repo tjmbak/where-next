@@ -2,9 +2,9 @@
   "slug": "malta",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:26:22.072Z",
-  "responseId": "resp_0472657a5fc1a9b10069ff5fe202ac81948c0cce77e72cdf06",
-  "searchCalls": 10,
+  "generatedAt": "2026-05-30T18:27:20.729Z",
+  "responseId": "augment:resp_0dbc197352fb5a78006a1b2b8bc26481998a0214a048dca769",
+  "searchCalls": 16,
   "citations": [],
   "data": {
     "destinationSlug": "malta",
@@ -31,6 +31,22 @@
         ]
       },
       {
+        "id": "malta-freedom-street-europe-sep-2026",
+        "title": "Freedom Street Europe 2026",
+        "type": "festival",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-13",
+        "importance": 86,
+        "venueName": "Various Venues, Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/freedom-street-europe-tickets/artist/5549324",
+        "ticketUrl": "https://www.freedomstreeteu.com/book-tickets",
+        "summary": "Freedom Street Europe returns to Malta for a four-day dancehall and Caribbean-culture takeover, with Vybz Kartel vs Mavado listed across the Gaza vs Gully nights.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
         "id": "malta-wah-malta-sep-2026",
         "title": "WAH Malta 2026",
         "type": "festival",
@@ -43,6 +59,76 @@
         "ticketUrl": "https://wah-malta.com/",
         "summary": "Worried About Henry brings a three-day drum and bass takeover to UNO Malta, with Hedex, Hybrid Minds, Shy FX, Wilkinson, Camo & Krooked b2b Mefjus and Kings of the Rollers named by the venue.",
         "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-breaking-borders-2026",
+        "title": "Breaking Borders Festival Malta 2026",
+        "type": "festival",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-06",
+        "importance": 82,
+        "venueName": "Various venues, Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/breaking-borders-tickets/artist/5539264",
+        "ticketUrl": "https://www.breakingbordersmalta.com/book-tickets",
+        "summary": "The large Desi destination festival returns to Malta with South Asian, Punjabi and hip-hop-leaning programming, with Karan Aujla, AP Dhillon, Jasmine Sandlas, Miss Pooja, Panjabi MC and more listed by Ticketmaster.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-fuse-malta-sep-2026",
+        "title": "FUSE Malta 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-20",
+        "importance": 76,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/fuse-malta-2026/",
+        "ticketUrl": "https://www.fusemalta.com/",
+        "summary": "FUSE Malta returns for three days of music, sun and sea, transforming multiple island locations into an immersive sound-focused festival weekend.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-captured-festival-2026",
+        "title": "Captured Festival Malta 2026",
+        "type": "festival",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-06",
+        "importance": 76,
+        "venueName": "Gianpula Village / multiple venues",
+        "venueId": null,
+        "sourceUrl": "https://www.capturedfestival.com/",
+        "ticketUrl": "https://www.capturedfestival.com/tickets",
+        "summary": "Four-day trance and progressive weekender with Gianpula Village stages, a Driftwood sunset boat party, a club session, and Judgement Sundays as the closing event.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "malta-forward-motion-on-the-rock-2026",
+        "title": "Forward Motion: On The Rock 2026",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-28",
+        "importance": 76,
+        "venueName": "UNO Malta / Café del Mar Malta / boat parties",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
+        "ticketUrl": "https://bookings.forwardmotionmalta.com/products/forward-motion-on-the-rock-2026-09-24",
+        "summary": "Four-day over-25s house-culture weekender focused on deep, soulful and bumpy house, with open-air island venues and intimate boat parties.",
+        "genres": [
+          "house",
           "electronic",
           "festival"
         ]
@@ -65,19 +151,40 @@
         ]
       },
       {
-        "id": "malta-freedom-street-europe-sep-2026",
-        "title": "Freedom Street Europe 2026",
+        "id": "malta-liquid-spirit-gozo-2026",
+        "title": "Liquid Spirit Gozo 2026: Legacy & Love",
         "type": "festival",
-        "startDate": "2026-09-10",
-        "endDate": "2026-09-13",
-        "importance": 86,
-        "venueName": "Various Venues, Malta",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-15",
+        "importance": 73,
+        "venueName": "Multiple venues, Gozo",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.uk/freedom-street-europe-tickets/artist/5549324",
-        "ticketUrl": "https://www.freedomstreeteu.com/book-tickets",
-        "summary": "Freedom Street Europe returns to Malta for a four-day dancehall and Caribbean-culture takeover, with Vybz Kartel vs Mavado listed across the Gaza vs Gully nights.",
+        "sourceUrl": "https://www.liquidspiritgozo.com/",
+        "ticketUrl": "https://www.liquidspiritgozo.com/",
+        "summary": "Boutique soulful dance-music festival on Gozo with villa, club, beach, pool, restaurant and boat parties spanning soulful, vocal, deep, uplifting and classic house, plus soul, R&B, funk, boogie and disco influences.",
         "genres": [
+          "house",
+          "electronic",
+          "r-and-b",
+          "jazz",
           "festival"
+        ]
+      },
+      {
+        "id": "malta-forward-motion-sep-2026",
+        "title": "Forward Motion Malta 2026: On the Rock Festival",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-28",
+        "importance": 72,
+        "venueName": "UNO Malta",
+        "venueId": null,
+        "sourceUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
+        "ticketUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
+        "summary": "Forward Motion returns to Malta with On the Rock Festival, a four-day programme of deep, soulful and bumpy house across open-air island venues and boat parties.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -99,6 +206,23 @@
         ]
       },
       {
+        "id": "malta-holy-rave-closing-2026",
+        "title": "The Holy Rave Malta | Closing Party",
+        "type": "club-night",
+        "startDate": "2026-09-03",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Tigullio",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/the-holy-rave-malta-closing-party-2026",
+        "ticketUrl": "https://shotgun.live/en/events/the-holy-rave-malta-closing-party-2026",
+        "summary": "French/Swiss hard-techno party brand The Holy Rave closes its Malta summer run at Tigullio with Kingsmo and Scimia announced.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
         "id": "malta-rock-4-hope-i-pooh-sep-2026",
         "title": "Rock 4 Hope 2026: I POOH",
         "type": "concert",
@@ -115,36 +239,19 @@
         ]
       },
       {
-        "id": "malta-fuse-malta-sep-2026",
-        "title": "FUSE Malta 2026",
-        "type": "festival",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-20",
-        "importance": 76,
-        "venueName": "UNO Malta",
+        "id": "malta-dose-techno-thursdays-2026",
+        "title": "DOSE: Techno Thursdays / Season III",
+        "type": "residency",
+        "startDate": "2026-09-03",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Liquid Club",
         "venueId": null,
-        "sourceUrl": "https://unomalta.com/event/fuse-malta-2026/",
-        "ticketUrl": "https://www.fusemalta.com/",
-        "summary": "FUSE Malta returns for three days of music, sun and sea, transforming multiple island locations into an immersive sound-focused festival weekend.",
+        "sourceUrl": "https://ra.co/events/2371408",
+        "ticketUrl": "https://ra.co/events/2371408",
+        "summary": "Liquid Club’s weekly Thursday hard dance, bounce, and hard-techno residency continues through September, with the RA listing confirming a 3 September edition and a season running into early October.",
         "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "malta-forward-motion-sep-2026",
-        "title": "Forward Motion Malta 2026: On the Rock Festival",
-        "type": "festival",
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-28",
-        "importance": 72,
-        "venueName": "UNO Malta",
-        "venueId": null,
-        "sourceUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
-        "ticketUrl": "https://unomalta.com/event/forward-motion-malta-2026/",
-        "summary": "Forward Motion returns to Malta with On the Rock Festival, a four-day programme of deep, soulful and bumpy house across open-air island venues and boat parties.",
-        "genres": [
-          "house",
+          "techno",
           "electronic"
         ]
       }

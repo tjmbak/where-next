@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { redirect } from "next/navigation";
 import { LoginForm } from "@/components/auth/LoginForm";
 import { getCurrentUser } from "@/lib/supabase/server-auth";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 export const metadata: Metadata = {
   title: "Sign in",
@@ -23,20 +23,7 @@ export default async function LoginPage({ searchParams }: LoginPageProps) {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight text-[var(--foreground)]">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <Link
-          href="/"
-          className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-        >
-          ← back to map
-        </Link>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto flex w-full max-w-[480px] flex-col gap-8 px-6 py-16 sm:px-10">
         <div>

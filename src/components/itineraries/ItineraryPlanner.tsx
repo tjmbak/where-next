@@ -1,7 +1,6 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { ItineraryLoadingState } from "@/components/itineraries/ItineraryLoadingState";
 import { ItineraryView } from "@/components/itineraries/ItineraryView";
@@ -359,12 +358,6 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
               {saving ? "saving…" : "save & share this itinerary"}
               <span aria-hidden>→</span>
             </button>
-            <Link
-              href={`/destinations/${destination.slug}`}
-              className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-            >
-              ← back to the {destination.city.toLowerCase()} guide
-            </Link>
           </div>
         </section>
       ) : null}

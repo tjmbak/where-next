@@ -1,0 +1,304 @@
+{
+  "slug": "new-york",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:56:24.544Z",
+  "responseId": "resp_0e5342179c0d0930006acdab17ec2487d0a2bac03394fc5685+resp_04707a414001d5ea006acdab9cc3e087d0a7676afb2d50a97e",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 5,
+    "year": 2027,
+    "notes": "As of October 13, 2026, confirmed May 2027 listings skew toward arena, theater, jazz, Latin, and touring rock/indie concerts; many NYC club and electronic calendars have not yet announced May lineups.",
+    "events": [
+      {
+        "id": "new-york-leon-bridges-msg-2027",
+        "title": "Leon Bridges: The Happiness Anytime Tour",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 82,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/leon-bridges-el-michels-affair-mari-froes-madison-square-garden-may-2027/3B006546A82E4535",
+        "ticketUrl": "https://www.ticketmaster.com/leon-bridges-presents-the-happiness-anytime-new-york-new-york-05-01-2027/event/3B006546A82E4535",
+        "summary": "Leon Bridges headlines Madison Square Garden with special guests El Michels Affair and Mari Froes. MSG notes the date is subject to change due to playoffs.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-cecile-mclorin-salvant-2027",
+        "title": "Cécile McLorin Salvant",
+        "type": "concert",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-15",
+        "importance": 82,
+        "venueName": "Rose Theater, Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20753/20757",
+        "ticketUrl": "https://ticketing.jazz.org/20753/20757",
+        "summary": "Cécile McLorin Salvant returns to Jazz at Lincoln Center for a three-night Rose Theater run with pianist Sullivan Fortner in her quartet configuration.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-love-of-soul-tour-2027",
+        "title": "The Love of Soul Tour: Fantasia, Anthony Hamilton, October London",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 82,
+        "venueName": "Prudential Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-love-of-soul-tour-newark-new-jersey-05-22-2027/event/02006536A1747C63",
+        "ticketUrl": "https://www.ticketmaster.com/the-love-of-soul-tour-newark-new-jersey-05-22-2027/event/02006536A1747C63",
+        "summary": "Fantasia headlines The Love of Soul Tour at Prudential Center with Anthony Hamilton and October London on the announced lineup.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-world-in-swing-2027",
+        "title": "The World in Swing: Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 80,
+        "venueName": "Rose Theater, Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20750",
+        "ticketUrl": "https://ticketing.jazz.org/20750",
+        "summary": "Jazz at Lincoln Center Orchestra with Wynton Marsalis closes this cross-cultural program with Naseer Shamma, Hamilton de Holanda, and Chano Domínguez on May 1.",
+        "genres": [
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-yuri-lucero-2027",
+        "title": "Yuri & Lucero: Entre Amigas Tour",
+        "type": "concert",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-09",
+        "importance": 78,
+        "venueName": "Prudential Center",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv17FZ_8GkByF1nE/yuri-lucero-entre-amigas-tour",
+        "ticketUrl": "https://www.livenation.com/event/vv17FZ_8GkByF1nE/yuri-lucero-entre-amigas-tour",
+        "summary": "Mexican pop icons Yuri and Lucero bring the Entre Amigas Tour to Prudential Center in nearby Newark.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-ha-ash-united-palace-2027",
+        "title": "Ha*Ash: No Me Hablen de Amor",
+        "type": "concert",
+        "startDate": "2027-05-19",
+        "endDate": "2027-05-19",
+        "importance": 77,
+        "venueName": "United Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/000065338F6858FA",
+        "ticketUrl": "https://www.ticketmaster.com/event/000065338F6858FA",
+        "summary": "Mexican pop duo Ha*Ash brings the No Me Hablen de Amor tour to United Palace in Washington Heights.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-slash-beacon-2027",
+        "title": "Slash feat. Myles Kennedy & The Conspirators: Flying Blind World Tour",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-12",
+        "importance": 75,
+        "venueName": "Beacon Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/slash-beacon-theatre-may-2027/3B00653EB1366B01",
+        "ticketUrl": "https://www.ticketmaster.com/slash-feat-myles-kennedy-the-conspirators-new-york-new-york-05-12-2027/event/3B00653EB1366B01",
+        "summary": "Slash brings the Flying Blind World Tour with Myles Kennedy and The Conspirators to Beacon Theatre.",
+        "genres": []
+      },
+      {
+        "id": "new-york-flor-de-toloache-2027",
+        "title": "Flor de Toloache: Cinco De Mayo Celebration",
+        "type": "concert",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-02",
+        "importance": 72,
+        "venueName": "LeFrak Concert Hall, Kupferberg Center for the Arts",
+        "venueId": null,
+        "sourceUrl": "https://kupferbergcenter.org/event/flor/",
+        "ticketUrl": "https://kupferbergcenter.org/event/flor/",
+        "summary": "Latin Grammy-winning all-women mariachi ensemble Flor de Toloache plays a Cinco de Mayo celebration in Queens, blending mariachi with jazz, soul, and pop influences.",
+        "genres": [
+          "latin",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-valery-meladze-2027",
+        "title": "Valery Meladze",
+        "type": "concert",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-09",
+        "importance": 70,
+        "venueName": "Kings Theatre",
+        "venueId": null,
+        "sourceUrl": "https://us.atgtickets.com/events/valery-meladze/kings-theatre-brooklyn/",
+        "ticketUrl": "https://us.atgtickets.com/events/valery-meladze/kings-theatre-brooklyn/",
+        "summary": "Valery Meladze performs at Kings Theatre in Brooklyn, with ATG noting the show will be performed in Russian.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-the-warning-brooklyn-paramount-2027",
+        "title": "WWSK Presents: The Warning — Everything's Falling World Tour",
+        "type": "concert",
+        "startDate": "2027-05-18",
+        "endDate": "2027-05-18",
+        "importance": 70,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynparamount.com/shows/calendar/2027-05",
+        "ticketUrl": "https://www.ticketmaster.com/the-warning-tickets/artist/2156114",
+        "summary": "The Warning plays Brooklyn Paramount on the Everything's Falling World Tour, with wilt listed on ticketing and tour pages.",
+        "genres": []
+      },
+      {
+        "id": "new-york-airborne-toxic-event-irving-2027",
+        "title": "The Airborne Toxic Event",
+        "type": "concert",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-21",
+        "importance": 70,
+        "venueName": "Irving Plaza",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/artist/1228209",
+        "ticketUrl": "https://www.ticketmaster.com/artist/1228209",
+        "summary": "The Airborne Toxic Event plays Irving Plaza on May 21, part of a May 2027 run also routed through Washington, Boston, Cleveland, Detroit, Chicago, and other cities.",
+        "genres": []
+      },
+      {
+        "id": "new-york-agnes-obel-brooklyn-paramount-2027",
+        "title": "Agnes Obel",
+        "type": "concert",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-28",
+        "importance": 70,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/agnes-obel-brooklyn-new-york-05-28-2027/event/00006531B02C5B1C",
+        "ticketUrl": "https://www.ticketmaster.com/agnes-obel-brooklyn-new-york-05-28-2027/event/00006531B02C5B1C",
+        "summary": "Danish singer, songwriter, and composer Agnes Obel plays Brooklyn Paramount, with doors and show time listed on the Ticketmaster event page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-la-india-mothers-day-2027",
+        "title": "La India / India’s Mother’s Day Concert",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Lehman Center for the Performing Arts",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/17GZv0G62mcUdkz/la-india",
+        "ticketUrl": "https://www.livenation.com/event/17GZv0G62mcUdkz/la-india",
+        "summary": "A Bronx Mother’s Day salsa tradition with La India, the Puerto Rican-born, Bronx-raised “Princess of Salsa,” confirmed for Lehman Center.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-mass-of-the-fermenting-dregs-2027",
+        "title": "Mass of the Fermenting Dregs",
+        "type": "concert",
+        "startDate": "2027-05-16",
+        "endDate": "2027-05-16",
+        "importance": 69,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://lpr.com/lpr_events/motfd27nyc/",
+        "ticketUrl": "https://lpr.com/lpr_events/motfd27nyc/",
+        "summary": "LPR presents Japanese post-hardcore and shoegaze trio Mass of the Fermenting Dregs at Knockdown Center on the Iwaou tour.",
+        "genres": []
+      },
+      {
+        "id": "new-york-henge-brooklyn-bowl-2027",
+        "title": "Henge",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 66,
+        "venueName": "Brooklyn Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.brooklynbowl.com/brooklyn/events/detail/henge-k7vgf_gmd-tmf",
+        "ticketUrl": "https://www.ticketmaster.com/henge-brooklyn-05-29-2027/event/000064CBBB87FB88",
+        "summary": "UK cosmic rave-prog group Henge plays Brooklyn Bowl, with the venue listing doors at 6 PM and show at 8 PM for an 18+ event.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-hip-hop-fever-2027",
+        "title": "Hip Hop Fever",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Lehman Center for the Performing Arts",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/17GZv0G62R2-P9c/hip-hop-fever",
+        "ticketUrl": "https://www.livenation.com/event/17GZv0G62R2-P9c/hip-hop-fever",
+        "summary": "A Bronx hip-hop heritage concert confirmed at Lehman Center; season materials describe it as a night bringing together legendary New York City artists, with full lineup still TBA.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-keo-bowery-2027",
+        "title": "Keo",
+        "type": "concert",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-02",
+        "importance": 62,
+        "venueName": "Bowery Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/0000653ED07BD73E",
+        "ticketUrl": "https://www.ticketmaster.com/event/0000653ED07BD73E",
+        "summary": "London alt-rock band Keo plays Bowery Ballroom as part of its 2027 tour. The Ticketmaster listing confirms doors at 7 PM and a 16+ show.",
+        "genres": []
+      },
+      {
+        "id": "new-york-africa-day-boat-party-2027",
+        "title": "Africa Day Boat Party Edition 1",
+        "type": "club-night",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-23",
+        "importance": 62,
+        "venueName": "Pier 36 NYC",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/africa-day-boat-party-edition-1-tickets-1997643676010",
+        "ticketUrl": "https://www.eventbrite.com/e/africa-day-boat-party-edition-1-tickets-1997643676010",
+        "summary": "An Africa Day late-night boat party from Pier 36, billed around African music, culture, unity, and national-pride dress codes.",
+        "genres": [
+          "festival",
+          "afro-house",
+          "amapiano"
+        ]
+      }
+    ]
+  }
+}

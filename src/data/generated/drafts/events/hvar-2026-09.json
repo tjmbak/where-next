@@ -2,9 +2,9 @@
   "slug": "hvar",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:50:34.362Z",
-  "responseId": "resp_0fdf18a77221e2320069ffd607820081a399bc4653b21222ef",
-  "searchCalls": 19,
+  "generatedAt": "2026-05-30T18:15:05.881Z",
+  "responseId": "augment:resp_0348a5e934ea542f006a1b28b5c0ec819aa388ce1e8a731d9a",
+  "searchCalls": 18,
   "citations": [],
   "data": {
     "destinationSlug": "hvar",
@@ -12,6 +12,57 @@
     "year": 2026,
     "notes": "As of May 2026, September’s confirmed music calendar around Hvar is still sparse, with the strongest verified listing a local folklore song-and-dance showcase in Jelsa on Hvar Island.",
     "events": [
+      {
+        "id": "hvar-carpe-diem-terranzza-2026",
+        "title": "Terranza After Beach Program",
+        "type": "beach-club",
+        "startDate": "2026-06-05",
+        "endDate": "2026-09-14",
+        "importance": 67,
+        "venueName": "Carpe Diem Beach",
+        "venueId": "carpe-diem-beach-hvar",
+        "sourceUrl": "https://beach.cdhvar.com/en/program/chase-the-sunset/",
+        "ticketUrl": null,
+        "summary": "Carpe Diem Beach’s open-air sunset after-beach programme runs daily from 4pm to midnight with free entry, making it the clearest confirmed September dance-oriented beach programme on Hvar before the night programme situation is resolved.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "hvar-hula-hula-beach-party-2026",
+        "title": "Hula Hula Beach Party",
+        "type": "beach-club",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-30",
+        "importance": 64,
+        "venueName": "Hula Hula Hvar",
+        "venueId": "hula-hula-hvar",
+        "sourceUrl": "https://stagcroatia.com/en/activities/hvar/beach-party-hula-hula",
+        "ticketUrl": "https://stagcroatia.com/en/activities/hvar/beach-party-hula-hula",
+        "summary": "A bookable afternoon-to-sunset Hula Hula table-party format with a DJ-led party window from 5pm to 10pm, listed as available through the end of September.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-carpe-diem-bar-night-2026",
+        "title": "Carpe Diem Bar Night Program",
+        "type": "residency",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-30",
+        "importance": 62,
+        "venueName": "Carpe Diem Hvar",
+        "venueId": "carpe-diem-bar-hvar",
+        "sourceUrl": "https://bar.cdhvar.com/en/program/feel-the-night/",
+        "ticketUrl": null,
+        "summary": "Carpe Diem Bar’s 2026 night programme lists DJs, artists and shows every night from 10pm to 2am on the Hvar town terrace, a dependable local warm-up/late-evening option rather than a touring-brand club night.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
       {
         "id": "hvar-island-folklore-groups-2026",
         "title": "Island Folklore Groups on Show",

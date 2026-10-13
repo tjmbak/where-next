@@ -2,9 +2,9 @@
   "slug": "marbella",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:24:24.982Z",
-  "responseId": "resp_02601b43c89741dc0069ff5f3f9d348195ae09a9f9c12aa0bf",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:28:01.960Z",
+  "responseId": "augment:resp_062f7ad765547963006a1b2ba10c788199a1f2286a986b315c",
+  "searchCalls": 15,
   "citations": [],
   "data": {
     "destinationSlug": "marbella",
@@ -12,6 +12,23 @@
     "year": 2026,
     "notes": "June 2026 is anchored by Starlite Occident’s opening run at Auditorio Starlite plus a strong Marbella Arena program spanning indie rock, house, and UK garage/R&B.",
     "events": [
+      {
+        "id": "marbella-lenny-kravitz-starlite-jun-2026",
+        "title": "Lenny Kravitz at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-29",
+        "endDate": "2026-06-29",
+        "importance": 94,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/lenny-kravitz/",
+        "ticketUrl": "https://www.ticketmaster.es/event/lenny-kravitz-entradas/834128600?language=en-us",
+        "summary": "Lenny Kravitz headlines Starlite Occident Marbella as part of the live cycle supporting his Blue Electric Light era.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
       {
         "id": "marbella-ozuna-starlite-jun-2026",
         "title": "Ozuna at Starlite Occident",
@@ -31,38 +48,6 @@
         ]
       },
       {
-        "id": "marbella-laura-brenda-starlite-jun-2026",
-        "title": "Laura y Brenda at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 70,
-        "venueName": "Auditorio Starlite",
-        "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/laura-y-brenda-2/",
-        "ticketUrl": "https://www.ticketmaster.es/event/laura-y-brenda-entradas/39367349?language=en-us",
-        "summary": "Laura Esquivel and Brenda Asnicar bring their Amigas del Corazón World Tour to Starlite Occident, revisiting songs from Patito Feo.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "marbella-kaiser-chiefs-arena-jun-2026",
-        "title": "Kaiser Chiefs at Marbella Arena",
-        "type": "concert",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 80,
-        "venueName": "Marbella Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.es/event/kaiser-chiefs-entradas/656607871",
-        "ticketUrl": "https://www.ticketmaster.es/event/kaiser-chiefs-entradas/656607871",
-        "summary": "Kaiser Chiefs play Marbella Arena with a headline indie-rock show promoted through the venue’s summer concert calendar.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "marbella-defected-arena-jun-2026",
         "title": "Defected Marbella",
         "type": "club-night",
@@ -75,6 +60,24 @@
         "ticketUrl": "https://www.ticketmaster.es/event/86766932?brand=base_mb_es&language=en-us",
         "summary": "Defected returns to Marbella Arena with a house-focused lineup headed by DJ EZ, Eliza Rose, and Melé.",
         "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-craig-david-ts5-jun-2026",
+        "title": "Craig David presents TS5",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 83,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.beatlive.net/event-details/craig-david-presents-ts5",
+        "ticketUrl": null,
+        "summary": "Craig David brings his TS5 format to Marbella Arena, combining DJing, live vocals, MCing, garage classics, and R&B anthems.",
+        "genres": [
+          "r-and-b",
           "house",
           "electronic"
         ]
@@ -97,38 +100,36 @@
         ]
       },
       {
-        "id": "marbella-craig-david-ts5-jun-2026",
-        "title": "Craig David presents TS5",
+        "id": "marbella-camelphat-fitz-2026",
+        "title": "CamelPhat x FITZ Marbella",
         "type": "club-night",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-27",
-        "importance": 83,
-        "venueName": "Marbella Arena",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Fitz Club Marbella",
         "venueId": null,
-        "sourceUrl": "https://www.beatlive.net/event-details/craig-david-presents-ts5",
-        "ticketUrl": null,
-        "summary": "Craig David brings his TS5 format to Marbella Arena, combining DJing, live vocals, MCing, garage classics, and R&B anthems.",
+        "sourceUrl": "https://ra.co/events/2418313",
+        "ticketUrl": "https://ra.co/events/2418313",
+        "summary": "Major tech-house booking at FITZ, with CamelPhat playing a 23:59–06:00 club set via RA Tickets.",
         "genres": [
-          "r-and-b",
           "house",
           "electronic"
         ]
       },
       {
-        "id": "marbella-lenny-kravitz-starlite-jun-2026",
-        "title": "Lenny Kravitz at Starlite Occident",
+        "id": "marbella-kaiser-chiefs-arena-jun-2026",
+        "title": "Kaiser Chiefs at Marbella Arena",
         "type": "concert",
-        "startDate": "2026-06-29",
-        "endDate": "2026-06-29",
-        "importance": 94,
-        "venueName": "Auditorio Starlite",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 80,
+        "venueName": "Marbella Arena",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/lenny-kravitz/",
-        "ticketUrl": "https://www.ticketmaster.es/event/lenny-kravitz-entradas/834128600?language=en-us",
-        "summary": "Lenny Kravitz headlines Starlite Occident Marbella as part of the live cycle supporting his Blue Electric Light era.",
+        "sourceUrl": "https://www.ticketmaster.es/event/kaiser-chiefs-entradas/656607871",
+        "ticketUrl": "https://www.ticketmaster.es/event/kaiser-chiefs-entradas/656607871",
+        "summary": "Kaiser Chiefs play Marbella Arena with a headline indie-rock show promoted through the venue’s summer concert calendar.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "pop"
         ]
       },
       {
@@ -146,6 +147,212 @@
         "genres": [
           "pop",
           "electronic"
+        ]
+      },
+      {
+        "id": "marbella-mk-fitz-2026",
+        "title": "MK x FITZ Marbella",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Fitz Club Marbella",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423334",
+        "ticketUrl": "https://ra.co/events/2423334",
+        "summary": "House veteran MK plays FITZ Marbella for a late 23:59–06:00 club-night booking confirmed on RA Tickets.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-afrobrunch-mogli-2026",
+        "title": "Afrobrunch x Mogli Thursdays",
+        "type": "residency",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-25",
+        "importance": 76,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobrunch-x-Mogli/42357211/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobrunch-x-Mogli/42357211/",
+        "summary": "Afrobrunch’s Marbella edition brings its Afro-culture pool-party format to Mogli, with a brand history tied to major global Afro artists.",
+        "genres": [
+          "festival",
+          "afro-house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-aaron-sevilla-la-misa-2026",
+        "title": "Aaron Sevilla x La Misa at FITZ",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Fitz Marbella",
+        "venueId": null,
+        "sourceUrl": "https://site.fourvenues.com/es/fitz-marbella/events/aaron-sevilla-x-la-misa-19-06-2026-MXOF?direct=true",
+        "ticketUrl": "https://site.fourvenues.com/es/fitz-marbella/events/aaron-sevilla-x-la-misa-19-06-2026-MXOF?direct=true",
+        "summary": "Afro-house-leaning La Misa night at FITZ headlined by Aaron Sevilla, running 00:00–06:00 with advance tickets and table bookings.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-certti-mogli-2026",
+        "title": "Certti Marbella Pool Party Fridays",
+        "type": "residency",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-26",
+        "importance": 74,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Certti-Marbella---Pool-Party/41954354/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Certti-Marbella---Pool-Party/41954354/",
+        "summary": "Certti’s Friday Mogli pool-party run is the venue’s recurring urban-day-party lane, centred on R&B, hip-hop, Afrobeats and amapiano crowds.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-arkadyan-coya-2026",
+        "title": "ARKADYAN at COYA Club Marbella",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "COYA Club Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108039293-arkadyan-at-coya-club-marbella?came_from=64",
+        "ticketUrl": null,
+        "summary": "Touring live-electronic trio ARKADYAN bring organic house, Afro-Balkan and Latin-house sounds to COYA Club Marbella.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-afrobeast-mogli-2026",
+        "title": "AfroBeast x Mogli Tuesdays",
+        "type": "residency",
+        "startDate": "2026-06-02",
+        "endDate": "2026-06-30",
+        "importance": 72,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://site.fourvenues.com/es/mogli-marbella1/events/afrobeast-x-mogli-02-06-2026-RGOS",
+        "ticketUrl": "https://site.fourvenues.com/es/mogli-marbella1/events/afrobeast-x-mogli-02-06-2026-RGOS",
+        "summary": "Weekly poolside AfroBeast takeover at Mogli with Afrobeats, amapiano, hip-hop and Afro-house as the stated summer soundtrack.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "marbella-babylon-gaskin-mogli-2026",
+        "title": "Babylon x Mogli presenting Gaskin",
+        "type": "beach-club",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://web.fourvenues.com/en/mogli-marbella1/events/babylon-x-mogli-presenting-gaskin-13-06-2026-0QFQ",
+        "ticketUrl": "https://web.fourvenues.com/en/mogli-marbella1/events/babylon-x-mogli-presenting-gaskin-13-06-2026-0QFQ",
+        "summary": "Babylon’s Saturday house-led Mogli pool party brings Gaskin for a high-energy daytime session from 12:00 to 20:00.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-laura-brenda-starlite-jun-2026",
+        "title": "Laura y Brenda at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 70,
+        "venueName": "Auditorio Starlite",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/laura-y-brenda-2/",
+        "ticketUrl": "https://www.ticketmaster.es/event/laura-y-brenda-entradas/39367349?language=en-us",
+        "summary": "Laura Esquivel and Brenda Asnicar bring their Amigas del Corazón World Tour to Starlite Occident, revisiting songs from Patito Feo.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-not-like-us-mogli-2026",
+        "title": "Not Like Us x Mogli Sundays",
+        "type": "residency",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-28",
+        "importance": 70,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Not-Like-Us-x-Mogli/42357487/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Not-Like-Us-x-Mogli/42357487/",
+        "summary": "Luxury-urban Sunday pool concept at Mogli with a stated soundtrack of hip-hop, R&B, trap, Afrobeat and amapiano.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-acaso-mogli-night-2026",
+        "title": "Acaso x Mogli By Night",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Acaso-x-Mogli-By-Night/42363797/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Acaso-x-Mogli-By-Night/42363797/",
+        "summary": "Afro-house-rooted night session at Mogli, framed around global rhythm, culture and a 23:30–05:00 late-club setting.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-franglish-fitz-2026",
+        "title": "Franglish x FITZ",
+        "type": "club-night",
+        "startDate": "2026-06-04",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Fitz Marbella",
+        "venueId": null,
+        "sourceUrl": "https://site.fourvenues.com/es/fitz-marbella/events/franglish-x-fitz-04-06-2026-JQRE",
+        "ticketUrl": "https://site.fourvenues.com/es/fitz-marbella/events/franglish-x-fitz-04-06-2026-JQRE",
+        "summary": "French urban/pop-rap artist Franglish lands at FITZ for a late-night Puerto Banús club show with tickets and VIP tables on sale.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-babylon-robbie-doherty-mogli-2026",
+        "title": "Babylon x Mogli presenting Robbie Doherty",
+        "type": "beach-club",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://web.fourvenues.com/en/mogli-marbella1/events/babylon-x-mogli-presenting-robbie-doherty-27-06-2026-JHFL",
+        "ticketUrl": "https://web.fourvenues.com/en/mogli-marbella1/events/babylon-x-mogli-presenting-robbie-doherty-27-06-2026-JHFL",
+        "summary": "Babylon’s Mogli pool-party series continues with Robbie Doherty for a 12:00–20:00 Saturday house day party.",
+        "genres": [
+          "house"
         ]
       }
     ]

@@ -2,30 +2,324 @@
   "slug": "sydney",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:53:05.118Z",
-  "responseId": "resp_0657449132d5ba530069ff65daae708195a7a08ee8663fb27d",
-  "searchCalls": 16,
+  "generatedAt": "2026-10-13T02:45:41.447Z",
+  "responseId": "resp_0ceee9583b59f99b006acd9a77db2887d08673af48b02ed988+resp_0521b097887111bd006acd9ae10e7c87d09a06ac501ad81d19",
+  "searchCalls": 30,
   "citations": [],
   "data": {
     "destinationSlug": "sydney",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026 is already stacked with arena pop/R&B, stadium shows and Hordern indie bills, while festival-style club programming appears less announced so far.",
+    "notes": "November 2026 is especially strong for Sydney/Eora outdoor dance music, with Harbourlife, Anjunadeep Open Air, All Day I Dream, Lost Sundays and Manning Open-Air sitting alongside arena-scale pop and R&B tours.",
     "events": [
       {
-        "id": "sydney-courtney-barnett-nov-2026",
-        "title": "Courtney Barnett",
-        "type": "concert",
-        "startDate": "2026-11-06",
-        "endDate": "2026-11-06",
-        "importance": 78,
-        "venueName": "Sydney Opera House Concert Hall",
+        "id": "sydney-harbourlife-2026",
+        "title": "Harbourlife 2026",
+        "type": "festival",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 91,
+        "venueName": "Fleet Steps, Mrs Macquarie's Chair",
         "venueId": null,
-        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/courtney-barnett",
-        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/courtney-barnett",
-        "summary": "Courtney Barnett plays the Sydney Opera House Concert Hall on Friday 6 November 2026. The Opera House listing presents the show around her fourth album, Creature of Habit.",
+        "sourceUrl": "https://www.botanicgardens.org.au/whats-on/harbourlife-2026",
+        "ticketUrl": null,
+        "summary": "Harbourlife returns to Fleet Steps for a full day of house, techno and club music overlooking Sydney Harbour. The confirmed lineup includes Honey Dijon, Max Dean b2b Luke Dean, Ben Sterling b2b Omar+, HoneyLuv, Jordan Brando, Morgan Seatree, Bella Backe and Samantha Loveridge.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-anjunadeep-open-air-2026",
+        "title": "FORMA: Anjunadeep Open Air Sydney",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 87,
+        "venueName": "Tumbalong Park",
+        "venueId": null,
+        "sourceUrl": "https://formapresents.com.au/event/anjunadeep-open-air-sydney/",
+        "ticketUrl": "https://formapresents.com.au/event/anjunadeep-open-air-sydney/",
+        "summary": "Anjunadeep Open Air takes over Tumbalong Park as part of FORMA with Eli & Fur, Dosem b2b HANA, Jody Wisternoff b2b Rezident, Catching Flies and Planet of Souls. The official program lists the event for Saturday 28 November and describes it as deep, progressive and melodic house.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-robbie-williams-2026",
+        "title": "Robbie Williams — BRITPOP World Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 86,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.accorstadium.com.au/events/robbie_williams_britpop_world_tour_sydney",
+        "ticketUrl": "https://www.accorstadium.com.au/events/robbie_williams_britpop_world_tour_sydney",
+        "summary": "Robbie Williams brings the BRITPOP World Tour to Accor Stadium with G Flip and The Lottery Winners. The stadium confirms the Sydney date as Saturday 14 November 2026.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "sydney-robyn-2026",
+        "title": "Robyn — the sexistential tour",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 86,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://afterpayarena.com.au/event/robyn",
+        "ticketUrl": "https://www.livenation.com.au/event/robyn-the-sexistential-tour-sydney-tickets-edp1650623",
+        "summary": "Robyn brings the sexistential tour to Afterpay Arena on Saturday 21 November 2026. The venue confirms an 8:00pm ticketed start time.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-echoes-of-us-2026",
+        "title": "ECHOES OF US",
+        "type": "festival",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-09",
+        "importance": 84,
+        "venueName": "White Bay Power Station",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2525696",
+        "ticketUrl": "https://ra.co/events/2525696",
+        "summary": "Tang Events brings ECHOES OF US to White Bay Power Station with SIDEPIECE, Malaa, Marten Hørger, Matroda, Wax Motif, HILLS and local support. RA bills it as a large-scale electronic event spanning tech house, minimal tech and techno.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-nina-kraviz-manning-2026",
+        "title": "Nina Kraviz • ANNĒ • SHDW — Sydney",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 84,
+        "venueName": "Manning Bar",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2472846",
+        "ticketUrl": "https://ra.co/events/2472846",
+        "summary": "Nina Kraviz returns to Sydney for a Manning Open-Air headline show with ANNĒ and SHDW. RA lists the event from 16:00 to 01:00 on Saturday 28 November 2026.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-jack-johnson-domain-2026",
+        "title": "Jack Johnson — Surfilmusic Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 83,
+        "venueName": "The Domain",
+        "venueId": null,
+        "sourceUrl": "https://jackjohnsonmusic.com/tour/2026-11-14-the-domain/",
+        "ticketUrl": "https://www.livenation.com.au/event/jack-johnson-surfilmusic-tour-sydney-tickets-edp1671237",
+        "summary": "Jack Johnson plays The Domain with support from Ben Harper, John Butler and Emily Wurramara. The official artist page lists doors at 4:00pm and show at 5:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-daniel-caesar-2026",
+        "title": "Daniel Caesar — Son Of Spergy Tour",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-06",
+        "importance": 82,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://afterpayarena.com.au/event/daniel-caesar",
+        "ticketUrl": "https://afterpayarena.com.au/event/daniel-caesar",
+        "summary": "Daniel Caesar plays two Sydney arena dates for the Son Of Spergy Tour on Thursday 5 and Friday 6 November 2026. The venue lists an 8:00pm ticketed start time.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-carhartt-keys-city-2026",
+        "title": "Carhartt WIP presents: Keys To The City",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Fraser Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2519392",
+        "ticketUrl": "https://ra.co/events/2519392",
+        "summary": "Club 77 presents an outdoor day party at Fraser Park with Move D, Tarzsa, Deepa, Alex Diwa, Jun Wan, Mimi J, Fanatico Records and Lorna Clarkson x Simon Caldwell. RA lists the event from 14:00 to 21:30.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-heaps-gay-offensive-trade-2026",
+        "title": "Heaps Gay OFFENSIVE TRADE",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "TBA / heritage industrial powerstation",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536413",
+        "ticketUrl": "https://ra.co/events/2536413",
+        "summary": "Heaps Gay stages a three-stage queer and allies party in a heritage-listed industrial powerstation with Chippy Nonstop, Hercules & Love Affair, CCL, Amanda Lepore and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-khalid-2026",
+        "title": "Khalid — It’s Always Summer Somewhere Tour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 81,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://afterpayarena.com.au/event/khalid",
+        "ticketUrl": "https://afterpayarena.com.au/event/khalid",
+        "summary": "Khalid returns to Sydney for an Afterpay Arena stop on his It’s Always Summer Somewhere Tour. The venue confirms Friday 13 November 2026 with a 7:30pm ticketed start time.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-joji-2026",
+        "title": "Joji — Solaris Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 80,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://afterpayarena.com.au/event/joji",
+        "ticketUrl": "https://afterpayarena.com.au/event/joji",
+        "summary": "Joji brings the Solaris Tour to Afterpay Arena on Saturday 14 November 2026. The venue lists a 7:00pm ticketed start time.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-all-day-i-dream-2026",
+        "title": "All Day I Dream of Australia | Sydney",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 80,
+        "venueName": "ivy",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-sydney/197441",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-sydney/197441",
+        "summary": "Lee Burridge brings All Day I Dream back to Australia with Lost Desert and Double Touch at ivy. Moshtix confirms the Sydney event for 2:00pm on Saturday 28 November 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-honey-dijon-manning-2026",
+        "title": "Honey Dijon - SYDNEY - MANNING COURTYARD",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-28",
+        "importance": 80,
+        "venueName": "Manning Bar / Manning Courtyard",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536201",
+        "ticketUrl": "https://ra.co/events/2536201",
+        "summary": "Astral People and The House of Mince bring Honey Dijon to Manning Courtyard for a house night rooted in Chicago, Black and queer club lineage.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-lost-sundays-november-2026",
+        "title": "Lost Sundays — November 22 ft. Omar+, The Trip & Lewis Taylor",
+        "type": "residency",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 78,
+        "venueName": "ivy",
+        "venueId": null,
+        "sourceUrl": "https://moshtix.com.au/v2/event/lost-sundays-november-22-ft-omar-the-trip-lewis-taylor/200897",
+        "ticketUrl": "https://moshtix.com.au/v2/event/lost-sundays-november-22-ft-omar-the-trip-lewis-taylor/200897",
+        "summary": "Lost Sundays hosts a November edition at ivy with UK selectors Omar+, The Trip and Lewis Taylor. Moshtix lists the party for 4:00pm on Sunday 22 November 2026.",
+        "genres": [
+          "house",
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-forma-kool-sister-sledge-2026",
+        "title": "FORMA: Kool & The Gang + Sister Sledge ft. Sledgendary",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 78,
+        "venueName": "Tumbalong Park",
+        "venueId": null,
+        "sourceUrl": "https://formapresents.com.au/event/kool-the-gang-sister-sledge-ft-slegendary/",
+        "ticketUrl": "https://formapresents.com.au/event/kool-the-gang-sister-sledge-ft-slegendary/",
+        "summary": "FORMA opens its Tumbalong Park season with Kool & The Gang, Sister Sledge ft. Sledgendary and Wrong Way Up. The official program lists the date as Friday 27 November.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-tekno-2026",
+        "title": "TEKNO & Friends",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 78,
+        "venueName": "Metro Theatre",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=TEKNO26&v=MET",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=TEKNO26&v=MET",
+        "summary": "Afrobeats artist Tekno makes his Australian debut at Metro Theatre for TEKNO & Friends. Ticketek confirms the show for Saturday 28 November 2026 at 8:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-gilles-peterson-courts-2026",
+        "title": "Gilles Peterson - Liberty Hall COURTS - SYD",
+        "type": "club-night",
+        "startDate": "2026-11-15",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Liberty Hall",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2461368",
+        "ticketUrl": "https://ra.co/events/2461368",
+        "summary": "Astral People’s Summer Dance series hosts Gilles Peterson with Kamma & Masalo and BRIA for a courtyard day party joining jazz, soul, broken beat, Brazilian rhythms, jungle, electronic music and diasporic club sounds.",
+        "genres": [
+          "jazz",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -41,6 +335,23 @@
         "ticketUrl": "https://www.axs.com/au/events/1328119/foo-fighters-sydney-tickets",
         "summary": "Foo Fighters bring the Take Cover Tour to Accor Stadium on Tuesday 10 November 2026. The Sydney date is presented by Frontier Touring and Triple M, with The Belair Lip Bombs and TEENS listed as supports.",
         "genres": []
+      },
+      {
+        "id": "sydney-jay-chou-carnival-ii-nov-2026",
+        "title": "Jay Chou — Carnival II World Tour in Sydney",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 88,
+        "venueName": "ENGIE Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/jay-chou-carnival-ii-world-tour-in-sydney-olympic-park-21-11-2026/event/1300648FB741630B",
+        "ticketUrl": "https://www.ticketmaster.com.au/jay-chou-carnival-ii-world-tour-in-sydney-olympic-park-21-11-2026/event/1300648FB741630B",
+        "summary": "Jay Chou brings the Carnival II World Tour to ENGIE Stadium in Sydney Olympic Park on Saturday 21 November 2026. Ticketmaster lists the show as the Sydney stop for the Mandopop star’s 2026 tour.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
       },
       {
         "id": "sydney-charlie-puth-nov-2026",
@@ -60,6 +371,39 @@
         ]
       },
       {
+        "id": "sydney-two-door-cinema-club-nov-2026",
+        "title": "Two Door Cinema Club with The Vaccines",
+        "type": "concert",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 80,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/two-door-cinema-club/",
+        "ticketUrl": "https://thehordern.com.au/event/two-door-cinema-club/",
+        "summary": "Two Door Cinema Club play Hordern Pavilion on Sunday 22 November 2026, with The Vaccines as special guests. The venue listing says Two Door Cinema Club will perform Tourist History in full plus greatest hits.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-courtney-barnett-nov-2026",
+        "title": "Courtney Barnett",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "Sydney Opera House Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/courtney-barnett",
+        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/courtney-barnett",
+        "summary": "Courtney Barnett plays the Sydney Opera House Concert Hall on Friday 6 November 2026. The Opera House listing presents the show around her fourth album, Creature of Habit.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "sydney-death-cab-for-cutie-nov-2026",
         "title": "Death Cab For Cutie",
         "type": "concert",
@@ -71,73 +415,6 @@
         "sourceUrl": "https://thehordern.com.au/event/deathcab/",
         "ticketUrl": "https://thehordern.com.au/event/deathcab/",
         "summary": "Death Cab For Cutie play Hordern Pavilion on Thursday 12 November 2026. The venue listing says the band will showcase hits alongside material from their forthcoming album I Built You A Tower.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "sydney-khalid-nov-2026",
-        "title": "Khalid — It’s Always Summer Somewhere Tour",
-        "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-13",
-        "importance": 86,
-        "venueName": "Qudos Bank Arena",
-        "venueId": null,
-        "sourceUrl": "https://qudosbankarena.com.au/event/khalid",
-        "ticketUrl": "https://qudosbankarena.com.au/event/khalid",
-        "summary": "Khalid brings the It’s Always Summer Somewhere Tour to Qudos Bank Arena on Friday 13 November 2026. Lauv is listed as special guest for the Australia and New Zealand arena shows.",
-        "genres": [
-          "r-and-b",
-          "pop"
-        ]
-      },
-      {
-        "id": "sydney-joji-nov-2026",
-        "title": "JOJI — SOLARIS Tour",
-        "type": "concert",
-        "startDate": "2026-11-14",
-        "endDate": "2026-11-14",
-        "importance": 86,
-        "venueName": "Qudos Bank Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.livenation.com.au/event/joji-solaris-tour-sydney-tickets-edp1655920",
-        "ticketUrl": "https://www.livenation.com.au/event/joji-solaris-tour-sydney-tickets-edp1655920",
-        "summary": "JOJI’s SOLARIS Tour lands at Qudos Bank Arena on Saturday 14 November 2026. Live Nation lists the Sydney date as one of the Australian November stops.",
-        "genres": [
-          "r-and-b",
-          "hip-hop",
-          "pop"
-        ]
-      },
-      {
-        "id": "sydney-jack-johnson-nov-2026",
-        "title": "Jack Johnson — Surfilmusic Tour",
-        "type": "concert",
-        "startDate": "2026-11-14",
-        "endDate": "2026-11-14",
-        "importance": 86,
-        "venueName": "The Domain",
-        "venueId": null,
-        "sourceUrl": "https://jackjohnsonmusic.com/tour/2026-11-14-the-domain/",
-        "ticketUrl": "https://www.ticketmaster.com.au/jack-johnson-surfilmusic-tour-australia-new-zealand-2026-sydney-14-11-2026/event/13006473DA488C88",
-        "summary": "Jack Johnson plays The Domain on Saturday 14 November 2026 as part of the Surfilmusic Tour. His official tour page lists Ben Harper, John Butler and Emily Wurramara as support acts.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "sydney-robbie-williams-nov-2026",
-        "title": "Robbie Williams — BRITPOP World Tour",
-        "type": "concert",
-        "startDate": "2026-11-14",
-        "endDate": "2026-11-14",
-        "importance": 90,
-        "venueName": "Accor Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-sydney-olympic-park-14-11-2026/event/2500646DCB8F8607",
-        "ticketUrl": "https://www.ticketmaster.com.au/robbie-williams-britpop-world-tour-sydney-olympic-park-14-11-2026/event/2500646DCB8F8607",
-        "summary": "Robbie Williams brings the BRITPOP World Tour to Accor Stadium on Saturday 14 November 2026. Ticketmaster lists the Sydney Olympic Park stadium show with a 5:00 pm start time.",
         "genres": [
           "pop"
         ]
@@ -160,54 +437,74 @@
         ]
       },
       {
-        "id": "sydney-robyn-nov-2026",
-        "title": "Robyn — The Sexistential Tour",
-        "type": "concert",
-        "startDate": "2026-11-21",
-        "endDate": "2026-11-21",
-        "importance": 86,
-        "venueName": "Qudos Bank Arena",
+        "id": "sydney-homemade-saturdays-2026",
+        "title": "Homemade Saturdays - 14th November 2026",
+        "type": "residency",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 68,
+        "venueName": "Home Main Venue",
         "venueId": null,
-        "sourceUrl": "https://qudosbankarena.com.au/event/robyn",
-        "ticketUrl": "https://qudosbankarena.com.au/event/robyn",
-        "summary": "Robyn plays Qudos Bank Arena on Saturday 21 November 2026 on The Sexistential Tour. The venue listing frames the show around her album Sexistential and gives a ticketed start time of 8:00 pm.",
+        "sourceUrl": "https://www.eventbrite.com.au/e/homemade-saturdays-14th-november-2026-tickets-1983924647025",
+        "ticketUrl": "https://www.eventbrite.com.au/e/homemade-saturdays-14th-november-2026-tickets-1983924647025",
+        "summary": "Home Sydney’s recurring multi-room Saturday-night residency, billed as bringing house, party, R&B, hip-hop and EDM under one roof at Home The Venue.",
         "genres": [
-          "pop",
+          "house",
+          "electronic",
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-yeah-buoy-sunset-2026",
+        "title": "Yeah Buoy - Sunset Boat Party (14.11)",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "King Street Wharf 3 North / Inception Cruises",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/yeah-buoy-sunset-boat-party-1411-tickets-1986054413213",
+        "ticketUrl": "https://www.eventbrite.com.au/e/yeah-buoy-sunset-boat-party-1411-tickets-1986054413213",
+        "summary": "Sydney Harbour sunset boat party promising house, tech-house and disco across three levels, with rotating local and international house DJs.",
+        "genres": [
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "sydney-jay-chou-carnival-ii-nov-2026",
-        "title": "Jay Chou — Carnival II World Tour in Sydney",
-        "type": "concert",
-        "startDate": "2026-11-21",
-        "endDate": "2026-11-21",
-        "importance": 88,
-        "venueName": "ENGIE Stadium",
+        "id": "sydney-trpl8-beach-edition-2026",
+        "title": "TRPL8 Beach Edition Vol.1",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "TBA - Secret Location",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.au/jay-chou-carnival-ii-world-tour-in-sydney-olympic-park-21-11-2026/event/1300648FB741630B",
-        "ticketUrl": "https://www.ticketmaster.com.au/jay-chou-carnival-ii-world-tour-in-sydney-olympic-park-21-11-2026/event/1300648FB741630B",
-        "summary": "Jay Chou brings the Carnival II World Tour to ENGIE Stadium in Sydney Olympic Park on Saturday 21 November 2026. Ticketmaster lists the show as the Sydney stop for the Mandopop star’s 2026 tour.",
+        "sourceUrl": "https://ra.co/events/2318954",
+        "ticketUrl": "https://ra.co/events/2318954",
+        "summary": "A daytime beachside TRPL8 house session with Melo, Davey Hanna and Mimi J, billed around Chicago house foundations, classic house, soulful vocals and funky grooves.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "sydney-two-door-cinema-club-nov-2026",
-        "title": "Two Door Cinema Club with The Vaccines",
+        "id": "sydney-delilah-bon-2026",
+        "title": "Delilah Bon | Australian East Coast Tour | Sydney",
         "type": "concert",
-        "startDate": "2026-11-22",
-        "endDate": "2026-11-22",
-        "importance": 80,
-        "venueName": "Hordern Pavilion",
+        "startDate": "2026-11-21",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Mary's Underground",
         "venueId": null,
-        "sourceUrl": "https://thehordern.com.au/event/two-door-cinema-club/",
-        "ticketUrl": "https://thehordern.com.au/event/two-door-cinema-club/",
-        "summary": "Two Door Cinema Club play Hordern Pavilion on Sunday 22 November 2026, with The Vaccines as special guests. The venue listing says Two Door Cinema Club will perform Tourist History in full plus greatest hits.",
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/delilah-bon-australian-east-coast-tour-sydney/193236",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/delilah-bon-australian-east-coast-tour-sydney/193236",
+        "summary": "A small-room Sydney date for Delilah Bon, whose self-produced sound blends nu-metal, riot grrrl and hip-hop with a strong LGBTQ+ and activist following.",
         "genres": [
-          "pop",
-          "electronic"
+          "hip-hop",
+          "pop"
         ]
       }
     ]

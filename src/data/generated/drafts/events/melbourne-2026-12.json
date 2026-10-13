@@ -2,16 +2,326 @@
   "slug": "melbourne",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:47:39.968Z",
-  "responseId": "resp_05511ed456b7bd98006a009a2223cc819690b55b20b14b5823",
-  "searchCalls": 15,
+  "generatedAt": "2026-10-13T03:02:01.844Z",
+  "responseId": "resp_0995399ea36e8d46006acd9e5361a487d0b69fafcb8a3a8a1c+resp_0cabd616c10eea34006acd9eb8097c87d085879047a2431fd4",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "melbourne",
     "month": 12,
     "year": 2026,
-    "notes": "December 2026 is already anchored by stadium pop/rock, a major dance-orchestra event, and the confirmed return of Meredith, while many club calendars are not yet announced this far out.",
+    "notes": "December in Melbourne/Naarm is heavy on summer festival season and electronic day-to-night programming, with major camping festivals just outside the city and strong warehouse, beach-club, and NYE lineups in town.",
     "events": [
+      {
+        "id": "melbourne-beyond-the-valley-2026",
+        "title": "Beyond The Valley 2026",
+        "type": "festival",
+        "startDate": "2026-12-28",
+        "endDate": "2027-01-01",
+        "importance": 92,
+        "venueName": "Barunah Plains",
+        "venueId": "beyond-the-valley",
+        "sourceUrl": "https://beyondthevalley.com.au/lineup",
+        "ticketUrl": "https://beyondthevalley.com.au/tickets",
+        "summary": "Beyond The Valley’s 2026 edition runs over New Year’s at Barunah Plains with John Summit, Black Eyed Peas, Skepta, Ocean Alley, KI/KI, Job Jobse, Nia Archives, Armand Van Helden, DJ PGZ and many more across its stages.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-meredith-34-2026",
+        "title": "Meredith 34",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13",
+        "importance": 90,
+        "venueName": "Meredith Supernatural Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://mmf.com.au/",
+        "ticketUrl": "https://mmf.com.au/",
+        "summary": "Meredith 34 runs 11–13 December at the Meredith Supernatural Amphitheatre, with Dijon, underscores, Fcukers, The Dandy Warhols, Hiatus Kaiyote, DJ Seinfeld, Marcellus Pittman and Eddy Current Suppression Ring among the confirmed lineup.",
+        "genres": [
+          "festival",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-good-things-dec-2026",
+        "title": "Good Things Festival 2026 - Melbourne",
+        "type": "festival",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 88,
+        "venueName": "Flemington Racecourse",
+        "venueId": null,
+        "sourceUrl": "https://www.goodthingsfestival.com/blog/good-things-festival---your-2026-line-up-is-here",
+        "ticketUrl": "https://tickets-gen.goodthingsfestival.com.au/outlet/event/ba611014-3087-4957-b03e-762e3998f37e",
+        "summary": "Australia’s touring heavy/alternative festival returns to Melbourne with Limp Bizkit, Simple Plan, Spiritbox, Polaris, The All-American Rejects, Bad Religion, Alexisonfire, Grinspoon, Millencolin and more confirmed on the 2026 lineup.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-new-years-at-the-bowl-2026",
+        "title": "New Year’s At The Bowl 2026",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 86,
+        "venueName": "Sidney Myer Music Bowl and Kings Domain Gardens",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/new-year-s-at-the-bowl-melbourne-tickets-edp1694082",
+        "ticketUrl": "https://www.livenation.com.au/event/new-year-s-at-the-bowl-melbourne-tickets-edp1694082",
+        "summary": "New Year’s At The Bowl returns to central Melbourne for NYE with three stages and a lineup led by Major Lazer, Don West, DJ Seinfeld, Flight Facilities, CC:DISCO!, Helena Hauff and Todd Terje.",
+        "genres": [
+          "festival",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-charlotte-de-witte-wool-store-2026",
+        "title": "Charlotte de Witte - Australia 2026",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 84,
+        "venueName": "The Wool Store",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552287",
+        "ticketUrl": "https://ra.co/events/2552287",
+        "summary": "Charlotte de Witte headlines The Wool Store in West Footscray for a Melbourne warehouse date on her Australia 2026 run.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-defected-northcote-2026",
+        "title": "Defected Melbourne 2026",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 82,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2520345",
+        "ticketUrl": "https://ra.co/events/2520345",
+        "summary": "Defected returns to Melbourne at Northcote Theatre with Sam Divine, Nick Curly, Murphy’s Law and David Penn as part of its late-November/December Australasia tour.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-zuri-festival-2026",
+        "title": "ZURI Festival Melbourne",
+        "type": "festival",
+        "startDate": "2026-12-20",
+        "endDate": "2026-12-21",
+        "importance": 82,
+        "venueName": "PICA (Port Melbourne Industrial Centre for the Arts)",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2548223",
+        "ticketUrl": "https://ra.co/events/2548223",
+        "summary": "ZURI Festival brings Mahmut Orhan, Francis Mercier, Marten Lou, Maison Ware and Rromarin to PICA for a warehouse-scale house and afro-house festival experience.",
+        "genres": [
+          "house",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-anjunadeep-pica-2026",
+        "title": "Anjunadeep Melbourne",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 81,
+        "venueName": "PICA (Port Melbourne Industrial Centre for the Arts)",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2480254",
+        "ticketUrl": "https://ra.co/events/2480254",
+        "summary": "Anjunadeep takes over PICA with Eli & Fur, Dosem b2b HANA, Jody Wisternoff b2b Rezident, Catching Flies and Mike Rish.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-james-blake-2026",
+        "title": "James Blake: Trying Times Australia Tour",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 80,
+        "venueName": "Margaret Court Arena",
+        "venueId": null,
+        "sourceUrl": "https://margaretcourtarena.com.au/event/james-blake-trying-times-australia-tour-melbourne-2026/",
+        "ticketUrl": "https://margaretcourtarena.com.au/event/james-blake-trying-times-australia-tour-melbourne-2026/",
+        "summary": "James Blake returns to Melbourne for the Trying Times Australia Tour at Margaret Court Arena, following his 2026 album of the same name.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-jamaica-music-food-2026",
+        "title": "The Jamaica Music and Food - 10th Anniversary",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Seaworks Maritime Precinct",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/the-jamaica-music-and-food-10th-anniversary-tickets-1988745976752",
+        "ticketUrl": "https://www.eventbrite.com.au/e/the-jamaica-music-and-food-10th-anniversary-tickets-1988745976752",
+        "summary": "The 10th-anniversary Jamaican Music & Food Festival takes over Seaworks with reggae, dancehall, rocksteady and ska across multiple stages.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-i-hate-models-open-air-2026",
+        "title": "I Hate Models - Open Air",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 79,
+        "venueName": "42B Marine Parade, Elwood",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2509899",
+        "ticketUrl": "https://ra.co/events/2509899",
+        "summary": "I Hate Models plays an Australian-exclusive open-air Melbourne show with a four-hour set in Elwood, promoted by Live Nation Australia.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-vtss-warehouse-2026",
+        "title": "VTSS Melbourne",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 78,
+        "venueName": "Preston Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2512036",
+        "ticketUrl": "https://ra.co/events/2512036",
+        "summary": "Novel presents VTSS in an industrial Preston warehouse setting, billed as a full-scale electronic show with raw production and dancefloor energy.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-baby-keem-festival-hall-2026",
+        "title": "Baby Keem: The Ca$ino Tour",
+        "type": "concert",
+        "startDate": "2026-12-09",
+        "endDate": "2026-12-09",
+        "importance": 78,
+        "venueName": "Festival Hall Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalhall.com.au/?post_type=events",
+        "ticketUrl": "https://www.festivalhall.com.au/?post_type=events",
+        "summary": "Baby Keem brings The Ca$ino Tour to Festival Hall Melbourne for a major hip-hop arena-room date.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-tekno-friends-2026",
+        "title": "TEKNO & FRIENDS LIVE IN MELBOURNE",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Timber Yard",
+        "venueId": null,
+        "sourceUrl": "https://events.humanitix.com/tekno-and-friends-live-in-melbourne",
+        "ticketUrl": "https://events.humanitix.com/tekno-and-friends-live-in-melbourne",
+        "summary": "Afrobeats star Tekno brings a diaspora-focused live show to The Timber Yard, with the listing also tagging afrohouse and amapiano.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-pegassi-wool-store-2026",
+        "title": "Pegassi - Australia 2026",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "The Wool Store",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552304",
+        "ticketUrl": "https://ra.co/events/2552304",
+        "summary": "Untitled Group brings Pegassi to The Wool Store for a Melbourne headline date built around fast, rave-nostalgic modern house energy.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-dizzee-rascal-gardens-2026",
+        "title": "Dizzee Rascal: We Want Bass Tour",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 74,
+        "venueName": "Live At The Gardens, Royal Botanic Gardens Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/dizzee-rascal-we-want-bass-tour-melbourne-tickets-edp1685471",
+        "ticketUrl": "https://www.livenation.com.au/event/dizzee-rascal-we-want-bass-tour-melbourne-tickets-edp1685471",
+        "summary": "Dizzee Rascal brings his We Want Bass tour to Royal Botanic Gardens Melbourne with Example, ArrDee and Swaglord Savannah on the bill.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-sundrift-club-dabke-2026",
+        "title": "Sundrift x Club Dabke pres. DJ Habibeats + CHAMOS + Special K",
+        "type": "club-night",
+        "startDate": "2026-12-06",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Riviera Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2486273",
+        "ticketUrl": "https://ra.co/events/2486273",
+        "summary": "Sundrift and Club Dabke link for a Riviera Beach Club day party with DJ Habibeats, CHAMOS, Special K, Bouncy, MzRizk and Mowgli.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-black-mass-2026",
+        "title": "Black Mass",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12",
+        "importance": 72,
+        "venueName": "Inflation Entertainment Complex",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536196",
+        "ticketUrl": "https://ra.co/events/2536196",
+        "summary": "Black Mass is a Berlin-inspired goth and hard-techno multi-level club night with a basement techno room, performances and a strict alternative dress code.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
       {
         "id": "melbourne-joost-klein-dec-2026",
         "title": "Joost Klein - World Tour",
@@ -107,24 +417,6 @@
         "ticketUrl": "https://www.livenation.com.au/",
         "summary": "Guns N’ Roses play Marvel Stadium in Melbourne on Friday 11 December 2026 as part of their World Tour 2026. Live Nation lists Airbourne on the lineup for the Melbourne stadium date.",
         "genres": []
-      },
-      {
-        "id": "melbourne-meredith-music-festival-dec-2026",
-        "title": "Meredith Music Festival 2026",
-        "type": "festival",
-        "startDate": "2026-12-11",
-        "endDate": "2026-12-13",
-        "importance": 90,
-        "venueName": "Meredith Supernatural Amphitheatre",
-        "venueId": null,
-        "sourceUrl": "https://mmf.com.au/",
-        "ticketUrl": null,
-        "summary": "The 34th Meredith Music Festival is confirmed for 11, 12 and 13 December 2026 at the Meredith Supernatural Amphitheatre, near Melbourne. The official festival site confirms the dates, with the lineup still to be announced.",
-        "genres": [
-          "festival",
-          "electronic",
-          "hip-hop"
-        ]
       }
     ]
   }

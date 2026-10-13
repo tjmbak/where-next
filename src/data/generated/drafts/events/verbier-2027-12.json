@@ -1,0 +1,23 @@
+{
+  "slug": "verbier",
+  "month": 12,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:31:06.994Z",
+  "responseId": "resp_0eedbfaba193b663006acdb39e791887d0ae674bbc97ecec20+resp_0ea81b016eac587f006acdb3b8766c87d0b92382f0aad14e57",
+  "searchCalls": 20,
+  "citations": [
+    {
+      "url": "https://www.eventbrite.com/b/switzerland--verbier/nightlife/?utm_source=openai",
+      "title": "Nightlife Events in Verbier, Switzerland - Parties, Dances, & More | Eventbrite",
+      "startIndex": 335,
+      "endIndex": 433
+    }
+  ],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 12,
+    "year": 2027,
+    "notes": "No qualifying underground/genre-scene events for Verbier in December 2027 were found with confirmed dates; current checks surfaced only 2026/early-2027 venue-season listings, platform pages with no Verbier nightlife events, or major festival listings outside December 2027. ([eventbrite.com](https://www.eventbrite.com/b/switzerland--verbier/nightlife/?utm_source=openai))",
+    "events": []
+  }
+}

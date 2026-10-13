@@ -1,0 +1,183 @@
+{
+  "slug": "tokyo",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:01:11.259Z",
+  "responseId": "resp_08395a293f24b8d5006acdac4770ac87d0948c3ef7cef00c45+resp_0fa3262e08cdd965006acdaca2742c87d0bb75c06935d11cae",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is still early in the announcement cycle for Tokyo club calendars, but the Golden Week festival circuit and several pop/rock tour dates are already confirmed.",
+    "events": [
+      {
+        "id": "tokyo-japan-jam-2027",
+        "title": "JAPAN JAM 2027",
+        "type": "festival",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-04",
+        "importance": 88,
+        "venueName": "Chiba City Soga Sports Park",
+        "venueId": null,
+        "sourceUrl": "https://japanjam.jp/",
+        "ticketUrl": null,
+        "summary": "Rockin’on’s Golden Week outdoor festival is confirmed for four days at Chiba City Soga Sports Park, just east of Tokyo. The official site says artist announcements and ticket sales are planned for mid-December 2026.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-greenroom-yokohama-2027",
+        "title": "GREENROOM FESTIVAL ’27 Yokohama",
+        "type": "festival",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-23",
+        "importance": 86,
+        "venueName": "Yokohama Red Brick Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/category/festival/",
+        "ticketUrl": "https://greenroom.jp/",
+        "summary": "GREENROOM FESTIVAL ’27 is confirmed for Yokohama Red Brick Warehouse on May 22–23 before a separate Kobe edition the following weekend. Lineup details are still to be announced, but the long-running surf, art and music festival is a major Tokyo-area May fixture.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-met-jazz-tokyo-2027",
+        "title": "MET JAZZ TOKYO FESTIVAL",
+        "type": "festival",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-30",
+        "importance": 83,
+        "venueName": "NHK Hall, LINE CUBE SHIBUYA, WWW X/WWW and other Shibuya venues",
+        "venueId": null,
+        "sourceUrl": "https://www.metjazztokyo.com/",
+        "ticketUrl": null,
+        "summary": "MET JAZZ TOKYO is a new jazz festival confirmed for May 28–30 across major Shibuya venues including NHK Hall, LINE CUBE SHIBUYA and WWW X/WWW. The official site names Hiromi as ambassador, with Makoto Ozone and Shun Ishiwaka as co-ambassadors.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-scandal-final-tour-2027",
+        "title": "SCANDAL FINAL TOUR 2026-2027 “SCANDAL no 47 Todofuken Tour”",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 75,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.scandal-4.com/live-tour/",
+        "ticketUrl": "https://t.pia.jp/pia/event/event.do?eventCd=2635170",
+        "summary": "SCANDAL’s 47-prefecture final tour closes its Tokyo run at Zepp DiverCity, with the official schedule listing a 16:30 open and 17:30 start. This is one of the month’s strongest J-rock/J-pop concert draws for travelers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-fake-type-zepp-2027",
+        "title": "FAKE TYPE. LIVE TOUR 2027 FAKE CRIME",
+        "type": "concert",
+        "startDate": "2027-05-04",
+        "endDate": "2027-05-04",
+        "importance": 70,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.faketype.net/news/detail/87532",
+        "ticketUrl": "https://eplus.jp/sf/detail/3366890001-P0030032P021001?P6=001",
+        "summary": "FAKE TYPE. bring their 2027 tour to Zepp DiverCity on May 4, with the official page listing 17:00 doors and an 18:00 start. The group’s electro-swing, rap and internet-pop sound makes this a distinctive Golden Week club-pop concert pick.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-puffy-zepp-tour-2027",
+        "title": "PUFFY Zepp TOUR 2027 — Tokyo One-Man Live",
+        "type": "concert",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-13",
+        "importance": 70,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://puffy.jp/30th/tour2027/",
+        "ticketUrl": "https://puffy.jp/30th/tour2027/",
+        "summary": "PUFFY’s 30th-anniversary Zepp tour finishes with a Tokyo one-man live at Zepp DiverCity, officially listed for 18:00 doors and 19:00 start. The page notes the tour combines guest shows elsewhere with the Tokyo finale as a standalone PUFFY concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-yama-yokohama-2027",
+        "title": "yama “the meaning of life TOUR 2027”",
+        "type": "concert",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-09",
+        "importance": 68,
+        "venueName": "Yokohama Bay Hall",
+        "venueId": null,
+        "sourceUrl": "https://yamaofficial.com/en/live/",
+        "ticketUrl": "https://w.pia.jp/t/yama-tour27/",
+        "summary": "yama’s official tour schedule lists a Kanagawa stop at Yokohama Bay Hall on May 9, with 17:00 doors and an 18:00 start. The Yokohama show is the closest May 2027 date to central Tokyo before the tour’s later Tokyo finale in June.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-party-hard-tuesday-2027",
+        "title": "PARTY HARD TUESDAY × PLAYER'S PARADISE",
+        "type": "club-night",
+        "startDate": "2027-05-05",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "Club Asia",
+        "venueId": null,
+        "sourceUrl": "https://nightlifetokyo.com/en/tokyo/events/091b0222-0da9-4fd9-a037-e8006b374d5e",
+        "ticketUrl": null,
+        "summary": "Late-night Club Asia joint anniversary party for PARTY HARD TUESDAY, clubasia, UNITY SYUND and ENERGY SOUND, with reggae/EDM-leaning sound-system selectors and Tokyo club-scene DJs.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-clan-queen-hall-tour-2027",
+        "title": "CLAN QUEEN HALL TOUR 2027",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 64,
+        "venueName": "SGC HALL ARIAKE",
+        "venueId": null,
+        "sourceUrl": "https://clanqueen-hfc.com/s/n210/news/detail/10064?ima=5256",
+        "ticketUrl": null,
+        "summary": "CLAN QUEEN’s official fan-club news confirms the Tokyo date of their 2027 hall tour for May 29 at SGC HALL ARIAKE, with 17:00 doors and 18:00 start. It is a solid local electropop/rock pick on a busy late-May weekend.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-kawasaki-takaya-garden-theater-2027",
+        "title": "Takaya Kawasaki at Tokyo Garden Theater",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 64,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://eplus.jp/sf/detail/3325580001",
+        "ticketUrl": "https://eplus.jp/sf/detail/3325580001",
+        "summary": "Eplus lists singer-songwriter Takaya Kawasaki at Tokyo Garden Theater on May 29, with 17:00 doors and an 18:00 start. This is a larger-scale J-pop concert option on the same weekend as MET JAZZ TOKYO and CLAN QUEEN.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

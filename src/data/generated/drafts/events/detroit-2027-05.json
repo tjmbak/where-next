@@ -1,0 +1,132 @@
+{
+  "slug": "detroit",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:58:27.126Z",
+  "responseId": "resp_0349d9d79581c5b9006acdabe3482887d0a108eff3a31094f9+resp_0a912534b2e77fc9006acdac28887c87d09a9219585b82422f",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "detroit",
+    "month": 5,
+    "year": 2027,
+    "notes": "Confirmed May 2027 programming is led by Movement at Hart Plaza, with pop and R&B headline concerts filling the earlier weekends.",
+    "events": [
+      {
+        "id": "detroit-movement-festival-2027",
+        "title": "Movement Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-31",
+        "importance": 98,
+        "venueName": "Hart Plaza",
+        "venueId": "movement",
+        "sourceUrl": "https://movementfestival.com/faqs",
+        "ticketUrl": "https://movementfestival.com/tickets",
+        "summary": "Movement 2027 is confirmed for Memorial Day weekend, May 29–31, inside Hart Plaza. The lineup has not been announced yet, but the official site has 2027 passes on sale for Detroit’s flagship electronic music festival.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-carly-rae-jepsen-2027",
+        "title": "Carly Rae Jepsen: Day and Night Tour",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 77,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/carly-rae-jepsen-2027",
+        "ticketUrl": "https://www.ticketmaster.com/event/0800653EEA8EC325",
+        "summary": "Carly Rae Jepsen is confirmed for Fox Theatre on May 22, 2027, on the Day and Night Tour with special guest Sarah Kinsley.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-love-of-soul-tour-2027",
+        "title": "The Love of Soul Tour: Fantasia, Anthony Hamilton & October London",
+        "type": "concert",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-15",
+        "importance": 76,
+        "venueName": "Little Caesars Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/fantasia",
+        "ticketUrl": "https://www.ticketmaster.com/the-love-of-soul-tour-detroit-michigan-05-15-2027/event/08006533C6F88B82",
+        "summary": "Fantasia’s Love of Soul Tour is confirmed at Little Caesars Arena on May 15, 2027, with Anthony Hamilton and October London also on the bill.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-lizzy-mcalpine-2027",
+        "title": "Lizzy McAlpine: The Over Country Tour",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 74,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/lizzy-mcalpine",
+        "ticketUrl": "https://www.ticketmaster.com/event/08006537FB91CECB",
+        "summary": "Lizzy McAlpine brings The Over Country Tour to Fox Theatre with special guest Sydney Ross Mitchell on May 7, 2027, according to the official 313 Presents event page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-100-live-techno-2027",
+        "title": "100% LIVE Techno – ALL HARDWARE SETS / Movement Opening Party",
+        "type": "club-night",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-29",
+        "importance": 72,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://es.ra.co/events/2466647",
+        "ticketUrl": "https://es.ra.co/events/2466647",
+        "summary": "Victims of Silence presents the 8th installment of 100% LIVE, an all-hardware, laptop-free techno opening party for Movement Festival Weekend, running 21:00–06:00 with lineup still TBA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-ginuwine-2027",
+        "title": "Ginuwine",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 66,
+        "venueName": "Music Hall Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/ginuwine-detroit-michigan-05-01-2027/event/080064E1D49CD89D",
+        "ticketUrl": "https://www.ticketmaster.com/ginuwine-detroit-michigan-05-01-2027/event/080064E1D49CD89D",
+        "summary": "R&B singer Ginuwine is confirmed for Music Hall Center in Detroit on May 1, 2027, with an 8:00 PM show time listed by Ticketmaster.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-dso-sailing-soft-rock-hits-2027",
+        "title": "Detroit Symphony Orchestra - Sailing - Soft Rock Hits",
+        "type": "concert",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-21",
+        "importance": 60,
+        "venueName": "Max M. and Marjorie S. Fisher Music Center",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1401333/detroit-symphony-orchestra-sailing-soft-rock-hits-tickets",
+        "ticketUrl": "https://www.axs.com/events/1401333/detroit-symphony-orchestra-sailing-soft-rock-hits-tickets",
+        "summary": "A Detroit Symphony Orchestra concert program titled “Sailing - Soft Rock Hits,” confirmed for Friday, May 21, 2027 at 10:45 AM at the Max M. and Marjorie S. Fisher Music Center.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

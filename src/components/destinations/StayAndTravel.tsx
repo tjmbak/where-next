@@ -1,10 +1,12 @@
 import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
 import { getMonthLabel } from "@/data/taxonomy";
+import { airportForDestination } from "@/lib/airports";
 import type { Destination, MonthNumber } from "@/types/content";
 
 type StayAndTravelProps = {
   destination: Destination;
   month?: MonthNumber;
+  year?: number;
   // Explicit trip-date range (used by itinerary view). When provided, takes
   // precedence over `month` for hotel/flight URL building.
   startDate?: string | null;
@@ -14,7 +16,7 @@ type StayAndTravelProps = {
 
 function bookingUrl(
   destination: Destination,
-  args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber }
+  args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber; year?: number }
 ) {
   const range = resolveDateRange(args);
   const params = new URLSearchParams({
@@ -28,18 +30,17 @@ function bookingUrl(
 
 function skyscannerUrl(
   destination: Destination,
-  args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber; origin?: string }
+  args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber; year?: number; origin?: string | null }
 ) {
-  const origin = args.origin ?? "anywhere";
-  const dest = encodeURIComponent(destination.city);
+  const dest = airportForDestination(destination.slug);
+  if (!dest) return "https://www.skyscanner.net/";
   const range = resolveDateRange(args);
-  // Skyscanner accepts depart/return as YYYY-MM-DD via query when the path
-  // form lacks specifics. We use the search-style URL for reliability.
-  const params = new URLSearchParams();
-  if (range.checkin) params.set("outboundaltstartdate", range.checkin);
-  if (range.checkout) params.set("inboundaltsenddate", range.checkout);
-  const qs = params.toString();
-  return `https://www.skyscanner.com/transport/flights/${origin}/${dest}/${qs ? `?${qs}` : ""}`;
+  // Skyscanner's partner referral deeplink; origin is optional (they geolocate).
+  const params = new URLSearchParams({ destination: dest });
+  if (args.origin) params.set("origin", args.origin.toUpperCase());
+  if (range.checkin) params.set("outboundDate", range.checkin);
+  if (range.checkout) params.set("inboundDate", range.checkout);
+  return `https://www.skyscanner.net/g/referrals/v1/flights/day-view/?${params.toString()}`;
 }
 
 function gygUrl(destination: Destination, args: { startDate?: string | null; endDate?: string | null }) {
@@ -53,6 +54,7 @@ function resolveDateRange(args: {
   startDate?: string | null;
   endDate?: string | null;
   month?: MonthNumber;
+  year?: number;
 }): { checkin: string | null; checkout: string | null } {
   if (args.startDate && args.endDate) {
     return { checkin: args.startDate, checkout: args.endDate };
@@ -61,28 +63,46 @@ function resolveDateRange(args: {
     return { checkin: args.startDate, checkout: null };
   }
   if (args.month) {
-    return {
-      checkin: firstDayOfMonth(args.month),
-      checkout: firstDayOfNextMonth(args.month)
-    };
+    return nextOpenWeekend(args.month, args.year ?? new Date().getUTCFullYear());
   }
   return { checkin: null, checkout: null };
 }
 
-function firstDayOfMonth(month: MonthNumber) {
-  const year = new Date().getUTCFullYear();
-  return `${year}-${String(month).padStart(2, "0")}-01`;
+const iso = (d: Date) => d.toISOString().slice(0, 10);
+
+/**
+ * A Fri→Mon stay on the first weekend of the month that's still bookable
+ * (≥2 days out). If the month has already passed, roll to next year's edition.
+ */
+function nextOpenWeekend(month: MonthNumber, year: number): { checkin: string; checkout: string } {
+  const earliest = new Date();
+  earliest.setUTCHours(0, 0, 0, 0);
+  earliest.setUTCDate(earliest.getUTCDate() + 2);
+  for (const y of [year, year + 1]) {
+    const day = new Date(Date.UTC(y, month - 1, 1));
+    while (day.getUTCMonth() === month - 1) {
+      if (day.getUTCDay() === 5 && day >= earliest) {
+        const checkout = new Date(day);
+        checkout.setUTCDate(day.getUTCDate() + 3);
+        return { checkin: iso(day), checkout: iso(checkout) };
+      }
+      day.setUTCDate(day.getUTCDate() + 1);
+    }
+  }
+  const fallback = new Date(earliest);
+  fallback.setUTCDate(fallback.getUTCDate() + 3);
+  return { checkin: iso(earliest), checkout: iso(fallback) };
 }
 
-function firstDayOfNextMonth(month: MonthNumber) {
-  const year = new Date().getUTCFullYear();
-  const nextMonth = ((month % 12) + 1) as MonthNumber;
-  const nextYear = month === 12 ? year + 1 : year;
-  return `${nextYear}-${String(nextMonth).padStart(2, "0")}-01`;
+function shortDate(isoDate: string) {
+  return new Date(`${isoDate}T00:00:00Z`)
+    .toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })
+    .toLowerCase();
 }
 
-export function StayAndTravel({ destination, month, startDate, endDate, homeAirport }: StayAndTravelProps) {
+export function StayAndTravel({ destination, month, year, startDate, endDate, homeAirport }: StayAndTravelProps) {
   const monthLabel = month ? getMonthLabel(month).toLowerCase() : null;
+  const weekend = !startDate && month ? resolveDateRange({ month, year }) : null;
   const dateLabel =
     startDate && endDate
       ? `${startDate} → ${endDate}`
@@ -107,11 +127,11 @@ export function StayAndTravel({ destination, month, startDate, endDate, homeAirp
           subtitle={
             startDate && endDate
               ? `${startDate} → ${endDate} in ${destination.city}`
-              : monthLabel
-                ? `${monthLabel} 2026 stays in ${destination.city}`
+              : weekend?.checkin && weekend.checkout
+                ? `${shortDate(weekend.checkin)} → ${shortDate(weekend.checkout)} · first open ${monthLabel} weekend`
                 : `Stays in ${destination.city}`
           }
-          href={bookingUrl(destination, { startDate, endDate, month })}
+          href={bookingUrl(destination, { startDate, endDate, month, year })}
           provider="booking"
           destinationSlug={destination.slug}
           eventLabel="hotels-booking"
@@ -122,9 +142,9 @@ export function StayAndTravel({ destination, month, startDate, endDate, homeAirp
           subtitle={
             startDate && endDate
               ? `Flights ${homeAirport ? `from ${homeAirport} ` : ""}for ${startDate} → ${endDate}`
-              : `Flights to ${destination.city}${homeAirport ? ` from ${homeAirport}` : ""}`
+              : `Flights into ${airportForDestination(destination.slug) ?? destination.city}${homeAirport ? ` from ${homeAirport}` : ""}`
           }
-          href={skyscannerUrl(destination, { startDate, endDate, month, origin: homeAirport ?? "anywhere" })}
+          href={skyscannerUrl(destination, { startDate, endDate, month, year, origin: homeAirport })}
           provider="skyscanner"
           destinationSlug={destination.slug}
           eventLabel="flights-skyscanner"

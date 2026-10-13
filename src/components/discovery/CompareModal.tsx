@@ -12,6 +12,7 @@ import {
   BUDGET_LABELS,
   GENRE_LABELS,
   MONTHS,
+  SUPPORTED_YEARS,
   VIBE_LABELS,
   getMonthLabel
 } from "@/data/taxonomy";
@@ -208,7 +209,7 @@ function CityHero({
   const dotColor = tierColor(tier);
   const bestMonth = findBestMonth(destination.slug);
   return (
-    <div className="overflow-hidden rounded-lg border border-[var(--border)] bg-[var(--background)]/40">
+    <div className="overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]/40">
       <div className="relative aspect-[16/9] w-full">
         <Image
           src={pickHeroForMonth(destination, anchorMonth)}
@@ -280,12 +281,12 @@ function ActivityBlock({
                 style={{
                   background:
                     overall >= 90
-                      ? `rgba(255, 139, 61, ${0.45 + intensity * 0.45})`
+                      ? `rgba(232, 89, 12, ${0.45 + intensity * 0.45})`
                       : overall >= 75
-                        ? `rgba(245, 217, 113, ${0.25 + intensity * 0.4})`
+                        ? `rgba(217, 119, 6, ${0.25 + intensity * 0.4})`
                         : overall >= 50
-                          ? `rgba(154, 160, 166, ${0.2 + intensity * 0.3})`
-                          : `rgba(91, 94, 98, ${0.15 + intensity * 0.2})`
+                          ? `rgba(146, 133, 122, ${0.22 + intensity * 0.3})`
+                          : `rgba(168, 153, 138, ${0.15 + intensity * 0.2})`
                 }}
                 title={`${getMonthLabel(m)} · ${overall || "—"}`}
               />
@@ -301,23 +302,29 @@ function ActivityBlock({
 }
 
 function EventsList({ destination }: { destination: Destination }) {
-  const events = useMemo(
-    () => getEventsForDestination(destination.slug).slice(0, 4),
-    [destination.slug]
-  );
+  const events = useMemo(() => {
+    const today = new Date().toISOString().slice(0, 10);
+    return SUPPORTED_YEARS.flatMap((year) => getEventsForDestination(destination.slug, year))
+      .filter((event) => (event.endDate ?? event.startDate) >= today)
+      .sort((a, b) => b.importanceScore - a.importanceScore)
+      .slice(0, 4)
+      .sort((a, b) => a.startDate.localeCompare(b.startDate));
+  }, [destination.slug]);
   if (events.length === 0) {
     return (
       <p className="text-[12px] leading-5 text-[var(--muted)]">
-        no curated events tracked yet.
+        no upcoming dates confirmed yet.
       </p>
     );
   }
   return (
     <ul className="space-y-2">
       {events.map((event) => (
-        <li key={event.id} className="text-[12px] leading-5">
+        <li key={`${event.id}@${event.startDate}`} className="text-[12px] leading-5">
           <span className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-            {event.type}
+            {new Date(`${event.startDate}T00:00:00Z`)
+              .toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })
+              .toLowerCase()}
           </span>
           <span className="ml-2 text-[var(--foreground)]">{event.title}</span>
         </li>

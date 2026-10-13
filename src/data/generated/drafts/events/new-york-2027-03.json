@@ -1,0 +1,270 @@
+{
+  "slug": "new-york",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:32:43.547Z",
+  "responseId": "resp_0ed01681f3ed77c4006acda582d28887d0b56310a611e4c501+resp_0135d4af4d49002c006acda602b67487d09efb910866ae6fd7",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is already anchored by The New Colossus on the Lower East Side, plus a spread of Latin/reggaeton, house, electronic, indie-pop, and diaspora concerts across Brooklyn, Manhattan, and nearby Newark.",
+    "events": [
+      {
+        "id": "new-york-new-colossus-festival-2027",
+        "title": "The New Colossus Festival 2027",
+        "type": "festival",
+        "startDate": "2027-03-09",
+        "endDate": "2027-03-14",
+        "importance": 88,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.newcolossusfestival.com/",
+        "ticketUrl": "https://www.newcolossusfestival.com/badges",
+        "summary": "The Lower East Side showcase festival returns March 9–14 with a first wave of artists announced for its 2027 edition, continuing its role as a discovery-focused NYC week for international and local bands.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-gracie-abrams-barclays-2027",
+        "title": "Gracie Abrams — The Look at My Life Tour",
+        "type": "concert",
+        "startDate": "2027-03-16",
+        "endDate": "2027-03-20",
+        "importance": 86,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/gracie-abrams-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/gracie-abrams-2026",
+        "summary": "Gracie Abrams closes her North American arena run with four Brooklyn shows at Barclays Center on March 16, 17, 19, and 20, with The Japanese House listed as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-don-omar-last-king-2027",
+        "title": "Don Omar — The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 84,
+        "venueName": "Prudential Center",
+        "venueId": null,
+        "sourceUrl": "https://www.prucenter.com/events/don-omar-2",
+        "ticketUrl": "https://www.prucenter.com/events/don-omar-2",
+        "summary": "Don Omar brings The Last King World Tour to Newark’s Prudential Center, with a set billed around hits including “Danza Kuduro,” “Dale Don Dale,” “Salió El Sol,” and “Bandoleros.”",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-jay-wheeler-lvf-tour-2027",
+        "title": "Jay Wheeler — La Voz Favorita World Tour",
+        "type": "concert",
+        "startDate": "2027-03-24",
+        "endDate": "2027-03-24",
+        "importance": 82,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/jay-wheeler-2027",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/jay-wheeler-2027",
+        "summary": "Puerto Rican singer Jay Wheeler brings La Voz Favorita World Tour to Barclays Center for a Brooklyn arena date.",
+        "genres": [
+          "latin",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-louie-vega-elements-of-life-2027",
+        "title": "Louie Vega: Elements of Life with Special Guests",
+        "type": "residency",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-07",
+        "importance": 82,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/discover/new-york-city?categoryId=KZFzniwnSyZfZ7v7nJ&classificationId=KnvZfZ7vAvF&msockid=3f6f7e44d2e16c82195068b9d3016de9&page=2&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketweb.com/event/louie-vega-elements-of-life-blue-note-jazz-club-tickets/14372554",
+        "summary": "A multi-night Blue Note run from Bronx house architect Louie Vega and Elements of Life, bridging NYC house, Latin, afrobeat, jazz, hip-hop, gospel and soul traditions.",
+        "genres": [
+          "house",
+          "afro-house",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-louie-vega-elements-life-2027",
+        "title": "Louie Vega: Elements of Life with Special Guests",
+        "type": "residency",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 78,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/louie-vega-elements-of-life-blue-note-jazz-club-tickets/14372554",
+        "ticketUrl": "https://www.ticketweb.com/event/louie-vega-elements-of-life-blue-note-jazz-club-tickets/14372554",
+        "summary": "A representative late show from Louie Vega’s multi-night Elements of Life run at Blue Note, pairing the NYC house figurehead’s dance-music roots with jazz, soul, salsa, and Afrobeat influences.",
+        "genres": [
+          "house",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-saint-levant-afandi-2027",
+        "title": "Saint Levant — AFANDI World Tour",
+        "type": "concert",
+        "startDate": "2027-03-30",
+        "endDate": "2027-03-31",
+        "importance": 76,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/saint-levant-billets/artist/2984782?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/saint-levant-billets/artist/2984782?tt_scene=anchor_view",
+        "summary": "Saint Levant’s AFANDI World Tour includes back-to-back Brooklyn Paramount shows on March 30 and 31, as listed by Ticketmaster and Live Nation.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-jlin-third-coast-percussion-2027",
+        "title": "Jlin and Third Coast Percussion",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 74,
+        "venueName": "Zankel Hall at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.carnegiehall.org/Calendar/2027/03/06/Jlin-and-Third-Coast-Percussion-0730PM",
+        "ticketUrl": "https://www.carnegiehall.org/Calendar/2027/03/06/Jlin-and-Third-Coast-Percussion-0730PM",
+        "summary": "Electronic producer Jlin performs with Third Coast Percussion in Zankel Hall, a Carnegie Hall presentation of the collaborative Vernacular program.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-mc-lyte-brooklyn-bowl-2027",
+        "title": "MC Lyte",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Brooklyn Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/search?q=MC+Lyte&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/search?q=MC+Lyte&tt_scene=anchor_view",
+        "summary": "A Brooklyn Bowl date from MC Lyte, one of New York hip-hop’s foundational voices, offering a strong old-school rap anchor in a club-scale room rather than an arena.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-afrowaves-nexo-2027",
+        "title": "Afrobeats & Amapiano: AfroWaves Party at NEXO NYC",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-27",
+        "importance": 72,
+        "venueName": "NEXO NYC",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/530186?seasonal=p5633dp",
+        "ticketUrl": "https://feverup.com/m/530186?seasonal=p5633dp",
+        "summary": "Weekly Midtown late-night AfroWaves dates spotlighting Afrobeats, amapiano and Afro-house DJs, with March sessions listed for Saturdays across the month.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-blondshell-brooklyn-steel-2027",
+        "title": "Blondshell with NoSo",
+        "type": "concert",
+        "startDate": "2027-03-22",
+        "endDate": "2027-03-22",
+        "importance": 70,
+        "venueName": "Brooklyn Steel",
+        "venueId": null,
+        "sourceUrl": "https://www.bowerypresents.com/events/detail/?event_id=1448392",
+        "ticketUrl": "https://www.bowerypresents.com/events/detail/?event_id=1448392",
+        "summary": "Blondshell plays Brooklyn Steel on the Scaring Strangers Tour, with NoSo listed on the Bowery Presents event page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-calema-brooklyn-steel-2027",
+        "title": "Calema — Origin Tour",
+        "type": "concert",
+        "startDate": "2027-03-31",
+        "endDate": "2027-03-31",
+        "importance": 70,
+        "venueName": "Brooklyn Steel",
+        "venueId": null,
+        "sourceUrl": "https://origin.bowerypresents.com/shows/detail/1606970-calema",
+        "ticketUrl": "https://origin.bowerypresents.com/shows/detail/1606970-calema",
+        "summary": "Calema bring the Origin Tour to Brooklyn Steel, with doors at 7 PM and show at 8 PM on the Bowery Presents listing.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-tomora-brooklyn-paramount-2027",
+        "title": "TOMORA",
+        "type": "concert",
+        "startDate": "2027-03-24",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.tomora.com/tour/",
+        "ticketUrl": "https://www.ticketmaster.com/brooklyn-paramount-tickets-brooklyn/venue/1367?msockid=06c19e0fd2486980186188f0d3a968ad&page=3&tt_scene=anchor_view",
+        "summary": "Electronic/pop touring act TOMORA brings a confirmed Brooklyn Paramount date to New York as part of the artist’s 2027 tour routing.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-lujuria-spanish-post-punk-synth-2027",
+        "title": "Lujuria: Spanish Post Punk & Synth",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 62,
+        "venueName": "Selva NYC",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2376391",
+        "ticketUrl": "https://ra.co/events/2376391",
+        "summary": "Ivy Oh, Loco Bembé, and Discos Mutantes play an underground vinyl night focused on Spanish post-punk and synth at Selva NYC in Brooklyn.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-reggaeton-on-houston-2027",
+        "title": "Reggaeton on Houston - Latin & Reggaeton Party NYC",
+        "type": "club-night",
+        "startDate": "2027-03-26",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "247 Eldridge",
+        "venueId": null,
+        "sourceUrl": "https://en.perto.com/us/new-york-3214/247-eldridge-950357/reggaeton-on-houston-latin-reggaeton-party-nyc-45538701/",
+        "ticketUrl": "https://en.perto.com/us/new-york-3214/247-eldridge-950357/reggaeton-on-houston-latin-reggaeton-party-nyc-45538701/",
+        "summary": "A downtown Latin and reggaeton party listing with a 9 PM March 26 date at 247 Eldridge, useful for travelers tracking NYC’s perreo/Latin nightlife lane.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ACTIVITY_RUBRIC } from "@/data/taxonomy";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 export const metadata: Metadata = {
-  title: "Methodology · where next",
+  title: "Methodology",
   description:
     "How where next scores destinations and events for music-led travel. The rubric, the sources, and how to read the numbers."
 };
@@ -11,20 +12,7 @@ export const metadata: Metadata = {
 export default function MethodologyPage() {
   return (
     <main className="min-h-screen w-full bg-[var(--background)] text-[var(--foreground)]">
-      <header className="absolute left-0 right-0 top-0 z-30 mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="flex items-center gap-5 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          <span className="hidden text-[var(--foreground)] sm:inline">methodology</span>
-          <Link href="/" className="transition hover:text-[var(--foreground)]">
-            ← back to map
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader className="absolute inset-x-0 top-0 z-30" />
 
       <section className="mx-auto w-full max-w-[860px] px-6 pb-32 pt-32 sm:px-10 sm:pt-40">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
@@ -104,9 +92,12 @@ export default function MethodologyPage() {
             dates yourself before booking.
           </p>
           <p className="mt-5 max-w-2xl text-[16px] leading-8 text-[var(--foreground)]/80">
-            Every (city, month) entry is human-reviewed before it ships, and
-            we update the corpus on a rolling cadence as new tour dates and
-            club seasons get announced.
+            Every event is reviewed before it goes live, and anything without a
+            verifiable source is left out. Future months only show dates that
+            organizers have actually announced. The activity score is then
+            computed from the rubric above — so the number stays consistent from
+            one city to the next — and we refresh the calendar on a rolling
+            cadence as new tour dates and club seasons get announced.
           </p>
         </section>
 
@@ -121,12 +112,14 @@ export default function MethodologyPage() {
               promoter or venue&apos;s own page so you transact directly.
             </li>
             <li className="border-l border-[var(--border)] pl-5">
-              We don&apos;t take affiliate kickbacks for hotels or
-              experiences ranked on city guides.
+              We don&apos;t sell rankings. Some hotel, flight, and experience
+              links carry partner tags that may earn us a small commission at no
+              cost to you — they never feed into a score or a sort order.
             </li>
             <li className="border-l border-[var(--border)] pl-5">
-              We don&apos;t publish unreviewed scores: a human signs off every
-              (city, month) before the score and event list go live.
+              We don&apos;t hand-set scores to flatter a destination. The number
+              is formula-driven from the rubric; what we curate is the event and
+              venue data feeding it.
             </li>
             <li className="border-l border-[var(--border)] pl-5">
               Always double-check show dates on the official source. Tour

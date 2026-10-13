@@ -1,0 +1,428 @@
+{
+  "slug": "berlin",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:07:33.929Z",
+  "responseId": "resp_039574f12531a3bf006acdad6e213887d0a2df8e9d8fdd207c+resp_08815983ac592a7d006acdae304dc887d08102ed3f7288d96b",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 6,
+    "year": 2027,
+    "notes": "Confirmed club calendars for June 2027 are still sparse, so the verified picture currently skews toward open-air concerts, arena dates, and a few scene venues.",
+    "events": [
+      {
+        "id": "berlin-fete-de-la-musique-2027",
+        "title": "Fête de la Musique Berlin 2027",
+        "type": "festival",
+        "startDate": "2027-06-21",
+        "endDate": "2027-06-21",
+        "importance": 88,
+        "venueName": "Various venues across Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/events/2102143-2842498-fete-de-la-musique.en.html",
+        "ticketUrl": null,
+        "summary": "Berlin’s citywide Fête de la Musique returns on the summer solstice with free performances across the city. Berlin.de confirms the 2027 edition for June 21.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-blink-182-waldbuehne-2027",
+        "title": "blink-182 – Live 2027 with Billy Talent",
+        "type": "concert",
+        "startDate": "2027-06-08",
+        "endDate": "2027-06-08",
+        "importance": 86,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.waldbuehne-berlin.de/en/event/blink-182_2027-06-08_00/",
+        "ticketUrl": "https://www.waldbuehne-berlin.de/en/event/blink-182_2027-06-08_00/",
+        "summary": "blink-182 headline Waldbühne Berlin with Billy Talent as special guest. The venue page confirms the Tuesday, June 8, 2027 concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-paul-kalkbrenner-wuhlheide-2027",
+        "title": "Paul Kalkbrenner – Open Air at Parkbühne Wuhlheide",
+        "type": "concert",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 86,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.paulkalkbrenner.net/",
+        "ticketUrl": "https://www.ticketmaster.de/event/paul-kalkbrenner-tickets/1306700788?language=en-us",
+        "summary": "Berlin electronic-music heavyweight Paul Kalkbrenner plays a hometown open-air at Parkbühne Wuhlheide. His official site lists the June 26, 2027 Berlin date.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-take-that-waldbuehne-2027",
+        "title": "Take That – Dreamers Tour 2027",
+        "type": "concert",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 82,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.waldbuehne-berlin.de/en/event/take_that_2027-06-12_00/",
+        "ticketUrl": "https://www.eventim.de/event/take-that-dreamers-european-tour-2027-waldbuehne-berlin-22054932/?affiliate=SX3",
+        "summary": "Take That bring the Dreamers Tour to Waldbühne Berlin, with Michael Patrick Kelly listed as special guest. The venue confirms the June 12, 2027 date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-herbert-groenemeyer-waldbuehne-2027",
+        "title": "Herbert Grönemeyer – Open Airs 2027",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-16",
+        "importance": 82,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.groenemeyer.de/konzerte/",
+        "ticketUrl": "https://www.eventim.de/eventseries/herbert-groenemeyer-arena-tour-2027-3940212/",
+        "summary": "Herbert Grönemeyer plays two confirmed open-air dates at Waldbühne Berlin. His official concert page lists Berlin shows on June 15 and June 16, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-don-omar-uber-arena-2027",
+        "title": "Don Omar – The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-06-28",
+        "endDate": "2027-06-28",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/don-omar/",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/don-omar/",
+        "summary": "Puerto Rican reggaeton star Don Omar brings The Last King World Tour to Uber Arena. The venue confirms the Berlin concert for June 28, 2027 at 20:00.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "berlin-jorja-smith-zitadelle-2027",
+        "title": "Jorja Smith – 10 Years of Jorja Smith",
+        "type": "concert",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-02",
+        "importance": 80,
+        "venueName": "Zitadelle Spandau",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.de/event/jorja-smith-10-years-of-jorja-smith-berlin-tickets-edp1692040",
+        "ticketUrl": "https://www.ticketmaster.de/event/jorja-smith-10-years-of-jorja-smith-tickets/724624554",
+        "summary": "Jorja Smith plays Zitadelle Spandau on her “10 Years of Jorja Smith” run. Live Nation lists the Berlin show for June 2, 2027.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-die-aerzte-wuhlheide-2027",
+        "title": "die ärzte – Eine Gänsehaut nach dem andern!",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 80,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://wuhlheide.de/programm/die-arzte/2027-06-05",
+        "ticketUrl": null,
+        "summary": "Berlin punk-pop veterans die ärzte play a sold-out hometown open-air at Parkbühne Wuhlheide. The venue page confirms the June 5, 2027 date and 20:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-rod-stewart-final-encore-2027",
+        "title": "Rod Stewart – The Final Encore",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-01",
+        "importance": 78,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/rodstewart/2027-06-01-2000",
+        "ticketUrl": "https://www.ticketmaster.de/artist/rod-stewart-tickets/2714?language=en-us",
+        "summary": "Rod Stewart brings his “The Final Encore” tour to Berlin’s Uber Arena. The venue listing confirms the June 1, 2027 date.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-tryp-expo-2027",
+        "title": "TRYP EXPO Berlin 2027",
+        "type": "conference",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-13",
+        "importance": 74,
+        "venueName": "Funkhaus Berlin",
+        "venueId": null,
+        "sourceUrl": "https://tryp.de/",
+        "ticketUrl": "https://tryp.de/",
+        "summary": "A four-day culture, science and wellness conference at Funkhaus with expanded music programming across the campus, including deep techno, house and open-air Spree-side stages.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-ikkimel-friends-wuhlheide-2027",
+        "title": "Ikkimel & Friends Open Air",
+        "type": "concert",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 74,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://wuhlheide.de/programm/ikkimel/2027-06-12",
+        "ticketUrl": "https://www.eventim.de/en/event/ikkimel-friends-open-air-2027-parkbuehne-wuhlheide-22058483/?affiliate=5GS",
+        "summary": "Berlin rapper Ikkimel stages an “& Friends” open-air at Parkbühne Wuhlheide. The venue page confirms June 12, 2027, doors at 15:00 and start at 17:00.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-mero-huxleys-2027",
+        "title": "MERO – Live Tour 2027",
+        "type": "concert",
+        "startDate": "2027-06-20",
+        "endDate": "2027-06-20",
+        "importance": 72,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/tickets/hiphop/mero-live-tour-2027-844b3f79-0741-4cdf-8be2-45e84cd5d050/",
+        "ticketUrl": "https://www.eventim.de/en/event/mero-live-tour-2027-huxleys-neue-welt-22065149/?affiliate=5GS",
+        "summary": "German rapper MERO brings his Live Tour 2027 to Huxleys Neue Welt. Berlin.de confirms the Berlin date for June 20, 2027 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-jazz-at-berlin-philharmonic-2027",
+        "title": "Jazz at Berlin Philharmonic: Remember Esbjörn Svensson",
+        "type": "concert",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-19",
+        "importance": 70,
+        "venueName": "Chamber Music Hall, Berliner Philharmonie",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57183/",
+        "ticketUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57183/",
+        "summary": "The Jazz at Berlin Philharmonic series presents “Remember Esbjörn Svensson,” featuring Magnus Öström, Dan Berglund, Joel Lyssarides, Magnus Lindgren, Ulf Wakenius, and Verneri Pohjola. The Philharmoniker calendar confirms June 19, 2027 at 20:00.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-delil-avie-huxleys-2027",
+        "title": "Delil & Avie – 2ORTAKS Tour 2027",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 68,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/tickets/konzerte/delil-avie/2027-06-13-delil-avie-2ortaks-tour-2027-2bc40708-66f1-4993-a0e4-629c5591d524/",
+        "ticketUrl": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-tickets/978282265?language=en-us",
+        "summary": "Deutschrap newcomers Delil & Avie bring their joint 2ORTAKS tour to Huxleys Neue Welt. Berlin.de confirms the Berlin stop for June 13, 2027 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-devoted-open-air-indoor-2027",
+        "title": "DEVOTED (Open Air & Indoor)",
+        "type": "club-night",
+        "startDate": "2027-06-05",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "OST",
+        "venueId": null,
+        "sourceUrl": "https://underowl.net/en/calendar/event/20375",
+        "ticketUrl": null,
+        "summary": "DEVOTED returns to OST for an open-air and indoor edition with Berlin hard-techno duo Kø:lab listed on the lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-acht-eimer-so36-2027",
+        "title": "Acht Eimer Hühnerherzen – Hearts on Fire 2027",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 66,
+        "venueName": "SO36",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/acht-eimer-huehnerherzen-c13b6cfa-1714-41ac-a7aa-10ae137de028/",
+        "ticketUrl": "https://www.so36.com/tickets",
+        "summary": "Acht Eimer Hühnerherzen bring their “Hearts on Fire 2027” tour to Kreuzberg institution SO36. The listing confirms June 5, 2027 at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-demolition-2027",
+        "title": "DEMOLITION",
+        "type": "club-night",
+        "startDate": "2027-06-12",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/promoters/106281",
+        "ticketUrl": null,
+        "summary": "Demolition Collective Berlin lists a June 2027 edition of its techno-focused DEMOLITION party at Lokschuppen Berlin.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-blutengel-astra-2027",
+        "title": "Blutengel – Schatten:Welt Tour 2027",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 64,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/blutengel-schatten-welt-tour-2027/2027-06-05-blutengel-schatten-welt-tour-2027-98ae1aa1-85e7-43c5-a64f-944eb3e398d7/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/rock-pop/blutengel-schatten-welt-tour-2027/2027-06-05-blutengel-schatten-welt-tour-2027-98ae1aa1-85e7-43c5-a64f-944eb3e398d7/",
+        "summary": "Berlin dark-electronic act Blutengel close their Schatten:Welt Tour at Astra Kulturhaus. The event page confirms June 5, 2027 at 20:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-philharmonic-waldbuehne-finale-2027",
+        "title": "Berliner Philharmoniker: Season Finale at the Waldbühne",
+        "type": "concert",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 86,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57187/",
+        "ticketUrl": null,
+        "summary": "The Berliner Philharmoniker close their season at the Waldbühne with Daniel Harding conducting and Augustin Hadelich as violin soloist. The programme includes Johann Strauss, Ravel, Stravinsky, Richard Strauss and Sarasate.",
+        "genres": []
+      },
+      {
+        "id": "berlin-philharmonic-yoyo-ma-jun-2027",
+        "title": "Berliner Philharmoniker with Dima Slobodeniouk and Yo-Yo Ma",
+        "type": "concert",
+        "startDate": "2027-06-03",
+        "endDate": "2027-06-05",
+        "importance": 84,
+        "venueName": "Philharmonie Berlin – Main Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57173/",
+        "ticketUrl": null,
+        "summary": "The Berliner Philharmoniker perform with conductor Dima Slobodeniouk and cellist Yo-Yo Ma across three listed dates. The programme includes Brett Dean, Schumann’s Cello Concerto and excerpts from Mendelssohn’s A Midsummer Night’s Dream.",
+        "genres": []
+      },
+      {
+        "id": "berlin-die-aerzte-wuhlheide-06-2027",
+        "title": "Die Ärzte: Eine Gänsehaut nach dem andern!",
+        "type": "concert",
+        "startDate": "2027-06-06",
+        "endDate": "2027-06-06",
+        "importance": 84,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.wuhlheide.de/programm/die-aerzte/2027-06-06",
+        "ticketUrl": null,
+        "summary": "A second sold-out Die Ärzte show is confirmed at Parkbühne Wuhlheide. The venue lists doors at 16:00 and showtime at 18:00.",
+        "genres": []
+      },
+      {
+        "id": "berlin-staatsoper-fuer-alle-2027",
+        "title": "Staatsoper für alle – Open-Air-Konzert",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 83,
+        "venueName": "Bebelplatz",
+        "venueId": null,
+        "sourceUrl": "https://www.staatskapelle-berlin.de/de/konzerte/01-06-2027/37/",
+        "ticketUrl": null,
+        "summary": "Staatskapelle Berlin’s free open-air concert on Bebelplatz is listed for 13 June with Christian Thielemann conducting. The programme includes Mendelssohn and Liszt, and the listing states free entry with no registration required.",
+        "genres": []
+      },
+      {
+        "id": "berlin-cecilia-bartoli-jubilee-2027",
+        "title": "Jubiläumskonzert Cecilia Bartoli: Il barbiere di Siviglia",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-04",
+        "importance": 82,
+        "venueName": "Staatsoper Unter den Linden",
+        "venueId": null,
+        "sourceUrl": "https://www.staatsoper-berlin.de/de/spielplan/01-06-2027/",
+        "ticketUrl": null,
+        "summary": "Cecilia Bartoli appears in a concert performance of Il barbiere di Siviglia marking her 40-year stage anniversary. Gianluca Capuano conducts at Staatsoper Unter den Linden.",
+        "genres": []
+      },
+      {
+        "id": "berlin-yuja-wang-mahler-chamber-2027",
+        "title": "Mahler Chamber Orchestra and Yuja Wang",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 80,
+        "venueName": "Philharmonie Berlin – Großer Saal",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin-buehnen.de/de/spielplan/das-mahler-chamber-orchestra-yuja-wang/events/367940/",
+        "ticketUrl": null,
+        "summary": "Yuja Wang performs with the Mahler Chamber Orchestra at the Philharmonie Berlin. The listed programme pairs Brahms’ Piano Concertos Nos. 1 and 2.",
+        "genres": []
+      },
+      {
+        "id": "berlin-dso-casual-concert-jun-2027",
+        "title": "DSO Berlin Casual Concert with Dalia Stasevska",
+        "type": "concert",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 72,
+        "venueName": "Philharmonie Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.dso-berlin.de/de/konzert/bihlmaier-casual-concert-philharmonie-berlin-26-06-2027/",
+        "ticketUrl": null,
+        "summary": "The Deutsches Symphonie-Orchester Berlin presents a Casual Concert with Dalia Stasevska and pianist Gabriela Montero. The listing includes Ravel’s Piano Concerto in G major and a post-concert lounge with live act and DJ.",
+        "genres": []
+      },
+      {
+        "id": "berlin-deutsche-oper-wagner-fantastique-2027",
+        "title": "Deutsche Oper Berlin: Symphony Concert – Wagner Fantastique",
+        "type": "concert",
+        "startDate": "2027-06-29",
+        "endDate": "2027-06-29",
+        "importance": 70,
+        "venueName": "Deutsche Oper Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/classical-music/symphony-concert-wagner-fantastique/2027-06-29-n-a-9babe0c1-0483-4a4c-8c6f-0816c9ae790c/",
+        "ticketUrl": null,
+        "summary": "Michele Spotti conducts the Orchestra of Deutsche Oper Berlin in a programme pairing Wagner with Berlioz. The listed works include Wagner’s Rienzi overture and Wesendonck Lieder, plus Berlioz’s Symphonie fantastique.",
+        "genres": []
+      }
+    ]
+  }
+}

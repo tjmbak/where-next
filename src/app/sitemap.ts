@@ -1,11 +1,10 @@
 import type { MetadataRoute } from "next";
-import { GENRE_LABELS, MONTHS, REGIONS, getMonthLabel } from "@/data/taxonomy";
+import { GENRE_LABELS, MONTHS, REGIONS, SUPPORTED_YEARS, getMonthLabel } from "@/data/taxonomy";
 import { DESTINATIONS } from "@/data/music-travel";
 import { siteUrl } from "@/lib/structured-data";
 import type { Genre, MonthNumber, Region } from "@/types/content";
 
 const BASE = siteUrl();
-const SUPPORTED_YEARS = [2025, 2026, 2027];
 
 function monthSlug(month: MonthNumber) {
   return getMonthLabel(month).toLowerCase();
@@ -19,7 +18,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
   const entries: MetadataRoute.Sitemap = [
     { url: `${BASE}/`, lastModified: now, changeFrequency: "daily", priority: 1.0 },
-    { url: `${BASE}/methodology`, lastModified: now, changeFrequency: "monthly", priority: 0.4 }
+    { url: `${BASE}/methodology`, lastModified: now, changeFrequency: "monthly", priority: 0.4 },
+    { url: `${BASE}/find`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
+    { url: `${BASE}/events`, lastModified: now, changeFrequency: "weekly", priority: 0.6 }
   ];
 
   for (const destination of DESTINATIONS) {

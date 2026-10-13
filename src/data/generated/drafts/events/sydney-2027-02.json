@@ -1,0 +1,369 @@
+{
+  "slug": "sydney",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:26:15.437Z",
+  "responseId": "resp_0fee94cc59430bc8006acda3ebe0f887d095526e40f097c871+resp_068aab6354f34ae4006acda470472887d0978293ab620c0b95",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is already anchored by Laneway, Mardi Gras season, Sydney Summertime, Opera House Forecourt shows, and a strong run of electronic and diaspora club/concert picks.",
+    "events": [
+      {
+        "id": "sydney-laneway-festival-2027",
+        "title": "Laneway Festival Sydney 2027",
+        "type": "festival",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 94,
+        "venueName": "Centennial Park",
+        "venueId": "laneway-sydney",
+        "sourceUrl": "https://www.lanewayfestival.com/sydney/event-info",
+        "ticketUrl": "https://www.lanewayfestival.com/sydney/home",
+        "summary": "Laneway Festival Sydney lands at Centennial Park with Fontaines D.C., The Hayley Williams Show, Kim Petras, MUNA, Slayyyter, Ninajirachi, Rico Nasty and more confirmed on the official lineup.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-strokes-summertime-2027",
+        "title": "The Strokes — Reality Awaits at Sydney Summertime",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 88,
+        "venueName": "Centennial Park",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/the-strokes-reality-awaits/200274",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/the-strokes-reality-awaits/200274",
+        "summary": "The Strokes headline the new Sydney Summertime concert series at Centennial Park, joined by Beck, Courtney Barnett and Promiseland.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-calvin-harris-domain-2027",
+        "title": "Calvin Harris — Australia Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 88,
+        "venueName": "The Domain",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-20-02-2027/event/1300652F8EFD20A3",
+        "ticketUrl": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-20-02-2027/event/1300652F8EFD20A3",
+        "summary": "Calvin Harris opens his Sydney run at The Domain with a large-scale outdoor electronic headline show listed by Ticketmaster.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-mardi-gras-fair-day-2027",
+        "title": "Sydney Mardi Gras Fair Day 2027",
+        "type": "festival",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "importance": 85,
+        "venueName": "Victoria Park",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigras.org.au/event/fair-day/",
+        "ticketUrl": null,
+        "summary": "Mardi Gras Fair Day returns to Victoria Park as a signature all-day festival kick-off with DJs, dancefloors, drag, performance and community programming.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-hayley-williams-show-2027",
+        "title": "The Hayley Williams Show",
+        "type": "concert",
+        "startDate": "2027-02-10",
+        "endDate": "2027-02-10",
+        "importance": 82,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.enmoretheatre.com.au/event/the-hayley-williams-show/",
+        "ticketUrl": "https://www.enmoretheatre.com.au/event/the-hayley-williams-show/",
+        "summary": "Hayley Williams’ intimate Australian show is listed by Enmore Theatre for February 2027, featuring material from across her solo albums.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-leon-bridges-forecourt-2027",
+        "title": "Leon Bridges with special guest 54 Ultra",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-26",
+        "importance": 82,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/leon-bridges",
+        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/leon-bridges",
+        "summary": "Leon Bridges plays two Forecourt dates at Sydney Opera House on The Happiness Anytime Tour, with 54 Ultra confirmed as special guest.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-soul-of-sydney-kenny-dope-2027",
+        "title": "Soul of Sydney Open Air feat. Kenny Dope",
+        "type": "club-night",
+        "startDate": "2027-02-28",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "The Greenwood Hotel",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2544141",
+        "ticketUrl": null,
+        "summary": "Soul of Sydney hosts a daytime open-air courtyard session with Masters At Work legend Kenny Dope, Soul of Sydney DJs and Phil Toke, spanning hip-hop, house, funk, soul and disco.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-fkj-hordern-2027",
+        "title": "FKJ — Tyber Tour",
+        "type": "concert",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-24",
+        "importance": 78,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://www.entertainmentquarter.com.au/visit/fkj-hordern-pavilion/",
+        "ticketUrl": "https://www.entertainmentquarter.com.au/visit/fkj-hordern-pavilion/",
+        "summary": "FKJ is confirmed for Hordern Pavilion on the Tyber Tour, bringing his electronic and live-instrumental performance style to Moore Park.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "sydney-angus-julia-stone-2027",
+        "title": "Angus & Julia Stone — Karaoke Bar World Tour",
+        "type": "concert",
+        "startDate": "2027-02-28",
+        "endDate": "2027-02-28",
+        "importance": 78,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/angus-julia-stone",
+        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/angus-julia-stone",
+        "summary": "Sydney-born Angus & Julia Stone return home to the Opera House Forecourt for a summer concert supporting their Karaoke Bar album.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-bastille-hordern-2027",
+        "title": "Bastille — Australian Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-09",
+        "endDate": "2027-02-09",
+        "importance": 76,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://thehordern.com.au/event/bastille/",
+        "ticketUrl": "https://thehordern.com.au/event/bastille/",
+        "summary": "Bastille bring their Australian Tour 2027 to the Hordern Pavilion, with the venue confirming the date, doors and on-sale details.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-oxlade-live-2027",
+        "title": "Oxlade Live",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "ARQ Sydney",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/oxlade-live-tickets-2002502800783",
+        "ticketUrl": "https://www.eventbrite.com.au/e/oxlade-live-tickets-2002502800783",
+        "summary": "Afrobeats headliner Oxlade brings his Australia run to ARQ Sydney for a Friday-night diaspora club concert promoted by Hyp Ent Group.",
+        "genres": [
+          "afro-house",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-chicane-manly-2027",
+        "title": "30 Years of Chicane – Australian National Tour, Manly",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Hotel Steyne",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531594",
+        "ticketUrl": null,
+        "summary": "Rodd Richards Presents brings Chicane’s 30-year electronic/house anniversary tour to a beachside Manly rooftop-style session with Robbie Lowe, Rodd La Roux and Arrnott Olssen.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-chicane-ivy-2027",
+        "title": "Chicane — 30 Year Anniversary Tour at ivy",
+        "type": "club-night",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 74,
+        "venueName": "ivy",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-ivy-sydney/199771",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-ivy-sydney/199771",
+        "summary": "Chicane celebrates 30 years of classic and new electronic material at ivy Sydney for a daytime rooftop session presented by Rodd Richards.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-king-yellowman-queen-ifrica-2027",
+        "title": "King Yellowman and Queen Ifrica",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Factory Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.factorytheatre.com.au/event/king-yellowman/",
+        "ticketUrl": "https://www.factorytheatre.com.au/event/king-yellowman/",
+        "summary": "A roots-reggae and dancehall-rooted diaspora bill with King Yellowman, Queen Ifrica and Sydney supports including Qween G, Altafari, Fasmwa, Jah Tung and More Judgment.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-holly-humberstone-2027",
+        "title": "Holly Humberstone — Cruel World Tour",
+        "type": "concert",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 72,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.hollyhumberstone.com/gig/thu-4th-feb-2027-sydney-enmore-theatre/",
+        "ticketUrl": "https://www.livenation.com.au/event/holly-humberstone-sydney-tickets-edp1691879",
+        "summary": "Holly Humberstone plays Sydney’s Enmore Theatre on her 2027 Australian headline run, with Holly Hebe listed as special guest by Live Nation.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-isaiah-rashad-enmore-2027",
+        "title": "Isaiah Rashad — Lil Sunny’s Awful Road Trip",
+        "type": "concert",
+        "startDate": "2027-02-28",
+        "endDate": "2027-02-28",
+        "importance": 72,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?p=ENMO2027660IA&sh=RASISAI27&v=NMO",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?p=ENMO2027660IA&sh=RASISAI27&v=NMO",
+        "summary": "Isaiah Rashad brings his 2027 tour to Enmore Theatre, with Ticketek listing the Sydney date and VIP package details.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-igorrr-liberty-hall-2027",
+        "title": "IGORRR",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 70,
+        "venueName": "Liberty Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/igorrr/196890",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/igorrr/196890",
+        "summary": "French genre-blending electronic/experimental act IGORRR closes the Australian tour at Sydney’s Liberty Hall, according to the Moshtix event page.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-glass-island-soul-sundays-finesse-2027",
+        "title": "Glass Island: Soul on Sundays – Finesse Live",
+        "type": "club-night",
+        "startDate": "2027-02-14",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Glass Island / King Street Wharf 9",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/glass-island-soul-on-sundays-finesse-live-sun-14-feb-2027-tickets-1993504372241",
+        "ticketUrl": "https://www.eventbrite.com.au/e/glass-island-soul-on-sundays-finesse-live-sun-14-feb-2027-tickets-1993504372241",
+        "summary": "RED ROOM and Soul Harbour’s Glass Island residency centres Sydney’s old-school R&B and hip-hop culture with live music, DJs and harbour-club energy.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "sydney-bts-arirang-feb-2027",
+        "title": "BTS WORLD TOUR ‘ARIRANG’ in Sydney",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-21",
+        "importance": 94,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.accorstadium.com.au/articles/bts_announce_arirang_world_tour_dates_for_accor_stadium",
+        "ticketUrl": "https://www.ticketmaster.com.au/bts-tickets/artist/2110227",
+        "summary": "BTS bring their WORLD TOUR ‘ARIRANG’ to Accor Stadium for two Sydney stadium shows on Saturday 20 and Sunday 21 February 2027. The venue announcement confirms Live Nation as promoter and describes the production as a 360-degree in-the-round stadium show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-citizen-drug-church-feb-2027",
+        "title": "Citizen ‘Halcyon Blues’ Australian Tour 2027 w/ Drug Church",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 72,
+        "venueName": "Liberty Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.destroyalllines.com/tours/citizen-2027",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/citizen-halcyon-blues-australian-tour-2027-w-drug-church/194763",
+        "summary": "Citizen play Liberty Hall on Saturday 27 February 2027 on the Halcyon Blues Australian Tour, with special guests Drug Church. The date is confirmed by promoter Destroy All Lines and ticketing partner Moshtix.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-inquisition-2027",
+        "title": "INQUISITION 2027",
+        "type": "club-night",
+        "startDate": "2027-02-27",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Factory Theatre",
+        "venueId": null,
+        "sourceUrl": "https://hausofsavvy.au/inquisition/",
+        "ticketUrl": null,
+        "summary": "Haus of Savvy’s large-format fetish and kink dance party returns to Marrickville with two levels of dance areas, dark electronic beats, sideshows, and an inclusive LGBTQ+/BDSM/alternative community focus from 6pm to 2am.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

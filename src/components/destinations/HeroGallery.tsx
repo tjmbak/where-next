@@ -2,13 +2,15 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Image from "next/image";
-import type { Destination } from "@/types/content";
-import { heroVariantsForGallery } from "@/lib/hero-images";
+import type { Destination, MonthNumber } from "@/types/content";
+import { heroVariantsForGallery, pickHeroForMonth } from "@/lib/hero-images";
 
 const ROTATE_MS = 7000;
 
 type HeroGalleryProps = {
   destination: Destination;
+  /** When set, the gallery opens on the shot that best matches the month. */
+  month?: MonthNumber;
 };
 
 /**
@@ -19,9 +21,18 @@ type HeroGalleryProps = {
  * - Respects prefers-reduced-motion (defaults to single peak frame)
  * - Manual prev / next + numbered dots
  */
-export function HeroGallery({ destination }: HeroGalleryProps) {
+export function HeroGallery({ destination, month }: HeroGalleryProps) {
   const slides = useMemo(() => heroVariantsForGallery(destination), [destination]);
-  const [active, setActive] = useState(0);
+  // Open on the shot that matches the selected month (peak vs shoulder).
+  const initialIndex = useMemo(() => {
+    const target = pickHeroForMonth(destination, month);
+    const idx = slides.findIndex((s) => s.src === target);
+    return idx >= 0 ? idx : 0;
+  }, [destination, month, slides]);
+  // Opens on the month-matched frame. Selecting a different month is a full
+  // navigation, which remounts this component (see the `key` in the parent),
+  // so no in-place sync is needed.
+  const [active, setActive] = useState(initialIndex);
   const [paused, setPaused] = useState(false);
   const [reduceMotion, setReduceMotion] = useState(false);
   const containerRef = useRef<HTMLDivElement | null>(null);
@@ -98,13 +109,13 @@ export function HeroGallery({ destination }: HeroGalleryProps) {
           priority={idx === 0}
           sizes="100vw"
           className={`object-cover transition-opacity duration-1000 ease-in-out ${
-            idx === active ? "opacity-100" : "opacity-0"
+            idx === active ? "wn-kenburns opacity-100" : "opacity-0"
           }`}
         />
       ))}
 
       {slides.length > 1 ? (
-        <div className="pointer-events-auto absolute right-6 top-20 z-30 flex items-center gap-2 rounded-full border border-white/15 bg-black/45 py-1.5 pl-2 pr-3 backdrop-blur sm:right-10 sm:top-24">
+        <div className="pointer-events-auto absolute right-6 top-20 z-30 flex items-center gap-2 wn-glass-dark rounded-full py-1.5 pl-2 pr-3 sm:right-10 sm:top-24">
           <button
             type="button"
             onClick={prev}

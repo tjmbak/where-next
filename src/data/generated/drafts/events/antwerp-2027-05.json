@@ -1,0 +1,229 @@
+{
+  "slug": "antwerp",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:03:22.162Z",
+  "responseId": "resp_0881f3b54f6895b0006acdacbc0c4887d0a73463ad05455f87+resp_0848d54f17ab3e78006acdad2c66b887d0803b9be0c6e6a67d",
+  "searchCalls": 46,
+  "citations": [],
+  "data": {
+    "destinationSlug": "antwerp",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 in Antwerp is already anchored by Jazz Middelheim, arena-scale pop/rock at AFAS Dome/Lotto Arena, and a strong run of De Roma/Trix/Kavka concert programming.",
+    "events": [
+      {
+        "id": "antwerp-jazz-middelheim-2027",
+        "title": "Jazz Middelheim 2027",
+        "type": "festival",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-17",
+        "importance": 88,
+        "venueName": "Park Den Brandt",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzmiddelheim.eu/en/",
+        "ticketUrl": "https://tickets.jazzmiddelheim.eu",
+        "summary": "Jazz Middelheim returns to Park Den Brandt in Antwerp from 15 to 17 May 2027. The official site is taking registrations for early ticket access, with artists still to be announced.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-sombr-afas-dome-2027",
+        "title": "SOMBR // You Are The Reason Tour // Antwerp",
+        "type": "concert",
+        "startDate": "2027-05-16",
+        "endDate": "2027-05-16",
+        "importance": 86,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/sombr-you-are-the-reason-tour-antwerp-antwerpen-tickets-edp1687100",
+        "ticketUrl": "https://www.livenation.be/event/sombr-you-are-the-reason-tour-antwerp-antwerpen-tickets-edp1687100",
+        "summary": "SOMBR brings the You Are The Reason Tour to AFAS Dome on Sunday 16 May 2027, with Ravyn Lenae and Jessie Mazin confirmed as support acts.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "antwerp-rod-stewart-afas-dome-2027",
+        "title": "Rod Stewart: The Final Encore",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 84,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/rod-stewart-the-final-encore-antwerpen-tickets-edp1696422",
+        "ticketUrl": "https://www.livenation.be/event/rod-stewart-the-final-encore-antwerpen-tickets-edp1696422",
+        "summary": "Rod Stewart performs The Final Encore at AFAS Dome on Saturday 29 May 2027, billed as his last live performance in Belgium.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-metejoor-afas-dome-2027",
+        "title": "10 jaar Metejoor",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 82,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.afas-dome.be/evenement/metejoor-b4d22f35",
+        "ticketUrl": "https://www.afas-dome.be/evenement/metejoor-b4d22f35",
+        "summary": "Metejoor celebrates ten years since his debut single with a full-band anniversary show at AFAS Dome on Wednesday 5 May 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-dee-dee-bridgewater-de-roma-2027",
+        "title": "Dee Dee Bridgewater",
+        "type": "concert",
+        "startDate": "2027-05-30",
+        "endDate": "2027-05-30",
+        "importance": 78,
+        "venueName": "De Roma",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43274092-dee-dee-bridgewater-at-de-roma",
+        "ticketUrl": "https://www.songkick.com/concerts/43274092-dee-dee-bridgewater-at-de-roma",
+        "summary": "Jazz vocalist Dee Dee Bridgewater is confirmed for De Roma in Borgerhout on Sunday 30 May 2027.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "antwerp-raymond-van-het-groenewoud-de-roma-2027",
+        "title": "Raymond van het Groenewoud - Archivaris",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 74,
+        "venueName": "De Roma",
+        "venueId": null,
+        "sourceUrl": "https://www.deroma.be/en/event/raymond-van-het-groenewoud-15",
+        "ticketUrl": "https://www.deroma.be/en/event/raymond-van-het-groenewoud-15",
+        "summary": "Raymond van het Groenewoud performs his Archivaris show at De Roma on Saturday 29 May 2027, backed by his live band for a career-spanning Dutch-language pop/rock set.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-nevermore-trix-2027",
+        "title": "Nevermore - Liminal Spaces European Tour 2027",
+        "type": "concert",
+        "startDate": "2027-05-11",
+        "endDate": "2027-05-11",
+        "importance": 73,
+        "venueName": "Trix",
+        "venueId": "trix-antwerp",
+        "sourceUrl": "https://www.livenation.be/event/nevermore-liminal-spaces-european-tour-2027-antwerpen-tickets-edp1697299",
+        "ticketUrl": "https://www.livenation.be/event/nevermore-liminal-spaces-european-tour-2027-antwerpen-tickets-edp1697299",
+        "summary": "Nevermore bring the Liminal Spaces European Tour 2027 to Trix on Tuesday 11 May 2027, with Rivers Of Nihil and Urne listed as support acts.",
+        "genres": []
+      },
+      {
+        "id": "antwerp-sfinks-mundial-2027",
+        "title": "Sfinks Mundial 2027",
+        "type": "festival",
+        "startDate": "2027-05-06",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Molenveld, Boechout/Mortsel",
+        "venueId": null,
+        "sourceUrl": "https://www.sfinks.be/programma-mundial/?lang=en",
+        "ticketUrl": null,
+        "summary": "Free one-day world/diaspora festival on the Antwerp edge with Afrobeat/Ethio-jazz, Congolese rumba, Latin, reggae, samba and a late Afrobeats & more DJ set from Brooke Bailey.",
+        "genres": [
+          "festival",
+          "latin",
+          "hip-hop",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "antwerp-cleymans-van-geel-lotto-arena-2027",
+        "title": "Cleymans & Van Geel",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 70,
+        "venueName": "Lotto Arena Antwerpen",
+        "venueId": null,
+        "sourceUrl": "https://www.lotto-arena.be/evenement/cleymans-van-geel-91fc17c8",
+        "ticketUrl": "https://www.lotto-arena.be/evenement/cleymans-van-geel-91fc17c8",
+        "summary": "Cleymans & Van Geel bring their new album ‘Groeten uit Bordeaux’ and earlier fan favourites to Lotto Arena on Wednesday 5 May 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-this-is-the-kit-de-roma-2027",
+        "title": "This Is The Kit",
+        "type": "concert",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-06",
+        "importance": 70,
+        "venueName": "De Roma",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43418986-this-is-the-kit-at-de-roma",
+        "ticketUrl": "https://www.songkick.com/concerts/43418986-this-is-the-kit-at-de-roma",
+        "summary": "This Is The Kit performs at De Roma in Borgerhout on Thursday 6 May 2027, part of the artist’s 2027 touring schedule.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-club-fast-2027",
+        "title": "Club Fast",
+        "type": "club-night",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-23",
+        "importance": 69,
+        "venueName": "IKON / Club AURA",
+        "venueId": null,
+        "sourceUrl": "https://www.clubfast.be/",
+        "ticketUrl": "https://weeztix.shop/ymjx8xwb",
+        "summary": "Oldschool and millennium hardcore institution Club Fast returns to AURA at IKON for another Antwerp community night, with Partyflock listing the event from 22:00 to 06:00.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "antwerp-florence-road-trix-2027",
+        "title": "Florence Road",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 64,
+        "venueName": "Trix",
+        "venueId": "trix-antwerp",
+        "sourceUrl": "https://www.livenation.be/event/florence-road-antwerpen-tickets-edp1697514",
+        "ticketUrl": "https://www.livenation.be/event/florence-road-antwerpen-tickets-edp1697514",
+        "summary": "Irish band Florence Road play a headline indoor show at Trix in Antwerp on Saturday 1 May 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "antwerp-tyler-hilton-kavka-2027",
+        "title": "Tyler Hilton",
+        "type": "concert",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-14",
+        "importance": 60,
+        "venueName": "Kavka Zappa",
+        "venueId": null,
+        "sourceUrl": "https://kavka.be/event/tyler-hilton-2/",
+        "ticketUrl": "https://kavka.be/event/tyler-hilton-2/",
+        "summary": "Tyler Hilton plays Kavka Zappa on Friday 14 May 2027, bringing a set rooted in pop/rock, folk and Americana songs.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

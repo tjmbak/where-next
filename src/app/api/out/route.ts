@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { isAffiliateProvider, rewriteUrl } from "@/lib/affiliate/providers";
+import { isAffiliateProvider, resolveProvider, rewriteUrl } from "@/lib/affiliate/providers";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
 
@@ -12,11 +12,11 @@ export async function GET(request: Request) {
   const destinationSlug = url.searchParams.get("d");
   const context = url.searchParams.get("ctx");
 
-  if (!target) return NextResponse.json({ ok: false }, { status: 400 });
+  if (!target || !/^https?:\/\//i.test(target)) return NextResponse.json({ ok: false }, { status: 400 });
   if (!isAffiliateProvider(providerParam)) {
     return NextResponse.json({ ok: false, error: "unknown-provider" }, { status: 400 });
   }
-  const provider = providerParam;
+  const provider = resolveProvider(providerParam, target);
 
   // Try to extract authenticated user (best-effort; click attribution still
   // works for anonymous traffic via the click_id).

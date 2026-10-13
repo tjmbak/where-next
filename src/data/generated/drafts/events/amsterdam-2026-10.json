@@ -2,97 +2,331 @@
   "slug": "amsterdam",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:57:46.637Z",
-  "responseId": "resp_0c6c61dfd69e61f20069ff58ed4da481958e7385f47694bc0d",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:25:24.370Z",
+  "responseId": "resp_01c452ccccbe5fa6006acd95d23abc87d08339af23765ef052+resp_02d2133280fd2d7b006acd963f1a5887d0b282aafbde832ac3",
+  "searchCalls": 26,
   "citations": [],
   "data": {
     "destinationSlug": "amsterdam",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is anchored by ADE’s 30th-anniversary week, with major electronic-music showcases already confirmed alongside arena and club concerts earlier in the month.",
+    "notes": "October 2026 is dominated by the 30th anniversary Amsterdam Dance Event, with arena-scale electronic flagships alongside Amsterdam’s warehouse, queer-club, Afro-house and Amapiano scenes.",
     "events": [
       {
-        "id": "amsterdam-loreen-wildfire-2026",
-        "title": "Loreen - THE WILDFIRE TOUR",
-        "type": "concert",
-        "startDate": "2026-10-06",
-        "endDate": "2026-10-06",
-        "importance": 72,
-        "venueName": "Paradiso",
-        "venueId": null,
-        "sourceUrl": "https://www.paradiso.nl/en/program/loreen/2816756",
-        "ticketUrl": "https://tickets.paradiso.nl/",
-        "summary": "Loreen brings THE WILDFIRE TOUR to Paradiso’s Main Hall, with doors at 19:00 and the main programme at 20:30. The show follows her new 2026 release and highlights her Eurovision-winning pop catalogue.",
-        "genres": [
-          "pop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "amsterdam-fat-freddys-drop-2026",
-        "title": "Fat Freddy's Drop",
-        "type": "concert",
-        "startDate": "2026-10-13",
-        "endDate": "2026-10-13",
-        "importance": 76,
-        "venueName": "Paradiso",
-        "venueId": null,
-        "sourceUrl": "https://www.paradiso.nl/en/program/fat-freddys-drop/2654374",
-        "ticketUrl": "https://tickets.paradiso.nl/",
-        "summary": "Fat Freddy’s Drop play Paradiso’s Main Hall as part of a three-night Amsterdam run. The New Zealand band’s live sound blends reggae, dub, soul, techno and jazz, including material from Based On A True Story.",
-        "genres": [
-          "jazz",
-          "electronic"
-        ]
-      },
-      {
-        "id": "amsterdam-ade-2026",
-        "title": "Amsterdam Dance Event 2026 - 30 YEARS ADE",
-        "type": "conference",
+        "id": "amsterdam-amsterdam-dance-event-2026",
+        "title": "Amsterdam Dance Event 2026 / 30 YEARS ADE",
+        "type": "festival",
         "startDate": "2026-10-21",
         "endDate": "2026-10-25",
         "importance": 100,
-        "venueName": "Amsterdam Dance Event",
+        "venueName": "Various venues, Amsterdam",
         "venueId": "ade",
-        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/news/ade25-pressrelease-5/2750267/",
-        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/tickets/",
-        "summary": "Amsterdam Dance Event has confirmed its 30th-anniversary edition for October 21–25, 2026. The citywide electronic-music festival and industry conference will celebrate three decades of ADE across Amsterdam.",
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/",
+        "summary": "ADE’s 30th anniversary edition runs across Amsterdam with ADE Pro, ADE Lab, ADE Festival and Arts & Culture programming. The official program lists more than 1,200 festival events across the city.",
         "genres": [
           "electronic",
+          "techno",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-amf-johan-cruijff-arena-2026",
+        "title": "AMF: Johan Cruijff ArenA 2026",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 96,
+        "venueName": "Johan Cruijff ArenA",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/amf-johan-cruijf-arena-2026/2802654/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/amf-johan-cruijf-arena-2026/2802654/",
+        "summary": "AMF returns to Johan Cruijff ArenA with Afrojack, Amelie Lens, Armin van Buuren, ARTBAT, D-Block & S-te-Fan, David Guetta, Korolova and Marlon Hoffstadt. ADE also notes David Guetta’s Monolith show as part of the AMF stage.",
+        "genres": [
+          "electronic",
+          "techno",
           "festival"
         ]
       },
       {
         "id": "amsterdam-jean-michel-jarre-ade-2026",
-        "title": "Jean-Michel Jarre - OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE",
+        "title": "Jean-Michel Jarre: Oxygène & Beyond — A Sonic Journey Celebrating 30 Years of ADE",
         "type": "concert",
         "startDate": "2026-10-21",
         "endDate": "2026-10-21",
-        "importance": 90,
+        "importance": 92,
         "venueName": "AFAS Live",
         "venueId": null,
-        "sourceUrl": "https://www.afaslive.nl/en/agenda/jean-michel-jarre",
-        "ticketUrl": "https://www.ticketmaster.nl/",
-        "summary": "Jean-Michel Jarre plays an exclusive ADE Opening Concerts show at AFAS Live, celebrating both 30 years of ADE and the 50th anniversary of Oxygène. AFAS Live lists the performance for Wednesday, October 21, 2026.",
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/news/electronic-music-legend-jean-michel-jarre-guest-of-honour-for-30-years-ade-with-keynote-opening-concert-and-more/2797564/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/news/electronic-music-legend-jean-michel-jarre-guest-of-honour-for-30-years-ade-with-keynote-opening-concert-and-more/2797564/",
+        "summary": "Jean-Michel Jarre is ADE 2026’s special guest of honour, marking ADE’s 30th anniversary and the 50th anniversary of Oxygène with an immersive AFAS Live opening concert. ADE describes the show as a landmark live event for the anniversary edition.",
         "genres": [
           "electronic"
         ]
       },
       {
-        "id": "amsterdam-cattaneo-warren-ade-2026",
-        "title": "Hernan Cattaneo B2B Nick Warren 6hrs - ADE",
+        "id": "amsterdam-gashouder-armin-benwal-2026",
+        "title": "Gashouder Presents: Armin van Buuren & Benwal",
         "type": "club-night",
         "startDate": "2026-10-21",
         "endDate": "2026-10-21",
-        "importance": 78,
-        "venueName": "WestWeelde",
+        "importance": 90,
+        "venueName": "Gashouder",
         "venueId": null,
-        "sourceUrl": "https://www.westweelde.nl/events/hernan-cattaneo-b2b-nick-warren-6hrs-ade-2026-10-21",
-        "ticketUrl": "https://watt-events.stager.co/",
-        "summary": "Hernan Cattaneo and Nick Warren play a rare six-hour back-to-back set at WestWeelde during ADE. The venue lists the event on October 21, 2026, from 20:00 to 03:00.",
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/gashouder-presents-armin-van-buuren-benwal/2804804/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/gashouder-presents-armin-van-buuren-benwal/2804804/",
+        "summary": "Gashouder opens its ADE run with Armin van Buuren and Benwal, plus IDEMI and Olive Anguz. ADE lists the night as a large-venue warehouse event running from 23:00 to 06:00.",
         "genres": [
           "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-black-coffee-ziggo-2026",
+        "title": "Black Coffee: 3HRS SET — ADE 2026",
+        "type": "concert",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 88,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.nl/en/event/black-coffee-3hrs-set-ade-2026-amsterdam-tickets-edp1686740",
+        "ticketUrl": "https://www.livenation.nl/en/event/black-coffee-3hrs-set-ade-2026-amsterdam-tickets-edp1686740",
+        "summary": "Black Coffee performs a special three-hour ADE set at Ziggo Dome. Live Nation confirms the event date, venue and headliner.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-ki-ki-ziggo-2026",
+        "title": "KI/KI — 5 Hours (Day 1)",
+        "type": "club-night",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 87,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/ki-ki-5-hours/2802115/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/ki-ki-5-hours/2802115/",
+        "summary": "Amsterdam DJ KI/KI makes her Ziggo Dome ADE debut with a five-hour headline show built around her slash production concept. ADE lists the event as a large-venue all-night-long program focused on techno and trance.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-stmpd-rcrds-ade-2026",
+        "title": "10 YEARS OF STMPD RCRDS",
+        "type": "club-night",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 86,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/10-years-of-stmpd-rcrds-ade/2802205/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/10-years-of-stmpd-rcrds-ade/2802205/",
+        "summary": "Martin Garrix’s STMPD RCRDS celebrates its 10th anniversary with an ADE label night at AFAS Live. ADE lists Martin Garrix, DubVision, Julian Jordan, Mesto, R3hab, Third Party, Vluarr and more on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-fabric-loud-contact-2026",
+        "title": "Fabric X Loud Contact",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 86,
+        "venueName": "WestWeelde",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/fabric-x-loud-contact/2805830/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/fabric-x-loud-contact/2805830/",
+        "summary": "Fabric and Loud Contact return to ADE with Jeff Mills, Helena Hauff, FJAAK, Binh, Gabrielle Kwarteng, Lumiere, Quelza and Quest at WestWeelde. ADE describes it as an underground club-culture night centered on techno, electro and house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-dgtl-friday-night-2026",
+        "title": "DGTL | Friday Night",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 85,
+        "venueName": "NDSM Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/dgtl-ade-friday-night/2804031/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/dgtl-ade-friday-night/2804031/",
+        "summary": "DGTL’s Friday-night ADE program at NDSM Warehouse features Joris Voorn, Kevin de Vries, Miss Monique, Nicky Elisabeth and NTO. The event focuses on melodic house and techno in DGTL’s industrial warehouse setting.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-gashouder-job-jobse-2026",
+        "title": "Gashouder Presents: Job Jobse",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 85,
+        "venueName": "Gashouder",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/gashouder-presents-job-jobse/2804807/",
+        "ticketUrl": null,
+        "summary": "Job Jobse plays an extended ADE set at Gashouder, joined by BASHKKA and Ryan Elliott. ADE confirms the event for Friday, October 23, from 14:00 to 22:00 and marks it sold out.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-909-loveland-2026",
+        "title": "909 x Loveland",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 84,
+        "venueName": "Mediahaven",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/909-loveland/2808599/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/909-loveland/2808599/",
+        "summary": "909 and Loveland bring a daytime ADE edition to Mediahaven with Chris Liebing, DVS1, FJAAK, Kerri Chandler, KiNK, Len Faki, MARRØN and more. The official ADE page lists house and techno across three areas.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-dgtl-shimza-co-2026",
+        "title": "DGTL ADE | Shimza & Co",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 84,
+        "venueName": "NDSM Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/dgtl-ade-shimza-co/2804073/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/dgtl-ade-shimza-co/2804073/",
+        "summary": "Shimza curates DGTL’s Saturday daytime ADE program at NDSM Warehouse with AMÉMÉ, DESIREE, JAMIIE, Âme, Bedouin, Alex Wann and others. ADE positions it as a celebration of contemporary Afro house and global dancefloor connection.",
+        "genres": [
+          "afro-house",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "amsterdam-laster-klockworks-2026",
+        "title": "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC",
+        "type": "club-night",
+        "startDate": "2026-10-21",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "TILLATEC",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2475664",
+        "ticketUrl": "https://ra.co/events/2475664",
+        "summary": "Spanish techno movement LASTER brings Klockworks’ 20-year anniversary to TILLATEC with Ben Klock, DVS1, Roll Dann, Setaoc Mass, The Lady Machine and Laia.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-spielraum-55hrs-2026",
+        "title": "SPIELRAUM 55hrs",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-26",
+        "importance": 84,
+        "venueName": "club RAUM",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/spielraum-55hrs/2829816/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/spielraum-55hrs/2829816/",
+        "summary": "Queer Amsterdam institution SPIELRAUM runs a 55-hour ADE marathon at club RAUM with DVS1, Rødhåd, Octo Octa, Sandrien, Mary Lake, Miss Kittin, The Hacker and many more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-scooter-crushes-ade-2026",
+        "title": "SCOOTER CRUSHES ADE",
+        "type": "concert",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 83,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/scooter-crushes-ade/2806417/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/scooter-crushes-ade/2806417/",
+        "summary": "Scooter headlines Ziggo Dome during ADE with SCOOTER CRUSHES ADE. The official ADE page lists the German techno act for Sunday, October 25, from 20:00 to 23:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-tyla-afas-live-2026",
+        "title": "Tyla: THE A*POP WORLD TOUR",
+        "type": "concert",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-13",
+        "importance": 82,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/tyla",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/tyla",
+        "summary": "Tyla brings THE A*POP WORLD TOUR to AFAS Live, with Royal MusiQ and Bloody Civilian listed as special guests. The AFAS Live page confirms doors at 18:30 and Tyla’s set at 21:15.",
+        "genres": [
+          "amapiano",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-raum-clone-records-2026",
+        "title": "RAUM invites Clone Records",
+        "type": "club-night",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 82,
+        "venueName": "club RAUM",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/raum-invites-clone-records/2850438/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/raum-invites-clone-records/2850438/",
+        "summary": "Clone Records opens RAUM’s ADE program with a two-room takeover featuring Afra, Detroit in Effect, L.F.T., Neel, Serge and others. The official ADE listing frames it around electro, techno and house at Amsterdam’s queer-run club RAUM.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-rush-hour-lofi-2026",
+        "title": "Rush Hour",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 80,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/rush-hour/2808448/",
+        "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/rush-hour/2808448/",
+        "summary": "Amsterdam institution Rush Hour hosts a daytime ADE club event at Lofi. The official ADE listing places the event in disco, funk, soul and house territory.",
+        "genres": [
+          "house",
+          "jazz",
           "electronic"
         ]
       },
@@ -109,24 +343,6 @@
         "ticketUrl": "https://www.ticketmaster.nl/",
         "summary": "KI/KI makes her Ziggo Dome debut during ADE 2026 with an exclusive five-hour headline show. MOJO lists the first Amsterdam date for Thursday, October 22, 2026 at 18:30, with a second date on October 23.",
         "genres": [
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "amsterdam-into-the-woods-ade-2026",
-        "title": "Into the Woods ADE 2026",
-        "type": "festival",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-25",
-        "importance": 84,
-        "venueName": "NDSM-werf",
-        "venueId": null,
-        "sourceUrl": "https://www.ndsm.nl/evenementen/into-the-woods",
-        "ticketUrl": "https://intothewoods.nl/",
-        "summary": "Into the Woods turns NDSM-werf into an electronic dance festival during ADE, combining music, art, light installations and industrial/open-air stages. NDSM lists the event from October 23 to October 25, 2026.",
-        "genres": [
-          "house",
           "techno",
           "electronic"
         ]
@@ -150,21 +366,21 @@
         ]
       },
       {
-        "id": "amsterdam-amf-2026",
-        "title": "AMF 2026",
+        "id": "amsterdam-into-the-woods-ade-2026",
+        "title": "Into the Woods ADE 2026",
         "type": "festival",
-        "startDate": "2026-10-24",
-        "endDate": "2026-10-24",
-        "importance": 96,
-        "venueName": "Johan Cruijff ArenA",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-25",
+        "importance": 84,
+        "venueName": "NDSM-werf",
         "venueId": null,
-        "sourceUrl": "https://amf-festival.com/",
-        "ticketUrl": "https://amf-festival.com/",
-        "summary": "AMF returns to Johan Cruijff ArenA on October 24, 2026, during ADE. The confirmed lineup includes Afrojack, Amelie Lens, Armin van Buuren, ARTBAT, D-Block & S-te-Fan, David Guetta’s Monolith show, Korolova and Marlon Hoffstadt.",
+        "sourceUrl": "https://www.ndsm.nl/evenementen/into-the-woods",
+        "ticketUrl": "https://intothewoods.nl/",
+        "summary": "Into the Woods turns NDSM-werf into an electronic dance festival during ADE, combining music, art, light installations and industrial/open-air stages. NDSM lists the event from October 23 to October 25, 2026.",
         "genres": [
-          "electronic",
+          "house",
           "techno",
-          "festival"
+          "electronic"
         ]
       },
       {
@@ -185,6 +401,93 @@
         ]
       },
       {
+        "id": "amsterdam-dockyard-ade-2026",
+        "title": "Dockyard Festival ADE 2026",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Havenpark",
+        "venueId": null,
+        "sourceUrl": "https://www.dockyardfestival.com/",
+        "ticketUrl": "https://www.dockyardfestival.com/",
+        "summary": "Open-air industrial ADE festival at Havenpark, with tented stages, techno-forward programming and a combined Dockyard x Mystic Garden format that lets one ticket move between the darker industrial world and the sister garden stage environment.",
+        "genres": [
+          "festival",
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-cattaneo-warren-ade-2026",
+        "title": "Hernan Cattaneo B2B Nick Warren 6hrs - ADE",
+        "type": "club-night",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 78,
+        "venueName": "WestWeelde",
+        "venueId": null,
+        "sourceUrl": "https://www.westweelde.nl/events/hernan-cattaneo-b2b-nick-warren-6hrs-ade-2026-10-21",
+        "ticketUrl": "https://watt-events.stager.co/",
+        "summary": "Hernan Cattaneo and Nick Warren play a rare six-hour back-to-back set at WestWeelde during ADE. The venue lists the event on October 21, 2026, from 20:00 to 03:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-paradise-loveland-2026",
+        "title": "Paradise x Loveland - ADE 2026",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Mediahaven - Minervahaven",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2455390",
+        "ticketUrl": "https://ra.co/events/2455390",
+        "summary": "Jamie Jones’ Paradise brand links with Dutch institution Loveland for a late-night ADE takeover at Mediahaven, billed as a groove-forward house dancefloor session built for movement, atmosphere and connection.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-sasha-patrice-baumel-2026",
+        "title": "Sasha b2b Patrice Bäumel - 6hrs ADE",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Het Sieraad",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2375140",
+        "ticketUrl": "https://ra.co/events/2375140",
+        "summary": "Watt Events and Het Sieraad host a six-hour ADE daytime back-to-back from Sasha and Patrice Bäumel, billed as a recurring Saturday reference point for long-form progressive house and quality electronic music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-fat-freddys-drop-2026",
+        "title": "Fat Freddy's Drop",
+        "type": "concert",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-13",
+        "importance": 76,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/fat-freddys-drop/2654374",
+        "ticketUrl": "https://tickets.paradiso.nl/",
+        "summary": "Fat Freddy’s Drop play Paradiso’s Main Hall as part of a three-night Amsterdam run. The New Zealand band’s live sound blends reggae, dub, soul, techno and jazz, including material from Based On A True Story.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
         "id": "amsterdam-gardens-babylon-seekers-light-2026",
         "title": "The Gardens of Babylon: The Seekers of Light ADE 2026 - Sunday",
         "type": "club-night",
@@ -198,6 +501,127 @@
         "summary": "The Gardens of Babylon returns to WestWeelde during ADE with its Seekers of Light showcase trilogy. The Sunday event is confirmed for October 25, 2026, from 15:30 to 03:00 across De Unie, De Wester, De Liefde and Het Restaurant.",
         "genres": [
           "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-ritter-butzke-casa-cruise-2026",
+        "title": "Ritter Butzke & Casa ADE Cruise",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Supperclub Cruise",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426450",
+        "ticketUrl": "https://ra.co/events/2426450",
+        "summary": "Berlin club brand Ritter Butzke and Casa Productions return with a seven-hour ADE boat party on Supperclub Cruise, featuring Einmusik, Super Flu, Prismode & Solvane, Markus Klee, Malouna and Cris-H across progressive and afro-house sounds.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-loreen-wildfire-2026",
+        "title": "Loreen - THE WILDFIRE TOUR",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 72,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://www.paradiso.nl/en/program/loreen/2816756",
+        "ticketUrl": "https://tickets.paradiso.nl/",
+        "summary": "Loreen brings THE WILDFIRE TOUR to Paradiso’s Main Hall, with doors at 19:00 and the main programme at 20:30. The show follows her new 2026 release and highlights her Eurovision-winning pop catalogue.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-dimitri-isis-2026",
+        "title": "Dimitri & ISIS ADE 2026",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 72,
+        "venueName": "Kaap Amsterdam",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2330160",
+        "ticketUrl": "https://ra.co/events/2330160",
+        "summary": "All-day-long ADE outing from Dutch house and techno pioneers Dimitri Kneppers and ISIS at Kaap Amsterdam, aimed at heads who want local lineage rather than a stadium-scale lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-outkzt-ade-2026",
+        "title": "OUTKZT ADE 2026",
+        "type": "club-night",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-22",
+        "importance": 72,
+        "venueName": "Veronica Schip",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2408142",
+        "ticketUrl": "https://ra.co/events/2408142",
+        "summary": "A 12-hour limited-capacity techno and acid showcase aboard Het Veronica Schip during ADE, presented by a coalition including Berlin Records, MainGround Music, Tragedie Berlin, Kraftek and Align CNTRL, with ArioVistus, Belocca, DA SEYKO, DEROZ, Kay Wagner, Ozzy Riot, Teenage Mutants and TheKoosy.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-endless-ade-2026",
+        "title": "ENDLESS x ADE",
+        "type": "club-night",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-26",
+        "importance": 66,
+        "venueName": "John Doe",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2399776",
+        "ticketUrl": "https://ra.co/events/2399776",
+        "summary": "Barcelona-origin techno concept ENDLESS brings Lino Fuso live to John Doe for an ADE closing-night session, emphasizing underground culture, live performance and minimal/techno energy.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-kraft-ade-2026",
+        "title": "KRAFT ADE 2026 Premium Pounding Techno",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Lagerwal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2359013",
+        "ticketUrl": "https://ra.co/events/2359013",
+        "summary": "ADE edition of KRAFT’s peak-time techno gathering at Lagerwal, with TheKoosy announced and more TBA; a focused alternative to larger hard-techno rooms for older-school acid and techno heads.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-kraft-premium-pounding-2026",
+        "title": "KRAFT Premium Pounding Techno",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Lagerwal",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2359008",
+        "ticketUrl": "https://ra.co/events/2359008",
+        "summary": "Daytime/early-evening peak-time techno session in Lagerwal’s intimate NDSM bunker setup, with Zazz+, Avis Vox, TheKoosy and DJ Jordan; the listing notes a 300-capacity style room and a classic/melodic techno focus rather than hard-techno hype.",
+        "genres": [
+          "techno",
           "electronic"
         ]
       }

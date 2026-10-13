@@ -2,16 +2,326 @@
   "slug": "buenos-aires",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:48:08.422Z",
-  "responseId": "resp_0ed3db363260ac720069ff64b72d78819eb7542a0b444e02ea",
-  "searchCalls": 19,
+  "generatedAt": "2026-10-13T03:01:27.666Z",
+  "responseId": "resp_09b1cb13722c0daf006acd9e1c736c87d098af06f094c9a07a+resp_068c2af9878be312006acd9e97609087d08065b3462e7533db",
+  "searchCalls": 42,
   "citations": [],
   "data": {
     "destinationSlug": "buenos-aires",
     "month": 12,
     "year": 2026,
-    "notes": "Only a small number of December 2026 dates are firmly on sale this early, led by arena rock/metal, a La Plata stadium pop-rock closer, and a few confirmed theatre concerts.",
+    "notes": "December 2026 is led by big Latin and urban arena/stadium dates, while the strongest travel-worthy club programming clusters around Costanera open-air electronic events and Niceto’s indie/underground calendar.",
     "events": [
+      {
+        "id": "buenos-aires-mana-river-2026",
+        "title": "Maná — Vivir Sin Aire Tour",
+        "type": "concert",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-10",
+        "importance": 88,
+        "venueName": "Estadio River Plate",
+        "venueId": null,
+        "sourceUrl": "https://czcomunicacion.com/comunicados/mana-llega-a-river-10-de-diciembre-2026-con-vivir-sin-aire-tour",
+        "ticketUrl": "https://czcomunicacion.com/comunicados/mana-llega-a-river-10-de-diciembre-2026-con-vivir-sin-aire-tour",
+        "summary": "The official promoter release confirms Maná at Estadio River Plate on December 10, 2026, for the Vivir Sin Aire Tour. The Buenos Aires stadium date is billed as the band’s only Argentina show of 2026.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-new-order-tricky-2026",
+        "title": "New Order + Tricky",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 84,
+        "venueName": "Mandarine Park",
+        "venueId": null,
+        "sourceUrl": "https://www.neworder.com/tour",
+        "ticketUrl": null,
+        "summary": "New Order’s official tour schedule lists a Buenos Aires date at Mandarine Park on December 1, 2026, with Tricky also billed on local event listings. The booking is a major alternative/electronic-rock draw for the month.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-rave3000-festival-2026",
+        "title": "RAVE3000 Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12",
+        "importance": 84,
+        "venueName": "Club Ciudad de Buenos Aires",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2541095",
+        "ticketUrl": "https://www.passline.com/eventos/rave3000-festival-2026",
+        "summary": "Repitch Republic’s RAVE3000 closes the year with a 12-hour, multi-stage outdoor festival spanning hard techno, house, trance, pop and Buenos Aires alternative club culture, with Arca, Patrick Mason, Cera Khin, Cristobal Pesce, LESSSS, Kessler and more listed.",
+        "genres": [
+          "festival",
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-anuel-tecnopolis-2026",
+        "title": "Anuel AA en Argentina 2026",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-06",
+        "importance": 83,
+        "venueName": "Tecnópolis",
+        "venueId": null,
+        "sourceUrl": "https://linke-arte.com/arg/en/anuel-en-argentina-2026",
+        "ticketUrl": "https://linke-arte.com/arg/en/anuel-en-argentina-2026",
+        "summary": "The official Linke-Arte ticketing page confirms Anuel AA at Tecnópolis on December 3, 5 and 6, 2026, at 21:30. The run is a major Latin trap/reggaeton booking just outside the city line in Villa Martelli.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "buenos-aires-omar-courtz-movistar-2026",
+        "title": "Omar Courtz — Por Si Mañana No Estoy World Tour",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-04",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/949f1877-625b-479f-893a-1ae09da0f00f",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/949f1877-625b-479f-893a-1ae09da0f00f",
+        "summary": "Movistar Arena’s official event page confirms Omar Courtz on December 2, 3 and 4, 2026, following an additional November 30 date. The Puerto Rican urbano artist brings the Por Si Mañana No Estoy tour to one of Buenos Aires’ main indoor arenas.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "buenos-aires-no-art-anotr-2026",
+        "title": "NO ART Buenos Aires: ANOTR, Prospa, Mateo Dufour, Ludmila Di Pasquale",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Ciudad Universitaria",
+        "venueId": null,
+        "sourceUrl": "https://dequeruza.ar/no-art-anuncia-el-lineup-para-su-primera-edicion-en-argentina/",
+        "ticketUrl": "https://www.buenalive.com/",
+        "summary": "Amsterdam house label and touring party brand NO ART makes its Argentina debut at Ciudad Universitaria, led by ANOTR with Prospa plus local selectors Mateo Dufour and Ludmila Di Pasquale.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-daniel-caesar-obras-2026",
+        "title": "Daniel Caesar — Son of Spergy Tour",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 79,
+        "venueName": "Estadio Obras",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.lat/en/event/daniel-caesar-son-of-spergy-tour-buenos-aires-tickets-edp1689827",
+        "ticketUrl": "https://www.livenation.lat/en/event/daniel-caesar-son-of-spergy-tour-buenos-aires-tickets-edp1689827",
+        "summary": "Live Nation confirms Daniel Caesar’s Son of Spergy Tour at Estadio Obras in Buenos Aires on Saturday, December 5, 2026. It is the month’s strongest confirmed R&B booking.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-no-art-ciudad-universitaria-2026",
+        "title": "NO ART | ANOTR & More",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 79,
+        "venueName": "Ciudad Universitaria",
+        "venueId": null,
+        "sourceUrl": "https://soldout.ar/en/events/no-art-2026-12-12",
+        "ticketUrl": "https://soldout.ar/en/events/no-art-2026-12-12",
+        "summary": "Sold Out confirms NO ART at Ciudad Universitaria on Saturday, December 12, 2026, from 17:00 to 01:30, with ANOTR named in the event title. The Amsterdam party brand’s open-air Buenos Aires date is a notable house/electronic booking.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-paul-van-dyk-oasis-2026",
+        "title": "Paul van Dyk with Ferry Corsten",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 78,
+        "venueName": "Oasis Open Air",
+        "venueId": null,
+        "sourceUrl": "https://soldout.ar/en/events/paul-van-dyk-2026-12-05",
+        "ticketUrl": "https://soldout.ar/en/events/paul-van-dyk-2026-12-05",
+        "summary": "Sold Out confirms Paul van Dyk at Oasis Open Air on Saturday, December 5, 2026, with Ferry Corsten listed on the lineup. The event is promoted by Sunrise and runs overnight from 00:00 to 06:00.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "buenos-aires-damas-gratis-museum-2026",
+        "title": "#8D Cumple ATR — Damas Gratis en Vivo",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 76,
+        "venueName": "Museum Live",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/venue/museum-live",
+        "ticketUrl": "https://www.passline.com/eventos/8d-cumple-atr",
+        "summary": "Passline’s Museum Live venue page lists “#8D cumple ATR - Damas Gratis en Vivo” on December 8, 2026, at 21:00. The cumbia villera institution is a signature Buenos Aires-area live pick for the month.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-saramalacara-obras-2026",
+        "title": "Saramalacara — La Ejecución Pública",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 76,
+        "venueName": "Estadio Obras Sanitarias",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.coolco.io/tickets-ar/es/saramalacara-obr-2026",
+        "ticketUrl": "https://ticketing.coolco.io/tickets-ar/es/saramalacara-obr-2026",
+        "summary": "CoolCo’s ticketing page confirms Saramalacara at Estadio Obras Sanitarias on December 18, 2026, from 21:00 to 23:00. The show closes the Mataderos World Tour 2026 with a career-spanning performance titled La Ejecución Pública.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-green-velvet-oasis-2026",
+        "title": "PM Pres. Green Velvet",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 75,
+        "venueName": "Oasis Open Air",
+        "venueId": null,
+        "sourceUrl": "https://soldout.ar/en/events/pm-pres-green-velvet-2026-12-04",
+        "ticketUrl": "https://soldout.ar/en/events/pm-pres-green-velvet-2026-12-04",
+        "summary": "Sold Out confirms PM Pres. Green Velvet at Oasis Open Air on Friday, December 4, 2026, running from 00:00 to 07:00. The lineup page lists Green Velvet with PM Open Air and Fragment as promoters.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-green-velvet-pm-open-air-2026",
+        "title": "Green Velvet x PM! Open Air",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-05",
+        "importance": 74,
+        "venueName": "Oasis Punta Carrasco",
+        "venueId": null,
+        "sourceUrl": "https://timetohouse.com/en/events/pm-pres-green-velvet-2026-12-04",
+        "ticketUrl": null,
+        "summary": "PM Open Air / Fragment hosts Chicago house-techno figure Green Velvet for an open-air Punta Carrasco night.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-korolova-captive-soul-2026",
+        "title": "Korolova pres. Captive Soul at FCN",
+        "type": "club-night",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-07",
+        "importance": 73,
+        "venueName": "Foro Costanera Norte",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2513460",
+        "ticketUrl": "https://ra.co/events/2513460",
+        "summary": "Korolova brings the Captive Soul concept to Foro Costanera Norte for a late-night melodic/progressive electronic session.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-shintaro-sakamoto-niceto-2026",
+        "title": "Shintaro Sakamoto en Niceto Club",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 72,
+        "venueName": "Niceto Club",
+        "venueId": "niceto-ba",
+        "sourceUrl": "https://elcartel.ar/e/shintaro-sakamoto-en-niceto-club-18-anos-niceto-club-2026-12-08",
+        "ticketUrl": "https://elcartel.ar/e/shintaro-sakamoto-en-niceto-club-18-anos-niceto-club-2026-12-08",
+        "summary": "El Cartel’s event page confirms Shintaro Sakamoto at Niceto Club on Tuesday, December 8, 2026, from 20:00 to 23:59. The listing frames the show around his psychedelic, funky solo-pop catalog and new album material.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-sara-hebe-niceto-2026",
+        "title": "Sara Hebe presenta Negocionismo",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 72,
+        "venueName": "Niceto Club",
+        "venueId": "niceto-ba",
+        "sourceUrl": "https://indiehoy.com/agenda/sara-hebe-niceto-club/",
+        "ticketUrl": "https://indiehoy.com/agenda/sara-hebe-niceto-club/",
+        "summary": "Indie Hoy confirms Sara Hebe at Niceto Club on Saturday, December 19, 2026, at 20:00. The Buenos Aires rapper returns to present her seventh studio album, Negocionismo, with Sylvia Pop and DJs opening.",
+        "genres": [
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-mushroom-christmas-2026",
+        "title": "Mushroom Christmas Edition",
+        "type": "club-night",
+        "startDate": "2026-12-25",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Estadio Nacional de Beisbol",
+        "venueId": null,
+        "sourceUrl": "https://emtickets.app/",
+        "ticketUrl": "https://emtickets.app/",
+        "summary": "Mushroom’s Christmas Edition is listed as a holiday electronic party at the Estadio Nacional de Beisbol in Ezeiza, extending the Buenos Aires metro club calendar into Christmas night.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "buenos-aires-jay-de-lys-2026",
+        "title": "Jay de Lys at Río Electronic Music",
+        "type": "club-night",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "importance": 68,
+        "venueName": "Río Electronic Music",
+        "venueId": null,
+        "sourceUrl": "https://emtickets.app/",
+        "ticketUrl": "https://emtickets.app/",
+        "summary": "Buenos Aires tech-house date for Jay de Lys at Río Electronic Music, listed by local electronic-ticketing platforms for the December club calendar.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
       {
         "id": "buenos-aires-babymetal-world-tour-dec-2026",
         "title": "BABYMETAL WORLD TOUR 2026 LATIN AMERICA in Buenos Aires",
@@ -27,6 +337,39 @@
         "genres": [
           "electronic",
           "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-tan-bionica-estadio-uno-2026",
+        "title": "Tan Biónica en Estadio Uno",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 84,
+        "venueName": "Estadio Jorge Luis Hirschi",
+        "venueId": null,
+        "sourceUrl": "https://livepass.com.ar/en/events/tan-bionica-en-estadio-uno",
+        "ticketUrl": "https://livepass.com.ar/en/events/tan-bionica-en-estadio-uno",
+        "summary": "Livepass confirms Tan Biónica at Estadio UNO in La Plata on December 12, 2026 at 21:00, billing it as the band’s closing show of 2026. La Plata is just outside Buenos Aires and functions as a major regional stadium stop.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-rata-blanca-movistar-dec-2026",
+        "title": "Rata Blanca at Movistar Arena",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 78,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/concerts/43200774-rata-blanca-at-movistar-arena",
+        "ticketUrl": null,
+        "summary": "Songkick lists Rata Blanca as headliner at Movistar Arena in Buenos Aires on December 2, 2026. The show is a major hometown arena date for the Argentine hard rock/heavy metal band.",
+        "genres": [
+          "latin"
         ]
       },
       {
@@ -46,17 +389,17 @@
         ]
       },
       {
-        "id": "buenos-aires-rata-blanca-movistar-dec-2026",
-        "title": "Rata Blanca at Movistar Arena",
+        "id": "buenos-aires-dominguinho-2026",
+        "title": "Dominguinho en Argentina",
         "type": "concert",
-        "startDate": "2026-12-02",
-        "endDate": "2026-12-02",
-        "importance": 78,
-        "venueName": "Movistar Arena",
+        "startDate": "2026-12-04",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "C Art Media",
         "venueId": null,
-        "sourceUrl": "https://www.songkick.com/es/concerts/43200774-rata-blanca-at-movistar-arena",
-        "ticketUrl": null,
-        "summary": "Songkick lists Rata Blanca as headliner at Movistar Arena in Buenos Aires on December 2, 2026. The show is a major hometown arena date for the Argentine hard rock/heavy metal band.",
+        "sourceUrl": "https://www.passline.com/eventos/dominguinho-en-argentina",
+        "ticketUrl": "https://www.passline.com/eventos/dominguinho-en-argentina",
+        "summary": "Brazilian project Dominguinho—featuring João Gomes, Jota.Pê and Mestrinho—makes its first Argentina appearance at C Art Media, a notable Brazilian/Latin diaspora booking outside the arena circuit.",
         "genres": [
           "latin"
         ]
@@ -79,40 +422,6 @@
         ]
       },
       {
-        "id": "buenos-aires-rave3000-festival-2026",
-        "title": "RAVE3000 FESTIVAL / 2026",
-        "type": "festival",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 70,
-        "venueName": "Buenos Aires Nunca Duerme",
-        "venueId": null,
-        "sourceUrl": "https://www.passline.com/eventos/rave3000-festival-2026",
-        "ticketUrl": "https://www.passline.com/eventos/rave3000-festival-2026",
-        "summary": "Passline lists RAVE3000 FESTIVAL / 2026 for Saturday, December 12, 2026 at 19:00 in CABA. The ticket page is presented by Repitch Republic and marks it as an 18+ event.",
-        "genres": [
-          "electronic",
-          "techno"
-        ]
-      },
-      {
-        "id": "buenos-aires-tan-bionica-estadio-uno-2026",
-        "title": "Tan Biónica en Estadio Uno",
-        "type": "concert",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 84,
-        "venueName": "Estadio Jorge Luis Hirschi",
-        "venueId": null,
-        "sourceUrl": "https://livepass.com.ar/en/events/tan-bionica-en-estadio-uno",
-        "ticketUrl": "https://livepass.com.ar/en/events/tan-bionica-en-estadio-uno",
-        "summary": "Livepass confirms Tan Biónica at Estadio UNO in La Plata on December 12, 2026 at 21:00, billing it as the band’s closing show of 2026. La Plata is just outside Buenos Aires and functions as a major regional stadium stop.",
-        "genres": [
-          "pop",
-          "latin"
-        ]
-      },
-      {
         "id": "buenos-aires-dm-experience-gran-rex-2026",
         "title": "DM Experience at Teatro Gran Rex",
         "type": "concert",
@@ -127,6 +436,22 @@
         "genres": [
           "electronic",
           "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-de-pary-aloha-2026",
+        "title": "Fiesta en Barco | De Pary Aloha",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Catamarán Libertad / Puerto de Olivos",
+        "venueId": null,
+        "sourceUrl": "https://fiestaenbarco.com.ar/fiesta-en-barco-tematica-de-pary/fiesta-en-barco-de-pary-aloha/",
+        "ticketUrl": "https://fiestaenbarco.com.ar/fiesta-en-barco-tematica-de-pary/fiesta-en-barco-de-pary-aloha/",
+        "summary": "A tropical-themed end-of-year boat party with dinner, navigation and dancing aboard a catamaran, programming cachengue, cumbia, old-school reggaeton and Brazilian music for a small-capacity river-party crowd.",
+        "genres": [
+          "latin"
         ]
       }
     ]

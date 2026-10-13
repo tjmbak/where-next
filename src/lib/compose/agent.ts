@@ -2,7 +2,7 @@ import { COMPOSE_TOOLS, destinationsCatalogSnippet, dispatchTool } from "@/lib/c
 import type { ComposeMessage, ComposeToolResult } from "@/lib/compose/types";
 import type { Itinerary } from "@/lib/itineraries/generate";
 
-const MODEL = "gpt-4o-mini";
+const MODEL = "gpt-5.5";
 
 function systemPrompt(opts: { hasDraft: boolean }): string {
   const today = new Date();
@@ -58,7 +58,16 @@ YOUR WORKFLOW:
 INPUTS YOU SHOULD CARE ABOUT:
 - Vibe (underground/festival/beach/intimate/etc.) — this is the most
   important signal. If the user only said "trip ideas", ASK before guessing.
-- Duration — only 3, 4, 5, 7, 10, or 14 days. Default to 5 if unclear.
+- Duration — only 3, 4, 5, 7, 10, or 14 days. "Weekend" = 3, "long weekend"
+  = 4, "a week" = 7. Default to 5 if unclear. Never ask for duration when
+  one of those phrases is present.
+- Bias to action: if the user gave ANY of genre / vibe / region / month /
+  budget, call search_destinations right away instead of asking a question
+  first. Ask at most one question per turn, and only when the answer would
+  change which cities you show.
+- "Warm" means warm in the travel month: pick months and cities where that
+  is true (e.g. Southern Europe in summer, Southern Hemisphere or tropics in
+  winter).
 - Dates — anchor to a Thursday in the user's month, in ${currentYear} or
   ${nextYear}, NEVER a past year.
 - Budget — low / medium / high / luxury. Default medium if unclear.
@@ -237,6 +246,8 @@ async function callChat(args: {
     },
     body: JSON.stringify({
       model: MODEL,
+      // gpt-5.5 on /v1/chat/completions rejects function tools unless reasoning is off.
+      reasoning_effort: args.tools?.length ? "none" : "low",
       messages: args.messages,
       tools: args.tools,
       stream: args.stream
@@ -262,6 +273,7 @@ async function* streamChatCompletion(args: {
     },
     body: JSON.stringify({
       model: MODEL,
+      reasoning_effort: "low",
       messages: args.messages,
       stream: true
     })
@@ -345,6 +357,6 @@ function serializeToolResultForLLM(result: ComposeToolResult): string {
 }
 
 function errString(err: unknown): string {
-  if (err instanceof Error) return err.message;
-  return String(err);
+  console.error("[compose] model call failed:", err instanceof Error ? err.message : err);
+  return "The planner hit a snag on our side. Try sending that again in a moment.";
 }

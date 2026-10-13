@@ -1,6 +1,7 @@
 import { createSupabaseServiceClient } from "@/lib/supabase/server";
 import { sendPushToUsers, type PushPayload } from "@/lib/push/server";
 import { DESTINATIONS, getEventsForDestination } from "@/data/music-travel";
+import { SUPPORTED_YEARS } from "@/data/taxonomy";
 
 const LAST_CALL_DAYS_BEFORE = 14;
 
@@ -21,7 +22,7 @@ export async function notifyLastCall(now: Date = new Date()) {
   let totalDelivered = 0;
 
   for (const destination of DESTINATIONS) {
-    const events = getEventsForDestination(destination.slug);
+    const events = SUPPORTED_YEARS.flatMap((year) => getEventsForDestination(destination.slug, year));
     const upcoming = events.filter((event) => {
       if (!event.ticketUrl) return false;
       const start = new Date(event.startDate);

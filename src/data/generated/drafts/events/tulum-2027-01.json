@@ -1,0 +1,283 @@
+{
+  "slug": "tulum",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:04:07.996Z",
+  "responseId": "resp_08ef2cc9e2f281ab006acd9f07d2b887d087192162691f4399+resp_0a507f7e89dc23dc006acd9f4b9ed087d0b0e75eb351d1b8dc",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is anchored by Tulum’s jungle electronic season: Zamna’s 10th-anniversary run, Day Zero, Tehmplo, cenote day festivals, and late-month Arena Festival activity across the Riviera Maya.",
+    "events": [
+      {
+        "id": "tulum-day-zero-2027",
+        "title": "Day Zero Tulum 2027: Begin Again",
+        "type": "festival",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 96,
+        "venueName": "Tulum jungle",
+        "venueId": null,
+        "sourceUrl": "https://dayzerofestival.com/tulum/?direct=true",
+        "ticketUrl": "https://day-zero-tulum.ingresse.com/",
+        "summary": "Day Zero returns to the Tulum jungle on January 9, 2027. The official lineup includes Damian Lazarus, &ME, LP Giobbi, Vintage Culture, Tiga, Chloé Caillet, Culoe De Song, Mita Gami, RPR Soundsystem, Satori (Live), Robag Wruhme and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-anyma-aeden-2027",
+        "title": "ANYMA presents ÆDEN Tulum",
+        "type": "club-night",
+        "startDate": "2027-01-04",
+        "endDate": "2027-01-04",
+        "importance": 90,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/events/Anyma-Tulum2026",
+        "ticketUrl": "https://zamnafestival.com/events/Anyma-Tulum2026",
+        "summary": "Anyma brings the audiovisual ÆDEN show to Zamna Tulum on January 4, 2027. The confirmed bill includes Anyma, CAMELPHAT, Cassian, Layla Benitez, Adam Sellouk, KAS:ST, 19:26, VOLKODER, Vomee, Hardt Antoine and ZSS.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "tulum-adriatique-x-zamna-2027",
+        "title": "Adriatique presents X Tulum",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 87,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/events/Adriatique-present-XTulum",
+        "ticketUrl": "https://zamnafestival.com/events/Adriatique-present-XTulum",
+        "summary": "Adriatique’s X concept returns to Zamna Tulum on January 8, 2027. The confirmed artists are Adriatique, WhoMadeWho, Mind Against, Kotiēr and Sama (US).",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tulum-adam-port-zamna-2027",
+        "title": "Adam Port at Zamna Tulum",
+        "type": "club-night",
+        "startDate": "2027-01-10",
+        "endDate": "2027-01-10",
+        "importance": 86,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://zamnafestival.com/events/adam-port-tulum2026",
+        "ticketUrl": "https://zamnafestival.com/events/adam-port-tulum2026",
+        "summary": "Adam Port headlines Zamna Tulum’s closing-night event on January 10, 2027. Zamna frames the show as the finale of its 10th-anniversary season.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-arena-festival-2027",
+        "title": "Arena Festival 2027",
+        "type": "festival",
+        "startDate": "2027-01-28",
+        "endDate": "2027-02-01",
+        "importance": 85,
+        "venueName": "Playa del Carmen and Tulum, Riviera Maya",
+        "venueId": null,
+        "sourceUrl": "https://arena.mx/",
+        "ticketUrl": "https://arena.mx/",
+        "summary": "Arena Festival celebrates its 15th anniversary from January 28 to February 1, 2027, across Playa del Carmen and Tulum. The official festival page confirms five days, eight parties and more than 30 DJs, with Full Access passes on sale.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-solomun-tehmplo-2027",
+        "title": "Solomun Tulum at Tehmplo",
+        "type": "club-night",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-07",
+        "importance": 84,
+        "venueName": "Tehmplo Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.tehmplo.com/",
+        "ticketUrl": "https://www.tehmplo.com/",
+        "summary": "Solomun is confirmed to return to Tehmplo Tulum on January 7, 2027. Tehmplo’s official page lists the event as part of its upcoming program with priority ticket pre-registration.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-porqueno-cenote-2027",
+        "title": "¿PorQuéNo? Tulum Jungle & Cenote Day Festival presented by DPM",
+        "type": "festival",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-03",
+        "importance": 74,
+        "venueName": "Vesica Tulum | Cenote Club",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.ca/e/porqueno-tulum-jungle-cenote-day-festival-presented-by-dpm-tickets-1982357459525",
+        "ticketUrl": "https://www.eventbrite.ca/e/porqueno-tulum-jungle-cenote-day-festival-presented-by-dpm-tickets-1982357459525",
+        "summary": "A daytime jungle/cenote promoter festival at Vesica, with the Jan. 2 Eventbrite ticket page live and wider listings confirming the Jan. 2–3 return; a strong scene option outside the main Zamna lane.",
+        "genres": [
+          "electronic",
+          "house",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-porqueno-cenote-day2-2027",
+        "title": "¿PorQuéNo? Tulum Jungle & Cenote Day Festival presented by DPM (Day 2)",
+        "type": "festival",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-03",
+        "importance": 72,
+        "venueName": "Vesica Tulum | Cenote Club",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.ca/e/porqueno-tulum-jungle-cenote-day-festival-presented-by-dpm-day-2-tickets-2001730130706?aff=ebdssbcategorybrowse",
+        "ticketUrl": "https://www.eventbrite.ca/e/porqueno-tulum-jungle-cenote-day-festival-presented-by-dpm-day-2-tickets-2001730130706?aff=ebdssbcategorybrowse",
+        "summary": "The second day of ¿PorQuéNo?’s Tulum cenote festival is confirmed for January 3, 2027, from 11 AM–10 PM at Vesica Tulum. The event is positioned as a full daytime jungle-and-cenote music experience.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tulum-7-realms-2027",
+        "title": "7 Realms Tulum 2027",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-13",
+        "importance": 70,
+        "venueName": "Various Tulum locations",
+        "venueId": null,
+        "sourceUrl": "https://www.7realms.mx/",
+        "ticketUrl": "https://www.7realms.mx/",
+        "summary": "Seven daytime parties are scheduled across Tulum from January 1–13, 2027, with international and local DJs. Venues and lineups are being revealed one by one by the festival.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-afrodise-ahau-2027",
+        "title": "Afrodise at Ahau Tulum: Aaron Sevilla",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Ahau Tulum",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108624385-aaron-sevilla-at-ahau-tulum?came_from=2900",
+        "ticketUrl": "https://www.bandsintown.com/e/108624385-aaron-sevilla-at-ahau-tulum?came_from=2900",
+        "summary": "Aaron Sevilla brings the Afrodis​​e concept to Ahau for an Afro-house / Afro-Latin night on the beach-zone circuit, verified as Jan. 2, 2027 at Ahau Tulum.",
+        "genres": [
+          "afro-house",
+          "house",
+          "latin",
+          "techno"
+        ]
+      },
+      {
+        "id": "tulum-7realms-2027",
+        "title": "7 Realms Tulum Daytime Festival Series",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-13",
+        "importance": 65,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.7realms.mx/",
+        "ticketUrl": "https://www.7realms.mx/",
+        "summary": "A new seven-date daytime party series across Tulum from Jan. 1–13, built around rotating settings such as beach clubs, rooftops, jungle, cenotes and open water, with international and local DJs announced realm by realm.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tulum-zamna-multipass-2027",
+        "title": "Zamna Tulum Multipass 2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-10",
+        "importance": 94,
+        "venueName": "Zamna Tulum",
+        "venueId": "zamna",
+        "sourceUrl": "https://ra.co/events/2387066",
+        "ticketUrl": "https://www.tixr.com/groups/zamnafestival/events/multipass-zamna-tulum-2027-175296",
+        "summary": "Zamna’s 2026/2027 Tulum season is confirmed via its multipass, valid for multiple Zamna parties from December 31, 2026 through January 10, 2027. Individual party lineups are still TBA, so this is included as the confirmed season access product rather than a named showcase.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tulum-one-big-holiday-2027",
+        "title": "My Morning Jacket’s One Big Holiday 2027",
+        "type": "festival",
+        "startDate": "2027-01-14",
+        "endDate": "2027-01-18",
+        "importance": 80,
+        "venueName": "Riviera Maya, Mexico",
+        "venueId": null,
+        "sourceUrl": "https://mmjonebigholiday.com/lineup/",
+        "ticketUrl": "https://mmjonebigholiday.com/booking-info/",
+        "summary": "One Big Holiday is confirmed for January 14–18, 2027 as an all-inclusive Riviera Maya music vacation hosted by My Morning Jacket. The announced lineup includes My Morning Jacket, Modest Mouse, Spoon, Durand Jones & The Indications, Wednesday, LA LOM, Kevin Morby, Slow Pulp, Say She She, Chromeo DJ Set, and Britt Daniel DJ Set.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "tulum-panic-en-la-playa-2027",
+        "title": "Panic en la Playa Catorce",
+        "type": "festival",
+        "startDate": "2027-01-19",
+        "endDate": "2027-01-23",
+        "importance": 79,
+        "venueName": "Hard Rock Riviera Maya",
+        "venueId": null,
+        "sourceUrl": "https://panicenlaplaya.com/artists/",
+        "ticketUrl": "https://panicenlaplaya.com/pricing/",
+        "summary": "Panic en la Playa Catorce is confirmed for January 19–23, 2027 at Hard Rock Riviera Maya. The lineup features Widespread Panic across four shows, plus Dumpstaphunk, Big Something, Mountain Grass Unit, Maggie Rose, Bloodkin, Kendall Street Company, and Playa Allstars.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "tulum-closer-to-the-sun-2027",
+        "title": "Closer to the Sun 2027",
+        "type": "festival",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-13",
+        "importance": 78,
+        "venueName": "Hard Rock Riviera Maya",
+        "venueId": null,
+        "sourceUrl": "https://closertothesun.com/",
+        "ticketUrl": "https://closertothesun.com/event-info-and-faqs/",
+        "summary": "Slightly Stoopid’s Closer to the Sun is confirmed for January 9–13, 2027 in Riviera Maya, with the 2027 lineup still to be announced. The event is a four-night all-inclusive concert vacation near Tulum’s wider Riviera Maya travel circuit.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

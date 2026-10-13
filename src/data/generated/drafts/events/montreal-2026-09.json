@@ -2,9 +2,9 @@
   "slug": "montreal",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:28:43.291Z",
-  "responseId": "resp_0a35e7108b05fb4e0069ff60524d1481a1bd80746cf8aeaa2f",
-  "searchCalls": 15,
+  "generatedAt": "2026-05-30T18:34:15.426Z",
+  "responseId": "augment:resp_0d71d45a00af6ab9006a1b2d3d5fdc8198bfcac6bb7455e307",
+  "searchCalls": 13,
   "citations": [],
   "data": {
     "destinationSlug": "montreal",
@@ -30,38 +30,20 @@
         ]
       },
       {
-        "id": "montreal-piknic-misstress-barbara-sep-2026",
-        "title": "Piknic Électronik MTL #14: Misstress Barbara / Dameer",
-        "type": "club-night",
-        "startDate": "2026-09-06",
-        "endDate": "2026-09-06",
-        "importance": 80,
-        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "id": "montreal-ricardo-villalobos-off-piknic-2026",
+        "title": "Ricardo Villalobos at OfF Piknic",
+        "type": "festival",
+        "startDate": "2026-09-26",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "OfF Piknic / Parc Jean-Drapeau",
         "venueId": "piknic",
-        "sourceUrl": "https://ra.co/events/2413783",
-        "ticketUrl": "https://billets.piknicelectronik.com/",
-        "summary": "Piknic Électronik’s September 6 edition features Misstress Barbara and Ossifer on the Fizz Stage, with Dameer, mayalabae and Raf Reza on the National Bank Stage. Resident Advisor lists the event as promoted by Piknic Electronik at Jardin Le Petit Prince, Parc Jean-Drapeau.",
+        "sourceUrl": "https://avec.courage.world/event/ricardo-villalobos-montreal-concert-26-septembre-2026-off-piknic-montreal-qc/",
+        "ticketUrl": "https://avec.courage.world/event/ricardo-villalobos-montreal-concert-26-septembre-2026-off-piknic-montreal-qc/",
+        "summary": "A high-importance OfF Piknic date with minimal-house and techno icon Ricardo Villalobos joined by Maher Daniel for a five-hour outdoor evening at Parc Jean-Drapeau.",
         "genres": [
-          "techno",
           "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "montreal-piknic-cloudy-no-diploma-sep-2026",
-        "title": "Piknic Électronik MTL #15: Cloudy / No Diploma Records",
-        "type": "club-night",
-        "startDate": "2026-09-07",
-        "endDate": "2026-09-07",
-        "importance": 75,
-        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
-        "venueId": "piknic",
-        "sourceUrl": "https://ra.co/events/2413784",
-        "ticketUrl": "https://billets.piknicelectronik.com/",
-        "summary": "The Labour Day Monday Piknic edition lists Cloudy, No Police and Pyromane on the Fizz Stage, plus a No Diploma Records stage with Teo2k, Kay B and Nether. The event is confirmed for September 7, 2026 at Piknic Électronik / Parc Jean-Drapeau.",
-        "genres": [
           "techno",
-          "house",
           "electronic"
         ]
       },
@@ -135,20 +117,56 @@
         ]
       },
       {
-        "id": "montreal-bunt-mtelus-sep-2026",
-        "title": "Bunt.",
-        "type": "concert",
-        "startDate": "2026-09-17",
-        "endDate": "2026-09-17",
-        "importance": 75,
-        "venueName": "MTELUS",
-        "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/mtelus/bunt?code=e008238",
-        "ticketUrl": null,
-        "summary": "îLESONIQ presents Bunt. at MTELUS on September 17, 2026. evenko confirms the Montreal club date and show time.",
+        "id": "montreal-piknic-misstress-barbara-sep-2026",
+        "title": "Piknic Électronik MTL #14: Misstress Barbara / Dameer",
+        "type": "club-night",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-06",
+        "importance": 80,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413783",
+        "ticketUrl": "https://billets.piknicelectronik.com/",
+        "summary": "Piknic Électronik’s September 6 edition features Misstress Barbara and Ossifer on the Fizz Stage, with Dameer, mayalabae and Raf Reza on the National Bank Stage. Resident Advisor lists the event as promoted by Piknic Electronik at Jardin Le Petit Prince, Parc Jean-Drapeau.",
         "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-sammy-virji-piknic-2026",
+        "title": "Sammy Virji - Parc Jean-Drapeau",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2417316",
+        "ticketUrl": "https://ra.co/events/2417316",
+        "summary": "A standalone Piknic-presented outdoor date for UK garage and bass-house figure Sammy Virji, positioned as a destination daytime dance event at Parc Jean-Drapeau.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-prospa-roche-musique-2026",
+        "title": "Piknic Électronik MTL #16: Prospa, Julian Fijma / Roche Musique: Didi Han, Cezaire",
+        "type": "festival",
+        "startDate": "2026-09-13",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413786",
+        "ticketUrl": "https://ra.co/events/2413786",
+        "summary": "A strong house-forward Piknic edition led by Prospa and Julian Fijma, with a Roche Musique stage featuring Didi Han and Cezaire.",
+        "genres": [
+          "house",
           "electronic",
-          "house"
+          "festival"
         ]
       },
       {
@@ -168,19 +186,55 @@
         ]
       },
       {
-        "id": "montreal-spencer-krug-sep-2026",
-        "title": "Spencer Krug + invité(e)s",
-        "type": "concert",
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-24",
-        "importance": 70,
-        "venueName": "La Sala Rossa",
-        "venueId": null,
-        "sourceUrl": "https://popmontreal.com/events/spencer-krug-invitees",
-        "ticketUrl": null,
-        "summary": "Spencer Krug is confirmed for La Sala Rossa on September 24, 2026 as part of POP Montréal-related programming. The official POP Montréal event page lists doors at 7:00 p.m. and show at 8:00 p.m.",
+        "id": "montreal-piknic-cloudy-no-diploma-sep-2026",
+        "title": "Piknic Électronik MTL #15: Cloudy / No Diploma Records",
+        "type": "club-night",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-07",
+        "importance": 75,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413784",
+        "ticketUrl": "https://billets.piknicelectronik.com/",
+        "summary": "The Labour Day Monday Piknic edition lists Cloudy, No Police and Pyromane on the Fizz Stage, plus a No Diploma Records stage with Teo2k, Kay B and Nether. The event is confirmed for September 7, 2026 at Piknic Électronik / Parc Jean-Drapeau.",
         "genres": [
-          "pop"
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-bunt-mtelus-sep-2026",
+        "title": "Bunt.",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 75,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/bunt?code=e008238",
+        "ticketUrl": null,
+        "summary": "îLESONIQ presents Bunt. at MTELUS on September 17, 2026. evenko confirms the Montreal club date and show time.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-cabaret-voltaire-sat-2026",
+        "title": "Cabaret Voltaire with I Speak Machine",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Société des arts technologiques (SAT)",
+        "venueId": null,
+        "sourceUrl": "https://sat.qc.ca/fr/evenements/cabaret-voltaire",
+        "ticketUrl": "https://sat.qc.ca/fr/evenements/cabaret-voltaire",
+        "summary": "Blue Skies Turn Black and Ciel Noir present electronic/post-industrial pioneers Cabaret Voltaire with I Speak Machine at SAT’s Espace SAT.",
+        "genres": [
+          "electronic",
+          "techno"
         ]
       },
       {
@@ -197,6 +251,93 @@
         "summary": "POP Montréal, Théâtre Outremont and OK LÀ present Fred Frith with René Lussier on September 26, 2026. The official POP Montréal event page confirms the date, venue and 8:00 p.m. show time.",
         "genres": [
           "jazz"
+        ]
+      },
+      {
+        "id": "montreal-nuits-bazart-awen-2026",
+        "title": "Nuits Bazart: AWEN (Hybrid), Blanca, Doga Erbek",
+        "type": "club-night",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-05",
+        "importance": 72,
+        "venueName": "Bazart / New City Gas",
+        "venueId": null,
+        "sourceUrl": "https://newcitygas.com/en/event/awen-hybrid-186992/",
+        "ticketUrl": "https://newcitygas.com/en/event/awen-hybrid-186992/",
+        "summary": "Produkt and Bazart’s summer Nuits Bazart series continues with AWEN’s hybrid set, a Mediterranean-leaning night of melodic, afro-house, deep and organic club sounds.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-spencer-krug-sep-2026",
+        "title": "Spencer Krug + invité(e)s",
+        "type": "concert",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-24",
+        "importance": 70,
+        "venueName": "La Sala Rossa",
+        "venueId": null,
+        "sourceUrl": "https://popmontreal.com/events/spencer-krug-invitees",
+        "ticketUrl": null,
+        "summary": "Spencer Krug is confirmed for La Sala Rossa on September 24, 2026 as part of POP Montréal-related programming. The official POP Montréal event page lists doors at 7:00 p.m. and show at 8:00 p.m.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-nuits-bazart-baron-2026",
+        "title": "Nuits Bazart: BARON (FR), Mekki, Chrissandro",
+        "type": "club-night",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-19",
+        "importance": 70,
+        "venueName": "Bazart / New City Gas",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2434412",
+        "ticketUrl": "https://ra.co/events/2434412",
+        "summary": "The Nuits Bazart summer club series brings BARON (FR) to Griffintown with Mekki and Chrissandro for a late-night melodic/afro-house leaning party.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-tinlicker-mtelus-2026",
+        "title": "Tinlicker - North America 2026",
+        "type": "concert",
+        "startDate": "2026-09-24",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/tinlicker?code=e008147",
+        "ticketUrl": "https://evenko.ca/en/events/mtelus/tinlicker?code=e008147",
+        "summary": "Dutch melodic house/electronic act Tinlicker brings its North America 2026 tour to MTELUS for a mid-sized electronic concert date.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-tempeo-dance-music-2026",
+        "title": "TEMPÉO, Dance and Music Festival",
+        "type": "festival",
+        "startDate": "2026-09-16",
+        "endDate": "2026-09-20",
+        "importance": 63,
+        "venueName": "Place des Arts Esplanade",
+        "venueId": null,
+        "sourceUrl": "https://www.mtl.org/en/what-to-do/festivals-and-events/tempeo-dance-music-festival-place-des-arts",
+        "ticketUrl": null,
+        "summary": "Free outdoor dance-and-music nights at Place des Arts featuring multiple dance styles and live musical frames, including funk, Eastern pop, country, Afro-pop and salsa.",
+        "genres": [
+          "festival",
+          "pop",
+          "latin"
         ]
       }
     ]

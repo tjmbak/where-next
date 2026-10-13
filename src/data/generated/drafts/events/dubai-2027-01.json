@@ -1,0 +1,150 @@
+{
+  "slug": "dubai",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:07:38.719Z",
+  "responseId": "resp_0a9715d8fe0604fb006acd9fc1e36487d0b2d4a882bc8bf13f+resp_070e05a8f3491df9006acda01ea8dc87d087fc2b0fa85a6ae3",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027’s confirmed Dubai music calendar is still thin, but the strongest verified picks lean into diaspora dance festivals, desert/world-electronic programming, and a major arena rock concert.",
+    "events": [
+      {
+        "id": "dubai-kino-coca-cola-arena-2027",
+        "title": "KINO Band in Dubai",
+        "type": "concert",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-06",
+        "importance": 78,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108261/kino",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108261/kino",
+        "summary": "Russian rock band KINO bring their live show to Coca-Cola Arena, using Viktor Tsoi’s original digitised vocals with live performances by Yury Kasparyan, Alexander Titov and Igor Tikhomirov.",
+        "genres": []
+      },
+      {
+        "id": "dubai-kizomba-fusion-2027",
+        "title": "Dubai Kizomba Fusion 2027",
+        "type": "festival",
+        "startDate": "2027-01-14",
+        "endDate": "2027-01-18",
+        "importance": 76,
+        "venueName": "Avani Ibn Battuta Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.dubaikizombafusion.com/",
+        "ticketUrl": "https://my.weezevent.com/dubai-kizomba-fusion-2027",
+        "summary": "The 7th edition of Dubai Kizomba Fusion runs across five days with workshops, pool parties, night parties, a boat party and DJs including DJ Nao, DJ Neiken, DJ David Ruela and DJ Faris.",
+        "genres": [
+          "festival",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "dubai-sama-festival-2027",
+        "title": "The SAMĀ Festival — Al Qudra",
+        "type": "festival",
+        "startDate": "2027-01-23",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Al Qudra Yoga Centre",
+        "venueId": null,
+        "sourceUrl": "https://thesamafestival.com/",
+        "ticketUrl": null,
+        "summary": "A desert-set music, art and culture gathering running from 5pm until late, with Afrosideral, Âpe Chimba, AWO hybrid DJ set, Miss Rich and others; the bill leans into Afro-electronic, house, techno, amapiano, Afro-Cuban and world-electronic sounds.",
+        "genres": [
+          "afro-house",
+          "house",
+          "techno",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "dubai-el-dos-tres-salsa-festival-2027",
+        "title": "El Dos Tres Salsa Festival Dubai 2027",
+        "type": "festival",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-24",
+        "importance": 74,
+        "venueName": "Millennium Lakeview Hotel Dubai",
+        "venueId": null,
+        "sourceUrl": "https://eldostressalsafestival.com/",
+        "ticketUrl": "https://eldostressalsafestival.com/pages/early-bird-full-pass",
+        "summary": "El Dos Tres brings a full salsa-focused weekend to Millennium Lakeview Hotel with workshops, socials, afters, live DJs, a grand pool party and Cuban/Latin dance programming across Timba, Rueda de Casino, Afro-Cuban, Rumba, Son and Reparto.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-el-dos-tres-salsa-2027",
+        "title": "El Dos Tres Salsa Festival 2027",
+        "type": "festival",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-24",
+        "importance": 70,
+        "venueName": "Millennium Lakeview Hotel Dubai",
+        "venueId": null,
+        "sourceUrl": "https://eldostressalsafestival.com/",
+        "ticketUrl": "https://eldostressalsafestival.com/",
+        "summary": "Four-day Latin dance festival based at Millennium Lakeview Hotel Dubai, with warm-up socials, international DJs, nonstop dancing, workshops and a closing night aimed at the salsa/social-dance travel crowd.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-tony-ann-jan-2027",
+        "title": "Tony Ann at Dubai Opera",
+        "type": "concert",
+        "startDate": "2027-01-10",
+        "endDate": "2027-01-10",
+        "importance": 72,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://www.dubaiopera.com/en-US/product-details?ID=b1b77aae-45f0-f011-8406-70a8a5226084",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104443/tony-ann-at-dubai-opera",
+        "summary": "Pianist and composer Tony Ann makes his Dubai Opera debut on 10 January 2027, presented by Live Nation, with support from Arkai.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-ya-hala-festival-jan-2027",
+        "title": "YA HALA Festival 2027",
+        "type": "festival",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-17",
+        "importance": 62,
+        "venueName": "Sima Theater",
+        "venueId": null,
+        "sourceUrl": "https://yahala.festivalgulf.com/",
+        "ticketUrl": "https://yahala.festivalgulf.com/",
+        "summary": "YA HALA Festival is a two-day belly dance, workshop, show, and competition event at Sima Theater, with scheduled sessions including drum rhythm, shaaby, Iraqi, balady, stage workshops, and a main competition.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-paradise-music-dance-jan-2027",
+        "title": "XVII International Music & Dance Festival “Dubai Paradise”",
+        "type": "festival",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-26",
+        "importance": 60,
+        "venueName": "Dubai, UAE",
+        "venueId": null,
+        "sourceUrl": "https://www.wofafestivals.com/festivals/x-international-music-dance-festival-dubai-paradise/",
+        "ticketUrl": null,
+        "summary": "World Festival Association lists Dubai Paradise for 21–26 January 2027 as an international showcase for folk ensembles, choral groups, orchestras, brass bands, majorette teams, vocal groups, instrumental groups, and dance groups.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

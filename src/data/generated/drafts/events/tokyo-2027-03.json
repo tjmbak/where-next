@@ -1,0 +1,278 @@
+{
+  "slug": "tokyo",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:38:07.999Z",
+  "responseId": "resp_00c1d4ed2db4ca42006acda6c548ec87d0a40481ffb2f0af0a+resp_019c009f53472206006acda747828887d0858eb12f0c2a42c8",
+  "searchCalls": 43,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is currently confirmed mostly through arena/theater concerts around Tokyo and Yokohama; club and festival calendars for Tokyo’s electronic scene are not yet meaningfully announced this far out.",
+    "events": [
+      {
+        "id": "tokyo-befirst-belluna-dome-2027",
+        "title": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-07",
+        "importance": 88,
+        "venueName": "Belluna Dome",
+        "venueId": null,
+        "sourceUrl": "https://befirst.tokyo/tour/dometour2027/",
+        "ticketUrl": "https://befirst.tokyo/tour/dometour2027/",
+        "summary": "BE:FIRST’s 5th anniversary dome tour stops at Belluna Dome in Saitama, within the Tokyo metro area, for two confirmed March dates.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-creepy-nuts-arena-tour-2027",
+        "title": "Creepy Nuts ONEMAN TOUR 2027",
+        "type": "concert",
+        "startDate": "2027-03-16",
+        "endDate": "2027-03-17",
+        "importance": 88,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://creepynuts.com/onemantour2027/",
+        "ticketUrl": "https://creepynuts.com/onemantour2027/",
+        "summary": "Creepy Nuts’ arena tour includes two Tokyo shows at Ariake Arena on March 16 and 17, 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-mrs-green-apple-harmony2-2027",
+        "title": "Mrs. GREEN APPLE on “Harmony2”",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-17",
+        "importance": 87,
+        "venueName": "K Arena Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://mrsgreenapple.com/feature/harmony_2",
+        "ticketUrl": "https://mrsgreenapple.com/feature/harmony_2",
+        "summary": "Mrs. GREEN APPLE’s “Harmony2” run includes multiple Tokyo-area K Arena Yokohama dates in March: March 6, 7, 10, 11, 16 and 17.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-aimyon-k-arena-2027",
+        "title": "AIMYON TOUR 2027 - cosmic % -",
+        "type": "concert",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-14",
+        "importance": 82,
+        "venueName": "K Arena Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://sogotokyo.com/live_information/detail/3035",
+        "ticketUrl": "https://sogotokyo.com/live_information/detail/3035",
+        "summary": "Aimyon’s 2027 tour plays the Tokyo-area K Arena Yokohama on March 13 and 14, with start times and ticket pricing confirmed by SOGO Tokyo.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-aimyon-yoyogi-2027",
+        "title": "AIMYON TOUR 2027 - cosmic % -",
+        "type": "concert",
+        "startDate": "2027-03-31",
+        "endDate": "2027-04-01",
+        "importance": 82,
+        "venueName": "Yoyogi National Stadium First Gymnasium",
+        "venueId": null,
+        "sourceUrl": "https://sogotokyo.com/live_information/detail/3036",
+        "ticketUrl": "https://sogotokyo.com/live_information/detail/3036",
+        "summary": "Aimyon’s “cosmic %” tour reaches central Tokyo at Yoyogi National Stadium First Gymnasium, opening a two-night run on March 31, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-aile-the-shota-budokan-2027",
+        "title": "Aile The Shota Oneman Live 2027 in Nippon Budokan",
+        "type": "concert",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 78,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/aile-the-shota27/",
+        "ticketUrl": "https://eplus.jp/sf/detail/3842470001?P1=0402&P6=001",
+        "summary": "BMSG artist Aile The Shota plays a solo Budokan show on March 13, 2027, with VIP, SS and S reserved seating listed.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-toto-50th-anniversary-2027",
+        "title": "TOTO 50TH ANNIVERSARY TOUR",
+        "type": "concert",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-23",
+        "importance": 78,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.udo.jp/shows/TOTO27",
+        "ticketUrl": "https://www.udo.jp/shows/TOTO27",
+        "summary": "TOTO’s 50th anniversary Japan tour plays Tokyo’s Ariake Arena on March 23, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-broken-social-scene-2027",
+        "title": "BROKEN SOCIAL SCENE JAPAN TOUR 2027",
+        "type": "concert",
+        "startDate": "2027-03-30",
+        "endDate": "2027-03-30",
+        "importance": 74,
+        "venueName": "EX THEATER ROPPONGI",
+        "venueId": null,
+        "sourceUrl": "https://www.smash-jpn.com/live/?id=4785",
+        "ticketUrl": "https://eplus.jp/sf/detail/0174910001-P0030003P021001",
+        "summary": "Canadian collective Broken Social Scene return to Japan with a Tokyo date at EX THEATER ROPPONGI on March 30, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-okamotos-budokan-2027",
+        "title": "OKAMOTO’S “OK,BUDOKAN”",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 73,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://www.sma.co.jp/s/sma/music/okbudokan",
+        "ticketUrl": "https://www.sma.co.jp/s/sma/music/okbudokan",
+        "summary": "OKAMOTO’S headline Nippon Budokan on March 12, 2027 for the confirmed “OK,BUDOKAN” concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-fuwa-minato-vortex-2027",
+        "title": "Fuwa Minato 2nd LIVE “VORTEX”",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 72,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://www.nijisanji.jp/events/fuwa_VORTEX/",
+        "ticketUrl": "https://www.nijisanji.jp/events/fuwa_VORTEX/",
+        "summary": "Nijisanji VTuber and singer Fuwa Minato brings his second solo live, “VORTEX,” to Nippon Budokan on March 3, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-nao-toyama-over-the-rainbow-2027",
+        "title": "Nao Toyama 10th Anniv. Final Live “OVER THE RAINBOW at Nippon Budokan”",
+        "type": "concert",
+        "startDate": "2027-03-11",
+        "endDate": "2027-03-11",
+        "importance": 72,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://toyamanao.com/2026/02/08/%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE-%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%96%E6%B1%BA%E5%AE%9A%EF%BC%81/",
+        "ticketUrl": null,
+        "summary": "Singer and voice actor Nao Toyama marks the final live of her 10th anniversary project with a Budokan concert on March 11, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-spring-love-harukaze-2027",
+        "title": "SPRING LOVE 春風 2027",
+        "type": "festival",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-28",
+        "importance": 72,
+        "venueName": "Yoyogi Park Event Plaza",
+        "venueId": null,
+        "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000032.000155702.html",
+        "ticketUrl": null,
+        "summary": "Long-running free outdoor spring festival at Yoyogi Park built around live music, DJs, art, market and food culture; 2027 artist/DJ lineup is confirmed as forthcoming, but the dates, venue and music/DJ format are announced.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-wands-last-act-2027",
+        "title": "WANDS Live Tour 2027 “LAST ACT 5th period”",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 70,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.wands-official.jp/live.html",
+        "ticketUrl": "https://www.wands-official.jp/live.html",
+        "summary": "WANDS’ 2027 live tour plays Tokyo Garden Theater on March 12 with a confirmed 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-winds-re1st-message-2027",
+        "title": "w-inds. LIVE TOUR 2027 “Re:1st message”",
+        "type": "concert",
+        "startDate": "2027-03-14",
+        "endDate": "2027-03-14",
+        "importance": 70,
+        "venueName": "SGC HALL ARIAKE",
+        "venueId": null,
+        "sourceUrl": "https://sogotokyo.com/live_information/detail/3164",
+        "ticketUrl": "https://sogotokyo.com/live_information/detail/3164",
+        "summary": "Long-running dance-pop/R&B group w-inds. bring their 2027 “Re:1st message” tour to SGC HALL ARIAKE on March 14.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-yoshii-kazuya-ikimono-energy-2027",
+        "title": "Kazuya Yoshii TOUR 2027 “イ･キ･モ･ノ･エ･ネ･ジ･ー”",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "importance": 70,
+        "venueName": "SGC HALL ARIAKE",
+        "venueId": null,
+        "sourceUrl": "https://sogotokyo.com/live_information/detail/3045",
+        "ticketUrl": "https://www.yoshiikazuya.com/feature/tour2027",
+        "summary": "Kazuya Yoshii’s 2027 solo tour stops at SGC HALL ARIAKE on March 18 with a 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-feeble-little-horse-2027",
+        "title": "feeble little horse",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 68,
+        "venueName": "Daikanyama SPACE ODD",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/feeble-little-horse/",
+        "ticketUrl": "https://eplus.jp/sf/detail/4602960001",
+        "summary": "Pittsburgh shoegaze/noise-pop band feeble little horse make a Tokyo stop at Daikanyama SPACE ODD on March 12, 2027.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

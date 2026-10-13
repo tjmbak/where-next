@@ -1,0 +1,314 @@
+{
+  "slug": "berlin",
+  "month": 9,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:18:25.747Z",
+  "responseId": "resp_00cb6f95b8b4dc68006acdb04b453c87d0baa5392f19064383+resp_02b9806a241fca98006acdb0a7315887d0a5f342a36ddf0863",
+  "searchCalls": 26,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 9,
+    "year": 2027,
+    "notes": "September 2027 confirmations are still dominated by large concerts and a few early-announced niche festivals; most Berlin club calendars are not yet published this far out.",
+    "events": [
+      {
+        "id": "berlin-pig-folsom-2027",
+        "title": "PiG Berlin: The Official Folsom Europe Party",
+        "type": "club-night",
+        "startDate": "2027-09-11",
+        "endDate": "2027-09-11",
+        "importance": 84,
+        "venueName": "Alte Münze / Spreewerkstätten",
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/pig-the-official-folsom-europe-party-berlin/",
+        "ticketUrl": null,
+        "summary": "The flagship Saturday-night men-only Folsom party, described as a large-scale fetish club night with thousands of guests, dance floors, hard electronic music, house/electro rooms and extensive play/cruising areas.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-sido-max-schmeling-halle-2027",
+        "title": "Sido – Frieden Tour 2027",
+        "type": "concert",
+        "startDate": "2027-09-24",
+        "endDate": "2027-09-24",
+        "importance": 82,
+        "venueName": "Max-Schmeling-Halle",
+        "venueId": null,
+        "sourceUrl": "https://www.visitberlin.de/en/event/sido-2",
+        "ticketUrl": "https://www.eventim.de/artist/sido/",
+        "summary": "Sido brings his Frieden Tour 2027 to Max-Schmeling-Halle on 24 September 2027, with visitBerlin listing the show as part of his arena tour.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-revolver-folsom-2027",
+        "title": "Revolver Berlin: Folsom Europe Edition 2027",
+        "type": "club-night",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-10",
+        "importance": 82,
+        "venueName": "Club OST",
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/revolver-berlin-folsom-europe-edition/",
+        "ticketUrl": null,
+        "summary": "Berlin’s major monthly gay club brand expands into an XXL Folsom Friday edition at Club OST, with international DJs, performers, multiple floors and a large leather/fetish dance crowd.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-danger-dan-wuhlheide-2027",
+        "title": "Danger Dan – Keine Angst Tour 2027",
+        "type": "concert",
+        "startDate": "2027-09-11",
+        "endDate": "2027-09-11",
+        "importance": 78,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.wuhlheide.de/programm/danger-dan/2027-09-11",
+        "ticketUrl": "https://www.wuhlheide.de/programm/danger-dan/2027-09-11",
+        "summary": "Danger Dan plays Parkbühne Wuhlheide on 11 September 2027 as part of the Keine Angst Tour, with the venue listing doors at 17:00 and showtime at 19:00.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-clueso-waldbuehne-2027",
+        "title": "Clueso – Live 2027",
+        "type": "concert",
+        "startDate": "2027-09-04",
+        "endDate": "2027-09-04",
+        "importance": 76,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.waldbuehne-berlin.de/en/event/clueso_2027-09-04_18/",
+        "ticketUrl": "https://www.waldbuehne-berlin.de/en/event/clueso_2027-09-04_18/",
+        "summary": "Clueso plays an open-air concert at Waldbühne Berlin, announced by the venue for 4 September 2027 with a new album-era show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-maffay-oerding-waldbuehne-2027",
+        "title": "Maffay + Oerding – Nashville Open Air 2027",
+        "type": "concert",
+        "startDate": "2027-09-11",
+        "endDate": "2027-09-11",
+        "importance": 76,
+        "venueName": "Waldbühne Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.waldbuehne-berlin.de/event/maffay-oerding-nashville_open_air_2027_2027-09-11_19/",
+        "ticketUrl": "https://www.waldbuehne-berlin.de/event/maffay-oerding-nashville_open_air_2027_2027-09-11_19/",
+        "summary": "Peter Maffay and Johannes Oerding stage the Berlin finale of their Nashville Open Air 2027 at Waldbühne on 11 September 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-kollegah-farid-bang-2027",
+        "title": "Kollegah & Farid Bang – JBG Forever Tour",
+        "type": "concert",
+        "startDate": "2027-09-23",
+        "endDate": "2027-09-23",
+        "importance": 75,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/events/detail/kollegah-farid-bang",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/events/detail/kollegah-farid-bang",
+        "summary": "Kollegah and Farid Bang bring the JBG Forever Tour to Uber Eats Music Hall on 23 September 2027, marking the anniversary cycle around their Jung, Brutal, Gutaussehend collaboration.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-club-animalz-folsom-2027",
+        "title": "Club Animalz Berlin: Folsom Europe 2027",
+        "type": "club-night",
+        "startDate": "2027-09-11",
+        "endDate": "2027-09-11",
+        "importance": 75,
+        "venueName": "Metropol",
+        "venueId": null,
+        "sourceUrl": "https://www.animalzberlin.com/",
+        "ticketUrl": null,
+        "summary": "All-gender furry, pup and fetish-community club night taking over Metropol for Folsom Europe, with a music policy spanning pop mashups, house, EDM and darker techno as the night builds.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-gestoert-aber-geil-festival-2027",
+        "title": "Gestört aber GeiL – Das Festival 2027",
+        "type": "festival",
+        "startDate": "2027-09-04",
+        "endDate": "2027-09-04",
+        "importance": 74,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.gestoert-aber-geil.com/das-festival",
+        "ticketUrl": "https://www.eventim.de/event/gestoert-aber-geil-das-festival-2027-parkbuehne-wuhlheide-22068878/",
+        "summary": "Gestört aber GeiL mark the 10th edition of their Berlin festival at Parkbühne Wuhlheide, with a one-day live show running from afternoon into evening.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-montez-uber-arena-2027",
+        "title": "Montez – Arena Tour 2027",
+        "type": "concert",
+        "startDate": "2027-09-25",
+        "endDate": "2027-09-25",
+        "importance": 74,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/montez-berlin/2027-09-25-1900",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/montez-berlin/2027-09-25-1900",
+        "summary": "Montez plays Uber Arena Berlin on 25 September 2027 on his Arena Tour 2027, with the venue confirming a 19:00 start and 17:00 doors.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-recon-folsom-closing-2027",
+        "title": "Recon Official Folsom Europe Closing Party 2027",
+        "type": "club-night",
+        "startDate": "2027-09-12",
+        "endDate": "2027-09-12",
+        "importance": 74,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/recon-official-folsom-europe-closing-party/",
+        "ticketUrl": null,
+        "summary": "Official Sunday closing party for Folsom Europe, led by the Recon fetish/lifestyle brand, with guest DJs, dancing, cruising zones and an international leather/fetish crowd; final 2027 ticket details are still pending.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-archive-uber-eats-music-hall-2027",
+        "title": "Archive",
+        "type": "concert",
+        "startDate": "2027-09-11",
+        "endDate": "2027-09-11",
+        "importance": 73,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/archive/",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/archive/",
+        "summary": "British collective Archive play Uber Eats Music Hall on 11 September 2027, with the venue highlighting their trip-hop, progressive rock and electronic influences.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-lieber-tot-2027",
+        "title": "Lieber Tot N°3: Synth & Minimal Wave Festival",
+        "type": "festival",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-11",
+        "importance": 72,
+        "venueName": "ÆDEN",
+        "venueId": null,
+        "sourceUrl": "https://www.liebertot.de/",
+        "ticketUrl": "https://www.liebertot.de/details-registrierung/lieber-tot-2-1",
+        "summary": "Two-day underground synth, minimal-wave and dystopian-electronics gathering at ÆDEN, with early-bird tickets already announced and the line-up still TBA.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-element-of-crime-wuhlheide-2027",
+        "title": "Element of Crime – Sommer 2027",
+        "type": "concert",
+        "startDate": "2027-09-18",
+        "endDate": "2027-09-18",
+        "importance": 72,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.wuhlheide.de/programm/element-of-crime/2027-09-18",
+        "ticketUrl": "https://www.wuhlheide.de/programm/element-of-crime/2027-09-18",
+        "summary": "Element of Crime play Parkbühne Wuhlheide on 18 September 2027, one of the band’s limited 2027 open-air dates listed by the venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-kolja-goldstein-metropol-2027",
+        "title": "Kolja Goldstein – Baltic Café Tour",
+        "type": "concert",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-10",
+        "importance": 69,
+        "venueName": "Metropol Berlin",
+        "venueId": null,
+        "sourceUrl": "https://metropol-berlin.de/event/2027-09-10-kolja-goldstein",
+        "ticketUrl": "https://metropol-berlin.de/event/2027-09-10-kolja-goldstein",
+        "summary": "Kolja Goldstein brings the rescheduled Baltic Café Tour to Metropol Berlin, with the venue listing a 20:00 start on 10 September 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-ronan-keating-uber-arena-2027",
+        "title": "Ronan Keating – Just Getting Started World Tour",
+        "type": "concert",
+        "startDate": "2027-09-13",
+        "endDate": "2027-09-13",
+        "importance": 68,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/ronan-keating/2027-09-13-2000",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/ronan-keating/2027-09-13-2000",
+        "summary": "Ronan Keating performs at Uber Arena Berlin on 13 September 2027 as part of the Just Getting Started world tour, with solo and Boyzone material advertised by the venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-mass-of-the-fermenting-dregs-2027",
+        "title": "Mass of the Fermenting Dregs – Iwaou Tour",
+        "type": "concert",
+        "startDate": "2027-09-30",
+        "endDate": "2027-09-30",
+        "importance": 68,
+        "venueName": "Hole44",
+        "venueId": null,
+        "sourceUrl": "https://hole-berlin.de/event/2027-09-30-mass-of-the-fermenting-dregs/",
+        "ticketUrl": "https://hole-berlin.de/event/2027-09-30-mass-of-the-fermenting-dregs/",
+        "summary": "Japanese band Mass of the Fermenting Dregs bring the Iwaou Tour to Hole44 on 30 September 2027, with the venue listing doors at 19:00 and start at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-cabaret-musical-sep-2027",
+        "title": "CABARET - The Berlin Musical",
+        "type": "residency",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-10",
+        "importance": 65,
+        "venueName": "TIPI AM KANZLERAMT",
+        "venueId": null,
+        "sourceUrl": "https://www.musical.berlin/en/musicals-shows/cabaret-the-berlin-musical.html",
+        "ticketUrl": null,
+        "summary": "CABARET is confirmed for a 2027 Berlin run from 26 June to 26 September, with 10 September 2027 explicitly listed as one of the September performances. The production is staged at Tipi am Kanzleramt and features John Kander and Fred Ebb’s score in a Berlin-set musical residency.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

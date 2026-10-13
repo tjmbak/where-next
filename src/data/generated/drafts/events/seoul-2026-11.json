@@ -2,16 +2,313 @@
   "slug": "seoul",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:42:46.708Z",
-  "responseId": "resp_03c0cb43d55ce120006a0099153b3481969982a4dd216c7e9a",
-  "searchCalls": 11,
+  "generatedAt": "2026-10-13T02:46:54.546Z",
+  "responseId": "resp_0e89279ffca7f3e1006acd9aecf24c87d0ab931af4176b22ec+resp_00d256d2d8e31890006acd9b5286c887d0b55e340aff807cdc",
+  "searchCalls": 36,
   "citations": [],
   "data": {
     "destinationSlug": "seoul",
     "month": 11,
     "year": 2026,
-    "notes": "Confirmed November 2026 listings are currently strongest in Seoul’s major classical and opera institutions; flagship club and electronic calendars have not yet published reliable November dates.",
+    "notes": "November is unusually split between arena-scale K-pop/pop, J-pop festival traffic at KINTEX, and bass/electronic club bookings in Itaewon and Seongsu.",
     "events": [
+      {
+        "id": "seoul-txt-steal-the-wind-2026",
+        "title": "TOMORROW X TOGETHER WORLD TOUR 〈STEAL THE WIND〉 IN SEOUL",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "importance": 90,
+        "venueName": "KSPO DOME",
+        "venueId": null,
+        "sourceUrl": "https://nol.yanolja.com/ticket/products/26013161",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26013161",
+        "summary": "TOMORROW X TOGETHER open their 〈STEAL THE WIND〉 Seoul run with three shows at KSPO DOME. NOL lists performances on November 13, 14 and 15 with soundcheck and M&G ticket tiers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-wonderlivet-2026",
+        "title": "WONDERLIVET 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 88,
+        "venueName": "KINTEX Hall 7/8/9/10",
+        "venueId": null,
+        "sourceUrl": "https://www.wonderli.vet/home?page=2&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9",
+        "ticketUrl": "https://www.wonderli.vet/home?page=2&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9",
+        "summary": "WONDERLIVET returns to KINTEX as a three-day J-pop and iconic-artist festival. The official site confirms November 20–22 at Halls 7–10 with a 42-team lineup.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-kgma-2026",
+        "title": "2026 Korea Grand Music Award",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 86,
+        "venueName": "Gocheok Sky Dome",
+        "venueId": null,
+        "sourceUrl": "https://scenepick.kr/performances/18782",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26013920",
+        "summary": "The 2026 Korea Grand Music Award is confirmed for two days at Gocheok Sky Dome. Published lineups include K-pop and pop acts such as ITZY, tripleS, P1Harmony, KISS OF LIFE, xikers, MEOVV, FIFTY FIFTY and others.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-5sos-kintex-2026",
+        "title": "5 Seconds of Summer Live in Korea",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 83,
+        "venueName": "KINTEX Hall 1",
+        "venueId": null,
+        "sourceUrl": "https://5sos.com/",
+        "ticketUrl": "https://5sos.com/",
+        "summary": "5 Seconds of Summer list Seoul, South Korea at KINTEX Hall 1 on their official tour page for November 19. The show is part of their late-2026 Asia routing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-xdinary-heroes-impulse-2026",
+        "title": "Xdinary Heroes Concert 〈IMPULSE〉",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "importance": 82,
+        "venueName": "INSPIRE ARENA",
+        "venueId": null,
+        "sourceUrl": "https://nol.yanolja.com/ticket/products/26014103",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26014103",
+        "summary": "JYP band Xdinary Heroes play three nights of 〈IMPULSE〉 at INSPIRE ARENA near Seoul. The ticket notice confirms showtimes on November 13, 14 and 15.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-camelphat-global-calling-2026",
+        "title": "GLOBAL CALLING: CAMELPHAT",
+        "type": "club-night",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-13",
+        "importance": 80,
+        "venueName": "LION SUPER CLUB",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/26000231/products/26013553",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000231/products/26013553",
+        "summary": "UK electronic duo CamelPhat headline a six-hour GLOBAL CALLING event at LION SUPER CLUB in Gangnam. The ticket page confirms a 19+ event running November 12–13.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-friction-undercity-2026",
+        "title": "UNDERCITY presents Friction",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 78,
+        "venueName": "UNDERCITY",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2549689",
+        "ticketUrl": "https://ra.co/events/2549689",
+        "summary": "UNDERCITY’s first drum-and-bass curation brings UK D&B figure Friction to Seoul with YUNJI, Seyn, Hime isnotdead, rom & BAAWLA and (x)pider, spanning jungle, liquid, neurofunk, jump-up and breakbeat influences.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-jason-mraz-asia-tour-2026",
+        "title": "Jason Mraz Asia Tour 2026 - Seoul",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 78,
+        "venueName": "KINTEX Exhibition Center 1, Hall 1",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/26000503/products/26006423",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26000503/products/26006423",
+        "summary": "Jason Mraz brings his Asia Tour 2026 to KINTEX Hall 1 in Goyang, just outside Seoul. NOL World confirms the November 14 date and standing ticket categories.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-sjf-diana-krall-2026",
+        "title": "SJF at the Theater 2026 - Diana Krall",
+        "type": "concert",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 78,
+        "venueName": "Sejong Grand Theater",
+        "venueId": null,
+        "sourceUrl": "https://sejongpac.or.kr/eng/performance/engperformance/performTicket.do?menuNo=700007&performIdx=37519",
+        "ticketUrl": "https://sejongpac.or.kr/eng/performance/engperformance/performTicket.do?menuNo=700007&performIdx=37519",
+        "summary": "Diana Krall appears at Sejong Grand Theater as part of SJF at the Theater 2026. Sejong Center lists the concert for November 22 at 6 PM with a 75-minute running time.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "seoul-sjf-christopher-2026",
+        "title": "SJF at the Theater 2026 - Christopher",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-20",
+        "importance": 76,
+        "venueName": "Sejong Grand Theater",
+        "venueId": null,
+        "sourceUrl": "https://ticket.melon.com/performance/index.htm?prodId=213764",
+        "ticketUrl": "https://ticket.melon.com/performance/index.htm?prodId=213764",
+        "summary": "Seoul Jazz Festival’s theater-format series presents Danish pop artist Christopher for two nights at Sejong Grand Theater. Melon Ticket confirms 8 PM shows on November 19 and 20.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-louis-the-child-offgrid-2026",
+        "title": "LOUIS THE CHILD presented by OFFGRID",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 75,
+        "venueName": "Frame Seoul",
+        "venueId": null,
+        "sourceUrl": "https://app.discotech.me/events/38289741-louis-the-child-presented-by-offgrid-at-seoul-concerts-and-events",
+        "ticketUrl": null,
+        "summary": "OFFGRID brings Chicago electronic duo Louis The Child to Frame Seoul with local support from HE’S, HOWMINI, GUILTY PLEASURE, VANDAL ROCK and TWOC for a 23:00–05:00 pop-electronic club night.",
+        "genres": [
+          "electronic",
+          "pop",
+          "house"
+        ]
+      },
+      {
+        "id": "seoul-neffa-t-cakeshop-2026",
+        "title": "Neffa-T: More Breaks & Kimchi Factory Homies present",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 74,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2507655",
+        "ticketUrl": "https://ra.co/events/2507655",
+        "summary": "UK bass selector Neffa-T plays Cakeshop with HASHTAGPOPE, Tabris, Nimvy, untitled, MOONICE and RAFA. The RA listing bills the night around breakbeat and grime.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-dancehall-camp-2026",
+        "title": "Dancehall Seoul Camp 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-09",
+        "importance": 72,
+        "venueName": "Studio SINNER / Sadang Steppin Studio / Hanz Club",
+        "venueId": null,
+        "sourceUrl": "https://dancehallseoul.com/?payment=1",
+        "ticketUrl": "https://dancehallseoul.com/?payment=1",
+        "summary": "Dancehall Seoul’s two-day camp connects Korea’s dancehall community with international teachers, workshops, three battle categories and a confirmed late-night afterparty at Hanz Club in Hongdae.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-morgenshtern-2026",
+        "title": "Morgenshtern Alisher World Tour Part 2 Seoul",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 70,
+        "venueName": "Myunghwa Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://nol.yanolja.com/ticket/products/26010322",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26010322",
+        "summary": "Russian rapper Morgenshtern brings the second part of his world tour to Myunghwa Live Hall. NOL lists the show as a 19+ concert with an 8 PM start.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-lift-vurt-2026",
+        "title": "lift from Tokyo",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "vurt.",
+        "venueId": "vurt-seoul",
+        "sourceUrl": "https://ra.co/clubs/101673",
+        "ticketUrl": null,
+        "summary": "Tokyo party LIFT travels to vurt. with ABSIS and Junya Yamamura, joined by vurt. residents SJK and SUZAN for a focused techno exchange between Tokyo and Seoul underground crews.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-house-dance-future-2026",
+        "title": "2026 HOUSE DANCE FUTURE vol.7",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "PUBG Seongsu",
+        "venueId": null,
+        "sourceUrl": "https://hypetown.kr/en/event/msiji6f3-j546",
+        "ticketUrl": "https://hypetown.kr/en/event/msiji6f3-j546",
+        "summary": "Overaiz presents the seventh edition of Korea’s dedicated house-dance event: a 1-on-1 house battle, DJ-led special jam session, Japanese and Korean judges, and guest showcases for Seoul’s house music and dance community.",
+        "genres": [
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-jesse-gold-2026",
+        "title": "Jesse Gold - Live in Seoul",
+        "type": "concert",
+        "startDate": "2026-11-16",
+        "endDate": "2026-11-16",
+        "importance": 62,
+        "venueName": "Rolling Hall",
+        "venueId": null,
+        "sourceUrl": "https://nol.yanolja.com/ticket/products/26008295",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26008295",
+        "summary": "Canadian singer-songwriter Jesse Gold plays Rolling Hall in Hongdae with VIP package and GA standing tickets. NOL lists the concert for November 16 at 8 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-let-me-know-still-romance-2026",
+        "title": "LET ME KNOW LIVE TOUR 2026 - Re: Still Romance -",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 60,
+        "venueName": "Myunghwa Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://mycon.me/concert/2476",
+        "ticketUrl": "https://mycon.me/concert/2476",
+        "summary": "LET ME KNOW bring the Re: Still Romance live tour to Myunghwa Live Hall. MyCon lists the Seoul concert for November 28 at 6 PM with standing and reserved-seat tickets.",
+        "genres": [
+          "pop"
+        ]
+      },
       {
         "id": "seoul-national-opera-rheingold-nov-2026",
         "title": "Korea National Opera: Das Rheingold",

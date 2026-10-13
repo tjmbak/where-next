@@ -1,0 +1,318 @@
+{
+  "slug": "berlin",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:29:06.561Z",
+  "responseId": "resp_01a04033f4b31c17006acda4d799a487d09bb624b8a3105da7+resp_08c2d73bcf11de49006acda52a271887d0b407bf2daf2f3ef0",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 3,
+    "year": 2027,
+    "notes": "Berlin’s March 2027 calendar is still early-announced, with MaerzMusik confirmed but many core club calendars not yet published; the strongest confirmed picks so far lean electronic-pop, hip-hop, experimental music, soul/funk, and jazz.",
+    "events": [
+      {
+        "id": "berlin-maerzmusik-mar-2027",
+        "title": "MaerzMusik 2027",
+        "type": "festival",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-21",
+        "importance": 84,
+        "venueName": "Haus der Berliner Festspiele and other Berlin venues",
+        "venueId": null,
+        "sourceUrl": "https://www.berlinerfestspiele.de/maerzmusik/programm/2027/maerzmusik-2027",
+        "ticketUrl": "https://www.berlinerfestspiele.de/en/maerzmusik/besuch/tickets",
+        "summary": "Berliner Festspiele’s MaerzMusik is confirmed for 12–21 March 2027, with the programme scheduled to be published in January 2027. It is Berlin’s major annual platform for contemporary and experimental music, performance, and sound art.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-bonobo-distance-static-2027",
+        "title": "Bonobo - Distance in Static live",
+        "type": "concert",
+        "startDate": "2027-03-11",
+        "endDate": "2027-03-11",
+        "importance": 82,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/bonobo-distance-in-static-live-uber-eats-music-hall-22139529/?affiliate=SX4",
+        "ticketUrl": "https://www.eventim.de/en/event/bonobo-distance-in-static-live-uber-eats-music-hall-22139529/?affiliate=SX4",
+        "summary": "Bonobo brings the Distance in Static live show to Uber Eats Music Hall on 11 March 2027. This is one of the month’s highest-profile electronic live bookings.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-into-another-world-2027",
+        "title": "Into Another World ✦ THE DUNGEONS OF NYXARA",
+        "type": "club-night",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-21",
+        "importance": 82,
+        "venueName": "TBA - SECRET PORTAL WAREHOUSE RAVE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546589",
+        "ticketUrl": "https://ra.co/events/2546589",
+        "summary": "Large-scale secret-location warehouse rave from Into Another World, billed as a 3,000 m² vampire-themed techno/industrial event with 18 international DJs, two dance floors, heavy sound systems and an overnight run until 09:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-og-keemo-columbiahalle-2027",
+        "title": "OG Keemo - 360GRAD Tour",
+        "type": "concert",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-20",
+        "importance": 78,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/hip-hop/og-keemo-360grad-tour/2027-03-20-og-keemo-360grad-tour-2abf65db-48fb-4791-9b02-cee4f7637a91/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/hip-hop/og-keemo-360grad-tour/2027-03-20-og-keemo-360grad-tour-2abf65db-48fb-4791-9b02-cee4f7637a91/",
+        "summary": "German rapper OG Keemo is confirmed at Columbiahalle on 20 March 2027 for the 360GRAD Tour. The show is one of the stronger rap bookings currently announced for Berlin that month.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-bhz-velodrom-2027",
+        "title": "BHZ - Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-25",
+        "importance": 78,
+        "venueName": "Ufo im Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/hip-hop/bhz-tour-2027/2027-03-25-bhz-tour-2027-20a7a59b-213d-4b08-9046-d68e921ce35b/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/hip-hop/bhz-tour-2027/2027-03-25-bhz-tour-2027-20a7a59b-213d-4b08-9046-d68e921ce35b/",
+        "summary": "Berlin-Schöneberg rap crew BHZ return with a large hometown show at Ufo im Velodrom on 25 March 2027. The listing frames the tour as their return after nearly five years.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-sesh-rso-2027",
+        "title": "SESH",
+        "type": "club-night",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-06",
+        "importance": 77,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2537004",
+        "ticketUrl": "https://ra.co/events/2537004",
+        "summary": "SESH takes over RSO.BERLIN for an overnight club session with MCR-T, PETERBLUE, THELMA, VIVI909 and more TBA, making it one of the strongest confirmed early-March techno/electronic bills on RA for Berlin.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-la-roux-huxleys-2027",
+        "title": "La Roux - Old Flames Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 73,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/la-roux-old-flames-tour-2027/2027-03-05-la-roux-old-flames-tour-2027-7537fa11-d0d3-4047-aa02-d1cb57faf526/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/rock-pop/la-roux-old-flames-tour-2027/2027-03-05-la-roux-old-flames-tour-2027-7537fa11-d0d3-4047-aa02-d1cb57faf526/",
+        "summary": "La Roux plays Huxleys Neue Welt on 5 March 2027 as part of the Old Flames Tour. The show is a strong electronic-pop concert pick for the month.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-carpenter-brut-huxleys-2027",
+        "title": "Carpenter Brut - The End Complete",
+        "type": "concert",
+        "startDate": "2027-03-21",
+        "endDate": "2027-03-21",
+        "importance": 72,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/tickets/pop-rock/carpenter-brut-the-end-complete/2027-03-21-carpenter-brut-the-end-complete-cf02fbd0-c0e9-483c-a210-6646a88d9564/",
+        "ticketUrl": "https://www.berlin.de/tickets/pop-rock/carpenter-brut-the-end-complete/2027-03-21-carpenter-brut-the-end-complete-cf02fbd0-c0e9-483c-a210-6646a88d9564/",
+        "summary": "Carpenter Brut’s The End Complete tour hits Huxleys Neue Welt on 21 March 2027. It is a notable dark synth/electronic live booking for the month.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-bcco-uberkikz-2027",
+        "title": "BCCO x ÜBERKIKZ International Women's Day",
+        "type": "club-night",
+        "startDate": "2027-03-07",
+        "endDate": "2027-03-08",
+        "importance": 72,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2550200",
+        "ticketUrl": "https://ra.co/events/2550200",
+        "summary": "BCCO teams with ÜBERKIKZ for an International Women’s Day all-night session at RSO, centred on FLINTA* artists and the BCCO community’s hard-edged Berlin techno platform.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-twocolors-cassiopeia-2027",
+        "title": "twocolors - Under My Skin - Live 2027",
+        "type": "concert",
+        "startDate": "2027-03-21",
+        "endDate": "2027-03-21",
+        "importance": 70,
+        "venueName": "Cassiopeia",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/electronic-dance/twocolors-under-my-skin-live-2027/2027-03-21-twocolors-under-my-skin-live-2027-7daff9b9-791c-4af4-9edc-3cdb2fff7f41/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/electronic-dance/twocolors-under-my-skin-live-2027/2027-03-21-twocolors-under-my-skin-live-2027-7daff9b9-791c-4af4-9edc-3cdb2fff7f41/",
+        "summary": "Berlin-based dance duo twocolors play Cassiopeia on 21 March 2027 as part of their Under My Skin live tour. The listing describes the show as dance, pop, and electronic club music.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-kmfdm-columbia-theater-2027",
+        "title": "KMFDM - Europe 2027",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-25",
+        "importance": 70,
+        "venueName": "Columbia Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/tickets/konzerte/kmfdm-europe-2027/2027-03-25-kmfdm-europe-2027-42aee70b-480f-4e6e-b60d-312ef108fa7c/",
+        "ticketUrl": "https://www.berlin.de/tickets/konzerte/kmfdm-europe-2027/2027-03-25-kmfdm-europe-2027-42aee70b-480f-4e6e-b60d-312ef108fa7c/",
+        "summary": "Industrial/electronic act KMFDM are confirmed for Columbia Theater on 25 March 2027. The Berlin.de event page lists the show as part of the Europe 2027 run.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-scorpion-gang-huxleys-2027",
+        "title": "Scorpion Gang - Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 66,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/hip-hop/scorpion-gang-tour-2027/2027-03-12-scorpion-gang-tour-2027-61138b60-86e5-49cd-9bb2-433c50b3a1f7/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/hip-hop/scorpion-gang-tour-2027/2027-03-12-scorpion-gang-tour-2027-61138b60-86e5-49cd-9bb2-433c50b3a1f7/",
+        "summary": "Scorpion Gang are confirmed for Huxleys Neue Welt on 12 March 2027. The Berlin.de listing places the show in the hip-hop category.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-fimiguerrero-lost-city-2027",
+        "title": "Fimiguerrero - LOST CITY",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "importance": 65,
+        "venueName": "Holzmarkt - Säälchen",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/hip-hop/fimiguerrero-lost-city/2027-03-18-fimiguerrero-lost-city-1d694d4a-15da-4502-916e-83c5c4196ec3/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/hip-hop/fimiguerrero-lost-city/2027-03-18-fimiguerrero-lost-city-1d694d4a-15da-4502-916e-83c5c4196ec3/",
+        "summary": "UK underground rapper Fimiguerrero brings LOST CITY to Holzmarkt’s Säälchen on 18 March 2027. The listing highlights his trap, cloud-rap, and UK rap influences.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-gabber-industries-2027",
+        "title": "Gabber Industries Berlin",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-07",
+        "importance": 65,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2555264",
+        "ticketUrl": "https://ra.co/events/2555264",
+        "summary": "Gabber Industries Berlin brings a hardcore/gabber-focused overnight party to Lokschuppen Berlin, extending the city’s faster, harder techno-adjacent rave lane beyond the standard club listings.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-stay-wild-2027",
+        "title": "*STAy WILd* - but take care. U N I Q U E Your FrühlingsRave + Kinky*",
+        "type": "club-night",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-20",
+        "importance": 65,
+        "venueName": "TBA - Secret Venue ab 15.01.27",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2501227",
+        "ticketUrl": "https://ra.co/events/2501227",
+        "summary": "A queer/kinky charity spring rave at a secret Berlin venue, billed around techno and house with a sex-positive safe-space concept and a planned capacity of around 600 guests.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-melissa-aldana-boulez-2027",
+        "title": "Melissa Aldana feat. Pablo Held",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-26",
+        "importance": 64,
+        "venueName": "Pierre Boulez Saal",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/jazz/melissa-aldana/2027-03-26-n-a-a741135b-05de-46a4-b0cd-b6ca6d31f752/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/jazz/melissa-aldana/2027-03-26-n-a-a741135b-05de-46a4-b0cd-b6ca6d31f752/",
+        "summary": "Grammy-nominated saxophonist Melissa Aldana makes a Pierre Boulez Saal appearance with pianist Pablo Held on 26 March 2027. The programme is listed as newly commissioned works.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-michelle-david-true-tones-2027",
+        "title": "Michelle David & The True-Tones",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-04",
+        "importance": 63,
+        "venueName": "ufaFabrik",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/concerts/michelle-david-the-true-tones/2027-03-04-michelle-david-the-true-tones-gospel-soul-funk-afrobeat-rhythm-blues-cc481e0f-580f-4bda-8444-7eab2af35b89/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/concerts/michelle-david-the-true-tones/2027-03-04-michelle-david-the-true-tones-gospel-soul-funk-afrobeat-rhythm-blues-cc481e0f-580f-4bda-8444-7eab2af35b89/",
+        "summary": "Michelle David & The True-Tones are confirmed at ufaFabrik on 4 March 2027. The listing bills their sound as gospel, soul, funk, afrobeat, and rhythm & blues.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-next-movement-gretchen-2027",
+        "title": "The Next Movement live",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 62,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440837",
+        "ticketUrl": "https://ra.co/events/2440837",
+        "summary": "Swiss trio The Next Movement bring their live funk, neo-soul, and R&B show to Gretchen. Resident Advisor lists the event for 3 March 2027 with Good Day Berlin as promoter.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

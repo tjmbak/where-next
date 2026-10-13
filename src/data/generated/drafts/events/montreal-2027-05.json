@@ -1,0 +1,164 @@
+{
+  "slug": "montreal",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:58:36.981Z",
+  "responseId": "resp_0bcf5790c135578e006acdab71516887d0b2bafcaffa921f47+resp_0ee077c3ca4179b4006acdabf87fb487d0a1abc9294750ca70",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "montreal",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 has only a partial confirmed music calendar so far: the strongest verified picks are a Francophone emerging-artist final, a major Malian world-music appearance, and a handful of touring club/theatre concerts, while signature summer series such as Piknic Électronik have not yet published confirmed 2027 May dates.",
+    "events": [
+      {
+        "id": "montreal-carly-rae-jepsen-may-2027",
+        "title": "Carly Rae Jepsen — Day and Night Tour",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 84,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/carly-rae-jepsen?code=e009239",
+        "ticketUrl": "https://evenko.ca/en/events/mtelus/carly-rae-jepsen?code=e009239",
+        "summary": "Carly Rae Jepsen brings the Day and Night Tour to MTELUS with Sarah Kinsley. Evenko lists the Saturday show for 7:30 p.m., with doors at 6:30 p.m.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-salif-keita-may-2027",
+        "title": "Salif Keita | La voix d’or de l’Afrique",
+        "type": "concert",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-02",
+        "importance": 82,
+        "venueName": "Théâtre Maisonneuve, Place des Arts",
+        "venueId": null,
+        "sourceUrl": "https://www.placedesarts.com/en/event/salif-keita",
+        "ticketUrl": "https://www.placedesarts.com/en/event/salif-keita",
+        "summary": "Malian icon Salif Keita returns to Montréal with a new album and a ten-musician band for Place des Arts’ Arts et monde series. The official listing bills the show as world music and Malian music at Théâtre Maisonneuve.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "montreal-fkj-mtelus-may-2027",
+        "title": "FKJ — Tyber Tour",
+        "type": "concert",
+        "startDate": "2027-05-31",
+        "endDate": "2027-05-31",
+        "importance": 82,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/mtelus/fkj?code=e008527",
+        "ticketUrl": "https://evenko.ca/en/events/mtelus/fkj?code=e008527",
+        "summary": "French multi-instrumentalist and producer FKJ closes the month at MTELUS on the Tyber Tour. Evenko confirms the Montréal performance for May 31 at 8:00 p.m.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "montreal-francouvertes-final-may-2027",
+        "title": "Les Francouvertes — 31st Edition Final",
+        "type": "festival",
+        "startDate": "2027-05-10",
+        "endDate": "2027-05-10",
+        "importance": 78,
+        "venueName": "Club Soda",
+        "venueId": null,
+        "sourceUrl": "https://francouvertes.com/concours/",
+        "ticketUrl": "https://francouvertes.com/concours/",
+        "summary": "The 31st Les Francouvertes competition culminates with its final at Club Soda, where three finalists from the Francophone and Indigenous emerging-music showcase perform. The official competition page confirms the final for May 10, 2027.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "montreal-warning-mtelus-may-2027",
+        "title": "The Warning — Everything’s Falling World Tour",
+        "type": "concert",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-09",
+        "importance": 72,
+        "venueName": "MTELUS",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/1Ad7Z_3GknfHKqK/the-warning-everything-s-falling-world-tour",
+        "ticketUrl": "https://www.livenation.com/event/1Ad7Z_3GknfHKqK/the-warning-everything-s-falling-world-tour",
+        "summary": "Mexican rock trio The Warning bring the Everything’s Falling World Tour to MTELUS with wilt on the bill. Live Nation lists the Montréal date for May 9 at 8:00 p.m.",
+        "genres": []
+      },
+      {
+        "id": "montreal-agnes-obel-may-2027",
+        "title": "Agnes Obel",
+        "type": "concert",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-25",
+        "importance": 70,
+        "venueName": "Théâtre St-Denis",
+        "venueId": null,
+        "sourceUrl": "https://www.agnesobel.com/",
+        "ticketUrl": "https://www.ticketmaster.ca/agnes-obel-tickets/artist/1554150?tt_scene=anchor_view",
+        "summary": "Agnes Obel is confirmed for Théâtre St-Denis as part of her North American tour routing. Ticketmaster and the venue listings place the Montréal performance on May 25 at 8:00 p.m.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-liminanas-fairmount-may-2027",
+        "title": "The Limiñanas with Native Sun",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 66,
+        "venueName": "Théâtre Fairmount",
+        "venueId": null,
+        "sourceUrl": "https://tambourine-broccoli-a9k9.squarespace.com/",
+        "ticketUrl": "https://www.universe.com/",
+        "summary": "Blue Skies Turn Black presents French psych-garage band The Limiñanas with Native Sun at Théâtre Fairmount. The venue calendar lists doors at 7:00 p.m. and show at 8:00 p.m.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-hazlett-beanfield-may-2027",
+        "title": "Hazlett",
+        "type": "concert",
+        "startDate": "2027-05-04",
+        "endDate": "2027-05-04",
+        "importance": 62,
+        "venueName": "Théâtre Beanfield",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/theatre-beanfield-boletos-montreal/venue/402401?page=2&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.ca/hazlett-tickets/artist/2625420?tt_scene=anchor_view",
+        "summary": "Australian singer-songwriter Hazlett is confirmed for an 8:00 p.m. show at Théâtre Beanfield. The date appears on Ticketmaster’s Théâtre Beanfield schedule and Hazlett artist ticket page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "montreal-henge-beanfield-may-2027",
+        "title": "Henge",
+        "type": "concert",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-14",
+        "importance": 62,
+        "venueName": "Théâtre Beanfield",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/theatre-beanfield/henge?code=e008643",
+        "ticketUrl": "https://evenko.ca/en/events/theatre-beanfield/henge?code=e008643",
+        "summary": "Henge are confirmed for an all-ages show at Théâtre Beanfield. Evenko lists doors at 7:00 p.m. and show time at 8:00 p.m.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "seoul",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:49:24.090Z",
+  "responseId": "resp_0f46675747a7e97e006acda9e5b29487d0961f0eb416242689+resp_0f3ac92af416bcac006acdaa104c2887d0b42c7ad644105a7a",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 4,
+    "year": 2027,
+    "notes": "Most Seoul underground club calendars and ticketing platforms have not yet published April 2027 listings; the only verified scene-fit event found is a salsa x street dance festival with late-night socials and hip-hop/street-dance crossover programming.",
+    "events": [
+      {
+        "id": "seoul-sidf-salsa-street-2027",
+        "title": "SIDF 2027 Seoul International Dance Festival — Salsa X Street / THE SAUCE",
+        "type": "festival",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-25",
+        "importance": 72,
+        "venueName": "Cube Convention Center",
+        "venueId": null,
+        "sourceUrl": "https://sidf.kr/en/2027sidf",
+        "ticketUrl": "https://sidf.kr/en/2027sidf",
+        "summary": "Three-day Seoul dance-scene gathering built around workshops, shows, all-night socials until 6 a.m., and THE SAUCE salsa x freestyle/street 1v1 battle, with programs open to street, Latin and all-style dancers.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "seoul-sidf-apr-2027",
+        "title": "Seoul International Dance Festival (SIDF) 2027",
+        "type": "festival",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-25",
+        "importance": 70,
+        "venueName": "Cube Convention Center",
+        "venueId": null,
+        "sourceUrl": "https://sidf.kr/?locale=en&locale=ja",
+        "ticketUrl": "https://sidf.kr/2027sidf/tickets?locale=en",
+        "summary": "A Seoul salsa/Latin dance festival with workshops, shows, live-band nights and social rooms running across three days at Cube Convention Center. The official site says one pass covers the April 23–25 program and lists confirmed participating artists/instructors as the lineup continues to grow.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

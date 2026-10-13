@@ -1,8 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
+import { EventAudio } from "@/components/audio/EventAudio";
+import { GuideVisitRecorder } from "@/components/destinations/GuideVisitRecorder";
 import { HeroGallery } from "@/components/destinations/HeroGallery";
+import { WatchButton } from "@/components/watch/WatchButton";
+import { artistFromTitle } from "@/lib/artist-from-title";
+import { hasVariant, heroVariantUrl, type HeroVariant } from "@/lib/hero-images";
+import { groupEventsByWeekend } from "@/lib/weekends";
 import { PopularTrips } from "@/components/destinations/PopularTrips";
 import { StayAndTravel } from "@/components/destinations/StayAndTravel";
 import { loadPopularItinerariesForDestination } from "@/lib/itineraries/popular";
@@ -16,7 +23,19 @@ import {
   getScoresForDestination,
   getVenuesForDestination
 } from "@/data/music-travel";
-import { BUDGET_LABELS, GENRE_LABELS, getMonthLabel, MONTHS, VIBE_LABELS } from "@/data/taxonomy";
+import {
+  BUDGET_LABELS,
+  EDITION_YEAR,
+  GENRE_LABELS,
+  getCurrentMonth,
+  getMonthLabel,
+  isPastMonth,
+  MONTHS,
+  SUPPORTED_YEARS,
+  upcomingYearForMonth,
+  VIBE_LABELS,
+  yearQueryFor
+} from "@/data/taxonomy";
 import { ogImageUrl } from "@/lib/og";
 import {
   breadcrumbJsonLd,
@@ -27,10 +46,11 @@ import {
 } from "@/lib/structured-data";
 import { formatUsdRange } from "@/lib/utils";
 import type { MonthNumber } from "@/types/content";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 type DestinationPageProps = {
   params: Promise<{ slug: string }>;
-  searchParams: Promise<{ month?: string }>;
+  searchParams: Promise<{ month?: string; year?: string }>;
 };
 
 export function generateStaticParams() {
@@ -78,7 +98,7 @@ export async function generateMetadata({ params }: DestinationPageProps): Promis
 
 export default async function DestinationPage({ params, searchParams }: DestinationPageProps) {
   const { slug } = await params;
-  const { month: monthParam } = await searchParams;
+  const { month: monthParam, year: yearParam } = await searchParams;
   const destination = getDestinationBySlug(slug);
 
   if (!destination) notFound();
@@ -88,30 +108,72 @@ export default async function DestinationPage({ params, searchParams }: Destinat
   const selectedMonth: MonthNumber =
     monthSelection && monthSelection !== "year"
       ? monthSelection
-      : (destination.peakMonths[0] ?? destination.activeMonths[0] ?? 1);
+      : hasUpcomingThisMonth(destination.slug)
+        ? getCurrentMonth()
+        : nextSeasonMonth(destination.peakMonths.length > 0 ? destination.peakMonths : destination.activeMonths);
+  const selectedYear = parseYearSelection(yearParam, selectedMonth);
+  const isPastView = !isYearView && isPastMonth(selectedMonth, selectedYear);
+  const monthYearQuery = (m: number) =>
+    yearQueryFor(m, isPastMonth(m, selectedYear) ? upcomingYearForMonth(m) : selectedYear);
   const score =
     getScoreForDestinationMonth(destination.slug, selectedMonth) ??
     getScoresForDestination(destination.slug)[0];
-  const eventsThisMonth = getEventsForDestinationInMonth(destination.slug, selectedMonth);
-  const allEvents = getEventsForDestination(destination.slug);
-  const events = isYearView
+  // In the all-year view the hero stat should reflect the year's best month,
+  // not whichever month happened to be the fallback selection.
+  const yearScores = getScoresForDestination(destination.slug);
+  const heroScore =
+    isYearView && yearScores.length > 0
+      ? yearScores.reduce((best, current) => (current.overallScore > best.overallScore ? current : best))
+      : score;
+  const eventsThisMonth = getEventsForDestinationInMonth(destination.slug, selectedMonth, selectedYear);
+  const allEvents = getEventsForDestination(destination.slug, selectedYear);
+  const events = (isYearView
     ? allEvents
     : eventsThisMonth.length > 0
       ? eventsThisMonth
-      : allEvents;
+      : allEvents
+  )
+    .slice()
+    .sort((a, b) => a.startDate.localeCompare(b.startDate));
+  const estimateCount = events.filter((event) => event.confirmed === false).length;
   const isShowingFallbackEvents =
     !isYearView && eventsThisMonth.length === 0 && allEvents.length > 0;
   const venues = getVenuesForDestination(destination.slug);
   const popularItineraries = await loadPopularItinerariesForDestination(destination.slug, 3);
 
+  // Editorial hierarchy: the three highest-signal moments this month get
+  // marquee treatment; the flat timeline stays below as the full calendar.
+  const today = new Date().toISOString().slice(0, 10);
+  const hasEnded = (event: { startDate: string; endDate?: string }) => (event.endDate ?? event.startDate) < today;
+  const upcomingThisMonth = eventsThisMonth.filter((event) => !hasEnded(event));
+  const marqueeEvents =
+    !isYearView && upcomingThisMonth.length >= 4
+      ? [...upcomingThisMonth].sort((a, b) => b.importanceScore - a.importanceScore).slice(0, 3)
+      : [];
+  const marqueeVariants: HeroVariant[] = ["peak", "detail", "shoulder"];
+  const weekendGroups =
+    !isYearView && eventsThisMonth.length > 0
+      ? groupEventsByWeekend(eventsThisMonth, selectedMonth, selectedYear)
+      : [];
+  const scoreDriver =
+    !isYearView && upcomingThisMonth.length > 0
+      ? [...upcomingThisMonth].sort((a, b) => b.importanceScore - a.importanceScore)[0]
+      : null;
+
   const issueNumber = destination.slug.length.toString().padStart(2, "0");
   const monthLabelLower = getMonthLabel(selectedMonth).toLowerCase();
   const periodLabel = isYearView ? "year-round" : monthLabelLower;
-  const periodLabelWithYear = isYearView ? "all year 2026" : `${monthLabelLower} 2026`;
+  const periodLabelWithYear = isYearView ? `all year ${selectedYear}` : `${monthLabelLower} ${selectedYear}`;
   const whyTitle = isYearView ? "Year overview" : `Why ${monthLabelLower}`;
   const eventsTitle = isYearView ? "Events all year" : `Events in ${monthLabelLower}`;
   const introWhy = score?.whyNow?.[0] ?? destination.summary;
-  const remainingWhy = (score?.whyNow ?? []).slice(1);
+  const remainingWhy = (score?.whyNow ?? []).slice(1).filter((line) => !/^best fit:/i.test(line));
+  const normalizeLine = (line: string) => line.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  const pullQuote =
+    score?.editorialSummary &&
+    ![introWhy, ...remainingWhy].some((line) => normalizeLine(line) === normalizeLine(score.editorialSummary))
+      ? score.editorialSummary
+      : null;
   const lastEditedRaw = getLastEditedForDestination(destination.slug);
   const lastEditedLabel = formatEditedDate(lastEditedRaw);
 
@@ -123,6 +185,12 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
   return (
     <main className="min-h-screen w-full">
+      <GuideVisitRecorder
+        slug={destination.slug}
+        month={selectedMonth}
+        year={selectedYear}
+        eventCount={eventsThisMonth.length}
+      />
       <script
         type="application/ld+json"
         suppressHydrationWarning
@@ -144,26 +212,15 @@ export default async function DestinationPage({ params, searchParams }: Destinat
           />
         );
       })}
-      <header className="absolute left-0 right-0 top-0 z-30 mx-auto flex w-full max-w-[1180px] items-center justify-between gap-3 px-5 py-5 sm:px-10 sm:py-6">
-        <Link href="/" className="flex shrink-0 items-center gap-2 text-sm font-semibold tracking-tight text-white">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-white font-mono text-[11px] font-bold text-black">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="flex items-center gap-4 font-mono text-[10px] uppercase tracking-[0.18em] text-white/70 sm:gap-5 sm:text-[11px] sm:tracking-[0.22em]">
-          <Link href="/methodology" className="hidden transition hover:text-white sm:inline">
-            methodology
-          </Link>
-          <Link href="/" className="transition hover:text-white">
-            ← back to map
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader tone="overlay" />
 
       {/* CINEMATIC HERO */}
       <section className="relative h-[88vh] min-h-[640px] w-full overflow-hidden">
-        <HeroGallery destination={destination} />
+        <HeroGallery
+          key={isYearView ? "year" : selectedMonth}
+          destination={destination}
+          month={isYearView ? undefined : selectedMonth}
+        />
         <div className="pointer-events-none absolute inset-0 bg-[#08080a]/40 mix-blend-multiply" />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-black" />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-black/65 via-transparent to-transparent" />
@@ -187,23 +244,42 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
           <div className="mt-7 flex flex-wrap items-end gap-x-6 gap-y-5 sm:mt-9 sm:gap-x-10 sm:gap-y-6">
             <Stat
-              label={isYearView ? `peak score · ${monthLabelLower}` : "activity"}
-              value={`${score?.overallScore ?? 0}`}
+              label={isYearView ? "peak score" : "activity"}
+              value={`${heroScore?.overallScore ?? 0}`}
               suffix="/100"
             />
             <Stat label="budget" value={`${BUDGET_LABELS[destination.budget]}`} suffix={formatUsdRange(destination.averageDailySpendUsd)} />
-            <Stat label="confidence" value={(score?.confidence ?? "medium").toUpperCase()} />
+            <Stat label="confidence" value={(heroScore?.confidence ?? "medium").toUpperCase()} />
             <Stat label="months" value={`${destination.activeMonths.length}`} suffix="active" />
           </div>
+
+          {scoreDriver ? (
+            <p className="mt-4 font-mono text-[10px] uppercase tracking-[0.2em] text-white/55">
+              score driven by{" "}
+              <span className="text-white/85">{scoreDriver.title}</span>
+              {upcomingThisMonth.length > 1 ? (
+                <span> + {upcomingThisMonth.length - 1} more this month</span>
+              ) : null}
+            </p>
+          ) : null}
 
           <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3">
             <Link
               href={`/destinations/${destination.slug}/plan`}
               className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-medium text-[#0a0a0a] transition hover:bg-[var(--signal)] hover:text-white"
             >
-              plan a trip
+              Build an itinerary
               <span aria-hidden>→</span>
             </Link>
+            {isYearView || eventsThisMonth.length > 0 ? (
+              <WatchButton
+                slug={destination.slug}
+                month={selectedMonth}
+                year={selectedYear}
+                variant="pill"
+                tone="dark"
+              />
+            ) : null}
             <Link
               href="/methodology"
               className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-white/55 transition hover:text-white"
@@ -221,7 +297,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
       {/* ARTICLE BODY */}
       <section className="mx-auto w-full max-w-[1180px] px-5 pb-20 pt-14 sm:px-10 sm:pb-24 sm:pt-20">
-        <div className="mb-14 flex items-baseline justify-between border-b border-[var(--border)] pb-5">
+        <div className="mb-14 flex flex-col gap-2 border-b border-[var(--border)] pb-5 sm:flex-row sm:items-baseline sm:justify-between">
           <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
             <span className="text-[var(--foreground)]">where next</span> / {destination.city.toLowerCase()} / {periodLabel}
           </p>
@@ -231,12 +307,12 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                 aria-hidden
                 className="h-1.5 w-1.5 rounded-full bg-[var(--signal)] shadow-[0_0_6px_var(--signal)]"
               />
-              {lastEditedLabel ? `edited ${lastEditedLabel}` : "edition 2026"} · curated
+              {lastEditedLabel ? `edited ${lastEditedLabel}` : `edition ${EDITION_YEAR}`} · curated
             </span>
           </p>
         </div>
 
-        <div className="grid gap-x-16 gap-y-16 lg:grid-cols-[minmax(0,1.55fr)_minmax(0,1fr)]">
+        <div className="grid grid-cols-[minmax(0,1fr)] gap-x-16 gap-y-16 lg:grid-cols-[minmax(0,1.55fr)_minmax(0,1fr)]">
           {/* MAIN COLUMN */}
           <article className="space-y-16">
             <Section eyebrow="01" title={whyTitle}>
@@ -252,27 +328,183 @@ export default async function DestinationPage({ params, searchParams }: Destinat
               ) : null}
             </Section>
 
-            {score?.editorialSummary ? (
-              <PullQuote>{score.editorialSummary}</PullQuote>
-            ) : null}
+            {pullQuote ? <PullQuote>{pullQuote}</PullQuote> : null}
 
             <Section eyebrow="02" id="events" title={eventsTitle}>
-              {isShowingFallbackEvents ? (
-                <p className="mb-7 rounded-md border border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-[13px] leading-6 text-[var(--muted)]">
-                  Nothing scheduled in {destination.city} for {monthLabelLower} 2026 yet — showing the rest of the year below.
+              {isPastView && SUPPORTED_YEARS.includes(selectedYear + 1) ? (
+                <p className="mb-7 rounded-md border border-[var(--border-strong)] bg-[var(--surface-2)] px-4 py-3 text-[13px] leading-6 text-[var(--muted)]">
+                  <span className="font-medium text-[var(--foreground)]">{getMonthLabel(selectedMonth)} {selectedYear} has passed.</span>{" "}
+                  <Link
+                    href={`/destinations/${destination.slug}?month=${selectedMonth}${yearQueryFor(selectedMonth, selectedYear + 1)}#events`}
+                    className="text-[var(--foreground)] underline decoration-[var(--signal)] underline-offset-4 transition hover:text-[var(--signal)]"
+                  >
+                    See {monthLabelLower} {selectedYear + 1} →
+                  </Link>
+                </p>
+              ) : estimateCount > 0 ? (
+                <p className="mb-7 rounded-md border border-[var(--border-strong)] bg-[var(--surface-2)] px-4 py-3 text-[13px] leading-6 text-[var(--muted)]">
+                  <span className="font-medium text-[var(--foreground)]">
+                    {estimateCount === events.length ? "Forward look." : `${estimateCount} of ${events.length} still expected.`}
+                  </span>{" "}
+                  Events marked &ldquo;expected&rdquo; are recurring fixtures {destination.city} runs every year — exact {selectedYear} dates harden as organizers announce.
                 </p>
               ) : null}
-              <ol className="wn-timeline">
-                {events.map((event) => (
-                  <li key={event.id} className="wn-timeline-item">
+              {!isYearView && eventsThisMonth.length === 0 ? (
+                <div className="mb-7 rounded-md border border-[var(--border)] bg-[var(--surface)] px-4 py-4 text-[13px] leading-6 text-[var(--muted)]">
+                  <p>
+                    <span className="font-medium text-[var(--foreground)]">
+                      No {monthLabelLower} {selectedYear} dates confirmed yet.
+                    </span>{" "}
+                    {selectedYear > EDITION_YEAR
+                      ? `Organizers haven't announced ${destination.city}'s ${selectedYear} calendar — we only list events with a confirmed source.`
+                      : `Nothing on ${destination.city}'s calendar for ${monthLabelLower} yet.`}
+                    {isShowingFallbackEvents ? " Here's what is confirmed for the rest of the year." : ""}
+                  </p>
+                  <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-2">
+                    <WatchButton slug={destination.slug} month={selectedMonth} year={selectedYear} variant="pill" />
+                    {selectedYear > EDITION_YEAR ? (
+                      <Link
+                        href={`/destinations/${destination.slug}?month=${selectedMonth}&year=${selectedYear - 1}#events`}
+                        className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+                      >
+                        see {monthLabelLower} {selectedYear - 1} →
+                      </Link>
+                    ) : null}
+                  </div>
+                </div>
+              ) : null}
+
+              {marqueeEvents.length > 0 ? (
+                <div className="mb-12">
+                  <p className="font-mono text-[10px] uppercase tracking-[0.24em] text-[var(--signal)]">
+                    if you only book around three things
+                  </p>
+                  <div className="mt-4 grid items-start gap-4 sm:grid-cols-3">
+                    {marqueeEvents.map((event, index) => {
+                      const preferred = marqueeVariants[index] ?? "peak";
+                      const variant = hasVariant(destination.heroImage, preferred) ? preferred : "peak";
+                      return (
+                        <div
+                          key={event.id}
+                          className="group overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] shadow-[0_1px_2px_rgba(28,22,18,0.04)] transition-[transform,box-shadow] duration-300 hover:-translate-y-0.5 hover:shadow-[0_18px_40px_-18px_rgba(28,22,18,0.28)]"
+                        >
+                          <a href={`#event-${event.id}`} className="block">
+                            <div className="relative aspect-[16/7] overflow-hidden sm:aspect-[16/10]">
+                              <Image
+                                src={heroVariantUrl(destination.heroImage, variant)}
+                                alt=""
+                                fill
+                                sizes="(max-width: 640px) 100vw, 320px"
+                                className="object-cover transition duration-500 group-hover:scale-105"
+                              />
+                              <span aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/15 to-transparent" />
+                              <span className="absolute left-3 top-3 inline-flex items-center rounded-full border border-white/20 bg-black/55 px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.18em] text-white/90 backdrop-blur">
+                                {String(index + 1).padStart(2, "0")} · {event.type.replaceAll("-", " ")}
+                                {event.confirmed === false ? " · expected" : ""}
+                              </span>
+                              <div className="absolute inset-x-3 bottom-2.5">
+                                <p className="font-mono text-[9px] uppercase tracking-[0.18em] text-white/70">
+                                  {formatEventDate(event.startDate, event.endDate)}
+                                </p>
+                                <p className="line-clamp-2 text-[14px] font-medium leading-5 text-white">
+                                  {event.title}
+                                </p>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              ) : null}
+
+              {weekendGroups.length > 0 ? (
+                <div className="mb-10">
+                  <p className="font-mono text-[10px] uppercase tracking-[0.24em] text-[var(--muted)]">
+                    weekend by weekend
+                  </p>
+                  <div className="wn-swipe -mx-5 mt-3 flex snap-x gap-2.5 overflow-x-auto scroll-px-5 px-5 sm:mx-0 sm:px-0">
+                    {(() => {
+                      const isPastWeekend = (fridayIso: string) => {
+                        const sunday = new Date(`${fridayIso}T00:00:00Z`);
+                        sunday.setUTCDate(sunday.getUTCDate() + 2);
+                        return sunday.toISOString().slice(0, 10) < today;
+                      };
+                      const ahead = weekendGroups.filter((weekend) => !isPastWeekend(weekend.fridayIso));
+                      return ahead.length > 0 ? ahead : weekendGroups;
+                    })().map((weekend) => {
+                      const headline = weekend.events[0] ?? null;
+                      const sunday = new Date(`${weekend.fridayIso}T00:00:00Z`);
+                      sunday.setUTCDate(sunday.getUTCDate() + 2);
+                      const weekendPast = sunday.toISOString().slice(0, 10) < today;
+                      return headline ? (
+                        <a
+                          key={weekend.fridayIso}
+                          href={`#event-${headline.id}`}
+                          className={`min-w-[190px] shrink-0 snap-start rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3.5 py-3 transition-colors hover:border-[var(--border-strong)] ${
+                            weekendPast ? "opacity-50" : ""
+                          }`}
+                        >
+                          <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--signal)]">
+                            {weekend.label}
+                          </p>
+                          <p className="mt-1.5 line-clamp-2 text-[13px] font-medium leading-5 text-[var(--foreground)]">
+                            {headline.title}
+                          </p>
+                          {weekend.events.length > 1 ? (
+                            <p className="mt-1 font-mono text-[9px] uppercase tracking-[0.16em] text-[var(--muted)]">
+                              +{weekend.events.length - 1} more
+                            </p>
+                          ) : null}
+                        </a>
+                      ) : (
+                        <div
+                          key={weekend.fridayIso}
+                          className={`min-w-[190px] shrink-0 snap-start rounded-xl border border-dashed border-[var(--border)] bg-transparent px-3.5 py-3 ${
+                            weekendPast ? "opacity-50" : ""
+                          }`}
+                        >
+                          <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
+                            {weekend.label}
+                          </p>
+                          <p className="mt-1.5 text-[13px] leading-5 text-[var(--muted-2)]">
+                            quiet weekend
+                          </p>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              ) : null}
+
+              {(() => {
+                const upcomingFirst = events.filter((event) => !hasEnded(event));
+                const endedEvents = events.filter((event) => hasEnded(event));
+                const renderItem = (event: (typeof events)[number]) => (
+                  <li
+                    key={event.id}
+                    id={`event-${event.id}`}
+                    className={`wn-timeline-item scroll-mt-24 ${hasEnded(event) ? "opacity-55" : ""}`}
+                  >
                     <span className="wn-timeline-dot" aria-hidden />
                     <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
                       <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
                         {formatEventDate(event.startDate, event.endDate)}
                       </span>
+                      {hasEnded(event) ? (
+                        <span className="rounded-full border border-[var(--border)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)]">
+                          ended
+                        </span>
+                      ) : null}
                       <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-                        {event.type.replace("-", " ")}
+                        {event.type.replaceAll("-", " ")}
                       </span>
+                      {event.confirmed === false ? (
+                        <span className="rounded-full border border-dashed border-[var(--border-strong)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)]">
+                          expected
+                        </span>
+                      ) : null}
                       {(() => {
                         const span = formatRunLength(event.startDate, event.endDate, event.type);
                         return span ? (
@@ -286,20 +518,42 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                       {event.title}
                     </h3>
                     <p className="mt-2 max-w-2xl text-[14px] leading-6 text-[var(--muted)] sm:mt-3 sm:text-[15px] sm:leading-7">{event.summary}</p>
-                    <TrackedOutboundLink
-                      href={event.ticketUrl ?? event.sourceUrl}
-                      eventLabel={event.title}
-                      destinationSlug={destination.slug}
-                      provider={event.ticketUrl ? "viagogo" : "raw"}
-                      preview={{ kind: "event", eventId: event.id }}
-                      className="mt-4 inline-flex min-h-11 items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)] sm:min-h-0"
-                    >
-                      official source
-                      <span aria-hidden>↗</span>
-                    </TrackedOutboundLink>
+                    <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2">
+                      <TrackedOutboundLink
+                        href={event.ticketUrl ?? event.sourceUrl}
+                        eventLabel={event.title}
+                        destinationSlug={destination.slug}
+                        provider={event.ticketUrl ? "viagogo" : "raw"}
+                        preview={{ kind: "event", eventId: event.id }}
+                        className="inline-flex min-h-11 items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)] sm:min-h-0"
+                      >
+                        official source
+                        <span aria-hidden>↗</span>
+                      </TrackedOutboundLink>
+                      {(() => {
+                        const artist = artistFromTitle(event.title, event.type);
+                        return artist ? <EventAudio artist={artist} /> : null;
+                      })()}
+                    </div>
                   </li>
-                ))}
-              </ol>
+                );
+                return (
+                  <>
+                    {upcomingFirst.length > 0 ? <ol className="wn-timeline">{upcomingFirst.map(renderItem)}</ol> : null}
+                    {endedEvents.length > 0 ? (
+                      <details className="group mt-6 rounded-xl border border-[var(--border)]" open={upcomingFirst.length === 0}>
+                        <summary className="flex cursor-pointer list-none items-center justify-between px-5 py-4 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]">
+                          <span>
+                            {endedEvents.length} already happened this {isYearView ? "year" : "month"}
+                          </span>
+                          <span aria-hidden className="transition group-open:rotate-45">+</span>
+                        </summary>
+                        <ol className="wn-timeline px-5 pb-2">{endedEvents.map(renderItem)}</ol>
+                      </details>
+                    ) : null}
+                  </>
+                );
+              })()}
             </Section>
 
             {popularItineraries.length > 0 ? (
@@ -310,7 +564,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
               />
             ) : null}
 
-            <StayAndTravel destination={destination} month={isYearView ? undefined : selectedMonth} />
+            <StayAndTravel destination={destination} month={isYearView ? undefined : selectedMonth} year={selectedYear} />
 
             <Section eyebrow="04" title="Venues & scenes">
               <div className="grid gap-px overflow-hidden rounded-xl border border-[var(--border-strong)] bg-[var(--border)] sm:grid-cols-2">
@@ -358,12 +612,34 @@ export default async function DestinationPage({ params, searchParams }: Destinat
               </SidePanel>
 
               <SidePanel title="Active months" index="B">
+                {SUPPORTED_YEARS.length > 1 ? (
+                  <div className="mb-3 inline-flex w-full items-center overflow-hidden rounded-md border border-[var(--border)]">
+                    {SUPPORTED_YEARS.map((y) => {
+                      const monthQuery = isYearView ? "month=year" : `month=${selectedMonth}`;
+                      const yq = `&year=${y}`;
+                      const active = y === selectedYear;
+                      return (
+                        <Link
+                          key={y}
+                          href={`/destinations/${destination.slug}?${monthQuery}${yq}#events`}
+                          aria-current={active ? "true" : undefined}
+                          style={active ? { color: "#f7f0e1", backgroundColor: "#2a1c12" } : undefined}
+                          className={`flex flex-1 items-center justify-center px-3 py-2 font-mono text-[11px] uppercase tracking-[0.16em] transition ${
+                            active ? "font-bold" : "text-[var(--muted-2)] hover:text-[var(--foreground)]/85"
+                          }`}
+                        >
+                          {y}
+                        </Link>
+                      );
+                    })}
+                  </div>
+                ) : null}
                 <Link
-                  href={`/destinations/${destination.slug}?month=year#events`}
+                  href={`/destinations/${destination.slug}?month=year&year=${selectedYear}#events`}
                   aria-current={isYearView ? "true" : undefined}
                   style={
                     isYearView
-                      ? { color: "#0a0a0a", backgroundColor: "#ededeb", borderColor: "#ededeb" }
+                      ? { color: "#f7f0e1", backgroundColor: "#2a1c12", borderColor: "#2a1c12" }
                       : undefined
                   }
                   className={`mb-2 flex min-h-11 items-center justify-center rounded-md border px-3 py-2.5 text-center font-mono text-[11px] uppercase tracking-[0.18em] transition sm:min-h-0 sm:py-2 ${
@@ -382,11 +658,11 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                     return (
                       <Link
                         key={month.value}
-                        href={`/destinations/${destination.slug}?month=${month.value}#events`}
+                        href={`/destinations/${destination.slug}?month=${month.value}${monthYearQuery(month.value)}#events`}
                         aria-current={isSelected ? "true" : undefined}
                         style={
                           isSelected
-                            ? { color: "#0a0a0a", backgroundColor: "#ededeb", borderColor: "#ededeb" }
+                            ? { color: "#f7f0e1", backgroundColor: "#2a1c12", borderColor: "#2a1c12" }
                             : undefined
                         }
                         className={`flex min-h-11 items-center justify-center rounded-md border px-2 py-2.5 text-center font-mono text-[11px] uppercase tracking-[0.12em] transition sm:min-h-0 sm:py-2 ${
@@ -450,7 +726,7 @@ function Section({
 
 function PullQuote({ children }: { children: React.ReactNode }) {
   return (
-    <blockquote className="my-2 border-l-2 border-[var(--signal)] py-3 pl-7 text-[26px] font-medium leading-[1.3] tracking-[-0.01em] text-[var(--foreground)] md:text-[32px]">
+    <blockquote className="border-l-2 border-[var(--signal)] py-3 pl-7 text-[26px] font-medium leading-[1.3] tracking-[-0.01em] text-[var(--foreground)] md:text-[32px]">
       &ldquo;{children}&rdquo;
     </blockquote>
   );
@@ -482,6 +758,27 @@ function parseMonthSelection(value?: string): MonthNumber | "year" | undefined {
   const parsed = Number(value);
   if (Number.isInteger(parsed) && parsed >= 1 && parsed <= 12) return parsed as MonthNumber;
   return undefined;
+}
+
+function parseYearSelection(value: string | undefined, month: MonthNumber): number {
+  const parsed = Number(value);
+  if (Number.isInteger(parsed) && SUPPORTED_YEARS.includes(parsed)) return parsed;
+  return upcomingYearForMonth(month);
+}
+
+function hasUpcomingThisMonth(slug: string): boolean {
+  const month = getCurrentMonth();
+  const today = new Date().toISOString().slice(0, 10);
+  return getEventsForDestinationInMonth(slug, month, upcomingYearForMonth(month)).some(
+    (event) => (event.endDate ?? event.startDate) >= today
+  );
+}
+
+/** The season month that comes around soonest from today (this month counts). */
+function nextSeasonMonth(months: MonthNumber[]): MonthNumber {
+  if (months.length === 0) return getCurrentMonth();
+  const current = getCurrentMonth();
+  return [...months].sort((a, b) => ((a - current + 12) % 12) - ((b - current + 12) % 12))[0];
 }
 
 function formatEventDate(start: string, end?: string) {

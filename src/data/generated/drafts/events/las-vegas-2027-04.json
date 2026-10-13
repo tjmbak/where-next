@@ -1,0 +1,147 @@
+{
+  "slug": "las-vegas",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:46:15.597Z",
+  "responseId": "resp_013215191450af50006acda8aa728087d0b644349829264a21+resp_0001bc66be10abcd006acda933f9ac87d0ade0f1347eeb02d7",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is anchored by Viva Las Vegas Rockabilly Weekend plus confirmed Strip arena and residency dates; most nightclub calendars are not yet announced this far out.",
+    "events": [
+      {
+        "id": "las-vegas-john-mayer-sphere-residency-2027",
+        "title": "John Mayer Live at Sphere",
+        "type": "residency",
+        "startDate": "2027-04-08",
+        "endDate": "2027-04-08",
+        "importance": 88,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.thesphere.com/shows/john-mayer",
+        "ticketUrl": "https://www.thesphere.com/shows/john-mayer",
+        "summary": "John Mayer’s Sphere run begins in April 2027, with the show billed around solo, full-band and John Mayer Trio performances. April 8 is included as the confirmed representative opening date for the residency.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-viva-las-vegas-rockabilly-weekend-2027",
+        "title": "Viva Las Vegas Rockabilly Weekend 30",
+        "type": "festival",
+        "startDate": "2027-04-08",
+        "endDate": "2027-04-11",
+        "importance": 86,
+        "venueName": "The Orleans Hotel & Casino",
+        "venueId": null,
+        "sourceUrl": "https://vivalasvegas.net/",
+        "ticketUrl": "https://vivalasvegas.net/tickets/",
+        "summary": "Viva Las Vegas Rockabilly Weekend returns for its 30th edition at The Orleans Hotel & Casino from April 8–11, 2027. The festival is a signature Las Vegas weekender with live bands, DJs, dancing, pool parties and vintage culture programming.",
+        "genres": [
+          "festival",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-fantasia-love-of-soul-tour-2027",
+        "title": "Fantasia’s Love of Soul Tour featuring Anthony Hamilton and October London",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 78,
+        "venueName": "MGM Grand Garden Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.grandgardenarena.com/events/detail/fantasia",
+        "ticketUrl": "https://www.grandgardenarena.com/events/detail/fantasia",
+        "summary": "Fantasia headlines The Love of Soul Tour at MGM Grand Garden Arena on April 24, 2027, with Anthony Hamilton and October London. The event page confirms an 8:00 PM start and 7:00 PM doors.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-carly-rae-jepsen-day-and-night-2027",
+        "title": "Carly Rae Jepsen: Day and Night Tour with Carol Ades",
+        "type": "concert",
+        "startDate": "2027-04-30",
+        "endDate": "2027-04-30",
+        "importance": 78,
+        "venueName": "The Chelsea at The Cosmopolitan of Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://cosmopolitanlasvegas.mgmresorts.com/en/entertainment/carly-rae-jepsen.html",
+        "ticketUrl": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-las-vegas-nevada-04-30-2027/event/1700653C7E015760?tt_scene=anchor_view",
+        "summary": "Carly Rae Jepsen brings the Day and Night Tour to The Chelsea at The Cosmopolitan on April 30, 2027, with Carol Ades listed on the venue page. Doors are confirmed for 6:30 PM and showtime for 7:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-leon-bridges-happiness-anytime-2027",
+        "title": "Leon Bridges: The Happiness Anytime Tour",
+        "type": "concert",
+        "startDate": "2027-04-07",
+        "endDate": "2027-04-07",
+        "importance": 76,
+        "venueName": "The Chelsea at The Cosmopolitan of Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://cosmopolitanlasvegas.mgmresorts.com/en/entertainment/leon-bridges.html",
+        "ticketUrl": "https://www.ticketmaster.com/event/17006531A23DD202?tt_scene=anchor_view",
+        "summary": "Leon Bridges brings The Happiness Anytime Tour to The Chelsea at The Cosmopolitan on April 7, 2027. The confirmed venue page lists doors at 7:00 PM and showtime at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-nickelback-everything-under-the-sun-2027",
+        "title": "Nickelback: Everything Under The Sun Tour",
+        "type": "concert",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-16",
+        "importance": 74,
+        "venueName": "T-Mobile Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/nickelback-everything-under-the-sun-tour",
+        "ticketUrl": "https://www.t-mobilearena.com/events/detail/nickelback-everything-under-the-sun-tour",
+        "summary": "Nickelback brings the Everything Under The Sun Tour to T-Mobile Arena on April 16, 2027, with Don Broco listed as special guest. The arena page confirms a 6:30 PM event start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-the-warning-everythings-falling-2027",
+        "title": "The Warning: Everything’s Falling World Tour",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 72,
+        "venueName": "Pearl Theater at Palms Casino Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.palms.com/entertainment/pearl-theater/the-warning-everythings-falling-world-tour",
+        "ticketUrl": "https://www.palms.com/entertainment/pearl-theater/the-warning-everythings-falling-world-tour",
+        "summary": "Mexican rock trio The Warning plays Pearl Theater at Palms Casino Resort on April 17, 2027, as part of the Everything’s Falling World Tour. The venue page confirms an 8:00 PM show and 7:00 PM doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-barry-manilow-residency-2027",
+        "title": "Barry Manilow: Las Vegas – The Hits Come Home!",
+        "type": "residency",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 70,
+        "venueName": "Westgate Las Vegas International Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.westgateresorts.com/news/westgate-las-vegas-resort-and-casino-announces-new-2027-dates-for-barry-manilows-record-breaking-las-vegas-residency/",
+        "ticketUrl": null,
+        "summary": "Barry Manilow’s Westgate residency has confirmed April 1–3, 2027 dates; April 1 is included here as the representative April performance. The show is a long-running Las Vegas pop residency built around Manilow’s hits.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

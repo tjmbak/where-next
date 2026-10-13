@@ -1,0 +1,67 @@
+{
+  "slug": "dubai",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:19:58.688Z",
+  "responseId": "resp_068da19a2a1e9a3d006acda2ca151087d098e4f99d79983216+resp_0dd8b0c4cfdc319d006acda316226887d0be23978dd05f06aa",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "dubai",
+    "month": 2,
+    "year": 2027,
+    "notes": "As of current primary calendars, February 2027 Dubai music confirmations are sparse; no major festival lineups or arena concerts with specific February dates were found, but Hard Rock Dubai Sports City has recurring live-music/DJ dates posted.",
+    "events": [
+      {
+        "id": "dubai-hard-rock-shanice-saturday-feb-2027",
+        "title": "Saturday Nights with Shanice",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 60,
+        "venueName": "Hard Rock Dubai Sports City",
+        "venueId": null,
+        "sourceUrl": "https://cafe.hardrock.com/dubai-sports-city/event-calendar.aspx?date=2/6/2027&display=event&eventid=2587983",
+        "ticketUrl": null,
+        "summary": "Hard Rock Dubai Sports City lists Shanice for a Saturday live singer session from 8:00 PM to 11:00 PM, billed around live vocals, crowd-favourite tunes, beats, and weekend energy.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-hard-rock-shanice-dj-king-sunday-feb-2027",
+        "title": "Sunday Afternoons with Shanice & DJ King",
+        "type": "club-night",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-07",
+        "importance": 60,
+        "venueName": "Hard Rock Dubai Sports City",
+        "venueId": null,
+        "sourceUrl": "https://cafe.hardrock.com/dubai-sports-city/event-calendar.aspx?date=2/7/2027&display=event&eventid=2588368",
+        "ticketUrl": null,
+        "summary": "Hard Rock Dubai Sports City lists this Sunday afternoon live duo with Shanice and DJ King from 1:00 PM to 4:00 PM, combining soulful vocals, upbeat rhythms, and DJ-led crowd favourites.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-festival-days-feb-2027",
+        "title": "XIII International Music & Dance Festival “Dubai Festival Days”",
+        "type": "festival",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-17",
+        "importance": 60,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.wofafestivals.com/festivals/xi-international-music-dance-festival-dubai-festival-days/",
+        "ticketUrl": null,
+        "summary": "World Festival Association lists this international music-and-dance festival in Dubai from 11–17 February 2027. The programme invites folk ensembles, choral groups, orchestras, brass bands, vocal groups, instrumental groups and soloists, with a festival evening included in the published schedule.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

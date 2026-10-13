@@ -1,0 +1,16 @@
+{
+  "slug": "seoul",
+  "month": 10,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:28:33.385Z",
+  "responseId": "resp_05235d282e54533e006acdb3159c9c87d08f5affe7dc909cad+resp_06811203c9ac2e52006acdb33a9ab887d083f9e157c3040dfe",
+  "searchCalls": 25,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 10,
+    "year": 2027,
+    "notes": "As of 2026-10-13, searches across RA, DICE, Shotgun, Eventbrite, Fixr, Boiler Room, and Seoul club/promoter listings did not surface any confirmed October 2027 Seoul scene events with a working event source.",
+    "events": []
+  }
+}

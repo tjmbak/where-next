@@ -2,30 +2,408 @@
   "slug": "tokyo",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:44:16.671Z",
-  "responseId": "resp_00ed44fb8e8890440069ff63e587888194be7c35edcf7f624a",
-  "searchCalls": 23,
+  "generatedAt": "2026-10-13T02:33:47.140Z",
+  "responseId": "resp_0bd04aeb55ea8e19006acd97a3712887d0881a4e91a31f141a+resp_080d15826bd57800006acd982f516c87d0b3c21a9c7f46b052",
+  "searchCalls": 31,
   "citations": [],
   "data": {
     "destinationSlug": "tokyo",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 already has a strong confirmed mix of outdoor festivals, J-pop/rock arena and live-house dates, Latin dance events, and electronic-leaning special concerts across Tokyo.",
+    "notes": "October 2026 in Tokyo is anchored by outdoor/circuit rock festivals, a dense Shibuya–Nakameguro club run, and high-profile jazz programming at Blue Note Tokyo.",
     "events": [
       {
-        "id": "tokyo-tokyo-island-oct-2026",
+        "id": "tokyo-music-bank-global-festival-oct-2026",
+        "title": "2026 Music Bank Global Festival in Japan",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 95,
+        "venueName": "Japan National Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.music-bank.jp/",
+        "ticketUrl": "https://t.pia.jp/pia/event/event.do?eventBundleCd=b2671015",
+        "summary": "KBS’s Music Bank Global Festival brings a large K-pop multi-artist lineup to Tokyo across two days. The official event site confirms the 2026 Japan edition.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-tokyo-island-2026",
         "title": "TOKYO ISLAND 2026",
         "type": "festival",
         "startDate": "2026-10-10",
         "endDate": "2026-10-12",
-        "importance": 88,
-        "venueName": "Sea Forest Park / Umi-no-Mori Park",
+        "importance": 90,
+        "venueName": "Umi-no-Mori Park",
         "venueId": null,
-        "sourceUrl": "https://tokyoisland.tokyo/",
-        "ticketUrl": "https://tokyoisland.tokyo/",
-        "summary": "TOKYO ISLAND returns for its fifth edition over the October three-day weekend at Sea Forest Park, presented as a large outdoor music festival with attractions and tickets already announced.",
+        "sourceUrl": "https://tokyoisland.tokyo/artists/",
+        "ticketUrl": "https://eplus.jp/sf/word/0000153997",
+        "summary": "Three-day outdoor music festival at Umi-no-Mori Park with OKAMOTO’S, Kroi, BIGMAMA, Fear, and Loathing in Las Vegas, ACIDMAN, ZAZEN BOYS, KANA-BOON, flumpool and more listed by day.",
         "genres": [
           "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-ra25-hven-2026",
+        "title": "RA25: Tokyo",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 86,
+        "venueName": "HVEN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497453",
+        "ticketUrl": "https://ra.co/events/2497453",
+        "summary": "Resident Advisor’s 25th-anniversary world-tour stop in Tokyo features DJ MARIA., Sugar Free, DJ Healthy, Mari Sakurai and Kombé at HVEN.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-agefarre-2026",
+        "title": "agefarre 2026 - ageHa×velfarre 15th Anniversary Club Edition",
+        "type": "festival",
+        "startDate": "2026-10-11",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "ZEROTOKYO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2466058",
+        "ticketUrl": "https://ra.co/events/2466058",
+        "summary": "A major heritage club-culture reunion from the ageHa/velfarre universe, with Ferry Corsten, Remo-con, Rinaly, Ko Kimura, Q’HEY and long-running resident crews.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-querico-anniversary-2026",
+        "title": "QUERICO Anniversary - Lil Louis, Kuniyuki, Youth of Roots, CHIDA, Hamish & Toby",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "MIDNIGHT EAST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2524377",
+        "ticketUrl": "https://ra.co/events/2524377",
+        "summary": "QUERICO’s fourth-anniversary community celebration headlined by Chicago house pioneer Lil Louis returning to Japan after 15 years, with Kuniyuki live, Youth of Roots, Hamish & Toby, CHIDA and Tokyo collectives.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-womb-session-25th-2026",
+        "title": "SESSION 25TH ANNIVERSARY",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 83,
+        "venueName": "WOMB",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/en/events/101726",
+        "ticketUrl": "https://womb.zaiko.io/en/e/womb101726",
+        "summary": "WOMB’s long-running SESSION marks its 25th anniversary with Bart Skils, Drunken Kong, Tommy Wada, Karibiza, Q’HEY and a three-floor techno/progressive-house program.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-blue-note-joshua-redman-2026",
+        "title": "Joshua Redman \"Words Fall Short\"",
+        "type": "concert",
+        "startDate": "2026-10-20",
+        "endDate": "2026-10-22",
+        "importance": 82,
+        "venueName": "Blue Note Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
+        "ticketUrl": "https://www.bluenote.co.jp/jp/artists/joshua-redman/",
+        "summary": "Saxophonist Joshua Redman presents his Blue Note Records project Words Fall Short with Paul Cornish, Philip Norris and Nazir Ebo across three nights at Blue Note Tokyo.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tokyo-soundgate-2026",
+        "title": "SOUNDGATE - Techno / House",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "ZEROTOKYO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2510070",
+        "ticketUrl": "https://ra.co/events/2510070",
+        "summary": "Large-scale ZEROTOKYO techno/house gathering led by Takkyu Ishino, Yoshinori Sunahara, Sekitova, Seimei b2b Carpainter, Ririko, Kotsu and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-intergalactic-planetfall-2026",
+        "title": "INTERGALACTIC: PLANETFALL",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-18",
+        "importance": 82,
+        "venueName": "Ooba Camping Village",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2477727",
+        "ticketUrl": "https://ra.co/events/2477727",
+        "summary": "Two-night forest camping festival in Hinode, Tokyo, with two stages, installations and a program moving through techno, breaks, psytrance, drum & bass, house and downtempo.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-subtronics-butterfly-effect-2026",
+        "title": "Butterfly Effect Special feat. Subtronics",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 80,
+        "venueName": "ZEROTOKYO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2498788",
+        "ticketUrl": "https://ra.co/events/2498788",
+        "summary": "ZEROTOKYO’s bass-focused Butterfly Effect Special is headlined by Subtronics, with Dubscribe and multiple bass, drum & bass, hardcore and house floors.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-cartulis-2026",
+        "title": "CARTULIS - Techno / House",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "WOMB",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ra.co/events/2522407",
+        "ticketUrl": "https://ra.co/events/2522407",
+        "summary": "London label/collective Cartulis returns to Japan for a WOMB takeover with Z@p, Unai Trotti, Junki Inoue, DSKE, CHIDA, YAMA and an announced after-hours session.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-in-the-family-fest-2026",
+        "title": "In The Family FEST 2026",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 78,
+        "venueName": "Shibuya THE GAME / Shibuya Ongakudo / Chelsea Hotel / Star Lounge / Milkyway / Cyclone / Garret",
+        "venueId": null,
+        "sourceUrl": "https://www.en.gekirock.com/news/2026/08/in_the_family_fest_2026_final_lineup.php",
+        "ticketUrl": "https://livepocket.jp/e/itff2026",
+        "summary": "ZEPHYREN × SHIBUYA THE GAME’s Shibuya seven-venue circuit event focuses on loud rock, hardcore and alternative acts, with DEXCORE, JasonAndrew, Quubi, ジエメイ, マザリ and others announced in the final lineup.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-hven-inbound-tokimonsta-2026",
+        "title": "HVEN INBOUND: TOKiMONSTA",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 78,
+        "venueName": "HVEN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2544756",
+        "ticketUrl": "https://ra.co/events/2544756",
+        "summary": "Los Angeles producer TOKiMONSTA headlines HVEN, billed as her first Japan headline show since 2019, with JAIR, AKARI, ShioriyBradshaw and M.I.O supporting.",
+        "genres": [
+          "house",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-womb-cartulis-2026",
+        "title": "CARTULIS",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "WOMB",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://womb.zaiko.io/en/e/womb102426",
+        "ticketUrl": "https://womb.zaiko.io/en/e/womb102426",
+        "summary": "London label, collective and party Cartulis returns to WOMB with Z@P, Unai Trotti, Junki Inoue, CHIDA, DSKE, P-YAN, RYOKEI, teppei and YAMA.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-nebula-oto-black-noir-2026",
+        "title": "NEBULA × OTO × BLACK NOIR - Techno / Hardgroove / Hard Techno",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "clubasia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2537187",
+        "ticketUrl": "https://ra.co/events/2537187",
+        "summary": "International hard-techno and hardgroove link-up bringing Australia’s BLACK NOIR and Vietnam’s ARCAN into a three-floor clubasia takeover with Tokyo crews.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-nero-plasma-2026",
+        "title": "Nero x Plasma",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "TBA - Secret Location",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2547008",
+        "ticketUrl": "https://ra.co/events/2547008",
+        "summary": "Secret-location Nishi-Azabu techno/industrial night where Nero brings Milan’s cult PLASMA party to Tokyo with ANKKH, DALJAE, KAITO, samJ and MUSCLE BROTHERS.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-john-talabot-vent-2026",
+        "title": "John Talabot",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 76,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2515227",
+        "ticketUrl": "https://ra.co/events/2515227",
+        "summary": "Spanish selector John Talabot returns to VENT with Abiu in Room 1 and a second-room lineup of Chihoshi, MSMS, Terax and Kurea.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-blue-note-alfredo-rodriguez-2026",
+        "title": "Alfredo Rodriguez Band featuring Pedrito Martínez",
+        "type": "concert",
+        "startDate": "2026-10-12",
+        "endDate": "2026-10-14",
+        "importance": 76,
+        "venueName": "Blue Note Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
+        "ticketUrl": "https://www.bluenote.co.jp/jp/artists/alfredo-rodriguez/",
+        "summary": "Cuban pianist Alfredo Rodriguez brings his band to Blue Note Tokyo with guest percussionist/vocalist Pedrito Martínez for shows built around the new album ¡Take Cover!.",
+        "genres": [
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "tokyo-bump-of-chicken-ratio-clavis-oct-2026",
+        "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+        "type": "concert",
+        "startDate": "2026-10-27",
+        "endDate": "2026-10-28",
+        "importance": 84,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.bumpofchicken.com/live_information/2799",
+        "ticketUrl": "https://www.bumpofchicken.com/live_information/2799",
+        "summary": "BUMP OF CHICKEN’s Ratio Clavis arena tour includes two confirmed Tokyo performances at Ariake Arena on October 27 and 28.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-asian-kung-fu-generation-oct-2026",
+        "title": "ASIAN KUNG-FU GENERATION Tour 2026 “Midage Fanclub”",
+        "type": "concert",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.sonymusic.co.jp/artist/ASIANKUNG-FU/info/582357",
+        "ticketUrl": "https://www.akglive.com/30th/tour2026",
+        "summary": "ASIAN KUNG-FU GENERATION mark the 20th anniversary of their album “Fanclub” with two confirmed Tokyo dates at Zepp DiverCity.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-ca7riel-paco-amoroso-oct-2026",
+        "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 76,
+        "venueName": "Toyosu PIT",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationhip.co.jp/en/all-events/ca7riel-and-paco-amoroso-tickets-ae1554639",
+        "ticketUrl": "https://www.livenationhip.co.jp/en/all-events/ca7riel-and-paco-amoroso-tickets-ae1554639",
+        "summary": "Argentinian duo CA7RIEL & Paco Amoroso play their first headline show in Japan in Tokyo, with the Toyosu PIT date confirmed for October 22.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-sinland-circuit-2026",
+        "title": "Sinland Tokyo Circuit Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-04",
+        "importance": 76,
+        "venueName": "Midnight East / OR Miyashita Park / R Lounge",
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/sinland-tokyo-circuit-festival/",
+        "ticketUrl": null,
+        "summary": "Tokyo’s leading gay circuit weekender returns in early October with two nights of parties, international guest DJs, go-go performers, a Saturday main party at Midnight East and an afterparty at R Lounge.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tokyo-fumiya-fujii-arena-live-oct-2026",
+        "title": "Fumiya Fujii ARENA LIVE 2026 360°",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 75,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://www.fumiyafujii.net/live/2026/04/22/7680",
+        "ticketUrl": "https://www.fumiyafujii.net/live/2026/04/22/7680",
+        "summary": "Fumiya Fujii brings his 360-degree arena production to Nippon Budokan for two Tokyo shows, backed by a full live band including Naoyuki Fujii on sax and guitar.",
+        "genres": [
           "pop"
         ]
       },
@@ -63,23 +441,6 @@
         ]
       },
       {
-        "id": "tokyo-caribbean-latin-america-street-oct-2026",
-        "title": "The Caribbean / Latin America Street 2026",
-        "type": "festival",
-        "startDate": "2026-10-17",
-        "endDate": "2026-10-18",
-        "importance": 66,
-        "venueName": "Yoyogi Park Keyaki Street",
-        "venueId": null,
-        "sourceUrl": "https://wsavannast.com/events/the-caribbean-latin-america-street/",
-        "ticketUrl": null,
-        "summary": "A free, rain-or-shine Caribbean and Latin America cultural festival at Yoyogi Park Keyaki Street, highlighting music, dance, food, drink, and fashion from the region.",
-        "genres": [
-          "latin",
-          "festival"
-        ]
-      },
-      {
         "id": "tokyo-spellbound-boom-boom-satellites-oct-2026",
         "title": "THE SPELLBOUND × BOOM BOOM SATELLITES presents FRONT CHAPTER DECADE Tour 2026 Final",
         "type": "concert",
@@ -97,72 +458,6 @@
         ]
       },
       {
-        "id": "tokyo-fumiya-fujii-arena-live-oct-2026",
-        "title": "Fumiya Fujii ARENA LIVE 2026 360°",
-        "type": "concert",
-        "startDate": "2026-10-17",
-        "endDate": "2026-10-18",
-        "importance": 75,
-        "venueName": "Nippon Budokan",
-        "venueId": null,
-        "sourceUrl": "https://www.fumiyafujii.net/live/2026/04/22/7680",
-        "ticketUrl": "https://www.fumiyafujii.net/live/2026/04/22/7680",
-        "summary": "Fumiya Fujii brings his 360-degree arena production to Nippon Budokan for two Tokyo shows, backed by a full live band including Naoyuki Fujii on sax and guitar.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "tokyo-ca7riel-paco-amoroso-oct-2026",
-        "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour",
-        "type": "concert",
-        "startDate": "2026-10-22",
-        "endDate": "2026-10-22",
-        "importance": 76,
-        "venueName": "Toyosu PIT",
-        "venueId": null,
-        "sourceUrl": "https://www.livenationhip.co.jp/en/all-events/ca7riel-and-paco-amoroso-tickets-ae1554639",
-        "ticketUrl": "https://www.livenationhip.co.jp/en/all-events/ca7riel-and-paco-amoroso-tickets-ae1554639",
-        "summary": "Argentinian duo CA7RIEL & Paco Amoroso play their first headline show in Japan in Tokyo, with the Toyosu PIT date confirmed for October 22.",
-        "genres": [
-          "latin",
-          "hip-hop",
-          "pop"
-        ]
-      },
-      {
-        "id": "tokyo-asian-kung-fu-generation-oct-2026",
-        "title": "ASIAN KUNG-FU GENERATION Tour 2026 “Midage Fanclub”",
-        "type": "concert",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-24",
-        "importance": 78,
-        "venueName": "Zepp DiverCity (TOKYO)",
-        "venueId": null,
-        "sourceUrl": "https://www.sonymusic.co.jp/artist/ASIANKUNG-FU/info/582357",
-        "ticketUrl": "https://www.akglive.com/30th/tour2026",
-        "summary": "ASIAN KUNG-FU GENERATION mark the 20th anniversary of their album “Fanclub” with two confirmed Tokyo dates at Zepp DiverCity.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "tokyo-bump-of-chicken-ratio-clavis-oct-2026",
-        "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-        "type": "concert",
-        "startDate": "2026-10-27",
-        "endDate": "2026-10-28",
-        "importance": 84,
-        "venueName": "Ariake Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.bumpofchicken.com/live_information/2799",
-        "ticketUrl": "https://www.bumpofchicken.com/live_information/2799",
-        "summary": "BUMP OF CHICKEN’s Ratio Clavis arena tour includes two confirmed Tokyo performances at Ariake Arena on October 27 and 28.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "tokyo-reona-detour-veins-oct-2026",
         "title": "ReoNa Concert Tour 2026 “De:TOUR -静脈-”",
         "type": "concert",
@@ -176,6 +471,40 @@
         "summary": "ReoNa’s 2026 concert tour stops at LINE CUBE SHIBUYA for a Tokyo show with doors at 17:30 and start at 18:30.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "tokyo-caribbean-latin-america-street-oct-2026",
+        "title": "The Caribbean / Latin America Street 2026",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 66,
+        "venueName": "Yoyogi Park Keyaki Street",
+        "venueId": null,
+        "sourceUrl": "https://wsavannast.com/events/the-caribbean-latin-america-street/",
+        "ticketUrl": null,
+        "summary": "A free, rain-or-shine Caribbean and Latin America cultural festival at Yoyogi Park Keyaki Street, highlighting music, dance, food, drink, and fashion from the region.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-clubasia-thursday-2026",
+        "title": "clubasia THURSDAY",
+        "type": "club-night",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-02",
+        "importance": 62,
+        "venueName": "clubasia",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2287826",
+        "ticketUrl": null,
+        "summary": "A low-cost Thursday late-night house/electronica session at clubasia with illequal, L?K?O, YELLOWUHURU and FELINE (JP), running 23:00–06:00 in Shibuya.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       }
     ]

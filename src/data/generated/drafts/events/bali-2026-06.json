@@ -2,9 +2,9 @@
   "slug": "bali",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:22:23.506Z",
-  "responseId": "resp_0f383c4f27e582ee0069ff5efbfe10819f901ac64038c4783e",
-  "searchCalls": 11,
+  "generatedAt": "2026-05-30T18:03:51.267Z",
+  "responseId": "augment:resp_02fd5f134e687006006a1b260f4c98819a98f9aa2539460d4c",
+  "searchCalls": 20,
   "citations": [],
   "data": {
     "destinationSlug": "bali",
@@ -100,6 +100,25 @@
         ]
       },
       {
+        "id": "bali-pure-music-festival-2026",
+        "title": "Pure Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Café del Mar Bali",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/pure-music-festival-2026",
+        "ticketUrl": "https://megatix.co.id/events/pure-music-festival-2026",
+        "summary": "Debut beachfront day-to-night house and techno festival at Café del Mar Bali, with Rafael Cerato, Young Franco, Tristan K and Atlantys on the bill.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
         "id": "bali-jonas-blue-savaya-2026",
         "title": "Jonas Blue at Savaya Bali",
         "type": "club-night",
@@ -115,6 +134,42 @@
           "house",
           "afro-house",
           "pop"
+        ]
+      },
+      {
+        "id": "bali-sash-la-brisa-2026",
+        "title": "S.A.S.H Bali at La Brisa: Janeret, Seb Zito",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 78,
+        "venueName": "La Brisa",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2451706",
+        "ticketUrl": "https://megatix.co.id/events/sash-summer-series-at-la-brisa",
+        "summary": "S.A.S.H’s Bali edition lands at La Brisa with Janeret, Seb Zito, Kerry Wallace, GECO and Ezza for a deep-groove house night by the shore.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-floyd-lavine-savaya-2026",
+        "title": "Floyd Lavine at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-06-28",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2438269",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-28-2026",
+        "summary": "South Africa-born Floyd Lavine brings Afro-centric rhythms fused with techno and house to Savaya’s Sunday cliffside session.",
+        "genres": [
+          "afro-house",
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -152,6 +207,24 @@
         ]
       },
       {
+        "id": "bali-joezi-savaya-2026",
+        "title": "Joezi at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2438266",
+        "ticketUrl": "https://www.savaya.com/event-calendar/june-27-2026",
+        "summary": "Afro-house producer Joezi headlines Savaya’s cliffside day-to-night format for a ticketed Saturday event focused on soulful, uplifting Afro-house grooves.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
         "id": "bali-fideles-savaya-2026",
         "title": "Fideles at Savaya Bali",
         "type": "club-night",
@@ -166,6 +239,109 @@
         "genres": [
           "techno",
           "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-headache-klymax-2026",
+        "title": "Live at Klymax: Headache",
+        "type": "club-night",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-12",
+        "importance": 70,
+        "venueName": "Klymax Discotheque",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2438193",
+        "ticketUrl": "https://ra.co/events/2438193",
+        "summary": "Klymax hosts Headache’s rare live/DJ hybrid of downtempo electronics, spoken word and live instrumentation, with NAR, Iga Drobisz and Fakta/Faktta supporting.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bali-toxic-state-2026",
+        "title": "Unchained Presents: Toxic State",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 70,
+        "venueName": "Gate 88 Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/toxic-state",
+        "ticketUrl": "https://megatix.co.id/events/toxic-state",
+        "summary": "Unchained’s limited-capacity hard-techno rooftop takeover turns Gate 88 into a boiler-room-style space with KRL MX, MOJI, T A N E, JESYKA, Ollie Crowe and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-bush-techno-unknown-concept-2026",
+        "title": "Bush Techno Series: Unknown Concept",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 68,
+        "venueName": "Hatch - Uluwatu",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/bush-techno-series-unknown-concept",
+        "ticketUrl": "https://megatix.co.id/events/bush-techno-series-unknown-concept",
+        "summary": "Hatch launches its Bush Techno peak-season series with Melbourne producer Unknown Concept, highlighting deep, driving and hypnotic progressive/psychedelic techno.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-micol-azzuro-hatch-2026",
+        "title": "Hatch Friday: Micol Azzuro",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-13",
+        "importance": 67,
+        "venueName": "Hatch - Uluwatu",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/hatch-friday-micol-azzuro",
+        "ticketUrl": "https://megatix.co.id/events/hatch-friday-micol-azzuro",
+        "summary": "Italy’s Micol Azzuro brings tech-house and Afro-tech to Hatch’s jungle setting, joined by Princeton and Pretty Liar for a late-night Uluwatu session.",
+        "genres": [
+          "house",
+          "afro-house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bali-bush-techno-tom-baker-2026",
+        "title": "Bush Techno Series: Tom Baker",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 67,
+        "venueName": "Hatch - Uluwatu",
+        "venueId": null,
+        "sourceUrl": "https://thebeatbali.com/events/bush-techno-with-tom-baker-aus-at-hatch-friday-26-june-2026/",
+        "ticketUrl": "https://thebeatbali.com/events/bush-techno-with-tom-baker-aus-at-hatch-friday-26-june-2026/",
+        "summary": "The second Bush Techno session at Hatch features Australian producer Tom Baker, leaning into rolling low-end pressure, hypnotic groove and progressive tension across two rooms.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-dum-k-indonesia-2026",
+        "title": "Dum K - Indonesia",
+        "type": "club-night",
+        "startDate": "2026-06-24",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Cretya Ubud",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2409722",
+        "ticketUrl": null,
+        "summary": "Dum K makes his first Indonesia appearance at Cretya Ubud, pairing Afro House and Afro Tech with GRAY in an early-evening Bali date.",
+        "genres": [
+          "afro-house",
           "electronic"
         ]
       },

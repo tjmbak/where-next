@@ -2,16 +2,201 @@
   "slug": "accra",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:17:16.855Z",
-  "responseId": "resp_0dd928724f40c68b0069ff5d898b24819385554f40aaea24a8",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:53:43.902Z",
+  "responseId": "resp_0ee8716ecef986ff006acd9c97035c87d08a31dc2944aef5d4+resp_0085d567afbe06fb006acd9ceb7b9887d08ffb14abbe6ccaf0",
+  "searchCalls": 32,
   "citations": [],
   "data": {
     "destinationSlug": "accra",
     "month": 12,
     "year": 2026,
-    "notes": "December 2026 is already showing a strong Detty December spine, but many artist lineups remain unannounced this early, so this calendar favors dated, source-confirmed festivals and flagship concerts.",
+    "notes": "Only a few December 2026 Accra events have firm public pages so far; several usual Detty December anchors are still omitted until their 2026 dates/lineups are explicitly announced.",
     "events": [
+      {
+        "id": "accra-house-fest-2026",
+        "title": "Accra House Fest 2026",
+        "type": "festival",
+        "startDate": "2026-12-22",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Treehouse Restaurant",
+        "venueId": null,
+        "sourceUrl": "https://www.accrahousefest.com/faq",
+        "ticketUrl": "https://www.accrahousefest.com/tickets",
+        "summary": "Transit and Open House Accra’s all-day/all-night house-music festival, billed as the alternative sound of December and Ghana’s premier platform for house culture.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-zaama-disco-2026",
+        "title": "ZAAMA DISCO 2026",
+        "type": "concert",
+        "startDate": "2026-12-21",
+        "endDate": "2026-12-21",
+        "importance": 82,
+        "venueName": "Legon Sports Stadium",
+        "venueId": null,
+        "sourceUrl": "https://sparkglim.net/campaigns/zaama-disco-2026/tickets",
+        "ticketUrl": "https://sparkglim.net/campaigns/zaama-disco-2026/tickets",
+        "summary": "Black Sherif headlines the 2026 edition of Zaama Disco at Legon Sports Stadium. The event page bills it as a major Accra December live-music experience for Black Sherif’s Blacko Tribe.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-hiphop-africa-fest-2026",
+        "title": "HipHop Africa Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-19",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Untamed Empire",
+        "venueId": null,
+        "sourceUrl": "https://hiphopafrica.net/festival/",
+        "ticketUrl": "https://hiphopafrica.net/festival/",
+        "summary": "Hip-hop culture festival at Untamed Empire with Ghanaian rap names, cyphers, DJ showcases, beat showcases, streetwear, street art and panels.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-zumaland-festival-2026",
+        "title": "Zumaland Music & Art Festival",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-27",
+        "importance": 75,
+        "venueName": "Borteyman, Accra",
+        "venueId": null,
+        "sourceUrl": "https://zumalandfestival.com/",
+        "ticketUrl": "https://zumalandfestival.com/",
+        "summary": "Zumaland is a two-day music and art festival confirmed for 26–27 December 2026 in Borteyman, Accra. The official page presents it as an immersive African music, culture, dance, food and art gathering.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-afro-gogo-festival-2026",
+        "title": "Afro-GoGo Festival",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-31",
+        "importance": 74,
+        "venueName": "Accra",
+        "venueId": null,
+        "sourceUrl": "https://afrogogofestival.com/",
+        "ticketUrl": "https://afrogogofestival.com/",
+        "summary": "Six-day diaspora homecoming festival mixing live performances, rooftop parties, brunches, beach takeovers and a dedicated Amapiano vs Afrobeats DJ clash.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-aliv-fest-2026",
+        "title": "ALIV FEST 2026",
+        "type": "festival",
+        "startDate": "2026-12-17",
+        "endDate": "2027-01-03",
+        "importance": 72,
+        "venueName": "Accra, Ghana",
+        "venueId": null,
+        "sourceUrl": "https://alivfest.com/",
+        "ticketUrl": "https://alivfest.com/",
+        "summary": "An 18-night Accra December experience with a main stage, carnival zones, food village, and nightly music/nightlife programming. The music program is described around Afrobeats, Amapiano, drill, Afropop, DJs and live acts, with peak nights Thursday through Sunday.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-compozers-fest-ghana-2026",
+        "title": "Compozers Fest Ghana Edition",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Pitch Accra",
+        "venueId": null,
+        "sourceUrl": "https://beatstorapon.com/event/compozers-fest-ghana-edition-6ac5c721b15a11f67a353934",
+        "ticketUrl": "https://beatstorapon.com/event/compozers-fest-ghana-edition-6ac5c721b15a11f67a353934",
+        "summary": "New Year’s Eve Accra edition at Pitch Accra listed as an Amapiano and Afro-house party, with R&B, hip-hop and Detty December tags.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-detty-dezemba-2026",
+        "title": "Detty Dezemba",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 70,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://wewannaparty.africa/event/detty-dezemba",
+        "ticketUrl": "https://wewannaparty.africa/event/detty-dezemba",
+        "summary": "A ticketed December concert billed around Afrobeats and Amapiano, with six acts planned and an 18+ format. The venue is still listed as TBA on the ticketing page.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-softlife-party-2026",
+        "title": "SoftLife Party",
+        "type": "club-night",
+        "startDate": "2026-12-24",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Front/Back",
+        "venueId": null,
+        "sourceUrl": "https://beatstorapon.com/event/softlife-party-6ac5c721b15a11f67a353931",
+        "ticketUrl": "https://beatstorapon.com/event/softlife-party-6ac5c721b15a11f67a353931",
+        "summary": "Christmas Eve Front/Back club night listed as an Amapiano and Afro-House party, with tags spanning hip-hop, R&B, Afrobeats and Detty December.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "accra-dutty-dj-opoku-2026",
+        "title": "Dutty December Is Coming! DJ Opoku Live in Ghana",
+        "type": "beach-club",
+        "startDate": "2026-12-18",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Osikan Ocean Beach Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/dutty-december-is-coming-dj-opoku-live-in-ghana-tickets-2002183508772",
+        "ticketUrl": "https://www.eventbrite.com/e/dutty-december-is-coming-dj-opoku-live-in-ghana-tickets-2002183508772",
+        "summary": "Beach-resort day-to-night Detty December session with DJ Opoku, billed around AfroHouse, Afrobeat, Azonto and Amapiano with poolside and live-band elements.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "festival"
+        ]
+      },
       {
         "id": "accra-uwmff-dec-2026",
         "title": "United World Music & Film Festival",
@@ -28,40 +213,6 @@
           "festival",
           "hip-hop",
           "r-and-b"
-        ]
-      },
-      {
-        "id": "accra-aliv-fest-2026",
-        "title": "ALIV FEST 2026",
-        "type": "carnival",
-        "startDate": "2026-12-17",
-        "endDate": "2027-01-03",
-        "importance": 73,
-        "venueName": "Accra, Ghana",
-        "venueId": null,
-        "sourceUrl": "https://alivfest.com/",
-        "ticketUrl": null,
-        "summary": "An 18-night Accra carnival-style destination experience with one main stage, live music performances, DJs and peak-night Afrobeats and Amapiano programming from Thursday through Sunday.",
-        "genres": [
-          "festival",
-          "amapiano"
-        ]
-      },
-      {
-        "id": "accra-black-sherif-zaama-disco-2026",
-        "title": "Black Sherif Zaama Disco Concert",
-        "type": "concert",
-        "startDate": "2026-12-21",
-        "endDate": "2026-12-21",
-        "importance": 82,
-        "venueName": "Accra",
-        "venueId": null,
-        "sourceUrl": "https://www.accraeventsgh.com/things-to-do-in-accra",
-        "ticketUrl": null,
-        "summary": "AccraEvents lists Black Sherif’s Zaama Disco Concert for December 21, 2026, describing it as an immersive production with lights, visuals and performers from across West Africa.",
-        "genres": [
-          "hip-hop",
-          "festival"
         ]
       },
       {
@@ -94,24 +245,6 @@
         "summary": "Sarkodie’s annual Rapperholic concert is listed for Christmas Day 2026 in Accra, continuing one of Ghana’s signature year-end hip-hop concert brands.",
         "genres": [
           "hip-hop"
-        ]
-      },
-      {
-        "id": "accra-afro-gogo-festival-2026",
-        "title": "Afro-GoGo Festival",
-        "type": "festival",
-        "startDate": "2026-12-26",
-        "endDate": "2026-12-31",
-        "importance": 75,
-        "venueName": "Accra, Ghana",
-        "venueId": null,
-        "sourceUrl": "https://afrogogofestival.com/",
-        "ticketUrl": null,
-        "summary": "A six-day diaspora homecoming festival in Accra with live performances, DJ sets, rooftop parties, a beach party and a Go-Go x NYE finale. The music program highlights Go-Go alongside Afrobeats, Highlife, Reggae, Jazz, R&B, Amapiano and Hip-Hop influences.",
-        "genres": [
-          "amapiano",
-          "hip-hop",
-          "jazz"
         ]
       },
       {

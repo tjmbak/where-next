@@ -2,16 +2,154 @@
   "slug": "marrakech",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:37:01.891Z",
-  "responseId": "resp_09d9284e94d4d36d0069ff625ffa0881a38f5d31051f87359a",
-  "searchCalls": 13,
+  "generatedAt": "2026-10-13T02:42:16.307Z",
+  "responseId": "resp_0d234c3927cd22f7006acd99eaa43487d09a09424857550f34+resp_0fd3b88b220a5ac2006acd9a24930487d0a2a91afdd3840025",
+  "searchCalls": 31,
   "citations": [],
   "data": {
     "destinationSlug": "marrakech",
     "month": 11,
     "year": 2026,
-    "notes": "Major club and electronic calendars for November 2026 appear largely unannounced, so this list is limited to primary-source confirmations.",
+    "notes": "Confirmed November listings currently skew toward boutique electronic weekender/club programming, with the closing day of Marrakech Jazz Experience adding a contemporary jazz anchor.",
     "events": [
+      {
+        "id": "marrakech-source-festival-weekend-2026",
+        "title": "The Source Festival Weekend",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "importance": 83,
+        "venueName": "The Source Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://www.thesourcecollective.ch/festival",
+        "ticketUrl": "https://www.thesourcecollective.ch/festival",
+        "summary": "The Source’s November weekender packages two nights at the Ourika-road hotel: Glitched × The Source on Friday and Laÿla × The Source on Saturday. The confirmed Saturday bill features Dixon and Trikk.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-layla-nights-2026",
+        "title": "LAŸLA Nights Marrakech: Dixon / Trikk",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 82,
+        "venueName": "The Source Marrakesh",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/fr/festivals/layla-nights-marrakech-dixon-trikk",
+        "ticketUrl": "https://shotgun.live/fr/festivals/layla-nights-marrakech-dixon-trikk",
+        "summary": "LAŸLA’s “Stellar Edition” brings Dixon and Trikk to The Source for a high-production house, deep house, Afro-house and electro-house night, with Didiss, NAIT and WHOSKENZA also listed.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-layla-nights-source-2026",
+        "title": "LAŸLA NIGHTS",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 80,
+        "venueName": "The Source Marrakesh",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552481",
+        "ticketUrl": "https://ra.co/events/2552481",
+        "summary": "LAŸLA NIGHTS presents its Stellar Edition at The Source Marrakesh on November 7. The confirmed Resident Advisor listing names Dixon and Trikk on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-echo7000-malice-2026",
+        "title": "ECHO7000 — Malice at the Villa with Lola Haro and David Fogarty",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 76,
+        "venueName": "Villa Marco",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2555029",
+        "ticketUrl": "https://buy.tidar.ma/event/echo7000-malice-at-the-villa-with-lola-haro-and-david-fogarty",
+        "summary": "ECHO7000 hosts a 12-hour villa party with Lola Haro and David Fogarty alongside residents Miles and MARO, billed on RA as techno and electro.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-jazz-experience-2026",
+        "title": "Marrakech Jazz Experience",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-01",
+        "importance": 75,
+        "venueName": "Théâtre Meydene / M Avenue",
+        "venueId": null,
+        "sourceUrl": "https://www.marrakechjazzexperience.org/",
+        "ticketUrl": "https://guichet.com/ma-fr/event/producer/meydene",
+        "summary": "The inaugural Marrakech Jazz Experience runs across the weekend ending November 1, with contemporary Moroccan jazz programming at Meydene and free M Avenue performances. Confirmed November programming includes Maria Naciri at M Square on November 1, alongside festival talks and concerts.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-back-to-house-vol3-2026",
+        "title": "Back To House — Underground Series Vol. 3",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "importance": 69,
+        "venueName": "Les Asnouss",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/event/back-to-house-underground-series-vol-3",
+        "ticketUrl": "https://buy.tidar.ma/event/back-to-house-underground-series-vol-3",
+        "summary": "Back To House returns with a two-day underground house/minimal gathering near Marrakech, emphasizing deep grooves, raw energy and local-scene selectors including HearThug, Daox, bkl, Yahya, Soukii, JaKaw and Nordiks.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-sol-sundays-el-fenn-2026",
+        "title": "Sol Sundays at El Fenn",
+        "type": "residency",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 64,
+        "venueName": "El Fenn Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://el-fenn.com/sol-sundays-at-el-fenn/",
+        "ticketUrl": "https://ra.co/events/2545764",
+        "summary": "El Fenn’s autumn rooftop residency features resident DJ Shems playing late-afternoon-to-evening sets on the medina rooftop. The official schedule lists Sunday, November 8 as one of the confirmed dates.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-dreamers-soul-awakening-2026",
+        "title": "DREAMERS — Soul Awakening in Marrakech",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 62,
+        "venueName": "Les Asnouss",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/event/dreamers-soul-awakening",
+        "ticketUrl": "https://buy.tidar.ma/event/dreamers-soul-awakening",
+        "summary": "DREAMERS returns near Marrakech for a three-day intimate festival-retreat at Les Asnouss from November 20 to 22. The ticketing page categorizes it across electronic, jazz/current music, world and community programming.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "festival"
+        ]
+      },
       {
         "id": "marrakech-choral-meeting-nov-2026",
         "title": "Marrakech Choral Meeting 2026",

@@ -2,15 +2,15 @@
   "slug": "reykjavik",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:51:39.551Z",
-  "responseId": "resp_08511c5f414a76c40069ffd65a84bc8192ba89536eb4a6e664",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T02:45:11.978Z",
+  "responseId": "resp_04e07917ec2cadb2006acd9a88712087d0b247e7ad3d769968+resp_0753c6b6f4e8876a006acd9ae2220087d0bbf944bf099fd4b8",
+  "searchCalls": 27,
   "citations": [],
   "data": {
     "destinationSlug": "reykjavik",
     "month": 11,
     "year": 2026,
-    "notes": "Iceland Airwaves dominates Reykjavík’s November 2026 calendar, with the official showcase weekend and separate Harpa special events already confirmed.",
+    "notes": "November is anchored by Iceland Airwaves, with its showcase-festival core spilling into special electronic, hip-hop, pop and local-scene events before and after the main weekend.",
     "events": [
       {
         "id": "reykjavik-iceland-airwaves-2026",
@@ -18,12 +18,12 @@
         "type": "festival",
         "startDate": "2026-11-05",
         "endDate": "2026-11-07",
-        "importance": 96,
-        "venueName": "Downtown Reykjavík venues",
+        "importance": 95,
+        "venueName": "Multiple downtown Reykjavík venues",
         "venueId": null,
         "sourceUrl": "https://icelandairwaves.is/lineup/",
-        "ticketUrl": "https://tix.is/en/event/20516/iceland-airwaves-2026",
-        "summary": "Iceland Airwaves’ official 2026 program runs November 5–7 across official venues in Reykjavík. Confirmed lineup names include Adult DVD, MAMMÚT, Skeler, Yaelokre, Dove Ellis, Arima Ederra, Júníus Meyvant, Emmsjé Gauti and more.",
+        "ticketUrl": "https://tix.is/en/event/20516%2Ficeland-airwaves-2026",
+        "summary": "Reykjavík’s flagship multi-venue showcase festival returns with an official program across downtown venues. Confirmed artists include 9m88, Agent Fresco, Cell7, Cobrah, David Bay, Emmsjé Gauti, Jamie Woon, MAMMÚT, Sísý Ey, Skeler, The Itch, Warhaus and many more.",
         "genres": [
           "festival",
           "electronic",
@@ -31,21 +31,38 @@
         ]
       },
       {
-        "id": "reykjavik-shygirl-airwaves-2026",
-        "title": "Iceland Airwaves Special Event: Shygirl",
+        "id": "reykjavik-the-streets-airwaves-2026",
+        "title": "The Streets with Úlfur Úlfur",
         "type": "concert",
-        "startDate": "2026-11-04",
-        "endDate": "2026-11-04",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
         "importance": 86,
-        "venueName": "Silfurberg, Harpa",
+        "venueName": "Harpa Concert Hall",
         "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://icelandairwaves.is/shygirl/",
+        "sourceUrl": "https://tix.is/en/event/21290/the-streets-i-eldborg-asamt-ulfur-ulfur",
+        "ticketUrl": "https://tix.is/en/event/21290/the-streets-i-eldborg-asamt-ulfur-ulfur",
+        "summary": "The Streets close the Airwaves run at Eldborg, Harpa, performing A Grand Don’t Come For Free in full with additional catalogue tracks. Icelandic rap duo Úlfur Úlfur open the night.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-gusgus-austurbaejarbio-2026",
+        "title": "GusGus at Austurbæjarbíó",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 85,
+        "venueName": "Austurbæjarbíó",
+        "venueId": null,
+        "sourceUrl": "https://icelandairwaves.is/gusgus-iceland-airwaves-partner-event/",
         "ticketUrl": null,
-        "summary": "Shygirl plays an Iceland Airwaves-presented special event at Silfurberg, Harpa on November 4 at 20:00. The show is listed as a separately ticketed event and highlights her blend of experimental club music, hip-hop, house and electronic pop.",
+        "summary": "Iceland Airwaves and GusGus present an electronic partner event from 22:00–03:00. The schedule lists DJ Margeir, a midnight GusGus live set and Exos live at 02:00.",
         "genres": [
           "electronic",
-          "hip-hop",
-          "pop"
+          "techno",
+          "house"
         ]
       },
       {
@@ -54,32 +71,218 @@
         "type": "concert",
         "startDate": "2026-11-05",
         "endDate": "2026-11-05",
-        "importance": 89,
-        "venueName": "Eldborg, Harpa",
+        "importance": 84,
+        "venueName": "Harpa Concert Hall",
         "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/21287",
-        "ticketUrl": "https://www.harpa.is/en/events/21287",
-        "summary": "Daði Freyr performs with the Iceland Symphony Orchestra at Eldborg, Harpa on November 5 at 19:00 as an Iceland Airwaves 2026 special event. The concert reimagines his synth-pop songs with orchestral arrangements conducted by Daníel Bjarnason.",
+        "sourceUrl": "https://icelandairwaves.is/dadi/",
+        "ticketUrl": "https://tix.is/en/event/21287/dadi-freyr-og-sinfo-ia26-special-event",
+        "summary": "Daði Freyr performs with the Iceland Symphony Orchestra for the first time in an Iceland Airwaves special event at Eldborg, Harpa. The program reimagines his synth-pop songs with orchestral arrangements and includes music from his upcoming album.",
         "genres": [
           "pop",
           "electronic"
         ]
       },
       {
-        "id": "reykjavik-the-streets-airwaves-2026",
-        "title": "Iceland Airwaves Special Event: The Streets",
+        "id": "reykjavik-shygirl-airwaves-2026",
+        "title": "Shygirl with Alaska & Joey Christ",
         "type": "concert",
-        "startDate": "2026-11-08",
-        "endDate": "2026-11-08",
-        "importance": 88,
-        "venueName": "Eldborg, Harpa",
-        "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://icelandairwaves.is/the-streets/",
-        "ticketUrl": null,
-        "summary": "The Streets play Eldborg, Harpa on November 8 at 20:00 in a separately ticketed Iceland Airwaves special event. The show is billed around a full performance of A Grand Don’t Come for Free plus selections from Mike Skinner’s wider catalogue.",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 82,
+        "venueName": "City Hall / Ráðhúsið í Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://icelandairwaves.is/shygirl/",
+        "ticketUrl": "https://tix.is/event/22252/shygirl-asamt-alaska-joey-christ",
+        "summary": "Iceland Airwaves presents Shygirl for a separate-ticket IA26 special event, with local support from Alaska and Joey Christ. The show is billed as an experimental pop, club and hip-hop event on the night before the main festival opens.",
         "genres": [
+          "electronic",
           "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-iceland-airwaves-conference-2026",
+        "title": "Iceland Airwaves Conference 2026",
+        "type": "conference",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "NASA at Parliament Hotel",
+        "venueId": null,
+        "sourceUrl": "https://icelandairwaves.is/conference/",
+        "ticketUrl": null,
+        "summary": "The Airwaves music-industry conference runs 09:00–18:00 across two days, with panels on live music, showcase festivals, sustainability, music curation and Iceland’s music export ecosystem. It is held in collaboration with Iceland Music, Reykjavík Music City and Business Iceland.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-afrofest-rdf-2026",
+        "title": "AFROFEST: Luis Lucas DJ Set",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 74,
+        "venueName": "Iðnó",
+        "venueId": null,
+        "sourceUrl": "https://www.reykjavikdancefestival.com/afrofest",
+        "ticketUrl": null,
+        "summary": "A Reykjavík Dance Festival diaspora club/performance crossover: staged Afrobeats × Amapiano DJ set with live dance, centered on Nigerian, South African and wider African-diaspora club culture.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-myrkraeyja-shadows-2026",
+        "title": "MYRKRAEYJA – Danspartý, performansar & DJ / SHADOWS",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 72,
+        "venueName": "Austurbæjarbíó",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/event/22447/myrkraeyja-dansparty-performansar-dj-shadows",
+        "ticketUrl": "https://tix.is/event/22447/myrkraeyja-dansparty-performansar-dj-shadows",
+        "summary": "Reykjavík Dance Festival closing dance party led by Kanema and Luis, foregrounding dance, performance and DJ culture with amapiano, afrobeat, pop and other cross-diaspora influences.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "pop",
           "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-ham-endalok-alls-2026",
+        "title": "HAM - Endalok alls",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 66,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/22007",
+        "ticketUrl": "https://www.harpa.is/en/events/22007",
+        "summary": "HAM celebrate the release of their album Endalok alls with a concert at Eldborg, Harpa. The set is announced to include new songs, older material and guest performers Úlfur Eldjárn, Steinunn Eldflaug Harðardóttir and Kristjana Stefánsdóttir.",
+        "genres": []
+      },
+      {
+        "id": "reykjavik-todmobile-hapunktar-2026",
+        "title": "TODMOBILE – HÁPUNKTAR",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 65,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21907",
+        "ticketUrl": "https://www.harpa.is/en/events/21907",
+        "summary": "Icelandic pop-rock band Todmobile play a career-spanning celebratory concert at Eldborg after receiving honorary recognition at the Icelandic Music Awards. The lineup features the band plus guests including Jónína Björt Gunnarsdóttir, Söngsveitin Filharmónía, Strokkvartettinn Siggi and Guðni Franzson.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-liberation-orchestra-2026",
+        "title": "Iceland’s Liberation Orchestra featuring Davíð Þór Jónsson - Múlinn Jazzclub",
+        "type": "residency",
+        "startDate": "2026-11-11",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://tix.is/en/event/22475/frelsissveitin-og-david-thor-mulinn-jazzklubbur",
+        "ticketUrl": "https://tix.is/en/event/22475/frelsissveitin-og-david-thor-mulinn-jazzklubbur",
+        "summary": "Múlinn Jazzclub date built around a new Haukur Gröndal piano concerto for Davíð Þór Jónsson and ensemble, balancing composed material with free improvisation from leading Icelandic jazz players.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-upprasin-spouses-brenninetla-thesal-2026",
+        "title": "Upprásin | Spouses, Brenninetla, ÞESAL",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 64,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/22095",
+        "ticketUrl": "https://www.harpa.is/en/events/22095",
+        "summary": "Harpa’s grassroots Icelandic music series Upprásin presents Spouses, Brenninetla and ÞESAL in Kaldalón. The series is run with Reykjavík Music City and Rás 2 to spotlight emerging Icelandic acts across genres.",
+        "genres": [
+          "pop",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-sigurdur-flosason-quartet-2026",
+        "title": "Sigurður Flosason Quartet - Múlinn Jazzclub",
+        "type": "residency",
+        "startDate": "2026-11-18",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://tix.is/en/event/22476/kvartett-sigurdar-flosasonar-mulinn-jazzklubbur",
+        "ticketUrl": "https://tix.is/en/event/22476/kvartett-sigurdar-flosasonar-mulinn-jazzklubbur",
+        "summary": "Veteran saxophonist Sigurður Flosason leads a quartet through modern jazz rooted in bebop, with Anna Gréta Sigurðardóttir, Birgir Steinn Theódórsson and Einar Scheving.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-andres-thor-trio-2026",
+        "title": "Andrés Þór Trio – Relocate - Múlinn Jazzclub",
+        "type": "residency",
+        "startDate": "2026-11-04",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Harpa",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://tix.is/en/event/22454/andres-thor-trio-relocate-mulinn-jazzklubbur",
+        "ticketUrl": "https://tix.is/en/event/22454/andres-thor-trio-relocate-mulinn-jazzklubbur",
+        "summary": "Múlinn Jazzclub’s November opener at Björtuloft, Harpa, featuring Andrés Þór’s trio around the 2026 album Relocate with improvisation-led guitar-trio material.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-bjorn-thoroddsen-mulinn-2026",
+        "title": "Björn Thoroddsen Band - Múlinn Jazzclub",
+        "type": "concert",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 60,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/22477",
+        "ticketUrl": "https://www.harpa.is/en/events/22477",
+        "summary": "Múlinn Jazzclub presents Icelandic guitarist Björn Thoroddsen with Jón Rafnsson on bass and Fúsi Óttars on drums. Harpa bills the night as jazz and blues, with Thoroddsen moving across pop, jazz, rock, blues and country influences.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-pvbr-winter-gathering-2026",
+        "title": "PVBR & Poetic Funk present Winter Gathering 2026 Iceland",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 74,
+        "venueName": "Reykjavík",
+        "venueId": null,
+        "sourceUrl": "https://book.tourdesk.is/Tour/Item/884/9/early-bird-ticket-pvbr-poetic-funk-present-winter-gathering-2026-iceland-20-22-november",
+        "ticketUrl": "https://book.tourdesk.is/Tour/Item/884/9/early-bird-ticket-pvbr-poetic-funk-present-winter-gathering-2026-iceland-20-22-november",
+        "summary": "A three-day funk, soul and groove weekender from Positive Vibrations Reykjavik and Poetic Funk, with all-day parties on November 20–21 and a recreation day on November 22; announced DJs include Atjazz, DJ Fraggle, Tommi and Ingvar, with sounds spanning funk, soul, boogie, jazz, Latin, afro beat, bruk beat and soulful/funky house.",
+        "genres": [
+          "house",
+          "jazz",
+          "latin",
+          "afro-house",
+          "festival"
         ]
       }
     ]

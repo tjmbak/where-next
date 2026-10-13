@@ -2,9 +2,9 @@
   "slug": "reykjavik",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:50:33.321Z",
-  "responseId": "resp_066d748a114aec820069ffd607857c8197a35d723e5d601bd2",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:42:08.614Z",
+  "responseId": "augment:resp_05179f69a9d63a80006a1b2f1dceb08199aef126d1b05d6397",
+  "searchCalls": 19,
   "citations": [],
   "data": {
     "destinationSlug": "reykjavik",
@@ -13,35 +13,19 @@
     "notes": "Confirmed July listings are still relatively sparse, with Harpa/Hallgrímskirkja summer programming and David Byrne’s arena show standing out among announced dates.",
     "events": [
       {
-        "id": "reykjavik-harpa-midday-music-2026",
-        "title": "Midday Music in Harpa",
+        "id": "reykjavik-david-byrne-2026",
+        "title": "David Byrne — Who Is The Sky? Tour",
         "type": "concert",
-        "startDate": "2026-07-02",
-        "endDate": "2026-07-31",
-        "importance": 60,
-        "venueName": "Harpa Concert Hall",
-        "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/21498",
-        "ticketUrl": "https://www.harpa.is/en/events/21498",
-        "summary": "Harpa’s July daytime concert series runs from July 2–31 in Eldborg, with Icelandic musicians performing acoustic songs on the Eldborg stage. The source explicitly lists multiple 11:00 and 12:00 performances across the month.",
+        "startDate": "2026-07-29",
+        "endDate": "2026-07-29",
+        "importance": 85,
+        "venueName": "Laugardalshöll",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/event/21247/david-byrne",
+        "ticketUrl": "https://tix.is/event/21247/david-byrne",
+        "summary": "David Byrne brings the Who Is The Sky? Tour to Laugardalshöll with Ghost Train Orchestra on July 29. The Tix event page confirms the Reykjavík concert date and 20:00 start time.",
         "genres": [
           "pop"
-        ]
-      },
-      {
-        "id": "reykjavik-organ-summer-opening-2026",
-        "title": "With Four Hands & Four Feet — Opening Concert of the Organ Summer",
-        "type": "concert",
-        "startDate": "2026-07-05",
-        "endDate": "2026-07-05",
-        "importance": 62,
-        "venueName": "Hallgrímskirkja",
-        "venueId": null,
-        "sourceUrl": "https://tix.is/en/event/21528/fjorhent-fjorfaett",
-        "ticketUrl": "https://tix.is/en/event/21528/fjorhent-fjorfaett",
-        "summary": "Hallgrímskirkja organists Björn Steinar Sólbergsson and Steinar Logi Helgason open the Organ Summer series by performing on both the Klais concert organ and Frobenius choir organ. The program includes works by Gigout, Pachelbel, J. B. Bach, Jón Nordal, Ravel and Þorkell Sigurbjörnsson.",
-        "genres": [
-          "festival"
         ]
       },
       {
@@ -62,17 +46,65 @@
         ]
       },
       {
-        "id": "reykjavik-david-byrne-2026",
-        "title": "David Byrne — Who Is The Sky? Tour",
-        "type": "concert",
-        "startDate": "2026-07-29",
-        "endDate": "2026-07-29",
-        "importance": 85,
-        "venueName": "Laugardalshöll",
+        "id": "reykjavik-salsa-baul-caracas-2026",
+        "title": "Latin Night in Iceland – Salsa Baúl Caracas",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-01",
+        "importance": 68,
+        "venueName": "Sykursalurinn, Grósku",
         "venueId": null,
-        "sourceUrl": "https://tix.is/event/21247/david-byrne",
-        "ticketUrl": "https://tix.is/event/21247/david-byrne",
-        "summary": "David Byrne brings the Who Is The Sky? Tour to Laugardalshöll with Ghost Train Orchestra on July 29. The Tix event page confirms the Reykjavík concert date and 20:00 start time.",
+        "sourceUrl": "https://tix.is/en/event/21255/latin-night-in-iceland-salsa-baul-caracas",
+        "ticketUrl": "https://tix.is/en/event/21255/latin-night-in-iceland-salsa-baul-caracas",
+        "summary": "Ticketed Latin diaspora dance night at Sykursalurinn with two Venezuelan DJs: DJ Jeam el Salsoso opening with classic salsa from 20:00, followed by DJ Gato Beat with salsa, bachata, merengue, and Latino party sounds until 03:00; 21+ event.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "reykjavik-jazz-harbour-2026",
+        "title": "Jazz by the Harbour: Ragnheiður Gröndal and Guðmundur Pétursson",
+        "type": "residency",
+        "startDate": "2026-07-14",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Hafnartorg Gallery",
+        "venueId": null,
+        "sourceUrl": "https://events.grapevine.is/events/5322",
+        "ticketUrl": "https://events.grapevine.is/events/5322",
+        "summary": "A free monthly live-jazz residency at Hafnartorg Gallery food hall; the July edition features Icelandic vocalist Ragnheiður Gröndal with guitarist Guðmundur Pétursson, running 19:00–20:00.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-organ-summer-opening-2026",
+        "title": "With Four Hands & Four Feet — Opening Concert of the Organ Summer",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 62,
+        "venueName": "Hallgrímskirkja",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21528/fjorhent-fjorfaett",
+        "ticketUrl": "https://tix.is/en/event/21528/fjorhent-fjorfaett",
+        "summary": "Hallgrímskirkja organists Björn Steinar Sólbergsson and Steinar Logi Helgason open the Organ Summer series by performing on both the Klais concert organ and Frobenius choir organ. The program includes works by Gigout, Pachelbel, J. B. Bach, Jón Nordal, Ravel and Þorkell Sigurbjörnsson.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-harpa-midday-music-2026",
+        "title": "Midday Music in Harpa",
+        "type": "concert",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-31",
+        "importance": 60,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21498",
+        "ticketUrl": "https://www.harpa.is/en/events/21498",
+        "summary": "Harpa’s July daytime concert series runs from July 2–31 in Eldborg, with Icelandic musicians performing acoustic songs on the Eldborg stage. The source explicitly lists multiple 11:00 and 12:00 performances across the month.",
         "genres": [
           "pop"
         ]

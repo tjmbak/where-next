@@ -2,30 +2,313 @@
   "slug": "los-angeles",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:09:47.792Z",
-  "responseId": "resp_01f1fd9e8a55cc7e0069ff5bf7f9d8819285e696765511af71",
-  "searchCalls": 14,
+  "generatedAt": "2026-10-13T02:51:21.804Z",
+  "responseId": "resp_04d8f22b79170cf7006acd9bfc3a9c87d0a1d4ec1c746ff6a9+resp_07d22cf0b10691ab006acd9c76860887d09e1deecd145a3346",
+  "searchCalls": 36,
   "citations": [],
   "data": {
     "destinationSlug": "los-angeles",
     "month": 12,
     "year": 2026,
-    "notes": "December 2026 is still lightly announced for Los Angeles, with confirmed listings currently led by arena-scale alt-pop and a few venue-booked touring concerts.",
+    "notes": "December 2026 in Los Angeles is already anchored by arena pop/R&B, regional Mexican concerts, and a strong warehouse/club calendar across house, techno, jungle, and disco.",
     "events": [
       {
-        "id": "los-angeles-the-neighbourhood-dec4-2026",
-        "title": "The Neighbourhood: THE WOURLD TOUR",
+        "id": "los-angeles-stevie-wonder-intuit-dome-2026",
+        "title": "Stevie Wonder",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 92,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule/4627?utm_campaign=IDevents26&utm_content=stevie_wonder_261219&utm_medium=IDwebsite&utm_source=eventschedule",
+        "ticketUrl": "https://www.livenation.com/event/vv1aaZkf0ONvvZeuG/stevie-wonder-songs-in-the-key-of-life-performances-50th-anniversary",
+        "summary": "Stevie Wonder plays Intuit Dome on December 19 at 8:00 PM. The venue's official event page confirms the date at the Inglewood arena.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-john-summit-coliseum-2026",
+        "title": "John Summit - CTRL Escape Tour",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 90,
+        "venueName": "Los Angeles Memorial Coliseum",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/john-summit-2026-12-12-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/john-summit-2026-12-12-los-angeles-ca/",
+        "summary": "John Summit headlines Los Angeles Memorial Coliseum on December 12 with his CTRL Escape Tour. Insomniac confirms the all-ages tech-house event with doors at 6:00 PM and show time at 7:30 PM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-kiis-jingle-ball-2026",
+        "title": "102.7 KIIS FM's Jingle Ball Presented by Capital One",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 88,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule/4658?utm_campaign=IDevents26&utm_content=jingle_ball_261204&utm_medium=IDwebsite&utm_source=eventschedule",
+        "ticketUrl": "https://www.ticketmaster.com/1027-kiis-fms-jingle-ball-presented-inglewood-california-12-04-2026/event/09006524E7B61513",
+        "summary": "KIIS FM's annual Jingle Ball lands at Intuit Dome on December 4. The confirmed event page lists the show for 7:30 PM at the Inglewood arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-tyla-apop-tour-2026",
+        "title": "TYLA - THE A*POP WORLD TOUR",
+        "type": "concert",
+        "startDate": "2026-12-16",
+        "endDate": "2026-12-16",
+        "importance": 85,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.youtubetheater.com/events/detail/tyla-1",
+        "ticketUrl": "https://www.youtubetheater.com/events/detail/tyla-1",
+        "summary": "Tyla brings THE A*POP WORLD TOUR to YouTube Theater on December 16. The venue confirms the 8:00 PM show and frames the tour around her South African-rooted global pop sound.",
+        "genres": [
+          "amapiano",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-victoria-monet-2026",
+        "title": "Victoria Monét - Frequency Of Love Tour",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 84,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.youtubetheater.com/events/detail/victoria-monet-1",
+        "ticketUrl": "https://www.youtubetheater.com/events/detail/victoria-monet-1",
+        "summary": "Victoria Monét brings the Frequency Of Love Tour to YouTube Theater on December 8. The venue confirms the 8:00 PM concert and describes Monét as a Grammy-winning R&B/pop artist.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-work-999999999-invites-2026",
+        "title": "WORK presents 999999999 Invites: 999999999, Annika Wolfe, Boston 168 [Live] & Kaiser",
+        "type": "club-night",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "importance": 84,
+        "venueName": "TBA - Los Angeles / WORK Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2556546",
+        "ticketUrl": "https://ra.co/events/2556546",
+        "summary": "A high-impact acid and industrial techno warehouse night from WORK with 999999999, Annika Wolfe, Boston 168 live, Kaiser and a light installation by Ausgang Studio.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-the-neighbourhood-kia-forum-2026",
+        "title": "The Neighbourhood",
         "type": "concert",
         "startDate": "2026-12-04",
         "endDate": "2026-12-04",
         "importance": 82,
         "venueName": "Kia Forum",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-inglewood-california-12-04-2026/event/09006443CD5C89D1",
-        "ticketUrl": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-inglewood-california-12-04-2026/event/09006443CD5C89D1",
-        "summary": "The Neighbourhood headline Kia Forum in Inglewood on the Los Angeles-area stop of THE WOURLD TOUR, with Nessa Barrett and Noise Dept listed on the Ticketmaster lineup.",
+        "sourceUrl": "https://www.axs.com/events/1345636/the-neighbourhood-tickets",
+        "ticketUrl": "https://www.axs.com/events/1345636/the-neighbourhood-tickets",
+        "summary": "The Southern California alt-pop band plays Kia Forum in Inglewood on December 4 at 7:00 PM. AXS lists the show as a confirmed event at the venue.",
         "genres": [
-          "pop"
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-thundercat-palladium-2026",
+        "title": "Thundercat: Distracted AF Tour",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 82,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/thundercat-distracted-af-tour-hollywood-california-12-05-2026/event/090064E88ABF42B0",
+        "ticketUrl": "https://www.ticketmaster.com/thundercat-distracted-af-tour-hollywood-california-12-05-2026/event/090064E88ABF42B0",
+        "summary": "Los Angeles bassist and producer Thundercat headlines the Hollywood Palladium on December 5. Ticketmaster lists the Distracted AF Tour date for 7:00 PM.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-metalheadz-incognito-2026",
+        "title": "INCOGNITO x Metalheadz: Goldie, Photek, DRS, Diverge",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 82,
+        "venueName": "TBA - Los Angeles (Warehouse)",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536179",
+        "ticketUrl": "https://ra.co/events/2536179",
+        "summary": "INCOGNITO and Metalheadz present a heavyweight drum & bass and jungle night with Goldie, Photek, DRS, and Diverge. Resident Advisor confirms the December 11 warehouse event in Los Angeles.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-earl-sweatshirt-mike-2026",
+        "title": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 82,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-hollywood-california-12-19-2026/event/09006466BA1DF6D7",
+        "ticketUrl": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-hollywood-california-12-19-2026/event/09006466BA1DF6D7",
+        "summary": "Earl Sweatshirt and MIKE bring the Home on the Range Tour to the Hollywood Palladium on December 19. Ticketmaster confirms the hip-hop bill at 7:00 PM.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-tunnel-5yr-2026",
+        "title": "TUNNEL 5YR: Special Guest (Berghain), ROZA Terenzi, DJ Warning & OZA",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 79,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2477620",
+        "ticketUrl": "https://ra.co/events/2477620",
+        "summary": "TUNNEL celebrates five years with a techno and house lineup including ROZA Terenzi, DJ Warning, OZA, and a special Berghain guest. Resident Advisor confirms the December 5 warehouse-style event in Los Angeles.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-rnb-only-live-2026",
+        "title": "R&B ONLY LIVE - Los Angeles",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 78,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://losangeles.rnbonly.com/",
+        "ticketUrl": "https://losangeles.rnbonly.com/",
+        "summary": "R&B ONLY LIVE takes over the Hollywood Palladium for a DJ-led night of classic and modern R&B. The official event page lists the Los Angeles edition for December 12 from 8:00 PM to 1:00 AM.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-los-gemelos-de-sinaloa-2026",
+        "title": "Los Gemelos de Sinaloa - The Gemeliza Tour",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 78,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.youtubetheater.com/news/detail/los-gemelos-de-sinaloa-llega-a-youtube-theater-el-12-de-diciembre-con-the-gemeliza-tour",
+        "ticketUrl": "https://www.youtubetheater.com/news/detail/los-gemelos-de-sinaloa-llega-a-youtube-theater-el-12-de-diciembre-con-the-gemeliza-tour",
+        "summary": "Los Gemelos de Sinaloa bring The Gemeliza Tour to YouTube Theater on December 12. The venue announcement notes the Paramount-born duo's return to touring and their role in the modern corridos wave.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-i-love-dnb-kings-rollers-2026",
+        "title": "I LOVE DNB: Kings of the Rollers",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 77,
+        "venueName": "The Beehive",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2524625",
+        "ticketUrl": "https://ra.co/events/2524625",
+        "summary": "I LOVE DNB takes over The Beehive’s 15,000-square-foot Depot warehouse with Kings of the Rollers, Turno, Sub Killaz, LMNOP and Maylay.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-work-harder-rebekah-2026",
+        "title": "WORK Harder presents: Rebekah All Night Long",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 76,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2550792",
+        "ticketUrl": "https://ra.co/events/2550792",
+        "summary": "WORK Harder hosts UK techno artist Rebekah for an all-night-long set at a TBA Los Angeles location. Resident Advisor lists the event for Friday, December 4 with RA tickets.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "los-angeles-alicia-villarreal-2026",
+        "title": "Alicia Villarreal - Bendita Locura Tour 2026",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 76,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.youtubetheater.com/events/detail/alicia-villarreal-4",
+        "ticketUrl": "https://www.youtubetheater.com/events/detail/alicia-villarreal-4",
+        "summary": "Alicia Villarreal brings her Bendita Locura Tour to YouTube Theater on December 5. The venue lists the show at 8:00 PM with tickets on sale.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-into-the-woods-dusky-2026",
+        "title": "Into The Woods presents Dusky",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 76,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2474812",
+        "ticketUrl": "https://ra.co/events/2474812",
+        "summary": "Into The Woods brings UK duo Dusky to a TBA Los Angeles location on December 12. Resident Advisor lists the event as a 21+ house and bass night.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-oden-fatzo-avalon-2026",
+        "title": "Avalon presents Oden & Fatzo",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 73,
+        "venueName": "Avalon Hollywood",
+        "venueId": null,
+        "sourceUrl": "https://avalonhollywood.com/event/oden-and-fatzo-nightclub-near-me-discover-avalon-hollywood-2026-december-5-best-night-club-near-me-hollywood-los-angeles/",
+        "ticketUrl": "https://avalonhollywood.com/event/oden-and-fatzo-nightclub-near-me-discover-avalon-hollywood-2026-december-5-best-night-club-near-me-hollywood-los-angeles/",
+        "summary": "Avalon Hollywood hosts French electronic act Oden & Fatzo on December 5 at 10:00 PM. The venue page confirms the 21+ event at 1735 Vine Street.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {

@@ -1,0 +1,102 @@
+{
+  "slug": "new-york",
+  "month": 9,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:27:01.378Z",
+  "responseId": "resp_047abff06b77a5ed006acdb29d73ac87d0af0b18c8d31d0bbf+resp_038decdecb4ef96a006acdb2ce4a9c87d08e0e20f323a3ec68",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 9,
+    "year": 2027,
+    "notes": "September 2027 is still lightly announced for New York; only a few solid, source-confirmed contemporary music events are on sale or listed this far out.",
+    "events": [
+      {
+        "id": "new-york-fontaines-dc-forest-hills-sep28-2027",
+        "title": "Fontaines D.C. with Iceage",
+        "type": "concert",
+        "startDate": "2027-09-28",
+        "endDate": "2027-09-28",
+        "importance": 82,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1631716/fontaines-dc-tickets",
+        "ticketUrl": "https://www.axs.com/events/1631716/fontaines-dc-tickets",
+        "summary": "Fontaines D.C. play Forest Hills Stadium on a Live Nation-presented bill with Iceage, with doors listed for 5:00 PM and show time at 6:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-fontaines-dc-forest-hills-sep29-2027",
+        "title": "Fontaines D.C. with Iceage",
+        "type": "concert",
+        "startDate": "2027-09-29",
+        "endDate": "2027-09-29",
+        "importance": 82,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1644736/fontaines-dc-tickets?staticDetails=staticDetails",
+        "ticketUrl": "https://www.axs.com/events/1644736/fontaines-dc-tickets?staticDetails=staticDetails",
+        "summary": "A second Forest Hills Stadium date for Fontaines D.C. with Iceage, also listed by AXS as a Live Nation-presented all-ages show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-beem-september-showcase-2027",
+        "title": "Brooklyn Experimental Electronic Music September Artist Showcase",
+        "type": "club-night",
+        "startDate": "2027-09-23",
+        "endDate": "2027-09-23",
+        "importance": 60,
+        "venueName": "Wonderville",
+        "venueId": null,
+        "sourceUrl": "https://www.wonderville.nyc/events/beem-9-23-26",
+        "ticketUrl": null,
+        "summary": "Wonderville’s Brooklyn Experimental Electronic Music showcase features local New York City artists working across electronic, techno, modular synth, Eurorack, and experimental live-performance formats.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-labor-day-hiphop-reggae-afrobeats-boat-2027",
+        "title": "NYC Labor Day Weekend Boat Party: Hip Hop, Reggae & Afrobeats",
+        "type": "club-night",
+        "startDate": "2027-09-03",
+        "endDate": "2027-09-04",
+        "importance": 60,
+        "venueName": "Pier 36",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/nyc-labor-day-weekend-boat-party-hip-hop-reggae-afrobeats-tickets-2001103466336",
+        "ticketUrl": "https://www.eventbrite.com/e/nyc-labor-day-weekend-boat-party-hip-hop-reggae-afrobeats-tickets-2001103466336",
+        "summary": "Labor Day weekend harbor cruise from Pier 36 advertised with hip-hop, reggae, dancehall, Afrobeats, R&B and party anthems across two boat levels.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-labor-day-hiphop-rb-reggaeton-afrobeats-boat-2027",
+        "title": "NYC Labor Day Weekend Boat Party: Hip Hop, R&B, Reggaeton & Afrobeats",
+        "type": "club-night",
+        "startDate": "2027-09-04",
+        "endDate": "2027-09-05",
+        "importance": 60,
+        "venueName": "Pier 36",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/nyc-labor-day-weekend-boat-party-hip-hop-rb-reggaeton-afrobeats-tickets-2001106347955",
+        "ticketUrl": "https://www.eventbrite.com/e/nyc-labor-day-weekend-boat-party-hip-hop-rb-reggaeton-afrobeats-tickets-2001106347955",
+        "summary": "Saturday Labor Day weekend NYC boat party from Pier 36 with a live DJ format centered on hip-hop, R&B, reggaeton, Afrobeats, dancehall and party records.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

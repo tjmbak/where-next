@@ -12,6 +12,8 @@ import type {
 } from "@/types/content";
 import APPROVED_EVENTS_RAW from "./generated/approved-events.slim.json";
 import { EVENT_BLUEPRINTS } from "./event-blueprints";
+import { EDITION_YEAR, SUPPORTED_YEARS } from "./taxonomy";
+import { isSearchResultsUrl } from "@/lib/research/event-identity";
 
 // The slim file is the public/runtime overlay (admin metadata stripped).
 // Admin tooling (`src/lib/research/draft-store.ts`) reads the full
@@ -19,6 +21,10 @@ import { EVENT_BLUEPRINTS } from "./event-blueprints";
 type ApprovedEventEntry = {
   slug: string;
   month: MonthNumber;
+  /** Corpus year. Absent on legacy entries → treated as the edition year. */
+  year?: number;
+  /** YYYY-MM-DD the research for this (slug, month) was approved. */
+  approvedOn?: string;
   events: Array<{
     id: string;
     title: string;
@@ -1108,32 +1114,42 @@ export const VENUES: Venue[] = [
 ];
 
 
-function eventDate(month: MonthNumber, day: number) {
-  return `2026-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+function eventDate(year: number, month: MonthNumber, day: number) {
+  return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
 }
 
-const STATIC_EVENTS: Event[] = Object.entries(EVENT_BLUEPRINTS).flatMap(([slug, blueprints]) => {
-  const destination = destinationBySlug.get(slug);
-  if (!destination) return [];
-  return blueprints.map((blueprint) => {
-    return {
-      id: blueprint.id,
-      destinationSlug: slug,
-      venueId: blueprint.venueId,
-      title: blueprint.title,
-      startDate: eventDate(blueprint.startMonth, blueprint.startDay),
-      endDate: blueprint.endMonth
-        ? eventDate(blueprint.endMonth, blueprint.endDay ?? blueprint.startDay)
-        : undefined,
-      type: blueprint.type,
-      genres: blueprint.genres ?? destination.genres.slice(0, 3),
-      importanceScore: blueprint.importance,
-      sourceUrl: blueprint.sourceUrl,
-      ticketUrl: blueprint.sourceUrl,
-      summary: blueprint.summary
-    };
+/**
+ * Expand the recurring blueprint backbone into concrete events for the
+ * edition year. Future years carry only researched, source-confirmed events —
+ * no year-shifted guesses — so a month with nothing announced reads as empty.
+ */
+function buildStaticEventsForYear(year: number): Event[] {
+  if (year !== EDITION_YEAR) return [];
+  const confirmed = true;
+  return Object.entries(EVENT_BLUEPRINTS).flatMap(([slug, blueprints]) => {
+    const destination = destinationBySlug.get(slug);
+    if (!destination) return [];
+    return blueprints.map((blueprint) => {
+      return {
+        id: blueprint.id,
+        destinationSlug: slug,
+        venueId: blueprint.venueId,
+        title: blueprint.title,
+        startDate: eventDate(year, blueprint.startMonth, blueprint.startDay),
+        endDate: blueprint.endMonth
+          ? eventDate(year, blueprint.endMonth, blueprint.endDay ?? blueprint.startDay)
+          : undefined,
+        type: blueprint.type,
+        genres: blueprint.genres ?? destination.genres.slice(0, 3),
+        importanceScore: blueprint.importance,
+        sourceUrl: blueprint.sourceUrl,
+        ticketUrl: blueprint.sourceUrl,
+        summary: blueprint.summary,
+        confirmed
+      } satisfies Event;
+    });
   });
-});
+}
 
 function eventSpannedMonths(event: Event): number[] {
   const start = /^(\d{4})-(\d{2})/.exec(event.startDate);
@@ -1160,14 +1176,31 @@ function eventSpannedMonths(event: Event): number[] {
  * least one month they span has no AI override (e.g. a year-round Bassiani
  * residency keeps showing in months where the AI batch returned 0 events).
  */
-function applyApprovedOverlay(base: Event[]): Event[] {
-  if (APPROVED_EVENTS.length === 0) return base;
+/** Search-results pages aren't a source — they can't verify a date or sell a ticket. */
+const CLASSICAL_PATTERN =
+  /\b(opera(?!\s+(house|bar|club))|operas|orchestra\w*|orquesta\w*|orchestre|philharmoni\w*|symphon\w*|sinf[oó]nic\w*|ballet|recital|choir|choral|coros|string quartet|quartett|chamber|concerto|conducts|requiem)\b/gi;
+
+/**
+ * Research occasionally backfills thin months with classical / opera listings.
+ * They carry no taxonomy genre (there is no "classical" genre), so require
+ * both: no real genre and a clear classical signal in the title, or a
+ * repeated one in the summary.
+ */
+function isOutOfScope(ev: { type: string; title: string; summary?: string | null; genres?: string[] | null }): boolean {
+  if (ev.type === "carnival") return false;
+  if ((ev.genres ?? []).some((genre) => genre !== "festival")) return false;
+  if (new RegExp(CLASSICAL_PATTERN.source, "i").test(ev.title)) return true;
+  return (ev.summary?.match(CLASSICAL_PATTERN)?.length ?? 0) >= 2;
+}
+
+function applyApprovedOverlay(base: Event[], overlayEntries: ApprovedEventEntry[]): Event[] {
+  if (overlayEntries.length === 0) return base;
 
   // Only override static seeds for a (slug, month) pair when AI actually
   // returned at least one event. If AI returned 0 events for a month, we
   // keep the curated static seeds as a graceful fallback.
   const overrideKeys = new Set(
-    APPROVED_EVENTS.filter((entry) => (entry.events?.length ?? 0) > 0).map(
+    overlayEntries.filter((entry) => entry.events?.some((ev) => !isOutOfScope(ev))).map(
       (entry) => `${entry.slug}:${entry.month}`
     )
   );
@@ -1187,10 +1220,14 @@ function applyApprovedOverlay(base: Event[]): Event[] {
   // longer span and higher importance; rewrite ids to keep React keys unique.
   const additionsByKey = new Map<string, Event>();
   const idCounts = new Map<string, number>();
-  for (const entry of APPROVED_EVENTS) {
+  for (const entry of overlayEntries) {
     const destination = destinationBySlug.get(entry.slug);
     if (!destination) continue;
     for (const ev of entry.events) {
+      if (isOutOfScope(ev)) continue;
+      const sourceUrl = isSearchResultsUrl(ev.sourceUrl) ? ev.ticketUrl : ev.sourceUrl;
+      const ticketUrl = ev.ticketUrl && !isSearchResultsUrl(ev.ticketUrl) ? ev.ticketUrl : sourceUrl;
+      if (!sourceUrl || isSearchResultsUrl(sourceUrl) || !ticketUrl) continue;
       const next: Event = {
         id: ev.id,
         destinationSlug: entry.slug,
@@ -1201,9 +1238,10 @@ function applyApprovedOverlay(base: Event[]): Event[] {
         type: ev.type,
         genres: ev.genres.length > 0 ? ev.genres : destination.genres.slice(0, 3),
         importanceScore: ev.importance,
-        sourceUrl: ev.sourceUrl,
-        ticketUrl: ev.ticketUrl ?? ev.sourceUrl,
-        summary: ev.summary
+        sourceUrl,
+        ticketUrl,
+        summary: ev.summary,
+        confirmed: true
       };
       const dedupKey = `${ev.id}@${ev.startDate}`;
       const existing = additionsByKey.get(dedupKey);
@@ -1238,10 +1276,97 @@ function applyApprovedOverlay(base: Event[]): Event[] {
     }
   }
 
-  return [...survivors, ...additions];
+  return dedupeNearDuplicates([...survivors, ...additions]);
 }
 
-export const EVENTS: Event[] = applyApprovedOverlay(STATIC_EVENTS);
+const HEADLINE_TYPES = new Set(["festival", "carnival", "conference", "season"]);
+
+function headlineWeight(event: Event): number {
+  return event.importanceScore + (HEADLINE_TYPES.has(event.type) ? 8 : 0);
+}
+
+function seasonalTitle(title: string): string {
+  return title
+    .replace(/\s*[-–—:]?\s*\b(19|20)\d{2}\b(\s*edition)?/gi, "")
+    .replace(/\s*\|\s*(early[- ]bird|tickets?|presale).*$/i, "")
+    .replace(/\s*[-–—]\s*(edition|wave|vol\.?|part)\s*\d+\s*$/i, "")
+    .replace(/\s{2,}/g, " ")
+    .replace(/[\s/|·:–—-]+$/, "")
+    .trim();
+}
+
+function titleKey(title: string): string {
+  return title
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\b(19|20)\d{2}\b/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+/**
+ * Research passes sometimes return the same night twice under slightly
+ * different names ("Time Warp Mexico" / "Time Warp Mexico 2026"). Same city +
+ * same start date + one title extending the other ⇒ one event; keep the
+ * richer record (higher importance, then longer summary).
+ */
+function dedupeNearDuplicates(events: Event[]): Event[] {
+  const byDay = new Map<string, Event[]>();
+  for (const event of events) {
+    const key = `${event.destinationSlug}@${event.startDate}`;
+    const bucket = byDay.get(key);
+    if (bucket) bucket.push(event);
+    else byDay.set(key, [event]);
+  }
+  const dropped = new Set<Event>();
+  for (const bucket of byDay.values()) {
+    if (bucket.length < 2) continue;
+    for (let i = 0; i < bucket.length; i++) {
+      for (let j = i + 1; j < bucket.length; j++) {
+        const a = bucket[i];
+        const b = bucket[j];
+        if (dropped.has(a) || dropped.has(b)) continue;
+        const ka = titleKey(a.title);
+        const kb = titleKey(b.title);
+        if (ka.length < 6 || kb.length < 6) continue;
+        const same = ka === kb || ka.startsWith(`${kb} `) || kb.startsWith(`${ka} `);
+        if (!same) continue;
+        const aWins =
+          a.importanceScore !== b.importanceScore
+            ? a.importanceScore > b.importanceScore
+            : (a.summary?.length ?? 0) >= (b.summary?.length ?? 0);
+        dropped.add(aWins ? b : a);
+      }
+    }
+  }
+  return dropped.size === 0 ? events : events.filter((event) => !dropped.has(event));
+}
+
+/** Approved overlay grouped by corpus year (legacy entries → edition year). */
+function overlayForYear(year: number): ApprovedEventEntry[] {
+  return APPROVED_EVENTS.filter((entry) => (entry.year ?? EDITION_YEAR) === year);
+}
+
+function buildEventsForYear(year: number): Event[] {
+  return applyApprovedOverlay(buildStaticEventsForYear(year), overlayForYear(year));
+}
+
+const eventsByYear = new Map<number, Event[]>();
+for (const year of SUPPORTED_YEARS) {
+  eventsByYear.set(year, buildEventsForYear(year));
+}
+
+/**
+ * The edition-year event corpus. Used for the seasonal scoring engine (which
+ * is year-agnostic) and as the back-compat default for callers that don't pass
+ * a year.
+ */
+export const EVENTS: Event[] = eventsByYear.get(EDITION_YEAR) ?? buildEventsForYear(EDITION_YEAR);
+
+export function getEventsForYear(year: number): Event[] {
+  return eventsByYear.get(year) ?? [];
+}
 
 export const CURATION_SOURCES: CurationSource[] = VENUES.map((venue) => ({
   id: `${venue.id}-source`,
@@ -1338,6 +1463,20 @@ for (const source of CURATION_SOURCES) {
   sourcesByDestination.set(source.destinationSlug, list);
 }
 
+const eventCountByDestination = new Map<string, number>();
+const sourceHostsByDestination = new Map<string, Set<string>>();
+for (const event of EVENTS) {
+  eventCountByDestination.set(event.destinationSlug, (eventCountByDestination.get(event.destinationSlug) ?? 0) + 1);
+  try {
+    const host = new URL(event.sourceUrl).hostname.replace(/^www\./, "");
+    const hosts = sourceHostsByDestination.get(event.destinationSlug) ?? new Set<string>();
+    hosts.add(host);
+    sourceHostsByDestination.set(event.destinationSlug, hosts);
+  } catch {
+    // unparseable source — skip
+  }
+}
+
 function dimensionScores(destination: Destination, month: MonthNumber) {
   const isPeak = destination.peakMonths.includes(month);
   const eventsThisMonth = EVENTS.filter(
@@ -1346,18 +1485,21 @@ function dimensionScores(destination: Destination, month: MonthNumber) {
   const venues = venuesByDestination.get(destination.slug) ?? [];
   const sources = sourcesByDestination.get(destination.slug) ?? [];
 
-  // 1) Signature events — top event importance, banded, with a small stack bonus.
+  // 1) Signature events — top event importance, banded, with a small stack
+  // bonus for other genuinely big nights. The bonus can't lift a band past
+  // the next one: a run of stadium dates must not tie a once-a-year moment.
   let signature: number;
   if (eventsThisMonth.length > 0) {
     const top = eventsThisMonth[0].importanceScore;
     let band: number;
-    if (top >= 94) band = 100;
-    else if (top >= 90) band = 92;
-    else if (top >= 85) band = 84;
-    else if (top >= 80) band = 76;
-    else band = 70;
-    const stackBonus = Math.min((eventsThisMonth.length - 1) * 3, 8);
-    signature = Math.min(100, band + stackBonus);
+    if (top >= 97) band = 100;
+    else if (top >= 94) band = 95;
+    else if (top >= 90) band = 88;
+    else if (top >= 85) band = 80;
+    else if (top >= 80) band = 72;
+    else band = 64;
+    const bigNights = eventsThisMonth.slice(1).filter((event) => event.importanceScore >= 85).length;
+    signature = Math.min(100, band + Math.min(bigNights * 2, 4));
   } else {
     signature = isPeak ? 65 : 50;
   }
@@ -1375,14 +1517,18 @@ function dimensionScores(destination: Destination, month: MonthNumber) {
     seasonality = 54;
   }
 
-  // 3) Venue density — curated venues plus an "in-month activity" proxy and peak boost.
+  // 3) Venue density — curated venues or, when the venue list is thin, the
+  // depth of the city's researched calendar, plus in-month activity and peak boost.
   const venueCount = venues.length;
-  let venueBase: number;
-  if (venueCount >= 4) venueBase = 92;
-  else if (venueCount === 3) venueBase = 84;
-  else if (venueCount === 2) venueBase = 76;
-  else if (venueCount === 1) venueBase = 68;
-  else venueBase = 55;
+  let curatedBase: number;
+  if (venueCount >= 4) curatedBase = 92;
+  else if (venueCount === 3) curatedBase = 84;
+  else if (venueCount === 2) curatedBase = 76;
+  else if (venueCount === 1) curatedBase = 68;
+  else curatedBase = 55;
+  const yearDepth = eventCountByDestination.get(destination.slug) ?? 0;
+  const depthBase = yearDepth >= 150 ? 92 : yearDepth >= 100 ? 84 : yearDepth >= 60 ? 76 : yearDepth >= 30 ? 68 : 55;
+  const venueBase = Math.max(curatedBase, depthBase);
   const monthEventBonus =
     eventsThisMonth.length >= 4
       ? 10
@@ -1413,7 +1559,7 @@ function dimensionScores(destination: Destination, month: MonthNumber) {
   else travelIntent = 56;
 
   // 5) Source confidence — strength of curated references for the destination.
-  const sourceCount = sources.length;
+  const sourceCount = Math.max(sources.length, Math.floor((sourceHostsByDestination.get(destination.slug)?.size ?? 0) / 5));
   let sourceConfidence: number;
   if (sourceCount >= 4) sourceConfidence = 96;
   else if (sourceCount === 3) sourceConfidence = 90;
@@ -1421,12 +1567,18 @@ function dimensionScores(destination: Destination, month: MonthNumber) {
   else if (sourceCount === 1) sourceConfidence = 78;
   else sourceConfidence = 60;
 
+  // 6) Calendar depth — how many confirmed things are actually on this month.
+  const monthCount = eventsThisMonth.length;
+  const calendarDepth =
+    monthCount >= 25 ? 100 : monthCount >= 15 ? 92 : monthCount >= 8 ? 82 : monthCount >= 4 ? 70 : monthCount >= 1 ? 60 : 50;
+
   return {
     signature,
     seasonality,
     venueDensity,
     travelIntent,
     sourceConfidence,
+    calendarDepth,
     eventsThisMonth,
     venues,
     sources,
@@ -1438,32 +1590,49 @@ export const MONTHLY_DESTINATION_SCORES: MonthlyDestinationScore[] = DESTINATION
   (destination) => {
     return destination.activeMonths.map((month) => {
       const dim = dimensionScores(destination, month);
-      const overallScore = Math.round(
-        dim.signature * 0.35 +
-          dim.seasonality * 0.25 +
-          dim.venueDensity * 0.2 +
+      const weighted = Math.round(
+        dim.signature * 0.3 +
+          dim.seasonality * 0.2 +
+          dim.calendarDepth * 0.15 +
+          dim.venueDensity * 0.15 +
           dim.travelIntent * 0.15 +
           dim.sourceConfidence * 0.05
       );
+      // "Peak" (90+) has to be earned by the calendar itself: a thin month
+      // only gets there on the back of a genuine once-a-year flagship.
+      const topImportance = dim.eventsThisMonth[0]?.importanceScore ?? 0;
+      const overallScore = dim.eventsThisMonth.length < 8 && topImportance < 97 ? Math.min(weighted, 89) : weighted;
 
       const topGenres = destination.genres.slice(0, 4);
       const genreScores = Object.fromEntries(
         topGenres.map((genre, index) => [genre, Math.max(58, overallScore - index * 6)])
       ) as Partial<Record<Genre, number>>;
 
-      const headlineEvent = dim.eventsThisMonth[0];
+      // Scores are seasonal (reused for every year), so copy may only name
+      // things that recur: no one-off concerts, no edition years in titles.
+      const recurringHeadline = dim.eventsThisMonth
+        .filter((event) => event.type !== "concert")
+        .reduce<(typeof dim.eventsThisMonth)[number] | undefined>(
+          (best, event) => (!best || headlineWeight(event) > headlineWeight(best) ? event : best),
+          undefined
+        );
+      const headlineTitle = recurringHeadline ? seasonalTitle(recurringHeadline.title) : null;
       const stackedCount = dim.eventsThisMonth.length;
 
       const editorialSummary = dim.isPeak
         ? PEAK_HOOKS[destination.slug] ??
           `${destination.city} is in one of its clearest music-travel months — programming, venues, and travel intent all peak together.`
-        : headlineEvent
-          ? `${destination.city} runs ${stackedCount} ${
-              stackedCount === 1 ? "anchor moment" : "anchor moments"
-            } this month, led by ${headlineEvent.title}.`
-          : `${destination.city} stays active with ${destination.genres
-              .slice(0, 2)
-              .join(" and ")} programming — best paired with flexible dates.`;
+        : headlineTitle
+          ? `${destination.city} stacks ${stackedCount} curated ${
+              stackedCount === 1 ? "moment" : "moments"
+            } this month, led by ${headlineTitle}.`
+          : stackedCount > 0
+            ? `${destination.city} stacks ${stackedCount} curated ${
+                stackedCount === 1 ? "show" : "shows"
+              } this month across ${destination.genres.slice(0, 2).join(" and ")}.`
+            : `${destination.city} stays active with ${destination.genres
+                .slice(0, 2)
+                .join(" and ")} programming — best paired with flexible dates.`;
 
       const whyNow: string[] = [];
       if (dim.isPeak) {
@@ -1471,8 +1640,8 @@ export const MONTHLY_DESTINATION_SCORES: MonthlyDestinationScore[] = DESTINATION
           PEAK_HOOKS[destination.slug] ??
             `${destination.city} hits its peak music-travel window this month.`
         );
-      } else if (headlineEvent) {
-        whyNow.push(`${headlineEvent.title} anchors ${destination.city} this month.`);
+      } else if (headlineTitle) {
+        whyNow.push(`${headlineTitle} anchors ${destination.city} this month.`);
       } else {
         whyNow.push(`${destination.city} stays credibly active for music travel.`);
       }
@@ -1607,21 +1776,6 @@ for (const score of MONTHLY_DESTINATION_SCORES) {
 }
 for (const list of scoresBySlug.values()) list.sort((a, b) => a.month - b.month);
 
-const eventsBySlug = new Map<string, Event[]>();
-for (const event of EVENTS) {
-  const list = eventsBySlug.get(event.destinationSlug);
-  if (list) list.push(event);
-  else eventsBySlug.set(event.destinationSlug, [event]);
-}
-for (const list of eventsBySlug.values()) {
-  list.sort((a, b) => {
-    const startDelta = a.startDate.localeCompare(b.startDate);
-    if (startDelta !== 0) return startDelta;
-    return b.importanceScore - a.importanceScore;
-  });
-}
-
-const eventsBySlugMonth = new Map<string, Event[]>();
 function eventCoversMonth(event: Event, month: MonthNumber) {
   const start = new Date(event.startDate);
   if (Number.isNaN(start.getTime())) return false;
@@ -1633,15 +1787,35 @@ function eventCoversMonth(event: Event, month: MonthNumber) {
   }
   return month >= startMonth || month <= endMonth;
 }
-for (const [slug, list] of eventsBySlug) {
-  for (let m = 1; m <= 12; m++) {
-    const month = m as MonthNumber;
-    const monthEvents = list
-      .filter((event) => eventCoversMonth(event, month))
-      .slice()
-      .sort((a, b) => b.importanceScore - a.importanceScore);
-    if (monthEvents.length > 0) {
-      eventsBySlugMonth.set(`${slug}:${month}`, monthEvents);
+
+// Year-keyed event indexes. `eventsBySlugYear` is date-sorted (whole year);
+// `eventsBySlugMonthYear` is importance-sorted per month. Keys: `slug:year`
+// and `slug:month:year`.
+const eventsBySlugYear = new Map<string, Event[]>();
+const eventsBySlugMonthYear = new Map<string, Event[]>();
+for (const [year, yearEvents] of eventsByYear) {
+  const bySlug = new Map<string, Event[]>();
+  for (const event of yearEvents) {
+    const list = bySlug.get(event.destinationSlug);
+    if (list) list.push(event);
+    else bySlug.set(event.destinationSlug, [event]);
+  }
+  for (const [slug, list] of bySlug) {
+    list.sort((a, b) => {
+      const startDelta = a.startDate.localeCompare(b.startDate);
+      if (startDelta !== 0) return startDelta;
+      return b.importanceScore - a.importanceScore;
+    });
+    eventsBySlugYear.set(`${slug}:${year}`, list);
+    for (let m = 1; m <= 12; m++) {
+      const month = m as MonthNumber;
+      const monthEvents = list
+        .filter((event) => eventCoversMonth(event, month))
+        .slice()
+        .sort((a, b) => b.importanceScore - a.importanceScore);
+      if (monthEvents.length > 0) {
+        eventsBySlugMonthYear.set(`${slug}:${month}:${year}`, monthEvents);
+      }
     }
   }
 }
@@ -1654,12 +1828,16 @@ export function getScoreForDestinationMonth(slug: string, month: MonthNumber) {
   return scoreByKey.get(`${slug}:${month}`);
 }
 
-export function getEventsForDestination(slug: string) {
-  return eventsBySlug.get(slug) ?? [];
+export function getEventsForDestination(slug: string, year: number = EDITION_YEAR) {
+  return eventsBySlugYear.get(`${slug}:${year}`) ?? [];
 }
 
-export function getEventsForDestinationInMonth(slug: string, month: MonthNumber) {
-  return eventsBySlugMonth.get(`${slug}:${month}`) ?? [];
+export function getEventsForDestinationInMonth(
+  slug: string,
+  month: MonthNumber,
+  year: number = EDITION_YEAR
+) {
+  return eventsBySlugMonthYear.get(`${slug}:${month}:${year}`) ?? [];
 }
 
 export type DestinationMonthSummary = {
@@ -1669,8 +1847,12 @@ export type DestinationMonthSummary = {
 
 const SHORT_MONTHS = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"] as const;
 
-export function getDestinationMonthSummary(slug: string, month: MonthNumber): DestinationMonthSummary {
-  const events = getEventsForDestinationInMonth(slug, month);
+export function getDestinationMonthSummary(
+  slug: string,
+  month: MonthNumber,
+  year: number = EDITION_YEAR
+): DestinationMonthSummary {
+  const events = getEventsForDestinationInMonth(slug, month, year);
   if (events.length === 0) {
     return { count: 0, spanLabel: null };
   }
@@ -1714,19 +1896,33 @@ export function getSourcesForDestination(slug: string) {
 }
 
 export function getLastEditedForDestination(slug: string): string | null {
-  const sources = getSourcesForDestination(slug);
-  if (sources.length === 0) return null;
-  return sources.reduce((latest, source) => {
-    if (!latest) return source.lastChecked;
-    return source.lastChecked > latest ? source.lastChecked : latest;
-  }, sources[0].lastChecked);
+  let latest: string | null = null;
+  for (const source of getSourcesForDestination(slug)) {
+    if (!latest || source.lastChecked > latest) latest = source.lastChecked;
+  }
+  for (const entry of APPROVED_EVENTS) {
+    if (entry.slug !== slug || !entry.approvedOn) continue;
+    if (!latest || entry.approvedOn > latest) latest = entry.approvedOn;
+  }
+  return latest;
 }
 
 const HIDDEN_GEM_DOMINANT_REGIONS = new Set<string>(["Europe", "North America"]);
 
-export function getTrendingSlugsForMonth(month: MonthNumber, limit = 3): Set<string> {
+export type Mover = {
+  destination: Destination;
+  score: MonthlyDestinationScore;
+  previousScore: number;
+  delta: number;
+};
+
+/**
+ * Destinations whose activity score jumped the most versus the previous month.
+ * Powers the "rising this month" rail and the card "trending" badge.
+ */
+export function getMoversForMonth(month: MonthNumber, limit = 6): Mover[] {
   const previousMonth = (month === 1 ? 12 : month - 1) as MonthNumber;
-  const candidates: Array<{ slug: string; delta: number }> = [];
+  const movers: Mover[] = [];
   for (const destination of DESTINATIONS) {
     const current = getScoreForDestinationMonth(destination.slug, month);
     const previous = getScoreForDestinationMonth(destination.slug, previousMonth);
@@ -1734,10 +1930,19 @@ export function getTrendingSlugsForMonth(month: MonthNumber, limit = 3): Set<str
     if (current.overallScore < 75) continue;
     const delta = current.overallScore - previous.overallScore;
     if (delta < 5) continue;
-    candidates.push({ slug: destination.slug, delta });
+    movers.push({
+      destination,
+      score: current,
+      previousScore: previous.overallScore,
+      delta
+    });
   }
-  candidates.sort((a, b) => b.delta - a.delta);
-  return new Set(candidates.slice(0, limit).map((c) => c.slug));
+  movers.sort((a, b) => b.delta - a.delta);
+  return movers.slice(0, limit);
+}
+
+export function getTrendingSlugsForMonth(month: MonthNumber, limit = 3): Set<string> {
+  return new Set(getMoversForMonth(month, limit).map((mover) => mover.destination.slug));
 }
 
 export function getHiddenGemSlugsForMonth(month: MonthNumber): Set<string> {
@@ -1762,11 +1967,15 @@ export function getMonthsInRange(anchor: MonthNumber, stayLength: number): Month
   return months;
 }
 
-export function getEventsForDestinationInRange(slug: string, months: MonthNumber[]) {
+export function getEventsForDestinationInRange(
+  slug: string,
+  months: MonthNumber[],
+  year: number = EDITION_YEAR
+) {
   const seen = new Set<string>();
   const collected: typeof EVENTS = [];
   for (const month of months) {
-    for (const event of getEventsForDestinationInMonth(slug, month)) {
+    for (const event of getEventsForDestinationInMonth(slug, month, year)) {
       if (seen.has(event.id)) continue;
       seen.add(event.id);
       collected.push(event);
@@ -1777,9 +1986,10 @@ export function getEventsForDestinationInRange(slug: string, months: MonthNumber
 
 export function getDestinationRangeSummary(
   slug: string,
-  months: MonthNumber[]
+  months: MonthNumber[],
+  year: number = EDITION_YEAR
 ): DestinationMonthSummary {
-  const events = getEventsForDestinationInRange(slug, months);
+  const events = getEventsForDestinationInRange(slug, months, year);
   if (events.length === 0) {
     return { count: 0, spanLabel: null };
   }

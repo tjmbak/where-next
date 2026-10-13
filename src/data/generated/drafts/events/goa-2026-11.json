@@ -2,15 +2,172 @@
   "slug": "goa",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:44:53.679Z",
-  "responseId": "resp_03e04f5c30bcdae4006a0099b107a0819097e7803f696eb363",
-  "searchCalls": 10,
+  "generatedAt": "2026-10-13T02:47:31.384Z",
+  "responseId": "resp_06cf8fd5da0b3884006acd9b1f1ad887d09ec4e159436bd1a7+resp_03afa35c518d423d006acd9b80d84c87d0830aa288e162afdb",
+  "searchCalls": 32,
   "citations": [],
   "data": {
     "destinationSlug": "goa",
     "month": 11,
     "year": 2026,
-    "notes": null,
-    "events": []
+    "notes": "November 2026 in Goa is led by early-season electronic and afro-house club programming, psytrance-adjacent open-air parties, and large lifestyle festivals with substantial music stages.",
+    "events": [
+      {
+        "id": "goa-royal-enfield-motoverse-2026",
+        "title": "Royal Enfield Motoverse 2026",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29",
+        "importance": 80,
+        "venueName": "HillTop, Vagator",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://auto.hindustantimes.com/auto/news/royal-enfield-motoverse-2026-to-be-held-november-27-29-farhan-akhtar-and-lifafa-among-artist-list-41788232415198.html",
+        "ticketUrl": "https://www.royalenfield.com/in/en/rides/events/motoverse/",
+        "summary": "Motoverse returns to HillTop, Vagator with live music as a major part of the three-day motorcycle-culture festival. First announced performers include Farhan Akhtar, Lifafa, Reble, Sanjith Hegde, MHR & Friends, The Think Floydian, Rushil, Mali, Suggahunny, Curtain Blue, Komorebi & Goya, OG SHEZ and Aksomaniac.",
+        "genres": [
+          "pop",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "goa-afro-indi-festival-2026",
+        "title": "Afro Indi Music Festival",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-02",
+        "importance": 78,
+        "venueName": "Masaya, Anjuna",
+        "venueId": null,
+        "sourceUrl": "https://www.district.in/events/afro-indi-music-festival-2026-buy-tickets",
+        "ticketUrl": "https://www.district.in/events/afro-indi-music-festival-2026-buy-tickets",
+        "summary": "Afro-house focused festival at Masaya headlined by Oskido, with Ashiva, BLOT, Darque, Diatonik, Houdini and Robotic also listed. The event is billed as an Africa-meets-India dance-floor concept in Goa.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-ochok-raeeth-2026",
+        "title": "OCHOK at Raeeth Goa",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "RAEETH Goa",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108924945-ochok-at-raeeth-goa",
+        "ticketUrl": null,
+        "summary": "Tour date from Paris-born, Hollywood-based DJ/producer OCHOK, noted for Afro House and indie-house sounds, landing at Raeeth Goa during his November India run.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-yara-open-air-2026",
+        "title": "Yara Live: Open-Air",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-02",
+        "importance": 70,
+        "venueName": "Ocean Pirates Cafe, Anjuna",
+        "venueId": null,
+        "sourceUrl": "https://idamoss.com/listing/yara-live-goa/",
+        "ticketUrl": "https://idamoss.com/listing/yara-live-goa/",
+        "summary": "A verified open-air psytrance event marking Yara’s India tour and 20-year milestone, with Karran Khanna and Gabba also announced. The listing runs 9:00 pm to 9:00 am at Ocean Pirates Cafe.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-nebut-drums-india-debut-2026",
+        "title": "India Debut 2026 ft. Nebut Drums",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "importance": 70,
+        "venueName": "Tikitii, Morjim",
+        "venueId": null,
+        "sourceUrl": "https://www.district.in/events/india-debut-2026-ftnebut-drums-nov13-2026-buy-tickets",
+        "ticketUrl": "https://www.district.in/events/india-debut-2026-ftnebut-drums-nov13-2026-buy-tickets",
+        "summary": "India debut for international live percussion act Nebut/Nebat Drums at Tikitii, framed as a high-energy rhythm-led electronic and house-adjacent performance with global percussion and dance-floor focus.",
+        "genres": [
+          "electronic",
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "goa-bassline-travellers-67-2026",
+        "title": "Bassline Travellers 67.0 Night To Sunrise",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-02",
+        "importance": 67,
+        "venueName": "House of Chapora",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/bassline-travellers-67-0-night-to-sunrise/ET00519702",
+        "ticketUrl": "https://in.bookmyshow.com/events/bassline-travellers-67-0-night-to-sunrise/ET00519702",
+        "summary": "Recurring Goa sunrise session at House of Chapora built around hypnotic techno and trance, running 10 PM to 7 AM with LED show and night-to-sunrise format.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-dj-chetas-unvrs-2026",
+        "title": "DJ Chetas Live at UNVRS Goa",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 64,
+        "venueName": "UNVRS Club, Vagator",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/109020458-dj-chetas-at-unvrs-club-vagator-goa-best-luxury-nightclub-bollywood-nights-and-vip-party-experience",
+        "ticketUrl": "https://in.bookmyshow.com/events/dj-chetas-live-at-unvrs-goa/ET00515434",
+        "summary": "DJ Chetas is listed for UNVRS Club Vagator on 14 November at 10:00 pm. BookMyShow bills the run as a Bollywood-commercial mashups and party-hits club experience.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-moon-festival-2026",
+        "title": "Moon Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29",
+        "importance": 62,
+        "venueName": "South Goa",
+        "venueId": null,
+        "sourceUrl": "https://moonfestival.in/tickets.html",
+        "ticketUrl": "https://moonfestival.in/tickets.html",
+        "summary": "A three-day South Goa gathering combining wellness, dance, movement, music, art and community. The ticket page lists 20+ musicians and includes performances, gigs and bands across the festival pass.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-daddy-festival-2026",
+        "title": "Goa Daddy Festival – Edition 2",
+        "type": "festival",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-22",
+        "importance": 66,
+        "venueName": "Baga, North Goa",
+        "venueId": null,
+        "sourceUrl": "https://itinerary.goadaddyfestival.com/",
+        "ticketUrl": "https://booking.goadaddyfestival.com/",
+        "summary": "A queer community festival in Baga with an all-inclusive resort format, a Signature Blackout Party with professional DJs and premium sound, a Splash Pool Party with high-energy DJ music, live music night, karaoke, and the Roots & Pride final-night celebration.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      }
+    ]
   }
 }

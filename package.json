@@ -8,7 +8,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "audit:events": "tsx --tsconfig tsconfig.json src/scripts/audit-events.ts",
+    "check:links": "tsx --tsconfig tsconfig.json src/scripts/check-links.ts",
+    "crawl": "tsx --tsconfig tsconfig.json src/scripts/crawl-site.ts",
+    "research:batch": "tsx --tsconfig tsconfig.json src/scripts/batch-research.ts",
+    "research:brands": "WN_FOCUS=brands WN_CAP=50 tsx --tsconfig tsconfig.json src/scripts/augment-scenes.ts"
   },
   "keywords": [
     "music travel",
@@ -48,6 +53,7 @@
     "eslint-config-next": "^16.2.4",
     "sharp": "^0.33.5",
     "tailwindcss": "^4.2.4",
+    "tsx": "^4.23.15",
     "typescript": "^6.0.3"
   }
 }

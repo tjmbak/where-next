@@ -2,9 +2,9 @@
   "slug": "detroit",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:32:43.620Z",
-  "responseId": "resp_071ddbd2c44eb01f0069ff614b7af081a188201f0fd1649021",
-  "searchCalls": 14,
+  "generatedAt": "2026-05-30T18:11:35.996Z",
+  "responseId": "augment:resp_0d548a658105802d006a1b28037e68819ab182f24c6014755c",
+  "searchCalls": 16,
   "citations": [],
   "data": {
     "destinationSlug": "detroit",
@@ -30,6 +30,134 @@
         ]
       },
       {
+        "id": "detroit-weezer-2026",
+        "title": "Weezer: The Gathering with The Shins & Silversun Pickups",
+        "type": "concert",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "importance": 84,
+        "venueName": "Little Caesars Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/weezer",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Weezer’s arena tour “Weezer: The Gathering” is confirmed at Little Caesars Arena on Wednesday, Sept. 23 at 7:00 PM. The Shins and Silversun Pickups are confirmed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-hayley-williams-2026",
+        "title": "The Hayley Williams Show with Magdalena Bay & Rico Nasty",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 83,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/news/detail/the-hayley-williams-show-live-in-the-americas-north-latin-america-tour-announced-including-pine-knob-music-theatre-saturday-september-19",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "The Hayley Williams Show is confirmed at Pine Knob Music Theatre on Saturday, Sept. 19 at 7:00 PM. Support is listed as Magdalena Bay and Rico Nasty.",
+        "genres": [
+          "pop",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "detroit-grey-day-suicideboys-2026",
+        "title": "$uicideboy$ — Grey Day Tour 2026",
+        "type": "concert",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 82,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/news/detail/suicideboys-announce-grey-day-tour-2026-the-indie-rap-titans-return-for-33-date-arena-amphitheatre-run-across-north-america-includes-pine-knob-music-theatre-september-15",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "$uicideboy$ bring the Grey Day Tour 2026 to Pine Knob Music Theatre on Tuesday, Sept. 15 at 6:30 PM. Support is confirmed as Destroy Lonely, Shakewell, DRAIN, Black Kray, and $lim Gucci.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "detroit-logic-g-eazy-2026",
+        "title": "Logic & G-Eazy — The Endless Summer Part II",
+        "type": "concert",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "importance": 80,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/logic-and-g-eazy",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Logic and G-Eazy’s co-headlining “The Endless Summer Part II” is confirmed for Pine Knob Music Theatre on Wednesday, Sept. 23 at 7:00 PM. Juicy J is listed as the special guest.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "detroit-babymetal-2026",
+        "title": "BABYMETAL with Halestorm & Violent Vira",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 78,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/babymetal",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "BABYMETAL’s World Tour 2026 is confirmed for Pine Knob Music Theatre on Friday, Sept. 18 at 7:20 PM. The official 313 Presents page lists Halestorm and Violent Vira as special guests.",
+        "genres": []
+      },
+      {
+        "id": "detroit-lily-allen-2026",
+        "title": "Lily Allen",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 76,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/venue/fox-theatre",
+        "ticketUrl": null,
+        "summary": "Lily Allen is confirmed at the Fox Theatre on Saturday, Sept. 12 at 8:00 PM. The date appears on 313 Presents’ official Fox Theatre event calendar.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-breaking-benjamin-2026",
+        "title": "Breaking Benjamin with Chevelle, Starset & Kami Kehoe",
+        "type": "concert",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 76,
+        "venueName": "Pine Knob Music Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/news/detail/breaking-benjamin-bring-2026-north-american-tour-with-special-guests-chevelle-starset-kami-kehoe-to-pine-knob-music-theatre-september-13",
+        "ticketUrl": "https://www.ticketmaster.com/",
+        "summary": "Breaking Benjamin’s 2026 North American tour is confirmed for Pine Knob Music Theatre on Sunday, Sept. 13 at 6:00 PM. Support is listed as Chevelle, Starset, and Kami Kehoe.",
+        "genres": []
+      },
+      {
+        "id": "detroit-channel-tres-2026",
+        "title": "Channel Tres - The Enigma Tour",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Majestic Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1425625/channel-tres-the-enigma-tour-tickets",
+        "ticketUrl": "https://www.axs.com/events/1425625/channel-tres-the-enigma-tour-tickets",
+        "summary": "AEG and Paxahau present Channel Tres with ZAINAB at The Majestic Theatre, a 1,000-cap Detroit stop bridging house, disco, hip-hop and electronic club sounds.",
+        "genres": [
+          "house",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
         "id": "detroit-arts-beats-eats-2026",
         "title": "Michigan Lottery Arts, Beats & Eats",
         "type": "festival",
@@ -43,6 +171,37 @@
         "summary": "The metro-Detroit Labor Day weekend festival is confirmed for Sept. 4-7 in downtown Royal Oak. The event bills more than 200 bands on nine stages alongside art and food programming.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "detroit-social-distortion-2026",
+        "title": "Social Distortion with Descendents & The Chats",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 74,
+        "venueName": "The Fillmore Detroit",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv1AFZkoKGkeYQFks/social-distortion",
+        "ticketUrl": "https://www.livenation.com/event/vv1AFZkoKGkeYQFks/social-distortion",
+        "summary": "Social Distortion is confirmed at The Fillmore Detroit on Thursday, Sept. 17 at 6:30 PM. Live Nation lists Descendents and The Chats on the bill.",
+        "genres": []
+      },
+      {
+        "id": "detroit-tinlicker-2026",
+        "title": "Tinlicker - North America 2026",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Saint Andrew's Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/tinlicker-north-america-2026-detroit-michigan-09-17-2026/event/080064882A6AC1E4",
+        "ticketUrl": "https://www.axs.com/events/1424167/tinlicker-tickets",
+        "summary": "Tinlicker’s North America 2026 tour stops at Saint Andrew’s Hall for a progressive-house and tech-house focused Detroit date.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -76,127 +235,37 @@
         ]
       },
       {
-        "id": "detroit-lily-allen-2026",
-        "title": "Lily Allen",
-        "type": "concert",
-        "startDate": "2026-09-12",
+        "id": "detroit-fred-v-waldo-2026",
+        "title": "Who The F%$K Is Waldo?! - Fred V",
+        "type": "club-night",
+        "startDate": "2026-09-11",
         "endDate": "2026-09-12",
-        "importance": 76,
-        "venueName": "Fox Theatre",
+        "importance": 68,
+        "venueName": "Magic Stick",
         "venueId": null,
-        "sourceUrl": "https://www.313presents.com/venue/fox-theatre",
+        "sourceUrl": "https://ra.co/events/2446372",
         "ticketUrl": null,
-        "summary": "Lily Allen is confirmed at the Fox Theatre on Saturday, Sept. 12 at 8:00 PM. The date appears on 313 Presents’ official Fox Theatre event calendar.",
+        "summary": "Eclipse presents a themed Magic Stick night with Fred V and Qlank on the main bass stage plus an Alley Deck house stage featuring Aramis and Disc Jockey George.",
         "genres": [
-          "pop"
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "detroit-breaking-benjamin-2026",
-        "title": "Breaking Benjamin with Chevelle, Starset & Kami Kehoe",
+        "id": "detroit-oskar-med-k-2026",
+        "title": "oskar med k",
         "type": "concert",
-        "startDate": "2026-09-13",
-        "endDate": "2026-09-13",
-        "importance": 76,
-        "venueName": "Pine Knob Music Theatre",
+        "startDate": "2026-09-11",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "The Majestic Theatre",
         "venueId": null,
-        "sourceUrl": "https://www.313presents.com/news/detail/breaking-benjamin-bring-2026-north-american-tour-with-special-guests-chevelle-starset-kami-kehoe-to-pine-knob-music-theatre-september-13",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "Breaking Benjamin’s 2026 North American tour is confirmed for Pine Knob Music Theatre on Sunday, Sept. 13 at 6:00 PM. Support is listed as Chevelle, Starset, and Kami Kehoe.",
-        "genres": []
-      },
-      {
-        "id": "detroit-grey-day-suicideboys-2026",
-        "title": "$uicideboy$ — Grey Day Tour 2026",
-        "type": "concert",
-        "startDate": "2026-09-15",
-        "endDate": "2026-09-15",
-        "importance": 82,
-        "venueName": "Pine Knob Music Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/news/detail/suicideboys-announce-grey-day-tour-2026-the-indie-rap-titans-return-for-33-date-arena-amphitheatre-run-across-north-america-includes-pine-knob-music-theatre-september-15",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "$uicideboy$ bring the Grey Day Tour 2026 to Pine Knob Music Theatre on Tuesday, Sept. 15 at 6:30 PM. Support is confirmed as Destroy Lonely, Shakewell, DRAIN, Black Kray, and $lim Gucci.",
+        "sourceUrl": "https://ra.co/events/2404746",
+        "ticketUrl": "https://www.axs.com/events/1374054",
+        "summary": "Norwegian producer oskar med k brings a deep-house/melodic-house club-ready set to The Majestic Theatre, promoted by AEG Presents Detroit.",
         "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "detroit-social-distortion-2026",
-        "title": "Social Distortion with Descendents & The Chats",
-        "type": "concert",
-        "startDate": "2026-09-17",
-        "endDate": "2026-09-17",
-        "importance": 74,
-        "venueName": "The Fillmore Detroit",
-        "venueId": null,
-        "sourceUrl": "https://www.livenation.com/event/vv1AFZkoKGkeYQFks/social-distortion",
-        "ticketUrl": "https://www.livenation.com/event/vv1AFZkoKGkeYQFks/social-distortion",
-        "summary": "Social Distortion is confirmed at The Fillmore Detroit on Thursday, Sept. 17 at 6:30 PM. Live Nation lists Descendents and The Chats on the bill.",
-        "genres": []
-      },
-      {
-        "id": "detroit-babymetal-2026",
-        "title": "BABYMETAL with Halestorm & Violent Vira",
-        "type": "concert",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-18",
-        "importance": 78,
-        "venueName": "Pine Knob Music Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/events/detail/babymetal",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "BABYMETAL’s World Tour 2026 is confirmed for Pine Knob Music Theatre on Friday, Sept. 18 at 7:20 PM. The official 313 Presents page lists Halestorm and Violent Vira as special guests.",
-        "genres": []
-      },
-      {
-        "id": "detroit-hayley-williams-2026",
-        "title": "The Hayley Williams Show with Magdalena Bay & Rico Nasty",
-        "type": "concert",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 83,
-        "venueName": "Pine Knob Music Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/news/detail/the-hayley-williams-show-live-in-the-americas-north-latin-america-tour-announced-including-pine-knob-music-theatre-saturday-september-19",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "The Hayley Williams Show is confirmed at Pine Knob Music Theatre on Saturday, Sept. 19 at 7:00 PM. Support is listed as Magdalena Bay and Rico Nasty.",
-        "genres": [
-          "pop",
-          "electronic",
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "detroit-weezer-2026",
-        "title": "Weezer: The Gathering with The Shins & Silversun Pickups",
-        "type": "concert",
-        "startDate": "2026-09-23",
-        "endDate": "2026-09-23",
-        "importance": 84,
-        "venueName": "Little Caesars Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/events/detail/weezer",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "Weezer’s arena tour “Weezer: The Gathering” is confirmed at Little Caesars Arena on Wednesday, Sept. 23 at 7:00 PM. The Shins and Silversun Pickups are confirmed as special guests.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "detroit-logic-g-eazy-2026",
-        "title": "Logic & G-Eazy — The Endless Summer Part II",
-        "type": "concert",
-        "startDate": "2026-09-23",
-        "endDate": "2026-09-23",
-        "importance": 80,
-        "venueName": "Pine Knob Music Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/events/detail/logic-and-g-eazy",
-        "ticketUrl": "https://www.ticketmaster.com/",
-        "summary": "Logic and G-Eazy’s co-headlining “The Endless Summer Part II” is confirmed for Pine Knob Music Theatre on Wednesday, Sept. 23 at 7:00 PM. Juicy J is listed as the special guest.",
-        "genres": [
-          "hip-hop"
+          "house",
+          "electronic"
         ]
       }
     ]

@@ -1,0 +1,47 @@
+{
+  "slug": "tokyo",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:30:31.282Z",
+  "responseId": "resp_012f24ea7d863063006acdb373ad5487d08ab9b7ab00b00aa8+resp_0fb448a54ce5b19c006acdb3aa032c87d0af6283cea25d524d",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 8,
+    "year": 2027,
+    "notes": "No qualifying underground/genre-scene Tokyo events for August 2027 were publicly confirmed on the searched listing and ticket platforms yet; results found were either 2026 listings, unconfirmed annual-date assumptions, or obvious mega-festivals.",
+    "events": [
+      {
+        "id": "tokyo-meminor-oneman-2027",
+        "title": "ミーマイナー 4th ONEMAN LIVE「最高純度の成れの果て」",
+        "type": "concert",
+        "startDate": "2027-08-10",
+        "endDate": "2027-08-10",
+        "importance": 65,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://eplus.jp/sf/detail/4349410001-P0030007P021001?P1=0817",
+        "ticketUrl": "https://eplus.jp/sf/detail/4349410001-P0030007P021001?P1=0817",
+        "summary": "ミーマイナー’s 4th one-man live is confirmed for Zepp DiverCity (TOKYO) on August 10, 2027, with doors at 18:00 and showtime at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-the-swiss-porno-2027",
+        "title": "the Swiss Porno",
+        "type": "concert",
+        "startDate": "2027-08-07",
+        "endDate": "2027-08-07",
+        "importance": 60,
+        "venueName": "Shibuya CLUB QUATTRO",
+        "venueId": null,
+        "sourceUrl": "https://eplus.jp/sf/detail/4575750001-P0030001P021001?P6=001",
+        "ticketUrl": "https://eplus.jp/sf/detail/4575750001-P0030001P021001?P6=001",
+        "summary": "Ticketing is open for the Swiss Porno at Shibuya CLUB QUATTRO on August 7, 2027, with doors at 17:30 and showtime at 18:30.",
+        "genres": []
+      }
+    ]
+  }
+}

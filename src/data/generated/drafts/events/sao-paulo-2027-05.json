@@ -1,0 +1,105 @@
+{
+  "slug": "sao-paulo",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:01:45.232Z",
+  "responseId": "resp_0b4279454ff81104006acdac6d2c5887d096a571c853ba64e4+resp_06c5aa0a31ec308c006acdacd8665887d0bc201795c4513a5f",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is already anchored by major electronic and multi-genre festivals, while most São Paulo club residencies and weekly underground parties are not yet announced this far out.",
+    "events": [
+      {
+        "id": "sao-paulo-tomorrowland-brasil-2027",
+        "title": "Tomorrowland Brasil 2027",
+        "type": "festival",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 98,
+        "venueName": "Parque Maeda",
+        "venueId": null,
+        "sourceUrl": "https://brasil.tomorrowland.com/pt/welcome/",
+        "ticketUrl": "https://brasil.tomorrowland.com/pt/welcome/",
+        "summary": "Tomorrowland Brasil returns to Parque Maeda in Itu, São Paulo, for a three-day edition themed “Consciencia.” The official page confirms the April 30–May 2, 2027 dates and Global Journey package sales.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "sao-paulo-c6-fest-2027",
+        "title": "C6 Fest 2027",
+        "type": "festival",
+        "startDate": "2027-05-20",
+        "endDate": "2027-05-23",
+        "importance": 90,
+        "venueName": "Parque Ibirapuera",
+        "venueId": null,
+        "sourceUrl": "https://cloud.mail.c6bank.com.br/c6fest",
+        "ticketUrl": null,
+        "summary": "C6 Fest’s official 2027 page confirms a May 20–23 edition at Parque Ibirapuera. The festival’s stated curatorial range spans jazz, electronic music, experimental rock and pop, though the full 2027 lineup is not yet posted on the official page.",
+        "genres": [
+          "jazz",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-so-track-boa-2027",
+        "title": "Só Track Boa 2027 São Paulo",
+        "type": "festival",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-29",
+        "importance": 88,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://wegoout.com.br/eventos/so-track-boa-sp",
+        "ticketUrl": null,
+        "summary": "Só Track Boa’s 2027 São Paulo edition is listed for May 28–29, 2027, with pre-sale registration through Ingresse and the 2027 venue/lineup still to be fully announced. The event is one of Brazil’s major electronic-music festival brands tied to Vintage Culture’s Só Track Boa platform.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "sao-paulo-criolo-no-na-orelha-2027",
+        "title": "Criolo — 15 anos de Nó na Orelha",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 78,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://suhaimusichall.com.br/evento/criolo/",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-criolo-sao-paulo",
+        "summary": "Criolo performs a special São Paulo concert celebrating 15 years of the album “Nó na Orelha.” The venue page confirms the May 8, 2027 date at Suhai Music Hall and describes the set as a faithful revisit of the album’s repertory.",
+        "genres": [
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-samba-sampa-2027",
+        "title": "Samba Sampa 2027 — 15 anos",
+        "type": "festival",
+        "startDate": "2027-05-08",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Sambódromo do Anhembi",
+        "venueId": null,
+        "sourceUrl": "https://www.ticket360.com.br/evento/33896/ingressos-para-samba-sampa-2027",
+        "ticketUrl": "https://www.ticket360.com.br/evento/33896/ingressos-para-samba-sampa-2027",
+        "summary": "The 15th-anniversary edition of Samba Sampa SP is billed as a large open-air celebration of samba and pagode at Anhembi, a strong local Black/Brazilian music gathering rather than an arena pop show.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

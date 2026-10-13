@@ -1,0 +1,307 @@
+{
+  "slug": "london",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:22:31.264Z",
+  "responseId": "resp_05cdaec154f14c79006acdb15b8de887d09db6ff982dc32194+resp_0bf239b9d12b6f9e006acdb1c3f4b087d0a7ef7db247af04a9",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 already has confirmed London stadium pop/Latin dates, a new Finsbury Park electronic festival, and a handful of open-air festival anchors, while most underground club calendars are not yet announced.",
+    "events": [
+      {
+        "id": "london-karol-g-tottenham-2027",
+        "title": "KAROL G — Viajando Por El Mundo Tropitour",
+        "type": "concert",
+        "startDate": "2027-07-06",
+        "endDate": "2027-07-06",
+        "importance": 92,
+        "venueName": "Tottenham Hotspur Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.tottenhamhotspurstadium.com/events/1021367/karol-g",
+        "ticketUrl": "https://www.tottenhamhotspurstadium.com/events/1021367/karol-g",
+        "summary": "KAROL G brings her Viajando Por El Mundo Tropitour to Tottenham Hotspur Stadium, listed by the venue as the tour’s only UK stop.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-embrace-ldn-2027",
+        "title": "Embrace LDN: Josh Baker b2b KETTAMA b2b Prospa",
+        "type": "festival",
+        "startDate": "2027-07-02",
+        "endDate": "2027-07-04",
+        "importance": 88,
+        "venueName": "Finsbury Park",
+        "venueId": null,
+        "sourceUrl": "https://embraceldn.co.uk/",
+        "ticketUrl": "https://www.ticketmaster.co.uk/embrace-ldn-tickets/artist/5757719",
+        "summary": "New three-day Finsbury Park electronic festival headlined across the weekend by Josh Baker b2b KETTAMA b2b Prospa, with more acts to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-noah-kahan-wembley-2027",
+        "title": "Noah Kahan — The Last of the Bugs World Tour",
+        "type": "concert",
+        "startDate": "2027-07-23",
+        "endDate": "2027-07-25",
+        "importance": 88,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2027/Noah-Kahan",
+        "ticketUrl": "https://www.noahkahan.com/pages/tour",
+        "summary": "Noah Kahan brings The Last of the Bugs World Tour to Wembley Stadium for three confirmed London dates from 23 to 25 July.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fontaines-dc-stadium-2027",
+        "title": "Fontaines D.C. with Little Simz and Viagra Boys",
+        "type": "concert",
+        "startDate": "2027-07-09",
+        "endDate": "2027-07-09",
+        "importance": 87,
+        "venueName": "London Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.london-stadium.com/news/2026/september/fontaines-d-c-summer-2027.html",
+        "ticketUrl": "https://www.livenation.co.uk/event/fontaines-d-c--london-tickets-edp1694663",
+        "summary": "Fontaines D.C. play London Stadium on their 2027 outdoor run, with support from Little Simz and Viagra Boys confirmed by the stadium and Live Nation.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-slipknot-wembley-2027",
+        "title": "Slipknot — (sic)est Stadium Tour",
+        "type": "concert",
+        "startDate": "2027-07-03",
+        "endDate": "2027-07-03",
+        "importance": 84,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2027/Slipknot",
+        "ticketUrl": "https://www.ticketmaster.co.uk/event/23006535DBD80E3B",
+        "summary": "Slipknot’s Wembley Stadium date is billed as the band’s only UK and European performance of the tour, with Marilyn Manson, Lorna Shore and Hatebreed listed as guests on ticketing pages.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-don-omar-o2-2027",
+        "title": "Don Omar — The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-07-05",
+        "endDate": "2027-07-05",
+        "importance": 83,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/don-omar",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/don-omar",
+        "summary": "Reggaeton pioneer Don Omar plays The O2 as part of its 20th birthday series, billed as a greatest-hits live show.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "london-rock-n-roll-circus-madness-2027",
+        "title": "Rock N Roll Circus London: Madness, Fat Freddy’s Drop, The Wailers and Hollie Cook",
+        "type": "festival",
+        "startDate": "2027-07-24",
+        "endDate": "2027-07-24",
+        "importance": 82,
+        "venueName": "Gunnersbury Park",
+        "venueId": null,
+        "sourceUrl": "https://www.rocknrollcircus.co.uk/london",
+        "ticketUrl": "https://www.axs.com/uk/events/1640708/madness-at-rock-n-roll-circus-tickets",
+        "summary": "Rock N Roll Circus’ inaugural London edition has confirmed Madness as the 24 July headliner, joined by Fat Freddy’s Drop, Big Special, The Wailers and Hollie Cook.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-alex-warren-crystal-palace-2027",
+        "title": "Alex Warren — Finding (More) Family On the Road",
+        "type": "concert",
+        "startDate": "2027-07-03",
+        "endDate": "2027-07-04",
+        "importance": 80,
+        "venueName": "Crystal Palace Park",
+        "venueId": null,
+        "sourceUrl": "https://www.alexwarrenofficial.com/tour",
+        "ticketUrl": "https://www.livenation.co.uk/event/alex-warren-finding-more-family-on-the-road-london-tickets-edp1700067",
+        "summary": "Alex Warren brings his outdoor summer tour to Crystal Palace Park Live for two London headline dates on 3 and 4 July.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-jorja-smith-o2-2027",
+        "title": "Jorja Smith — 10 Years of Jorja Smith: All the Hits",
+        "type": "concert",
+        "startDate": "2027-07-17",
+        "endDate": "2027-07-17",
+        "importance": 80,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jorja-smith",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/jorja-smith",
+        "summary": "Jorja Smith headlines The O2 for a 10-year hits show, confirmed by the venue as part of its 20th birthday line-up.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-kaleidoscope-festival-2027",
+        "title": "Kaleidoscope Festival",
+        "type": "festival",
+        "startDate": "2027-07-10",
+        "endDate": "2027-07-10",
+        "importance": 78,
+        "venueName": "Alexandra Palace Park",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival-2/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival-2/",
+        "summary": "Kaleidoscope Festival returns to Alexandra Palace Park on 10 July 2027; the venue notes that line-up announcements are still to come.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-frantic-30-2027",
+        "title": "Frantic 30",
+        "type": "club-night",
+        "startDate": "2027-07-17",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Studio 338",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/Studio-338/Frantic-30/42599568/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/Studio-338/Frantic-30/42599568/",
+        "summary": "Landmark 30th-anniversary Frantic takeover of Studio 338, billed as a three-room mini-festival-style celebration and the venue’s first hard house and trance event.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-hayley-williams-2027",
+        "title": "Hayley Williams — The Hayley Williams Show 2027",
+        "type": "concert",
+        "startDate": "2027-07-02",
+        "endDate": "2027-07-03",
+        "importance": 77,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/hayley-williams/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/hayley-williams/",
+        "summary": "Hayley Williams plays two Alexandra Palace dates, billed as music from across her three solo albums plus special surprises.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-made-in-90s-fest-2027",
+        "title": "Made In 90s Fest 2027",
+        "type": "festival",
+        "startDate": "2027-07-03",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "A Secret Location In South London",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/A-Secret-Location-In-South-London/Made-In-90s-Fest-2027/42693382/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/A-Secret-Location-In-South-London/Made-In-90s-Fest-2027/42693382/",
+        "summary": "Mature-audience 90s nostalgia festival/day party from the Made In 90s brand, centred on R&B, hip-hop, reggae, dancehall and old-school classics at a South London park location.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-de-beauvoir-jazz-festival-2027",
+        "title": "De Beauvoir Jazz Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-09",
+        "endDate": "2027-07-11",
+        "importance": 70,
+        "venueName": "De Beauvoir Town, Hackney & Islington",
+        "venueId": null,
+        "sourceUrl": "https://www.debeauvoirjazzfestival.co.uk/",
+        "ticketUrl": null,
+        "summary": "Neighbourhood jazz festival across De Beauvoir Town, Hackney and Islington, presenting UK, international and local jazz artists in intimate venues, streets and public spaces.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-dance-for-stevie-boat-party-2027",
+        "title": "Dance For Stevie Boat Party",
+        "type": "club-night",
+        "startDate": "2027-07-11",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "The Dutchmaster, Tower Millennium Pier",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/The-Dutchmaster---Tower-Millenium-Pier/Dance-For-Stevie-Boat-Party/42643430/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/The-Dutchmaster---Tower-Millenium-Pier/Dance-For-Stevie-Boat-Party/42643430/",
+        "summary": "Summer Thames cruise fundraiser with Bobby & Steve and guests across two decks, focusing on soulful house plus classic soul, funk and boogie.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "london-evgeny-kissin-recital-2027",
+        "title": "Evgeny Kissin in Recital",
+        "type": "concert",
+        "startDate": "2027-07-01",
+        "endDate": "2027-07-01",
+        "importance": 70,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/evgeny-kissin-in-recital",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/evgeny-kissin-in-recital",
+        "summary": "Pianist Evgeny Kissin returns to the Barbican Hall for a solo recital on Thursday 1 July 2027 at 19:30.",
+        "genres": []
+      },
+      {
+        "id": "london-bbc-so-tove-jansson-2027",
+        "title": "BBC SO Total Immersion: The World of Tove Jansson",
+        "type": "concert",
+        "startDate": "2027-07-03",
+        "endDate": "2027-07-03",
+        "importance": 68,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/bbc-so-total-immersion-the-world-of-tove-jansson-4",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/bbc-so-total-immersion-the-world-of-tove-jansson-4",
+        "summary": "Dalia Stasevska conducts the BBC Symphony Orchestra in the evening concert closing Barbican’s Total Immersion day devoted to Tove Jansson, with music inspired by her life and work.",
+        "genres": []
+      },
+      {
+        "id": "london-hamilton-loomis-2027",
+        "title": "Hamilton Loomis + guest acts",
+        "type": "concert",
+        "startDate": "2027-07-06",
+        "endDate": "2027-07-06",
+        "importance": 61,
+        "venueName": "100 Club",
+        "venueId": null,
+        "sourceUrl": "https://wegottickets.com/f/18959",
+        "ticketUrl": "https://wegottickets.com/f/18959",
+        "summary": "Texas blues-rock guitarist and singer Hamilton Loomis plays the 100 Club on Tuesday 6 July 2027, presented by Solid Entertainments with guest acts to be announced.",
+        "genres": []
+      }
+    ]
+  }
+}

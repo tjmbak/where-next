@@ -8,16 +8,21 @@
 }
 
 :root {
-  --background: #0a0a0a;
-  --surface: #111113;
-  --surface-2: #17171a;
-  --foreground: #ededeb;
-  --muted: #8a8a86;
-  --muted-2: #5d5d59;
-  --border: rgba(237, 237, 235, 0.08);
-  --border-strong: rgba(237, 237, 235, 0.16);
-  --accent: #f5f5f0;
-  --signal: #ff8b3d;
+  /* Warm cream + vibrant-orange theme.
+     Toasted-paper background, espresso-brown text, burnt-orange accent,
+     cocoa-brown secondary accent for editorial warmth. */
+  --background: #f9f5ee;
+  --surface: #fffdf9;
+  --surface-2: #f1ebe0;
+  --foreground: #2a1c12;
+  --muted: #6b5a47;
+  --muted-2: #9a8870;
+  --border: rgba(42, 28, 18, 0.10);
+  --border-strong: rgba(42, 28, 18, 0.18);
+  --accent: #8a4423;
+  --accent-soft: rgba(138, 68, 35, 0.12);
+  --signal: #e8590c;
+  --signal-soft: rgba(232, 89, 12, 0.12);
 }
 
 @layer base {
@@ -34,14 +39,15 @@
     min-height: 100vh;
     margin: 0;
     background:
-      radial-gradient(circle at 18% -10%, rgba(255, 139, 61, 0.06), transparent 38rem),
-      radial-gradient(circle at 90% 8%, rgba(237, 237, 235, 0.04), transparent 36rem),
+      radial-gradient(circle at 18% -10%, rgba(232, 89, 12, 0.07), transparent 38rem),
+      radial-gradient(circle at 90% 8%, rgba(138, 68, 35, 0.06), transparent 36rem),
       var(--background);
     color: var(--foreground);
     font-family: var(--font-sans);
+    font-weight: 400;
+    letter-spacing: -0.006em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    letter-spacing: -0.005em;
   }
 
   a {
@@ -61,39 +67,61 @@
     color: inherit;
   }
 
+  @media (max-width: 767px) {
+    body {
+      padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
+    }
+  }
+
   ::selection {
-    background: rgba(255, 139, 61, 0.25);
+    background: rgba(232, 89, 12, 0.22);
     color: var(--foreground);
   }
 }
 
+/* "font-mono" is the label voice: small tracked caps in the sans face with
+   tabular figures. Unlayered, so it intentionally overrides tracking-* utilities. */
 .font-mono {
-  font-family: var(--font-mono);
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.font-mono.uppercase {
+  letter-spacing: 0.07em;
 }
 
 .leaflet-container {
-  background: #0d0d10;
+  background: #efe5d2;
   font-family: var(--font-sans);
+}
+
+/* Warm the neutral-grey Esri canvas tiles toward the cream palette so the
+   map shares the page's temperature. Labels live in their own pane and keep
+   their own filter, so this only touches the base map. */
+.leaflet-tile-pane {
+  filter: sepia(0.3) saturate(0.85) hue-rotate(-6deg) brightness(1.08) contrast(0.9);
 }
 
 .leaflet-control-zoom a,
 .leaflet-control-zoom a:hover {
-  background: rgba(20, 20, 22, 0.92) !important;
+  background: rgba(251, 248, 240, 0.94) !important;
   color: var(--foreground) !important;
   border-color: var(--border-strong) !important;
   backdrop-filter: blur(8px);
 }
 
 .leaflet-popup-content-wrapper {
-  background: rgba(17, 17, 19, 0.96) !important;
+  background: rgba(251, 248, 240, 0.98) !important;
   color: var(--foreground) !important;
   border: 1px solid var(--border-strong);
   border-radius: 14px !important;
-  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 24px 60px rgba(28, 22, 18, 0.18);
 }
 
 .leaflet-popup-tip {
-  background: rgba(17, 17, 19, 0.96) !important;
+  background: rgba(251, 248, 240, 0.98) !important;
   border: 1px solid var(--border-strong);
 }
 
@@ -103,7 +131,7 @@
 }
 
 .leaflet-tooltip {
-  background: rgba(17, 17, 19, 0.95) !important;
+  background: rgba(251, 248, 240, 0.96) !important;
   color: var(--foreground) !important;
   border: 1px solid var(--border-strong) !important;
   border-radius: 8px !important;
@@ -111,21 +139,21 @@
   font-size: 11px !important;
   letter-spacing: 0.02em;
   padding: 4px 8px !important;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 12px 30px rgba(28, 22, 18, 0.15);
 }
 
 .leaflet-tooltip-top:before {
-  border-top-color: rgba(17, 17, 19, 0.95) !important;
+  border-top-color: rgba(251, 248, 240, 0.96) !important;
 }
 
 .leaflet-bar a {
-  background: rgba(20, 20, 22, 0.92);
+  background: rgba(251, 248, 240, 0.94);
   color: var(--foreground);
   border-bottom: 1px solid var(--border) !important;
 }
 
 .leaflet-control-attribution {
-  background: rgba(10, 10, 10, 0.8) !important;
+  background: rgba(250, 246, 236, 0.85) !important;
   color: var(--muted) !important;
   font-family: var(--font-mono);
   font-size: 10px !important;
@@ -184,18 +212,18 @@
 @keyframes wn-swap-pulse {
   0% {
     box-shadow:
-      0 0 0 0 rgba(255, 139, 61, 0.55),
-      0 0 0 0 rgba(255, 139, 61, 0.2);
+      0 0 0 0 rgba(232, 89, 12, 0.55),
+      0 0 0 0 rgba(232, 89, 12, 0.2);
   }
   60% {
     box-shadow:
-      0 0 0 10px rgba(255, 139, 61, 0),
-      0 0 0 22px rgba(255, 139, 61, 0);
+      0 0 0 10px rgba(232, 89, 12, 0),
+      0 0 0 22px rgba(232, 89, 12, 0);
   }
   100% {
     box-shadow:
-      0 0 0 10px rgba(255, 139, 61, 0),
-      0 0 0 22px rgba(255, 139, 61, 0);
+      0 0 0 10px rgba(232, 89, 12, 0),
+      0 0 0 22px rgba(232, 89, 12, 0);
   }
 }
 
@@ -276,8 +304,8 @@
   margin: -7px 0 0 -7px;
   border-radius: 50%;
   background: var(--color);
-  opacity: 0.55;
-  animation: wn-pulse 2.6s cubic-bezier(0.4, 0, 0.5, 1) infinite;
+  opacity: 0.3;
+  animation: wn-pulse 2.8s cubic-bezier(0.4, 0, 0.5, 1) infinite;
   pointer-events: none;
 }
 
@@ -292,10 +320,10 @@
 @keyframes wn-pulse {
   0% {
     transform: scale(0.4);
-    opacity: 0.6;
+    opacity: 0.32;
   }
   100% {
-    transform: scale(3.6);
+    transform: scale(2.6);
     opacity: 0;
   }
 }
@@ -309,11 +337,10 @@
   margin: -4.5px 0 0 -4.5px;
   border-radius: 50%;
   background: var(--color);
-  border: 1.5px solid rgba(8, 8, 10, 0.92);
+  border: 1.5px solid rgba(251, 248, 240, 0.95);
   box-shadow:
-    0 0 0 1px var(--color),
-    0 0 14px var(--color),
-    0 0 4px var(--color);
+    0 0 0 1px rgba(232, 89, 12, 0.35),
+    0 1px 3px rgba(42, 28, 18, 0.25);
   cursor: pointer;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
@@ -325,20 +352,18 @@
 }
 
 .wn-marker-wrap.selected .wn-dot {
-  background: #ffffff;
+  background: #2a1c12;
   border-width: 2px;
   box-shadow:
     0 0 0 2px var(--color),
-    0 0 26px var(--color),
-    0 0 10px var(--color);
+    0 2px 6px rgba(42, 28, 18, 0.3);
 }
 
 .wn-marker-wrap:hover .wn-dot {
   transform: scale(1.25);
   box-shadow:
     0 0 0 2px var(--color),
-    0 0 22px var(--color),
-    0 0 6px var(--color);
+    0 2px 5px rgba(42, 28, 18, 0.28);
 }
 
 .wn-marker-wrap .wn-label {
@@ -351,9 +376,9 @@
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.18em;
-  color: rgba(237, 237, 235, 0.92);
-  background: rgba(8, 8, 10, 0.78);
-  border: 1px solid rgba(237, 237, 235, 0.1);
+  color: rgba(28, 22, 18, 0.92);
+  background: rgba(251, 248, 240, 0.88);
+  border: 1px solid rgba(28, 22, 18, 0.12);
   border-radius: 3px;
   padding: 2px 6px;
   white-space: nowrap;
@@ -381,8 +406,8 @@
   font-weight: 600;
   color: var(--color);
   text-shadow:
-    0 0 6px rgba(0, 0, 0, 0.85),
-    0 0 1px rgba(0, 0, 0, 0.95);
+    0 0 6px rgba(250, 246, 236, 0.9),
+    0 0 1px rgba(250, 246, 236, 1);
   pointer-events: none;
   opacity: 0;
   transition: opacity 0.2s ease;
@@ -408,13 +433,13 @@
   background: linear-gradient(
     180deg,
     transparent 0%,
-    rgba(255, 139, 61, 0.05) 30%,
-    rgba(255, 139, 61, 0.12) 50%,
-    rgba(255, 139, 61, 0.05) 70%,
+    rgba(138, 68, 35, 0.03) 30%,
+    rgba(138, 68, 35, 0.06) 50%,
+    rgba(138, 68, 35, 0.03) 70%,
     transparent 100%
   );
   animation: wn-scan-anim 8s linear infinite;
-  mix-blend-mode: screen;
+  mix-blend-mode: multiply;
 }
 
 @keyframes wn-scan-anim {
@@ -439,8 +464,8 @@
   inset: 0;
   background: radial-gradient(
     ellipse at center,
-    transparent 50%,
-    rgba(0, 0, 0, 0.35) 100%
+    transparent 55%,
+    rgba(28, 22, 18, 0.15) 100%
   );
 }
 
@@ -464,7 +489,7 @@
    ==================================================================== */
 
 .leaflet-wn-labels-pane img {
-  filter: brightness(0.85) contrast(0.78) saturate(0.25);
+  filter: brightness(1.05) contrast(0.82) saturate(0.45);
 }
 
 /* ====================================================================
@@ -477,7 +502,7 @@
 }
 
 .wn-cluster-wrap {
-  --color: #ff8b3d;
+  --color: #e8590c;
   --size: 30px;
   position: relative;
   width: var(--size);
@@ -490,8 +515,8 @@
   inset: 0;
   border-radius: 50%;
   background: var(--color);
-  opacity: 0.4;
-  animation: wn-cluster-pulse 2.4s cubic-bezier(0.4, 0, 0.5, 1) infinite;
+  opacity: 0.22;
+  animation: wn-cluster-pulse 2.6s cubic-bezier(0.4, 0, 0.5, 1) infinite;
   pointer-events: none;
 }
 
@@ -502,10 +527,10 @@
 @keyframes wn-cluster-pulse {
   0% {
     transform: scale(0.7);
-    opacity: 0.45;
+    opacity: 0.26;
   }
   100% {
-    transform: scale(2.4);
+    transform: scale(2.1);
     opacity: 0;
   }
 }
@@ -519,14 +544,13 @@
   font-family: var(--font-mono);
   font-size: 11px;
   font-weight: 600;
-  color: rgba(8, 8, 10, 0.95);
+  color: rgba(251, 248, 240, 0.98);
   background: var(--color);
-  border: 1.5px solid rgba(8, 8, 10, 0.95);
+  border: 1.5px solid rgba(251, 248, 240, 0.95);
   border-radius: 50%;
   box-shadow:
-    0 0 0 1px var(--color),
-    0 0 18px var(--color),
-    0 0 5px var(--color);
+    0 0 0 1px rgba(232, 89, 12, 0.3),
+    0 2px 6px rgba(42, 28, 18, 0.28);
   cursor: pointer;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
   letter-spacing: 0.02em;
@@ -534,19 +558,18 @@
 
 .wn-cluster-wrap.hot .wn-cluster-dot,
 .wn-cluster-wrap.peak .wn-cluster-dot {
-  color: rgba(8, 8, 10, 0.95);
+  color: rgba(251, 248, 240, 0.98);
 }
 
 .wn-cluster-wrap.warm .wn-cluster-dot {
-  color: rgba(8, 8, 10, 0.92);
+  color: rgba(28, 22, 18, 0.92);
 }
 
 .wn-cluster-wrap:hover .wn-cluster-dot {
   transform: scale(1.1);
   box-shadow:
     0 0 0 2px var(--color),
-    0 0 26px var(--color),
-    0 0 8px var(--color);
+    0 2px 6px rgba(42, 28, 18, 0.3);
 }
 
 .wn-cluster-wrap.warm .wn-cluster-pulse {
@@ -592,6 +615,138 @@
   background: var(--muted);
 }
 
+.wn-swipe {
+  scrollbar-width: none;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.wn-swipe::-webkit-scrollbar {
+  display: none;
+}
+
+/* ====================================================================
+   World map — dotted land, glows sized by score, labeled cities.
+   ==================================================================== */
+.wn-worldmap {
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 6%, #000 94%, transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 6%, #000 94%, transparent 100%);
+}
+
+.wn-worldmap-glow {
+  transition: r 600ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.wn-worldmap-city,
+.wn-worldmap-label {
+  animation: wn-map-in 520ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.wn-worldmap-pulse {
+  opacity: 0;
+  animation: wn-map-pulse 2.8s ease-out infinite;
+}
+
+@keyframes wn-map-in {
+  from {
+    opacity: 0;
+    filter: blur(2px);
+  }
+  to {
+    opacity: 1;
+    filter: none;
+  }
+}
+
+@keyframes wn-map-pulse {
+  0% {
+    transform: scale(0.4);
+    opacity: 0.45;
+  }
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wn-worldmap-city,
+  .wn-worldmap-label,
+  .wn-worldmap-pulse {
+    animation: none;
+  }
+}
+
+/* ====================================================================
+   Liquid glass — nav surfaces and the lens that slides between tabs.
+   ==================================================================== */
+.wn-glass {
+  background: linear-gradient(180deg, rgba(255, 253, 249, 0.74), rgba(249, 245, 238, 0.6));
+  -webkit-backdrop-filter: blur(22px) saturate(180%);
+  backdrop-filter: blur(22px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    inset 0 -1px 0 rgba(28, 22, 18, 0.04),
+    0 1px 2px rgba(28, 22, 18, 0.05),
+    0 12px 32px -16px rgba(28, 22, 18, 0.28);
+}
+
+.wn-glass-dark {
+  background: linear-gradient(180deg, rgba(20, 16, 12, 0.4), rgba(20, 16, 12, 0.26));
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    0 12px 32px -16px rgba(0, 0, 0, 0.55);
+}
+
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .wn-glass {
+    background: var(--surface);
+  }
+  .wn-glass-dark {
+    background: rgba(20, 16, 12, 0.72);
+  }
+}
+
+.wn-lens {
+  background: linear-gradient(180deg, #fff, rgba(255, 255, 255, 0.9));
+  box-shadow:
+    inset 0 0 0 0.5px rgba(28, 22, 18, 0.08),
+    inset 0 1px 0 #fff,
+    0 1px 2px rgba(28, 22, 18, 0.08),
+    0 6px 16px -6px rgba(28, 22, 18, 0.28);
+  transition:
+    left 520ms cubic-bezier(0.34, 1.36, 0.64, 1),
+    width 380ms cubic-bezier(0.34, 1.36, 0.64, 1),
+    transform 520ms cubic-bezier(0.34, 1.36, 0.64, 1),
+    opacity 220ms ease;
+}
+
+.wn-lens-hover {
+  transition:
+    left 420ms cubic-bezier(0.34, 1.3, 0.64, 1),
+    width 320ms cubic-bezier(0.34, 1.3, 0.64, 1),
+    opacity 200ms ease;
+}
+
+.wn-lens[data-still] {
+  transition: none;
+}
+
+.wn-lens-hover[data-still] {
+  transition: opacity 220ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wn-lens,
+  .wn-lens-hover {
+    transition: opacity 150ms ease;
+  }
+}
+
 /* ====================================================================
    Magazine layout — drop cap, timeline rail, editorial flourishes
    ==================================================================== */
@@ -603,8 +758,8 @@
   font-family: var(--font-sans);
   margin-right: 0.18em;
   margin-top: 0.04em;
-  color: var(--foreground);
-  background: linear-gradient(180deg, var(--foreground) 0%, var(--muted) 110%);
+  color: var(--accent);
+  background: linear-gradient(180deg, var(--accent) 0%, var(--signal) 120%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -656,4 +811,80 @@
     0 0 0 4px var(--background),
     0 0 0 5px var(--signal),
     0 0 16px var(--signal);
+}
+
+/* --- toast --- */
+@keyframes wn-toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.wn-toast-in {
+  animation: wn-toast-in 0.22s ease-out both;
+}
+
+/* --- slow drift (emotion layer): applied to hero stills so photography
+       breathes instead of sitting frozen. Motion-sensitive users get the
+       static image. --- */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes wn-kenburns {
+    from {
+      transform: scale(1) translate3d(0, 0, 0);
+    }
+    to {
+      transform: scale(1.08) translate3d(1.5%, -1.2%, 0);
+    }
+  }
+
+  .wn-kenburns {
+    animation: wn-kenburns 18s ease-out both;
+    will-change: transform;
+  }
+
+  @keyframes wn-slow-zoom {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.05);
+    }
+  }
+
+  .wn-slow-zoom {
+    animation: wn-slow-zoom 22s ease-out both;
+    will-change: transform;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wn-toast-in {
+    animation: none;
+  }
+}
+
+.wn-skeleton {
+  background: linear-gradient(90deg, var(--surface-2) 0%, var(--surface) 50%, var(--surface-2) 100%);
+  background-size: 200% 100%;
+  animation: wn-shimmer 1.4s ease-in-out infinite;
+}
+
+@keyframes wn-shimmer {
+  from {
+    background-position: 100% 0;
+  }
+  to {
+    background-position: -100% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wn-skeleton {
+    animation: none;
+  }
 }

@@ -20,9 +20,9 @@ export function ItineraryLoadingState({ destination, durationDays }: ItineraryLo
           className="absolute inset-x-0 h-20"
           style={{
             background:
-              "linear-gradient(180deg, transparent 0%, rgba(255,139,61,0.04) 30%, rgba(255,139,61,0.18) 50%, rgba(255,139,61,0.04) 70%, transparent 100%)",
+              "linear-gradient(180deg, transparent 0%, rgba(232,89,12,0.04) 30%, rgba(232,89,12,0.16) 50%, rgba(232,89,12,0.04) 70%, transparent 100%)",
             animation: "wn-scan-anim 2.6s cubic-bezier(0.4, 0, 0.4, 1) infinite",
-            mixBlendMode: "screen"
+            mixBlendMode: "multiply"
           }}
         />
       </div>

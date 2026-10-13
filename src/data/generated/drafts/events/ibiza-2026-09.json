@@ -2,15 +2,15 @@
   "slug": "ibiza",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:46:04.122Z",
-  "responseId": "resp_07643fd17c3f611b0069ff56380b9081a2917bb94d1cc23158",
+  "generatedAt": "2026-05-30T18:15:54.023Z",
+  "responseId": "augment:resp_0c77b1373cfe28c2006a1b28e112c4819893a9a5f2e01256ee",
   "searchCalls": 14,
   "citations": [],
   "data": {
     "destinationSlug": "ibiza",
     "month": 9,
     "year": 2026,
-    "notes": null,
+    "notes": "Confirmed September 2026 finds skew toward established Ibiza residencies and touring party brands; no clearly verified AmapianoLand/Afro Nation-style Ibiza weekender was found for this month.",
     "events": [
       {
         "id": "ibiza-circoloco-dc10-sep-2026",
@@ -219,6 +219,149 @@
         "ticketUrl": "https://www.amnesia.es/en/party-info/godskitchen",
         "summary": "Godskitchen returns to Amnesia Ibiza on Saturday, September 26, during the club’s 50th-anniversary year. The official lineup lists Ferry Corsten, John O’Callaghan, Lisa Lashes, Paul van Dyk, Tall Paul and others across the Discotheque and Terrace.",
         "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-black-coffee-2026",
+        "title": "Black Coffee at Hï Ibiza",
+        "type": "residency",
+        "startDate": "2026-09-26",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Hï Ibiza",
+        "venueId": "hi-ibiza",
+        "sourceUrl": "https://ra.co/events/2366886",
+        "ticketUrl": null,
+        "summary": "Black Coffee’s flagship Saturday residency anchors Afro house on the island, with Marco Carola and AMÉMÉ listed in the Theatre and Skepta’s Más Tiempo in the Club Room.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-circoloco-2026",
+        "title": "Circoloco at DC-10",
+        "type": "club-night",
+        "startDate": "2026-09-21",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "DC-10",
+        "venueId": "dc10",
+        "sourceUrl": "https://nexoibiza.com/ibiza/club-nights/circoloco-at-dc-10-2026-09-21",
+        "ticketUrl": null,
+        "summary": "A Monday DC-10 institution and one of Ibiza’s defining underground house-and-techno gatherings, confirmed in September with the raw, no-frills Circoloco format.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-major-league-djz-2026",
+        "title": "Major League Djz presents Echoes of Tomorrow",
+        "type": "residency",
+        "startDate": "2026-09-04",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Chinois Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433742",
+        "ticketUrl": null,
+        "summary": "Major League Djz bring African electronic music into a Friday Chinois residency, with Bun Xapa, Coco & Breezy and AMŌUN:KA on a bill rooted in Afro house and future-facing diaspora club sounds.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-resistance-amnesia-2026",
+        "title": "RESISTANCE Ibiza at Amnesia",
+        "type": "residency",
+        "startDate": "2026-09-02",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2384276",
+        "ticketUrl": null,
+        "summary": "Adam Beyer’s RESISTANCE season at Amnesia brings large-room techno with Eric Prydz and Innellea listed for this September date.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-pyramid-amnesia-2026",
+        "title": "Pyramid at Amnesia Ibiza",
+        "type": "residency",
+        "startDate": "2026-09-13",
+        "endDate": null,
+        "importance": 81,
+        "venueName": "Amnesia Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2384240",
+        "ticketUrl": null,
+        "summary": "Pyramid’s Sunday residency foregrounds Amnesia’s music-first underground identity, with Ricardo Villalobos B2B Luciano, Francesco Del Garda, Saoirse, Marco Faraone and Nina Kraviz among the listed artists.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-no-art-2026",
+        "title": "No Art at [UNVRS]",
+        "type": "club-night",
+        "startDate": "2026-09-29",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "[UNVRS]",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2389451",
+        "ticketUrl": null,
+        "summary": "ANOTR’s No Art returns to Ibiza for a two-date [UNVRS] takeover, combining electronic music curation with the brand’s art-led nightlife concept.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-solid-grooves-2026",
+        "title": "Solid Grooves at DC-10",
+        "type": "residency",
+        "startDate": "2026-09-03",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "DC-10",
+        "venueId": "dc10",
+        "sourceUrl": "https://ra.co/events/2410534",
+        "ticketUrl": null,
+        "summary": "Solid Grooves’ Thursday DC-10 residency remains a key deep-tech/minimal-house pilgrimage, with September dates confirmed at the club.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-saga-bedouin-2026",
+        "title": "Bedouin presents SAGA",
+        "type": "residency",
+        "startDate": "2026-09-06",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Chinois Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433756",
+        "ticketUrl": null,
+        "summary": "Bedouin’s SAGA continues at Chinois with Liva K and Bontan, threading house, Afro house and Middle Eastern/North African influences into a long-running Ibiza residency.",
+        "genres": [
+          "house",
+          "afro-house",
           "electronic"
         ]
       }

@@ -2,30 +2,133 @@
   "slug": "ischgl",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:38:18.704Z",
-  "responseId": "resp_0aafd2857629d4a10069ff62dbf780819186bd9d658d5ba880",
-  "searchCalls": 4,
+  "generatedAt": "2026-10-13T02:41:59.670Z",
+  "responseId": "resp_00accbb211265318006acd99f3694087d09a1760df51d56a41+resp_042b5f58865a4546006acd9a1d0a3087d0a3727280efb5db1b",
+  "searchCalls": 20,
   "citations": [],
   "data": {
     "destinationSlug": "ischgl",
     "month": 11,
     "year": 2026,
-    "notes": "November’s confirmed music calendar is currently anchored by Ischgl’s official winter-opening Top of the Mountain concert; the 2026 artist lineup has not yet been announced.",
+    "notes": "No November 2026 Ischgl listings were found on RA/DICE/Shotgun/Eventbrite for touring diaspora or promoter-party brands; the verified scene events are dated après-ski/club residencies and venue programmes.",
     "events": [
       {
-        "id": "ischgl-top-of-the-mountain-opening-2026",
-        "title": "Top of the Mountain Opening Concert",
+        "id": "ischgl-top-mountain-westlife-2026",
+        "title": "Top of the Mountain Opening Concert: Westlife",
         "type": "concert",
         "startDate": "2026-11-28",
         "endDate": "2026-11-28",
-        "importance": 88,
-        "venueName": "Parkplatz Silvrettabahn Ischgl",
+        "importance": 92,
+        "venueName": "Top of the Mountain Concerts (Silvretta Car Park East P1)",
         "venueId": "top-of-the-mountain-ischgl",
-        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/top-of-the-mountain-opening-concert_event_55277883",
-        "ticketUrl": null,
-        "summary": "Ischgl’s official Top of the Mountain Opening Concert is confirmed for 28 November 2026 at the Silvrettabahn car park. The official event page lists the 2026 artist details as “Coming soon,” so no headliner is confirmed yet.",
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/westlife_event_42210307",
+        "ticketUrl": "https://tickets.ischgl.com/en/product/events/westlife/4214/23974",
+        "summary": "Westlife headline Ischgl’s Top of the Mountain Opening Concert for the 2026/27 winter-season launch, with doors from 16:30 and the concert at 18:00. The official event page places the concert at Silvretta Car Park East (P1), with ticketing bundled into ski-pass products.",
         "genres": [
-          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-trofana-alm-djs-2026",
+        "title": "Trofana Alm Party de Luxe with International DJs",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 73,
+        "venueName": "Trofana Alm",
+        "venueId": "trofana-alm-ischgl",
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/trofana-alm_infra_100003134",
+        "ticketUrl": null,
+        "summary": "Trofana Alm’s winter listing runs from 26 November 2026 to 2 May 2027 and describes the venue as a legendary après-ski club with regular international DJ visits and state-of-the-art sound technology.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-kuhstall-apres-2026",
+        "title": "Kuhstall Winter Après-Ski DJ Residency",
+        "type": "residency",
+        "startDate": "2026-11-20",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Kuhstall Ischgl",
+        "venueId": null,
+        "sourceUrl": "https://kuhstall.at/en/der-kuhstall/",
+        "ticketUrl": null,
+        "summary": "Kuhstall confirms it returns on 20 November 2026, with daily après-ski into open end; its own listing describes one of the best-known Alpine party venues, international partygoers, dancing, entertainment, and DJs.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ischgl-fire-ice-apres-2026",
+        "title": "fire & ice APRES.SKI Club Winter Nights",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 70,
+        "venueName": "fire & ice APRES.SKI",
+        "venueId": null,
+        "sourceUrl": "https://cms.ischgl.com/Ischgl.com/de/reise-planen/ischgl-a-z/fire-ice-apres-ski_infra_100002911",
+        "ticketUrl": null,
+        "summary": "The official Ischgl A–Z listing confirms fire & ice APRES.SKI from 26 November 2026 to 2 May 2027 as an après-ski, bar, club and dancing venue for meeting people and dancing through the night.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-freeride-apres-clubbing-2026",
+        "title": "Freeride Après Clubbing Winter Residency",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 65,
+        "venueName": "Freeride",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/de/reise-planen/ischgl-a-z/freeride_infra_100002963",
+        "ticketUrl": null,
+        "summary": "Freeride’s dated winter listing runs from 26 November 2026 to 2 May 2027 and bills an every-afternoon Après Clubbing format where DJs drive the dancefloor until late.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-space73-electronic-2026",
+        "title": "SPACE 73 Changing Electronic DJ Sets",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-01",
+        "importance": 64,
+        "venueName": "SPACE 73",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/space73_infra_100002090",
+        "ticketUrl": null,
+        "summary": "SPACE 73’s official listing confirms winter opening from 26 November 2026 to 1 May 2027 and describes the bar-lounge-club programme as changing DJ sets featuring quality electronic music.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "ischgl-nikis-stadl-partyhits-2026",
+        "title": "Niki’s Stadl DJ Partyhits Winter Residency",
+        "type": "residency",
+        "startDate": "2026-11-25",
+        "endDate": "2027-05-02",
+        "importance": 62,
+        "venueName": "Niki's Stadl",
+        "venueId": null,
+        "sourceUrl": "https://cms.ischgl.com/Ischgl.com/de/reise-planen/ischgl-a-z/niki-s-stadl_infra_100005628",
+        "ticketUrl": null,
+        "summary": "Niki’s Stadl is confirmed from 25 November 2026 to 2 May 2027, with daily après-ski from 15:00 and DJs playing current party hits in a long-running Ischgl party venue.",
+        "genres": [
           "pop"
         ]
       }

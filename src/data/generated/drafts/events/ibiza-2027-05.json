@@ -1,0 +1,104 @@
+{
+  "slug": "ibiza",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:50:39.580Z",
+  "responseId": "resp_0c9102107284fca6006acdaa16df4087d09006d9a82fcd5c1a+resp_00fd6f5f692f00aa006acdaa601f5c87d08c7999c44fa7b45f",
+  "searchCalls": 25,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 5,
+    "year": 2027,
+    "notes": "As of 2026-10-13, most Ibiza club calendars and major residences have not announced May 2027 programming, so this list only includes independently verifiable May 2027 scene events.",
+    "events": [
+      {
+        "id": "ibiza-groove-odyssey-2027",
+        "title": "Groove Odyssey Ibiza 2027",
+        "type": "festival",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-16",
+        "importance": 78,
+        "venueName": "The Palm Star Hotel",
+        "venueId": null,
+        "sourceUrl": "https://grooveodyssey.com/blogs/ibiza/event",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/The-Palm-Star-Hotel/Groove-Odyssey-Ibiza-2027---Day-Passes/42610482/",
+        "summary": "Groove Odyssey returns to Ibiza for a four-day weekender focused on soulful, deep, Afro and uplifting house, with pool parties, a beach event at Tanit, and club events at Sundara/Palm Star.",
+        "genres": [
+          "house",
+          "afro-house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "ibiza-playabout-2027",
+        "title": "Ibiza.PlayAbout 2027 House Music Festival",
+        "type": "festival",
+        "startDate": "2027-05-19",
+        "endDate": "2027-05-26",
+        "importance": 76,
+        "venueName": "Ibiza JET Apartments / multiple Ibiza venues",
+        "venueId": null,
+        "sourceUrl": "https://www.ibizaplayabout.com/may27-fest",
+        "ticketUrl": "https://www.ibizaplayabout.com/may27-fest",
+        "summary": "Eight-day house-music festival with pool parties, super-club nights, a beach-club party, a San Antonio sunset boat party, and confirmed DJs including David Penn, Alaia & Gallo, Illyus Barrientos, Dario Nunez, The Cube Guys, KPD and Tom Enzy.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "ibiza-go-ibiza-2027",
+        "title": "GO Ibiza 2027",
+        "type": "festival",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-16",
+        "importance": 74,
+        "venueName": "The Palm Star / Tanit Beach / Sundara Club",
+        "venueId": null,
+        "sourceUrl": "https://grooveodyssey.com/blogs/ibiza/event",
+        "ticketUrl": "https://grooveodyssey.com/blogs/ibiza/book-now",
+        "summary": "Groove Odyssey’s 10th-anniversary Ibiza weekender focuses on soulful, deep, afro and uplifting house fused with disco classics, R&B, soul, rare groove, funk and boogie. Packages include pool parties, a Tanit beach event and Sundara club events, with the 2027 lineup still to be announced.",
+        "genres": [
+          "house",
+          "afro-house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "ibiza-slip-back-in-time-2027",
+        "title": "Slip Back In Time presents Old Skool Ibiza 2027",
+        "type": "festival",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-19",
+        "importance": 70,
+        "venueName": "Hotel S’Estanyol / Hotel San Remo, San Antonio Bay",
+        "venueId": null,
+        "sourceUrl": "https://www.slipbackintime.com/book-now/",
+        "ticketUrl": "https://www.slipbackintime.com/book-now/",
+        "summary": "A week-long old-skool Ibiza clubbing holiday based around Hotel S’Estanyol and Hotel San Remo, advertised with over 100 DJs and artists, daily pool DJs and Ibiza superclub events. The official booking page confirms event dates of 12–19 May 2027.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-costa-festival-2027",
+        "title": "Costa Festival Ibiza 2027",
+        "type": "festival",
+        "startDate": "2027-04-25",
+        "endDate": "2027-05-01",
+        "importance": 62,
+        "venueName": "Sirenis Seaview Country Club",
+        "venueId": null,
+        "sourceUrl": "https://www.costafestival.co.uk/costa-festival-ibiza-2027/",
+        "ticketUrl": "https://www.costafestival.co.uk/costa-festival-ibiza-2027/",
+        "summary": "A travel-package live music festival with afternoon and evening outdoor concerts; the announced lineup includes Dougie MacLean, Talisk, Campbell Jensen, Danny & the Champions of the World, Deborah Bonham Band and Callaghan. The festival pass runs within the 25 April–1 May stay window, with concerts scheduled 26–30 April and departures on 1 May.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

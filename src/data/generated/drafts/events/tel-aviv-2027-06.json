@@ -1,0 +1,68 @@
+{
+  "slug": "tel-aviv",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:12:28.622Z",
+  "responseId": "resp_0b46768e3ac4593f006acdaf282f2887d086b0973dea097925+resp_0816447902227946006acdaf894e8c87d090277713bb2a0431",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 6,
+    "year": 2027,
+    "notes": "Confirmed June 2027 listings are still sparse; the only solid contemporary-music confirmations found are Hot Jazz series Cuban/Latin-jazz dates, while Pride-week club programs appear not yet officially announced.",
+    "events": [
+      {
+        "id": "tel-aviv-buena-vista-hot-jazz-gray-2027",
+        "title": "A Tribute to Buena Vista Social Club – Hot Jazz Series",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 64,
+        "venueName": "Gray Club Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/A_Tribute_to_Buena_Vista_Social_Club/?id=1414",
+        "ticketUrl": "https://shamayim.smarticket.co.il/A_Tribute_to_Buena_Vista_Social_Club/?id=1414",
+        "summary": "Hot Jazz 2026–2027 presents Evelyn Dupuy & Daniel Lopez Montejo All Stars in a Cuban tribute to Buena Vista Social Club. The lineup listed by the producer includes Cuban vocalists and instrumentalists with Fernando Knopf as bassist and musical director.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-buena-vista-hot-jazz-museum-thu-2027",
+        "title": "A Tribute to Buena Vista Social Club – Hot Jazz Series",
+        "type": "concert",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-17",
+        "importance": 64,
+        "venueName": "Tel Aviv Museum of Art – Recanati Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/A_Tribute_to_Buena_Vista_Social_Club/?id=1416",
+        "ticketUrl": "https://shamayim.smarticket.co.il/A_Tribute_to_Buena_Vista_Social_Club/?id=1416",
+        "summary": "The Hot Jazz international series brings its Buena Vista Social Club tribute to the Tel Aviv Museum of Art. The program features Evelyn Dupuy & Daniel Lopez Montejo All Stars performing Cuban son, bolero and cha-cha repertoire.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "tel-aviv-buena-vista-hot-jazz-museum-fri-2027",
+        "title": "A Tribute to Buena Vista Social Club – Hot Jazz Series",
+        "type": "concert",
+        "startDate": "2027-06-18",
+        "endDate": "2027-06-18",
+        "importance": 64,
+        "venueName": "Tel Aviv Museum of Art – Recanati Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/A_Tribute_to_Buena_Vista_Social_Club/?id=1417",
+        "ticketUrl": "https://shamayim.smarticket.co.il/A_Tribute_to_Buena_Vista_Social_Club/?id=1417",
+        "summary": "A second Tel Aviv Museum of Art performance of the Hot Jazz Buena Vista Social Club tribute. The producer lists Cuban and international musicians performing classics associated with the Buena Vista repertoire.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

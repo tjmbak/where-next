@@ -2,16 +2,53 @@
   "slug": "tel-aviv",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:57:01.810Z",
-  "responseId": "resp_034a99a279fe2cac0069ff66e721d481908470b78b06f43848",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:49:26.980Z",
+  "responseId": "augment:resp_060d6bc56081b2c0006a1b30d19e848198a1e1f9a1b2cac0c2",
+  "searchCalls": 22,
   "citations": [],
   "data": {
     "destinationSlug": "tel-aviv",
     "month": 7,
     "year": 2026,
-    "notes": null,
+    "notes": "Only tightly verified July 2026 Tel Aviv scene listings were included; recurring local nights without a confirmed July source were omitted.",
     "events": [
+      {
+        "id": "tel-aviv-keinemusik-jul-2026",
+        "title": "Keinemusik | 23 July Israel",
+        "type": "club-night",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-23",
+        "importance": 88,
+        "venueName": "Tel Aviv-Yafo",
+        "venueId": null,
+        "sourceUrl": "https://zygo.co.il/event/300303147342467408/ZF10a14l1",
+        "ticketUrl": "https://zygo.co.il/event/300303147342467408/ZF10a14l1",
+        "summary": "Zygo lists Keinemusik for a Tel Aviv-Yafo event on July 23, 2026. The Berlin-rooted collective is billed with its signature blend of house, techno and afro-inspired rhythms.",
+        "genres": [
+          "house",
+          "techno",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "tel-aviv-keinemusik-2026",
+        "title": "Keinemusik — Tel Aviv",
+        "type": "club-night",
+        "startDate": "2026-07-23",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Tel Aviv-Yafo, Israel",
+        "venueId": null,
+        "sourceUrl": "https://zygo.co.il/event/300303147342467408/ZF10a14l1",
+        "ticketUrl": "https://zygo.co.il/event/300303147342467408/ZF10a14l1",
+        "summary": "Berlin collective Keinemusik brings its house, techno and afro-inspired sound to Tel Aviv for a large-format day-into-evening event, confirmed on Zygo for 23 July 2026.",
+        "genres": [
+          "house",
+          "techno",
+          "afro-house",
+          "electronic"
+        ]
+      },
       {
         "id": "tel-aviv-ipo-buchbinder-jul-2026",
         "title": "Israel Philharmonic: Lahav Shani & Rudolf Buchbinder",
@@ -27,6 +64,38 @@
         "genres": []
       },
       {
+        "id": "tel-aviv-ipo-shani-gigashvili-2026",
+        "title": "Israel Philharmonic: Lahav Shani & Giorgi Gigashvili",
+        "type": "concert",
+        "startDate": "2026-07-16",
+        "endDate": "2026-07-20",
+        "importance": 76,
+        "venueName": "Charles Bronfman Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.ipo.co.il/en/program/lahav-shani-conductor-giorgi-gigashvili-pianist/",
+        "ticketUrl": null,
+        "summary": "The Israel Philharmonic lists Tel Aviv performances on July 16, July 18 and July 20 with Lahav Shani conducting and Giorgi Gigashvili as pianist. The program includes R. Strauss's Don Juan, Ravel's Piano Concerto and Schubert's Symphony No. 9.",
+        "genres": []
+      },
+      {
+        "id": "tel-aviv-120-richard-sen-2026",
+        "title": "5 Years <120 — Richard Sen at Hameretz2",
+        "type": "club-night",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-04",
+        "importance": 72,
+        "venueName": "Hameretz2",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2429066",
+        "ticketUrl": null,
+        "summary": "The <120 crew marks five years with a late-night Hameretz2 party featuring Richard Sen, NDV and LtDan, leaning into slower psychedelic, cosmic, dub, acid and electronic house/techno-adjacent territory.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
         "id": "tel-aviv-ipo-jeans-bluebeard-2026",
         "title": "Israel Philharmonic Jeans Concert: Lahav Shani presents Bluebeard's Castle",
         "type": "concert",
@@ -38,34 +107,6 @@
         "sourceUrl": "https://www.ipo.co.il/en/program/lahav-shani-conductor-director-and-presenter-in-a-jeans-concert/",
         "ticketUrl": null,
         "summary": "A one-night Israel Philharmonic Jeans Concert with Lahav Shani as conductor, director and presenter. The program is Bartók's Bluebeard's Castle in semi-staged form with Matthias Goerne and Dorottya Lang.",
-        "genres": []
-      },
-      {
-        "id": "tel-aviv-ipo-peter-wolf-2026",
-        "title": "Israel Philharmonic for Kids: Peter and the Wolf",
-        "type": "concert",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 60,
-        "venueName": "Charles Bronfman Auditorium - Zucker Hall",
-        "venueId": null,
-        "sourceUrl": "https://www.ipo.co.il/en/program/peter-and-the-wolf/",
-        "ticketUrl": null,
-        "summary": "The Israel Philharmonic lists two Tel Aviv Saturday-morning performances of Peter and the Wolf on July 4, conducted by Nitai Rach with actor Gabriel Hadar among the listed artists. This is a family-oriented Philharmonic for Kids program.",
-        "genres": []
-      },
-      {
-        "id": "tel-aviv-ipo-buchbinder-chamber-2026",
-        "title": "Rudolf Buchbinder and the IPO's Musicians in a Chamber Concert",
-        "type": "concert",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 65,
-        "venueName": "Charles Bronfman Auditorium - Zucker Hall",
-        "venueId": null,
-        "sourceUrl": "https://www.ipo.co.il/en/program/rudolf-buchbinder-and-the-ipos-musicians-in-a-chamber-concert/",
-        "ticketUrl": null,
-        "summary": "Rudolf Buchbinder joins Israel Philharmonic musicians for a chamber program at Zucker Hall. The listed repertoire includes Mendelssohn, Viktor Ullmann and Dvořák's Piano Quintet No. 2.",
         "genres": []
       },
       {
@@ -85,20 +126,6 @@
         ]
       },
       {
-        "id": "tel-aviv-ipo-shani-gigashvili-2026",
-        "title": "Israel Philharmonic: Lahav Shani & Giorgi Gigashvili",
-        "type": "concert",
-        "startDate": "2026-07-16",
-        "endDate": "2026-07-20",
-        "importance": 76,
-        "venueName": "Charles Bronfman Auditorium",
-        "venueId": null,
-        "sourceUrl": "https://www.ipo.co.il/en/program/lahav-shani-conductor-giorgi-gigashvili-pianist/",
-        "ticketUrl": null,
-        "summary": "The Israel Philharmonic lists Tel Aviv performances on July 16, July 18 and July 20 with Lahav Shani conducting and Giorgi Gigashvili as pianist. The program includes R. Strauss's Don Juan, Ravel's Piano Concerto and Schubert's Symphony No. 9.",
-        "genres": []
-      },
-      {
         "id": "tel-aviv-shalosh-shablul-2026",
         "title": "Shalosh at Shablul Jazz",
         "type": "concert",
@@ -115,22 +142,32 @@
         ]
       },
       {
-        "id": "tel-aviv-keinemusik-jul-2026",
-        "title": "Keinemusik | 23 July Israel",
-        "type": "club-night",
-        "startDate": "2026-07-23",
-        "endDate": "2026-07-23",
-        "importance": 88,
-        "venueName": "Tel Aviv-Yafo",
+        "id": "tel-aviv-ipo-buchbinder-chamber-2026",
+        "title": "Rudolf Buchbinder and the IPO's Musicians in a Chamber Concert",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 65,
+        "venueName": "Charles Bronfman Auditorium - Zucker Hall",
         "venueId": null,
-        "sourceUrl": "https://zygo.co.il/event/300303147342467408/ZF10a14l1",
-        "ticketUrl": "https://zygo.co.il/event/300303147342467408/ZF10a14l1",
-        "summary": "Zygo lists Keinemusik for a Tel Aviv-Yafo event on July 23, 2026. The Berlin-rooted collective is billed with its signature blend of house, techno and afro-inspired rhythms.",
-        "genres": [
-          "house",
-          "techno",
-          "afro-house"
-        ]
+        "sourceUrl": "https://www.ipo.co.il/en/program/rudolf-buchbinder-and-the-ipos-musicians-in-a-chamber-concert/",
+        "ticketUrl": null,
+        "summary": "Rudolf Buchbinder joins Israel Philharmonic musicians for a chamber program at Zucker Hall. The listed repertoire includes Mendelssohn, Viktor Ullmann and Dvořák's Piano Quintet No. 2.",
+        "genres": []
+      },
+      {
+        "id": "tel-aviv-ipo-peter-wolf-2026",
+        "title": "Israel Philharmonic for Kids: Peter and the Wolf",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 60,
+        "venueName": "Charles Bronfman Auditorium - Zucker Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ipo.co.il/en/program/peter-and-the-wolf/",
+        "ticketUrl": null,
+        "summary": "The Israel Philharmonic lists two Tel Aviv Saturday-morning performances of Peter and the Wolf on July 4, conducted by Nitai Rach with actor Gabriel Hadar among the listed artists. This is a family-oriented Philharmonic for Kids program.",
+        "genres": []
       }
     ]
   }

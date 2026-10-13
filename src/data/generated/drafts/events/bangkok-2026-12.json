@@ -2,49 +2,324 @@
   "slug": "bangkok",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:43:50.498Z",
-  "responseId": "resp_049616780632b18f006a00994bde988196a8c61adb0f5398e4",
-  "searchCalls": 15,
+  "generatedAt": "2026-10-13T02:59:35.027Z",
+  "responseId": "resp_058a0381369a955e006acd9dce3c0087d0bb6f31114f90996f+resp_0e005482644f7f5f006acd9e35cd5487d09799a486b9529a5b",
+  "searchCalls": 37,
   "citations": [],
   "data": {
     "destinationSlug": "bangkok",
     "month": 12,
     "year": 2026,
-    "notes": "Confirmed December 2026 anchors are concentrated in the Bangkok–Chonburi/Pattaya corridor, with major festival dates announced but most artist lineups still pending.",
+    "notes": "December is unusually strong for Bangkok travelers: stadium-scale pop, Pattaya/Chonburi destination festivals, circuit parties, and a steady underground club calendar all overlap.",
     "events": [
+      {
+        "id": "bangkok-tomorrowland-thailand-2026",
+        "title": "Tomorrowland Thailand 2026",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13",
+        "importance": 98,
+        "venueName": "Wisdom Valley, Chonburi",
+        "venueId": null,
+        "sourceUrl": "https://thailand.tomorrowland.com/",
+        "ticketUrl": "https://thailand.tomorrowland.com/",
+        "summary": "Tomorrowland Thailand stages its first full-scale Asian festival at Wisdom Valley from 11–13 December 2026. The official lineup page confirms artists including Martin Garrix, Alan Walker, Vini Vici, Kevin de Vries, Lilly Palmer, and Eli & Fur b2b Yotto.",
+        "genres": [
+          "festival",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-bts-arirang-2026",
+        "title": "BTS WORLD TOUR 'ARIRANG' IN BANGKOK",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-06",
+        "importance": 96,
+        "venueName": "Rajamangala National Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/bts-world-tour-arirang-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/bts-world-tour-arirang-in-bangkok.html",
+        "summary": "BTS bring their ARIRANG world tour to Rajamangala National Stadium for three Bangkok dates: 3, 5, and 6 December 2026. ThaiTicketMajor lists the run as sold out/official ticketed dates.",
+        "genres": [
+          "pop"
+        ]
+      },
       {
         "id": "bangkok-wonderfruit-dec-2026",
         "title": "Wonderfruit 2026",
         "type": "festival",
         "startDate": "2026-12-03",
         "endDate": "2026-12-07",
-        "importance": 91,
+        "importance": 92,
         "venueName": "The Fields at Siam Country Club",
         "venueId": "wonderfruit-pattaya",
-        "sourceUrl": "https://wonderfruit.co/tickets",
-        "ticketUrl": "https://wonderfruit.co/tickets",
-        "summary": "Wonderfruit’s official ticket page confirms a five-day, four-night edition from 3–7 December 2026 at The Fields in Chonburi. The programme is framed around Mind, Nature and Sound; 2026 artist details were not yet listed on the verified source.",
+        "sourceUrl": "https://www.wonderfruit.co/tickets",
+        "ticketUrl": "https://www.wonderfruit.co/tickets",
+        "summary": "Wonderfruit returns to The Fields near Pattaya from 3–7 December 2026, combining music, art, wellness, food, and culture. Confirmed 2026 programming includes electronic and house-leaning artists such as Gerd Janson, Nightmares on Wax, Jane Fitz, Nicolas Lutz, Sweely, and DOTT across its venue pages.",
         "genres": [
           "festival",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bangkok-white-party-2026",
+        "title": "WHITE PARTY BANGKOK: AmaXon 10th Anniversary Edition",
+        "type": "festival",
+        "startDate": "2026-12-29",
+        "endDate": "2027-01-03",
+        "importance": 88,
+        "venueName": "Paragon Hall & Nex Hall, Siam Paragon / The River Club, Chao Phraya Riverside",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/159292",
+        "ticketUrl": "https://www.eventpop.me/e/159292",
+        "summary": "White Party Bangkok celebrates its 10th anniversary edition, AmaXon, from 29 December 2026 to 3 January 2027. Eventpop describes six days of events across Paragon Hall, Nex Hall, and The River Club.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-kings-of-convenience-2026",
+        "title": "Maho Rasop Series: Kings of Convenience by HAVE YOU HEARD?",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 78,
+        "venueName": "SiamPic Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmelon.com/hyhbkk/koc",
+        "ticketUrl": "https://www.ticketmelon.com/hyhbkk/koc",
+        "summary": "Maho Rasop Series and HAVE YOU HEARD? present Norwegian indie-folk duo Kings of Convenience at SiamPic Hall. The Bangkok show is confirmed for 1 December 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-malcolm-todd-2026",
+        "title": "Malcolm Todd: Do That Again Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 74,
+        "venueName": "UOB LIVE, Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_malcolmtodd",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_malcolmtodd",
+        "summary": "Live Nation Tero promotes Malcolm Todd’s Bangkok stop at UOB LIVE, Emsphere on 6 December 2026. Ticketmaster lists the show time as 7:00 PM.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "bangkok-tomohisa-yamashita-2026",
+        "title": "DREAMING TOMOHISA YAMASHITA TOUR 2026 LIVE in BANGKOK",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 73,
+        "venueName": "Union Hall, Union Mall",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok.html",
+        "summary": "Tomohisa Yamashita performs two Bangkok shows at Union Hall on 19 December 2026, with ThaiTicketMajor listing 14:00 and 19:00 performances. The official ticket page lists prices from 2,500 to 6,500 THB.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "bangkok-panlawan-in-the-wild-2026",
+        "title": "PANLAWAN ‘IN THE WILD’ Music Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-13",
+        "importance": 73,
+        "venueName": "TBA - bamboo.base.camping, Nakhon Nayok",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2542899",
+        "ticketUrl": "https://ra.co/events/2542899",
+        "summary": "A two-day nature-focused underground gathering outside Bangkok with a large Thai electronic lineup including .g, DJ Dragon, DJ Sweed, Elaheh, Jayja, Krit Morton, KPODKPOD and more, framed around music, art, nature and community.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-nye-boat-party-2026",
+        "title": "NYE Boat Party",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 72,
+        "venueName": "Bangkok Island",
+        "venueId": null,
+        "sourceUrl": "https://nl.ra.co/events/2454423",
+        "ticketUrl": "https://nl.ra.co/events/2454423",
+        "summary": "Bangkok Island’s New Year cruise puts DJs, house and drum & bass on the Chao Phraya with a four-hour party boat, skyline/fireworks views and a countdown-oriented river dancefloor.",
+        "genres": [
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "bangkok-tomorrowland-thailand-dec-2026",
-        "title": "Tomorrowland Thailand 2026",
-        "type": "festival",
-        "startDate": "2026-12-11",
-        "endDate": "2026-12-13",
-        "importance": 99,
-        "venueName": "Wisdom Valley, Pattaya",
+        "id": "bangkok-elsewhere-red-pig-flower-2026",
+        "title": "ELSEWHERE INVITES: Red Pig Flower, Mo & D.Rachan",
+        "type": "club-night",
+        "startDate": "2026-12-06",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Elsewhere",
         "venueId": null,
-        "sourceUrl": "https://faq.tomorrowlandthailand.com/hc/en-us/articles/45512608043668-Where-and-when-will-Tomorrowland-Thailand-2026-take-place",
-        "ticketUrl": "https://thailand.tomorrowland.com/th/passes-packages/festival-passes/",
-        "summary": "Tomorrowland’s official Thailand FAQ confirms the festival at Wisdom Valley in Pattaya from 11–13 December 2026. The official lineup page says artists will be announced soon, so no headliners are confirmed yet.",
+        "sourceUrl": "https://bangkok-nights.com/venue/elsewhere",
+        "ticketUrl": null,
+        "summary": "A serious after-hours house/minimal booking at Elsewhere, with Red Pig Flower joined by Mo and D.Rachan for a late Silom session rooted in micro-house, minimal house, techno and leftfield club sounds.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-centara-pool-party-2026",
+        "title": "CENTARA POOL PARTY | Festive Edition",
+        "type": "beach-club",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Pool Deck at Centara Grand at CentralWorld",
+        "venueId": null,
+        "sourceUrl": "https://bangkok-rooftops.com/events/centara-pool-party-12-december-2026/",
+        "ticketUrl": "https://megatix.in.th/events/centara-pool-party-12-december-2026",
+        "summary": "Bangkok Rooftops’ ninth Centara pool-party edition brings DJs, rooftop-pool dancing, sunset skyline energy and an optional Cru Champagne Bar after-party from the 26th to the 59th floor.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-high-season-420-fest-2026",
+        "title": "High Season 420 Fest 12–13 Dec",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 70,
+        "venueName": "Bangkok Island Pier",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/high-season-420-fest?source=home",
+        "ticketUrl": "https://megatix.in.th/events/high-season-420-fest?source=home",
+        "summary": "Bangkok Island’s two-day riverside 420-community festival pairs live performances and a DJ stage with reggae, hip-hop, selecta and MC programming, plus a green market, food, art and cannabis flower competition.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-mahiru-auralisia-2026",
+        "title": "MAHIRU ONE-MAN ASIA TOUR 2026-2027 \"Auralisia\" in Bangkok",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 68,
+        "venueName": "Lido Connect 3",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_mahiru",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_mahiru",
+        "summary": "Singer-songwriter Mahiru brings the ONE-MAN ASIA TOUR “Auralisia” to Lido Connect Hall 3 on 12 December 2026. Ticketmaster lists the Bangkok concert at 7:00 PM, promoted by Live Nation Tero.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-dott-2026",
+        "title": "Elsewhere: DOTT, Raisoul, Drip",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 64,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2026-12-12/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok confirms DOTT, Raisoul, and Drip on Saturday 12 December 2026 from 11:30 PM. DOTT is a recurring figure in Bangkok’s house and underground club circuit.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-festive-rooftop-pool-party-2026",
+        "title": "FESTIVE ROOFTOP POOL PARTY - CENTARA GRAND BANGKOK",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 63,
+        "venueName": "Centara Grand at CentralWorld",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2555412",
+        "ticketUrl": "https://ra.co/events/2555412",
+        "summary": "Bangkok Rooftops hosts a festive pool party at Centara Grand at CentralWorld on 12 December 2026, with resident DJs from 3:00 PM to 10:00 PM and an afterparty moving to CRU Champagne Bar. Resident Advisor lists the genres as house and tech house.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-jeff-chong-2026",
+        "title": "Elsewhere: Jeff Chong, DOTT",
+        "type": "club-night",
+        "startDate": "2026-12-25",
+        "endDate": "2026-12-25",
+        "importance": 63,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2026-12-25/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok confirms a Christmas-night club session with Jeff Chong and DOTT from 11:30 PM. The event is listed on the venue’s official programme for Friday 25 December 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-pure-wax-culture-2026",
+        "title": "Pure Wax en Culture: DJ Mandol feat. VIM",
+        "type": "club-night",
+        "startDate": "2026-12-10",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Culture Cafe",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2552756",
+        "ticketUrl": null,
+        "summary": "Culture Cafe hosts a vinyl-only underground session led by Córdoba/Lisbon selector DJ Mandol with VIM, spanning raw old-school techno, Latin percussion, house, minimal and electro in one of Bangkok’s intimate vinyl rooms.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-serenne-2026",
+        "title": "Elsewhere: Serenne, IYY, Phill Prince",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 62,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2026-12-04/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok confirms a late-night club session with Serenne, IYY, and Phill Prince from 11:30 PM at its Silom venue. This is part of the venue’s December underground programme.",
         "genres": [
           "electronic",
-          "house",
-          "techno"
+          "house"
         ]
       }
     ]

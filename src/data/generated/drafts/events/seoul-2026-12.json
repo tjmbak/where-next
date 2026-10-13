@@ -2,15 +2,319 @@
   "slug": "seoul",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:42:37.295Z",
-  "responseId": "resp_08728d59dd3601ea006a00993455588195a8d8b50f9dc0f8a6",
-  "searchCalls": 8,
+  "generatedAt": "2026-10-13T02:58:27.215Z",
+  "responseId": "resp_0c48cff1c78c0fc9006acd9da51f6487d08dd7bcaf02c63f71+resp_0839827584a317e0006acd9e0d83e487d097c354c92644a135",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "seoul",
     "month": 12,
     "year": 2026,
-    "notes": null,
-    "events": []
+    "notes": "December 2026 is confirmed mostly as a concert-heavy month around Seoul, with arena Korean-pop legacy shows, international Live Nation bookings, and a strong cluster of Hongdae/Mapo live-house dates rather than announced club residencies.",
+    "events": [
+      {
+        "id": "seoul-khalid-summer-somewhere-2026",
+        "title": "Khalid: It's Always Summer Somewhere Tour",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 83,
+        "venueName": "KINTEX Hall 10",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/khalid-it-s-always-summer-somewhere-tour-seoul-tickets-edp1685736",
+        "ticketUrl": "https://www.livenation.kr/en/event/khalid-it-s-always-summer-somewhere-tour-seoul-tickets-edp1685736",
+        "summary": "Khalid headlines KINTEX Hall 10 in the Seoul metro area on his It's Always Summer Somewhere Tour. Live Nation Korea lists the December 5 date with Khalid as headliner.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-wave-to-earth-pieces-2026",
+        "title": "wave to earth world tour 2026 — the pieces tour @ Seoul",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-20",
+        "importance": 82,
+        "venueName": "Hwajung Gymnasium, Korea University",
+        "venueId": null,
+        "sourceUrl": "https://www.koreaalmanac.com/concert/wavetoearth-korea-2026/",
+        "ticketUrl": null,
+        "summary": "wave to earth play a three-night hometown Seoul run at Korea University's Hwajung Gymnasium. The dates are confirmed for December 18–20 after an added show expanded the run.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "seoul-rain-the-smoke-2026",
+        "title": "2026 RAIN CONCERT [THE SMOKE]",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 80,
+        "venueName": "Olympic Hall, Olympic Park",
+        "venueId": null,
+        "sourceUrl": "https://public.ai.kr/en/news/rain-the-smoke-concert-seoul-2026",
+        "ticketUrl": "https://ticket.yes24.com/English/Genre/Concert",
+        "summary": "Rain returns to Olympic Hall for two Seoul shows billed as THE SMOKE. The confirmed performances are December 5 at 6:00 PM and December 6 at 5:00 PM.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-fkj-tyber-2026",
+        "title": "FKJ: Tyber Tour",
+        "type": "concert",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 80,
+        "venueName": "KINTEX Hall 10",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/intl_1685045/tyber-tour",
+        "ticketUrl": "https://www.livenation.com/event/intl_1685045/tyber-tour",
+        "summary": "FKJ brings the Tyber Tour to KINTEX Hall 10 in the Seoul metro area. The Live Nation listing confirms FKJ for December 6.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-slowdive-live-2026",
+        "title": "SLOWDIVE Live 2026 in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 79,
+        "venueName": "KBS Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/en/event/slowdive-live-2026-in-seoul-seoul-tickets-edp1692114",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/26001008/products/26012276?placeCode=26001008",
+        "summary": "Slowdive return to Seoul for a Live Nation Korea-promoted show at KBS Arena. The confirmed date is December 8, with Slowdive listed as headliner.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-malcolm-todd-dec-2026",
+        "title": "Malcolm Todd: Do That Again Tour in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 78,
+        "venueName": "Myung Hwa Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.malcolmtodd.cool/",
+        "ticketUrl": "https://kpopfinder.co.kr/concerts/malcolm-todd-first-concert-in-korea-2026-12-02-pf301556",
+        "summary": "Malcolm Todd brings his Do That Again Tour to Myung Hwa Live Hall for his first confirmed Seoul headline date. The listing names Malcolm Todd and Hobart on the bill.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-lee-seung-chul-voice-2026",
+        "title": "Lee Seung-chul: THE VOICE — 40th Anniversary Tour [Seoul]",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-06",
+        "importance": 78,
+        "venueName": "KSPO Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.koreaalmanac.com/concert/leeseungchul-kspo-2026/",
+        "ticketUrl": null,
+        "summary": "Korean pop-rock and ballad figure Lee Seung-chul plays three Seoul dates at KSPO Dome as part of his 40th-anniversary tour. The run is confirmed for December 4–6 at Olympic Park.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-domi-jd-beck-who-asked-2026",
+        "title": "WHO ASKED? TOUR: DOMi & JD BECK Live [Seoul]",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 74,
+        "venueName": "Gonggam Center (Gonggam Hall)",
+        "venueId": null,
+        "sourceUrl": "https://kpopfinder.co.kr/concerts/who-asked-tour-domi-jd-beck-live-seoul-2026-12-12-pf299415",
+        "ticketUrl": "https://ticket.interpark.com/",
+        "summary": "DOMi & JD BECK bring their WHO ASKED? tour to Gonggam Center in Seoul. The KOPIS-backed listing confirms the December 12 show at 7:00 PM.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-kana-boon-critical-hit-2026",
+        "title": "KANA-BOON: Critical Hit Parade — Asian Adventure",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 73,
+        "venueName": "YES24 Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://koreaalmanac.com/concert/kanaboon-yes24-2026/",
+        "ticketUrl": null,
+        "summary": "Osaka band KANA-BOON plays YES24 Live Hall on the Critical Hit Parade — Asian Adventure tour. The Seoul date is confirmed for December 5 at 6:00 PM KST.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-jane-remover-live-exhibit-2026",
+        "title": "Jane Remover: Live Exhibit in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 72,
+        "venueName": "Musinsa Garage",
+        "venueId": null,
+        "sourceUrl": "https://koreagenda.com/en/events/jane-remover-live-exhibit-in-seoul-2026-c93614",
+        "ticketUrl": "https://ticket.yes24.com/English/Genre/Concert",
+        "summary": "Jane Remover plays a Seoul Live Exhibit date at Musinsa Garage. The event is confirmed for December 11 at 8:00 PM and ticketed through YES24.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-benny-sings-live-2026",
+        "title": "Benny Sings Live in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 72,
+        "venueName": "Musinsa Garage",
+        "venueId": null,
+        "sourceUrl": "https://artists.rocks/en/news/benny-sings-seoul-2026",
+        "ticketUrl": "https://gimbabrecords2.com/",
+        "summary": "Benny Sings plays a standing-room Seoul show at Musinsa Garage in Hongdae. The show is billed as Benny Sings Live in Seoul and promoted by Gimbab Records.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-mass-fermenting-dregs-dabda-2026",
+        "title": "Mass Of The Fermenting Dregs World Tour: Iwaou with Dabda [Seoul]",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 70,
+        "venueName": "KT&G Sangsangmadang Live Hall [Mapo]",
+        "venueId": null,
+        "sourceUrl": "https://kpopfinder.co.kr/concerts/mass-of-the-fermenting-dregs-world-tour-iwaou-with-dabda-seoul-2026-12-04-pf300875",
+        "ticketUrl": "https://koreagenda.com/en/events/mass-of-the-fermenting-dregs-world-tour-iwaou-with-dabda-seoul-2026-432d9c",
+        "summary": "Japanese alternative band Mass Of The Fermenting Dregs stop in Seoul with Korean band Dabda at KT&G Sangsangmadang Live Hall. This is a strong Mapo live-house pick for guitar-driven underground travelers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-domi-jd-beck-2026",
+        "title": "WHO ASKED? TOUR, DOMi & JD BECK Live in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Gonggam Center",
+        "venueId": null,
+        "sourceUrl": "https://world.nol.com/en/ticket/places/16000412/products/26012221?placeCode=16000412",
+        "ticketUrl": "https://world.nol.com/en/ticket/places/16000412/products/26012221?placeCode=16000412",
+        "summary": "The French-American keys-and-drums duo bring their jazz, hip-hop and R&B-rooted WHO ASKED? tour to a Seoul hall show, a strong genre crossover booking outside the arena circuit.",
+        "genres": [
+          "jazz",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "seoul-zazen-boys-matsuri-2026",
+        "title": "ZAZEN BOYS MATSURI SESSION [Seoul]",
+        "type": "concert",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 68,
+        "venueName": "Musinsa Garage",
+        "venueId": null,
+        "sourceUrl": "https://koreagenda.com/en/events/zazen-boys-matsuri-session-seoul-2026-1ba506",
+        "ticketUrl": "https://ticket.yes24.com/English/Genre/Concert",
+        "summary": "ZAZEN BOYS play a Matsuri Session show at Musinsa Garage in Hongdae. The event is confirmed for December 6 at 5:00 PM.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-sunny-day-service-dec-2026",
+        "title": "APF Concerts Presents: Sunny Day Service Tour in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 66,
+        "venueName": "Musinsa Garage",
+        "venueId": null,
+        "sourceUrl": "https://kpopfinder.co.kr/concerts/apf-concerts-presents-sunny-day-service-tour-in-seoul-2026-12-03-pf298542",
+        "ticketUrl": "https://koreagenda.com/en/events/apf-concerts-presents-sunny-day-service-tour-in-seoul-2026-186a54",
+        "summary": "Japanese indie-pop veterans Sunny Day Service play Musinsa Garage in Hongdae through APF Concerts. The confirmed lineup lists Harushige Maruyama, Keiichi Sokabe, and Takashi Tanaka.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-khaki-one-man-live-2026",
+        "title": "Khaki ONE-MAN Live in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 65,
+        "venueName": "KT&G Sangsangmadang Live Hall [Mapo]",
+        "venueId": null,
+        "sourceUrl": "https://koreagenda.com/en/events/khaki-one-man-live-in-seoul-2026-e0e4cc",
+        "ticketUrl": "https://ticket.interpark.com/",
+        "summary": "Khaki plays a one-man Seoul show at KT&G Sangsangmadang Live Hall in Mapo. The event is listed with Master Plan Music Group as organiser and NOL as ticketing outlet.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-penthouse-neon-garden-2026",
+        "title": "Penthouse ONE MAN LIVE TOUR Neon Garden in Seoul",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 65,
+        "venueName": "YES24 Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://koreagenda.com/en/events/penthouse-one-man-live-tour-neon-garden-in-seoul-2026-70b9b9",
+        "ticketUrl": "https://ticket.yes24.com/English/Genre/Concert",
+        "summary": "Penthouse bring the Neon Garden one-man live tour to YES24 Live Hall. The Seoul concert is confirmed for December 19 at 7:00 PM.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-retroriron-encore-2026",
+        "title": "RETRORIRON LIVE [Seoul Encore]",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 64,
+        "venueName": "NOL Theater Hapjeong",
+        "venueId": null,
+        "sourceUrl": "https://kpopfinder.co.kr/concerts/retroriron-live-seoul-encore-2026-12-05-pf300334",
+        "ticketUrl": null,
+        "summary": "Japanese band RETRORIRON play an encore Seoul date at NOL Theater Hapjeong. The performance is confirmed for December 5 at 6:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
   }
 }

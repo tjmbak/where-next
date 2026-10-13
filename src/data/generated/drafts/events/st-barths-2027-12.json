@@ -1,0 +1,35 @@
+{
+  "slug": "st-barths",
+  "month": 12,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:28:35.430Z",
+  "responseId": "resp_0a1f98821b5c410a006acdb3266c0887d08cf68ca2d67ebf12+resp_097b5ef737f0f10c006acdb353b17087d0a9be264f784dc880",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "st-barths",
+    "month": 12,
+    "year": 2027,
+    "notes": "Targeted scene/platform searches found confirmed St Barth festive electronic listings for the 2026–2027 season, but no verifiable House/Electronic/Pop/Afro-house club-night or promoter-party sources for December 2027.",
+    "events": [
+      {
+        "id": "st-barths-new-years-eve-2027",
+        "title": "St Barts New Year's Eve 2027",
+        "type": "beach-club",
+        "startDate": "2027-12-31",
+        "endDate": "2028-01-01",
+        "importance": 78,
+        "venueName": "Gustavia Harbor and surrounding beach clubs",
+        "venueId": null,
+        "sourceUrl": "https://www.yachtcharterfleet.com/events/st-barts-new-year-s-eve-2027-2396.htm",
+        "ticketUrl": null,
+        "summary": "Islandwide New Year’s Eve circuit centered on Gustavia Harbor, superyacht-hosted celebrations, beach-club gatherings, and DJ-led late-night parties at venues such as Nikki Beach and Bagatelle.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -2,30 +2,323 @@
   "slug": "marrakech",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:36:03.095Z",
-  "responseId": "resp_043b7752f6dee77d0069ff62306df4819d896af7ec27c192cc",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T02:29:55.256Z",
+  "responseId": "resp_041d23c2a640be0e006acd96d5b18c87d08a1789a5a71462d2+resp_08d7ef126dc3e2fe006acd975560c887d0945c21a675215f9b",
+  "searchCalls": 31,
   "citations": [],
   "data": {
     "destinationSlug": "marrakech",
     "month": 10,
     "year": 2026,
-    "notes": "Confirmed in-city October 2026 music programming is still sparse; listings without exact dates were omitted.",
+    "notes": "October’s confirmed calendar mixes Marrakech rooftop and club electronics with diaspora travel parties, Gnawa/Hausa heritage, folklore parades and the first Marrakech Jazz Experience.",
     "events": [
+      {
+        "id": "marrakech-gnawa-hausa-festival-2026",
+        "title": "Marrakech International Hausa Gnawa Festival — 2nd Edition",
+        "type": "festival",
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-17",
+        "importance": 85,
+        "venueName": "Marrakech, Morocco",
+        "venueId": null,
+        "sourceUrl": "https://www.hassanhakmoun.com/",
+        "ticketUrl": null,
+        "summary": "Founded by Hassan Hakmoun, the Marrakech International Hausa Gnawa Festival returns for its second edition. The official listing confirms the 15–17 October 2026 save-the-date in Marrakech.",
+        "genres": [
+          "festival"
+        ]
+      },
       {
         "id": "marrakech-folklore-days-2026",
         "title": "Marrakech Folklore Days 2026",
         "type": "festival",
         "startDate": "2026-10-22",
         "endDate": "2026-10-25",
-        "importance": 80,
-        "venueName": "Marrakech (citywide)",
+        "importance": 82,
+        "venueName": "M Avenue, Jemaa el-Fna and city venues",
         "venueId": null,
         "sourceUrl": "https://marrakechfolkloredays.com/en/homeen/",
         "ticketUrl": null,
-        "summary": "Official site confirms Marrakech Folklore Days returns from October 22 to 25, 2026. The program centers on international folk groups, traditional music and dance, workshops, crafts, and parades across Marrakech.",
+        "summary": "The eighth edition of Marrakech Folklore Days brings international folk groups, music, dance, workshops and parades across the city. The official site positions it as a major traditional-arts festival celebrating living heritage.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "marrakech-alex-wann-leone-2026",
+        "title": "Alex Wann @ LEONE Discoteca Marrakech",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 82,
+        "venueName": "Leone Discoteca Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/fr/event/alex-wann-at-leone-discoteca-marrakech",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/alex-wann-at-leone-discoteca-marrakech",
+        "summary": "Alex Wann returns to Leone after a sold-out May appearance. The event is billed as his post-summer return to the Marrakech club floor.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-ginton-leone-2026",
+        "title": "GINTON @ LEONE",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Leone Discoteca Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/fr/event/ginton-at-leone",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/ginton-at-leone",
+        "summary": "Ginton plays Leone with a hybrid guitar-and-decks set moving between Afro rhythms and house. The event page notes his work with Drake and Gordo.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-jazz-experience-2026",
+        "title": "Marrakech Jazz Experience",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-01",
+        "importance": 78,
+        "venueName": "Théâtre Meydene, M Square and Centre culturel NOJOUM",
+        "venueId": null,
+        "sourceUrl": "https://www.marrakechjazzexperience.org/",
+        "ticketUrl": null,
+        "summary": "The first Marrakech Jazz Experience presents concerts, masterclasses and free public sets across M Avenue and related venues. The programme highlights Urban Folklore, Othman El Kheloufi and Axel Camil Hachadi across the main concert nights.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "marrakech-supervibe-leone-2026",
+        "title": "SUPERVIBE @ LEONE",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-10",
+        "importance": 75,
+        "venueName": "Leone Discoteca Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/fr/event/supervibe-at-leone",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/supervibe-at-leone",
+        "summary": "Leone welcomes Supervibe for a deep, minimal and tech-house night. The confirmed lineup includes Rich NxT, Jacob Husley and Memed Awad b2b Moruki.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-oum-dialddar-2026",
+        "title": "OUM — Dialddar",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 75,
+        "venueName": "Maison Denise Masson",
+        "venueId": null,
+        "sourceUrl": "https://if-maroc.org/marrakech/evenements/concert-oum/",
+        "ticketUrl": "https://if-maroc.org/marrakech/evenements/concert-oum/",
+        "summary": "Moroccan artist OUM presents Dialddar, a voice-and-percussion-led project of original songs in darija. The Institut français listing confirms the Marrakech date at Maison Denise Masson.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "marrakech-sofunked-in-the-sun-2026",
+        "title": "SOFUNKED IN THE SUN Marrakech Edition 2026",
+        "type": "festival",
+        "startDate": "2026-10-12",
+        "endDate": "2026-10-20",
+        "importance": 74,
+        "venueName": "Riad Jardin Des Rêves",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/sofunked-in-the-sun-marrakech-edition-2026-tickets-1993783308547",
+        "ticketUrl": "https://www.eventbrite.com/e/sofunked-in-the-sun-marrakech-edition-2026-tickets-1993783308547",
+        "summary": "SOFUNKED and Unlocked Marrakech present a multi-day music-holiday takeover with club events, beach-party programming and DJs. The listing highlights R&B, hip-hop, old-school, Afrobeats, dancehall and soulful house.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "house"
+        ]
+      },
+      {
+        "id": "marrakech-tiefschwarz-kabana-2026",
+        "title": "Tiefschwarz at Kabana Rooftop",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 72,
+        "venueName": "Kabana Rooftop Food & Cocktails",
+        "venueId": null,
+        "sourceUrl": "https://www.kabana-marrakech.com/event-details/tiefschwarz",
+        "ticketUrl": null,
+        "summary": "Ali Tiefschwarz brings Berlin-rooted underground electronic sounds to Kabana’s Roofloor. The event also includes an earlier Kabana Live Band set on the rooftop.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-mektoub-records-leone-2026",
+        "title": "MEKTOUB RECORDS @ LEONE",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 72,
+        "venueName": "Leone Discoteca Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/fr/event/mektoub-records-at-leone",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/mektoub-records-at-leone",
+        "summary": "Mektoub Records makes its Leone debut with a live performance by Adassiya. Nawfal opens the night with raw, immersive rhythms.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "marrakech-tasty-sounds-experience-2026",
+        "title": "Tasty Sounds Expérience",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 72,
+        "venueName": "Rôtisserie de la Paix",
+        "venueId": null,
+        "sourceUrl": "https://fr.ra.co/events/2548092",
+        "ticketUrl": "https://fr.ra.co/events/2548092",
+        "summary": "Tasty Sounds pairs electronic DJ sets with a food-led dancefloor concept at Rôtisserie de la Paix. The confirmed DJ lineup includes ALEXIA, ARY b2b MAD, MMB, ODDITY and SUPERNOVA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-comptoir-electronik-leone-2026",
+        "title": "Le Comptoir Electronik @ LEONE",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 71,
+        "venueName": "Leone Discoteca Marrakech",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/fr/event/le-comptoir-electronik-at-leone",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/le-comptoir-electronik-at-leone",
+        "summary": "Le Comptoir Electronik lands in Marrakech for a Halloween-night Leone takeover featuring Bassel Darwish’s Morocco debut alongside Samuele Trabelssi and Felix ID.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-jungle-party-2026",
+        "title": "Jungle Party by Groover Club",
+        "type": "club-night",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 70,
+        "venueName": "Palm Orchids",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2547435",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/jungle-party",
+        "summary": "Groover Club returns to Palm Orchids for a limited-capacity daytime garden party. The confirmed lineup is Andrei Ciubuc, SUE and BKL.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-saint-lanvain-2026",
+        "title": "Saint Lanvain at Kabana Rooftop",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-03",
+        "importance": 68,
+        "venueName": "Kabana Rooftop Food & Cocktails",
+        "venueId": null,
+        "sourceUrl": "https://www.kabana-marrakech.com/event-details/saint-lanvain-2",
+        "ticketUrl": null,
+        "summary": "Kabana hosts Saint Lanvain for a late-night Roofloor set after the venue’s live band warm-up. The listing bills the sound as melodic and Afro house.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-le-matin-records-halloween-2026",
+        "title": "Le Matin Records — Halloween Edition",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 68,
+        "venueName": "Rôtisserie de la Paix",
+        "venueId": null,
+        "sourceUrl": "https://buy.tidar.ma/fr/event/le-matin-records-halloween-edition-rotisserie-de-la-paix",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/le-matin-records-halloween-edition-rotisserie-de-la-paix",
+        "summary": "Le Matin Records hosts a Halloween edition at Rôtisserie de la Paix. The confirmed lineup lists LAMALICE, LIVER J, MENDY and UMA.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "marrakech-raices-vol3-2026",
+        "title": "Raíces Vol. 3",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 66,
+        "venueName": "M Rooftop by Medina Heritage",
+        "venueId": null,
+        "sourceUrl": "https://latribunedemarrakech.com/event/raices-vol-3-salsa-cubaine-marrakech-2026/",
+        "ticketUrl": null,
+        "summary": "Raíces returns with a Cuban-salsa masterclass, live dinner set by Junes in trio format, and DJ Shedu playing salsa, son cubano, timba and bachata until midnight.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "marrakech-jungle-groove-2026",
+        "title": "Jungle Groove by Groover Club",
+        "type": "club-night",
+        "startDate": "2026-10-25",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Palm Orchids",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2547435",
+        "ticketUrl": "https://buy.tidar.ma/fr/event/jungle-party",
+        "summary": "Groover Club returns to Palm Orchids for an alcohol-free, limited-capacity 11:00–23:00 garden day party with Andrei Ciubuc extended set, SUE and BKL.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marrakech-sol-sundays-2026",
+        "title": "Sol Sundays at El Fenn",
+        "type": "residency",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-25",
+        "importance": 62,
+        "venueName": "El Fenn Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://el-fenn.com/sol-sundays-at-el-fenn/",
+        "ticketUrl": "https://ra.co/events/2545764",
+        "summary": "El Fenn launches a sunset rooftop DJ residency with Shems / Elektrokesh, running every other Sunday; October dates are 11 and 25 October from 17:00 to 22:00.",
+        "genres": [
+          "electronic",
+          "house"
         ]
       }
     ]

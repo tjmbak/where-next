@@ -2,8 +2,8 @@
   "slug": "montreal",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:28:26.660Z",
-  "responseId": "resp_0b1528fcaafbaf270069ff60484c48819498948d5cfb6d76df",
+  "generatedAt": "2026-05-30T18:33:13.945Z",
+  "responseId": "augment:resp_0a7e5656cbba7446006a1b2cfb8360819bab40316ec989c300",
   "searchCalls": 14,
   "citations": [],
   "data": {
@@ -30,37 +30,21 @@
         ]
       },
       {
-        "id": "montreal-off-piknic-anjunadeep-2026",
-        "title": "OfF Piknic: Anjunadeep with Marsh, Christian Löffler, Eric Luttrell b2b Jody Wisternoff and Nicky Elisabeth",
-        "type": "club-night",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 82,
-        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "id": "montreal-osheaga-2026",
+        "title": "OSHEAGA Music and Arts Festival",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 97,
+        "venueName": "Parc Jean-Drapeau",
         "venueId": null,
-        "sourceUrl": "https://piknicelectronik.com/fr/evenement/2026-off-piknic-04-07-2026",
-        "ticketUrl": "https://billets.piknicelectronik.com",
-        "summary": "OfF Piknic hosts an Anjunadeep-branded open-air electronic bill at Parc Jean-Drapeau. The listed lineup features Marsh, Christian Löffler (Live), Eric Luttrell b2b Jody Wisternoff and Nicky Elisabeth.",
+        "sourceUrl": "https://www.ticketmaster.com/osheaga-tickets/artist/2530755",
+        "ticketUrl": "https://www.ticketmaster.com/osheaga-tickets/artist/2530755",
+        "summary": "OSHEAGA opens on July 31 and runs through August 2 at Parc Jean-Drapeau. The confirmed 2026 headliners are Twenty One Pilots on Friday, Tate McRae on Saturday and Lorde on Sunday.",
         "genres": [
-          "electronic",
-          "house"
-        ]
-      },
-      {
-        "id": "montreal-lionel-richie-earth-wind-fire-2026",
-        "title": "Lionel Richie and Earth, Wind & Fire: Sing a Song All Night Long",
-        "type": "concert",
-        "startDate": "2026-07-05",
-        "endDate": "2026-07-05",
-        "importance": 84,
-        "venueName": "Bell Centre",
-        "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/bell-centre/lionel-richie-and-earth-wind-fire?code=e007381",
-        "ticketUrl": "https://evenko.ca/en/events/bell-centre/lionel-richie-and-earth-wind-fire?code=e007381",
-        "summary": "Lionel Richie and Earth, Wind & Fire bring the Sing a Song All Night Long tour to the Bell Centre. evenko lists the concert as presented as part of the Festival International de Jazz de Montréal.",
-        "genres": [
-          "r-and-b",
-          "pop"
+          "festival",
+          "pop",
+          "hip-hop"
         ]
       },
       {
@@ -82,34 +66,52 @@
         ]
       },
       {
-        "id": "montreal-off-piknic-zeds-dead-2026",
-        "title": "OfF Piknic: Zeds Dead and Whethan",
-        "type": "club-night",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-10",
-        "importance": 82,
-        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "id": "montreal-ariana-grande-2026",
+        "title": "Ariana Grande: The Eternal Sunshine Tour",
+        "type": "concert",
+        "startDate": "2026-07-28",
+        "endDate": "2026-07-28",
+        "importance": 90,
+        "venueName": "Bell Centre",
         "venueId": null,
-        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-10-07-2026",
-        "ticketUrl": "https://billets.piknicelectronik.com",
-        "summary": "OfF Piknic presents Zeds Dead with Whethan on the Fizz Stage under the Journey of a Lifetime banner. The event is scheduled from 17:00 to 22:00 at Parc Jean-Drapeau.",
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/ariana-grande?code=e006362",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/ariana-grande?code=e006362",
+        "summary": "Ariana Grande brings The Eternal Sunshine Tour to the Bell Centre on July 28, with a second Montréal date also listed for July 30. The tour marks her return to the stage after the Sweetener World Tour era.",
         "genres": [
-          "electronic"
+          "pop",
+          "r-and-b"
         ]
       },
       {
-        "id": "montreal-billy-talent-alexisonfire-2026",
-        "title": "Billy Talent & Alexisonfire: 20 Years in the Making",
+        "id": "montreal-j-cole-2026",
+        "title": "J. Cole: The Fall-Off Tour",
         "type": "concert",
-        "startDate": "2026-07-17",
-        "endDate": "2026-07-17",
-        "importance": 78,
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 86,
         "venueName": "Bell Centre",
         "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/bell-centre/billy-talent-alexisonfire?code=e007540",
-        "ticketUrl": "https://evenko.ca/en/events/bell-centre/billy-talent-alexisonfire?code=e007540",
-        "summary": "Canadian rock heavyweights Billy Talent and Alexisonfire co-headline the Bell Centre with Faze supporting. The show is billed as 20 Years in the Making.",
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/j-cole?code=e007606",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/j-cole?code=e007606",
+        "summary": "J. Cole’s The Fall-Off Tour stops at the Bell Centre on July 25. The tour supports his 2026 album The Fall Off, according to the evenko event page.",
         "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "montreal-lionel-richie-earth-wind-fire-2026",
+        "title": "Lionel Richie and Earth, Wind & Fire: Sing a Song All Night Long",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 84,
+        "venueName": "Bell Centre",
+        "venueId": null,
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/lionel-richie-and-earth-wind-fire?code=e007381",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/lionel-richie-and-earth-wind-fire?code=e007381",
+        "summary": "Lionel Richie and Earth, Wind & Fire bring the Sing a Song All Night Long tour to the Bell Centre. evenko lists the concert as presented as part of the Festival International de Jazz de Montréal.",
+        "genres": [
+          "r-and-b",
           "pop"
         ]
       },
@@ -131,6 +133,74 @@
         ]
       },
       {
+        "id": "montreal-nuits-afrique-40-2026",
+        "title": "Festival International Nuits d’Afrique — 40th Edition",
+        "type": "festival",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-19",
+        "importance": 84,
+        "venueName": "Quartier des spectacles and multiple Montréal venues",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalnuitsdafrique.com/en/accueil/",
+        "ticketUrl": "https://www.festivalnuitsdafrique.com/en/billetterie-2026/",
+        "summary": "Montréal’s major African, Caribbean, and Latin diaspora music festival returns for its 40th edition, spanning indoor concerts, outdoor stages, and club-sized venue programming.",
+        "genres": [
+          "festival",
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-anjunadeep-2026",
+        "title": "OfF Piknic: Anjunadeep with Marsh, Christian Löffler, Eric Luttrell b2b Jody Wisternoff and Nicky Elisabeth",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 82,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://piknicelectronik.com/fr/evenement/2026-off-piknic-04-07-2026",
+        "ticketUrl": "https://billets.piknicelectronik.com",
+        "summary": "OfF Piknic hosts an Anjunadeep-branded open-air electronic bill at Parc Jean-Drapeau. The listed lineup features Marsh, Christian Löffler (Live), Eric Luttrell b2b Jody Wisternoff and Nicky Elisabeth.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-zeds-dead-2026",
+        "title": "OfF Piknic: Zeds Dead and Whethan",
+        "type": "club-night",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 82,
+        "venueName": "Jardin Le Petit Prince - Parc Jean-Drapeau",
+        "venueId": null,
+        "sourceUrl": "https://piknicelectronik.com/en/event/2026-off-piknic-10-07-2026",
+        "ticketUrl": "https://billets.piknicelectronik.com",
+        "summary": "OfF Piknic presents Zeds Dead with Whethan on the Fizz Stage under the Journey of a Lifetime banner. The event is scheduled from 17:00 to 22:00 at Parc Jean-Drapeau.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-off-piknic-adam-port-andme-2026",
+        "title": "OfF Piknic: Adam Port & &ME",
+        "type": "festival",
+        "startDate": "2026-07-03",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2412629",
+        "ticketUrl": null,
+        "summary": "A sold-out OfF Piknic evening at Parc Jean-Drapeau with two core Keinemusik-affiliated names, marking one of July’s biggest outdoor house moments in Montréal.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
         "id": "montreal-ive-2026",
         "title": "IVE WORLD TOUR <SHOW WHAT I AM> IN MONTREAL",
         "type": "concert",
@@ -147,19 +217,54 @@
         ]
       },
       {
-        "id": "montreal-j-cole-2026",
-        "title": "J. Cole: The Fall-Off Tour",
+        "id": "montreal-piknic-daphni-karaba-2026",
+        "title": "Piknic Électronik MTL #11: Daphni / KARABA & Friends",
+        "type": "festival",
+        "startDate": "2026-07-26",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413772",
+        "ticketUrl": null,
+        "summary": "One of July’s strongest Piknic bookings, pairing Daphni with a KARABA & Friends stage that highlights Afro-diasporic and club-minded Montréal selectors.",
+        "genres": [
+          "house",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "montreal-piknic-nia-archives-kntc-2026",
+        "title": "Piknic Électronik MTL #8: Nia Archives (DJ Set) / KNTC",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413763",
+        "ticketUrl": null,
+        "summary": "A strong Sunday Piknic pairing of Nia Archives’ UK club energy with a KNTC stage featuring Vincent Lemieux and Dimitry Duchesse.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "montreal-billy-talent-alexisonfire-2026",
+        "title": "Billy Talent & Alexisonfire: 20 Years in the Making",
         "type": "concert",
-        "startDate": "2026-07-25",
-        "endDate": "2026-07-25",
-        "importance": 86,
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 78,
         "venueName": "Bell Centre",
         "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/bell-centre/j-cole?code=e007606",
-        "ticketUrl": "https://evenko.ca/en/events/bell-centre/j-cole?code=e007606",
-        "summary": "J. Cole’s The Fall-Off Tour stops at the Bell Centre on July 25. The tour supports his 2026 album The Fall Off, according to the evenko event page.",
+        "sourceUrl": "https://evenko.ca/en/events/bell-centre/billy-talent-alexisonfire?code=e007540",
+        "ticketUrl": "https://evenko.ca/en/events/bell-centre/billy-talent-alexisonfire?code=e007540",
+        "summary": "Canadian rock heavyweights Billy Talent and Alexisonfire co-headline the Bell Centre with Faze supporting. The show is billed as 20 Years in the Making.",
         "genres": [
-          "hip-hop"
+          "pop"
         ]
       },
       {
@@ -180,38 +285,76 @@
         ]
       },
       {
-        "id": "montreal-ariana-grande-2026",
-        "title": "Ariana Grande: The Eternal Sunshine Tour",
-        "type": "concert",
-        "startDate": "2026-07-28",
-        "endDate": "2026-07-28",
-        "importance": 90,
-        "venueName": "Bell Centre",
+        "id": "montreal-domesicle-homeby6-acemo-2026",
+        "title": "Dômesicle x HomeBy6 — AceMo (US) • Casa Kobrae b2b Felix Patry",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Société des arts technologiques",
         "venueId": null,
-        "sourceUrl": "https://evenko.ca/en/events/bell-centre/ariana-grande?code=e006362",
-        "ticketUrl": "https://evenko.ca/en/events/bell-centre/ariana-grande?code=e006362",
-        "summary": "Ariana Grande brings The Eternal Sunshine Tour to the Bell Centre on July 28, with a second Montréal date also listed for July 30. The tour marks her return to the stage after the Sweetener World Tour era.",
+        "sourceUrl": "https://ra.co/events/2440625",
+        "ticketUrl": null,
+        "summary": "HomeBy6 co-presents a SAT dome night with New York underground figure AceMo and a Montréal b2b from Casa Kobrae and Felix Patry, spanning house, techno, breaks and club music.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "house",
+          "techno",
+          "electronic",
+          "hip-hop"
         ]
       },
       {
-        "id": "montreal-osheaga-2026",
-        "title": "OSHEAGA Music and Arts Festival",
+        "id": "montreal-groove-n-kizomba-2026",
+        "title": "Groove N’ Kizomba Festival — 9th Edition",
         "type": "festival",
-        "startDate": "2026-07-31",
-        "endDate": "2026-08-02",
-        "importance": 97,
-        "venueName": "Parc Jean-Drapeau",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-27",
+        "importance": 73,
+        "venueName": "Sheraton Laval Hotel",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/osheaga-tickets/artist/2530755",
-        "ticketUrl": "https://www.ticketmaster.com/osheaga-tickets/artist/2530755",
-        "summary": "OSHEAGA opens on July 31 and runs through August 2 at Parc Jean-Drapeau. The confirmed 2026 headliners are Twenty One Pilots on Friday, Tate McRae on Saturday and Lorde on Sunday.",
+        "sourceUrl": "https://www.eventbrite.ca/e/groove-n-kizomba-festival-9th-edition-all-in-one-july-23-27th-2026-tickets-1534119475649",
+        "ticketUrl": "https://www.eventbrite.ca/e/groove-n-kizomba-festival-9th-edition-all-in-one-july-23-27th-2026-tickets-1534119475649",
+        "summary": "A Greater Montréal all-in-one dance weekender centered on kizomba, semba, konpa, urban kiz and diaspora club sounds including afro-house and amapiano.",
         "genres": [
-          "festival",
-          "pop",
-          "hip-hop"
+          "afro-house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "montreal-stereo-township-rebellion-2026",
+        "title": "Township Rebellion",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Stereo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425607",
+        "ticketUrl": null,
+        "summary": "A late-running Stereo booking for Township Rebellion, fitting Montréal’s deep/progressive house and melodic techno after-hours lane.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "montreal-piknic-zack-fox-ferias-2026",
+        "title": "Piknic Électronik MTL #9: Zack Fox / Ferias",
+        "type": "festival",
+        "startDate": "2026-07-12",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Piknic Électronik / Parc Jean-Drapeau",
+        "venueId": "piknic",
+        "sourceUrl": "https://ra.co/events/2413766",
+        "ticketUrl": null,
+        "summary": "A summer Piknic edition pairing Zack Fox with a Ferias-curated second stage, including Vasimolo b2b Aram, THe LYONZ live, and Andie.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "house"
         ]
       }
     ]

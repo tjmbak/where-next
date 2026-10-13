@@ -2,10 +2,9 @@ import { z } from "zod";
 import {
   getDestinationBySlug,
   getEventsForDestination,
-  getEventsForDestinationInMonth,
   getVenuesForDestination
 } from "@/data/music-travel";
-import type { Budget, Destination, Event, MonthNumber, Venue } from "@/types/content";
+import type { Budget, Destination, Event, Venue } from "@/types/content";
 
 // ---------------------------------------------------------------------------
 // Types
@@ -120,8 +119,7 @@ export async function generateItinerary(input: GenerateItineraryInput): Promise<
     const leg = legs[li];
     const destination = destinations[li];
     const legDates = allDates.slice(cursorDay, cursorDay + leg.days);
-    const months = uniqueMonths(legDates);
-    const events = collectRelevantEvents(destination.slug, months);
+    const events = collectRelevantEvents(destination.slug, legDates);
     const venues = getVenuesForDestination(destination.slug);
 
     let legDays: ItineraryDay[];
@@ -202,26 +200,24 @@ function expandDates(start: Date, days: number): Date[] {
   });
 }
 
-function uniqueMonths(dates: Date[]): MonthNumber[] {
-  const set = new Set<number>();
-  for (const d of dates) set.add(d.getUTCMonth() + 1);
-  return Array.from(set) as MonthNumber[];
-}
-
-function collectRelevantEvents(slug: string, months: MonthNumber[]): Event[] {
+/**
+ * Only events that actually run during the leg. Padding with other dates
+ * would let the planner anchor a day on a show that isn't on — venues cover
+ * the remaining nights instead.
+ */
+function collectRelevantEvents(slug: string, dates: Date[]): Event[] {
+  if (dates.length === 0) return [];
+  const first = dates[0].toISOString().slice(0, 10);
+  const last = dates[dates.length - 1].toISOString().slice(0, 10);
+  const years = new Set(dates.map((d) => d.getUTCFullYear()));
   const seen = new Set<string>();
   const result: Event[] = [];
-  for (const m of months) {
-    for (const event of getEventsForDestinationInMonth(slug, m)) {
-      if (seen.has(event.id)) continue;
-      seen.add(event.id);
-      result.push(event);
-    }
-  }
-  if (result.length < 6) {
-    for (const event of getEventsForDestination(slug)) {
-      if (seen.has(event.id)) continue;
-      seen.add(event.id);
+  for (const year of years) {
+    for (const event of getEventsForDestination(slug, year)) {
+      const key = `${event.id}@${event.startDate}`;
+      if (seen.has(key)) continue;
+      if (event.startDate > last || (event.endDate ?? event.startDate) < first) continue;
+      seen.add(key);
       result.push(event);
     }
   }
@@ -232,7 +228,7 @@ function collectRelevantEvents(slug: string, months: MonthNumber[]): Event[] {
 // LLM call
 // ---------------------------------------------------------------------------
 
-const MODEL = "gpt-4o-mini";
+const MODEL = "gpt-5.5";
 const SYSTEM_PROMPT = `You are a music-travel itinerary editor for Where Next.
 
 You stitch a day-by-day trip plan from CURATED supply. You DO NOT invent events,
@@ -297,8 +293,8 @@ async function callOpenAI(args: OpenAICallArgs): Promise<{ days: ItineraryDay[];
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: userPrompt }
       ],
-      temperature: 0.7,
-      max_tokens: 2000
+      reasoning_effort: "low",
+      max_completion_tokens: 8000
     })
   });
 
@@ -394,7 +390,10 @@ function fallbackHeuristicPlan(args: {
   const used = new Set<string>();
   return dates.map((d, i) => {
     let anchor: { kind: "event" | "venue"; id: string; title: string; why: string } | null = null;
-    const event = events.find((e) => !used.has(e.id));
+    const dayIso = d.toISOString().slice(0, 10);
+    const event = events.find(
+      (e) => !used.has(e.id) && e.startDate <= dayIso && (e.endDate ?? e.startDate) >= dayIso
+    );
     if (event) {
       used.add(event.id);
       anchor = {

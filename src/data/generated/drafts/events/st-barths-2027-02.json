@@ -1,0 +1,85 @@
+{
+  "slug": "st-barths",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:25:10.116Z",
+  "responseId": "resp_01c5945e90d0af6f006acda3f7643487d09c147e5f0a202bc1+resp_09af565a9fa8d6ea006acda43b4ed487d0a02c2a6dd16906d7",
+  "searchCalls": 25,
+  "citations": [],
+  "data": {
+    "destinationSlug": "st-barths",
+    "month": 2,
+    "year": 2027,
+    "notes": "No February 2027 contemporary music events or club-party calendars in Saint-Barthélemy were sufficiently confirmed on primary/reputable event sources yet; the island’s official carnival program remains pending.",
+    "events": [
+      {
+        "id": "st-barths-carnival-week-2027",
+        "title": "Saint-Barth Carnival 2027: Levé en pyjama, Mardi Gras Parade & Vaval Burning",
+        "type": "carnival",
+        "startDate": "2027-02-08",
+        "endDate": "2027-02-10",
+        "importance": 78,
+        "venueName": "Gustavia / Shell Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.sun-beach-house.com/fr/blog/carnaval-saint-barth-2027",
+        "ticketUrl": null,
+        "summary": "Carnival week centers on Gustavia street celebrations: the informal Levé en pyjama on February 8, the Mardi Gras parade on February 9, and the Vaval burning procession to Shell Beach on February 10, with Caribbean-music float culture and after-parade street partying.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "st-barths-ascco-cho-douvan-2027",
+        "title": "ASCCO Cho Douvan at the Saint-Barth Mardi Gras Parade",
+        "type": "carnival",
+        "startDate": "2027-02-09",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://association-ascco.com/pt/carnaval/",
+        "ticketUrl": null,
+        "summary": "Local cultural association ASCCO confirms its Cho Douvan group will parade in Gustavia for Mardi Gras 2027, with costumes, choreography, float preparation and music kept under wraps until carnival day.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "st-barths-burgundy-week-nikki-party-2027",
+        "title": "St Barth Burgundy Week Nikki Beach Party",
+        "type": "beach-club",
+        "startDate": "2027-02-14",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Nikki Beach St. Barth",
+        "venueId": "nikki-beach-st-barths",
+        "sourceUrl": "https://www.friendshipandwines.com/en-gb/programme",
+        "ticketUrl": "https://saint-barth.nikkibeach.com/",
+        "summary": "St Barth Burgundy Week closes with a Nikki Beach Party on Valentine’s Sunday, a confirmed beach-club day party framed as a festive winemaker gathering at Saint-Jean.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "st-barths-paulee-afterparty-ti-2027",
+        "title": "La Paulée / St Barth Burgundy Week After Party at Le Ti St Barth",
+        "type": "club-night",
+        "startDate": "2027-02-13",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Le Ti St Barth",
+        "venueId": "le-ti-st-barths",
+        "sourceUrl": "https://www.friendshipandwines.com/en-gb/programme",
+        "ticketUrl": "https://letistbarth-sbh.com/",
+        "summary": "The Burgundy Week gala at Eden Rock moves into a late-night after party at Le Ti St Barth from midnight, giving the wine-week crowd a confirmed high-season club/cabaret stop.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "slug": "paris",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:56:25.993Z",
+  "responseId": "resp_0ddffc9c30a1a523006acdab3e9dec87d0a2f74c8080b8334f+resp_08a38efd35400cc2006acdab9b38d487d09add94a4515d5cfc",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is already anchored by major arena pop/rap dates and Marvellous Island’s confirmed open-air electronic weekender, while most smaller Paris club calendars are not yet published.",
+    "events": [
+      {
+        "id": "paris-celine-dion-residency-may-2027",
+        "title": "Céline Dion Paris 2027",
+        "type": "residency",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-29",
+        "importance": 95,
+        "venueName": "Plenitude Arena",
+        "venueId": null,
+        "sourceUrl": "https://paris.celinedion.com/?lang=env",
+        "ticketUrl": "https://www.plenitudearena.com/en/event/celine-dion-paris-2027/",
+        "summary": "Céline Dion’s Paris residency adds ten confirmed May 2027 shows at Plenitude Arena: 8, 12, 14, 15, 19, 21, 22, 26, 28 and 29 May. The official announcement describes the run as a French-and-English hits concert experience produced by Concerts West, AEG Presents and Inter Concerts.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-marvellous-island-may-2027",
+        "title": "Marvellous Island 2027",
+        "type": "festival",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-16",
+        "importance": 88,
+        "venueName": "Plage de Torcy",
+        "venueId": null,
+        "sourceUrl": "https://marvellous-island.fr/",
+        "ticketUrl": "https://marvellous-island.fr/",
+        "summary": "Marvellous Island’s 15th edition is confirmed for 15–16 May 2027 at Plage de Torcy, about 20 minutes from Paris. The open-air electronic festival lists 80 artists across four stages, with the detailed lineup still to come.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-sdm-stade-de-france-may-2027",
+        "title": "SDM",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-30",
+        "importance": 88,
+        "venueName": "Stade de France",
+        "venueId": null,
+        "sourceUrl": "https://www.stadefrance.com/en/ticket/sdm",
+        "ticketUrl": "https://www.stadefrance.com/en/ticket/sdm",
+        "summary": "French rapper SDM is confirmed for two Stade de France shows on 29 and 30 May 2027. The stadium’s official page describes the dates as two exceptional shows following his sold-out Zénith and Accor Arena runs.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-jorja-smith-accor-may-2027",
+        "title": "Jorja Smith",
+        "type": "concert",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-27",
+        "importance": 80,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/jorja-smith--dbb43",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/jorja-smith--dbb43",
+        "summary": "Jorja Smith headlines Accor Arena on 27 May 2027. The venue notes her R&B profile and the newer 2-step, UK garage, house and afro-house direction of What Are The Odds.",
+        "genres": [
+          "r-and-b",
+          "house",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "paris-la-mano-19-may-2027",
+        "title": "La Mano 1.9",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 76,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/la-mano-19--1eacb",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/la-mano-19--1eacb",
+        "summary": "Paris 19th-arrondissement rapper La Mano 1.9 headlines Accor Arena on 7 May 2027. The venue announcement highlights his rise through French rap and tracks including “Im Sorry,” “Sexy Woman” and “Parisienne.”",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-odezenne-programme-b-2027",
+        "title": "Odezenne — Programme B",
+        "type": "residency",
+        "startDate": "2027-05-12",
+        "endDate": "2027-06-05",
+        "importance": 76,
+        "venueName": "La Maroquinerie",
+        "venueId": null,
+        "sourceUrl": "https://concerts.paris/en/events/serie-odezenne-programme-b",
+        "ticketUrl": "https://concerts.paris/go/tickets?event=serie-odezenne-programme-b",
+        "summary": "Eight-date La Maroquinerie run from French alternative hip-hop/electronic group Odezenne, with May dates on 12, 15, 19, 22, 26 and 29 May before continuing into June.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-jain-soul-system-2027",
+        "title": "Jain - Soul System Tour",
+        "type": "residency",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-15",
+        "importance": 74,
+        "venueName": "Le Trianon",
+        "venueId": null,
+        "sourceUrl": "https://concerts.paris/en/events/serie-jain-soul-system-tour",
+        "ticketUrl": "https://concerts.paris/go/tickets?event=serie-jain-soul-system-tour",
+        "summary": "Four-night Le Trianon run for Jain’s Soul System era, a compact pop-club residency blending electro, funk, rock and dancefloor influences in a 1,000-capacity room.",
+        "genres": [
+          "pop",
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-sombr-accor-may-2027",
+        "title": "SOMBR",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 73,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/sombr--b65f7",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/sombr--b65f7",
+        "summary": "SOMBR is confirmed at Accor Arena on 22 May 2027. The arena frames the show around his blend of arena pop, indie melancholy and glam charisma.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-meute-zenith-may-2027",
+        "title": "MEUTE",
+        "type": "concert",
+        "startDate": "2027-05-15",
+        "endDate": "2027-05-15",
+        "importance": 72,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Meute-21630",
+        "ticketUrl": "https://le-zenith.com/shows/Meute-21630",
+        "summary": "German techno marching band MEUTE performs at Zénith Paris - La Villette on 15 May 2027. The venue bills the show as an electro concert supporting the group’s album KOSMOS.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-guitar-festival-may-2027",
+        "title": "Paris Guitar Festival 2027",
+        "type": "festival",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-09",
+        "importance": 70,
+        "venueName": "Montrouge",
+        "venueId": null,
+        "sourceUrl": "https://www.parisguitarfestival.com/",
+        "ticketUrl": null,
+        "summary": "The 15th edition of Paris Guitar Festival is confirmed for 5–9 May 2027 in Montrouge, just south of Paris. The announced 2027 concerts include CharlÉlie Couture, Sanseverino & Lise Cabaret, Antoine Boyer, Cédric Caillaud & Gilles Réa, Yarol Poupaud and Steve Waring.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-suzane-accor-may-2027",
+        "title": "Suzane",
+        "type": "concert",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-29",
+        "importance": 70,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/suzane--19a60",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/suzane--19a60",
+        "summary": "French pop artist Suzane plays a special Accor Arena concert on 29 May 2027. The venue announcement cites her album Millenium and songs including “Je t’accuse,” “Virile” and “Champagne.”",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-generation-90-vs-2000-2027",
+        "title": "Generation 90 vs 2000 (Sam 08 Mai)",
+        "type": "club-night",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-09",
+        "importance": 70,
+        "venueName": "Bateau Concorde Atlantique",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/fr/events/generation-90-vs-2000-sam-08-mai",
+        "ticketUrl": "https://r.shotgun.live/fr/events/generation-90-vs-2000-sam-08-mai",
+        "summary": "Monthly Noctambuzz nostalgia club night on a Seine boat, advertised as a two-floor/terrace party for 800+ people with pop, house, hip-hop, R&B and 90s/2000s dancefloor selections.",
+        "genres": [
+          "pop",
+          "house",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-kpop-night-2027",
+        "title": "Kpop Night",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Le Dôme de Paris - Palais des Sports",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/kpop-night",
+        "ticketUrl": "https://shotgun.live/en/events/kpop-night",
+        "summary": "A ticketed K-pop fan-night/live experience built around Korean pop hits, choreography and high-energy crowd participation, positioned as a dedicated genre gathering rather than a single headliner show.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-groundation-bob-marley-tribute-2027",
+        "title": "Groundation - A Tribute To Bob Marley",
+        "type": "concert",
+        "startDate": "2027-05-19",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Cabaret Sauvage",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/en/events/groundation-a-tribute-to-bob-marley-cabaret-sauvage",
+        "ticketUrl": "https://r.shotgun.live/en/events/groundation-a-tribute-to-bob-marley-cabaret-sauvage",
+        "summary": "Roots-reggae and experimental-jazz band Groundation brings its rare Bob Marley tribute format to Cabaret Sauvage, a strong diaspora-adjacent live date for Paris’s reggae/jazz crossover crowd.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "paris-stanislas-la-cigale-2027",
+        "title": "Stanislas à La Cigale",
+        "type": "concert",
+        "startDate": "2027-05-26",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "La Cigale",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/es/events/stanislas-a-la-cigale",
+        "ticketUrl": "https://shotgun.live/es/events/stanislas-a-la-cigale",
+        "summary": "Structure-presented date for Stanislas, a young Colombes artist positioned between indie rap and alternative pop, following early traction on the French rap-pop scene.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

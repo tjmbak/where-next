@@ -1,0 +1,117 @@
+{
+  "slug": "hvar",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:13:26.517Z",
+  "responseId": "resp_0950d427f50ba79d006acdaf55cd2487d09918c6b61e72081b+resp_01f9be0ba1d3ebcd006acdafa5ae9c87d0a345c83d743c2dac",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 6,
+    "year": 2027,
+    "notes": "Confirmed June 2027 Hvar-relevant underground/diaspora listings are sparse; only route-based events that explicitly include Hvar and publish 2027 dates were included.",
+    "events": [
+      {
+        "id": "hvar-rhythm-waves-yacht-week-2027",
+        "title": "Yacht Week Croatia: Rhythm & Waves / Hip Hop & R&B Week",
+        "type": "festival",
+        "startDate": "2027-06-26",
+        "endDate": "2027-07-03",
+        "importance": 78,
+        "venueName": "Yacht Week Croatia Original Route: Trogir, Brač, Hvar and Vis",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/croatia-rhythm-waves",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-rhythm-waves",
+        "summary": "Yacht Week’s annual June diaspora-sound takeover of its Croatia Original route, explicitly including Hvar, with hip-hop, reggaeton, soca, dancehall, Moombahton and afrobeats across yacht parties, beach clubs, hand-picked DJs and a floating DJ deck.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "hvar-yacht-week-hip-hop-rnb-2027",
+        "title": "Yacht Week Croatia — Hip Hop & R&B Week",
+        "type": "festival",
+        "startDate": "2027-06-26",
+        "endDate": "2027-07-03",
+        "importance": 72,
+        "venueName": "Hvar / Vis / Milna route",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/hip-hop-rnb-week",
+        "ticketUrl": "https://www.theyachtweek.com/hip-hop-rnb-week",
+        "summary": "Yacht Week’s official Hip Hop & R&B Week page confirms its 2027 Week 26 dates as June 26–July 3 and states that the Croatia route includes Hvar, Vis and Milna. The program is a curated week of parties, floating DJ decks and beach-club moments soundtracked by hip-hop, reggaeton, soca, dancehall, Moombahton and afrobeats.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "hvar-sailweek-party-w26-2027",
+        "title": "Sailweek Croatia Party Route — Week 26",
+        "type": "festival",
+        "startDate": "2027-06-26",
+        "endDate": "2027-07-03",
+        "importance": 68,
+        "venueName": "Hvar / Palmižana route stop",
+        "venueId": null,
+        "sourceUrl": "https://sailweek.tours/blog/when-and-where-is-sailweek-2027-sailweek-dates-locations/",
+        "ticketUrl": "https://sailweekcroatia.com/party-sail-week-croatia/",
+        "summary": "Official Sailweek 2027 dates list Week 26 of the Croatia Party Route for June 26–July 3, with the route stopping at Hvar/Palmižana. The event is a week-long sailing-party format featuring organized parties, DJs, raft parties and beach-bar stops.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-sailweek-party-w25-2027",
+        "title": "Sailweek Croatia Party Route — Week 25",
+        "type": "festival",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-26",
+        "importance": 67,
+        "venueName": "Hvar / Palmižana route stop",
+        "venueId": null,
+        "sourceUrl": "https://sailweek.tours/blog/when-and-where-is-sailweek-2027-sailweek-dates-locations/",
+        "ticketUrl": "https://sailweekcroatia.com/party-sail-week-croatia/",
+        "summary": "Official Sailweek 2027 dates list Week 25 of the Croatia Party Route for June 19–26, with a Hvar/Palmižana stop. Sailweek describes the Croatia Party Route as combining sailing with beach bars, raft parties, DJs and a large summer social fleet.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-sailweek-party-w23-2027",
+        "title": "Sailweek Croatia Party Route — Week 23",
+        "type": "festival",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-12",
+        "importance": 66,
+        "venueName": "Hvar / Palmižana route stop",
+        "venueId": null,
+        "sourceUrl": "https://sailweek.tours/blog/when-and-where-is-sailweek-2027-sailweek-dates-locations/",
+        "ticketUrl": "https://sailweekcroatia.com/party-sail-week-croatia/",
+        "summary": "Official Sailweek 2027 dates list Week 23 of the Croatia Party Route for June 5–12, with the route stopping at Hvar/Palmižana. The format includes organized parties, beach bars, raft parties and DJs across the sailing week.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "hvar-sailweek-party-w24-2027",
+        "title": "Sailweek Croatia Party Route — Week 24",
+        "type": "festival",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-19",
+        "importance": 66,
+        "venueName": "Hvar / Palmižana route stop",
+        "venueId": null,
+        "sourceUrl": "https://sailweek.tours/blog/when-and-where-is-sailweek-2027-sailweek-dates-locations/",
+        "ticketUrl": "https://sailweekcroatia.com/party-sail-week-croatia/",
+        "summary": "Official Sailweek 2027 dates list Week 24 of the Croatia Party Route for June 12–19, with the route stopping at Hvar/Palmižana. The week is positioned as Sailweek’s classic party route, built around island hopping, DJs, beach bars and raft parties.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

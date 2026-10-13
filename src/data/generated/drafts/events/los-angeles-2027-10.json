@@ -1,0 +1,78 @@
+{
+  "slug": "los-angeles",
+  "month": 10,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:22:19.298Z",
+  "responseId": "resp_0feee2f4f83251d4006acdb1790b7887d099aa981f34b496e5+resp_0a9ec08879d0f7c3006acdb1c56ba487d0a9e933a28a6c2216",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 10,
+    "year": 2027,
+    "notes": "October 2027 is still lightly announced, with only a handful of firm Los Angeles-area music dates currently verifiable from venue, organizer, or major ticketing sources.",
+    "events": [
+      {
+        "id": "los-angeles-fontaines-dc-kia-forum-2027",
+        "title": "Fontaines D.C. with Iceage",
+        "type": "concert",
+        "startDate": "2027-10-15",
+        "endDate": "2027-10-15",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/event/fontaines-d-c/",
+        "ticketUrl": "https://www.ticketmaster.com/fontaines-dc-inglewood-california-10-15-2027/event/090065370B94A9E9",
+        "summary": "Kia Forum lists Fontaines D.C. on October 15, 2027, with Iceage supporting. Ticketmaster confirms the Inglewood date at 8:00 PM and identifies the venue as Kia Forum.",
+        "genres": []
+      },
+      {
+        "id": "los-angeles-naija-fest-la-2027",
+        "title": "NaijaFest LA 2027",
+        "type": "festival",
+        "startDate": "2027-10-02",
+        "endDate": "2027-10-02",
+        "importance": 76,
+        "venueName": "Gloria Molina Grand Park",
+        "venueId": null,
+        "sourceUrl": "https://naijafest.org/",
+        "ticketUrl": null,
+        "summary": "NaijaFest LA lists its next event for Saturday, October 2, 2027, from 12 PM to 7 PM at Gloria Molina Grand Park. The free Nigerian Independence Day celebration is billed around culture, community, food, DJs, and live music, with 2027 performers not yet announced.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-eros-ramazzotti-youtube-theater-2027",
+        "title": "Eros Ramazzotti — UNA HISTORIA IMPORTANTE",
+        "type": "concert",
+        "startDate": "2027-10-16",
+        "endDate": "2027-10-16",
+        "importance": 74,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/947099/eros-ramazzotti-rescheduled-from-11726-tickets",
+        "ticketUrl": "https://www.axs.com/events/947099/eros-ramazzotti-rescheduled-from-11726-tickets",
+        "summary": "AXS confirms Eros Ramazzotti at YouTube Theater in Inglewood on Saturday, October 16, 2027, at 8:00 PM. The event is listed as rescheduled from November 7, 2026.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-open-melody-golomb-oblivion-2027",
+        "title": "Open Melody presents Golomb LA Debut and Amps for Christ",
+        "type": "concert",
+        "startDate": "2027-10-10",
+        "endDate": "2027-10-10",
+        "importance": 62,
+        "venueName": "Oblivion",
+        "venueId": null,
+        "sourceUrl": "https://openmelody.la/",
+        "ticketUrl": null,
+        "summary": "Open Melody confirms an off-season Los Angeles show on Saturday, October 10, 2027, featuring Golomb’s LA debut and Amps for Christ at Oblivion. The listing gives the venue address, 7 PM doors, all-ages admission, and advance price.",
+        "genres": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "slug": "london",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:06:50.539Z",
+  "responseId": "resp_0c55bf6d3bc39430006acdad85d91087d09683956efda222a3+resp_0f0b852a08407648006acdae0db25887d0856540eff9700745",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 6,
+    "year": 2027,
+    "notes": "London’s confirmed June 2027 music calendar is already anchored by arena-scale pop/electronic shows, Brockwell Park’s queer-pop flagship Mighty Hoopla, and select jazz, reggae, drum & bass, and heritage outdoor concerts; many underground club calendars are likely still to be announced.",
+    "events": [
+      {
+        "id": "london-mighty-hoopla-2027",
+        "title": "Mighty Hoopla 2027",
+        "type": "festival",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-06",
+        "importance": 91,
+        "venueName": "Brockwell Park",
+        "venueId": null,
+        "sourceUrl": "https://www.mightyhoopla.com/london/faqs",
+        "ticketUrl": null,
+        "summary": "Mighty Hoopla returns to Brockwell Park for a two-day pop and queer-culture festival weekend. The official FAQ confirms the 2027 edition for Saturday 5 and Sunday 6 June.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-david-guetta-o2-2027",
+        "title": "David Guetta: The Monolith Tour",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/david-guetta-2027",
+        "ticketUrl": "https://www.axs.com/uk/events/1633920/david-guetta-tickets?staticDetails=staticDetails",
+        "summary": "David Guetta brings The Monolith Tour to The O2 for a one-night London arena show. The venue confirms the date as Saturday 5 June 2027.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-tame-impala-o2-jun-2027",
+        "title": "Tame Impala with Wet Leg",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-03",
+        "importance": 87,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/tame-impala-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/tame-impala-2027",
+        "summary": "Tame Impala plays a three-night London arena run at The O2, with Wet Leg billed as special guests. The venue lists the shows for 1–3 June 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-abba-voyage-jun-2027",
+        "title": "ABBA Voyage",
+        "type": "residency",
+        "startDate": "2027-06-07",
+        "endDate": "2027-06-07",
+        "importance": 85,
+        "venueName": "ABBA Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/uk/events/1391286/abba-voyage-monday-7th-june-2027-tickets",
+        "ticketUrl": "https://www.axs.com/uk/events/1391286/abba-voyage-monday-7th-june-2027-tickets",
+        "summary": "ABBA Voyage continues its long-running London residency at the purpose-built ABBA Arena. This representative confirmed performance is listed by AXS for Monday 7 June 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-sombr-o2-2027",
+        "title": "SOMBR with Suki Waterhouse",
+        "type": "concert",
+        "startDate": "2027-06-21",
+        "endDate": "2027-06-29",
+        "importance": 83,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/sombr",
+        "ticketUrl": "https://www.axs.com/uk/events/1588134/sombr-tickets?staticDetails=staticDetails",
+        "summary": "SOMBR plays a multi-night London arena run at The O2 with Suki Waterhouse listed as support. The O2 lists the run for 21–29 June 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-shreya-ghoshal-o2-2027",
+        "title": "Shreya Ghoshal: The Unstoppable Tour",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-04",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/shreya-ghoshal-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/shreya-ghoshal-2027",
+        "summary": "Shreya Ghoshal brings The Unstoppable Tour to The O2 as part of the venue’s 20th birthday series. The O2 confirms the London date for Friday 4 June 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-roni-size-reprazent-2027",
+        "title": "Roni Size & Reprazent: New Forms 30th Anniversary",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 82,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/roni-size-and-reprazent-new-forms-30th-anniversary-london-tickets-edp1701765",
+        "ticketUrl": "https://www.ticketmaster.co.uk/roni-size-reprazent-new-forms-30th-london-05-06-2027/event/3E00653DDE7F6CE4",
+        "summary": "Roni Size & Reprazent mark 30 years of the landmark drum & bass album New Forms at O2 Academy Brixton. Live Nation lists the London show for Saturday 5 June 2027.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-gregory-porter-rah-2027",
+        "title": "Gregory Porter",
+        "type": "concert",
+        "startDate": "2027-06-30",
+        "endDate": "2027-06-30",
+        "importance": 82,
+        "venueName": "Royal Albert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.gregoryporter.com/tour/",
+        "ticketUrl": "https://www.ticketmaster.co.uk/gregory-porter-tickets/artist/1536195?venueId=254432",
+        "summary": "Gregory Porter begins his Royal Albert Hall run in London on 30 June 2027. His official tour page lists the Royal Albert Hall date, with additional London dates continuing into July.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-patti-smith-chelsea-2027",
+        "title": "Live At Chelsea: Patti Smith Quartet",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 80,
+        "venueName": "Royal Hospital Chelsea",
+        "venueId": null,
+        "sourceUrl": "https://www.liveatchelsea.com/patti-smith",
+        "ticketUrl": "https://www.ticketmaster.co.uk/live-at-chelsea-patti-smith-quartet-london-13-06-2027/event/1F006541BA8144C1",
+        "summary": "Patti Smith Quartet headline Live At Chelsea at Royal Hospital Chelsea, with Tony Shanahan, Jackson Smith, and Seb Rochford named in the quartet. The event page confirms the Sunday 13 June date for the 2027 edition.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-cornelius-barbican-2027",
+        "title": "Cornelius",
+        "type": "concert",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-19",
+        "importance": 76,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/cornelius",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/cornelius",
+        "summary": "Cornelius, the project of Japanese musician and producer Keigo Oyamada, returns to London with music from REFRACTIONS and fan favourites. The Barbican confirms the show for Saturday 19 June 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-orange-camden-palace-2027",
+        "title": "Orange at Camden Palace Chapter 6",
+        "type": "club-night",
+        "startDate": "2027-06-05",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/KOKO/Orange-at-Camden-Palace-chapter-6/42839932/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/KOKO/Orange-at-Camden-Palace-chapter-6/42839932/",
+        "summary": "The long-running Orange/Camden Palace reunion series returns to KOKO for an old-school daytime rave edition rooted in classic London club culture.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-bananarama-chelsea-2027",
+        "title": "Live At Chelsea: Bananarama, Jason Donovan & T’Pau",
+        "type": "concert",
+        "startDate": "2027-06-11",
+        "endDate": "2027-06-11",
+        "importance": 73,
+        "venueName": "Royal Hospital Chelsea",
+        "venueId": null,
+        "sourceUrl": "https://ww2.bananarama.co.uk/gigs/",
+        "ticketUrl": "https://www.ticketmaster.co.uk/live-at-chelsea-tickets/artist/2092627",
+        "summary": "Bananarama headline Live At Chelsea with Jason Donovan and T’Pau also billed for the Friday night. Bananarama’s official tour page lists Royal Hospital Chelsea, London for 11 June 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-chezidek-jazz-cafe-2027",
+        "title": "Chezidek + Irie Ites",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 70,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://www.gigantic.com/chezidek-tickets/london-the-jazz-cafe/2027-06-13-18-00",
+        "ticketUrl": "https://www.gigantic.com/chezidek-tickets/london-the-jazz-cafe/2027-06-13-18-00",
+        "summary": "Roots reggae vocalist Chezidek plays The Jazz Cafe with Irie Ites. Gigantic lists the event for Sunday 13 June 2027 at The Jazz Cafe, London.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-this-is-lorelei-roundhouse-2027",
+        "title": "This Is Lorelei",
+        "type": "concert",
+        "startDate": "2027-06-23",
+        "endDate": "2027-06-23",
+        "importance": 70,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/this-is-lorelei/",
+        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/this-is-lorelei/",
+        "summary": "This Is Lorelei, Nate Amos’ solo project, headlines the Roundhouse Main Space. The Roundhouse lists the date as Wednesday 23 June 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-live-chelsea-jack-savoretti-2027",
+        "title": "Live At Chelsea: Jack Savoretti",
+        "type": "concert",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 68,
+        "venueName": "Royal Hospital Chelsea",
+        "venueId": null,
+        "sourceUrl": "https://www.liveatchelsea.com/jack-savoretti",
+        "ticketUrl": "https://www.ticketmaster.co.uk/live-at-chelsea-jack-savoretti-plus-london-12-06-2027/event/1F006541B7774106",
+        "summary": "Jack Savoretti headlines the Saturday night of Live At Chelsea at Royal Hospital Chelsea. The official event page lists the show for Saturday 12 June.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-curtom-orchestra-2027",
+        "title": "The Curtom Orchestra present Curtis Mayfield",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://eventslist.co.uk/london/events/the-curtom-orchestra-present-curtis-mayfield-2027-06-01",
+        "ticketUrl": "https://eventslist.co.uk/london/events/the-curtom-orchestra-present-curtis-mayfield-2027-06-01",
+        "summary": "AGMP presents an all-star soul/funk/R&B tribute to Curtis Mayfield at Camden’s Jazz Cafe, featuring musicians connected to Jamiroquai, The Brand New Heavies and Incognito.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-tuff-groove-target-locked-2027",
+        "title": "Tuff Groove - Target Locked",
+        "type": "club-night",
+        "startDate": "2027-06-26",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "The Lower Third",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/The-Lower-Third/Tuff-Groove---Target-Locked/42573039/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/The-Lower-Third/Tuff-Groove---Target-Locked/42573039/",
+        "summary": "Tuff Groove’s regular summer slammer brings a daytime hard-house-focused club session to The Lower Third, with lineup still to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-gewandhaus-lang-lang-jun1-2027",
+        "title": "Gewandhausorchester: Beethoven's Piano Concerto No. 3 & Symphony No. 3 with Lang Lang",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-01",
+        "importance": 82,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/gewandhausorchester-beethovens-piano-concerto",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/gewandhausorchester-beethovens-piano-concerto",
+        "summary": "Andris Nelsons conducts the Gewandhausorchester with Lang Lang in Beethoven’s Piano Concerto No. 3 and Symphony No. 3 at the Barbican. This is part of the Barbican’s Beethoven 200 residency.",
+        "genres": []
+      },
+      {
+        "id": "london-gewandhaus-lang-lang-jun2-2027",
+        "title": "Gewandhausorchester: Beethoven's Piano Concerto No. 4 & Symphony No. 7 with Lang Lang",
+        "type": "concert",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-02",
+        "importance": 82,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/gewandhausorchester-beethovens-piano-concerto-no-4",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/gewandhausorchester-beethovens-piano-concerto-no-4",
+        "summary": "The Gewandhausorchester returns for a second Beethoven 200 night with Lang Lang, pairing Piano Concerto No. 4 with Symphony No. 7. The programme also includes the UK premiere of a completed Beethoven sketch by Jörg Widmann.",
+        "genres": []
+      },
+      {
+        "id": "london-sinfonia-sheku-2027",
+        "title": "Sinfonia of London: Elgar Cello Concerto with Sheku Kanneh-Mason",
+        "type": "concert",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-16",
+        "importance": 78,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/sinfonia-of-london-elgar-cello-concerto",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/sinfonia-of-london-elgar-cello-concerto",
+        "summary": "Sheku Kanneh-Mason joins Sinfonia of London and conductor John Wilson for Elgar’s Cello Concerto. The programme also features Delius’ A Song of Summer and Vaughan Williams’ London Symphony.",
+        "genres": []
+      },
+      {
+        "id": "london-lso-desplat-2027",
+        "title": "London Symphony Orchestra: An Evening with Alexandre Desplat",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 74,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/london-symphony-orchestraalexandre-desplat",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/london-symphony-orchestraalexandre-desplat",
+        "summary": "Film composer Alexandre Desplat conducts the London Symphony Orchestra in a career-spanning concert. The Barbican source notes Desplat’s long recording relationship with the LSO and says the full programme is still to be announced.",
+        "genres": []
+      },
+      {
+        "id": "london-caroline-shaw-scottish-ensemble-2027",
+        "title": "Scottish Ensemble & Caroline Shaw",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 72,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/scottish-ensemble-caroline-shaw",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/scottish-ensemble-caroline-shaw",
+        "summary": "Pulitzer Prize-winning composer and vocalist Caroline Shaw appears with Scottish Ensemble in a programme including Shaw’s music alongside works by Bach, John Adams and Philip Glass. The concert is part of the Barbican’s Composer in Focus and Scottish Ensemble residency programming.",
+        "genres": []
+      },
+      {
+        "id": "london-beethoven-prometheus-circa-2027",
+        "title": "Beethoven's The Creatures of Prometheus: Academy of Ancient Music & Circa",
+        "type": "concert",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-24",
+        "importance": 72,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/aam-and-circa-beethovens-the-creatures-of-prometheus",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/aam-and-circa-beethovens-the-creatures-of-prometheus",
+        "summary": "Academy of Ancient Music and circus company Circa present a physical concert-theatre reinvention of Beethoven’s only ballet, The Creatures of Prometheus. The production is tied to the Barbican’s Beethoven 200 celebrations.",
+        "genres": []
+      },
+      {
+        "id": "london-rpo-brahms-dalene-2027",
+        "title": "Royal Philharmonic Orchestra: Brahms Violin Concerto",
+        "type": "concert",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-10",
+        "importance": 67,
+        "venueName": "Cadogan Hall",
+        "venueId": null,
+        "sourceUrl": "https://cadoganhall.com/whats-on/royal-philharmonic-orchestra-2026-27-brahms-violin-concerto/",
+        "ticketUrl": "https://cadoganhall.com/whats-on/royal-philharmonic-orchestra-2026-27-brahms-violin-concerto/",
+        "summary": "Alpesh Chauhan conducts the Royal Philharmonic Orchestra with violinist Johan Dalene in Brahms’ Violin Concerto. The programme also includes Farrenc’s Overture No. 2 and Schumann’s Symphony No. 4.",
+        "genres": []
+      },
+      {
+        "id": "london-rpo-tchaikovsky-2-2027",
+        "title": "Royal Philharmonic Orchestra: Tchaikovsky 2",
+        "type": "concert",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-24",
+        "importance": 66,
+        "venueName": "Cadogan Hall",
+        "venueId": null,
+        "sourceUrl": "https://cadoganhall.com/whats-on/royal-philharmonic-orchestra-2026-27-tchaikovsky-2/",
+        "ticketUrl": "https://cadoganhall.com/whats-on/royal-philharmonic-orchestra-2026-27-tchaikovsky-2/",
+        "summary": "Kirill Karabits conducts the Royal Philharmonic Orchestra with violinist Liya Petrova. The programme includes Fyodor Akimenko’s Angel, Stravinsky’s Violin Concerto and Tchaikovsky’s Symphony No. 2, ‘Little Russian’.",
+        "genres": []
+      },
+      {
+        "id": "london-classical-kate-bush-2027",
+        "title": "Classical Kate Bush: Cloudbusting with West London Sinfonia",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-04",
+        "importance": 64,
+        "venueName": "Cadogan Hall",
+        "venueId": null,
+        "sourceUrl": "https://cadoganhall.com/whats-on/classical-kate-bush-with-cloudbusting-2027/",
+        "ticketUrl": "https://cadoganhall.com/whats-on/classical-kate-bush-with-cloudbusting-2027/",
+        "summary": "Cloudbusting – The Music of Kate Bush performs an orchestral celebration of Kate Bush’s catalogue with more than 40 musicians from West London Sinfonia. The source notes that Kate Bush herself will not perform.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-echo-rising-stars-amelio-2027",
+        "title": "ECHO Rising Stars: Amelio Trio",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 60,
+        "venueName": "St Giles Cripplegate",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/echo-rising-stars-amelio-trio",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/echo-rising-stars-amelio-trio",
+        "summary": "Amelio Trio presents a chamber programme spanning Ives, Haydn, Schumann and a world-premiere ECHO commission by Winkelmann. The recital is part of the Barbican’s ECHO Rising Stars 2027 programme.",
+        "genres": []
+      },
+      {
+        "id": "london-echo-rising-stars-javus-2027",
+        "title": "ECHO Rising Stars: Javus Quartett",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 60,
+        "venueName": "St Giles Cripplegate",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2027/event/echo-rising-stars-javus-quartett",
+        "ticketUrl": "https://www.barbican.org.uk/whats-on/2027/event/echo-rising-stars-javus-quartett",
+        "summary": "Javus Quartett performs Bacewicz’s String Quartet No. 3, Shostakovich’s String Quartet No. 8 and a new ECHO commission by Oscar Jockel. The concert is part of Barbican Presents’ ECHO Rising Stars 2027 series.",
+        "genres": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:09:06.386Z",
+  "responseId": "resp_0425cbcd748b1568006acda0060aec87d0ae796f8b39ac6199+resp_06e8ec59090b19e7006acda092528087d089d9ad185161a5a6",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 in Rio is anchored by New Year’s spillover, major stadium rock, electronic sunset parties, and the first confirmed wave of pre-Carnival samba programming.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-soad-faith-no-more-2027",
+        "title": "System of a Down + Faith No More",
+        "type": "concert",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15",
+        "importance": 91,
+        "venueName": "Estádio Maracanã",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/system-of-a-down-e-faith-no-more-estadio-maracana-22023211/",
+        "ticketUrl": "https://www.eventim.com.br/event/system-of-a-down-e-faith-no-more-estadio-maracana-22023211/",
+        "summary": "System of a Down and Faith No More play a large-scale Rio stadium date at Maracanã, with gates listed for 16:00.",
+        "genres": []
+      },
+      {
+        "id": "rio-de-janeiro-rush-fifty-something-2027",
+        "title": "Rush: Fifty Something Tour",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 88,
+        "venueName": "Estádio Olímpico Nilton Santos (Engenhão)",
+        "venueId": null,
+        "sourceUrl": "https://www.rush.com/show/fifty-something-2027-01-30/",
+        "ticketUrl": "https://www.eventim.com.br/event/rush-fifty-something-tour-estadio-nilton-santos-21351415/",
+        "summary": "Rush’s official tour page confirms a Rio de Janeiro date at Estádio Olímpico Nilton Santos on January 30, 2027, with Eventim listing gates at 16:00.",
+        "genres": []
+      },
+      {
+        "id": "rio-de-janeiro-casabloco-noite-tambores-2027",
+        "title": "CasaBloco: Noite dos Tambores",
+        "type": "festival",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 84,
+        "venueName": "Jockey Club Brasileiro",
+        "venueId": null,
+        "sourceUrl": "https://riodejaneirosounds.com/en/evento/casabloco-noite-dos-tambores-2aIltv",
+        "ticketUrl": "https://shotgun.live/events/casa-bloco-noite-dos-tambores",
+        "summary": "Noite dos Tambores brings Tambores de Olokun, Imperatriz Leopoldinense with Maracatu Nação Porto Rico, Cortejo Afro with Larissa Luz, BaianaSystem, Buchecha’s Baile Só Love and DJs to CasaBloco.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-carnival-technical-rehearsal-jan31-2027",
+        "title": "Rio Carnival 2027 Technical Rehearsals and Lavagem da Sapucaí — Viradouro, Grande Rio and Mangueira",
+        "type": "carnival",
+        "startDate": "2027-01-31",
+        "endDate": "2027-01-31",
+        "importance": 84,
+        "venueName": "Marquês de Sapucaí",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://carnaval.rio/calendario-dos-ensaios-tecnicos-e-desfiles-das-escolas-mirins-do-carnaval-2027-e-divulgado/",
+        "ticketUrl": null,
+        "summary": "The final January rehearsal date includes the traditional Lavagem da Sapucaí from 17:00, followed from 19:00 by Unidos do Viradouro, Acadêmicos do Grande Rio and Estação Primeira de Mangueira.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-casabloco-norte-nordeste-2027",
+        "title": "CasaBloco: É Festa do Norte ao Nordeste",
+        "type": "festival",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15",
+        "importance": 83,
+        "venueName": "Jockey Club Brasileiro",
+        "venueId": null,
+        "sourceUrl": "https://riodejaneirosounds.com/en/evento/casabloco-e-festa-do-norte-ao-nordeste-3x7Pev",
+        "ticketUrl": "https://shotgun.live/events/casa-bloco-e-festa-do-norte-ao-nordeste",
+        "summary": "CasaBloco’s second 2027 night highlights music from Brazil’s North and Northeast, with Sinfônica Ambulante, Fafá de Belém, Alceu Valença, Sidney Magal’s Baile Cigano, DJ JP and DJ Pepe Jordão.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-casabloco-samba-pra-ti-2027",
+        "title": "CasaBloco: Samba Pra Ti",
+        "type": "festival",
+        "startDate": "2027-01-14",
+        "endDate": "2027-01-14",
+        "importance": 82,
+        "venueName": "Jockey Club Brasileiro",
+        "venueId": null,
+        "sourceUrl": "https://riodejaneirosounds.com/en/evento/casabloco-samba-pra-ti-1OIXKs",
+        "ticketUrl": "https://shotgun.live/events/casa-bloco-samba-pra-ti",
+        "summary": "CasaBloco’s opening 2027 night celebrates samba with Moacyr Luz & Samba do Trabalhador, Diogo Nogueira with Marina Iris, Baile do Cacique de Ramos, DJ JP and DJ Cris Panttoja.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-carnival-technical-rehearsal-jan23-2027",
+        "title": "Rio Carnival 2027 Technical Rehearsals — União de Maricá, Beija-Flor and Paraíso do Tuiuti",
+        "type": "carnival",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 82,
+        "venueName": "Marquês de Sapucaí",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://carnaval.rio/calendario-dos-ensaios-tecnicos-e-desfiles-das-escolas-mirins-do-carnaval-2027-e-divulgado/",
+        "ticketUrl": null,
+        "summary": "Riotur’s confirmed pre-Carnival programme lists children’s samba schools from 17:30, followed from 20:00 by União de Maricá, Beija-Flor de Nilópolis and Paraíso do Tuiuti at Sapucaí.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-carnival-technical-rehearsal-jan24-2027",
+        "title": "Rio Carnival 2027 Technical Rehearsals — Vila Isabel, Mocidade and Unidos da Tijuca",
+        "type": "carnival",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-24",
+        "importance": 82,
+        "venueName": "Marquês de Sapucaí",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://carnaval.rio/calendario-dos-ensaios-tecnicos-e-desfiles-das-escolas-mirins-do-carnaval-2027-e-divulgado/",
+        "ticketUrl": null,
+        "summary": "The January 24 technical-rehearsal night lists children’s schools from 17:00, followed from 19:00 by Unidos de Vila Isabel, Mocidade Independente de Padre Miguel and Unidos da Tijuca.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-carnival-technical-rehearsal-jan30-2027",
+        "title": "Rio Carnival 2027 Technical Rehearsals — Salgueiro, Imperatriz and Portela",
+        "type": "carnival",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 82,
+        "venueName": "Marquês de Sapucaí",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://carnaval.rio/calendario-dos-ensaios-tecnicos-e-desfiles-das-escolas-mirins-do-carnaval-2027-e-divulgado/",
+        "ticketUrl": null,
+        "summary": "Riotur confirms January 30 at Sapucaí with children’s samba schools from 17:30 and the main rehearsals by Acadêmicos do Salgueiro, Imperatriz Leopoldinense and Portela from 20:00.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-rio-reveillon-jockey-2027",
+        "title": "Rio Réveillon 2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 78,
+        "venueName": "Jockey Club Brasileiro",
+        "venueId": null,
+        "sourceUrl": "https://rioreveillon.com.br/en/lineup",
+        "ticketUrl": "https://rioreveillon.com.br/en/lineup",
+        "summary": "The confirmed Jockey Club New Year’s programme runs from 21:00 on December 31 to 05:00 on January 1, with Bom Gosto, Fica Comigo, samba-school drums and DJs.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-sos-mochakk-2027",
+        "title": "S.O.S Rio — Sound of Sunset: Mochakk Special Set",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-03",
+        "importance": 78,
+        "venueName": "Museu do Amanhã / Praça Mauá",
+        "venueId": null,
+        "sourceUrl": "https://www.qualfestario.com.br/todos-os-eventos/mochakkriodejaneiro",
+        "ticketUrl": null,
+        "summary": "Sound of Sunset brings Mochakk for a special set at Praça Mauá, with ANNA, Analu, JORD and Fancy Inc also listed for the first Sunday sunset of 2027.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-woof-week-2027",
+        "title": "Woof Week Rio 2027",
+        "type": "festival",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-24",
+        "importance": 75,
+        "venueName": "Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/woof-week-rio-2027",
+        "ticketUrl": "https://shotgun.live/pt-br/events/woof-week-rio-2027",
+        "summary": "Week-long LGBTQ+ bear-week festival with nighttime parties, pool parties, boat events, tours, and shows across Rio.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-tmx-xian-tommax-2027",
+        "title": "TMX Sessions @ Xian Rooftop - TOMMAX B'day",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Xian Rio",
+        "venueId": null,
+        "sourceUrl": "https://music.apple.com/us/concerts/ce.4712f377-f1e1-46da-a620-1bf34ff0ab53",
+        "ticketUrl": "https://linktr.ee/tmxc.events",
+        "summary": "Afro-house/house rooftop session from TOMMAX’s TMX Sessions brand at Xian Rio, positioned as a daytime-to-sunset birthday edition.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-barko-primeiro-2027",
+        "title": "Barko - Primeiro Mergulho",
+        "type": "beach-club",
+        "startDate": "2027-01-10",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "BR Marinas - Marina da Glória",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/barko-primeiro",
+        "ticketUrl": "https://shotgun.live/pt-br/events/barko-primeiro",
+        "summary": "House-led summer day party at Marina da Glória from Kbral, framed as Barko’s first “mergulho” of the year.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-hole-primeira-anvs-2027",
+        "title": "Hole: Primeira Do Anvs 2027",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 66,
+        "venueName": "Rua Sacadura Cabral, 147",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/hole-2027",
+        "ticketUrl": "https://shotgun.live/pt-br/events/hole-2027",
+        "summary": "Queer Rio party HOLE opens 2027 with a late-night edition in Saúde, listing DJs Rafa Guerra and JP aka JP plus performances and an interactive live show.",
+        "genres": [
+          "house",
+          "techno",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

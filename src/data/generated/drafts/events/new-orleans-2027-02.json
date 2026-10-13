@@ -1,0 +1,216 @@
+{
+  "slug": "new-orleans",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:26:29.384Z",
+  "responseId": "resp_039bcf5b791ee1fd006acda412a40c87d0a00cf32a32f70274+resp_002c648c0aceece2006acda487d3b087d0b84c4eb03a764d94",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 confirmations are still sparse, but verified standouts include Southern hip-hop, arena R&B, local DJ nightlife, and a major 1980s music cruise departing New Orleans.",
+    "events": [
+      {
+        "id": "new-orleans-80s-cruise-feb-2027",
+        "title": "The 80s Cruise 2027",
+        "type": "festival",
+        "startDate": "2027-02-27",
+        "endDate": "2027-03-06",
+        "importance": 86,
+        "venueName": "Royal Caribbean’s Mariner of the Seas",
+        "venueId": null,
+        "sourceUrl": "https://the80scruise.com/book-now/",
+        "ticketUrl": "https://the80scruise.com/book-now/",
+        "summary": "The 80s Cruise sails from New Orleans with a lineup including Chaka Khan, Night Ranger, Loverboy, DMC, Peter Hook & The Light, Public Image Ltd. and DJ Jazzy Jeff. The official cruise site confirms the February 27–March 6, 2027 itinerary departing New Orleans.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-mardi-gras-indians-2027",
+        "title": "Mardi Gras Day 2027: Black Masking / Mardi Gras Indians",
+        "type": "carnival",
+        "startDate": "2027-02-09",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Citywide",
+        "venueId": null,
+        "sourceUrl": "https://oddusee.com/indians/",
+        "ticketUrl": null,
+        "summary": "Citywide Mardi Gras Day masking by New Orleans Black Masking Indian tribes, centered on Uptown, Downtown, and Westbank neighborhood traditions—one of the city’s defining African-diaspora Carnival expressions.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-love-of-soul-tour-feb-2027",
+        "title": "The Love of Soul Tour: Fantasia, Anthony Hamilton, October London",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-19",
+        "importance": 82,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.smoothiekingcenter.com/events/detail/the-love-of-soul-tour",
+        "ticketUrl": "https://www.smoothiekingcenter.com/events/detail/the-love-of-soul-tour",
+        "summary": "Fantasia brings The Love of Soul Tour to Smoothie King Center with Anthony Hamilton and October London. The venue confirms the New Orleans stop for February 19, 2027 at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-8ball-mjg-bun-b-feb-2027",
+        "title": "8Ball & MJG and Bun B ft. The Renaissance Orchestra",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 76,
+        "venueName": "Saenger Theatre",
+        "venueId": null,
+        "sourceUrl": "https://us.atgtickets.com/events/8-ball-and-mjg-and-bun-b/saenger-theatre/",
+        "ticketUrl": "https://us.atgtickets.com/events/8-ball-and-mjg-and-bun-b/saenger-theatre/",
+        "summary": "Southern hip-hop legends 8Ball & MJG and Bun B perform at the Saenger Theatre with the Renaissance Orchestra. The official listing confirms the Saturday, February 13, 2027 show at 8:00 PM CT.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-la-reezy-skiddle-bandana-feb-2027",
+        "title": "La Reezy presents: SKIDDLE BANDANA Tour",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 70,
+        "venueName": "Gasa Gasa",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/gasa-gasa-tickets-new-orleans/venue/337092?page=1",
+        "ticketUrl": null,
+        "summary": "La Reezy’s SKIDDLE BANDANA Tour is listed for Gasa Gasa on February 20, 2027 at 9:00 PM. The show is a confirmed hip-hop/rap club-size booking on Ticketmaster’s Gasa Gasa venue calendar.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-high-society-hour-2027",
+        "title": "The New Orleans High Society Hour: An Evening of Live Jazz and Burlesque",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 61,
+        "venueName": "The AllWays Lounge & Theatre",
+        "venueId": null,
+        "sourceUrl": "https://neworleanslocal.com/event/the-new-orleans-high-society-hour-an-evening-of-live-jazz-and-burlesque/2027-02-06/",
+        "ticketUrl": "https://Nohighsocietyhour.eventbrite.com",
+        "summary": "Recurring AllWays Lounge cabaret night pairing the New Orleans High Society Jazz Band with burlesque and touring guests; a solid local jazz-cabaret scene pick during Carnival weekend.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-80s-night-travis-bell-feb-2027",
+        "title": "80's Night w/ Retro DJ Travis Bell",
+        "type": "club-night",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 60,
+        "venueName": "Howlin' Wolf",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/80s-night-w-retro-dj-howlin-wolf-tickets/14369314",
+        "ticketUrl": "https://www.ticketweb.com/event/80s-night-w-retro-dj-howlin-wolf-tickets/14369314",
+        "summary": "Retro DJ Travis Bell hosts an 80s-themed dance night at The Howlin' Wolf. TicketWeb confirms the event for Friday, February 26, 2027 at 8:00 PM CST.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-krewe-zulu-2027",
+        "title": "Krewe of Zulu Parade",
+        "type": "carnival",
+        "startDate": "2027-02-09",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Uptown New Orleans route",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigrasneworleans.com/parades/?order=alphabetic",
+        "ticketUrl": "https://www.mardigrasparadetickets.com/pages/parade/39",
+        "summary": "The historic African American Zulu Social Aid & Pleasure Club’s Mardi Gras morning parade, famous for hand-decorated coconuts and brass-band Carnival energy, is confirmed on the 2027 schedule for Tuesday, February 9 at 8:00 AM.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-krewe-nomtoc-2027",
+        "title": "Krewe of NOMTOC Parade",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Westbank route",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigrasneworleans.com/parades/?order=alphabetic",
+        "ticketUrl": null,
+        "summary": "The New Orleans Most Talked Of Club’s Westbank parade is a major local social-aid Carnival fixture with floats, bands, marching units, and signature community throws, confirmed for Saturday, February 6 at 10:45 AM.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-krewe-nandi-2027",
+        "title": "Krewe of Nandi Parade",
+        "type": "carnival",
+        "startDate": "2027-02-03",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Westbank route",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigrasneworleans.com/parades/?order=alphabetic",
+        "ticketUrl": null,
+        "summary": "An all-female Westbank Carnival krewe named for Queen Nandi kaBhebe of the Zulu Nation, listed on the 2027 Mardi Gras schedule for Wednesday, February 3 at 6:00 PM.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-krewe-music-2027",
+        "title": "The Mystic Krewe of Music Parade",
+        "type": "carnival",
+        "startDate": "2027-02-01",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Westbank / Marrero route",
+        "venueId": null,
+        "sourceUrl": "https://www.mardigrasneworleans.com/parades/?order=alphabetic",
+        "ticketUrl": null,
+        "summary": "A newer Westbank Carnival krewe built explicitly around music themes, listed on the 2027 Mardi Gras schedule for Monday, February 1 at 6:00 PM.",
+        "genres": [
+          "festival",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-goldmund-string-quartet-2027",
+        "title": "New Orleans Friends of Music: Goldmund String Quartet",
+        "type": "concert",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-24",
+        "importance": 60,
+        "venueName": "Dixon Hall, Tulane University",
+        "venueId": null,
+        "sourceUrl": "https://www.friendsofmusic.org/",
+        "ticketUrl": "https://www.friendsofmusic.org/",
+        "summary": "New Orleans Friends of Music lists Goldmund String Quartet on Wednesday, February 24, 2027 at 7:30pm CST as part of its 2026–27 chamber-music season. The performance is scheduled for Dixon Hall on Tulane University’s uptown campus.",
+        "genres": []
+      }
+    ]
+  }
+}

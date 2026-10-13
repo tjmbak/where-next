@@ -1,0 +1,34 @@
+{
+  "slug": "bali",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:15:48.823Z",
+  "responseId": "resp_06ef862ac975cf9e006acdb00b66d487d08168ece8873484d0+resp_046a81d189f040c8006acdb02e708c87d0a3e900df758019a9",
+  "searchCalls": 26,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 is still lightly announced for Bali’s travel-music calendar; most major clubs and beach venues have not yet published July 2027 programs.",
+    "events": [
+      {
+        "id": "bali-indonesian-latin-festival-2027",
+        "title": "Indonesian International Latin Festival & Asia-Pacific Salsa Summit 2027",
+        "type": "festival",
+        "startDate": "2027-07-15",
+        "endDate": "2027-07-19",
+        "importance": 72,
+        "venueName": "Sheraton Bali Kuta Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.indonesianlatinfestival.com/",
+        "ticketUrl": null,
+        "summary": "The official event site confirms the Indonesian International Latin Festival and Asia-Pacific Salsa Summit for 15–19 July 2027 at Sheraton Bali Kuta Resort. The program is positioned around Latin dance culture, performances, social dance sessions, workshops, networking and championship activity, with more artists still to be announced.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

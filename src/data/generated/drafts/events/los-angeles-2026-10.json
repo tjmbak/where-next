@@ -2,16 +2,328 @@
   "slug": "los-angeles",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:09:18.086Z",
-  "responseId": "resp_068a874d6a6bb1a10069ff5bb4876881968f4cdd3078302562",
-  "searchCalls": 18,
+  "generatedAt": "2026-10-13T02:26:08.163Z",
+  "responseId": "resp_0f570b070b0b568f006acd95d24c7087d082ba123a67ca3d65+resp_0e21f9947c9000d1006acd965c9ccc87d0964815b5c0819423",
+  "searchCalls": 34,
   "citations": [],
   "data": {
     "destinationSlug": "los-angeles",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is already anchored by arena and stadium-scale pop, K-pop, electronic, hip-hop/R&B, and alternative-rock shows across Inglewood, Downtown LA, Hollywood, and Pershing Square.",
+    "notes": "October 2026 pairs arena-scale pop, Latin, K-pop and electronic concerts with LA’s warehouse, house, Afro-house and Halloween rave ecosystem.",
     "events": [
+      {
+        "id": "los-angeles-escape-halloween-2026",
+        "title": "Escape Halloween 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 93,
+        "venueName": "NOS Events Center",
+        "venueId": null,
+        "sourceUrl": "https://escapehalloween.com/guide/hours-and-info/",
+        "ticketUrl": "https://escapehalloween.frontgatetickets.com/",
+        "summary": "Insomniac’s flagship Southern California Halloween dance festival returned to NOS Events Center with a lineup including Zedd, Excision, Richie Hawtin, Galantis, Steve Aoki, Jamie Jones b2b Franky Rizardo and Nina Kraviz.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-82world-la-2026",
+        "title": "82WORLD : LA",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 88,
+        "venueName": "LA State Historic Park",
+        "venueId": null,
+        "sourceUrl": "https://82world.com/",
+        "ticketUrl": "https://82world.com/",
+        "summary": "hello82’s two-day outdoor festival at LA State Historic Park featured ATEEZ, P1Harmony, BE:FIRST, xikers, AMPERS&ONE, cosmosy, GIRLSET and 8TURN.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-doja-cat-kia-forum-2026",
+        "title": "Doja Cat - Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 86,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-inglewood-california-10-22-2026/event/0900633A1B2389F9",
+        "ticketUrl": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-inglewood-california-10-22-2026/event/0900633A1B2389F9",
+        "summary": "Doja Cat’s Tour Ma Vie World Tour stopped at Kia Forum with special guest Latto listed by the venue.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-mayan-warrior-halloween-2026",
+        "title": "Mayan Warrior Halloween (Full Art Car)",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 86,
+        "venueName": "Grand Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2502381",
+        "ticketUrl": "https://ra.co/events/2502381",
+        "summary": "Mayan Warrior brought the full art car back to Grand Park for a Halloween edition headlined by CamelPhat with Darco, Luch and Yamagucci.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-all-day-i-dream-pershing-square-2026",
+        "title": "All Day I Dream Of Los Angeles",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 84,
+        "venueName": "Pershing Square",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426096",
+        "ticketUrl": "https://ra.co/events/2426096",
+        "summary": "Lee Burridge’s All Day I Dream returned to Los Angeles for an outdoor Pershing Square edition with Parallelle, Tim Green, Birds of Mind and Anton Tumas.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-rhonda-direct-drive-sherelle-2026",
+        "title": "Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 84,
+        "venueName": "Los Globos",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2514359",
+        "ticketUrl": "https://ra.co/events/2514359",
+        "summary": "Two LA nightlife crews joined forces at Los Globos for a two-floor lineup led by SHERELLE, Todd Edwards, Pangaea, Danny Daze and Mia Koden.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-gorillaz-kia-forum-2026",
+        "title": "Gorillaz - The Mountain Tour",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 84,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/gorillaz-the-mountain-tour-inglewood-california-10-24-2026/event/0900645BA891CBBF",
+        "ticketUrl": "https://www.ticketmaster.com/gorillaz-the-mountain-tour-inglewood-california-10-24-2026/event/0900645BA891CBBF",
+        "summary": "Gorillaz played The Mountain Tour at Kia Forum, with Little Simz and Deltron 3030 listed as guests by the venue.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-soulection-experience-2026",
+        "title": "The Soulection Experience: 15 Year Anniversary",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Reframe Studios Outdoors",
+        "venueId": null,
+        "sourceUrl": "https://ftp.thisisframework.com/event/soulection-15-year-anniversary/",
+        "ticketUrl": "https://ftp.thisisframework.com/event/soulection-15-year-anniversary/",
+        "summary": "Framework’s open-air 15th-anniversary Soulection gathering with Kaytranada, Joe Kay, ESTA, DJ Miss Milan, and Ayanna Heaven—an anchor event for LA’s future-soul, global beats, R&B, and dance community.",
+        "genres": [
+          "electronic",
+          "hip-hop",
+          "r-and-b",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-lights-down-low-rave-grave-2026",
+        "title": "Lights Down Low: Rave to the Grave",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "TBA - Downtown Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2502318",
+        "ticketUrl": "https://ra.co/events/2502318",
+        "summary": "Lights Down Low’s Halloween warehouse rave pairs Avalon Emerson, Sextile DJ set, Ellen Allien, Effy, JOHNNY_HEALTH, Richie Panic, and Corey Sizemore for a heavyweight techno lineup.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-giegling-halloween-2026",
+        "title": "Giegling in LA - The Halloween Special",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "TBA - Downtown Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2505104",
+        "ticketUrl": "https://ra.co/events/2505104",
+        "summary": "Midnight Lovers hosts a Halloween special from cult German electronic label/collective Giegling at a downtown secret location, with very high RA interest for a warehouse-style listing.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-csw-open-air-djrum-mark-ernestus-2026",
+        "title": "CSW Open Air: DjRUM, Mark Ernestus, Akanbi b2b The Large",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 82,
+        "venueName": "TBA - Outside",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2521281",
+        "ticketUrl": "https://ra.co/events/2521281",
+        "summary": "Canary Sound Werk’s open-air party featured extended sets from DjRUM and Mark Ernestus, plus Akanbi b2b The Large, bridging experimental bass, dubwise selections and amapiano.",
+        "genres": [
+          "amapiano",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-anotr-factory93-2026",
+        "title": "ANOTR - Withness presented by Factory 93",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 82,
+        "venueName": "Ace * Mission Studios",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/anotr-2026-10-30-los-angeles-ca/",
+        "ticketUrl": "https://www.insomniac.com/events/anotr-2026-10-30-los-angeles-ca/",
+        "summary": "Factory 93 presented ANOTR’s Withness at Ace * Mission Studios, a house-focused evening running from 6 PM to midnight.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-carl-craig-octave-one-2026",
+        "title": "Carl Craig & Octave One (Live)",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "TBA - Downtown Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2553888",
+        "ticketUrl": "https://ra.co/events/2553888",
+        "summary": "Stereo Punks presents two Detroit techno institutions—Carl Craig and Octave One live—in a downtown LA secret-location event running late.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-factory93-anotr-2026",
+        "title": "Factory 93 presents ANOTR",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Ace*Mission Studios - Under The 6th Street Bridge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2496217",
+        "ticketUrl": "https://ra.co/events/2496217",
+        "summary": "Factory 93 brings Dutch house duo ANOTR to the under-6th-Street-Bridge Ace*Mission Studios space for an early Halloween-weekend house event.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-juanes-kia-forum-2026",
+        "title": "Juanes North America Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 80,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/juanes-north-america-tour-2026-inglewood-california-10-16-2026/event/0900644E0BF15E32",
+        "ticketUrl": "https://www.ticketmaster.com/juanes-north-america-tour-2026-inglewood-california-10-16-2026/event/0900644E0BF15E32",
+        "summary": "Juanes brought his North America Tour 2026 to the Kia Forum in Inglewood, with Andrea Bajar listed on the venue page.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-worship-kia-forum-2026",
+        "title": "WORSHIP North America 2026",
+        "type": "concert",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 80,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/worship-north-america-2026-inglewood-california-10-23-2026/event/090064D3F4CB4635",
+        "ticketUrl": "https://www.ticketmaster.com/worship-north-america-2026-inglewood-california-10-23-2026/event/090064D3F4CB4635",
+        "summary": "The drum-and-bass supergroup WORSHIP brought Sub Focus, Dimension, Culture Shock and 1991 to Kia Forum.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-conducta-into-the-woods-2026",
+        "title": "Into The Woods presents Conducta (All Night Long)",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 78,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2527978",
+        "ticketUrl": "https://ra.co/events/2527978",
+        "summary": "Into The Woods hosted UK garage and house artist Conducta for an open-to-close set at a TBA Los Angeles location.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-monsta-x-kia-forum-2026",
+        "title": "2026 MONSTA X WORLD TOUR [THE X : NEXUS] IN LOS ANGELES",
+        "type": "concert",
+        "startDate": "2026-10-20",
+        "endDate": "2026-10-20",
+        "importance": 78,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/2026-monsta-x-world-tour-the-inglewood-california-10-20-2026/event/09006481D49ADEBB",
+        "ticketUrl": "https://www.ticketmaster.com/2026-monsta-x-world-tour-the-inglewood-california-10-20-2026/event/09006481D49ADEBB",
+        "summary": "MONSTA X played the Los Angeles-area stop of their 2026 world tour, [THE X : NEXUS], at Kia Forum in Inglewood.",
+        "genres": [
+          "pop"
+        ]
+      },
       {
         "id": "los-angeles-bruno-mars-sofi-2026",
         "title": "Bruno Mars: The Romantic Tour with DJ Pee.Wee and Raye",
@@ -27,6 +339,22 @@
         "genres": [
           "pop",
           "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-my-chemical-romance-hollywood-bowl-2026",
+        "title": "My Chemical Romance with Special Guest The Used",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 90,
+        "venueName": "Hollywood Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/my-chemical-romance-hollywood-california-10-30-2026/event/0B006332CBE5399E",
+        "ticketUrl": "https://www.ticketmaster.com/my-chemical-romance-hollywood-california-10-30-2026/event/0B006332CBE5399E",
+        "summary": "My Chemical Romance play the Hollywood Bowl with special guest The Used on October 30, one of several confirmed October Hollywood Bowl dates for the band.",
+        "genres": [
+          "pop"
         ]
       },
       {
@@ -47,20 +375,36 @@
         ]
       },
       {
-        "id": "los-angeles-all-day-i-dream-2026",
-        "title": "All Day I Dream of Los Angeles",
+        "id": "los-angeles-outworld-klangkuenstler-2026",
+        "title": "Factory 93 presents OUTWORLD: KlangKuenstler All Night Long",
         "type": "club-night",
         "startDate": "2026-10-03",
-        "endDate": "2026-10-03",
-        "importance": 78,
-        "venueName": "Pershing Square",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Kia Forum",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2426096",
-        "ticketUrl": "https://ra.co/events/2426096",
-        "summary": "All Day I Dream’s Los Angeles edition is confirmed at Pershing Square from 3:00 PM to 11:00 PM, with Lee Burridge listed and more acts TBA.",
+        "sourceUrl": "https://ra.co/events/2452834",
+        "ticketUrl": "https://ra.co/events/2452834",
+        "summary": "Factory 93 hosts the West Coast debut and only U.S. stop of KlangKuenstler’s OUTWORLD concept, an all-night techno AV show at the Kia Forum.",
         "genres": [
-          "house",
+          "techno",
           "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-kacey-musgraves-crypto-2026",
+        "title": "Kacey Musgraves: Middle of Nowhere Tour with Gabriella Rose and Estevie",
+        "type": "concert",
+        "startDate": "2026-10-18",
+        "endDate": "2026-10-19",
+        "importance": 83,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
+        "summary": "Kacey Musgraves plays two nights at Crypto.com Arena on the Middle of Nowhere Tour; Gabriella Rose is listed for October 18 and Estevie for October 19.",
+        "genres": [
+          "pop"
         ]
       },
       {
@@ -75,6 +419,22 @@
         "sourceUrl": "https://thekiaforum.com/event/mumford-sons/",
         "ticketUrl": "https://thekiaforum.com/event/mumford-sons/",
         "summary": "Mumford & Sons play the Kia Forum on the Prizefighter Tour, with Sierra Ferrell listed as support for the October 6 date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-weezer-gathering-2026",
+        "title": "Weezer: The Gathering with The Shins & Silversun Pickups",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 82,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/weezer102426",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/weezer102426",
+        "summary": "Weezer’s The Gathering tour wraps its Los Angeles date at Crypto.com Arena, with The Shins and Silversun Pickups listed as special guests.",
         "genres": [
           "pop"
         ]
@@ -116,6 +476,23 @@
         ]
       },
       {
+        "id": "los-angeles-synthesis-002-2026",
+        "title": "SYNTHESIS 002: Lineup TBA",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "TBA - Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2434324",
+        "ticketUrl": "https://ra.co/events/2434324",
+        "summary": "Synthetik Minds returns with SYNTHESIS 002, a late-night, limited-capacity techno warehouse-style event with a no-photo policy and lineup details still under wraps.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
         "id": "los-angeles-young-miko-intuit-2026",
         "title": "Young Miko",
         "type": "concert",
@@ -133,86 +510,89 @@
         ]
       },
       {
-        "id": "los-angeles-kacey-musgraves-crypto-2026",
-        "title": "Kacey Musgraves: Middle of Nowhere Tour with Gabriella Rose and Estevie",
-        "type": "concert",
-        "startDate": "2026-10-18",
-        "endDate": "2026-10-19",
-        "importance": 83,
-        "venueName": "Crypto.com Arena",
+        "id": "los-angeles-hincity-rave-halloween-2026",
+        "title": "HINCity RAVE Los Angeles Halloween",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 73,
+        "venueName": null,
         "venueId": null,
-        "sourceUrl": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
-        "ticketUrl": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
-        "summary": "Kacey Musgraves plays two nights at Crypto.com Arena on the Middle of Nowhere Tour; Gabriella Rose is listed for October 18 and Estevie for October 19.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "los-angeles-doja-cat-kia-forum-2026",
-        "title": "Doja Cat: Tour Ma Vie World Tour",
-        "type": "concert",
-        "startDate": "2026-10-22",
-        "endDate": "2026-10-22",
-        "importance": 88,
-        "venueName": "Kia Forum",
-        "venueId": null,
-        "sourceUrl": "https://thekiaforum.com/event/doja-cat/",
-        "ticketUrl": "https://thekiaforum.com/event/doja-cat/",
-        "summary": "Doja Cat’s Tour Ma Vie World Tour is confirmed at the Kia Forum on October 22.",
-        "genres": [
-          "hip-hop",
-          "pop"
-        ]
-      },
-      {
-        "id": "los-angeles-gorillaz-kia-forum-2026",
-        "title": "Gorillaz: The Mountain Tour with Deltron 3030",
-        "type": "concert",
-        "startDate": "2026-10-24",
-        "endDate": "2026-10-24",
-        "importance": 86,
-        "venueName": "Kia Forum",
-        "venueId": null,
-        "sourceUrl": "https://thekiaforum.com/event/gorillaz-2/",
-        "ticketUrl": "https://thekiaforum.com/event/gorillaz-2/",
-        "summary": "Gorillaz bring The Mountain Tour to the Kia Forum, with Deltron 3030 listed as the guest act.",
+        "sourceUrl": "https://www.hinevents.com/",
+        "ticketUrl": null,
+        "summary": "Hot Import Nights lists a Los Angeles Halloween edition of HINCity RAVE, its national music-first after-hours rave series tied to car, pop-culture, anime, and fandom weekends.",
         "genres": [
           "electronic",
-          "hip-hop",
-          "pop"
+          "pop",
+          "festival"
         ]
       },
       {
-        "id": "los-angeles-weezer-gathering-2026",
-        "title": "Weezer: The Gathering with The Shins & Silversun Pickups",
-        "type": "concert",
-        "startDate": "2026-10-24",
-        "endDate": "2026-10-24",
-        "importance": 82,
-        "venueName": "Crypto.com Arena",
+        "id": "los-angeles-dublon-rooftop-2026",
+        "title": "Dublon [rooftop party]",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Harbor House DTLA",
         "venueId": null,
-        "sourceUrl": "https://www.cryptoarena.com/events/detail/weezer102426",
-        "ticketUrl": "https://www.cryptoarena.com/events/detail/weezer102426",
-        "summary": "Weezer’s The Gathering tour wraps its Los Angeles date at Crypto.com Arena, with The Shins and Silversun Pickups listed as special guests.",
+        "sourceUrl": "https://ra.co/events/2455911",
+        "ticketUrl": "https://ra.co/events/2455911",
+        "summary": "Orlove Entertainment, All Day All Night Events, and Safra present a DTLA rooftop session with Dublon, centered on jazz-house and house crossover sounds.",
         "genres": [
-          "pop"
+          "house",
+          "jazz",
+          "electronic"
         ]
       },
       {
-        "id": "los-angeles-my-chemical-romance-hollywood-bowl-2026",
-        "title": "My Chemical Romance with Special Guest The Used",
+        "id": "los-angeles-parra-for-cuva-2026",
+        "title": "Parra for Cuva",
         "type": "concert",
-        "startDate": "2026-10-30",
-        "endDate": "2026-10-30",
-        "importance": 90,
-        "venueName": "Hollywood Bowl",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "The Bellwether",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/my-chemical-romance-hollywood-california-10-30-2026/event/0B006332CBE5399E",
-        "ticketUrl": "https://www.ticketmaster.com/my-chemical-romance-hollywood-california-10-30-2026/event/0B006332CBE5399E",
-        "summary": "My Chemical Romance play the Hollywood Bowl with special guest The Used on October 30, one of several confirmed October Hollywood Bowl dates for the band.",
+        "sourceUrl": "https://ra.co/events/2419959",
+        "ticketUrl": "https://ra.co/events/2419959",
+        "summary": "Parra for Cuva brings a house/electronica live show to The Bellwether on Halloween night, a more intimate electronic-concert alternative to larger holiday raves.",
         "genres": [
-          "pop"
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-samuel-moriero-la-debut-2026",
+        "title": "Samuel Moriero *LA Debut",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "1720",
+        "venueId": null,
+        "sourceUrl": "https://app.discotech.me/events/38112912-samuel-moriero-la-debut-at-1720-nightclub",
+        "ticketUrl": "https://app.discotech.me/events/38112912-samuel-moriero-la-debut-at-1720-nightclub",
+        "summary": "Trinity presents Samuel Moriero’s Los Angeles debut at 1720, a hard-dance/hard-techno-leaning club booking with ticketing through Etix/Discotech.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-obscene-industrial-2026",
+        "title": "Obscene: Goth / Industrial / EBM / Darkwave",
+        "type": "club-night",
+        "startDate": "2026-10-22",
+        "endDate": null,
+        "importance": 61,
+        "venueName": "The Slipper Clutch",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2348303",
+        "ticketUrl": null,
+        "summary": "Los Angeles Industrial’s monthly DTLA night focuses on dark electronic club sounds, with residents Industria Nova and Damascus Knives spinning EBM, industrial, goth, and darkwave.",
+        "genres": [
+          "electronic"
         ]
       }
     ]

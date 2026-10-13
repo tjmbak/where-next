@@ -2,32 +2,332 @@
   "slug": "miami",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:04:15.638Z",
-  "responseId": "resp_0e869451db23bf510069ff5a92cef4819cad1d4b1c15afb023",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:51:04.804Z",
+  "responseId": "resp_0a9b2dff0f84a9b7006acd9b9eb01487d0b250b826323854d3+resp_0a8b79ab8dca558f006acd9c37a96087d0abd9ca161c59f020",
+  "searchCalls": 45,
   "citations": [],
   "data": {
     "destinationSlug": "miami",
     "month": 12,
     "year": 2026,
-    "notes": "December 2026 is still early for Miami club and Art Week party announcements, so the confirmed calendar is currently weighted toward arena concerts and holiday programming.",
+    "notes": "December 2026 is anchored by Miami Art Week/Basel electronic programming, with arena-scale Latin and R&B concerts filling out the rest of the month.",
     "events": [
       {
-        "id": "miami-rb-tour-dec-3-2026",
-        "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+        "id": "miami-factory-basel-2026",
+        "title": "Factory Basel 2026",
+        "type": "festival",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-06",
+        "importance": 90,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.factorytown.com/factory-basel-2026/",
+        "ticketUrl": "https://www.factorytown.com/factory-basel-2026/",
+        "summary": "Factory Town’s five-night Art Week takeover returns with all five stages active and a lineup including Chris Lake, Solomun, PAWSA, Rampa, Dixon, Luciano, The Martinez Brothers, Gordo, HAAi, salute and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-usher-chris-brown-rb-tour-2026",
+        "title": "The R&B Tour — Usher Raymond & Chris Brown",
         "type": "concert",
         "startDate": "2026-12-03",
         "endDate": "2026-12-03",
         "importance": 88,
         "venueName": "Hard Rock Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_67jBzIg/the-r-b-tour-starring-usher-raymond-chris-brown",
-        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_67jBzIg/the-r-b-tour-starring-usher-raymond-chris-brown",
-        "summary": "Usher and Chris Brown bring their co-headlining R&B stadium tour to Hard Rock Stadium in Miami Gardens. The Live Nation listing confirms the Thursday, December 3, 2026 show at 7:00 PM.",
+        "sourceUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-miami-florida-12-03-2026/event/0D0064711CEB8A35",
+        "ticketUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-miami-florida-12-03-2026/event/0D0064711CEB8A35",
+        "summary": "Usher Raymond and Chris Brown bring their co-headlining stadium R&B Tour to Hard Rock Stadium, with the December 3 show confirmed by Ticketmaster.",
         "genres": [
           "r-and-b",
-          "pop",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-circoloco-factory-basel-2026",
+        "title": "Circoloco Miami — Factory Basel 2026",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 86,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/our-world/factory-town/",
+        "ticketUrl": "https://www.insomniac.com/events/our-world/factory-town/",
+        "summary": "Ibiza institution Circoloco lands at Factory Town during Factory Basel, with the wider confirmed listing showing Rampa, PAWSA, Dixon, Seth Troxler, Carlita, Prospa and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-elrow-factory-basel-closing-2026",
+        "title": "elrow Miami — Factory Basel Closing Party",
+        "type": "club-night",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 85,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://elrow-miami.vercel.app/",
+        "ticketUrl": "https://www.insomniac.com/events/our-world/factory-town/",
+        "summary": "elrow closes Factory Basel at Factory Town on Sunday, December 6, running from 10 PM to sunrise.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-rawayana-kaseya-2026",
+        "title": "RAWAYANA — ¿Dónde Es El After? World Tour",
+        "type": "concert",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-06",
+        "importance": 84,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
+        "summary": "RAWAYANA brings its ¿Dónde Es El After? World Tour to Kaseya Center for three nights on December 4, 5 and 6.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-factory-basel-pass-2026",
+        "title": "Factory Basel 2026 - 5 Day Pass",
+        "type": "festival",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-07",
+        "importance": 84,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1624990/factory-basel-5-day-pass-122-127-tickets",
+        "ticketUrl": "https://www.axs.com/events/1624990/factory-basel-5-day-pass-122-127-tickets",
+        "summary": "Factory Town's multi-night Art Week takeover returns with a five-day pass and a large house/techno bill across the compound.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "miami-paradise-space-basel-2026",
+        "title": "Paradise — Space Basel 2026",
+        "type": "club-night",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 83,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/paradise-space-basel-2026/43054",
+        "ticketUrl": "https://www.clubspace.com/shows",
+        "summary": "Jamie Jones brings his Paradise party to the Club Space Terrace as part of Space Basel, focused on house and techno.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-where-are-my-keys-basel-2026",
+        "title": "Where Are My Keys — Miami Basel",
+        "type": "club-night",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-06",
+        "importance": 82,
+        "venueName": "The Pickle",
+        "venueId": null,
+        "sourceUrl": "https://wherearemykeys.com/",
+        "ticketUrl": "https://ra.co/events/2513593",
+        "summary": "The four-day Where Are My Keys Basel edition takes over The Pickle with Ricardo Villalobos, Danny Daze, Fumiya Tanaka, tINI, Mike Servito, Dyed Soundorom and more across minimal, electro and underground house.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-music-on-space-basel-2026",
+        "title": "Music On — Space Basel",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 82,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.clubspace.com/shows",
+        "ticketUrl": "https://www.clubspace.com/shows",
+        "summary": "Marco Carola’s Music On takes over the Club Space Terrace for a Space Basel edition on Friday night.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-michael-bibi-one-life-2026",
+        "title": "III Points Basel: Michael Bibi’s One Life",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 82,
+        "venueName": "Hialeah Park Casino",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/iii-points-basel-michael-bibis-one-life/42365",
+        "ticketUrl": "https://www.bandsintown.com/e/1040076960-michael-bibi-at-hialeah-park-racing-and-casino",
+        "summary": "Michael Bibi brings his open-air One Life concept to Hialeah Park Casino for a Basel-week house event presented in the III Points orbit.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-where-are-my-keys-2026",
+        "title": "Where Are My Keys : Art Basel 2026",
+        "type": "festival",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-07",
+        "importance": 82,
+        "venueName": "94th Aero Squadron Restaurant / The Pickle",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/fr/festivals/where-are-my-keys-art-basel-2026",
+        "ticketUrl": "https://shotgun.live/fr/festivals/where-are-my-keys-art-basel-2026",
+        "summary": "Un_Mute teams with Omnidisc, Resolute, Tantanz, Trommel and Ricarditas for four days and nights of minimal, electro and afterhours-minded house near the airport.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-ryan-castro-los-chorros-2026",
+        "title": "Ryan Castro — Los Chorros Con Richy Tour",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 80,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/ryan-castro-1",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/ryan-castro-1",
+        "summary": "Colombian reggaetón artist Ryan Castro brings the Los Chorros Con Richy Tour to Kaseya Center on December 19.",
+        "genres": [
+          "latin",
           "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-anotr-watson-island-2026",
+        "title": "ANOTR at Watson Island Park",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 78,
+        "venueName": "Watson Island Park",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1039930132-anotr-at-watson-island-park",
+        "ticketUrl": "https://www.bandsintown.com/e/1039930132-anotr-at-watson-island-park",
+        "summary": "Amsterdam duo ANOTR play a daytime Art Week show at Watson Island Park, bringing their disco-, soul- and funk-influenced house sound to Miami.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-maroon-5-hard-rock-live-2026",
+        "title": "Maroon 5 at Hard Rock Live",
+        "type": "concert",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-29",
+        "importance": 78,
+        "venueName": "Hard Rock Live",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/hollywood/events/maroon-5",
+        "ticketUrl": "https://www.ticketmaster.com/maroon-5-tickets/artist/824144?venueId=107337",
+        "summary": "Maroon 5 play a two-night run at Hard Rock Live in nearby Hollywood on December 28 and 29.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-saga-bedouin-2026",
+        "title": "Bedouin Presents SAGA | Miami Art Week 2026",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Little River Studios",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/778777",
+        "ticketUrl": "https://feverup.com/m/778777",
+        "summary": "Bedouin bring the SAGA concept to Little River Studios with WhoMadeWho, Notre Dame and Nandu for a 21+ house-focused Art Week night.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-raw-cuts-ground-basel-2026",
+        "title": "RAW CUTS (Ground Basel 2026)",
+        "type": "club-night",
+        "startDate": "2026-12-03",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Ground Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/raw-cuts-ground-basel-2026/43174",
+        "ticketUrl": "https://www.miamiandbeaches.com/event/raw-cuts-ground-basel-2026/43174",
+        "summary": "HAAi, salute, Bakke, Sister System, EREZ.JPG, shanty mane and Erin Page bring psychedelic techno, garage, house and left-field club sounds to The Ground.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-everyday-people-miami-2026",
+        "title": "Everyday People Miami",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 76,
+        "venueName": "Wynwood Marketplace",
+        "venueId": null,
+        "sourceUrl": "https://www.everydayppl.nyc/events/everyday-people-miami-1-mflfm",
+        "ticketUrl": "https://www.everydayppl.nyc/events/everyday-people-miami-1-mflfm",
+        "summary": "Everyday People’s diaspora-focused party returns to Wynwood Marketplace for a Saturday night into Sunday morning Miami edition.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-gente-de-zona-isla-viva-2026",
+        "title": "Gente de Zona — Isla Viva Tour",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-11",
+        "importance": 76,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/gente-de-zona",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/gente-de-zona",
+        "summary": "Cuban duo Gente de Zona bring the Isla Viva Tour to Kaseya Center for a one-night Miami arena show.",
+        "genres": [
+          "latin",
+          "pop"
         ]
       },
       {
@@ -49,21 +349,92 @@
         ]
       },
       {
-        "id": "miami-rawayana-dec-2026",
-        "title": "RAWAYANA - ¿Dónde Es El After? World Tour",
-        "type": "concert",
-        "startDate": "2026-12-05",
-        "endDate": "2026-12-06",
-        "importance": 80,
-        "venueName": "Kaseya Center",
+        "id": "miami-black-coffee-space-2026",
+        "title": "Black Coffee at Club Space",
+        "type": "club-night",
+        "startDate": "2026-12-06",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Club Space",
         "venueId": null,
-        "sourceUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
-        "ticketUrl": "https://www.kaseyacenter.com/events/detail/rawayana",
-        "summary": "Venezuelan band Rawayana brings the ¿Dónde Es El After? World Tour to Kaseya Center for two confirmed nights. The venue lists shows on December 5 and December 6, 2026, both at 8:00 PM.",
+        "sourceUrl": "https://app.tryhumble.com/shows/black-coffee-club-space-miami-2026-12-06",
+        "ticketUrl": "https://app.tryhumble.com/shows/black-coffee-club-space-miami-2026-12-06",
+        "summary": "A major Afro-house booking at Miami’s flagship all-night dance institution, landing during Art Basel week and squarely in the city’s house/diaspora-club lane.",
         "genres": [
-          "latin",
-          "pop",
-          "r-and-b"
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-danny-tenaglia-space-2026",
+        "title": "Danny Tenaglia at Club Space",
+        "type": "club-night",
+        "startDate": "2026-12-27",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Club Space",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/42953281-danny-tenaglia-at-club-space",
+        "ticketUrl": "https://www.songkick.com/concerts/42953281-danny-tenaglia-at-club-space",
+        "summary": "Veteran New York house icon Danny Tenaglia brings a late-December electronic/house night to Club Space, a strong traveler-worthy booking for the post-Christmas club week.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-our-own-artbasel-2026",
+        "title": "Our Own: Artbasel Event Experience",
+        "type": "festival",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-06",
+        "importance": 72,
+        "venueName": "Flow Brickell",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/our-own-art-basel-event-experience",
+        "ticketUrl": "https://shotgun.live/en/festivals/our-own-art-basel-event-experience",
+        "summary": "A two-day Art Basel-week cultural event at Flow Brickell with R&B, hip-hop and Afro-house listed as core moods, positioned as a cross-scene art, music, fashion and nightlife experience.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "miami-shrine-afrobeats-caribbean-2026",
+        "title": "THE SHRINE . Afrobeats + Caribbean Heat",
+        "type": "residency",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 68,
+        "venueName": "Red Rooster Overtown",
+        "venueId": null,
+        "sourceUrl": "https://www.unation.com/event/the-shrine-afrobeats-caribbean-heat-63202360/",
+        "ticketUrl": "https://www.eventbrite.com/e/the-shrine-afrobeats-caribbean-heat-tickets-268693237707",
+        "summary": "A long-running Overtown diaspora party focused on Afrobeats, amapiano and Caribbean sounds, with Eventbrite/UNATION listings confirming a December 12 edition at Red Rooster.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-soul-sundays-dayparty-2026",
+        "title": "SOUL SUNDAYS BRUNCH & DAY PARTY MIAMI",
+        "type": "residency",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-27",
+        "importance": 63,
+        "venueName": "Da Cave Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.unation.com/event/soul-sundays-brunch-and-day-party-miami-63202264/",
+        "ticketUrl": "https://www.eventbrite.com/e/soul-sundays-brunch-day-party-miami-tickets-1976528964339",
+        "summary": "A recurring North Miami brunch-to-day-party centered on hip-hop, R&B, Afro-beats, dancehall, reggae and rap, with December 2026 Sunday dates listed.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "afro-house"
         ]
       },
       {

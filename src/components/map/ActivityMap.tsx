@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { useRouter } from "next/navigation";
 import type {
   LayerGroup,
   Map as LeafletMap,
@@ -11,6 +10,7 @@ import type {
 import type { MarkerCluster, MarkerClusterGroup } from "leaflet";
 import type { Destination, MonthNumber, MonthlyDestinationScore } from "@/types/content";
 import { trackEvent } from "@/lib/analytics";
+import { getMonthLabel } from "@/data/taxonomy";
 
 type ActivityMapProps = {
   month: MonthNumber;
@@ -22,7 +22,7 @@ type ActivityMapProps = {
   onSelect: (slug: string) => void;
 };
 
-import { TIER_COLORS, tierFromScore, type Tier } from "./tiers";
+import { TIER_COLORS, tierFromScore } from "./tiers";
 import { ClusterPreviewCard, type ClusterPreview } from "./ClusterPreviewCard";
 
 type WnMarker = Marker & {
@@ -33,7 +33,6 @@ type WnMarker = Marker & {
 };
 
 export function ActivityMap({ month, destinations, selectedSlug, onSelect }: ActivityMapProps) {
-  const router = useRouter();
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<LeafletMap | null>(null);
   const heatLayerRef = useRef<LayerGroup | null>(null);
@@ -64,7 +63,9 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
       const map = leaflet.map(containerRef.current, {
         center: [22, 8],
         zoom: 2,
-        minZoom: 2,
+        minZoom: 0,
+        zoomSnap: 0.25,
+        zoomDelta: 0.5,
         maxZoom: 8,
         maxBounds: [
           [-60, -180],
@@ -81,16 +82,19 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
       });
 
       leaflet
-        .tileLayer("https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png", {
-          subdomains: "abcd",
-          maxZoom: 19,
-          noWrap: true,
-          bounds: [
-            [-85, -180],
-            [85, 180]
-          ],
-          attribution: "© OpenStreetMap · CARTO"
-        })
+        .tileLayer(
+          "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+          {
+            maxZoom: 19,
+            maxNativeZoom: 16,
+            noWrap: true,
+            bounds: [
+              [-85, -180],
+              [85, 180]
+            ],
+            attribution: "© Esri · HERE · Garmin · OpenStreetMap"
+          }
+        )
         .addTo(map);
 
       // Custom panes so we can stack: tiles → heat → lines → labels → markers.
@@ -108,12 +112,12 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
       }
 
       labelsLayerRef.current = leaflet
-        .tileLayer("https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png", {
-          subdomains: "abcd",
+        .tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}", {
           minZoom: 3,
           maxZoom: 19,
+          maxNativeZoom: 16,
           noWrap: true,
-          opacity: 0.45,
+          opacity: 0.55,
           pane: "wn-labels"
         })
         .addTo(map);
@@ -212,15 +216,20 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
       cluster.on("clustermouseout", scheduleDismiss);
       cluster.on("clusterclick", dismissPreview);
 
-      const center: [number, number] = [22, 8];
-      window.setTimeout(() => {
+      // Open on the whole scene: every city's longitude span, not a fixed
+      // zoom that crops the Americas or Asia on narrower map panels.
+      const fitWorld = () => {
         map.invalidateSize();
-        map.setView(center, 2, { animate: false });
-      }, 0);
-      window.setTimeout(() => {
-        map.invalidateSize();
-        map.setView(center, 2, { animate: false });
-      }, 250);
+        map.fitBounds(
+          [
+            [-38, -122],
+            [60, 152]
+          ],
+          { padding: [16, 16], animate: false }
+        );
+      };
+      window.setTimeout(fitWorld, 0);
+      window.setTimeout(fitWorld, 250);
       setMapReady(true);
     })();
 
@@ -261,7 +270,7 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
         const tier = tierFromScore(score.overallScore);
         const color = TIER_COLORS[tier];
         const blobSize = tier === "peak" ? 130 : tier === "hot" ? 95 : 60;
-        const blobOpacity = tier === "peak" ? 0.32 : tier === "hot" ? 0.22 : 0.14;
+        const blobOpacity = tier === "peak" ? 0.4 : tier === "hot" ? 0.28 : 0.18;
         const lat = destination.coordinates.lat;
         const lng = destination.coordinates.lng;
 
@@ -273,7 +282,7 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
             margin:-${blobSize / 2}px 0 0 -${blobSize / 2}px;
             background:radial-gradient(closest-side, ${color} 0%, transparent 72%);
             opacity:${blobOpacity};
-            border-radius:50%;mix-blend-mode:screen;filter:blur(2px);
+            border-radius:50%;mix-blend-mode:multiply;filter:blur(2px);
           "></span>`,
           iconSize: [0, 0],
           iconAnchor: [0, 0]
@@ -315,13 +324,12 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
         marker.wnCountry = destination.country;
 
         const openCity = () => {
-          onSelect(destination.slug);
           trackEvent("destination_map_click", {
             slug: destination.slug,
             month,
             score: score.overallScore
           });
-          router.push(`/destinations/${destination.slug}?month=${month}`);
+          onSelect(destination.slug);
         };
 
         marker.on("click", openCity);
@@ -377,7 +385,7 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
               ],
               {
                 pane: "wn-lines",
-                color: "#ff8b3d",
+                color: "#e8590c",
                 weight: 1,
                 opacity: 0.55,
                 dashArray: "1 6",
@@ -394,7 +402,7 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
 
       markerLayer.addLayers(newMarkers);
     });
-  }, [destinations, mapReady, month, onSelect, router, selectedSlug]);
+  }, [destinations, mapReady, month, onSelect, selectedSlug]);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -472,9 +480,6 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
     });
   }, [destinations, mapReady, selectedSlug]);
 
-  const liveCount = destinations.length;
-  const peakCount = destinations.filter((d) => d.score.overallScore >= 90).length;
-
   function handleZoom(direction: "in" | "out") {
     const map = mapRef.current;
     if (!map) return;
@@ -483,32 +488,27 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
   }
 
   return (
-    <div className="relative w-full overflow-hidden rounded-2xl border border-[var(--border-strong)] bg-[#08080a] shadow-[0_40px_120px_rgba(0,0,0,0.55)]">
+    <div className="relative isolate w-full overflow-hidden rounded-2xl border border-[var(--border-strong)] bg-[var(--surface-2)] shadow-[0_28px_80px_rgba(28,22,18,0.18)]">
       {/* Top-left status pill — compact on phone (drops the "live" word), full on sm+ */}
-      <div className="absolute left-3 top-3 z-[500] flex items-center gap-1.5 rounded-full border border-[var(--border-strong)] bg-[rgba(13,13,16,0.78)] px-2.5 py-1.5 backdrop-blur sm:left-4 sm:top-4 sm:gap-2 sm:px-3">
+      <div className="absolute left-3 top-3 z-[500] flex items-center gap-1.5 rounded-full border border-[var(--border-strong)] bg-[rgba(251,248,240,0.85)] px-2.5 py-1.5 backdrop-blur sm:left-4 sm:top-4 sm:gap-2 sm:px-3">
         <span className="relative flex h-1.5 w-1.5">
           <span className="absolute inset-0 animate-ping rounded-full bg-[var(--signal)] opacity-75" />
           <span className="relative h-1.5 w-1.5 rounded-full bg-[var(--signal)] shadow-[0_0_8px_var(--signal)]" />
         </span>
         <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted)] sm:text-[10px] sm:tracking-[0.22em]">
-          <span className="hidden sm:inline">live · </span>
-          {liveCount.toString().padStart(2, "0")} cities
-          <span className="hidden xs:inline"> · </span>
-          <span className="ml-1 text-[var(--signal)] sm:ml-0 sm:text-[var(--muted)]">
-            {peakCount.toString().padStart(2, "0")} peak
-          </span>
+          {getMonthLabel(month).toLowerCase()} · live
         </span>
       </div>
 
       {/* Tier legend — dots only on phone (saves horizontal space), labels on sm+ */}
-      <div className="absolute right-3 top-3 z-[500] flex items-center gap-2 rounded-full border border-[var(--border-strong)] bg-[rgba(13,13,16,0.78)] px-2.5 py-1.5 backdrop-blur sm:right-4 sm:top-4 sm:gap-3 sm:px-3">
+      <div className="absolute right-3 top-3 z-[500] flex items-center gap-2 rounded-full border border-[var(--border-strong)] bg-[rgba(251,248,240,0.85)] px-2.5 py-1.5 backdrop-blur sm:right-4 sm:top-4 sm:gap-3 sm:px-3">
         <Legend label="peak" color={TIER_COLORS.peak} />
         <Legend label="hot" color={TIER_COLORS.hot} />
         <Legend label="warm" color={TIER_COLORS.warm} />
       </div>
 
       {/* Zoom: bottom-left on phone (out of the way of top controls), top-right on sm+ (legacy position) */}
-      <div className="absolute bottom-4 left-3 z-[500] flex flex-col overflow-hidden rounded-md border border-[var(--border-strong)] bg-[rgba(13,13,16,0.8)] backdrop-blur sm:bottom-auto sm:left-auto sm:right-4 sm:top-16">
+      <div className="absolute bottom-4 left-3 z-[500] flex flex-col overflow-hidden rounded-md border border-[var(--border-strong)] bg-[rgba(251,248,240,0.88)] backdrop-blur sm:bottom-auto sm:left-auto sm:right-4 sm:top-16">
         <button
           type="button"
           aria-label="zoom in"
@@ -536,7 +536,6 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
           onSelect={(slug) => {
             onSelectRef.current(slug);
             setClusterPreview(null);
-            router.push(`/destinations/${slug}?month=${month}`);
           }}
           onMouseEnter={() => {
             if (dismissTimerRef.current !== null) {
@@ -553,11 +552,7 @@ export function ActivityMap({ month, destinations, selectedSlug, onSelect }: Act
         <div className="wn-vignette" aria-hidden />
       </div>
 
-      <div className="pointer-events-none absolute inset-x-0 bottom-0 z-[450] h-24 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
-
-      <div className="pointer-events-none absolute bottom-3 right-4 z-[500] font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
-        {month.toString().padStart(2, "0")} / 26
-      </div>
+      <div className="pointer-events-none absolute inset-x-0 bottom-0 z-[450] h-24 bg-gradient-to-t from-[rgba(42,28,18,0.16)] via-[rgba(42,28,18,0.05)] to-transparent" />
     </div>
   );
 }

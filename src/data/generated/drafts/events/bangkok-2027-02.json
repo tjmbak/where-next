@@ -1,0 +1,151 @@
+{
+  "slug": "bangkok",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:27:16.814Z",
+  "responseId": "resp_0c474cab216ef34f006acda477b0d887d089329ecdf04a7a6c+resp_06fa21459efd047d006acda4c6cbd887d0b1f65c8042be6761",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 2,
+    "year": 2027,
+    "notes": "As of 2026-10-13, February 2027 underground Bangkok listings are still sparse; searches across RA, DICE, Shotgun, Eventbrite, Bangkok Nights/Bangkok Venues and venue/promoter pages surfaced only one verifiable non-mainstream club event.",
+    "events": [
+      {
+        "id": "bangkok-maroon-5-asia-feb-2027",
+        "title": "Maroon 5 Asia 2027 in Bangkok",
+        "type": "concert",
+        "startDate": "2027-02-09",
+        "endDate": "2027-02-09",
+        "importance": 82,
+        "venueName": "IMPACT Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationtero.co.th/en/event/maroon-5-asia-2027-bangkok-tickets-edp1689618",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_maroon5",
+        "summary": "Maroon 5 bring their Asia 2027 tour to IMPACT Arena in Bangkok, promoted by Live Nation Tero. The official event page lists Maroon 5 as the headliner for 9 February 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-freya-skye-stars-align-feb-2027",
+        "title": "Freya Skye - Stars Align Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 70,
+        "venueName": "Samyan Mitrtown Hall",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/27th_freya",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/27th_freya",
+        "summary": "Freya Skye plays her first headline Bangkok show on the Stars Align Tour at Samyan Mitrtown Hall. Ticketmaster Thailand lists the event for 12 February 2027 at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-not-normal-elsewhere-feb-2027",
+        "title": "Not Normal: Balinsky, DOTT, Topper",
+        "type": "club-night",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 68,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-02-27/",
+        "ticketUrl": null,
+        "summary": "Not Normal brings Balinsky, DOTT and Topper to Elsewhere Bangkok on Saturday 27 February 2027. The venue page confirms the date, lineup and 11:30 PM start time.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-elaheh-kunanon-crl-feb-2027",
+        "title": "Elaheh, Kunanon, CRL at Elsewhere Bangkok",
+        "type": "club-night",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-19",
+        "importance": 66,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-02-19/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok confirms a Friday-night bill with Elaheh, Kunanon and CRL on 19 February 2027. The event is listed as starting at 11:30 PM at the Silom venue.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-young-sun-jirus-feb-2027",
+        "title": "Young Sun, JIRUS at Elsewhere Bangkok",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 64,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-02-20/",
+        "ticketUrl": null,
+        "summary": "Young Sun and JIRUS are listed for Elsewhere Bangkok on Saturday 20 February 2027. The venue’s event page gives an 11:30 PM start time.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bangkok-session-2027",
+        "title": "SESSION",
+        "type": "club-night",
+        "startDate": "2027-02-04",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://bangkok-nights.com/event/elsewhere-session-9dmn5i",
+        "ticketUrl": null,
+        "summary": "After-hours underground session at Elsewhere in Silom with SESSION 4000 and JIRUS; listed as acid house, ambient, electro, electro techno, minimal house, tech house and techno, with 400 THB entry.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-biliguudei-feb-2027",
+        "title": "Biliguudei at Elsewhere Bangkok",
+        "type": "club-night",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 63,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-02-26/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok lists Biliguudei for Friday 26 February 2027. The club event is scheduled from 11:30 PM at Elsewhere Bangkok on Silom 5.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-kwh-feb-2027",
+        "title": "KWH at Elsewhere Bangkok",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 61,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-02-05/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok lists KWH for a late-night club event on Friday 5 February 2027. The venue page states the event starts at 11:30 PM at 425 Silom 5.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

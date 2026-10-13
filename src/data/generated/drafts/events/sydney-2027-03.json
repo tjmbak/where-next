@@ -1,0 +1,325 @@
+{
+  "slug": "sydney",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:38:40.448Z",
+  "responseId": "resp_09d855c1f15250ef006acda7099acc87d08ea2fcf3d387111e+resp_0f4dfca7ae50b274006acda775931887d0b440b7863f110cdf",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is anchored by Sydney Mardi Gras weekend, big Forecourt/arena shows, and a strong electronic run at Carriageworks and White Bay Power Station.",
+    "events": [
+      {
+        "id": "sydney-bruno-mars-accor-2027",
+        "title": "Bruno Mars: The Romantic Tour",
+        "type": "concert",
+        "startDate": "2027-03-08",
+        "endDate": "2027-03-08",
+        "importance": 94,
+        "venueName": "Accor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/bruno-mars-the-romantic-tour-sydney-tickets-edp1694708",
+        "ticketUrl": "https://www.livenation.com.au/event/bruno-mars-the-romantic-tour-sydney-tickets-edp1694708",
+        "summary": "Bruno Mars plays Accor Stadium in Sydney on The Romantic Tour. Live Nation lists Tyla as special guest and Anderson .Paak performing as DJ Pee .Wee.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "sydney-fatboy-slim-carriageworks-2027",
+        "title": "Fatboy Slim: The Carriageworks Residency",
+        "type": "residency",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 86,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533825",
+        "ticketUrl": "https://ra.co/events/2533825",
+        "summary": "Resident Advisor lists Fatboy Slim at Carriageworks on Friday 5 March, one of three confirmed nights in the venue residency. The event page bills Norman Cook in an intimate Carriageworks setting.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-sasha-digweed-2027",
+        "title": "Sasha & John Digweed Sydney 2027",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "White Bay Power Station",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2539340",
+        "ticketUrl": null,
+        "summary": "TMRW Music brings Sasha & John Digweed to White Bay Power Station for a four-hour progressive-house set, with a Sydney support bill including Robbie Lowe, Marcel Vogel, Ben Gomori, Jerk Boy, Mimi J, Reenie, Tunnel Signs and Timothy Love.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-apollo-mardi-gras-2027",
+        "title": "Apollo The Party: Mardi Gras 2027",
+        "type": "club-night",
+        "startDate": "2027-03-07",
+        "endDate": "2027-03-07",
+        "importance": 84,
+        "venueName": "Metro Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.apollotheparty.com.au/",
+        "ticketUrl": "https://www.apollotheparty.com.au/",
+        "summary": "Apollo The Party is confirmed for Sunday 7 March at Metro Theatre as a major Sydney Gay & Lesbian Mardi Gras dance party. The event advertises an afternoon-to-night format across multiple spaces with trance, disco, vocal house and anthems.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-fatboy-slim-carriageworks-2027",
+        "title": "Fatboy Slim: The Carriageworks Residency",
+        "type": "residency",
+        "startDate": "2027-03-07",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533828",
+        "ticketUrl": "https://www.carriageworks.com.au/",
+        "summary": "Fatboy Slim brings an intimate Carriageworks residency date to Sydney during Mardi Gras weekend, billed by RA as a house/electro event focused on Norman Cook returning to a closer club-style setting.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-jungle-afterpay-2027",
+        "title": "Jungle",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-04",
+        "importance": 80,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/jungle-sydney-tickets-edp1662587",
+        "ticketUrl": "https://www.livenation.com.au/event/jungle-sydney-tickets-edp1662587",
+        "summary": "Jungle play Afterpay Arena in Sydney with Sports listed as featured artist on Live Nation. The Sydney date is part of their March 2027 Australia run.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-avalanches-opera-house-2027",
+        "title": "The Avalanches",
+        "type": "concert",
+        "startDate": "2027-03-07",
+        "endDate": "2027-03-07",
+        "importance": 80,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/avalanches",
+        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/avalanches",
+        "summary": "The Avalanches return to the Sydney Opera House Forecourt with HAAi and additional guests to be announced. The Opera House lists the date as Sunday 7 March 2027 with gates at 6:00pm.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-beabadoobee-afterpay-2027",
+        "title": "beabadoobee",
+        "type": "concert",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-20",
+        "importance": 78,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/Show.aspx?sh=GABMHITS27",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/Show.aspx?sh=GABMHITS27",
+        "summary": "beabadoobee plays Afterpay Arena in Sydney Olympic Park. Ticketek confirms the date as Saturday 20 March 2027 at 8:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-madness-opera-house-2027",
+        "title": "Madness",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 77,
+        "venueName": "Sydney Opera House Forecourt",
+        "venueId": null,
+        "sourceUrl": "https://www.sydneyoperahouse.com/contemporary-music/madness",
+        "ticketUrl": "https://www.sydneyoperahouse.com/contemporary-music/madness",
+        "summary": "Madness celebrate five decades of hits with a Sydney Opera House Forecourt show. The Opera House event page confirms Friday 5 March 2027 with gates at 6:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-tove-lo-hordern-2027",
+        "title": "Tove Lo: ESTRUS Tour",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 76,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/tove-lo-estrus-tour-sydney-tickets-edp1696244",
+        "ticketUrl": "https://www.livenation.com.au/event/tove-lo-estrus-tour-sydney-tickets-edp1696244",
+        "summary": "Tove Lo brings the ESTRUS Tour to Hordern Pavilion with special guest SALTY. Live Nation lists the Sydney show for Friday 5 March 2027.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-the-script-afterpay-2027",
+        "title": "The Script: Man In The Arena Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 76,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.frontiertouring.com/thescript",
+        "ticketUrl": "https://www.frontiertouring.com/thescript",
+        "summary": "The Script bring the Man In The Arena Tour to Sydney’s Afterpay Arena with Picture This. Frontier Touring confirms the Sydney date for Saturday 27 March 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-pop-yacht-mardi-gras-2027",
+        "title": "The Island: Pop Yacht x Mardi Gras Takeover",
+        "type": "club-night",
+        "startDate": "2027-03-05",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "The Island Sydney",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/the-island-pop-yacht-x-mardi-gras-takeover-tickets-1992459462889",
+        "ticketUrl": "https://www.eventbrite.com.au/e/the-island-pop-yacht-x-mardi-gras-takeover-tickets-1992459462889",
+        "summary": "Pop Yacht takes over The Island on Sydney Harbour for a one-night Mardi Gras Friday edition: a five-hour sunset pop party with DJ Nic Holland and Erfaan, camp performances and 2000s-to-now anthems.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-nemzzz-enmore-2027",
+        "title": "Nemzzz: Locked In Tour",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "importance": 70,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.livenation.com.au/event/nemzzz-locked-in-tour-sydney-tickets-edp1698829",
+        "ticketUrl": "https://www.livenation.com.au/event/nemzzz-locked-in-tour-sydney-tickets-edp1698829",
+        "summary": "UK rapper Nemzzz brings the Locked In Tour to Enmore Theatre Sydney. Live Nation confirms the show for Thursday 18 March 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-glass-island-gustavo-2027",
+        "title": "Glass Island - GUSTAVO",
+        "type": "beach-club",
+        "startDate": "2027-03-20",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Glass Island / King Street Wharf 6",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/glass-island-gustavo-sat-20-mar-2027-tickets-1992796053641",
+        "ticketUrl": "https://www.eventbrite.com.au/e/glass-island-gustavo-sat-20-mar-2027-tickets-1992796053641",
+        "summary": "Glass Island’s Gustavo series returns as a harbour house party inspired by Mykonos, Tulum and Dubai, mixing Afro house, deep house and global club sounds aboard Sydney’s floating party venue.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-early-november-hellogoodbye-2027",
+        "title": "The Early November & Hellogoodbye: 20 Years Young",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-19",
+        "importance": 68,
+        "venueName": "Factory Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.factorytheatre.com.au/event/the-early-november-hellogoodbye/",
+        "ticketUrl": "https://www.factorytheatre.com.au/event/the-early-november-hellogoodbye/",
+        "summary": "The Early November and Hellogoodbye bring their 20 Years Young co-headline tour to Factory Theatre. The venue lists the Sydney show for Friday 19 March 2027 at 7:30pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-sundaylicious-mardi-gras-2027",
+        "title": "Sundaylicious Sydney | Mardi Gras",
+        "type": "club-night",
+        "startDate": "2027-03-07",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Babylon",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/sundaylicious-sydney-mardi-gras-march-7-3pm-10pm-babylon-tickets-1999006502260",
+        "ticketUrl": "https://www.eventbrite.com.au/e/sundaylicious-sydney-mardi-gras-march-7-3pm-10pm-babylon-tickets-1999006502260",
+        "summary": "Sundaylicious runs its Mardi Gras closing-Sunday party at Babylon from 3pm–10pm, positioned as a final-Sunday celebration before the festival weekend winds down.",
+        "genres": [
+          "pop",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-intoodeep-sunset-boat-2027",
+        "title": "InTooDeep - Sunset Boat Party",
+        "type": "club-night",
+        "startDate": "2027-03-20",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "King Street Wharf 3 / Inception",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/intoodeep-sunset-boat-party-2003-tickets-2002487339538",
+        "ticketUrl": "https://www.eventbrite.com.au/e/intoodeep-sunset-boat-party-2003-tickets-2002487339538",
+        "summary": "InTooDeep’s Sydney Harbour sunset cruise runs on the 39-metre Inception with three levels, two stages, DJs open-to-close and a 400-person capacity focused on house, deep house, techno and club tunes.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-rnb-throwbacks-day-party-2027",
+        "title": "R&B Throwbacks Day Party: Sydney",
+        "type": "club-night",
+        "startDate": "2027-03-13",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Mansions Potts Point",
+        "venueId": null,
+        "sourceUrl": "https://www.fatsoma.com/e/eomtqyy8/r-b-throwbacks-day-party-sydney",
+        "ticketUrl": "https://www.fatsoma.com/e/eomtqyy8/r-b-throwbacks-day-party-sydney",
+        "summary": "Daytime Disco Australia brings its R&B Throwbacks day-party format to Mansions Potts Point, programming 90s and 00s R&B classics for a 3pm–8pm daytime dance floor.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

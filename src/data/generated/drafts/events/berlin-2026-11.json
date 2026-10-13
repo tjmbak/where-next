@@ -2,15 +2,15 @@
   "slug": "berlin",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:54:25.224Z",
-  "responseId": "resp_002e787efb7f98b30069ff5838289081a09ea23cfe3195462f",
-  "searchCalls": 13,
+  "generatedAt": "2026-10-13T02:36:34.228Z",
+  "responseId": "resp_00a2580390539b13006acd986b117c87d084b8d337fc7ba1cd+resp_02fb15565558d06e006acd98d4253887d08174032ed2a5b4d0",
+  "searchCalls": 28,
   "citations": [],
   "data": {
     "destinationSlug": "berlin",
     "month": 11,
     "year": 2026,
-    "notes": "Berlin’s November 2026 calendar is already strong on confirmed arena-scale pop/electronic tours, Jazzfest Berlin, and music-industry showcases, while most late-night club lineups are not yet announced this far out.",
+    "notes": "November 2026 is anchored by Jazzfest’s closing day, diaspora/experimental festival programming, and a strong run of Berlin club nights across RSO, OST, KitKatClub, Berghain/Panorama Bar and Tresor.",
     "events": [
       {
         "id": "berlin-jazzfest-2026",
@@ -18,81 +18,325 @@
         "type": "festival",
         "startDate": "2026-10-29",
         "endDate": "2026-11-01",
-        "importance": 95,
+        "importance": 90,
         "venueName": "Haus der Berliner Festspiele and other venues",
         "venueId": null,
-        "sourceUrl": "https://www.berlinerfestspiele.de/jazzfest-berlin/programm/2026/jazzfest-berlin-2026",
-        "ticketUrl": null,
-        "summary": "Berliner Festspiele confirms Jazzfest Berlin 2026 for 29 October to 1 November at Haus der Berliner Festspiele and other locations. The 2026 programme is not yet fully announced, but the dates and festival edition are confirmed.",
+        "sourceUrl": "https://www.berlinerfestspiele.de/en/jazzfest-berlin/programm/2026/jazzfest-berlin-2026",
+        "ticketUrl": "https://www.berlinerfestspiele.de/en/jazzfest-berlin/programm/2026/jazzfest-berlin-2026",
+        "summary": "The 63rd Jazzfest Berlin runs 29 October to 1 November 2026, closing in November with a multi-venue programme of international jazz and improvised music. Confirmed artists across the programme include Hamid Drake, Sheen Trio, Otomo Yoshihide New Jazz Quintet and Alexander Hawkins.",
         "genres": [
           "jazz",
           "festival"
         ]
       },
       {
-        "id": "berlin-most-wanted-music-2026",
-        "title": "Most Wanted: Music 2026",
-        "type": "conference",
-        "startDate": "2026-11-03",
-        "endDate": "2026-11-05",
-        "importance": 82,
-        "venueName": null,
+        "id": "berlin-ra25-tresor-2026",
+        "title": "RA25 x Tresor Berlin",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 90,
+        "venueName": "Tresor / Globus",
         "venueId": null,
-        "sourceUrl": "https://berlin-music-commission.de/projekte/most-wanted-music/",
-        "ticketUrl": null,
-        "summary": "Berlin Music Commission confirms MW:M26 for 3–5 November 2026 in Berlin. The event combines music-business conference programming with MW:M Live showcases and the Listen to Berlin Awards ecosystem.",
+        "sourceUrl": "https://ra.co/events/2499988",
+        "ticketUrl": "https://ra.co/events/2499988",
+        "summary": "Resident Advisor celebrates its 25th anniversary at Tresor / Globus with a three-room lineup across OHM, Globus and Tresor. Confirmed artists include Appleblim b2b Beatrice M. b2b Peverelist, Chloe Lula, gyrofield, Nídia, Slimzee, Bandulu, Richard Akingbehin, Akua, Dave Angel, Decoder and The Hacker.",
         "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-kehlani-world-tour-2026",
+        "title": "THE KEHLANI WORLD TOUR: EU & UK",
+        "type": "concert",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 87,
+        "venueName": "Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.velodrom.de/events/event/kehlani-velodrom-2026-11-29",
+        "ticketUrl": "https://www.velodrom.de/events/event/kehlani-velodrom-2026-11-29",
+        "summary": "Kehlani brings The Kehlani World Tour to Berlin’s Velodrom on 29 November 2026. Ticketmaster listings for the Berlin date name Odeal and WASEEL on the lineup.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-gegen-sports-2026",
+        "title": "GEGEN SPORTS",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 84,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2500378",
+        "ticketUrl": "https://ra.co/events/2500378",
+        "summary": "Berlin queer club institution GEGEN presents GEGEN SPORTS at KitKatClub with multiple floors hosted with Reforma Warsaw and Los Niños Brussels. The listed lineup includes BOYCA, Buday, Cristian Marras, IVRA, Juan Cernadas, Schacke, androgienia, g3kko, PLATTER, AAguilAA and Byron Yeates among others.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-bcco-hot-meal-2026",
+        "title": "BCCO x Hot Meal",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 84,
+        "venueName": "MUENZE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2401774",
+        "ticketUrl": "https://ra.co/events/2401774",
+        "summary": "BCCO teams with Hot Meal for a three-floor MUENZE session with a 360 booth, LED visual show and a high-heat lineup including Bad Boombox, future.666 b2b ÜBERKIKZ, David Löhlein b2b Alycia Bezgo, DJ Hyperdrive, Félicie, SAIKA and TOXIMAMI.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-overmono-pure-devotion-2026",
+        "title": "Overmono - Pure Devotion World Tour",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 83,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/overmono",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/overmono",
+        "summary": "Overmono bring their Pure Devotion world tour live set to Uber Eats Music Hall with support from Blawan. The venue describes the show as a high-energy rave-leaning set drawing on techno, UK garage, trance and drum & bass.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-tove-lo-estrus-2026",
+        "title": "Tove Lo - ESTRUS",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 82,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.de/event/tove-lo-estrus-tickets/918594259",
+        "ticketUrl": "https://www.ticketmaster.de/event/tove-lo-estrus-tickets/918594259",
+        "summary": "Tove Lo brings the ESTRUS tour to Columbiahalle in Berlin on 14 November 2026. The Ticketmaster event page confirms the Columbiahalle date and 20:00 show time.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-the-kid-laroi-2026",
+        "title": "The Kid LAROI - A Perfect World Tour",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 82,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/the-kid-laroi-26/2026-11-14-2000",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/the-kid-laroi-26/2026-11-14-2000",
+        "summary": "The Kid LAROI plays Uber Eats Music Hall as part of the A Perfect World Tour, with nate sib listed as support. The venue confirms the Berlin show for 14 November 2026 at 20:00.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-reef-berghain-2026",
+        "title": "Reef",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 82,
+        "venueName": "Berghain / Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://berghain.berlin/en/event/80802/",
+        "ticketUrl": "https://berghain.berlin/en/event/80802/",
+        "summary": "Reef takes over Berghain and Panorama Bar with Darwin, DJ Storm, Esposito, Mala, Carl Luis, Ila Brugal, Mad Professor, ophélie and Sun People listed. The night points to Berlin’s bass-heavy end of club culture, with jungle, dub and techno-adjacent programming.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-klubnacht-nov7-2026",
+        "title": "Klubnacht",
+        "type": "residency",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/event/80750/",
+        "ticketUrl": null,
+        "summary": "Berghain’s core weekly institution lands with a heavyweight techno and house bill: D-Leria live, Marcel Dettmann, Quelza, Vincent Neumann, Blue Hour, Kikelomo, Rene Wise, Courtesy, Steffi x Virginia live and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-klubnacht-nov28-2026",
+        "title": "Klubnacht",
+        "type": "residency",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/event/80753/",
+        "ticketUrl": null,
+        "summary": "The final November Klubnacht features a deep techno Berghain floor with Aöcram, Ignez, Kwartz, Denise Rabe, Mari Sakurai and Sandrien, plus Panorama Bar sets from Mike Servito, Massimiliano Pagliara, Budino, Ketiov, Naomi and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-klubnacht-nov14-2026",
+        "title": "Klubnacht",
+        "type": "residency",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 81,
+        "venueName": "Berghain / Panorama Bar / Säule",
+        "venueId": "berghain",
+        "sourceUrl": "https://ra.co/events/2543887",
+        "ticketUrl": null,
+        "summary": "Berghain’s mid-November Klubnacht pairs Berghain techno from Beste Hira, Efdemin and LOLSNAKE with a Panorama Bar house program featuring Ian Pooley live, Cinthie, Alinka, Gabrielle Kwarteng and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-tribe-club-series-2026",
+        "title": "TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-07",
+        "importance": 80,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2496527",
+        "ticketUrl": "https://ra.co/events/2496527",
+        "summary": "Funk Tribu launches the TRIBE Club Series in Berlin at RSO, positioning the night around underground club culture with a high-demand lineup spanning techno, trance-leaning rave energy and electronic club music.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-tehran-contemporary-sounds-2026",
+        "title": "Tehran Contemporary Sounds Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "importance": 80,
+        "venueName": "Silent Green",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2549747",
+        "ticketUrl": "https://ra.co/events/2549747",
+        "summary": "Tehran Contemporary Sounds returns for its seventh edition, with the Silent Green programme running 13–15 November and the wider festival listed for 11–15 November. Confirmed music artists include Shiva Feshareki & Kit Downes, LABOUR, Abdullah Miniawy, Tehran, Ava Rasti, CONTAGIOUS, Babak Ahteshamipour and Gnäw.",
+        "genres": [
+          "electronic",
+          "jazz",
           "festival"
         ]
       },
       {
-        "id": "berlin-dabeull-live-band-2026",
-        "title": "Dabeull Live Band in Berlin",
-        "type": "concert",
-        "startDate": "2026-11-03",
-        "endDate": "2026-11-03",
-        "importance": 76,
-        "venueName": "Tempodrom",
+        "id": "berlin-8mm-fest-2026",
+        "title": "8MM Fest 2026",
+        "type": "festival",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 79,
+        "venueName": "8MM Bar, ACUD MACHT NEU and Zionskirche",
         "venueId": null,
-        "sourceUrl": "https://www.tempodrom.de/en/event/dabeull_2026-11-03_20/",
-        "ticketUrl": "https://www.tempodrom.de/en/event/dabeull_2026-11-03_20/",
-        "summary": "Tempodrom lists Dabeull Live Band for 3 November 2026, with doors at 19:00 and show start at 20:00. The French producer brings an analog live-band format focused on funk, retro synths and groove-led electronic music.",
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/8mm-fest-2026-13th-14th-nov-0c65a339-3938-41cc-afb8-af1232e6c138/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/rock-pop/8mm-fest-2026-13th-14th-nov-0c65a339-3938-41cc-afb8-af1232e6c138/",
+        "summary": "8MM Fest returns for two nights across 8MM Bar, ACUD MACHT NEU and Zionskirche. The confirmed lineup includes Abigail Toll, activemirror, Alexandra Gruebler, Aleksandra Słyż, Bed, Borscht, Black Bordello, Calvin Love, Circular Ruins, October and the Eyes, Plattenbau and more.",
         "genres": [
-          "electronic",
-          "r-and-b"
+          "festival",
+          "electronic"
         ]
       },
       {
-        "id": "berlin-tokio-hotel-2026",
-        "title": "Tokio Hotel",
-        "type": "concert",
-        "startDate": "2026-11-07",
-        "endDate": "2026-11-07",
-        "importance": 82,
-        "venueName": "Uber Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.uber-arena.de/events/detail/tokio-hotel-2026",
-        "ticketUrl": "https://www.uber-arena.de/events/detail/tokio-hotel-2026",
-        "summary": "Uber Arena confirms Tokio Hotel for 7 November 2026 in Berlin. The German pop band is booked for a large-scale arena show with a 20:00 start.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "berlin-enter-shikari-columbiahalle-2026",
-        "title": "Enter Shikari + Holding Absence + The Callous Daoboys",
-        "type": "concert",
-        "startDate": "2026-11-07",
-        "endDate": "2026-11-07",
+        "id": "berlin-sesh-clara-cuve-2026",
+        "title": "SESH pres. Clara Cuvé invites",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
         "importance": 78,
-        "venueName": "Columbiahalle",
+        "venueName": "OST",
         "venueId": null,
-        "sourceUrl": "https://www.entershikari.com/events/2026-11-07-lose-your-self-tour-2026-columbiahalle",
-        "ticketUrl": "https://www.entershikari.com/events/2026-11-07-lose-your-self-tour-2026-columbiahalle",
-        "summary": "Enter Shikari’s official tour page confirms the Lose Your Self Tour 2026 at Columbiahalle on 7 November 2026. Holding Absence and The Callous Daoboys are listed as supports.",
+        "sourceUrl": "https://ra.co/events/2354314",
+        "ticketUrl": "https://ra.co/events/2354314",
+        "summary": "SESH hosts Clara Cuvé’s birthday event at OST with Clara Cuvé, ALT8, CALLUSH, DJ Cringey, FJUSHA, TOXIMAMI, ROW1, PANA and a Clara Cuvé b2b LETY set listed. It is a hard techno-focused Berlin club night with more artists to be announced.",
         "genres": [
-          "electronic",
-          "pop"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-sachsentrance-rso-2026",
+        "title": "Sachsentrance",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 78,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386871",
+        "ticketUrl": "https://ra.co/events/2386871",
+        "summary": "Sachsentrance returns to RSO.BERLIN with DJ GUESTLIST, Anna Ullrich, snoritz, The Jakob Sister, Sabu!, RaverPik, kichererbsenstampf and Atreo listed. The promoter bills the night as hypnotic, driving trance and techno.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-love-on-the-rocks-2026",
+        "title": "Love on the Rocks",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Panorama Bar",
+        "venueId": "berghain",
+        "sourceUrl": "https://www.berghain.berlin/en/event/80803/",
+        "ticketUrl": "https://www.berghain.berlin/en/event/80803/",
+        "summary": "PARAMIDA’s Love on the Rocks returns to Panorama Bar with Danilo Plessow aka MCDE, Giammarco Orsini, Pancratio, Simone De Kunovich and Stella Zekri for a house and leftfield-disco-focused session.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-the-prodigy-2026",
+        "title": "The Prodigy: The European Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 87,
+        "venueName": "Velodrom Berlin",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2026-11-21-the-prodigy",
+        "ticketUrl": "https://trinitymusic.de/event/2026-11-21-the-prodigy",
+        "summary": "Trinity Music confirms The Prodigy at Velodrom on 21 November 2026. It is the Berlin stop of the band’s European Tour 2026.",
+        "genres": [
+          "electronic"
         ]
       },
       {
@@ -130,6 +374,38 @@
         ]
       },
       {
+        "id": "berlin-most-wanted-music-2026",
+        "title": "Most Wanted: Music 2026",
+        "type": "conference",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-05",
+        "importance": 82,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://berlin-music-commission.de/projekte/most-wanted-music/",
+        "ticketUrl": null,
+        "summary": "Berlin Music Commission confirms MW:M26 for 3–5 November 2026 in Berlin. The event combines music-business conference programming with MW:M Live showcases and the Listen to Berlin Awards ecosystem.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-tokio-hotel-2026",
+        "title": "Tokio Hotel",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/tokio-hotel-2026",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/tokio-hotel-2026",
+        "summary": "Uber Arena confirms Tokio Hotel for 7 November 2026 in Berlin. The German pop band is booked for a large-scale arena show with a 20:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "berlin-hatsune-miku-miku-expo-2026",
         "title": "Hatsune Miku: MIKU EXPO 2026 EUROPE",
         "type": "concert",
@@ -143,38 +419,6 @@
         "summary": "Velodrom confirms Hatsune Miku’s MIKU EXPO 2026 EUROPE stop for 17 November 2026. The listing describes the show as a live production with band, light show and animated choreography.",
         "genres": [
           "pop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "berlin-apsilon-glanz-null-2026",
-        "title": "Apsilon: Glanz Null Tour",
-        "type": "concert",
-        "startDate": "2026-11-19",
-        "endDate": "2026-11-19",
-        "importance": 75,
-        "venueName": "Columbiahalle",
-        "venueId": null,
-        "sourceUrl": "https://shop.apsilon.de/events/apsilon-glanz-null-tour-columbiahalle-2026-11-19",
-        "ticketUrl": "https://shop.apsilon.de/events/apsilon-glanz-null-tour-columbiahalle-2026-11-19",
-        "summary": "Apsilon’s official shop confirms the Glanz Null Tour stop at Columbiahalle on 19 November 2026. The Berlin rapper’s event page lists doors at 18:30 and start at 20:00.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "berlin-the-prodigy-2026",
-        "title": "The Prodigy: The European Tour 2026",
-        "type": "concert",
-        "startDate": "2026-11-21",
-        "endDate": "2026-11-21",
-        "importance": 87,
-        "venueName": "Velodrom Berlin",
-        "venueId": null,
-        "sourceUrl": "https://trinitymusic.de/event/2026-11-21-the-prodigy",
-        "ticketUrl": "https://trinitymusic.de/event/2026-11-21-the-prodigy",
-        "summary": "Trinity Music confirms The Prodigy at Velodrom on 21 November 2026. It is the Berlin stop of the band’s European Tour 2026.",
-        "genres": [
           "electronic"
         ]
       },
@@ -197,6 +441,109 @@
         ]
       },
       {
+        "id": "berlin-enter-shikari-columbiahalle-2026",
+        "title": "Enter Shikari + Holding Absence + The Callous Daoboys",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 78,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.entershikari.com/events/2026-11-07-lose-your-self-tour-2026-columbiahalle",
+        "ticketUrl": "https://www.entershikari.com/events/2026-11-07-lose-your-self-tour-2026-columbiahalle",
+        "summary": "Enter Shikari’s official tour page confirms the Lose Your Self Tour 2026 at Columbiahalle on 7 November 2026. Holding Absence and The Callous Daoboys are listed as supports.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-piepshow-birthdaypiep-2026",
+        "title": "PiepShow - BirthdayPiep",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-28",
+        "importance": 78,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2277069",
+        "ticketUrl": null,
+        "summary": "PiepShow’s BirthdayPiep is billed as a colourful queer techno rave at KitKatClub, with five dancefloors, 14 DJ artists, drag, shibari, comedy and house/disco side programming.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-betriebsfeier-2026",
+        "title": "Betriebsfeier",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29",
+        "importance": 77,
+        "venueName": "Hoppetosse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2364390",
+        "ticketUrl": "https://ra.co/events/2364390",
+        "summary": "The Berlin Betriebsfeier returns to Hoppetosse in its 23rd year for a 36-plus-hour non-stop house and techno session led by Coco, Empro and TBA guests.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-dabeull-live-band-2026",
+        "title": "Dabeull Live Band in Berlin",
+        "type": "concert",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-03",
+        "importance": 76,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/dabeull_2026-11-03_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/dabeull_2026-11-03_20/",
+        "summary": "Tempodrom lists Dabeull Live Band for 3 November 2026, with doors at 19:00 and show start at 20:00. The French producer brings an analog live-band format focused on funk, retro synths and groove-led electronic music.",
+        "genres": [
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-four-play-2026",
+        "title": "Four Play",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-07",
+        "importance": 76,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2326245",
+        "ticketUrl": null,
+        "summary": "Long-running Berlin sex-positive event from Section 8, spread across multiple KitKat floors with techno, house, melodic, disco, psytrance and performance programming.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-apsilon-glanz-null-2026",
+        "title": "Apsilon: Glanz Null Tour",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 75,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://shop.apsilon.de/events/apsilon-glanz-null-tour-columbiahalle-2026-11-19",
+        "ticketUrl": "https://shop.apsilon.de/events/apsilon-glanz-null-tour-columbiahalle-2026-11-19",
+        "summary": "Apsilon’s official shop confirms the Glanz Null Tour stop at Columbiahalle on 19 November 2026. The Berlin rapper’s event page lists doors at 18:30 and start at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
         "id": "berlin-fatoni-drama-endet-nie-2026",
         "title": "Fatoni: Drama endet nie Tour 2026",
         "type": "concert",
@@ -211,6 +558,57 @@
         "genres": [
           "hip-hop",
           "pop"
+        ]
+      },
+      {
+        "id": "berlin-ostfunk-23-2026",
+        "title": "23 Jahre Ostfunk",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 75,
+        "venueName": "ORWO Haus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2342702",
+        "ticketUrl": "https://ra.co/events/2342702",
+        "summary": "Ostfunk marks its 23rd anniversary with a Berlin tech-house and techno lineup including Dr. Motte, Daniel Boon, TOKTOK vs. SOFFY O, CHRISSYJEEY and more.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-stil-vor-talent-koletzki-2026",
+        "title": "Stil vor Talent with Oliver Koletzki",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 74,
+        "venueName": "Ritter Butzke",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2441190",
+        "ticketUrl": "https://ra.co/events/2441190",
+        "summary": "Berlin label-brand Stil vor Talent lands at Ritter Butzke with Oliver Koletzki, a reliable melodic-techno draw for travelers tracking German electronic institutions.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-expeditions-2026",
+        "title": "Expeditions",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-28",
+        "importance": 72,
+        "venueName": "://about blank",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2326471",
+        "ticketUrl": null,
+        "summary": "Section 8’s Expeditions series at ://about blank focuses on classic and traditional techno forms, from Detroit groove to hypnotic and atmospheric storytelling, with a separate contemporary speed deck.",
+        "genres": [
+          "techno",
+          "electronic"
         ]
       }
     ]

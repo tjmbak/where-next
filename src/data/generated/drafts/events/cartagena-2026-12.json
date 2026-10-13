@@ -2,15 +2,119 @@
   "slug": "cartagena",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:48:32.214Z",
-  "responseId": "resp_0037c5b6c4bbb428006a009a8c3d848195bed195b259389428",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T03:02:00.026Z",
+  "responseId": "resp_0b7c946b94e989e4006acd9e6b7c8087d0beb1c6e90fc3c42a+resp_020a2fd048ca0237006acd9ecded9c87d0b4cd5b432d284750",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "cartagena",
     "month": 12,
     "year": 2026,
-    "notes": null,
-    "events": []
+    "notes": "Confirmed December programming is led by salsa/tropical concerts and New Year’s Eve rooftop parties; many Cartagena club calendars had not yet published full December 2026 lineups.",
+    "events": [
+      {
+        "id": "cartagena-festival-antillas-2026",
+        "title": "Festival de las Antillas Cartagena 2026",
+        "type": "festival",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 82,
+        "venueName": "Plaza de Toros de Cartagena",
+        "venueId": null,
+        "sourceUrl": "https://eventu.co/e/festival-antillas-2026/",
+        "ticketUrl": "https://eventu.co/e/festival-antillas-2026/",
+        "summary": "One-night Caribbean/tropical festival at Plaza de Toros featuring Oscar D’León, Issac Delgado, Alain Pérez, Sergio Vargas, and Jean Carlos Centeno & Ronald Urbina.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-vueltabajero-salsa-festival-2026",
+        "title": "Vueltabajero Salsa Festival 9",
+        "type": "festival",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 78,
+        "venueName": "Centro de Convenciones Las Américas",
+        "venueId": null,
+        "sourceUrl": "https://eventario.co/en/events/vueltabajero-salsa-festival-9/",
+        "ticketUrl": null,
+        "summary": "Ninth edition of Cartagena’s Vueltabajero salsa gathering, listed with Jerry Rivera, Yiyo Sarante, Charlie Aponte, Moncho Rivera, and Daiquiri.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "cartagena-caribebeat-2026",
+        "title": "Caribebeat – Cartagena",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 70,
+        "venueName": "Casa Bohême",
+        "venueId": null,
+        "sourceUrl": "https://www.mitaquilla.com.co/caribebeat-cartagena/",
+        "ticketUrl": "https://www.mitaquilla.com.co/caribebeat-cartagena/",
+        "summary": "Electronic, afro and Latin tropical-beats party at Casa Bohême with DJ Miss Champús and DJ José Alvarado confirmed on the bill.",
+        "genres": [
+          "electronic",
+          "afro-house",
+          "latin"
+        ]
+      },
+      {
+        "id": "cartagena-fiesta-luces-panoramica-2026",
+        "title": "Fiesta de las Luces 2026 – San Silvestre en Panorámica",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 68,
+        "venueName": "Panorámica Terraza Gastro Cultural",
+        "venueId": null,
+        "sourceUrl": "https://panoramicacartagena.com/fiesta-de-las-luces-2026/",
+        "ticketUrl": "https://panoramicacartagena.com/fiesta-de-las-luces-2026/",
+        "summary": "New Year’s Eve party at Panorámica with live music, Orquesta La Brava, DJ Cost, Fenix, an international DJ, and fireworks overlooking Cartagena.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-mirador-made-in-colombia-nye-2026",
+        "title": "Made in Colombia · NYE 2026",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 68,
+        "venueName": "Mirador Culture Bar",
+        "venueId": null,
+        "sourceUrl": "https://nye.miradorculturebar.com/",
+        "ticketUrl": "https://nye.miradorculturebar.com/",
+        "summary": "Mirador Culture Bar’s New Year’s Eve event pairs a globally curated DJ set with a guest orchestra and Colombian-themed performances across rooftop and club spaces.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cartagena-ananda-vedana-nye-2026",
+        "title": "Fiesta de Fin de Año – Anandá Hotel Boutique / Vedana",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 61,
+        "venueName": "Vedana Restaurante / Anandá Hotel Boutique",
+        "venueId": null,
+        "sourceUrl": "https://www.anandahotelboutique.com/fiestadefindeano",
+        "ticketUrl": "https://www.anandahotelboutique.com/fiestadefindeano",
+        "summary": "New Year’s Eve celebration in the Walled City with live music at Restaurante Vedana and a DJ on the terrace.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      }
+    ]
   }
 }

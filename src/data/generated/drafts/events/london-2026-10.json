@@ -2,16 +2,335 @@
   "slug": "london",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:00:23.484Z",
-  "responseId": "resp_0897d8bf29f072fd0069ff59ad4f6081968fb5a4bd80349dab",
-  "searchCalls": 11,
+  "generatedAt": "2026-10-13T02:26:13.713Z",
+  "responseId": "resp_08e749a9d13845dd006acd95d2199c87d080b1d71d4baf0ded+resp_020439460be2379c006acd9660073c87d0880ba21187142c40",
+  "searchCalls": 30,
   "citations": [],
   "data": {
     "destinationSlug": "london",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is already heavy on confirmed arena pop, hip-hop and crossover electronic shows, with The O2 carrying much of the early confirmed calendar.",
+    "notes": "October 2026 in London is especially strong for electronic club culture, with fabric’s birthday run, Afro-house/Afrobeats nights, UK garage and arena-scale global pop all confirmed.",
     "events": [
+      {
+        "id": "london-fabric-27-birthday-2026",
+        "title": "fabric 27th Birthday",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-19",
+        "importance": 91,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://www.fabriclondon.com/events/fabric",
+        "ticketUrl": "https://www.fabriclondon.com/events/fabric",
+        "summary": "fabric’s 27th Birthday runs from 17–19 October with Craig Richards, Ricardo Villalobos, Anna Wall, DJ Masda, Francesco Del Garda, Freddy K, Gabrielle Kwarteng, Jane Fitz, PARAMIDA, Sama’ Abdulhadi, Zip and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-asake-o2-2026",
+        "title": "ASAKE: IN GOD WE TRUST WORLD TOUR",
+        "type": "concert",
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-15",
+        "importance": 90,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/asake-in-god-we-trust-world-tour",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/asake-in-god-we-trust-world-tour",
+        "summary": "Asake returns to The O2 on 15 October for the IN GOD WE TRUST WORLD TOUR, with BNXN and TxC listed as special guests.",
+        "genres": [
+          "amapiano",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-the-strokes-o2-2026",
+        "title": "The Strokes",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-07",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/the-strokes",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/the-strokes",
+        "summary": "The Strokes bring their Reality Awaits tour to The O2 for two London arena dates, with Fat White Family and Alex Cameron listed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fabriclive-27-birthday-2026",
+        "title": "FABRICLIVE 27th BIRTHDAY",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 87,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://www.fabriclondon.com/events/fabriclive",
+        "ticketUrl": "https://www.fabriclondon.com/events/fabriclive",
+        "summary": "FABRICLIVE marks fabric’s 27th birthday on 16 October with Girls Don’t Sync, Osmosis Jones, Smokey Bubblin’ B, Skee Mask, Mantra b2b Beatrice M., Oneman and more.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-overmono-alexandra-palace-2026",
+        "title": "Overmono — Pure Devotion World Tour",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 86,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/overmono/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/overmono/",
+        "summary": "Overmono play Alexandra Palace’s Great Hall on 28 October on the Pure Devotion World Tour, with Blawan confirmed as special guest.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-le-sserafim-o2-2026",
+        "title": "2026 LE SSERAFIM TOUR ‘PUREFLOW’",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/2026-le-sserafim-tour-pureflow",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/2026-le-sserafim-tour-pureflow",
+        "summary": "K-pop group LE SSERAFIM bring their 2026 PUREFLOW tour to The O2 on 16 October, with tickets on sale via AXS through The O2.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fabric-27th-birthday-2026",
+        "title": "fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masda, Jane Fitz + more",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-19",
+        "importance": 84,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476959",
+        "ticketUrl": "https://ra.co/events/2476959",
+        "summary": "fabric's extended 27th birthday is a scene-defining weekend session with Craig Richards, Ricardo Villalobos, Zip, DJ Masda, Jane Fitz, Freddy K, Underground Resistance presents Depth Charge and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-macklemore-free-palestine-2026",
+        "title": "Macklemore & Friends: Free Palestine Tour",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 83,
+        "venueName": "OVO Arena Wembley",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/uk/events/1622975/macklemore-friends-free-palestine-tour-tickets",
+        "ticketUrl": "https://www.axs.com/uk/events/1622975/macklemore-friends-free-palestine-tour-tickets",
+        "summary": "Macklemore & Friends bring the Free Palestine Tour to OVO Arena Wembley on 30 October, with the London date confirmed by AXS.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-karan-aujla-o2-2026",
+        "title": "Karan Aujla",
+        "type": "concert",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/karan-aujla-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/karan-aujla-2026",
+        "summary": "Punjabi pop and hip-hop star Karan Aujla plays The O2 on 4 October with special guest Ikky, after the 5 October date was cancelled and the 4 October show was confirmed to go ahead.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-fabriclive-critical-sound-2026",
+        "title": "FABRICLIVE X Critical Sound",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 82,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476961",
+        "ticketUrl": "https://ra.co/events/2476961",
+        "summary": "FABRICLIVE teams with Critical Sound on 23 October for a three-room drum & bass and jungle lineup including Simula, Skantia b2b SMG, Kyrist b2b VISLA, Kasra b2b Samurai Breaks, Dub Phizix, Sully, MC GQ and SP:MC.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-labyrinth-caiiro-da-capo-enoo-napa-2026",
+        "title": "Labyrinth presents: Caiiro x Da Capo x Enoo Napa Halloween B3B",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 82,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2519849",
+        "ticketUrl": "https://ra.co/events/2519849",
+        "summary": "Labyrinth brings Caiiro, Da Capo and Enoo Napa to Roundhouse on Halloween for a five-hour back-to-back-to-back set billed around Afro-house and deep house.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabriclive-27th-birthday-2026",
+        "title": "FABRICLIVE 27th Birthday: Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B + more",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 82,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476960",
+        "ticketUrl": "https://ra.co/events/2476960",
+        "summary": "FABRICLIVE's 27th birthday brings a bass-heavy multi-room lineup including Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B, Klose One, Tiffany Quinn, Mantra, Tailor Jae and more.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-terminal-v-2026",
+        "title": "Terminal V London",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 82,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2481375",
+        "ticketUrl": "https://ra.co/events/2481375",
+        "summary": "Scottish techno powerhouse Terminal V returns to DRUMSHEDS for a three-room London edition with Holy Priest, I Hate Models, 999999999, Charlie Sparks, Onlynumbers, Nikolina b2b KLOUD and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-tomora-roundhouse-2026",
+        "title": "TOMORA",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 80,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/tomora-tickets/artist/5679661",
+        "ticketUrl": "https://www.ticketmaster.co.uk/tomora-tickets/artist/5679661",
+        "summary": "TOMORA play Roundhouse on 28 October, with Ticketmaster listing AURORA and Oxis on the London lineup.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-tech-couture-family-affair-2026",
+        "title": "Tech Couture // A Family Affair: Mac Declos, Blasha & Allatt, Lacchesi, Anabel Arroyo + more",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 80,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2507119",
+        "ticketUrl": "https://ra.co/events/2507119",
+        "summary": "Tech Couture's two-room return to FOLD brings residents Blasha & Allatt, Lacchesi and Mac Declos together with Nina Pixina, Voicedrone b2b James Newmarch and Anabel Arroyo all night long in the Steam Room.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-martinez-brothers-fabric-2026",
+        "title": "fabric: The Martinez Brothers (6 Hour Set), Sarahrey",
+        "type": "club-night",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-12",
+        "importance": 80,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2506210",
+        "ticketUrl": "https://ra.co/events/2506210",
+        "summary": "The Martinez Brothers take over fabric for a sold-out six-hour Sunday set with Sarahrey, a major house booking for the month without crossing into arena territory.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-teletech-e1-2026",
+        "title": "Teletech London: Vieze Asbak + more",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-03",
+        "importance": 79,
+        "venueName": "E1",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2429434",
+        "ticketUrl": "https://ra.co/events/2429434",
+        "summary": "Manchester-born hard techno brand Teletech returns to E1 with Vieze Asbak, KIRSTY, KimberlaID, Lolalita and more for a high-capacity late-night techno and hardcore session.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabriclive-yung-singh-oflynn-2026",
+        "title": "FABRICLIVE: Yung Singh, O'Flynn (All Night Long), KOLLIN, Ma Sha, Percy Mingle + more",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-03",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476950",
+        "ticketUrl": "https://ra.co/events/2476950",
+        "summary": "FABRICLIVE opens the month with Yung Singh, O'Flynn all night long, Ma Sha, KOLLIN and Percy Mingle across fabric's rooms, a strong cross-section of UK club, bass and diaspora-adjacent selectors.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-j-cole-fall-off-2026",
+        "title": "J. Cole: The Fall-Off Tour",
+        "type": "concert",
+        "startDate": "2026-10-19",
+        "endDate": "2026-10-20",
+        "importance": 92,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jcole-2026",
+        "ticketUrl": null,
+        "summary": "J. Cole brings The Fall-Off Tour to The O2, with two October London dates listed before an additional November show. The official page confirms Monday 19 and Tuesday 20 October 2026.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
       {
         "id": "london-niall-horan-2026",
         "title": "Niall Horan: “DINNER PARTY” Live on Tour",
@@ -26,36 +345,6 @@
         "summary": "Niall Horan brings his “DINNER PARTY” Live on Tour run to The O2 for two London arena dates. The venue listing confirms shows on 2 and 3 October 2026.",
         "genres": [
           "pop"
-        ]
-      },
-      {
-        "id": "london-the-strokes-2026",
-        "title": "The Strokes + Fat White Family + Alex Cameron",
-        "type": "concert",
-        "startDate": "2026-10-06",
-        "endDate": "2026-10-07",
-        "importance": 90,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/the-strokes",
-        "ticketUrl": null,
-        "summary": "The Strokes play two nights at The O2, with Fat White Family and Alex Cameron listed as special guests. The official venue page confirms Tuesday 6 and Wednesday 7 October 2026.",
-        "genres": []
-      },
-      {
-        "id": "london-olafur-arnalds-2026",
-        "title": "Ólafur Arnalds: Falling Apart Together",
-        "type": "concert",
-        "startDate": "2026-10-06",
-        "endDate": "2026-10-07",
-        "importance": 76,
-        "venueName": "Eventim Apollo",
-        "venueId": null,
-        "sourceUrl": "https://www.eventimapollo.com/events/olafur-arnalds/",
-        "ticketUrl": null,
-        "summary": "Ólafur Arnalds presents the live experience “Falling Apart Together” at Eventim Apollo across two evenings. The venue confirms showings on 6 and 7 October 2026.",
-        "genres": [
-          "electronic"
         ]
       },
       {
@@ -91,6 +380,22 @@
         ]
       },
       {
+        "id": "london-brandi-carlile-2026",
+        "title": "Brandi Carlile + KT Tunstall",
+        "type": "concert",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/brandi-carlile",
+        "ticketUrl": null,
+        "summary": "Brandi Carlile brings The Human Tour to The O2 with KT Tunstall confirmed as special guest. The official venue page confirms Wednesday 21 October 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "london-pussycat-dolls-2026",
         "title": "The Pussycat Dolls + Lil’ Kim",
         "type": "concert",
@@ -108,67 +413,20 @@
         ]
       },
       {
-        "id": "london-dave-koz-friends-2026",
-        "title": "Dave Koz & Friends",
+        "id": "london-fally-ipupa-2026",
+        "title": "Fally Ipupa",
         "type": "concert",
-        "startDate": "2026-10-16",
-        "endDate": "2026-10-16",
-        "importance": 70,
-        "venueName": "indigo at The O2",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/dave-koz",
-        "ticketUrl": null,
-        "summary": "Smooth Jazz Events UK presents Dave Koz & Friends, with Marc Antoine, Steve Cole and Rebecca Jade, backed by a UK band. The O2 confirms the indigo at The O2 date for 16 October 2026.",
-        "genres": [
-          "jazz"
-        ]
-      },
-      {
-        "id": "london-j-cole-fall-off-2026",
-        "title": "J. Cole: The Fall-Off Tour",
-        "type": "concert",
-        "startDate": "2026-10-19",
-        "endDate": "2026-10-20",
-        "importance": 92,
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 85,
         "venueName": "The O2 arena",
         "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/jcole-2026",
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/fally-ipupa",
         "ticketUrl": null,
-        "summary": "J. Cole brings The Fall-Off Tour to The O2, with two October London dates listed before an additional November show. The official page confirms Monday 19 and Tuesday 20 October 2026.",
+        "summary": "Congolese star Fally Ipupa is confirmed for a headline show at The O2. The official venue listing confirms Sunday 25 October 2026.",
         "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "london-brandi-carlile-2026",
-        "title": "Brandi Carlile + KT Tunstall",
-        "type": "concert",
-        "startDate": "2026-10-21",
-        "endDate": "2026-10-21",
-        "importance": 86,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/brandi-carlile",
-        "ticketUrl": null,
-        "summary": "Brandi Carlile brings The Human Tour to The O2 with KT Tunstall confirmed as special guest. The official venue page confirms Wednesday 21 October 2026.",
-        "genres": [
+          "r-and-b",
           "pop"
-        ]
-      },
-      {
-        "id": "london-hannah-peel-endless-dance-2026",
-        "title": "Hannah Peel & Beibei Wang: The Endless Dance",
-        "type": "concert",
-        "startDate": "2026-10-24",
-        "endDate": "2026-10-24",
-        "importance": 72,
-        "venueName": "Barbican Hall",
-        "venueId": null,
-        "sourceUrl": "https://www.barbican.org.uk/our-story/press-room/barbican-announces-hannah-peel-double-bill-for-winter-2026",
-        "ticketUrl": null,
-        "summary": "Hannah Peel and Beibei Wang perform The Endless Dance at Barbican Hall, blending electronics and percussion around the 24 solar terms of the Chinese calendar. The Barbican announcement confirms Saturday 24 October 2026.",
-        "genres": [
-          "electronic"
         ]
       },
       {
@@ -188,20 +446,175 @@
         ]
       },
       {
-        "id": "london-fally-ipupa-2026",
-        "title": "Fally Ipupa",
-        "type": "concert",
-        "startDate": "2026-10-25",
-        "endDate": "2026-10-25",
-        "importance": 85,
-        "venueName": "The O2 arena",
+        "id": "london-the-cause-halloween-festival-2026",
+        "title": "The Cause x 2026: Halloween Festival",
+        "type": "festival",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 82,
+        "venueName": "The Cause",
         "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/fally-ipupa",
-        "ticketUrl": null,
-        "summary": "Congolese star Fally Ipupa is confirmed for a headline show at The O2. The official venue listing confirms Sunday 25 October 2026.",
+        "sourceUrl": "https://ra.co/events/2331580",
+        "ticketUrl": "https://ra.co/events/2331580",
+        "summary": "The Cause’s full-venue, festival-scale Halloween flagship takes over the Dock Road complex for an extended day-and-night club festival.",
         "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-anish-kumar-phonox-2026",
+        "title": "Anish Kumar: 4 Fridays at Phonox (Opening Party)",
+        "type": "residency",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-03",
+        "importance": 78,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2429299",
+        "ticketUrl": "https://ra.co/events/2429299",
+        "summary": "The British-Indian selector opens a four-Friday October residency at Phonox, curating guests and dancefloor-focused sets across the month.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-olafur-arnalds-2026",
+        "title": "Ólafur Arnalds: Falling Apart Together",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-07",
+        "importance": 76,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/olafur-arnalds/",
+        "ticketUrl": null,
+        "summary": "Ólafur Arnalds presents the live experience “Falling Apart Together” at Eventim Apollo across two evenings. The venue confirms showings on 6 and 7 October 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-cirque-du-soul-halloween-2026",
+        "title": "Cirque Du Soul: London // Halloween",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 76,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2338537",
+        "ticketUrl": "https://ra.co/events/2338537",
+        "summary": "Touring party brand Cirque Du Soul returns to its London home, The Cause, for its annual Halloween showdown.",
+        "genres": [
+          "house",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-dj-seinfeld-here-2026",
+        "title": "DJ Seinfeld presents 'If This Is It' LIVE",
+        "type": "concert",
+        "startDate": "2026-10-01",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "HERE at Outernet",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2393339",
+        "ticketUrl": "https://ra.co/events/2393339",
+        "summary": "A live electronic/house show at HERE from DJ Seinfeld, presented with Broadwick Live, Eat Your Own Ears and HERE, around his 'If This Is It' project.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-dj-krush-jazz-cafe-2026",
+        "title": "DJ Krush",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2402401",
+        "ticketUrl": "https://ra.co/events/2402401",
+        "summary": "The Japanese turntablist and producer brings atmospheric breakbeat and hip-hop to The Jazz Cafe, with jazz, soul and cinematic textures in the mix.",
+        "genres": [
+          "hip-hop",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-oinimod-halloween-2026",
+        "title": "OINIMOD London - Halloween",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 73,
+        "venueName": "Loft Studios",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2361425",
+        "ticketUrl": "https://ra.co/events/2361425",
+        "summary": "OINIMOD returns for its annual Halloween edition at Loft Studios, activating two floors with house/electronica, Funktion-One sound and design-led production.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-hannah-peel-endless-dance-2026",
+        "title": "Hannah Peel & Beibei Wang: The Endless Dance",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 72,
+        "venueName": "Barbican Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.barbican.org.uk/our-story/press-room/barbican-announces-hannah-peel-double-bill-for-winter-2026",
+        "ticketUrl": null,
+        "summary": "Hannah Peel and Beibei Wang perform The Endless Dance at Barbican Hall, blending electronics and percussion around the 24 solar terms of the Chinese calendar. The Barbican announcement confirms Saturday 24 October 2026.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-artful-dodger-soul-mama-2026",
+        "title": "Artful Dodger - UK Legends DJ Night",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 72,
+        "venueName": "TBA - Soul Mama",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431821",
+        "ticketUrl": "https://ra.co/events/2431821",
+        "summary": "A late-night UK garage and house DJ appearance from Artful Dodger, framed as a classic-anthems session by Love Music / Love Music Agency.",
+        "genres": [
+          "house",
           "r-and-b",
-          "pop"
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-dave-koz-friends-2026",
+        "title": "Dave Koz & Friends",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 70,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/dave-koz",
+        "ticketUrl": null,
+        "summary": "Smooth Jazz Events UK presents Dave Koz & Friends, with Marc Antoine, Steve Cole and Rebecca Jade, backed by a UK band. The O2 confirms the indigo at The O2 date for 16 October 2026.",
+        "genres": [
+          "jazz"
         ]
       }
     ]

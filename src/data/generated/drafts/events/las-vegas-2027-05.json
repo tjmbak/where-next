@@ -1,0 +1,136 @@
+{
+  "slug": "las-vegas",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:00:47.196Z",
+  "responseId": "resp_023942c56f3bae24006acdabe8c7bc87d0a375f3b2d5ef1538+resp_079532d5c6fc315f006acdac8b66f487d08b67c2ac4ffeec19",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is anchored by EDC Las Vegas expanding into two confirmed festival weekends; many EDC Week club parties are not announced yet, so they are omitted.",
+    "events": [
+      {
+        "id": "las-vegas-edc-dusk-2027",
+        "title": "EDC Las Vegas 2027: EDC Dusk",
+        "type": "festival",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-16",
+        "importance": 100,
+        "venueName": "Las Vegas Motor Speedway",
+        "venueId": "edc-vegas",
+        "sourceUrl": "https://lasvegas.edc.com/",
+        "ticketUrl": "https://lasvegas.edc.com/tickets/",
+        "summary": "Insomniac’s flagship electronic festival returns to Las Vegas Motor Speedway for the first of two 2027 weekends, branded EDC Dusk. The official site confirms May 14–16 dates; the 2027 lineup is still to be announced.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "las-vegas-edc-dawn-2027",
+        "title": "EDC Las Vegas 2027: EDC Dawn",
+        "type": "festival",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-23",
+        "importance": 100,
+        "venueName": "Las Vegas Motor Speedway",
+        "venueId": "edc-vegas",
+        "sourceUrl": "https://lasvegas.edc.com/guide/faq/",
+        "ticketUrl": "https://lasvegas.edc.com/tickets/",
+        "summary": "EDC Dawn is the second confirmed 2027 EDC Las Vegas weekend, with full festival nights listed for May 21, 22 and 23. The official FAQ says the plan is for the same lineup and production quality across both weekends.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "las-vegas-john-mayer-sphere-2027",
+        "title": "John Mayer Live at Sphere",
+        "type": "residency",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 86,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://johnmayer.com/tour/show/326",
+        "ticketUrl": "https://www.ticketmaster.com/event/1700653837DFD505",
+        "summary": "John Mayer’s 2027 Sphere run lists multiple May dates, including May 8, with the show built around solo, full-band and John Mayer Trio formats. The Sphere presentation makes this one of the month’s highest-profile non-festival music bookings.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-santana-house-of-blues-2027",
+        "title": "An Intimate Evening with Santana: Greatest Hits Live",
+        "type": "residency",
+        "startDate": "2027-05-19",
+        "endDate": "2027-05-19",
+        "importance": 78,
+        "venueName": "House of Blues Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://santana.com/news/santana-announces-2027-residency-dates-presented-by-siriusxm-at-house-of-blues-las-vegas-at-mandalay-bay/",
+        "ticketUrl": "https://www.ticketmaster.com/siriusxm-presents-an-intimate-evening-with-las-vegas-nevada-05-19-2027/event/170065264D6A1E97",
+        "summary": "Santana’s long-running House of Blues Las Vegas residency has confirmed May 2027 dates, including May 19. The official announcement bills the show as a greatest-hits live residency presented by SiriusXM at Mandalay Bay.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "las-vegas-haash-palms-2027",
+        "title": "Ha*Ash - No Me Hablen de Amor",
+        "type": "concert",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-09",
+        "importance": 72,
+        "venueName": "Pearl Theater at Palms Casino Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.palms.com/entertainment/pearl-theater/haash-no-me-hablen-de-amor",
+        "ticketUrl": "https://www.axs.com/events/1607338/haash-no-me-hablen-de-amor-tickets",
+        "summary": "Mexican-American Latin pop duo Ha*Ash bring the No Me Hablen de Amor tour to Pearl Theater on Sunday, May 9, 2027. The venue page confirms the 8 PM performance and highlights the duo’s catalog including “Lo Aprendí de Ti” and “Perdón, Perdón.”",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-alaska-revolution-tour-2027",
+        "title": "Alaska Thunderf*ck: The Revolution Tour",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 64,
+        "venueName": "House of Blues Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-las-vegas-nevada-05-01-2027/event/170065211719DC45",
+        "ticketUrl": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-las-vegas-nevada-05-01-2027/event/170065211719DC45",
+        "summary": "Drag performer and recording artist Alaska 5000 brings The Revolution Tour to House of Blues Las Vegas on May 1, 2027. Ticketmaster lists the event as an 18+ Music Hall show with an 8 PM show time.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-donny-osmond-harrahs-2027",
+        "title": "Donny Osmond Las Vegas Residency",
+        "type": "residency",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 62,
+        "venueName": "Harrah's Showroom at Harrah's Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://newsroom.caesars.com/press-releases/press-release-details/2026/Donny-Osmond-Celebrates-Five-Years-at-Harrahs-Las-Vegas-Extends-Residency/default.aspx",
+        "ticketUrl": "https://www.ticketmaster.com/donny-osmond-las-vegas-las-vegas-nevada-05-05-2027/event/39006513AA52DF7D",
+        "summary": "Donny Osmond’s Harrah’s Las Vegas residency is extended through June 2027, with May 5 listed as one of the confirmed May performances. The production is billed as a musical journey through Osmond’s career.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

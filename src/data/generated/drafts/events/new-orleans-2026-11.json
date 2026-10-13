@@ -2,16 +2,100 @@
   "slug": "new-orleans",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:40:35.649Z",
-  "responseId": "resp_0611a7cc867d0dbd006a0098729e7081979c6ddb00075744e6",
-  "searchCalls": 19,
+  "generatedAt": "2026-10-13T02:46:49.197Z",
+  "responseId": "resp_0b05f81c960aff17006acd9ab2c9e887d08dd3cf582337b80d+resp_0b49a5220a49ba61006acd9b328ffc87d095afb3e537281282",
+  "searchCalls": 33,
   "citations": [],
   "data": {
     "destinationSlug": "new-orleans",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026’s confirmed New Orleans calendar already mixes fall festivals, stadium R&B, and heritage brass/jazz programming, with more club listings likely to fill in closer to the month.",
+    "notes": "November 2026 is unusually strong for New Orleans music travel, with a major new riverfront dance festival alongside HBCU band culture, Caribbean carnival, brass-band heritage, and club-scale electronic/R&B shows.",
     "events": [
+      {
+        "id": "new-orleans-we-belong-here-nov-2026",
+        "title": "We Belong Here New Orleans 2026",
+        "type": "festival",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "importance": 95,
+        "venueName": "Goldring/Woldenberg Riverfront Park",
+        "venueId": null,
+        "sourceUrl": "https://www.webelonghere.world/events/",
+        "ticketUrl": "https://www.webelonghere.world/neworleans/",
+        "summary": "We Belong Here brings its boutique dance-music festival to New Orleans with ODESZA DJ Set, Carl Cox, Steve Angello, Sammy Virji, BLOND:ISH, Max Styler and more. The official event listing confirms November 13–15, 2026 at Goldring/Woldenberg Riverfront Park.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-pretty-lights-soundship-2026",
+        "title": "Pretty Lights - Soundship Space Bus Tour",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "importance": 88,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/venue/222653?attractionId=1299387&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/pretty-lights-soundship-space-bus-tour-new-orleans-louisiana-11-06-2026/event/1B0064DABE3A3773?tt_scene=anchor_view",
+        "summary": "Pretty Lights plays a three-night Soundship Space Bus Tour run at The Fillmore New Orleans, with individual shows listed for November 6, 7 and 8 plus a three-day ticket. The run is a major electronic booking for the month.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-bayou-classic-battle-bands-2026",
+        "title": "2026 Bayou Classic Battle of the Bands & Greek Show",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 86,
+        "venueName": "Caesars Superdome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_aQ5HI8g/2026-bayou-classic-battle-of-the-bands-greek-show",
+        "ticketUrl": "https://www.livenation.com/event/G5viZ_aQ5HI8g/2026-bayou-classic-battle-of-the-bands-greek-show",
+        "summary": "The Bayou Classic Battle of the Bands & Greek Show brings Southern University’s Human Jukebox and Grambling State’s World Famed Tiger Marching Band into the Superdome on Friday, November 27. It is the signature music component of Bayou Classic weekend.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-bayou-bacchanal-2026",
+        "title": "Bayou Bacchanal",
+        "type": "carnival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 80,
+        "venueName": "Congo Square / Louis Armstrong Park",
+        "venueId": null,
+        "sourceUrl": "https://www.neworleans.com/event/bayou-bacchanal/11654/",
+        "ticketUrl": "https://www.neworleans.com/event/bayou-bacchanal/11654/",
+        "summary": "Bayou Bacchanal is New Orleans’ Caribbean Carnival celebration, confirmed for November 7, 2026. The event centers Caribbean culture and heritage with music, dance, parade energy and food traditions.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-rnb-in-the-park-2026",
+        "title": "2026 RNB In The Park: Love & Happiness Tour — New Orleans",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Armstrong Park / Congo Square",
+        "venueId": null,
+        "sourceUrl": "https://www.rnbinthepark.com/nola",
+        "ticketUrl": "https://www.rnbinthepark.com/nola",
+        "summary": "Touring R&B day-festival concept bringing food, vibes and nostalgic R&B energy to Congo Square from noon to 8 PM.",
+        "genres": [
+          "r-and-b",
+          "festival"
+        ]
+      },
       {
         "id": "new-orleans-beignet-fest-2026",
         "title": "Beignet Fest 2026",
@@ -21,27 +105,247 @@
         "importance": 78,
         "venueName": "New Orleans City Park Festival Grounds",
         "venueId": null,
-        "sourceUrl": "https://beignetfest.com/",
-        "ticketUrl": "https://beignetfest.com/tickets/",
-        "summary": "Beignet Fest is confirmed for Saturday, November 7, 2026 at New Orleans City Park Festival Grounds, with local music programming alongside the food festival.",
+        "sourceUrl": "https://beignetfest.com/music-lineup/",
+        "ticketUrl": "https://beignetfest.com/news/tickets-now-on-sale-for-2026-beignet-fest/",
+        "summary": "Beignet Fest’s 2026 music lineup features DJ Flowerchild, Imagination Movers, Amanda Shaw, Maggie Koerner and Dragon Smoke at City Park Festival Grounds. The festival is confirmed for Saturday, November 7, 2026.",
         "genres": [
-          "festival",
-          "jazz"
+          "jazz",
+          "pop",
+          "festival"
         ]
       },
       {
-        "id": "new-orleans-hawthorne-heights-hob-2026",
-        "title": "Hawthorne Heights - 20th Anniversary of If Only You Were Lonely",
+        "id": "new-orleans-hot-8-brass-band-residency-2026",
+        "title": "Hot 8 Brass Band Sunday Residency — November Dates",
+        "type": "residency",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-29",
+        "importance": 76,
+        "venueName": "The Howlin' Wolf",
+        "venueId": null,
+        "sourceUrl": "https://nightout.com/events/v/hot-8-brass-band-howlin-wolf-new-orleans-2026-11-29/tickets",
+        "ticketUrl": "https://nightout.com/events/v/hot-8-brass-band-howlin-wolf-new-orleans-2026-11-29/tickets",
+        "summary": "Grammy-winning New Orleans brass band’s late-Sunday Howlin' Wolf run, a core live brass/funk/jazz nightlife anchor with November listings including the 11/29 show.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-dirty-dozen-brass-band-2026",
+        "title": "The Dirty Dozen Brass Band",
         "type": "concert",
-        "startDate": "2026-11-08",
-        "endDate": "2026-11-08",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.ticketmaster.com/tipitinas-tickets-new-orleans/venue/222531?page=1&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/tipitinas-tickets-new-orleans/venue/222531?page=1&tt_scene=anchor_view",
+        "summary": "Legacy New Orleans brass-band institution plays a Thanksgiving/Bayou Classic weekend Tipitina’s show, a strong pick for travelers chasing the city’s jazz-funk lineage.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-sober-fest-2026",
+        "title": "Sober Fest 2026",
+        "type": "festival",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 74,
+        "venueName": "The Broadside",
+        "venueId": null,
+        "sourceUrl": "https://www.simpletix.com/e/sober-fest-tickets-279117",
+        "ticketUrl": "https://www.simpletix.com/e/sober-fest-tickets-279117",
+        "summary": "Bridge House / Grace House’s 5th Annual Sober Fest is confirmed for November 21, 2026 at The Broadside. The lineup includes Ivan Neville & Friends, Robin Barnes & The FiyaBirds, Flow Tribe, the School of Rock House Band and Trombone Shorty Foundation Alumni Band.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-rnb-block-party-2026",
+        "title": "RnB Block Party New Orleans",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "The Garden",
+        "venueId": null,
+        "sourceUrl": "https://posh.vip/e/rnb-block-party-new-orleans",
+        "ticketUrl": "https://posh.vip/e/rnb-block-party-new-orleans",
+        "summary": "RnBnThings’ grown day-party format at 2222 Poydras with DJs, classic/current R&B, food, drinks and a block-party crowd.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-ravenscoon-gobble-wobble-2026",
+        "title": "Ravenscoon: The 10th Annual Gobble Wobble",
+        "type": "club-night",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 73,
+        "venueName": "Republic NOLA",
+        "venueId": null,
+        "sourceUrl": "https://www.neworleans.com/listing/republic-nola/6652/",
+        "ticketUrl": "https://www.tixr.com/groups/republic/events/ravenscoon-205396",
+        "summary": "Republic NOLA lists Ravenscoon: The 10th Annual Gobble Wobble for November 25, 2026. The Tixr event page describes Ravenscoon as an experimental bass/electronic producer and DJ.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-thundercat-fillmore-2026",
+        "title": "Thundercat: Distracted AF Tour",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-05",
+        "importance": 72,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.beta.livenation.com/artist/K8vZ917CBTV/thundercat-events",
+        "ticketUrl": "https://www.ticketmaster.com/thundercat-tickets/artist/1637445",
+        "summary": "Thundercat’s Distracted AF Tour is listed for The Fillmore New Orleans on November 5, 2026. The date is a major jazz-fusion, funk and R&B-adjacent concert booking for the month.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-love-in-the-club-2026",
+        "title": "Love In The Club: 2000s Hip-Hop & R&B Dance Party",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://tipitinas.com/event/15020903/love-in-the-club/",
+        "ticketUrl": "https://tipitinas.com/event/15020903/love-in-the-club/",
+        "summary": "Tipitina’s 18+ 2000s hip-hop and R&B dance party featuring DJ New Era on Bayou Classic weekend.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-wild-bleu-night-2026",
+        "title": "A Wild Bleu Night: The Official Alumni Homecoming Party",
+        "type": "club-night",
+        "startDate": "2026-11-05",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "New Orleans Jazz & Blues Market",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/a-wild-bleu-night-the-official-alumni-homecoming-party-jazz-market-tickets-2002860473592",
+        "ticketUrl": "https://www.eventbrite.com/e/a-wild-bleu-night-the-official-alumni-homecoming-party-jazz-market-tickets-2002860473592",
+        "summary": "HereWeGo Entertainment’s Dillard homecoming party at the Jazz Market, featuring Lloyd and Partners-N-Crime for an R&B-meets-New Orleans-rap alumni crowd.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-big-mike-homecoming-2026",
+        "title": "The Big Mike Homecoming Experience",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Dew Drop Inn Hotel & Lounge",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/the-big-mike-homecoming-experience-tickets-1998024013610?aff=ebdssbpointsofinterest",
+        "ticketUrl": "https://www.eventbrite.com/e/the-big-mike-homecoming-experience-tickets-1998024013610?aff=ebdssbpointsofinterest",
+        "summary": "Bayou Classic weekend homage to New Orleans-born Southern hip-hop figure OG Big Mike, including a featured live performance at the revived Dew Drop Inn.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-jon-b-hob-2026",
+        "title": "Jon B.",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
         "importance": 70,
         "venueName": "House of Blues New Orleans",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/949561",
-        "ticketUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/949561",
-        "summary": "Hawthorne Heights bring the 20th anniversary tour for If Only You Were Lonely to House of Blues New Orleans, with letlive. and Creeper listed on the bill.",
+        "sourceUrl": "https://neworleans.houseofblues.com/shows",
+        "ticketUrl": "https://neworleans.houseofblues.com/shows",
+        "summary": "House of Blues New Orleans lists R&B singer Jon B. for Friday, November 6, 2026 in the Music Hall. It is one of the month’s stronger R&B club-theater bookings.",
         "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-project-pat-hob-2026",
+        "title": "Project Pat",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://neworleans.houseofblues.com/shows",
+        "ticketUrl": "https://neworleans.houseofblues.com/shows",
+        "summary": "House of Blues New Orleans lists Memphis rap figure Project Pat for Saturday, November 28, 2026 in the Music Hall. The booking adds a Southern hip-hop anchor to Bayou Classic weekend.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-donald-harrison-quantum-leap-2026",
+        "title": "Donald Harrison's Quantum Leap Music Fest with The Freakinauts & Rebirth",
+        "type": "concert",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 70,
+        "venueName": "New Orleans Jazz Market",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_K7esCF1/donald-harrison-s-quantum-leap-music-festival-with-the-freakuinauts",
+        "ticketUrl": "https://www.livenation.com/event/G5viZ_K7esCF1/donald-harrison-s-quantum-leap-music-festival-with-the-freakuinauts",
+        "summary": "Live Nation lists Donald Harrison’s Quantum Leap Music Fest with The Freakinauts and Rebirth at New Orleans Jazz Market on Sunday, November 1, 2026. The bill points toward New Orleans jazz, funk and brass-band culture.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-rb-tour-superdome-2026",
+        "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 90,
+        "venueName": "Caesars Superdome",
+        "venueId": null,
+        "sourceUrl": "https://www.caesarssuperdome.com/events/detail/chris-brown-usher",
+        "ticketUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-new-orleans-louisiana-11-20-2026/event/1B00647D23818850",
+        "summary": "Usher and Chris Brown bring The R&B Tour to Caesars Superdome for two confirmed nights, Friday, November 20 and Saturday, November 21, 2026.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-pj-morton-black-friday-2026",
+        "title": "PJ Morton: Annual Black Friday Show",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 84,
+        "venueName": "Orpheum Theater New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://orpheumnola.com/",
+        "ticketUrl": "https://www.ticketmaster.com/pj-morton-annual-black-friday-show-new-orleans-louisiana-11-27-2026/event/1B0064947BA9443A",
+        "summary": "New Orleans native PJ Morton’s Annual Black Friday Show is confirmed at Orpheum Theater New Orleans on Friday, November 27, 2026 at 8:00 PM.",
+        "genres": [
+          "r-and-b",
+          "jazz",
           "pop"
         ]
       },
@@ -61,6 +365,24 @@
           "festival",
           "jazz",
           "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-treme-creole-gumbo-2026",
+        "title": "Tremé Creole Gumbo Festival",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 82,
+        "venueName": "Louis Armstrong Park",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzandheritage.org/events/2026-treme-creole-gumbo-festival/",
+        "ticketUrl": null,
+        "summary": "Free New Orleans Jazz & Heritage Foundation community festival celebrating Tremé culture with two days of live music, including R&B, funk, brass bands and deep local food culture.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
         ]
       },
       {
@@ -95,19 +417,52 @@
         "genres": []
       },
       {
-        "id": "new-orleans-rb-tour-superdome-2026",
-        "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+        "id": "new-orleans-buena-vista-orchestra-2026",
+        "title": "Buena Vista Orchestra",
         "type": "concert",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-21",
-        "importance": 90,
-        "venueName": "Caesars Superdome",
+        "startDate": "2026-11-15",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "House of Blues New Orleans",
         "venueId": null,
-        "sourceUrl": "https://www.caesarssuperdome.com/events/detail/chris-brown-usher",
-        "ticketUrl": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-new-orleans-louisiana-11-20-2026/event/1B00647D23818850",
-        "summary": "Usher and Chris Brown bring The R&B Tour to Caesars Superdome for two confirmed nights, Friday, November 20 and Saturday, November 21, 2026.",
+        "sourceUrl": "https://www.ticketmaster.com/buena-vista-orchestra-tickets/artist/717599",
+        "ticketUrl": "https://www.ticketmaster.com/buena-vista-orchestra-tickets/artist/717599",
+        "summary": "Afro-Cuban and Latin jazz repertoire from the Buena Vista lineage lands at House of Blues, adding a strong Caribbean/Latin diaspora concert option to November’s calendar.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-6lack-2026",
+        "title": "10 Years of 6LACK Tour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-new-orleans-11-13-2026/event/1B0064B6153CB797",
+        "ticketUrl": "https://www.ticketmaster.com/10-years-of-6lack-tour-new-orleans-11-13-2026/event/1B0064B6153CB797",
+        "summary": "6LACK’s anniversary tour brings contemporary alt-R&B/hip-hop to the Fillmore with Eem Triplin support, a strong mid-size touring show rather than a stadium headliner.",
         "genres": [
           "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-hawthorne-heights-hob-2026",
+        "title": "Hawthorne Heights - 20th Anniversary of If Only You Were Lonely",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/949561",
+        "ticketUrl": "https://www.ticketmaster.com/hawthorne-heights-tickets/artist/949561",
+        "summary": "Hawthorne Heights bring the 20th anniversary tour for If Only You Were Lonely to House of Blues New Orleans, with letlive. and Creeper listed on the bill.",
+        "genres": [
           "pop"
         ]
       },
@@ -138,40 +493,6 @@
         "ticketUrl": "https://www.ticketweb.com/event/nick-shoulders-tipitinas-tickets/14793943",
         "summary": "Tipitina's Presents confirms Nick Shoulders for Wednesday, November 4, 2026, with doors at 7:00 PM and show at 8:00 PM.",
         "genres": []
-      },
-      {
-        "id": "new-orleans-bayou-classic-battle-bands-2026",
-        "title": "2026 Bayou Classic Battle of the Bands & Greek Show",
-        "type": "concert",
-        "startDate": "2026-11-27",
-        "endDate": "2026-11-27",
-        "importance": 78,
-        "venueName": "Caesars Superdome",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/2026-bayou-classic-battle-of-the-bands-greek-show-new-orleans-11-27-2026/event/1B0064968BF28435",
-        "ticketUrl": "https://www.ticketmaster.com/2026-bayou-classic-battle-of-the-bands-greek-show-new-orleans-11-27-2026/event/1B0064968BF28435",
-        "summary": "The 2026 Bayou Classic Battle of the Bands & Greek Show is confirmed for Friday, November 27, 2026 at Caesars Superdome, with the Southern University Human Jukebox and Grambling State marching-band tradition anchoring the event.",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
-        "id": "new-orleans-pj-morton-black-friday-2026",
-        "title": "PJ Morton: Annual Black Friday Show",
-        "type": "concert",
-        "startDate": "2026-11-27",
-        "endDate": "2026-11-27",
-        "importance": 84,
-        "venueName": "Orpheum Theater New Orleans",
-        "venueId": null,
-        "sourceUrl": "https://orpheumnola.com/",
-        "ticketUrl": "https://www.ticketmaster.com/pj-morton-annual-black-friday-show-new-orleans-louisiana-11-27-2026/event/1B0064947BA9443A",
-        "summary": "New Orleans native PJ Morton’s Annual Black Friday Show is confirmed at Orpheum Theater New Orleans on Friday, November 27, 2026 at 8:00 PM.",
-        "genres": [
-          "r-and-b",
-          "jazz",
-          "pop"
-        ]
       }
     ]
   }

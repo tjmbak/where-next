@@ -14,6 +14,7 @@ export default async function Home({ searchParams }: PageProps) {
   const params = await searchParams;
   const initial = {
     month: pickString(params.month),
+    year: pickString(params.year),
     stay: pickString(params.stay),
     genre: pickString(params.genre),
     vibe: pickString(params.vibe),

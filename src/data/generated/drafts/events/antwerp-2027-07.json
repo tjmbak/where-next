@@ -1,0 +1,52 @@
+{
+  "slug": "antwerp",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:16:50.560Z",
+  "responseId": "resp_0a69f54b44310087006acdaff3434c87d09a5f8f4ab321d4cf+resp_08e70eada55c7220006acdb04d3c0887d094d80f2fdb1b7830",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "antwerp",
+    "month": 7,
+    "year": 2027,
+    "notes": "Only one clearly confirmed July 2027 music festival very near Antwerp was found at this stage; major Antwerp-area club and arena calendars had not yet posted July 2027 music dates.",
+    "events": [
+      {
+        "id": "antwerp-sfinks-mixed-2027",
+        "title": "Sfinks Mixed 2027",
+        "type": "festival",
+        "startDate": "2027-07-29",
+        "endDate": "2027-08-01",
+        "importance": 82,
+        "venueName": "Sfinks, Boechout",
+        "venueId": null,
+        "sourceUrl": "https://www.sfinks.be/",
+        "ticketUrl": null,
+        "summary": "Sfinks Mixed is confirmed for 29 July–1 August 2027 in Boechout, just outside Antwerp, with free entrance. The festival presents four days of music and culture from around the world; the detailed 2027 artist lineup was not yet published on the official site at time of research.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-tendance-festival-2027",
+        "title": "Tendance Festival",
+        "type": "festival",
+        "startDate": "2027-07-31",
+        "endDate": "2027-08-01",
+        "importance": 64,
+        "venueName": "Evenementen terrein, Kapellen",
+        "venueId": null,
+        "sourceUrl": "https://partyflock.nl/event/tendance-festival-be",
+        "ticketUrl": null,
+        "summary": "Antwerp-area outdoor DJ festival in Kapellen with a confirmed 2027 date; previous/adjacent listings position it in the techno, house and classics lane, but the 2027 line-up is not yet published.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

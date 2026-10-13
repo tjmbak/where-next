@@ -2,16 +2,71 @@
   "slug": "marbella",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:24:46.257Z",
-  "responseId": "resp_0c30534bf8d853d40069ff5f7624dc8196a07527c19ea6a804",
-  "searchCalls": 15,
+  "generatedAt": "2026-05-30T18:29:01.607Z",
+  "responseId": "augment:resp_0f989fadd9b015fc006a1b2bf66af881989a341418836b867f",
+  "searchCalls": 18,
   "citations": [],
   "data": {
     "destinationSlug": "marbella",
     "month": 9,
     "year": 2026,
-    "notes": null,
+    "notes": "Confirmed September 2026 underground/diaspora programming is concentrated around Mogli The Key and Naô Pool Club, with most listings released as recurring daytime pool-club residencies rather than one-off warehouse or late-night club bills.",
     "events": [
+      {
+        "id": "marbella-afrobrunch-mogli-2026",
+        "title": "Afrobrunch x Mogli",
+        "type": "residency",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-24",
+        "importance": 78,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobrunch-x-Mogli/42357221/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobrunch-x-Mogli/42357221/",
+        "summary": "Afrobrunch lands at Mogli as a weekly Thursday daytime Afro-culture pool party, billed around Afrobeat, DJs and a global crowd, with the promoter positioning it among Spain’s leading Afro music experiences.",
+        "genres": [
+          "afro-house",
+          "afro-house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "marbella-kisstory-closing-2026",
+        "title": "KISSTORY Marbella: The Closing Party",
+        "type": "beach-club",
+        "startDate": "2026-09-25",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://www.fatsoma.com/e/zrbzs4ak/kisstory-marbella-25-09-2026-the-closing-party",
+        "ticketUrl": "https://www.fatsoma.com/e/zrbzs4ak/kisstory-marbella-25-09-2026-the-closing-party",
+        "summary": "KISSTORY’s Marbella closing pool party at Naô, billed by the promoter as Marbella’s biggest pool party event, running 12:00–20:00 with ticket tiers on sale.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-afrobeast-mogli-2026",
+        "title": "Afrobeast x Mogli",
+        "type": "residency",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-29",
+        "importance": 73,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobeast-x-Mogli/42358407/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobeast-x-Mogli/42358407/",
+        "summary": "Tuesday daytime residency at Mogli built around Afrobeats, Amapiano, Hip-Hop and Afro-House, with top DJs and surprise performances across the summer season.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "hip-hop"
+        ]
+      },
       {
         "id": "marbella-thomas-helmig-04-sep-2026",
         "title": "Thomas Helmig at Marbella Arena",
@@ -45,6 +100,60 @@
         ]
       },
       {
+        "id": "marbella-homies-vanity-nao-2026",
+        "title": "Homies x Vanity",
+        "type": "residency",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-18",
+        "importance": 72,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://naopoolclub.com/events/homies-x-vanity/",
+        "ticketUrl": null,
+        "summary": "Friday Naô Pool Club residency advertised as Marbella’s #1 party, pairing Afro House, Hip-Hop, R&B and Amapiano with a champagne-and-shisha daytime pool-club format.",
+        "genres": [
+          "afro-house",
+          "hip-hop",
+          "r-and-b",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-not-like-us-mogli-2026",
+        "title": "Not Like Us x Mogli",
+        "type": "residency",
+        "startDate": "2026-09-06",
+        "endDate": "2026-09-27",
+        "importance": 70,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Not-Like-Us-x-Mogli/42357484/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Not-Like-Us-x-Mogli/42357484/",
+        "summary": "Sunday Mogli pool-club residency framed as a luxury urban lifestyle party, with a curated soundtrack of Hip-Hop, RnB, Trap, Afrobeat and Amapiano.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-rnb-lovers-mogli-2026",
+        "title": "R&B Lovers x Mogli",
+        "type": "residency",
+        "startDate": "2026-09-02",
+        "endDate": "2026-09-30",
+        "importance": 68,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/RB-Lovers-x-Mogli/42358955/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/RB-Lovers-x-Mogli/42358955/",
+        "summary": "Weekly Wednesday throwback poolside party focused on 90s and 00s R&B anthems, slow jams and classic club hits in Mogli’s daytime setting.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
         "id": "marbella-apulanta-2026",
         "title": "Apulanta at Marenostrum Fuengirola",
         "type": "concert",
@@ -57,6 +166,73 @@
         "ticketUrl": null,
         "summary": "Marenostrum Fuengirola’s official page confirms Finnish band Apulanta for Saturday 12 September 2026 at the Escenario Fundación Unicaja/Castillo Sohail, a major Costa del Sol venue near Marbella. The special guest is still listed as to be announced.",
         "genres": []
+      },
+      {
+        "id": "marbella-guilty-nao-2026",
+        "title": "Guilty · Champagne Spray Party",
+        "type": "residency",
+        "startDate": "2026-09-07",
+        "endDate": "2026-09-16",
+        "importance": 64,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://naopoolclub.com/events/guilty-champagne-spray-party/var/ri-3.l-L1/",
+        "ticketUrl": null,
+        "summary": "Naô’s daytime hip-hop Champagne Spray Party, confirmed for September dates and built around a Monday pool-club social format with high-energy bottle-service moments.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "marbella-caos-thursday-nao-2026",
+        "title": "Caôs on Thursday",
+        "type": "residency",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-17",
+        "importance": 63,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://naopoolclub.com/events/caos-thursday/",
+        "ticketUrl": null,
+        "summary": "Thursday daytime hip-hop pool party at Naô, pairing VIP-table pool-club energy with a dedicated Hip-Hop Music format across September dates.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "marbella-uden-nao-2026",
+        "title": "Uden Sunday",
+        "type": "residency",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-20",
+        "importance": 63,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://naopoolclub.com/events/uden/",
+        "ticketUrl": null,
+        "summary": "Sunday Naô session confirmed for two September dates, advertised as an open-format party spanning Afro Vibes, House and R&B.",
+        "genres": [
+          "afro-house",
+          "house",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-b2b-nao-2026",
+        "title": "B2B · Back to Back",
+        "type": "residency",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-23",
+        "importance": 61,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://naopoolclub.com/events/back-to-back/",
+        "ticketUrl": null,
+        "summary": "Naô’s Tuesday daytime electronic and house residency, promoted as a back-to-back pool-club format for electronic music lovers with September dates listed.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
       }
     ]
   }

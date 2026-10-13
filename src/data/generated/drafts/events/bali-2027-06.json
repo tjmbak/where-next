@@ -1,0 +1,67 @@
+{
+  "slug": "bali",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:08:00.739Z",
+  "responseId": "resp_0f1b60fd5541b334006acdae2be13887d09eaa19609baf915d+resp_03c81659c480d58f006acdae59e88887d0918007103fb79214",
+  "searchCalls": 26,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bali",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 has only a few confirmed travel-worthy music events this far out; Bali’s club and beach-club calendars typically announce much closer to the month.",
+    "events": [
+      {
+        "id": "bali-locus-bali-2027",
+        "title": "LOCUS Bali 2027",
+        "type": "festival",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-20",
+        "importance": 82,
+        "venueName": "Nuanu Creative City",
+        "venueId": null,
+        "sourceUrl": "https://www.junglists.com/",
+        "ticketUrl": "https://www.ticketfairy.com/event/locus-bali-2027",
+        "summary": "LOCUS returns to Bali for four days as a dedicated drum ’n’ bass festival, billed by the organizer as a drum ’n’ bass experience in paradise.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-stranded-in-bali-2027",
+        "title": "Stranded in Bali 2027",
+        "type": "concert",
+        "startDate": "2027-05-31",
+        "endDate": "2027-06-07",
+        "importance": 76,
+        "venueName": "InterContinental Bali Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.musicinparadise.com.au/event/stranded-in-bali-2027/",
+        "ticketUrl": "https://www.musicinparadise.com.au/event/stranded-in-bali-2027/",
+        "summary": "Music In Paradise’s resort concert week features Jimmy Barnes, Joe Camilleri and The Black Sorrows, Ross Wilson and The Peaceniks, and Mahalia Barnes and The Soul Mates, with five intimate performances across four event nights on Jimbaran Bay.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "bali-set-network-takeover-2027",
+        "title": "2027 Bali Takeover by SET Network - Juneteenth Week",
+        "type": "festival",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-23",
+        "importance": 60,
+        "venueName": "Kafi:n DPS Bali International Airport",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/2027-bali-takeover-by-set-network-juneteenth-week-tickets-1988271904790",
+        "ticketUrl": "https://www.eventbrite.com/e/2027-bali-takeover-by-set-network-juneteenth-week-tickets-1988271904790",
+        "summary": "Seven-day Juneteenth-week Bali takeover promoted by SET Network, listed as an in-person nightlife/DJ-set-adjacent diaspora celebration with reception, social and island programming.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

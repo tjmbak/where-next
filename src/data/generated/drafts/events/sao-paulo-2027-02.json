@@ -1,0 +1,213 @@
+{
+  "slug": "sao-paulo",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:24:39.525Z",
+  "responseId": "resp_0b311d1d64685ae2006acda3bdff0487d09ee7d43709fbdbc3+resp_03789322c74a0d55006acda43ae90487d08a91fd2a8c25162a",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is anchored by Carnaval, with a handful of stadium-scale international concerts and select independent/alternative events already confirmed.",
+    "events": [
+      {
+        "id": "sao-paulo-carnaval-sambodromo-desfiles-2027",
+        "title": "Carnaval SP 2027 — Official Samba School Parades",
+        "type": "carnival",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-07",
+        "importance": 95,
+        "venueName": "Sambódromo do Anhembi",
+        "venueId": null,
+        "sourceUrl": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
+        "ticketUrl": "https://www.clubedoingresso.com.br/carnavalsp",
+        "summary": "Liga-SP confirms the official São Paulo samba school parades return to Anhembi on February 5, 6 and 7, 2027. This is the city’s flagship music-and-carnival event for the month.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-karol-g-tropitour-2027",
+        "title": "Karol G — Viajando Por El Mundo Tropitour",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 92,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/karol-g",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/karol-g",
+        "summary": "Ticketmaster Brasil confirms Karol G’s São Paulo stadium date for February 12, 2027 at Mercado Livre Arena Pacaembu. The show is part of the Viajando Por El Mundo Tropitour.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-carnaval-campeas-2027",
+        "title": "Carnaval SP 2027 — Desfile das Campeãs",
+        "type": "carnival",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 90,
+        "venueName": "Sambódromo do Anhembi",
+        "venueId": null,
+        "sourceUrl": "https://ligasp.com.br/veja-a-agenda-de-ensaios-tecnicos-para-o-carnaval-sp-2027/",
+        "ticketUrl": "https://www.clubedoingresso.com.br/carnavalsp",
+        "summary": "Liga-SP lists the 2027 Champions Parade for February 13 at the Sambódromo do Anhembi. The night follows the main competition with the top São Paulo samba schools returning to the avenue.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-foo-fighters-take-cover-2027",
+        "title": "Foo Fighters — Take Cover Tour 2027",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 90,
+        "venueName": "Estádio do MorumBIS",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.br/event/foo-fighters-take-cover-tour-2027-sao-paulo-tickets-edp1691067",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-foo-fighters-sao-paulo",
+        "summary": "Live Nation lists Foo Fighters’ Take Cover Tour 2027 at Estádio do MorumBIS on February 20, 2027. Ticketmaster’s event page also lists the São Paulo show at 20:00 with gates at 16:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-carnaval-rua-2027",
+        "title": "Carnaval de Rua SP 2027",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-09",
+        "importance": 88,
+        "venueName": "Citywide street routes",
+        "venueId": null,
+        "sourceUrl": "https://carnaval2027.spturis.com/portaria.html",
+        "ticketUrl": null,
+        "summary": "SPTuris’ official 2027 portaria lists the main Carnaval de Rua dates as February 6–9, 2027. Individual bloco routes and artist details were not yet fully announced, so this entry covers the confirmed official street-carnival window.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-laura-pausini-io-canto-2027",
+        "title": "Laura Pausini — Io Canto / Yo Canto World Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 83,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://iocantoworldtour.com/es",
+        "ticketUrl": "https://sales.ticketsforfun.com.br/#/event/laura-pausini",
+        "summary": "The official Io Canto World Tour site lists Laura Pausini in São Paulo at Mercado Livre Arena Pacaembu on February 27, 2027. Tickets are listed through Tickets for Fun.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-jack-johnson-surfilmusic-2027",
+        "title": "Jack Johnson — SURFILMUSIC Tour Brasil 2027",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 82,
+        "venueName": "Nubank Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/jack-johnson-nubank-parque-21902414/",
+        "ticketUrl": "https://www.eventim.com.br/event/jack-johnson-nubank-parque-21902414/",
+        "summary": "Eventim lists Jack Johnson at Nubank Parque on February 20, 2027. The São Paulo date is promoted as part of the SURFILMUSIC Tour Brasil and has Ben Harper & The Innocent Criminals as special guests in the city.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-placebo-recreated-2027",
+        "title": "Placebo — RE:CREATED Tour",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 78,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://suhaimusichall.com.br/evento/placebo/",
+        "ticketUrl": "https://www.eventim.com.br/event/placebo-suhai-music-hall-22104474/",
+        "summary": "Suhai Music Hall confirms Placebo for February 20, 2027 as part of the RE:CREATED Tour celebrating the band’s debut album. The show is produced by Mercury Concerts.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-xuxa-ultimo-voo-nave-2027",
+        "title": "Xuxa — O Último Voo da Nave",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 76,
+        "venueName": "Nubank Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/xuxa/",
+        "ticketUrl": "https://www.eventim.com.br/artist/xuxa/",
+        "summary": "Eventim lists Xuxa’s O Último Voo da Nave São Paulo performance at Nubank Parque on February 27, 2027. The show is a large-scale pop/nostalgia production from one of Brazil’s most recognizable TV and music figures.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-wave-festival-carnaval-2027",
+        "title": "Wave Festival Carnaval 2027",
+        "type": "festival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 72,
+        "venueName": "Madame Underground Club",
+        "venueId": null,
+        "sourceUrl": "https://wavefestivalbrasil.com/",
+        "ticketUrl": "https://wavefestivalbrasil.com/",
+        "summary": "Wave Festival Brasil confirms its Carnaval edition at Madame Club with The March Violets, Bragolin and Carrellee. The independent/alternative festival is listed for February 6, 2027, from 18:00 to 23:00.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-buena-vista-social-orchestra-2027",
+        "title": "Buena Vista Social Orchestra",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 72,
+        "venueName": "Teatro APCD",
+        "venueId": null,
+        "sourceUrl": "https://www2.clubedoingresso.com/evento/buenavistasocial-orchestra-saopaulo",
+        "ticketUrl": "https://www2.clubedoingresso.com/evento/buenavistasocial-orchestra-saopaulo",
+        "summary": "Clube do Ingresso lists Buena Vista Social Orchestra in São Paulo at Teatro APCD on February 20, 2027, with the show scheduled for 20:00. The event is organized by Estética Torta Produções.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "sao-paulo-buffalo-tom-cine-joia-2027",
+        "title": "Buffalo Tom — São Paulo",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 68,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://fastix.com.br/events/buffalo-tom-em-sao-paulo",
+        "ticketUrl": "https://fastix.com.br/events/buffalo-tom-em-sao-paulo",
+        "summary": "FasTix lists Buffalo Tom at Cine Joia on February 27, 2027 at 19:00. The São Paulo show is part of the band’s first announced Brazil run, with local realization by Maraty.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

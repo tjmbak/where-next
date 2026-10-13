@@ -1,0 +1,353 @@
+{
+  "slug": "aspen",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:08:59.682Z",
+  "responseId": "resp_017229c1c7c4cfad006acda02ecee887d09cbefda4f37db864+resp_05b0cb75735c0557006acda083d98c87d0a19be6a297c255e2",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 in Aspen is anchored by intimate Belly Up concerts, Aspen Gay Ski Week’s 50th-anniversary dance-party circuit, and X Games’ electronic headliners at Buttermilk.",
+    "events": [
+      {
+        "id": "aspen-x-games-music-2027",
+        "title": "MoonPay X Games Aspen 2027 Music: ZHU and Marshmello",
+        "type": "festival",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-31",
+        "importance": 95,
+        "venueName": "Buttermilk Mountain",
+        "venueId": "x-games-aspen",
+        "sourceUrl": "https://www.xgames.com/events/aspen-2027/",
+        "ticketUrl": "https://www.xgames.com/events/aspen-2027/",
+        "summary": "X Games Aspen returns to Buttermilk Mountain from January 29–31 with ticketed evening concerts. The official X Games lineup lists ZHU for Friday, January 29 and Marshmello for Saturday, January 30.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-lcd-soundsystem-new-years-2027",
+        "title": "LCD Soundsystem – New Year’s Eve 2026",
+        "type": "concert",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 88,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/lcd-soundsystem-new-years-eve-2026-2/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/index.html",
+        "summary": "LCD Soundsystem closes its Aspen New Year’s run with a January 1 show at Belly Up Aspen. The venue lists doors at 8:30pm and show at 9:30pm.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-top-mountain-dance-2027",
+        "title": "Aspen Gay Ski Week: Top of the Mountain Dance Party – Sundeck Aspen Mountain",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-22",
+        "importance": 84,
+        "venueName": "Sundeck Restaurant, Aspen Mountain",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/event/tom-dance-party-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Aspen Gay Ski Week’s signature mountaintop dance party turns the Sundeck into a nightclub at 11,000 feet. The official page lists the party for January 22, 2027 from 8:00pm to 12:30am.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-belly-up-saturday-2027",
+        "title": "Aspen Gay Ski Week: Saturday Night Dance – Belly Up",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 82,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://gayskiweek.com/event/belly-up-saturday-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Aspen Gay Ski Week returns to Belly Up for its Saturday late-night dance, with hosted cocktails and party-focused music. The official page lists the event from January 23 at 9:00pm to January 24 at 1:30am.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-belly-up-thursday-2027",
+        "title": "Aspen Gay Ski Week: Thursday Night Dance – Belly Up",
+        "type": "club-night",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-22",
+        "importance": 80,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://gayskiweek.com/event/belly-up-thursday-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Aspen Gay Ski Week takes over Belly Up for a Thursday late-night dance party with hosted cocktails and dance-floor-focused music. The official page lists the event from January 21 at 9:00pm to January 22 at 1:30am.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-pool-party-arc-2027",
+        "title": "Aspen Gay Ski Week: Pool Party – The ARC",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 80,
+        "venueName": "Aspen Recreation Center",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/events/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Aspen Gay Ski Week’s Pool Party at the Aspen Recreation Center is billed as a flagship finale event with music, cocktails, and indoor waterslides. The official schedule lists it from January 23 at 8:30pm to January 24 at 1:00am.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-top-mountain-2027",
+        "title": "AGSW Top of the Mountain Dance Party – Sundeck Aspen Mountain",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-23",
+        "importance": 80,
+        "venueName": "Sundeck Restaurant, Aspen Mountain",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/event/tom-dance-party-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "One of AGSW’s longest-running parties, transforming the Sundeck at 11,000 feet into a mountaintop nightclub after an evening gondola ride.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-disco-biscuits-2027",
+        "title": "An Evening With The Disco Biscuits",
+        "type": "concert",
+        "startDate": "2027-01-05",
+        "endDate": "2027-01-05",
+        "importance": 78,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/an-evening-with-the-disco-biscuits/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/index.html",
+        "summary": "The Disco Biscuits play Belly Up Aspen for a 21+ trance-fusion and jam-electronic show. Belly Up lists doors at 7:00pm and show at 8:00pm.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-agsw-caribou-club-2027",
+        "title": "Aspen Gay Ski Week: Wednesday Night Benefit – Caribou Club",
+        "type": "club-night",
+        "startDate": "2027-01-20",
+        "endDate": "2027-01-21",
+        "importance": 78,
+        "venueName": "Caribou Club",
+        "venueId": "caribou-club-aspen",
+        "sourceUrl": "https://gayskiweek.com/event/caribou-club-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Caribou Club opens for Aspen Gay Ski Week’s late-night benefit dance party, with proceeds supporting AspenOUT’s mental-health fund. The official page lists the event from January 20 at 9:30pm to January 21 at 1:30am.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-pool-party-2027",
+        "title": "AGSW Pool Party – The ARC",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 78,
+        "venueName": "Aspen Recreation Center",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/event/pool-party-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "AGSW’s flagship finale pool party at the Aspen Recreation Center, with resident AGSW DJs, cocktails, waterslides, hot tubs and late-night dancing.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-agsw-saturday-belly-up-2027",
+        "title": "AGSW Saturday Night Dance – Belly Up",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 76,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://gayskiweek.com/event/belly-up-saturday-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "AGSW’s Saturday late-night Belly Up dance event, marketed with hosted cocktails and choice beats as the week-ending club-floor celebration.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-agsw-thursday-belly-up-2027",
+        "title": "AGSW Thursday Night Dance – Belly Up",
+        "type": "club-night",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-22",
+        "importance": 75,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://gayskiweek.com/event/belly-up-thursday-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Flagship AGSW late-night dance at Belly Up Aspen, promoted with hosted cocktails, choice beats and DJs TBA in the city’s core live-music club.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-agsw-caribou-benefit-2027",
+        "title": "AGSW Wednesday Night Benefit – Caribou Club",
+        "type": "club-night",
+        "startDate": "2027-01-20",
+        "endDate": "2027-01-21",
+        "importance": 73,
+        "venueName": "Caribou Club",
+        "venueId": "caribou-club-aspen",
+        "sourceUrl": "https://gayskiweek.com/event/caribou-club-agsw-2027/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "AspenOUT opens the usually private Caribou Club for a late-night AGSW dance-party fundraiser supporting its Q+ mental-health services.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-agsw-art-museum-dance-2027",
+        "title": "Aspen Gay Ski Week: Early Evening Dance – Aspen Art Museum",
+        "type": "club-night",
+        "startDate": "2027-01-20",
+        "endDate": "2027-01-20",
+        "importance": 72,
+        "venueName": "Aspen Art Museum",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/event/apres-evening-gay-ski-week-aspen-art-museum/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Aspen Gay Ski Week hosts an early evening dance at Aspen Art Museum with cocktails, light bites, and DJ Autumn Leilani. The official page lists the event for January 20, 2027 from 6:00pm to 8:30pm.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-neal-francis-2027",
+        "title": "Neal Francis with Gold Leader",
+        "type": "concert",
+        "startDate": "2027-01-04",
+        "endDate": "2027-01-04",
+        "importance": 70,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/neal-francis-5/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/index.html",
+        "summary": "Neal Francis brings his rock, funk, and dance-music-leaning live band sound to Belly Up Aspen with Gold Leader opening. Belly Up lists doors at 7:00pm and show at 8:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-opening-hidalgo-2027",
+        "title": "AGSW Sunday Night Opening Party – Hidalgo @ W",
+        "type": "club-night",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-18",
+        "importance": 70,
+        "venueName": "Hidalgo @ W Aspen",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/events/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Official Aspen Gay Ski Week opening party at Hidalgo, billed as the place to meet the crowd and get oriented for the week, with pass access and individual tickets listed.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-agsw-stranahans-late-night-2027",
+        "title": "AGSW Late Night Dancing – Stranahan’s",
+        "type": "club-night",
+        "startDate": "2027-01-18",
+        "endDate": "2027-01-19",
+        "importance": 66,
+        "venueName": "Stranahan's Whiskey Lodge",
+        "venueId": null,
+        "sourceUrl": "https://gayskiweek.com/events/",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Low-key but energetic AGSW locals-and-lifers dance night at Stranahan’s Whiskey Lodge, with DJ TBA and separate ticketing.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-twin-fin-2027",
+        "title": "Twin Fin",
+        "type": "concert",
+        "startDate": "2027-01-18",
+        "endDate": "2027-01-18",
+        "importance": 62,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/twin-fin/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/index.html",
+        "summary": "Honolulu surf-rock band Twin Fin plays Belly Up Aspen as part of its mainland touring. Belly Up lists doors at 7:00pm and show at 8:00pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-agsw-opening-party-2027",
+        "title": "AGSW 2027 Opening Party at TBA",
+        "type": "club-night",
+        "startDate": "2027-01-17",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "ticketUrl": "https://agsw.ticketspice.com/agsw-2027-passes-and-tickets",
+        "summary": "Ticketed opening party for Aspen Gay Ski Week’s 50th-anniversary week, listed as a standalone Sunday-night party with venue still TBA.",
+        "genres": [
+          "pop",
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

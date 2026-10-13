@@ -1,0 +1,291 @@
+{
+  "slug": "new-york",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:10:02.555Z",
+  "responseId": "resp_04957ebc3dd53c22006acdae04726c87d08e2674d6004d4a8a+resp_0836b0bd884e2085006acdaec4fb9c87d0ba63ed8e79e48b94",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 confirmations are still early for New York, but Pride weekend, Jazz at Lincoln Center’s Wynton Marsalis season close, and several arena/theater concerts are already on sale.",
+    "events": [
+      {
+        "id": "new-york-planet-pride-2027",
+        "title": "Planet Pride 2027: Evolution",
+        "type": "club-night",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 88,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.tixr.com/groups/nycpride/events/planet-pride-2027-195234",
+        "ticketUrl": "https://www.tixr.com/groups/nycpride/events/planet-pride-2027-195234",
+        "summary": "Planet Pride 2027: Evolution is confirmed for Saturday, June 26, 2027, during NYC Pride weekend. The Tixr event page lists a 4:30 PM door time and describes an expanded production, with more details to come.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-dreamland-pride-2027",
+        "title": "Dreamland Pride in Central Park",
+        "type": "festival",
+        "startDate": "2027-06-27",
+        "endDate": "2027-06-27",
+        "importance": 84,
+        "venueName": "SummerStage in Central Park",
+        "venueId": null,
+        "sourceUrl": "https://dreamlandpride.com/",
+        "ticketUrl": "https://dreamlandpride.com/",
+        "summary": "Dreamland Pride is confirmed for Sunday, June 27, 2027, in New York City, with the event page pointing to SummerStage in Central Park. The event is billed as a Pride celebration with world-class music and high-energy performances.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-jalc-call-response-2027",
+        "title": "Call and Response: The Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+        "type": "concert",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-12",
+        "importance": 82,
+        "venueName": "Rose Theater, Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20775/?z=0",
+        "ticketUrl": "https://ticketing.jazz.org/20775/?z=0",
+        "summary": "Jazz at Lincoln Center lists Call and Response from June 10–12, 2027, featuring the Jazz at Lincoln Center Orchestra with Wynton Marsalis. The program is billed as a season finale and a final chance to see Marsalis leading the orchestra in this context.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-lizzy-mcalpine-over-country-2027",
+        "title": "Lizzy McAlpine: The Over Country Tour",
+        "type": "concert",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-24",
+        "importance": 82,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/lizzy-mcalpine-searows-post-animal-madison-square-garden-june-2027/3B006537909D2CC2",
+        "ticketUrl": "https://www.msg.com/events-tickets/lizzy-mcalpine-searows-post-animal-madison-square-garden-june-2027/3B006537909D2CC2",
+        "summary": "Lizzy McAlpine brings The Over Country Tour to Madison Square Garden on June 24, 2027. The MSG listing confirms Searows and Post Animal as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-wynton-marsalis-septet-2027",
+        "title": "Wynton Marsalis Septet",
+        "type": "concert",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-19",
+        "importance": 80,
+        "venueName": "Rose Theater, Jazz at Lincoln Center",
+        "venueId": null,
+        "sourceUrl": "https://ticketing.jazz.org/20780?z=0",
+        "ticketUrl": "https://ticketing.jazz.org/20780?z=0",
+        "summary": "The Wynton Marsalis Septet is confirmed at Jazz at Lincoln Center from June 17–19, 2027. The listing describes a multigenerational edition of the septet performing major Marsalis works.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-def-leppard-goo-goo-dolls-2027",
+        "title": "Def Leppard and Goo Goo Dolls with The Struts",
+        "type": "concert",
+        "startDate": "2027-06-23",
+        "endDate": "2027-06-23",
+        "importance": 78,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/def-leppard-goo-goo-dolls-the-struts-madison-square-garden-june-2027/3B006544E20651DF",
+        "ticketUrl": "https://www.msg.com/events-tickets/def-leppard-goo-goo-dolls-the-struts-madison-square-garden-june-2027/3B006544E20651DF",
+        "summary": "Def Leppard and Goo Goo Dolls play Madison Square Garden on June 23, 2027, with The Struts as special guest. MSG lists the concert for 7:00 PM with doors at 6:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-power-network-ghostface-killah-big-daddy-kane-2027",
+        "title": "Power Network: Ghostface Killah, Big Daddy Kane, DJ Jon Quick, DOE & Igmar Thomas’ Revive Big Band",
+        "type": "conference",
+        "startDate": "2027-06-19",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Stern Auditorium, Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43357005-ghostface-killah-at-stern-auditorium-carnegie-hall",
+        "ticketUrl": "https://www.songkick.com/concerts/43357005-ghostface-killah-at-stern-auditorium-carnegie-hall",
+        "summary": "Carnegie Hall’s fourth Power Network event combines New York hip-hop legacy performances from Ghostface Killah and Big Daddy Kane with DJ Jon Quick, DOE, Igmar Thomas’ Revive Big Band, and panels on entrepreneurship, finance, AI, and culture.",
+        "genres": [
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-banda-ms-prudential-2027",
+        "title": "Banda MS: Somos MS Tour",
+        "type": "concert",
+        "startDate": "2027-06-25",
+        "endDate": "2027-06-25",
+        "importance": 76,
+        "venueName": "Prudential Center",
+        "venueId": null,
+        "sourceUrl": "https://www.prucenter.com/events/banda-ms",
+        "ticketUrl": "https://www.prucenter.com/events/banda-ms",
+        "summary": "Banda MS brings the Somos MS Tour to Prudential Center in nearby Newark on June 25, 2027. The venue notes the date as a rescheduled show and confirms an 8:00 PM start.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-fkj-tyber-tour-2027",
+        "title": "FKJ - TYBER TOUR",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-04",
+        "importance": 74,
+        "venueName": "Brooklyn Paramount",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/k7vGF_5RiJ1fJ/fkj-tyber-tour",
+        "ticketUrl": "https://www.livenation.com/event/k7vGF_5RiJ1fJ/fkj-tyber-tour",
+        "summary": "FKJ brings the TYBER TOUR to Brooklyn Paramount on June 4, 2027. The show is listed by Live Nation with FKJ as the lineup.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-nyphil-bernstein-mass-2027",
+        "title": "New York Philharmonic: Bernstein’s MASS",
+        "type": "concert",
+        "startDate": "2027-06-09",
+        "endDate": "2027-06-12",
+        "importance": 84,
+        "venueName": "David Geffen Hall",
+        "venueId": null,
+        "sourceUrl": "https://res.cloudinary.com/nyphil/image/upload/v1772811434/pdfs/newsroom/2627/26-27-sa-release-FINAL.pdf",
+        "ticketUrl": null,
+        "summary": "Gustavo Dudamel closes the New York Philharmonic subscription season with the orchestra’s first complete performances of Leonard Bernstein’s MASS in a staged production. Director, chorus, and vocal soloists are to be announced.",
+        "genres": []
+      },
+      {
+        "id": "new-york-nyphil-beethoven-ninth-2027",
+        "title": "New York Philharmonic: Bernstein & Beethoven’s Ninth",
+        "type": "concert",
+        "startDate": "2027-06-03",
+        "endDate": "2027-06-05",
+        "importance": 82,
+        "venueName": "David Geffen Hall",
+        "venueId": null,
+        "sourceUrl": "https://res.cloudinary.com/nyphil/image/upload/v1772811434/pdfs/newsroom/2627/26-27-sa-release-FINAL.pdf",
+        "ticketUrl": null,
+        "summary": "Gustavo Dudamel leads Beethoven’s Symphony No. 9 with Aleksandra Kurzak, Elizabeth DeShong, Brian Jagde, Christian Van Horn, and the New York Philharmonic Chorus. The program also includes Beethoven’s F-major string quartet arranged by Leonard Bernstein.",
+        "genres": []
+      },
+      {
+        "id": "new-york-met-orchestra-mahler-eight-2027",
+        "title": "The Met Orchestra: Mahler Symphony No. 8",
+        "type": "concert",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-12",
+        "importance": 82,
+        "venueName": "Metropolitan Opera House",
+        "venueId": null,
+        "sourceUrl": "https://www.metopera.org/link/42d7a890669d41ed827988941f51b20d.aspx",
+        "ticketUrl": null,
+        "summary": "Yannick Nézet-Séguin conducts Mahler’s Symphony No. 8 with the Met’s orchestra and chorus on the Metropolitan Opera stage. The performances are part of Carnegie Hall’s Mahler Symphony Cycle collaboration.",
+        "genres": []
+      },
+      {
+        "id": "new-york-nyphil-concerts-in-the-parks-2027",
+        "title": "New York Philharmonic Concerts in the Parks",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-18",
+        "importance": 80,
+        "venueName": "Various NYC parks",
+        "venueId": null,
+        "sourceUrl": "https://res.cloudinary.com/nyphil/image/upload/v1772811434/pdfs/newsroom/2627/26-27-sa-release-FINAL.pdf",
+        "ticketUrl": null,
+        "summary": "Gustavo Dudamel leads the New York Philharmonic’s free Concerts in the Parks series, a signature outdoor classical-music tradition across New York City. Specific park locations and programs are to be announced.",
+        "genres": []
+      },
+      {
+        "id": "new-york-met-orchestra-mahler-six-2027",
+        "title": "The Met Orchestra at Carnegie Hall: Mahler Symphony No. 6",
+        "type": "concert",
+        "startDate": "2027-06-18",
+        "endDate": "2027-06-18",
+        "importance": 78,
+        "venueName": "Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.metopera.org/link/42d7a890669d41ed827988941f51b20d.aspx",
+        "ticketUrl": null,
+        "summary": "The Met Orchestra performs Mahler’s Symphony No. 6 at Carnegie Hall as part of the Carnegie Hall Mahler Symphony Cycle. The Met announcement lists the concert for June 18, 2027.",
+        "genres": []
+      },
+      {
+        "id": "new-york-nyphil-pride-concert-2027",
+        "title": "New York Philharmonic Pride Concert",
+        "type": "concert",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 75,
+        "venueName": "David Geffen Hall",
+        "venueId": null,
+        "sourceUrl": "https://res.cloudinary.com/nyphil/image/upload/v1772811434/pdfs/newsroom/2627/26-27-sa-release-FINAL.pdf",
+        "ticketUrl": null,
+        "summary": "Marin Alsop conducts the New York Philharmonic’s Pride Concert during NYC Pride month. Programming is to be announced.",
+        "genres": []
+      },
+      {
+        "id": "new-york-philadelphia-orchestra-carnegie-jun-2027",
+        "title": "The Philadelphia Orchestra at Carnegie Hall",
+        "type": "concert",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-04",
+        "importance": 74,
+        "venueName": "Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.carnegiehall.org/-/media/CarnegieHall/Files/PDFs/About/Press-Resources/2026-2027-Season/01-20262027-Season-Release.pdf?la=en",
+        "ticketUrl": null,
+        "summary": "The Philadelphia Orchestra appears at Carnegie Hall for its final 2026–27 season concert there. The program includes Price’s “Rainbow Waltz,” Caroline Shaw’s The Observatory in its New York premiere, and Mahler’s Symphony No. 1.",
+        "genres": []
+      },
+      {
+        "id": "new-york-nyphil-amadeus-2027",
+        "title": "New York Philharmonic: Amadeus Live in Concert",
+        "type": "concert",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-24",
+        "importance": 72,
+        "venueName": "David Geffen Hall",
+        "venueId": null,
+        "sourceUrl": "https://res.cloudinary.com/nyphil/image/upload/v1772811434/pdfs/newsroom/2627/26-27-sa-release-FINAL.pdf",
+        "ticketUrl": null,
+        "summary": "The New York Philharmonic presents Miloš Forman’s Amadeus with Mozart’s music performed live in sync by the orchestra and Musica Sacra Chorus. The official season announcement lists performances on June 24, 25, and 27, 2027; this entry uses June 24 as the representative date.",
+        "genres": []
+      },
+      {
+        "id": "new-york-lullaby-project-celebration-2027",
+        "title": "Carnegie Hall Lullaby Project Celebration Concert",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 60,
+        "venueName": "Zankel Hall at Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.carnegiehall.org/Education/Programs/Lullaby-Project/Lullaby-Project-Song-Circles",
+        "ticketUrl": null,
+        "summary": "Carnegie Hall’s Lullaby Project Celebration Concert presents lullabies written by families in New York City and beyond with professional artists. The event is listed for 3 PM at Zankel Hall.",
+        "genres": []
+      }
+    ]
+  }
+}

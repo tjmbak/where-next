@@ -2,9 +2,9 @@
   "slug": "hvar",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:50:42.618Z",
-  "responseId": "resp_04141a0a7abaf9c10069ffd6077fd881a0b1ba6873a7eba348",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:13:39.751Z",
+  "responseId": "augment:resp_028f41de33c5f8c1006a1b2866df48819aa7c3380faf7da89c",
+  "searchCalls": 21,
   "citations": [],
   "data": {
     "destinationSlug": "hvar",
@@ -26,6 +26,23 @@
         "summary": "The 65th Hvar Summer Festival runs from June 21 to September 11, 2026, with programme listings across Hvar’s main square, theatre, Veneranda Summer Stage and other historic venues. The June programme includes the opening ceremony and a traditional klapa a cappella performance.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "hvar-carpe-diem-terranza-after-beach-2026",
+        "title": "Carpe Diem Beach: Terranza After Beach Program",
+        "type": "beach-club",
+        "startDate": "2026-06-05",
+        "endDate": "2026-09-14",
+        "importance": 70,
+        "venueName": "Carpe Diem Beach",
+        "venueId": "carpe-diem-beach-hvar",
+        "sourceUrl": "https://beach.cdhvar.com/en/program/chase-the-sunset/",
+        "ticketUrl": null,
+        "summary": "Official open-air sunset/after-beach program at Carpe Diem Beach, running daily from 4pm to midnight with free entrance; this is the confirmed June beach-club music program after the venue notes uncertainty around its full late-night program.",
+        "genres": [
+          "electronic",
+          "house"
         ]
       },
       {

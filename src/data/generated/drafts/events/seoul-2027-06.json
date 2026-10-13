@@ -1,0 +1,91 @@
+{
+  "slug": "seoul",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:14:42.512Z",
+  "responseId": "resp_0a2271cce151b5b0006acdaf9dda0087d08a73dc474a7430da+resp_05f87fc81ab60d6a006acdafe2972887d082a4769dece01720",
+  "searchCalls": 28,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 6,
+    "year": 2027,
+    "notes": "No qualifying underground, promoter, club-night, or diaspora/genre Seoul events with confirmed June 2027 dates were found on RA, DICE, Shotgun, Eventbrite, FIXR, Boiler Room, or visible promoter/venue listings as of 2026-10-13.",
+    "events": [
+      {
+        "id": "seoul-transempire-shawn-thiers-2027",
+        "title": "Transempire: Shawn Thiers Live",
+        "type": "residency",
+        "startDate": "2026-05-13",
+        "endDate": "2036-05-13",
+        "importance": 60,
+        "venueName": "Ximxim",
+        "venueId": null,
+        "sourceUrl": "https://koreagenda.com/en/events/transempire-shawn-thiers-live-2026-d37e9c",
+        "ticketUrl": null,
+        "summary": "Long-running 19+ Friday live-music event at Ximxim featuring Shawn Thiers, listed through KOPIS-derived event data with a 7:00 PM Friday schedule.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-laralarraon-soundmind-2027",
+        "title": "Laralarraon [Soundmind]",
+        "type": "residency",
+        "startDate": "2026-09-17",
+        "endDate": "2030-12-31",
+        "importance": 60,
+        "venueName": "Sound Mind",
+        "venueId": null,
+        "sourceUrl": "https://kpopfinder.co.kr/concerts/laralarraon-soundmind-2026-09-17-pf301613",
+        "ticketUrl": null,
+        "summary": "Ongoing Seoul live-music series at Sound Mind promoted by the Korea Music Label Industry Association, with listed performers including Yoonjung Lim, Kyungmuk Kwak, Jeonghak Lee, Heena Yoon, Jeongyeol Lee, Hyungsuk Choi and Imin Cho.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-yunchan-lim-mahler-jun-2027",
+        "title": "Yunchan Lim & Mahler Chamber Orchestra",
+        "type": "concert",
+        "startDate": "2027-06-30",
+        "endDate": "2027-06-30",
+        "importance": 84,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/eng/show/show_view?SN=80403",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center lists Yunchan Lim & Mahler Chamber Orchestra for June 30, 2027 at 19:30 in the Concert Hall. The official listing gives the presenter as MOC Production.",
+        "genres": []
+      },
+      {
+        "id": "seoul-daniil-trifonov-recital-jun-2027",
+        "title": "Daniil Trifonov Piano Recital",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 80,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=82584",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center confirms Daniil Trifonov’s piano recital at its Concert Hall on June 15, 2027 at 19:30. The event is presented by Mast Media.",
+        "genres": []
+      },
+      {
+        "id": "seoul-sunwook-philharmonia-jun-2027",
+        "title": "Sunwook Kim & Philharmonia Orchestra",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 78,
+        "venueName": "Seoul Arts Center Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=80497",
+        "ticketUrl": null,
+        "summary": "Seoul Arts Center lists pianist Sunwook Kim with the Philharmonia Orchestra for a 17:00 concert-hall performance on June 13, 2027. The page names Vincero as the presenter.",
+        "genres": []
+      }
+    ]
+  }
+}

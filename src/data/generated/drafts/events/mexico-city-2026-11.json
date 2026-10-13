@@ -2,30 +2,330 @@
   "slug": "mexico-city",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:47:23.865Z",
-  "responseId": "resp_0a71fa75d15809f50069ff64ab7cd08193b17c7158fc5ab40c",
-  "searchCalls": 16,
+  "generatedAt": "2026-10-13T02:43:56.767Z",
+  "responseId": "resp_0da382a2ef9061f8006acd9a18af6487d093b7656a6bf3f6ae+resp_091d9314b81e503e006acd9a9b234c87d08fafd5ede4b03723",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "mexico-city",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026 is already anchored by major arena and stadium concerts, plus a heavyweight festival weekend with Corona Capital and Time Warp both confirmed.",
+    "notes": "November 2026 is stacked in and around CDMX, with major international festivals, Día de Muertos club programming, and strong electronic/Latin concert traffic.",
     "events": [
+      {
+        "id": "mexico-city-corona-capital-2026",
+        "title": "Corona Capital 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 96,
+        "venueName": "Autódromo Hermanos Rodríguez",
+        "venueId": null,
+        "sourceUrl": "https://www.coronacapital.com.mx/",
+        "ticketUrl": "https://www.ticketmaster.com.mx/corona-capital-tickets/artist/1608797?language=en-mx",
+        "summary": "Corona Capital CDMX is confirmed for November 20, 21 and 22 at Autódromo Hermanos Rodríguez. The official site notes that the 2026 poster is live and tickets are linked through Ticketmaster.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-coca-cola-flow-fest-2026",
+        "title": "Coca-Cola Flow Fest 2026",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 95,
+        "venueName": "Autódromo Hermanos Rodríguez",
+        "venueId": null,
+        "sourceUrl": "https://www.cocacolaflowfest.com.mx/informacion",
+        "ticketUrl": "https://www.ticketmaster.com.mx/cocacola-flow-fest-cdmx-boletos/artist/1435872",
+        "summary": "Coca-Cola Flow Fest returns to Autódromo Hermanos Rodríguez on November 28 and 29. The official information page confirms the dates, venue and festival hours of 2:00 p.m.–2:00 a.m.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-ultra-mexico-2026",
+        "title": "Ultra Mexico 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 93,
+        "venueName": "Estadio Banorte",
+        "venueId": null,
+        "sourceUrl": "https://ultramexico.com/",
+        "ticketUrl": "https://ultramexico.com/tickets/2026/",
+        "summary": "Ultra Mexico is confirmed for November 7–8, 2026. The official Ultra Mexico site and ticket page list two-day GA and VIP passes for the 2026 edition.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "mexico-city-time-warp-mexico-2026",
+        "title": "Time Warp Mexico 2026",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 90,
+        "venueName": "Expo Santa Fe",
+        "venueId": null,
+        "sourceUrl": "https://www.time-warp.de/mexico/mxcity/",
+        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B",
+        "summary": "Time Warp lands in Mexico City for the first time at Expo Santa Fe. The official lineup includes Ben Klock b2b Alarico, The Blessed Madonna, DJ Stingray 313 b2b Helena Hauff, DVS1, Maceo Plex, Sven Väth, DJ Tennis b2b Seth Troxler, Indira Paganotto and Reinier Zonneveld live.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-hipnosis-festival-2026",
+        "title": "Hipnosis Festival 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 88,
+        "venueName": "Quarry Studios",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/497468/en?seasonal=pc0834p",
+        "ticketUrl": "https://feverup.com/m/497468/en?seasonal=pc0834p",
+        "summary": "Hipnosis Festival returns to Quarry Studios on November 7. The confirmed lineup includes Connan Mockasin, Fontän, Future Islands, Jonathan Bree, Kim Gordon, Levitation Room, Melvins, The Lemon Twigs, Wine Lips and YHWH Nailgun.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-karol-g-tropitour-nov-2026",
+        "title": "Karol G — Viajando por el Mundo, Tropitour",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 86,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-tropitour-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-tropitour-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08?language=en-mx",
+        "summary": "Karol G brings the Viajando por el Mundo, Tropitour to Estadio GNP Seguros. Ticketmaster confirms the November 13, 9:00 p.m. Mexico City stadium show.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-circoloco-cdmx-2026",
+        "title": "CIRCOLOCO CDMX",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 84,
+        "venueName": "Estadio Fray Nano",
+        "venueId": null,
+        "sourceUrl": "https://circolocoibiza.com/event/cdmx",
+        "ticketUrl": "https://circolocoibiza.com/event/cdmx",
+        "summary": "Circoloco’s official site confirms its CDMX event at Estadio Fray Nano on November 28. The event runs 4:00 p.m. to 2:00 a.m. with general sale access listed.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-mutek-nocturne-e22-2026",
+        "title": "NOCTURNE E22",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 82,
+        "venueName": "Maravilla Studios",
+        "venueId": null,
+        "sourceUrl": "https://es.ra.co/events/2550460",
+        "ticketUrl": "https://es.ra.co/events/2550460",
+        "summary": "MUTEK MX closes its Edición 22 cycle with a NOCTURNE program at Maravilla Studios. The bill includes Dasha Rush, Jump Source, OK EG, Valesuchi, Lorenzo Senni, Kelly Moran, Crystallmess, Alif Hilal and more.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "mexico-city-festival-amigo-2026",
+        "title": "Festival Amigo 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 82,
+        "venueName": "Campo Los Alcanfores",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/festivals/3278715-amigo/id/43321524-festival-amigo-2026",
+        "ticketUrl": "https://www.songkick.com/es/festivals/3278715-amigo/id/43321524-festival-amigo-2026",
+        "summary": "Festival Amigo takes place just outside CDMX in Cuautitlán Izcalli on November 7. The confirmed lineup includes Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía and Fármacos.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-mac-demarco-road-to-hipnosis-2026",
+        "title": "Mac DeMarco — Road to Hipnosis: Dreaming",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 80,
+        "venueName": "Quarry Studios",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/380407/en?seasonal=p5d50bp",
+        "ticketUrl": "https://feverup.com/m/380407/en?seasonal=p5d50bp",
+        "summary": "Hipnosis presents Mac DeMarco at Quarry Studios as Road to Hipnosis: Dreaming. The Fever ticket page confirms the November 6 show, 7:00 p.m. start, and Quarry Studios venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-ofrenda-montelobos-2026",
+        "title": "Ofrenda Montelobos 2026",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 76,
+        "venueName": "Frontón Bucareli",
+        "venueId": null,
+        "sourceUrl": "https://songkick.com/festivals/3809140-ofrenda-montelobos/id/43459592-ofrenda-montelobos-2026",
+        "ticketUrl": "https://songkick.com/festivals/3809140-ofrenda-montelobos/id/43459592-ofrenda-montelobos-2026",
+        "summary": "Ofrenda Montelobos is confirmed at Frontón Bucareli on November 7. Songkick lists SG Lewis and Satori on the bill for the Mexico City event.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
       {
         "id": "mexico-city-lila-downs-nov-2026",
         "title": "Lila Downs",
         "type": "concert",
         "startDate": "2026-11-01",
         "endDate": "2026-11-01",
-        "importance": 70,
+        "importance": 75,
         "venueName": "Auditorio Nacional",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/lila-downs-ciudad-de-mexico-01-11-2026/event/3D006491A1F453D1",
-        "ticketUrl": "https://www.ticketmaster.com.mx/lila-downs-ciudad-de-mexico-01-11-2026/event/3D006491A1F453D1",
-        "summary": "Lila Downs is confirmed for Auditorio Nacional on November 1, 2026. The Ticketmaster listing places the show at 7:00 p.m. in Ciudad de México.",
+        "sourceUrl": "https://www.ticketmaster.com.mx/lila-downs-boletos/artist/704790",
+        "ticketUrl": "https://www.ticketmaster.com.mx/lila-downs-boletos/artist/704790",
+        "summary": "Lila Downs plays Auditorio Nacional on November 1. The Ticketmaster listing confirms the 7:00 p.m. CDMX date at the Auditorio Nacional.",
         "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-dennis-cruz-looloo-2026",
+        "title": "LooLoo Anniversary with Dennis Cruz",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "LooLoo Studio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketfairy.com/event/dennis-cruz-13nov2026/",
+        "ticketUrl": "https://www.ticketfairy.com/event/dennis-cruz-13nov2026/",
+        "summary": "LooLoo Studio's anniversary night brings Spanish tech-house producer Dennis Cruz to Juárez with resident Alexandthere on support.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-brown-sugar-rewind-2026",
+        "title": "Brown Sugar Rewind",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Revo Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552233",
+        "ticketUrl": "https://ra.co/events/2552233",
+        "summary": "Diaspora-focused rooftop party billed as one of Mexico City's biggest Black-music-only parties, with hip-hop, R&B, dancehall and afro-beats from Dj Dizam, Black Daria, Ramses Hurt, 2KN, Wizah and The Bradley Way.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "mexico-city-cosmica-1tbsp-dia-de-muertos-2026",
+        "title": "CÓSMICA presenta: 1tbsp en CDMX · Día de Muertos",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 72,
+        "venueName": "Antro Juan",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2534101",
+        "ticketUrl": null,
+        "summary": "CÓSMICA brings Australian left-field dance producer 1tbsp to Antro Juan for Día de Muertos. Cherry Chola, Chico Sonido, Mau Moctezuma and Epidemic Of Boringness are also listed.",
+        "genres": [
+          "electronic",
+          "house",
           "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-rainao-lunario-2026",
+        "title": "RaiNao",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 72,
+        "venueName": "Lunario del Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.lunario.com.mx/cartelera/2026/noviembre/rainao.html",
+        "ticketUrl": "https://www.lunario.com.mx/cartelera/2026/noviembre/rainao.html",
+        "summary": "Puerto Rican artist RaiNao is confirmed at Lunario del Auditorio Nacional on November 18. The venue page highlights the show as an energetic, innovative live proposal.",
+        "genres": [
+          "latin",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-helado-tropical-2026",
+        "title": "Helado Tropical — Helado Negro & Reyna Tropical",
+        "type": "concert",
+        "startDate": "2026-11-26",
+        "endDate": "2026-11-26",
+        "importance": 71,
+        "venueName": "Lunario del Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/helado-negro-boletos/artist/1522035",
+        "ticketUrl": "https://www.ticketmaster.com.mx/helado-negro-boletos/artist/1522035",
+        "summary": "Helado Negro and Reyna Tropical bring their Helado Tropical project to Lunario del Auditorio Nacional. Ticketmaster confirms the November 26, 8:30 p.m. Mexico City date.",
+        "genres": [
+          "latin",
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "mexico-city-trym-sala-urbana-2026",
+        "title": "TRYM",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Sala Urbana",
+        "venueId": null,
+        "sourceUrl": "https://www.tulum.party/event/trym-fermx-looloo-salaurbana-juarez-mexico-city-november-14-2026",
+        "ticketUrl": null,
+        "summary": "French hard-techno/rave figure TRYM is listed for a FerMX/LooLoo-linked Sala Urbana date, positioned as one of the month's heavier electronic nights.",
+        "genres": [
+          "techno",
+          "electronic"
         ]
       },
       {
@@ -46,120 +346,20 @@
         ]
       },
       {
-        "id": "mexico-city-aitana-nov-2026",
-        "title": "Aitana",
+        "id": "mexico-city-los-autenticos-caligaris-nov-2026",
+        "title": "Los Auténticos Decadentes + Los Caligaris",
         "type": "concert",
-        "startDate": "2026-11-06",
-        "endDate": "2026-11-06",
-        "importance": 78,
-        "venueName": "Auditorio Nacional",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
-        "ticketUrl": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
-        "summary": "Spanish pop artist Aitana is confirmed for Auditorio Nacional on November 6, 2026. Ticketmaster lists the Mexico City performance at 8:30 p.m.",
-        "genres": [
-          "pop",
-          "latin"
-        ]
-      },
-      {
-        "id": "mexico-city-zz-top-nov-2026",
-        "title": "ZZ Top",
-        "type": "concert",
-        "startDate": "2026-11-11",
-        "endDate": "2026-11-11",
-        "importance": 76,
-        "venueName": "Auditorio Nacional",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
-        "ticketUrl": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
-        "summary": "ZZ Top is confirmed for Auditorio Nacional on November 11, 2026. The Ticketmaster event page lists the concert in Ciudad de México at 9:00 p.m.",
-        "genres": []
-      },
-      {
-        "id": "mexico-city-karol-g-tropitour-nov-2026",
-        "title": "Karol G — Viajando por el Mundo, Tropitour",
-        "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-13",
-        "importance": 94,
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 84,
         "venueName": "Estadio GNP Seguros",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
-        "ticketUrl": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
-        "summary": "Karol G brings her Viajando por el Mundo, Tropitour to Estadio GNP Seguros on November 13, 2026. The Ticketmaster listing confirms the stadium show in Ciudad de México at 9:00 p.m.",
+        "sourceUrl": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-ciudad-de-mexico-27-11-2026/event/1400649EB160C549",
+        "ticketUrl": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-ciudad-de-mexico-27-11-2026/event/1400649EB160C549",
+        "summary": "Los Auténticos Decadentes and Los Caligaris are confirmed for Estadio GNP Seguros on November 27, 2026. The Ticketmaster listing names the stadium event as Los Auténticos Caligaris.",
         "genres": [
           "latin",
-          "pop",
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "mexico-city-jerry-rivera-nov-2026",
-        "title": "Jerry Rivera",
-        "type": "concert",
-        "startDate": "2026-11-17",
-        "endDate": "2026-11-17",
-        "importance": 70,
-        "venueName": "Auditorio Nacional",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
-        "ticketUrl": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
-        "summary": "Salsa singer Jerry Rivera is confirmed for Auditorio Nacional on November 17, 2026. Ticketmaster lists the Mexico City concert at 8:30 p.m.",
-        "genres": [
-          "latin"
-        ]
-      },
-      {
-        "id": "mexico-city-time-warp-nov-2026",
-        "title": "Time Warp Mexico",
-        "type": "festival",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-21",
-        "importance": 88,
-        "venueName": "Expo Santa Fe",
-        "venueId": null,
-        "sourceUrl": "https://www.time-warp.de/mexico/mxcity/",
-        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B?language=en-mx",
-        "summary": "Time Warp Mexico is confirmed for November 20–21, 2026 at Expo Santa Fe. The official page describes the two-day debut as focused on house and techno.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "mexico-city-corona-capital-nov-2026",
-        "title": "Corona Capital 2026",
-        "type": "festival",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-22",
-        "importance": 96,
-        "venueName": "Corona Capital",
-        "venueId": "corona-capital-cdmx",
-        "sourceUrl": "https://www.excelsior.com.mx/espectaculos/corona-capital-2026-revela-fechas-proxima-edicion",
-        "ticketUrl": null,
-        "summary": "Corona Capital 2026 is confirmed for November 20–22, 2026 at Autódromo Hermanos Rodríguez. The lineup had not yet been revealed in the confirming source, so artist names are omitted.",
-        "genres": [
-          "festival",
-          "pop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "mexico-city-christian-sands-quartet-nov-2026",
-        "title": "Christian Sands Quartet",
-        "type": "concert",
-        "startDate": "2026-11-21",
-        "endDate": "2026-11-21",
-        "importance": 68,
-        "venueName": "Teatro de la Ciudad Esperanza Iris",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/christian-sands-quartet-mexico-21-11-2026/event/3D00642992AA291E",
-        "ticketUrl": "https://www.ticketmaster.com.mx/christian-sands-quartet-mexico-21-11-2026/event/3D00642992AA291E",
-        "summary": "Christian Sands Quartet is confirmed for Teatro de la Ciudad Esperanza Iris on November 21, 2026. Ticketmaster categorizes the performance under jazz/instrumental concerts.",
-        "genres": [
-          "jazz"
+          "pop"
         ]
       },
       {
@@ -196,20 +396,101 @@
         ]
       },
       {
-        "id": "mexico-city-los-autenticos-caligaris-nov-2026",
-        "title": "Los Auténticos Decadentes + Los Caligaris",
-        "type": "concert",
-        "startDate": "2026-11-27",
-        "endDate": "2026-11-27",
-        "importance": 84,
-        "venueName": "Estadio GNP Seguros",
+        "id": "mexico-city-jeff-mills-yuyu-2026",
+        "title": "Jeff Mills CDMX 2026 — YuYu 9th Anniversary with Dorado",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Frontón Bucareli",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-ciudad-de-mexico-27-11-2026/event/1400649EB160C549",
-        "ticketUrl": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-ciudad-de-mexico-27-11-2026/event/1400649EB160C549",
-        "summary": "Los Auténticos Decadentes and Los Caligaris are confirmed for Estadio GNP Seguros on November 27, 2026. The Ticketmaster listing names the stadium event as Los Auténticos Caligaris.",
+        "sourceUrl": "https://feverup.com/m/633239",
+        "ticketUrl": "https://feverup.com/m/633239",
+        "summary": "Dorado and YuYu present Detroit techno pioneer Jeff Mills at Frontón Bucareli, marking 30 years of his influential The Liquid Room Tokyo set and YuYu’s 9th anniversary in CDMX.",
         "genres": [
-          "latin",
-          "pop"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-aitana-nov-2026",
+        "title": "Aitana",
+        "type": "concert",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
+        "ticketUrl": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
+        "summary": "Spanish pop artist Aitana is confirmed for Auditorio Nacional on November 6, 2026. Ticketmaster lists the Mexico City performance at 8:30 p.m.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-zz-top-nov-2026",
+        "title": "ZZ Top",
+        "type": "concert",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-11",
+        "importance": 76,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
+        "ticketUrl": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
+        "summary": "ZZ Top is confirmed for Auditorio Nacional on November 11, 2026. The Ticketmaster event page lists the concert in Ciudad de México at 9:00 p.m.",
+        "genres": []
+      },
+      {
+        "id": "mexico-city-fascinoma-2026",
+        "title": "FASCiNOMA Festival | Dance Music Weekend 2026",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 76,
+        "venueName": "TBA, Tlalpan",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/fascinoma",
+        "ticketUrl": "https://www.passline.com/eventos/fascinoma",
+        "summary": "Independent open-air dance music weekend in Tlalpan centered on dub and its club mutations, with confirmed names including Surgeon, Donato Dozzy, Sicaria, Introspekt, Sully, re:ni, Intrusion, Vladimir Ivkovic, Debit, Verraco and local selectors.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-jerry-rivera-nov-2026",
+        "title": "Jerry Rivera",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 70,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
+        "summary": "Salsa singer Jerry Rivera is confirmed for Auditorio Nacional on November 17, 2026. Ticketmaster lists the Mexico City concert at 8:30 p.m.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-christian-sands-quartet-nov-2026",
+        "title": "Christian Sands Quartet",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 68,
+        "venueName": "Teatro de la Ciudad Esperanza Iris",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/christian-sands-quartet-mexico-21-11-2026/event/3D00642992AA291E",
+        "ticketUrl": "https://www.ticketmaster.com.mx/christian-sands-quartet-mexico-21-11-2026/event/3D00642992AA291E",
+        "summary": "Christian Sands Quartet is confirmed for Teatro de la Ciudad Esperanza Iris on November 21, 2026. Ticketmaster categorizes the performance under jazz/instrumental concerts.",
+        "genres": [
+          "jazz"
         ]
       }
     ]

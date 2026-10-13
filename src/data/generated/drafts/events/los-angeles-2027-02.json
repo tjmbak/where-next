@@ -1,0 +1,317 @@
+{
+  "slug": "los-angeles",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:18:28.483Z",
+  "responseId": "resp_09a9d497860357a0006acda24f9e1487d0ba06cb5c14ceac70+resp_0dad78407f09c81c006acda2beb51c87d0a3334c7860108119",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 2,
+    "year": 2027,
+    "notes": "Confirmed February 2027 underground/genre listings are still sparse this far out; this set prioritizes ticketed club-scale electronic, bass/beat-scene, R&B/pop-nightlife, and recurring party brands over arena shows.",
+    "events": [
+      {
+        "id": "los-angeles-sylvan-esso-wiltern-2027",
+        "title": "Sylvan Esso",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 82,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG10Z_GJuyPrv/sylvan-esso",
+        "ticketUrl": "https://www.livenation.com/event/vvG10Z_GJuyPrv/sylvan-esso",
+        "summary": "Electronic pop duo Sylvan Esso plays The Wiltern in Koreatown. Live Nation confirms the Los Angeles concert for February 26, 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-damian-lazarus-lny-2027",
+        "title": "Framework & Long Feng present LNY: Damian Lazarus",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/q2dygy",
+        "ticketUrl": "https://dice.fm/event/q2dygy",
+        "summary": "Damian Lazarus anchors the second Long Feng x Framework Lunar New Year weekend night at Reframe Studios, bringing a Crosstown Rebels-style deep and psychedelic house sound to a large club setting.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-hot-since-82-reframe-2027",
+        "title": "Hot Since 82",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 78,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43428471-hot-since-82-at-reframe-studios-indoors",
+        "ticketUrl": null,
+        "summary": "Hot Since 82 headlines a late-night electronic event at Reframe Studios Indoors. Songkick lists the Los Angeles date for February 5, 2027, with DICE as the ticketing partner.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-banda-el-recodo-dolby-2027",
+        "title": "Banda El Recodo",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 78,
+        "venueName": "Dolby Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv170Z_3GkmR4Fmy/banda-el-recodo",
+        "ticketUrl": "https://www.livenation.com/event/vv170Z_3GkmR4Fmy/banda-el-recodo",
+        "summary": "Banda El Recodo, the long-running Mexican banda institution, plays Dolby Theatre in Hollywood. Live Nation confirms the show for February 5, 2027.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "los-angeles-pablo-alboran-youtube-theater-2027",
+        "title": "Pablo Alborán - Global Tour KM0",
+        "type": "concert",
+        "startDate": "2027-02-18",
+        "endDate": "2027-02-18",
+        "importance": 78,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1IZ_GldncUz/pablo-alboran-global-tour-km0",
+        "ticketUrl": "https://www.livenation.com/event/vvG1IZ_GldncUz/pablo-alboran-global-tour-km0",
+        "summary": "Spanish pop singer-songwriter Pablo Alborán brings the Global Tour KM0 to YouTube Theater in Inglewood, just outside Los Angeles. Live Nation confirms the February 18, 2027 show.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-kenia-os-youtube-theater-2027",
+        "title": "Kenia OS: K de Karma Tour",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 78,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1IZ_KDkHxN-/kenia-os-k-de-karma-tour",
+        "ticketUrl": "https://www.livenation.com/event/vvG1IZ_KDkHxN-/kenia-os-k-de-karma-tour",
+        "summary": "Mexican pop star Kenia OS brings the K de Karma Tour to YouTube Theater in Inglewood. Live Nation confirms the February 27, 2027 date.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-carlita-lny-2027",
+        "title": "Framework & Long Feng present LNY: Carlita",
+        "type": "club-night",
+        "startDate": "2027-02-19",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/3obbqg-framework-long-feng-present-lny-carlita-19th-feb-reframe-studios-indoors-los-angeles-tickets",
+        "ticketUrl": "https://dice.fm/event/3obbqg-framework-long-feng-present-lny-carlita-19th-feb-reframe-studios-indoors-los-angeles-tickets",
+        "summary": "Framework teams with Long Feng for a Lunar New Year club event headlined by Carlita, aimed at LA’s fashion-forward house and melodic-club crowd.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-ladysmith-black-mambazo-blue-note-2027",
+        "title": "Ladysmith Black Mambazo",
+        "type": "concert",
+        "startDate": "2027-02-09",
+        "endDate": "2027-02-09",
+        "importance": 76,
+        "venueName": "Blue Note Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/ladysmith-black-mambazo-blue-note-los-angeles-tickets/15013553",
+        "ticketUrl": "https://www.ticketweb.com/event/ladysmith-black-mambazo-blue-note-los-angeles-tickets/15013553",
+        "summary": "Ladysmith Black Mambazo performs at Blue Note Los Angeles on Sunset Boulevard. TicketWeb lists the February 9, 2027 show and identifies Blue Note Los Angeles as the venue.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "los-angeles-whomadewho-2027",
+        "title": "WhoMadeWho Hybrid DJ Set",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Reframe Studios Indoors",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/bbgy8v-whomadewho-hybrid-dj-set-6th-feb-reframe-studios-indoors-los-angeles-tickets",
+        "ticketUrl": "https://dice.fm/event/bbgy8v-whomadewho-hybrid-dj-set-6th-feb-reframe-studios-indoors-los-angeles-tickets",
+        "summary": "WhoMadeWho’s hybrid DJ set at Reframe Studios lands in Framework’s large-format house/electronic lane, drawing the melodic and indie-dance crowd.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-blue-october-wiltern-2027",
+        "title": "Blue October",
+        "type": "concert",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-07",
+        "importance": 74,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.blueoctober.com/tour-dates-detail/the-wiltern",
+        "ticketUrl": "https://www.livenation.com/event/vvG10Z_1rI5jQ_/blue-october",
+        "summary": "Blue October plays The Wiltern in Los Angeles. The band's official tour page lists the show for February 7, 2027, with tickets linked through Live Nation.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-girl-ultra-roxy-2027",
+        "title": "Girl Ultra - el Tour de RRRomeo",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "importance": 74,
+        "venueName": "The Roxy",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1644696/girl-ultra-tickets",
+        "ticketUrl": "https://www.axs.com/events/1644696/girl-ultra-tickets",
+        "summary": "Mexican R&B artist Girl Ultra performs at The Roxy on the Sunset Strip as part of el Tour de RRRomeo. AXS confirms the February 25, 2027 date.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-nemzzz-locked-in-2027",
+        "title": "NEMZZZ - LOCKED IN TOUR",
+        "type": "concert",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 72,
+        "venueName": "The Echo",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/nemzzz-tickets/artist/5419706",
+        "ticketUrl": "https://www.ticketmaster.co.uk/nemzzz-tickets/artist/5419706",
+        "summary": "UK rapper Nemzzz brings the LOCKED IN TOUR to The Echo in Echo Park. The venue listing confirms the Los Angeles date as February 2, 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "los-angeles-romare-pacific-electric-2027",
+        "title": "Romare",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 72,
+        "venueName": "Pacific Electric",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/venue/KovZ917A-HU/pacific-electric-events",
+        "ticketUrl": "https://www.livenation.com/venue/KovZ917A-HU/pacific-electric-events",
+        "summary": "Electronic producer Romare plays Pacific Electric in Los Angeles. Live Nation's venue calendar confirms the February 5, 2027 date and categorizes it as dance/electronic.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-bad-suns-belasco-2027",
+        "title": "Bad Suns - Disappear Here: A Ten Year Celebration",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 72,
+        "venueName": "The Belasco",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/artists/1039523/bad-suns-tickets?page=2",
+        "ticketUrl": "https://www.axs.com/artists/1039523/bad-suns-tickets?page=2",
+        "summary": "Los Angeles band Bad Suns celebrates ten years of Disappear Here with a hometown-area show at The Belasco. AXS lists the Belasco Los Angeles date for February 20, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-bella-poarch-roxy-2027",
+        "title": "Bella Poarch - Picnic at the Cemetery Tour",
+        "type": "concert",
+        "startDate": "2027-02-23",
+        "endDate": "2027-02-23",
+        "importance": 72,
+        "venueName": "The Roxy",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1642430/bella-poarch-tickets",
+        "ticketUrl": "https://www.axs.com/events/1642430/bella-poarch-tickets",
+        "summary": "Bella Poarch brings the Picnic at the Cemetery Tour to The Roxy on the Sunset Strip. AXS confirms the all-ages show for February 23, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-paco-versailles-pacific-electric-2027",
+        "title": "Paco Versailles",
+        "type": "concert",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 72,
+        "venueName": "Pacific Electric",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/paco-versailles-los-angeles-california-02-27-2027/event/09006539AD80B1D5",
+        "ticketUrl": "https://www.ticketmaster.com/paco-versailles-los-angeles-california-02-27-2027/event/09006539AD80B1D5",
+        "summary": "Paco Versailles plays Pacific Electric in Los Angeles. Ticketmaster confirms the February 27, 2027 date and lists the event at the Naud Street venue.",
+        "genres": [
+          "latin",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-aj-mclean-fonda-2027",
+        "title": "AJ McLean of Backstreet Boys: The Better Man Tour",
+        "type": "concert",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 70,
+        "venueName": "Fonda Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1507785/aj-mclean-of-backstreet-boys-tickets",
+        "ticketUrl": "https://www.axs.com/events/1507785/aj-mclean-of-backstreet-boys-tickets",
+        "summary": "Goldenvoice presents AJ McLean of Backstreet Boys at the Fonda Theatre on Hollywood Boulevard. The AXS event page lists the show as a new date on February 4, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-death-from-above-belasco-2027",
+        "title": "Death From Above 1979 Private Lives Tour",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 70,
+        "venueName": "The Belasco",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG10Z_1QNSuD2/death-from-above-1979-private-lives-tour",
+        "ticketUrl": "https://www.livenation.com/event/vvG10Z_1QNSuD2/death-from-above-1979-private-lives-tour",
+        "summary": "Death From Above 1979 bring the Private Lives Tour to The Belasco in downtown Los Angeles. The Live Nation event page confirms the February 5, 2027 date.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

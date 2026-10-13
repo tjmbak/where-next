@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 export const metadata: Metadata = {
   title: "Concierge brief received",
@@ -13,14 +14,7 @@ export default async function ConciergeThanksPage({ searchParams }: PageProps) {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-      </header>
+      <SiteHeader />
       <section className="mx-auto w-full max-w-[680px] px-6 py-16 text-center sm:px-10">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">concierge</p>
         <h1 className="mt-5 text-[clamp(2rem,5vw,3rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
@@ -38,7 +32,7 @@ export default async function ConciergeThanksPage({ searchParams }: PageProps) {
           href="/"
           className="mt-10 inline-flex items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)]"
         >
-          back to the map
+          back to discovery
           <span aria-hidden>→</span>
         </Link>
       </section>

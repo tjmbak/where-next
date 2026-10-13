@@ -2,99 +2,326 @@
   "slug": "dubai",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:21:19.914Z",
-  "responseId": "resp_026085fbfc1464fa0069ff5eb21ad8819ca9be110cf4840c1e",
-  "searchCalls": 9,
+  "generatedAt": "2026-10-13T02:41:04.217Z",
+  "responseId": "resp_0780c862d25f21cd006acd995e46dc87d0bca1344445c73734+resp_038eb3aea071fa34006acd99c991f487d09529d444d8c0b2b2",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "dubai",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026 is currently anchored by UNTOLD Dubai and a run of large-scale Pacha ICONS electronic events, with major arena and opera concerts also confirmed.",
+    "notes": "November 2026 is anchored by UNTOLD Dubai and a heavy run of electronic beach/arena shows, while Dubai’s South Asian, Arabic pop and jazz audiences also have major arena and opera-house dates.",
     "events": [
       {
-        "id": "dubai-untold-dubai-nov-2026",
+        "id": "dubai-untold-festival-nov-2026",
         "title": "UNTOLD Dubai 2026",
         "type": "festival",
         "startDate": "2026-11-05",
         "endDate": "2026-11-08",
-        "importance": 96,
+        "importance": 95,
         "venueName": "Dubai Parks and Resorts",
         "venueId": null,
-        "sourceUrl": "https://untold.ae/",
-        "ticketUrl": "https://www.untold.ae/tickets?direct=true",
-        "summary": "UNTOLD Dubai returns for four days and nights at Dubai Parks and Resorts. The official site confirms the 5–8 November 2026 dates, with 2026 artist announcements still to come.",
+        "sourceUrl": "https://www.untold.ae/",
+        "ticketUrl": "https://www.untold.ae/passes?direct=true",
+        "summary": "Official UNTOLD Dubai pages confirm the four-day mega festival at Dubai Parks and Resorts from 5–8 November 2026. The 2026 artist list is not yet announced on the official artists page, but early-bird passes are on sale.",
         "genres": [
+          "festival",
           "electronic",
-          "house",
-          "hip-hop"
+          "pop"
         ]
       },
       {
-        "id": "dubai-pacha-anotr-nov-2026",
-        "title": "ANOTR | Pacha ICONS",
-        "type": "club-night",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-13",
-        "importance": 84,
-        "venueName": "FIVE LUXE JBR",
-        "venueId": null,
-        "sourceUrl": "https://www.pachaicons.com/dubai/events/131126-anotr-five-luxe",
-        "ticketUrl": "https://www.pachaicons.com/dubai/events/131126-anotr-five-luxe",
-        "summary": "ANOTR headline Pacha ICONS at FIVE LUXE JBR, with DiOSA and Fabrice also listed on the official lineup. The official Pacha ICONS page confirms Friday, November 13, 2026.",
-        "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "dubai-pacha-music-on-nov-2026",
-        "title": "Marco Carola presents Music On | Pacha ICONS",
-        "type": "residency",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-20",
-        "importance": 89,
-        "venueName": "Playa Pacha, FIVE LUXE JBR",
-        "venueId": null,
-        "sourceUrl": "https://www.pachaicons.com/dubai/events/20112026-music-five-luxe",
-        "ticketUrl": "https://www.pachaicons.com/dubai/events/20112026-music-five-luxe",
-        "summary": "Music On returns to Dubai for the season-closing date of its Pacha ICONS series. Marco Carola b2b Chris Stussy headline, joined by Ilario Alicante and DA VID.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "dubai-anuv-jain-expo-city-nov-2026",
-        "title": "Anuv Jain Live at Expo City Dubai",
+        "id": "dubai-amr-diab-coca-cola-arena-nov-2026",
+        "title": "Amr Diab 2026 in Dubai",
         "type": "concert",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-20",
-        "importance": 74,
-        "venueName": "Dubai Millennium Amphitheatre, Expo City Dubai",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 88,
+        "venueName": "Coca-Cola Arena",
         "venueId": null,
-        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104347/anuv-jain-live-in-expo-city-dubai",
-        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104347/anuv-jain-live-in-expo-city-dubai",
-        "summary": "Anuv Jain brings his Dastakhat world tour to Expo City Dubai. Platinumlist confirms the concert for Friday, 20 November 2026 at Dubai Millennium Amphitheatre.",
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104751/amr-diab/",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104751/amr-diab/",
+        "summary": "Amr Diab returns to Coca-Cola Arena on 7 November 2026. The listing promises a set blending recent releases with classics such as “Ya Ana Ya La,” “Amarain,” “Leily Nahary,” and “Nour El Ein.”",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "dubai-pacha-keinemusik-nov-2026",
+        "id": "dubai-artbat-upperground-ushuahia-nov-2026",
+        "title": "ARTBAT Present Upperground at Ushuaïa Dubai Harbour Experience",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 88,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.ushuaiadubai.com/events/2026/artbat-present-upperground",
+        "ticketUrl": "https://www.ushuaiadubai.com/events/2026/artbat-present-upperground",
+        "summary": "ARTBAT bring their Upperground show to Ushuaïa Dubai Harbour Experience on 28 November 2026. The official page lists ARTBAT with Miss Monique, R3HAB and 7 SKIES at Dubai Harbour.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-adriatique-x-ushuahia-nov-2026",
+        "title": "Adriatique Present X at Ushuaïa Dubai Harbour Experience",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 87,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.adriatique.ch/tickets",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108188/adriatique-present-x-at-ushuaiua-dubai-harbour-experience",
+        "summary": "Adriatique bring their X audiovisual show to Ushuaïa Dubai Harbour Experience on 14 November 2026. The artist ticket page explicitly lists “X Dubai” at Ushuaïa Dubai Harbour Experience for this date.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-marco-carola-music-on-nov-2026",
+        "title": "Marco Carola Presents Music On | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 85,
+        "venueName": "FIVE Luxe JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/20112026-music-five-luxe",
+        "ticketUrl": "https://www.ticketmaster.ae/event/marco-carola-presents-music-on-%7C-pacha-icons-tickets/448640469",
+        "summary": "Marco Carola’s Music On takes over Pacha ICONS at FIVE Luxe JBR on 20 November 2026. Pacha lists Marco Carola, Chris Stussy, Ilario Alicante and Da Vid for the 19:00–03:00 tech-house event.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-keinemusik-pacha-icons-2026",
         "title": "Keinemusik | Pacha ICONS",
+        "type": "festival",
+        "startDate": "2026-11-21",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Bab Al Shams Arena",
+        "venueId": null,
+        "sourceUrl": "https://tarab.city/event/keinemusik-21nov",
+        "ticketUrl": "https://tarab.city/event/keinemusik-21nov",
+        "summary": "Keinemusik’s &ME, Rampa, and Adam Port headline a Pacha ICONS desert show at Bab Al Shams Arena, positioned as a large-scale open-air Dubai desert electronic event.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-anotr-pacha-icons-nov-2026",
+        "title": "ANOTR | Pacha ICONS",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 82,
+        "venueName": "FIVE Luxe JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/131126-anotr-five-luxe",
+        "ticketUrl": "https://www.ticketmaster.ae/event/anotr-%7C-playa-pacha-tickets/725830588",
+        "summary": "ANOTR headlines Pacha ICONS at FIVE Luxe JBR on 13 November 2026. Pacha lists the event as a 21+ tech-house night running 19:00–03:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-atif-aslam-coca-cola-arena-nov-2026",
+        "title": "Atif Aslam 2026 in Dubai",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 82,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104859/atif-aslam",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104859/atif-aslam",
+        "summary": "Atif Aslam returns to Coca-Cola Arena on 27 November 2026. The Platinumlist page notes a 21:00 start and a live set drawing from Bollywood favourites and crowd-led arena moments.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-anuv-jain-expo-city-nov-2026",
+        "title": "Anuv Jain Live at Jubilee Park",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 80,
+        "venueName": "Jubilee Park, Expo City Dubai",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1038646008-anuv-jain-at-jubilee-park-or-expo-city-dubai?came_from=2000",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/anuv-jain-tickets/1254923",
+        "summary": "Anuv Jain brings his Dastakhat tour to Jubilee Park, Expo City Dubai on 20 November 2026. The listing notes doors at 18:30 and show start at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-bohemia-mk-nov-2026",
+        "title": "Bohemia Presents MK",
+        "type": "beach-club",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 80,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/mk-tickets/927314",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/mk-tickets/927314",
+        "summary": "Detroit house producer MK headlines Bohemia Beach Club on 21 November 2026. Ticketmaster lists the event at Bohemia Beach Club | FIVE Palm with a 19:00 start.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-boris-brejcha-soho-2026",
+        "title": "Boris Brejcha at Soho Garden Festival",
+        "type": "festival",
+        "startDate": "2026-11-27",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Soho Garden Meydan",
+        "venueId": "soho-garden",
+        "sourceUrl": "https://rockhopping.com/event/f1e50758b3751c0c",
+        "ticketUrl": "https://dubai.platinumlist.net/venue/4948/soho-garden-meydan/",
+        "summary": "Boris Brejcha headlines Soho Garden Festival at Soho Garden Meydan, bringing a high-profile electronic festival-style booking to Dubai’s club circuit.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-deep-house-bible-2026",
+        "title": "DHB at Skydive Dubai",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Skydive Dubai",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108575/dhb-at-skydive-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108575/dhb-at-skydive-dubai",
+        "summary": "Studio A brings Ahmed Spins’ Deep House Bible platform to Skydive Dubai with Ahmed Spins, DESIREE, Gawdat, Samm, and Alex Twin across Afro house, deep house, and electronic sounds.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-bohemia-alex-wann-sona-nov-2026",
+        "title": "Bohemia Presents Alex Wann & SONA",
+        "type": "beach-club",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 78,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/bohemia-presents-alex-wann--sona-tickets/428316098",
+        "ticketUrl": "https://www.ticketmaster.ae/event/bohemia-presents-alex-wann--sona-tickets/428316098",
+        "summary": "Bohemia Beach Club hosts Alex Wann & SONA on 14 November 2026 from 19:00. Ticketmaster lists the event as a 21+ dance/electronic night at FIVE Palm.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-synthony-faithless-nov-2026",
+        "title": "SYNTHONY Dubai with Faithless Sound System",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 78,
+        "venueName": "Bla Bla Dubai",
+        "venueId": null,
+        "sourceUrl": "https://synthony.com/events/middle-east/dubai/",
+        "ticketUrl": "https://synthony.com/events/middle-east/dubai/",
+        "summary": "SYNTHONY debuts in Dubai at Bla Bla on 21 November 2026 with Faithless Sound System, Armenian State Symphony Orchestra and conductor Adrián Ronda Sampayo. The show reworks electronic dance anthems with orchestra, DJs, vocalists and visuals.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-dubai-7s-jax-jones-melanie-c-nov-2026",
+        "title": "Emirates Dubai 7s Music: Jax Jones & Melanie C",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 78,
+        "venueName": "The Sevens Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.emiratesdubai7s.com/see-you-at-the-7s/music/",
+        "ticketUrl": "https://tickets.emiratesdubai7s.com/",
+        "summary": "The Emirates Dubai 7s music programme confirms Jax Jones on Saturday 28 November and Melanie C on Sunday 29 November at the Beats on 2 stage. The wider sports-and-entertainment festival presents music across multiple stages over the weekend.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-old-school-jam-2026",
+        "title": "Old School Jam Festival Experience 2026",
+        "type": "festival",
+        "startDate": "2026-11-22",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://www.oldschooljamdxb.com/home",
+        "ticketUrl": "https://www.oldschooljamdxb.com/home",
+        "summary": "Old School Jam returns to Dubai with a full outdoor day-festival build at Dubai Harbour, centred on old-school R&B, golden-era hip-hop, live performances, and singalong nostalgia.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-jony-coca-cola-arena-nov-2026",
+        "title": "JONY in Dubai",
+        "type": "concert",
+        "startDate": "2026-11-04",
+        "endDate": "2026-11-04",
+        "importance": 76,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/106827/jony",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/106827/jony",
+        "summary": "Russian pop/R&B artist JONY plays Coca-Cola Arena on 4 November 2026. The event page highlights hits including “Kamin,” “Kometa,” “Alleya,” “Titry,” and “Love Your Voice.”",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "dubai-ilario-alicante-penthouse-nov-2026",
+        "title": "House Rules | Ilario Alicante",
         "type": "club-night",
         "startDate": "2026-11-21",
         "endDate": "2026-11-21",
-        "importance": 90,
-        "venueName": "The Arena, Bab Al Shams",
+        "importance": 76,
+        "venueName": "The Penthouse | FIVE Palm",
         "venueId": null,
-        "sourceUrl": "https://www.pachaicons.com/dubai/events/21112026-keinemusik-bab-al-shams",
-        "ticketUrl": "https://www.pachaicons.com/dubai/events/21112026-keinemusik-bab-al-shams",
-        "summary": "Keinemusik bring &ME, Rampa and Adam Port to Bab Al Shams Arena for a Pacha ICONS desert show. The official event page confirms Saturday, November 21, 2026.",
+        "sourceUrl": "https://www.ticketmaster.ae/event/house-rules-%7C-ilario-alicante-tickets/1550686783",
+        "ticketUrl": "https://www.ticketmaster.ae/event/house-rules-%7C-ilario-alicante-tickets/1550686783",
+        "summary": "The Penthouse hosts Ilario Alicante for House Rules on 21 November 2026 from 22:00. Ticketmaster lists it as a 21+ dance/electronic event at FIVE Palm.",
         "genres": [
-          "afro-house",
+          "techno",
           "house",
           "electronic"
         ]
@@ -117,22 +344,6 @@
         ]
       },
       {
-        "id": "dubai-atif-aslam-coca-cola-arena-nov-2026",
-        "title": "Atif Aslam 2026 in Dubai",
-        "type": "concert",
-        "startDate": "2026-11-27",
-        "endDate": "2026-11-27",
-        "importance": 82,
-        "venueName": "Coca-Cola Arena",
-        "venueId": null,
-        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104859/atif-aslam",
-        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104859/atif-aslam",
-        "summary": "Atif Aslam returns to Coca-Cola Arena for a large-scale Dubai concert. Platinumlist confirms the event for Friday, 27 November 2026.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "dubai-urja-divine-energy-nov-2026",
         "title": "URJA – Divine Energy",
         "type": "festival",
@@ -146,6 +357,24 @@
         "summary": "URJA – Divine Energy is a three-day Indian classical music festival featuring Sikkil Gurucharan, Kunnakudi Balamuralikrishna and Bharat Sundar on successive nights. Platinumlist confirms the festival dates as 27–29 November 2026.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "dubai-made-moments-2026",
+        "title": "Made Moments - The Dubai Experience",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "importance": 70,
+        "venueName": "Dubai TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/made-moments-the-dubai-experience-tickets-1982398389949",
+        "ticketUrl": "https://www.eventbrite.com/e/made-moments-the-dubai-experience-tickets-1982398389949",
+        "summary": "A 25+ destination weekender from Made Moments combining brunches, yacht parties and luxury nightlife, with a soundtrack billed as hip-hop, dancehall, Afrobeats, amapiano and R&B.",
+        "genres": [
+          "hip-hop",
+          "amapiano",
+          "r-and-b"
         ]
       }
     ]

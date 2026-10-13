@@ -1,0 +1,96 @@
+{
+  "slug": "las-vegas",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:13:55.489Z",
+  "responseId": "resp_0312fed52ad5e4dd006acdaf01b0b487d091702e3e55cd9d0f+resp_0470991e03759ebf006acdafb45f2887d09cb83f54c099a7de",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 6,
+    "year": 2027,
+    "notes": "As of the search, most Las Vegas club/residency calendars for June 2027 are not yet specifically announced; only confirmed genre/diaspora destination events with dated source pages are included.",
+    "events": [
+      {
+        "id": "las-vegas-john-mayer-sphere-jun-2027",
+        "title": "John Mayer Live at Sphere",
+        "type": "residency",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-02",
+        "importance": 90,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://johnmayer.com/tour/show/326",
+        "ticketUrl": "https://www.ticketmaster.com/john-mayer-live-at-sphere-las-vegas-nevada-06-02-2027/event/1700653837E1D50D",
+        "summary": "Representative June date for John Mayer's Sphere residency, with the official tour page listing June 2, 4 and 5, 2027. The show is billed as a solo, full-band and John Mayer Trio presentation.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-recess-vegas-2027",
+        "title": "RECESS VEGAS 2027: The 10-Year Anniversary / Juneteenth Weekend",
+        "type": "festival",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-21",
+        "importance": 78,
+        "venueName": "Location TBD / Planet Hollywood host hotel noted by organizer",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/recess-vegas-2027-the-10-year-anniversary-get-discounted-group-tix-now-tickets-1992272389347",
+        "ticketUrl": "https://www.eventbrite.com/e/recess-vegas-2027-the-10-year-anniversary-get-discounted-group-tix-now-tickets-1992272389347",
+        "summary": "ARC CONCEPTS / Recess Getaways’ 10-year anniversary destination weekend over Juneteenth, billed as four days of parties, pool parties, theme events, special guests, networking, and group travel programming in Las Vegas.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "las-vegas-a-perfect-circle-fontainebleau-2027",
+        "title": "A Perfect Circle with The Cult",
+        "type": "concert",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-11",
+        "importance": 76,
+        "venueName": "BleauLive Theater at Fontainebleau Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.fontainebleaulasvegas.com/event/a-perfect-circle/2027-06-10/",
+        "ticketUrl": "https://www.ticketmaster.com/venue/189546?attractionId=707500",
+        "summary": "A Perfect Circle performs a two-night Las Vegas run at BleauLive Theater on June 10 and 11, 2027. The venue page confirms special guest The Cult as opener.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-donny-osmond-harrahs-jun-2027",
+        "title": "Donny Osmond at Harrah's Las Vegas",
+        "type": "residency",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-01",
+        "importance": 74,
+        "venueName": "Harrah's Showroom at Harrah's Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/donny-osmond-las-vegas-tickets/artist/2767135?ac_link=ursa_9661be67-7170-4e21-876a-bf13a4a7f477_a_2767135&page=4&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/donny-osmond-las-vegas-tickets/artist/2767135?ac_link=ursa_9661be67-7170-4e21-876a-bf13a4a7f477_a_2767135&page=4&tt_scene=anchor_view",
+        "summary": "Representative June date for Donny Osmond's long-running Harrah's Las Vegas residency, which is extended through June 2027. The show is a career-spanning pop residency with hits and audience-request segments.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-airborne-toxic-event-hob-2027",
+        "title": "The Airborne Toxic Event",
+        "type": "concert",
+        "startDate": "2027-06-03",
+        "endDate": "2027-06-03",
+        "importance": 68,
+        "venueName": "House of Blues Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://theairbornetoxicevent.com/",
+        "ticketUrl": "https://www.ticketmaster.com/event/170064A274718CB8",
+        "summary": "The Airborne Toxic Event plays House of Blues Las Vegas on June 3, 2027, a rescheduled date from September 11, 2026. The official artist tour page lists the Las Vegas stop and venue.",
+        "genres": []
+      }
+    ]
+  }
+}

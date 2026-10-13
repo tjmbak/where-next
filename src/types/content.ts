@@ -115,6 +115,12 @@ export type Event = {
   sourceUrl: string;
   ticketUrl?: string;
   summary: string;
+  /**
+   * Whether the date/lineup is confirmed (researched) vs a forward estimate
+   * derived from the recurring annual backbone for a not-yet-researched year.
+   * Absent → treat as confirmed.
+   */
+  confirmed?: boolean;
 };
 
 export type CurationSource = {
@@ -128,6 +134,7 @@ export type CurationSource = {
 
 export type DiscoveryFilters = {
   month: MonthNumber;
+  year?: number;
   stayLength?: 1 | 2 | 3;
   genre?: Genre | "all";
   vibe?: Vibe | "all";

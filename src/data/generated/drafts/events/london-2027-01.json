@@ -1,0 +1,316 @@
+{
+  "slug": "london",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:03:46.035Z",
+  "responseId": "resp_0cc3d6a34b8030ef006acd9e97393c87d0bf33fcac4c9cb198+resp_006e44650a17b0b6006acd9f24029887d087c67efd5965e85c",
+  "searchCalls": 38,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is currently strongest on confirmed arena/pop tours and New Year club programming, with a smaller number of underground and diaspora-club listings public so far.",
+    "events": [
+      {
+        "id": "london-aespa-o2-2027",
+        "title": "aespa — 2026–27 aespa LIVE TOUR – SYNK : Complæxity - in LONDON",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/aespa-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/aespa-2027",
+        "summary": "K-pop group aespa brings the SYNK : Complæxity world tour to The O2. The venue page confirms the London date and describes the production as a new chapter following the group’s second full-length album.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-two-door-cinema-club-o2-2027",
+        "title": "Two Door Cinema Club — Tourist History 15th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2027-01-28",
+        "endDate": "2027-01-28",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/two-door-cinema-club-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/two-door-cinema-club-2027",
+        "summary": "Two Door Cinema Club headline The O2 with special guests Circa Waves and Arkayla. The January 2027 arena run celebrates the 15th anniversary of Tourist History, which the band will perform in full alongside a greatest-hits set.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-unfold-nyd-xxl-2027",
+        "title": "UNFOLD NYD XXL",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-03",
+        "importance": 82,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2554680",
+        "ticketUrl": "https://ra.co/events/2554680",
+        "summary": "FOLD’s techno institution UNFOLD runs an extended NYD XXL edition from Friday afternoon into Sunday morning; lineup is still unannounced on the verified listing.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-dj-habibeats-habibis-house-2027",
+        "title": "DJ Habibeats presents Habibi's House",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 80,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.lwe.events/events/djhabibeats",
+        "ticketUrl": "https://www.lwe.events/events/djhabibeats",
+        "summary": "London Warehouse Events presents DJ Habibeats’ Habibi’s House at Roundhouse. The promoter bills it as HabibiBeats’ biggest European show to date, taking the Arabic/global club concept into one of London’s major rooms.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-first-aid-kit-apollo-2027",
+        "title": "First Aid Kit — Visions of the Past Tour",
+        "type": "concert",
+        "startDate": "2027-01-28",
+        "endDate": "2027-01-29",
+        "importance": 79,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/first-aid-kit/",
+        "ticketUrl": "https://www.eventimapollo.com/events/first-aid-kit/",
+        "summary": "First Aid Kit play two nights at Eventim Apollo on their Visions of the Past UK and Ireland tour, with Isak Benjamin supporting. The venue listing confirms showings on January 28 and January 29, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-billy-daniel-bunter-rave-culture-2027",
+        "title": "Billy Daniel Bunter: A Journey Through London Rave Culture",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2557881",
+        "ticketUrl": "https://ra.co/events/2557881",
+        "summary": "Billy Daniel Bunter plays a six-hour open-to-close vinyl set at Phonox, tracing London rave culture from acid house through hardcore and jungle.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-faith-nyd-special-2027",
+        "title": "Faith NYD Special",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "The Light Bar",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2500095",
+        "ticketUrl": "https://ra.co/events/2500095",
+        "summary": "Long-running London house crew Faith throw a New Year’s Day special with Terry Farley, Colin Dale, Grace Sands, Red Greg and more across house, disco, funk and soul.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-holly-humberstone-brixton-2027",
+        "title": "Holly Humberstone",
+        "type": "concert",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "importance": 78,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/holly-humberstone-london-tickets-edp1692740",
+        "ticketUrl": "https://www.livenation.co.uk/event/holly-humberstone-london-tickets-edp1692740",
+        "summary": "Holly Humberstone plays O2 Academy Brixton as part of her January 2027 UK dates. Live Nation confirms the London show with doors at 19:00 and Holly Humberstone as the headliner.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-blok3-o2-2027",
+        "title": "BLOK3",
+        "type": "concert",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 78,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/blok3-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/blok3-2027",
+        "summary": "Turkish rap/pop artist BLOK3 headlines The O2 arena. The venue page confirms the Friday 29 January 2027 London date and official AXS ticketing through The O2.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-a-guy-called-gerald-night-tales-2027",
+        "title": "Night Tales: A Guy Called Gerald [All Night Long]",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Night Tales",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2504229",
+        "ticketUrl": "https://ra.co/events/2504229",
+        "summary": "A Guy Called Gerald plays all night at Night Tales, billed as a five-hour session rooted in jungle, breakbeat pressure, soundsystem energy and acid-house lineage.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-beirut-groove-awesome-tapes-2027",
+        "title": "Beirut Groove Collective x Awesome Tapes From Africa",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "The Fox and Firkin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2549668",
+        "ticketUrl": "https://ra.co/events/2549668",
+        "summary": "The long-running SWANA-focused Beirut Groove Collective links with Awesome Tapes From Africa for a soul, funk, African and Middle Eastern crate-digging club night in Lewisham.",
+        "genres": [
+          "hip-hop",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-adela-red-bottoms-2027",
+        "title": "ADÉLA — The Red Bottoms Tour",
+        "type": "concert",
+        "startDate": "2027-01-20",
+        "endDate": "2027-01-20",
+        "importance": 76,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/ad%C3%A9la-london-tickets-edp1693094",
+        "ticketUrl": "https://www.livenation.co.uk/event/ad%C3%A9la-london-tickets-edp1693094",
+        "summary": "ADÉLA brings the UK leg of her Red Bottoms Tour to O2 Academy Brixton. Live Nation confirms the date, venue and that the tour supports her debut album PRIMA.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-trance-sanctuary-euphoria-nyd-2027",
+        "title": "Trance Sanctuary presents Euphoria NYD 2027",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Steel Yard",
+        "venueId": null,
+        "sourceUrl": "https://thesteelyard.london/event/trance-sanctuary-presents-euphoria-nyd-2027/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/The-Steel-Yard/Trance-Sanctuary-presents-Euphoria-NYD-2027/42677239/",
+        "summary": "Trance Sanctuary and Euphoria return for a New Year’s Day rave with two rooms: classic Euphoria nostalgia and upfront trance, including Dave Pearce, Lange, Adam White and more.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-hard-trance-europe-10th-2027",
+        "title": "Sinistry presents Hard Trance Europe – The 10th Anniversary",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "XOYO",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/XOYO/Sinistry-presents-Hard-Trance-Europe---The-10th-Anniversary/42779738/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Sinistry-presents-Hard-Trance-Europe---The-10th-Anniversary/42779738/",
+        "summary": "Hard Trance Europe marks its 10th anniversary with Sinistry at XOYO, billed as its only scheduled London appearance of 2027 and a day-to-night hard trance/hard dance showcase.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-naika-grand-tropical-2027",
+        "title": "Naïka — The Grand Tropical Tour",
+        "type": "concert",
+        "startDate": "2027-01-28",
+        "endDate": "2027-01-28",
+        "importance": 75,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/na%C3%AFka-the-grand-tropical-tour-london-tickets-edp1699835",
+        "ticketUrl": "https://www.livenation.co.uk/event/na%C3%AFka-the-grand-tropical-tour-london-tickets-edp1699835",
+        "summary": "French-Haitian artist Naïka brings The Grand Tropical Tour to O2 Academy Brixton. Live Nation describes her music as blending global influences with western pop, R&B and soul.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-koko-east-end-dubs-2027",
+        "title": "KOKO Electronic: East End Dubs",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 74,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536747",
+        "ticketUrl": "https://ra.co/events/2536747",
+        "summary": "KOKO Electronic opens 2027 with East End Dubs and Ryan Nicholls in Camden. The listing bills the sound as tech house and deep house.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-supa-dupa-fly-rnb-ldn-day-party-2027",
+        "title": "Supa Dupa Fly: R’n’B LDN Day Party",
+        "type": "club-night",
+        "startDate": "2027-01-09",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "The Lower Third",
+        "venueId": null,
+        "sourceUrl": "https://www.supadupaflylove.com/products/supa-dupa-fly-r-n-b-london/2027-02-13",
+        "ticketUrl": "https://www.supadupaflylove.com/products/supa-dupa-fly-r-n-b-london/2027-02-13",
+        "summary": "Supa Dupa Fly’s daytime old-skool R&B and hip-hop party returns with January dates listed for 9, 16 and 30 January; the 9 January edition is the first confirmed January session.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-jersey-electric-brixton-2027",
+        "title": "JERSEY",
+        "type": "concert",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-22",
+        "importance": 72,
+        "venueName": "Electric Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.electricbrixton.uk.com/events/jersey/",
+        "ticketUrl": "https://www.electricbrixton.uk.com/events/jersey/",
+        "summary": "French duo JERSEY headline Electric Brixton with their live electronic show. The venue page notes their debut album NOTHING’S FAKE and references their blend of UK rock, 2010s EDM and French Touch influences.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

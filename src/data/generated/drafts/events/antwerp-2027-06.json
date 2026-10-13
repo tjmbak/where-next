@@ -1,0 +1,118 @@
+{
+  "slug": "antwerp",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:14:56.537Z",
+  "responseId": "resp_08af0d0a24c093f9006acdaf87c82487d0af87d9331d8da30c+resp_08165f8afeb29cc7006acdaff9937c87d087ca89e813d5c547",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "antwerp",
+    "month": 6,
+    "year": 2027,
+    "notes": "As of 2026-10-13, June 2027 Antwerp scene listings are still sparse; only confirmed non-arena scene events with public source pages are included.",
+    "events": [
+      {
+        "id": "antwerp-sunrise-festival-2027",
+        "title": "Sunrise Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-27",
+        "importance": 86,
+        "venueName": "De Lilse Bergen",
+        "venueId": null,
+        "sourceUrl": "https://www.sunrisefestival.be/vragen",
+        "ticketUrl": "https://tickets.sunrisefestival.be/",
+        "summary": "Sunrise Festival returns to De Lilse Bergen in Gierle from 24–27 June 2027. The official site describes a multi-stage summer festival with more than 200 artists across a broad range of genres.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "antwerp-simply-red-2027",
+        "title": "Simply Red: Summer Funk ’27",
+        "type": "concert",
+        "startDate": "2027-06-22",
+        "endDate": "2027-06-22",
+        "importance": 78,
+        "venueName": "AFAS Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.afas-dome.be/en/event/simply-red-2de1dbea",
+        "ticketUrl": "https://www.afas-dome.be/en/event/simply-red-2de1dbea",
+        "summary": "Simply Red bring their Summer Funk ’27 tour to AFAS Dome, with Mick Hucknall and the band billed for a soul-and-pop arena show on Tuesday 22 June 2027.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "antwerp-bazart-de-roma-2027",
+        "title": "10 jaar Bazart",
+        "type": "concert",
+        "startDate": "2027-06-20",
+        "endDate": "2027-06-20",
+        "importance": 76,
+        "venueName": "De Roma",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.be/event/10-jaar-bazart-antwerpen-tickets-edp1691384",
+        "ticketUrl": null,
+        "summary": "Belgian pop band Bazart celebrate their 10th anniversary with a De Roma concert-series stop on Sunday 20 June 2027; Live Nation lists Bazart as the main act.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "antwerp-unicorn-festival-2027",
+        "title": "Unicorn Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-18",
+        "endDate": "2027-06-20",
+        "importance": 75,
+        "venueName": "Zeescouts aan de stroom",
+        "venueId": null,
+        "sourceUrl": "https://www.djguide.nl/party.p/569670/unicorn-festival-2027",
+        "ticketUrl": "https://www.unicornfestival.be/tickets",
+        "summary": "A three-day open-minded dance festival by the river with confirmed 2027 dates, multi-day timings, tickets on sale, and a TBA lineup.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "antwerp-lambrini-girls-2027",
+        "title": "Lambrini Girls",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-01",
+        "importance": 72,
+        "venueName": "De Roma",
+        "venueId": null,
+        "sourceUrl": "https://www.deroma.be/nl/event/lambrini-girls",
+        "ticketUrl": "https://www.deroma.be/nl/event/lambrini-girls",
+        "summary": "Brighton punk duo Lambrini Girls play De Roma on their 2027 Belgian run, with the venue listing the show for Tuesday 1 June at 20:00.",
+        "genres": []
+      },
+      {
+        "id": "antwerp-oh-honey-2027",
+        "title": "OH HONEY",
+        "type": "club-night",
+        "startDate": "2027-06-26",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Club Traum Antwerp",
+        "venueId": null,
+        "sourceUrl": "https://www.spillthetea.be/ohhoney",
+        "ticketUrl": null,
+        "summary": "Recurring queer underground house night at Club Traum, with the June 2027 edition confirmed and lineup/tickets still TBA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

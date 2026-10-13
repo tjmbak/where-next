@@ -2,47 +2,340 @@
   "slug": "bangkok",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:44:00.750Z",
-  "responseId": "resp_024071b7fc4be7ae006a00994959d88193a545571816821839",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:48:28.069Z",
+  "responseId": "resp_0cd4288e90e66e5f006acd9b1a36a887d0a1ed63fef0203bb1+resp_0df7fae4df14ffa4006acd9b98c06087d0929b8dc80d27e99f",
+  "searchCalls": 34,
   "citations": [],
   "data": {
     "destinationSlug": "bangkok",
     "month": 11,
     "year": 2026,
-    "notes": "November 2026 is already anchored by several confirmed arena-scale touring shows plus Eurovision Song Contest Asia, while club calendars are still mostly unannounced this far out.",
+    "notes": "November 2026 is stacked across Bangkok: large electronic festivals, Thai indie/pop festivals, underground club programming, and major international arena/livehouse tours overlap in the same two-week window.",
     "events": [
       {
-        "id": "bangkok-afrokiz-edition-4-2026",
-        "title": "AfroKiz Bangkok Edition 4",
+        "id": "bangkok-together-festival-2026",
+        "title": "Together Festival 2026",
         "type": "festival",
-        "startDate": "2026-10-30",
-        "endDate": "2026-11-02",
-        "importance": 65,
-        "venueName": "Shanghai Mansion Hotel Bangkok",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-28",
+        "importance": 92,
+        "venueName": "BITEC Bang Na",
         "venueId": null,
-        "sourceUrl": "https://www.eventpop.me/e/131424/https-www",
-        "ticketUrl": "https://www.eventpop.me/e/131424/https-www",
-        "summary": "Eventpop lists AfroKiz Bangkok Edition 4 from 30 Oct 2026 09:00 to 2 Nov 2026 05:00, with the event description naming Shanghai Mansion Hotel Bangkok in Chinatown. The programme bills international artists and DJs, all-day music and dance, two dance rooms, and a cruise party.",
+        "sourceUrl": "https://www.ticketmelon.com/togetherfestival/togetherfestival2026-vviptable",
+        "ticketUrl": "https://www.ticketmelon.com/togetherfestival/togetherfestival2026-vviptable",
+        "summary": "Together Festival returns to BITEC Bang Na for two days of mainstage electronic music. The Phase 1 lineup includes Boys Noize, Holy Priest, ISOxo, Knock2 and Timmy Trumpet.",
         "genres": [
-          "latin",
+          "electronic",
+          "techno",
           "festival"
         ]
       },
       {
-        "id": "bangkok-latin-fiesta-2026",
-        "title": "Latin Bangkok Fiesta 2026",
+        "id": "bangkok-cat-expo-bangkok-2026",
+        "title": "CAT EXPO BANGKOK 2026",
         "type": "festival",
-        "startDate": "2026-11-06",
-        "endDate": "2026-11-09",
-        "importance": 70,
-        "venueName": null,
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 88,
+        "venueName": "Siam Amazing Park",
         "venueId": null,
-        "sourceUrl": "https://www.attndnce.com/",
-        "ticketUrl": "https://www.attndnce.com/",
-        "summary": "The official Latin Bangkok Fiesta page confirms the 20th edition for 6–9 Nov 2026 in Bangkok. It is billed around salsa, bachata, kizomba, zouk and lambada, with live band nights and top DJs.",
+        "sourceUrl": "https://www.musicfestival.in.th/en/festivals/cat-expo-bangkok-2026",
+        "ticketUrl": "https://www.musicfestival.in.th/en/festivals/cat-expo-bangkok-2026",
+        "summary": "Cat Radio's flagship Bangkok music festival runs two days at Siam Amazing Park with 45 listed artists. The lineup includes 4EVE, Nont Tanont, Polycat, Slot Machine, Scrubb, Moderndog, Safeplanet, Violette Wautier, Phum Viphurit and H3F.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-kolour-15-years-2026",
+        "title": "Kolour 15 Years at Cloud 11 Bangkok",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 86,
+        "venueName": "Cloud 11 Park",
+        "venueId": null,
+        "sourceUrl": "https://wearekolour.com/bangkok",
+        "ticketUrl": "https://wearekolour.com/bangkok",
+        "summary": "Kolour celebrates 15 years with a two-part Cloud 11 event: an open-air Park Rave from 2 PM to 10 PM and an afterparty from 9 PM onward. The announced bill includes Richie Hawtin, Nora En Pure, Caleb Jackson and Wildealer.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-diage-festival-2026",
+        "title": "DIAGE Festival 2026 — Bangkok Calling",
+        "type": "festival",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 85,
+        "venueName": "Cloud 11",
+        "venueId": null,
+        "sourceUrl": "https://www.diagefestival.com/",
+        "ticketUrl": "https://www.eventpop.me/e/166875/diage2026",
+        "summary": "DIAGE returns to Cloud 11 for a two-day digital-arts and electronic-music festival. The announced lineup includes NONOTAK, Evian Christ, TZUSING × Kim Laughton, Slikback and other live/DJ/AV acts.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-my-chemical-romance-sea-tour-2026",
+        "title": "My Chemical Romance — South East Asia Tour",
+        "type": "concert",
+        "startDate": "2026-11-17",
+        "endDate": "2026-11-17",
+        "importance": 84,
+        "venueName": "IMPACT Challenger Hall",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/my-chemical-romance",
+        "ticketUrl": "https://megatix.in.th/events/my-chemical-romance",
+        "summary": "My Chemical Romance play Bangkok on the rescheduled South East Asia Tour at IMPACT Challenger Hall. Megatix bills it as the band's first full live show in Thailand.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-joji-solaris-2026",
+        "title": "JOJI : SOLARIS",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-24",
+        "importance": 82,
+        "venueName": "IMPACT Exhibition Hall 5",
+        "venueId": null,
+        "sourceUrl": "https://www.thaiticketmajor.com/concert/joji-solaris-tour-2026.html",
+        "ticketUrl": "https://www.thaiticketmajor.com/concert/joji-solaris-tour-2026.html",
+        "summary": "Joji brings the SOLARIS tour to IMPACT Exhibition Hall 5 on 24 November 2026. ThaiTicketMajor lists an 8:00 PM show time and 5:00 PM doors.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-khalid-always-summer-2026",
+        "title": "Khalid — It's Always Summer Somewhere Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 82,
+        "venueName": "UOB LIVE, Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_khalid",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_khalid",
+        "summary": "Khalid brings the It's Always Summer Somewhere Tour to UOB LIVE, Emsphere on 29 November 2026. Ticketmaster lists an 8:00 PM show time and 6:00 PM doors.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-transport-rdc-2026",
+        "title": "10 Years of Transport with Rainbow Disco Club",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Chang Chui Creative Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2504154",
+        "ticketUrl": "https://ra.co/events/2504154",
+        "summary": "Bangkok party collective Transport celebrates 10 years with Japan’s Rainbow Disco Club across a 12-hour house/disco dance at Chang Chui, featuring Kikiorix, DITA, OMOLOKO, Pam Anantr and Transport residents.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-melt-festival-2026",
+        "title": "MELT FESTIVAL",
+        "type": "festival",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 80,
+        "venueName": "Cloud 11",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmelon.com/meltlivehouse/meltfestival",
+        "ticketUrl": "https://www.ticketmelon.com/meltlivehouse/meltfestival",
+        "summary": "MELT FESTIVAL lands at Cloud 11 with a Thai hip-hop, indie and pop bill. Listed artists include YOUNGOHM, Phum Viphurit, YELLOW FANG, Safeplanet, YEW, Solitude Is Bliss, Whal & Dolph and Srirajah Rockers.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-caribou-maho-rasop-series-2026",
+        "title": "Maho Rasop Series: Caribou (Live) by HAVE YOU HEARD?",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 80,
+        "venueName": "ambience space",
+        "venueId": null,
+        "sourceUrl": "https://livein.city/bkk/concerts/maho-rasop-series-caribou-live-by-have-you-heard-ambience-space-2026-11-27",
+        "ticketUrl": "https://www.ticketmelon.com/",
+        "summary": "Caribou performs live in Bangkok as part of the Maho Rasop Series by HAVE YOU HEARD?. The listing notes a five-piece live setup combining acoustic instrumentation with electronic elements.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-remedy-horn-2026",
+        "title": "REMEDY at Horn",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Horn",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2550895",
+        "ticketUrl": "https://ra.co/events/2550895",
+        "summary": "Queer-centric underground party REMEDY launches in Bangkok with CEM and MCMLXXXV of Herrensauna alongside Ciriya, Club Mascot, Mae Happyair, MJMA and Ouissam, using Horn’s two floors for techno, house and electro.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bangkok-fkj-tyber-tour-2026",
+        "title": "FKJ — Tyber Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 79,
+        "venueName": "UOB LIVE, Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_fkj",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_fkj",
+        "summary": "FKJ kicks off the Asia leg of his Tyber Tour at UOB LIVE, Emsphere. Ticketmaster lists the Bangkok show for 27 November 2026 with an 8:00 PM start.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-zara-larsson-midnight-sun-2026",
+        "title": "Zara Larsson — Midnight Sun Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 78,
+        "venueName": "UOB LIVE, Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_zaralarsson",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_zaralarsson",
+        "summary": "Zara Larsson brings her Midnight Sun Tour to UOB LIVE, Emsphere on 1 November 2026. The Ticketmaster event lists an 8:00 PM show time and 6:30 PM doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-pangaea-aether-2026",
+        "title": "Pangaea at Aether",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Aether Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://bangkok-rooftops.com/events/pangaea-aether-20-november-2026/",
+        "ticketUrl": "https://bangkok-rooftops.com/events/pangaea-aether-20-november-2026/",
+        "summary": "Hessle Audio co-founder Pangaea makes his Bangkok debut at Aether with genre-fluid UK club music spanning bass, garage and techno in a 44th-floor rooftop setting.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-fantasm-together-preparty-2026",
+        "title": "FANTASM Thailand Debut — Together Festival Pre-Party",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 75,
+        "venueName": "Sphere Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmelon.com/togetherfestival/fantasm",
+        "ticketUrl": "https://www.ticketmelon.com/togetherfestival/fantasm",
+        "summary": "FANTASM makes his Thailand debut at Sphere Hall as the official Together Festival pre-party. The night is positioned as a hard-techno warm-up before Together Festival's main weekend.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-slowdive-live-2026",
+        "title": "Slowdive Live in Bangkok 2026",
+        "type": "concert",
+        "startDate": "2026-11-30",
+        "endDate": "2026-11-30",
+        "importance": 75,
+        "venueName": "Moonstar Studio",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmelon.com/slammanbookingasia/slowdivebkk26",
+        "ticketUrl": "https://www.ticketmelon.com/slammanbookingasia/slowdivebkk26",
+        "summary": "Slowdive return to Bangkok for a headline show at Moonstar Studio, with Death of Heather listed as special guest. The event is promoted by Slamman Booking Asia via Ticketmelon.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-afro-island-2026",
+        "title": "Afro Island Bangkok 2026",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Cloud 11",
+        "venueId": null,
+        "sourceUrl": "https://megatix.in.th/events/afro-island-bkk2026?source=home",
+        "ticketUrl": "https://megatix.in.th/events/afro-island-bkk2026?source=home",
+        "summary": "Afro Island brings an Afro-culture dancefloor concept to Cloud 11 with a 3 PM start, positioning itself around rhythm, movement, colour and community rather than a standard club booking.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-nicola-cruz-elsewhere-2026",
+        "title": "Nicola Cruz at Elsewhere Bangkok",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 73,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2026-11-28/",
+        "ticketUrl": null,
+        "summary": "Elsewhere Bangkok lists Nicola Cruz with Mo on 28 November 2026. The official event page gives an 11:30 PM start at Elsewhere's Silom 5 venue.",
         "genres": [
           "latin",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bangkok-eurovision-asia-2026",
+        "title": "Eurovision Song Contest Asia 2026 Grand Final",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 96,
+        "venueName": "Bangkok, Thailand",
+        "venueId": null,
+        "sourceUrl": "https://www.eurovision.com/asia/",
+        "ticketUrl": null,
+        "summary": "Eurovision’s official Asia page confirms Bangkok, Thailand for Saturday 14 Nov 2026. The inaugural contest is announced as a live Grand Final bringing together broadcasters and artists from 10 confirmed Asian countries, with more expected.",
+        "genres": [
+          "pop",
           "festival"
         ]
       },
@@ -79,54 +372,37 @@
         ]
       },
       {
-        "id": "bangkok-eurovision-asia-2026",
-        "title": "Eurovision Song Contest Asia 2026 Grand Final",
-        "type": "concert",
-        "startDate": "2026-11-14",
-        "endDate": "2026-11-14",
-        "importance": 96,
-        "venueName": "Bangkok, Thailand",
+        "id": "bangkok-latin-fiesta-2026",
+        "title": "Latin Bangkok Fiesta 2026",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-09",
+        "importance": 70,
+        "venueName": null,
         "venueId": null,
-        "sourceUrl": "https://www.eurovision.com/asia/",
-        "ticketUrl": null,
-        "summary": "Eurovision’s official Asia page confirms Bangkok, Thailand for Saturday 14 Nov 2026. The inaugural contest is announced as a live Grand Final bringing together broadcasters and artists from 10 confirmed Asian countries, with more expected.",
+        "sourceUrl": "https://www.attndnce.com/",
+        "ticketUrl": "https://www.attndnce.com/",
+        "summary": "The official Latin Bangkok Fiesta page confirms the 20th edition for 6–9 Nov 2026 in Bangkok. It is billed around salsa, bachata, kizomba, zouk and lambada, with live band nights and top DJs.",
         "genres": [
-          "pop",
+          "latin",
           "festival"
         ]
       },
       {
-        "id": "bangkok-my-chemical-romance-2026",
-        "title": "My Chemical Romance",
-        "type": "concert",
-        "startDate": "2026-11-17",
-        "endDate": "2026-11-17",
-        "importance": 85,
-        "venueName": "Impact Challenger Hall 1",
+        "id": "bangkok-afrokiz-edition-4-2026",
+        "title": "AfroKiz Bangkok Edition 4",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-02",
+        "importance": 65,
+        "venueName": "Shanghai Mansion Hotel Bangkok",
         "venueId": null,
-        "sourceUrl": "https://www.songkick.com/concerts/42684982-my-chemical-romance-at-impact-challenger-hall-1",
-        "ticketUrl": "https://megatix.in.th/events/my-chemical-romance",
-        "summary": "Songkick lists My Chemical Romance at Impact Challenger Hall 1 in Bangkok on Tuesday 17 Nov 2026, with doors at 19:00. The show is billed as the band’s Bangkok concert and a major stop for fans of alternative rock and pop-punk.",
+        "sourceUrl": "https://www.eventpop.me/e/131424/https-www",
+        "ticketUrl": "https://www.eventpop.me/e/131424/https-www",
+        "summary": "Eventpop lists AfroKiz Bangkok Edition 4 from 30 Oct 2026 09:00 to 2 Nov 2026 05:00, with the event description naming Shanghai Mansion Hotel Bangkok in Chinatown. The programme bills international artists and DJs, all-day music and dance, two dance rooms, and a cruise party.",
         "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "bangkok-joji-solaris-2026",
-        "title": "JOJI: SOLARIS",
-        "type": "concert",
-        "startDate": "2026-11-24",
-        "endDate": "2026-11-24",
-        "importance": 83,
-        "venueName": "Impact Exhibition Hall 5",
-        "venueId": null,
-        "sourceUrl": "https://www.livenationtero.co.th/en/event/joji-solaris-bangkok-tickets-edp1668830",
-        "ticketUrl": "https://www.thaiticketmajor.com/",
-        "summary": "Live Nation Tero confirms Joji’s Solaris Tour at Impact Exhibition Hall 5 on Tuesday 24 Nov 2026. The official event page lists Joji as the headliner and states that he is bringing the Solaris Tour to Bangkok.",
-        "genres": [
-          "r-and-b",
-          "hip-hop",
-          "pop"
+          "latin",
+          "festival"
         ]
       }
     ]

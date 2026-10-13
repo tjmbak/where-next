@@ -2,31 +2,327 @@
   "slug": "cape-town",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:14:42.936Z",
-  "responseId": "resp_09350ce102d6c3bb0069ff5d1dda8c819782e745fb3077c0c8",
-  "searchCalls": 13,
+  "generatedAt": "2026-10-13T02:40:00.157Z",
+  "responseId": "resp_094ec72deeeb3cfe006acd99325e4487d08ec7d0aee1ca7e2d+resp_0b49c66a102a35e8006acd99aa2f5c87d09fd1aa4ea6e98b4f",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "cape-town",
     "month": 11,
     "year": 2026,
-    "notes": "Confirmed November 2026 listings for Cape Town are still limited this far out, with one major arena concert and one Western Cape electronic camping festival currently solidly verified.",
+    "notes": "Cape Town’s November calendar leans into summer rooftop and beach parties, Afro-house/Amapiano club culture, contemporary jazz, and major international soul/R&B concerts.",
     "events": [
       {
-        "id": "cape-town-jill-scott-nov-2026",
-        "title": "Jill Scott - To Whom This May Concern 2026 Tour",
+        "id": "cape-town-leon-bridges-kirstenbosch-2026",
+        "title": "Leon Bridges Presents: The Happiness Anytime Tour – Cape Town",
+        "type": "concert",
+        "startDate": "2026-11-30",
+        "endDate": "2026-11-30",
+        "importance": 86,
+        "venueName": "Kirstenbosch National Botanical Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.sanbi.org/event_cat/kirstenbosch/",
+        "ticketUrl": "https://www.webtickets.co.za",
+        "summary": "Leon Bridges brings The Happiness Anytime Tour to Kirstenbosch Concert Area for an outdoor Cape Town date. SANBI bills the show as a contemporary R&B performance at Kirstenbosch, with the concert running from 18:00 to 22:00.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-jill-scott-2026",
+        "title": "Jill Scott – To Whom This May Concern World Tour",
         "type": "concert",
         "startDate": "2026-11-11",
         "endDate": "2026-11-11",
-        "importance": 82,
+        "importance": 84,
         "venueName": "Grand Arena at GrandWest",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.za/event/jill-scott-to-whom-this-may-concern-2026-tour-tickets/537524021",
-        "ticketUrl": "https://www.ticketmaster.co.za/event/jill-scott-to-whom-this-may-concern-2026-tour-tickets/537524021",
-        "summary": "Jill Scott brings her To Whom This May Concern 2026 Tour to Cape Town for a confirmed 20:00 show at Grand Arena at GrandWest. The listing names Jill Scott as the performer for the Cape Town date.",
+        "sourceUrl": "https://www.suninternational.com/grandwest/events/jill-scott",
+        "ticketUrl": "https://www.ticketmaster.co.za/artist/jill-scott-tickets/9782",
+        "summary": "GRAMMY-winning R&B and neo-soul artist Jill Scott brings her To Whom This May Concern World Tour to Grand Arena. The venue page bills the Cape Town show as the grand finale of the South Africa run.",
         "genres": [
           "r-and-b",
           "jazz"
+        ]
+      },
+      {
+        "id": "cape-town-descendants-2026",
+        "title": "DESCENDANTS: CAPE TOWN",
+        "type": "festival",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 84,
+        "venueName": "Castle of Good Hope",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/394162-descendants-cape-town",
+        "ticketUrl": "https://www.quicket.co.za/events/394162-descendants-cape-town",
+        "summary": "New York-born international event and label DESCENDANTS makes its Cape Town debut with a two-stage Castle of Good Hope takeover spanning Afro Tech, 3-Step, Deep House, Gqom and Amapiano, with Culoe De Song, Funky QLA, Soa Mattrix, Dwson and Thandi Draai among the lineup.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-love-friends-beach-edition-2026",
+        "title": "Love + Friends | Beach Edition",
+        "type": "beach-club",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 80,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.howler.co.za/events/love-friends-beach-edition-3513",
+        "ticketUrl": "https://www.howler.co.za/events/love-friends-beach-edition-3513",
+        "summary": "Love+Friends returns to Cabo Beach Club for a beach-side summer opener. The confirmed lineup includes Vanco, Enoo Napa and Phee, with additional acts listed by the promoter.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-dance-dance-2026",
+        "title": "Dance Dance",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Biblio",
+        "venueId": null,
+        "sourceUrl": "https://www.soundguide.co/events/dance-dance-2026-11-13",
+        "ticketUrl": null,
+        "summary": "Afro house and Afro tech night at Biblio featuring Mobi Dixon, Ziddo, 2Burna and a broader local lineup for a strong club-focused genre bill.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-born2house-playhouse-beyond-audio-2026",
+        "title": "Born2HouseMusic - Playhouse x Beyond Audio Album Tour",
+        "type": "club-night",
+        "startDate": "2026-11-08",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Rooftop on Bree",
+        "venueId": null,
+        "sourceUrl": "https://fixr.co/event/born2housemusic-playhouse-x-beyond-audio-album-tou-tickets-479058593?lang=en-US",
+        "ticketUrl": "https://fixr.co/event/born2housemusic-playhouse-x-beyond-audio-album-tou-tickets-479058593?lang=en-US",
+        "summary": "Born2House Music links with Sculptured Sundays for a deep and soulful house album-tour day party celebrating Sculptured Music’s Playhouse and DJ Nana’s Beyond Audio.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-chasing-sunsets-2026",
+        "title": "Chasing Sunsets",
+        "type": "club-night",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-01",
+        "importance": 70,
+        "venueName": "Paradise Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/393755-chasing-sunsets/",
+        "ticketUrl": "https://www.quicket.co.za/events/393755-chasing-sunsets/",
+        "summary": "A rooftop house-music session at Paradise Rooftop in District Six, billed around Afro House, deep house, private-school Amapiano and hip-hop/R&B singalongs. The page lists the headliner and support lineup as still TBA.",
+        "genres": [
+          "afro-house",
+          "house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "cape-town-kwaafro-2026",
+        "title": "Kwaafro",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 70,
+        "venueName": "The Old Biscuit Mill",
+        "venueId": null,
+        "sourceUrl": "https://www.soundguide.co/events/kwaafro-2026-11-07",
+        "ticketUrl": null,
+        "summary": "Afro-house and Afro-tech party at The Old Biscuit Mill in Woodstock. The listed lineup includes Digital Sangoma, Rudy Julius, 2Burna, Keegs, Vee SoDeep, Mafaku, Luu DJ, Gnice and Kayg.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-for-the-culture-2026",
+        "title": "For The Culture",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 69,
+        "venueName": "Colorbox Studios",
+        "venueId": null,
+        "sourceUrl": "https://www.soundguide.co/events/for-the-culture-2026-11-07",
+        "ticketUrl": null,
+        "summary": "Deep house and amapiano night at Colorbox Studios with SGVO, Chronical Deep, Siwa, Luu Deep and other selectors on the bill.",
+        "genres": [
+          "house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "cape-town-the-loft-2026",
+        "title": "THE LOFT",
+        "type": "residency",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Hearty Collective",
+        "venueId": null,
+        "sourceUrl": "https://fixr.co/event/the-loft-tickets-364187849?lang=en-US",
+        "ticketUrl": "https://fixr.co/event/the-loft-tickets-364187849?lang=en-US",
+        "summary": "Recurring deep-house community night at Hearty Collective, billed as an underground celebration of deep house with immersive lighting, decor and a limited-capacity dancefloor.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-the-gateway-2026",
+        "title": "The Gateway",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 68,
+        "venueName": "Biblio",
+        "venueId": null,
+        "sourceUrl": "https://happeningnext.com/event/the-gateway-eid3a0e5flagd",
+        "ticketUrl": null,
+        "summary": "State Alchemy takes over all of Biblio for a 12-hour, three-floor underground electronic event covering psytrance, tech and drum & bass, with 18 acts and Johannesburg guests.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-thats-what-she-said-2026",
+        "title": "That's What She Said ft. Tune Raider, Ethereal & Friends",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 66,
+        "venueName": "Botanik Social House",
+        "venueId": null,
+        "sourceUrl": "https://happeningnext.com/event/thats-what-she-said-ft-tune-raider-ethereal-andamp-friends-eid3a0dugjfpf",
+        "ticketUrl": "https://ftponline.co.za/shop",
+        "summary": "All-female underground DJ night at Botanik Social House, promoted with Psy Sisters support and a two-dancefloor lineup led by Tune Raider and Ethereal.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-dimension-x-2026",
+        "title": "Dimension X",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 65,
+        "venueName": "Alley",
+        "venueId": null,
+        "sourceUrl": "https://www.soundguide.co/events/dimension-x-2026-11-28",
+        "ticketUrl": null,
+        "summary": "A psytrance and progressive-trance night at Alley in Paarden Eiland. The confirmed lineup includes Symo, Tall Tales, Deadlock, Rubix Qube and Dranged.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-mystika-2026",
+        "title": "Mystika",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Club Paradise",
+        "venueId": null,
+        "sourceUrl": "https://technobeatscloud.com/en/events/event/mystika-club-paradise-2026-11-07",
+        "ticketUrl": null,
+        "summary": "Club Paradise night listed for house, Afro house, Afro tech and 3-Step, placing it in the city’s Afro-electronic weekend circuit.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-ses-fikile-2026",
+        "title": "Ses'Fikile",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 64,
+        "venueName": "Texas",
+        "venueId": null,
+        "sourceUrl": "https://www.soundguide.co/events/ses-fikile-2026-11-27",
+        "ticketUrl": null,
+        "summary": "Ses'Fikile takes over Texas in District Six with a sound listed across house, deep house, Afro-house, Afro-tech, gqom and Amapiano. The event is part of the city’s late-month club calendar.",
+        "genres": [
+          "house",
+          "afro-house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "cape-town-miriam-altman-butterfly-project-2026",
+        "title": "Miriam Altman – The Butterfly Project Live in Cape Town",
+        "type": "concert",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-05",
+        "importance": 62,
+        "venueName": "The Star Theatre, Homecoming Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/395954-miriam-altman-the-butterfly-project-live-in-cape-town/",
+        "ticketUrl": "https://www.quicket.co.za/events/395954-miriam-altman-the-butterfly-project-live-in-cape-town/",
+        "summary": "Jazz vocalist, songwriter and producer Miriam Altman presents The Butterfly Project with an ensemble of South African jazz musicians. The concert is billed as contemporary vocal jazz with soul, poetry and African rhythmic influences.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "cape-town-summer-sundowner-aden-thomas-2026",
+        "title": "Summer Sundowner hosted by Aden Thomas",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 61,
+        "venueName": "Protea Hotel Cape Town Mowbray",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/394741-summer-sundowner-hosted-by-aden-thomas/",
+        "ticketUrl": "https://www.quicket.co.za/events/394741-summer-sundowner-hosted-by-aden-thomas/",
+        "summary": "Aden Thomas hosts an afternoon DJ-led summer sundowner on the lawns of Protea Hotel Mowbray. The listed DJs are Kevin Petersen, Theo on the Throne, Che, Denver A, Jade Scholtz and Jay.L.A.",
+        "genres": [
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-nayma-rias-red-reloaded-2026",
+        "title": "Nayma Rias Presents: Red Reloaded – The Live Experience",
+        "type": "concert",
+        "startDate": "2026-11-12",
+        "endDate": "2026-11-12",
+        "importance": 60,
+        "venueName": "Mamakashaka & Friends",
+        "venueId": null,
+        "sourceUrl": "https://new-ux.howler.co.za/events/nayma-rias-presents-red-reloaded-the-live-experience-09ca",
+        "ticketUrl": "https://new-ux.howler.co.za/events/nayma-rias-presents-red-reloaded-the-live-experience-09ca",
+        "summary": "Nayma Rias presents an intimate live version of Red Reloaded with music, conversation and visual art at Mamakashaka & Friends. The event page lists Nayma Rias as the performer and marks the show sold out.",
+        "genres": [
+          "r-and-b",
+          "pop"
         ]
       },
       {

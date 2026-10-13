@@ -5,43 +5,74 @@ import type { Itinerary } from "@/lib/itineraries/generate";
 
 type StatsPanelProps = {
   itinerary: Itinerary;
+  /** Paired with BoardingPassHeader, which already shows days, cities, budget, and dates. */
+  anchorMixOnly?: boolean;
 };
 
-export function StatsPanel({ itinerary }: StatsPanelProps) {
-  const totalLow = itinerary.days.reduce((sum, d) => sum + d.costBandUsd.low, 0);
-  const totalHigh = itinerary.days.reduce((sum, d) => sum + d.costBandUsd.high, 0);
+export function StatsPanel({
+  itinerary,
+  anchorMixOnly = false,
+}: StatsPanelProps) {
+  const totalLow = itinerary.days.reduce(
+    (sum, d) => sum + d.costBandUsd.low,
+    0,
+  );
+  const totalHigh = itinerary.days.reduce(
+    (sum, d) => sum + d.costBandUsd.high,
+    0,
+  );
 
-  const eventDays = itinerary.days.filter((d) => d.anchorKind === "event").length;
-  const venueDays = itinerary.days.filter((d) => d.anchorKind === "venue").length;
+  const eventDays = itinerary.days.filter(
+    (d) => d.anchorKind === "event",
+  ).length;
+  const venueDays = itinerary.days.filter(
+    (d) => d.anchorKind === "venue",
+  ).length;
   const freeDays = itinerary.days.filter((d) => d.anchorKind === "free").length;
   const total = Math.max(1, itinerary.days.length);
 
-  const cities = new Set(itinerary.days.map((d) => d.legSlug ?? itinerary.destinationSlug)).size;
+  const cities = new Set(
+    itinerary.days.map((d) => d.legSlug ?? itinerary.destinationSlug),
+  ).size;
 
   return (
     <section className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-5">
-      <div className="grid grid-cols-3 gap-4">
-        <Stat label="days" value={String(itinerary.days.length)} />
-        <Stat label="cities" value={String(cities)} />
-        <Stat
-          label="vibes"
-          value={itinerary.vibeTags.length ? itinerary.vibeTags.length.toString().padStart(2, "0") : "—"}
-        />
-      </div>
+      {anchorMixOnly ? null : (
+        <>
+          <div className="grid grid-cols-3 gap-4">
+            <Stat label="days" value={String(itinerary.days.length)} />
+            <Stat label="cities" value={String(cities)} />
+            <Stat
+              label="vibes"
+              value={
+                itinerary.vibeTags.length
+                  ? itinerary.vibeTags.length.toString().padStart(2, "0")
+                  : "—"
+              }
+            />
+          </div>
 
-      <div className="mt-5 border-t border-[var(--border)] pt-4">
+          <div className="mt-5 border-t border-[var(--border)] pt-4">
+            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+              all-in · per person
+            </p>
+            <p className="mt-2 font-mono text-2xl font-medium tracking-tight text-[var(--foreground)]">
+              $<CountUp value={totalLow} />
+              <span className="px-1 text-[var(--muted-2)]">–</span>
+              $<CountUp value={totalHigh} />
+            </p>
+          </div>
+        </>
+      )}
+
+      <div
+        className={
+          anchorMixOnly ? "" : "mt-5 border-t border-[var(--border)] pt-4"
+        }
+      >
         <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          all-in · per person
+          anchor mix
         </p>
-        <p className="mt-2 font-mono text-2xl font-medium tracking-tight text-[var(--foreground)]">
-          $<CountUp value={totalLow} />
-          <span className="px-1 text-[var(--muted-2)]">–</span>
-          $<CountUp value={totalHigh} />
-        </p>
-      </div>
-
-      <div className="mt-5 border-t border-[var(--border)] pt-4">
-        <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">anchor mix</p>
         <div className="mt-3 flex h-2 overflow-hidden rounded-full bg-[var(--border-strong)]">
           {eventDays > 0 ? (
             <div
@@ -78,7 +109,7 @@ export function StatsPanel({ itinerary }: StatsPanelProps) {
         </ul>
       </div>
 
-      {itinerary.startDate ? (
+      {itinerary.startDate && !anchorMixOnly ? (
         <p className="mt-5 border-t border-[var(--border)] pt-4 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
           {itinerary.startDate} → {itinerary.endDate}
         </p>
@@ -90,8 +121,12 @@ export function StatsPanel({ itinerary }: StatsPanelProps) {
 function Stat({ label, value }: { label: string; value: string }) {
   return (
     <div>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{label}</p>
-      <p className="mt-1 font-mono text-xl font-medium tracking-tight text-[var(--foreground)]">{value}</p>
+      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+        {label}
+      </p>
+      <p className="mt-1 font-mono text-xl font-medium tracking-tight text-[var(--foreground)]">
+        {value}
+      </p>
     </div>
   );
 }

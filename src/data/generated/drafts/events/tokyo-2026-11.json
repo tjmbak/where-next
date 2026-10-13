@@ -2,28 +2,367 @@
   "slug": "tokyo",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:44:56.806Z",
-  "responseId": "resp_0ccbf2cd983b26aa0069ff640fd5ec81a39cf5b71f110773b9",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:42:58.632Z",
+  "responseId": "resp_0bb0318e4e933017006acd9a00529087d09cd98d232295b4f9+resp_0a75ff0907be9f46006acd9a6089c887d0b1e6b45515614db2",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "tokyo",
     "month": 11,
     "year": 2026,
-    "notes": "Tokyo’s confirmed November 2026 calendar is already anchored by arena and Budokan-scale concerts, while club and festival programs are mostly not yet announced.",
+    "notes": "November’s confirmed calendar is led by MUTEK.JP and a dense run of bass, techno, house, pop, R&B and jazz-adjacent live dates across Shibuya, Roppongi, Ariake and wider Tokyo.",
     "events": [
       {
-        "id": "tokyo-aikawa-nanase-budokan-2026",
-        "title": "Nanase Aikawa 30th Anniversary ROCK KINGDOM TOUR 2026 -FINAL 日本武道館-",
+        "id": "tokyo-mutek-jp-2026",
+        "title": "MUTEK.JP 2026 Edition 11",
+        "type": "festival",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-23",
+        "importance": 94,
+        "venueName": "MoN Takanawa: The Museum of Narratives",
+        "venueId": null,
+        "sourceUrl": "https://tokyo.mutek.org/en/news/mutek-jp-2026-edition-11",
+        "ticketUrl": "https://mutekjp.zaiko.io/en/e/mutekjp2026",
+        "summary": "The 11th Tokyo edition of the international electronic music and digital creativity festival runs four days at MoN Takanawa. Confirmed artists include Max Cooper, Hania Rani, mouse on the keys, Daito Manabe × ELEVENPLAY, Grand River, Ryoichi Kurokawa and Plastikman/Richie Hawtin with Ali Demirel.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-grow-culture-open-air-2026",
+        "title": "GROW THE CULTURE OPEN AIR 2026",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 86,
+        "venueName": "Oba Camp Village",
+        "venueId": null,
+        "sourceUrl": "https://it.ra.co/events/2376846",
+        "ticketUrl": "https://growtheculture.jp",
+        "summary": "Japan-focused bass-music open-air festival at Oba Camp Village, with akii, Big Animal Theory, Dayzero, Fracture, Karnage, Neffa-T, okadada, Stones Taro, Submerse, Velocity and more on the confirmed lineup.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-womb-06s-anniversary-2026",
+        "title": "06S 25TH ANNIVERSARY (DRUM&BASS)",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 84,
+        "venueName": "WOMB",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ja.ra.co/events/2530055",
+        "ticketUrl": "https://ja.ra.co/events/2530055",
+        "summary": "WOMB’s long-running drum & bass resident party 06S marks its 25th anniversary with Friction of Shogun Audio / Elevate Records.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-5sos-ariake-2026",
+        "title": "5 Seconds of Summer Tokyo 2026",
         "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 83,
+        "venueName": "SGC HALL ARIAKE",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/artist/2026/5sos/index.html",
+        "ticketUrl": "https://www.creativeman.co.jp/artist/2026/5sos/index.html",
+        "summary": "5 Seconds of Summer play two Tokyo dates at SGC HALL ARIAKE on November 21 and 22 as part of their 2026 Japan visit behind Everyone’s A Star!.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-picnic-people-panic-2026",
+        "title": "PICNIC PEOPLE PANIC (TECHNO/HOUSE)",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 82,
+        "venueName": "WOMB",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ra.co/events/2525848",
+        "ticketUrl": "https://ra.co/events/2525848",
+        "summary": "WOMB’s PICNIC PEOPLE PANIC returns with Roman Flügel and KABUTO in the main room, plus Moodman, KATIMI AI, Timothy Really Lab., GERO and VJ Camel across the venue.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-butter-sessions-15-2026",
+        "title": "BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 80,
+        "venueName": "WWW X",
+        "venueId": null,
+        "sourceUrl": "https://ja.ra.co/events/2550556",
+        "ticketUrl": "https://ja.ra.co/events/2550556",
+        "summary": "Melbourne label Butter Sessions brings its 15th-anniversary world-tour celebration to WWW X in Shibuya, co-hosted by GOLDEN 豪流伝 / GOLDENTIME.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-ktsns-pangaea-2026",
+        "title": "解体新書 KTSNS feat. Pangaea",
+        "type": "club-night",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-27",
+        "importance": 80,
+        "venueName": "MIDNIGHT EAST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2555378",
+        "ticketUrl": "https://ra.co/events/2555378",
+        "summary": "Kaitai-Shinsho / KTSNS brings Hessle Audio co-founder Pangaea to MIDNIGHT EAST, with Romy Mats, Albino Sound, Pine and more TBA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-lee-burridge-vent-2026",
+        "title": "Lee Burridge",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-06",
+        "importance": 78,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2544852",
+        "ticketUrl": "https://ra.co/events/2544852",
+        "summary": "All Day I Dream founder Lee Burridge headlines VENT for a late-night house-focused club show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-vexra-must-die-2026",
+        "title": "VEXRA TOKYO: MUST DIE",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 78,
+        "venueName": "clubasia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2530141",
+        "ticketUrl": null,
+        "summary": "VEXRA takes over clubasia’s three stages with a bass and dubstep bill headlined by MUST DIE!, joined by TREKKIE TRAX CREW, kors k, KO3, 3R2, REDSIGN and more.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-bresh-2026",
+        "title": "BRESH TOKYO 02/11 – Halloween Special Edition",
+        "type": "club-night",
         "startDate": "2026-11-02",
-        "endDate": "2026-11-02",
-        "importance": 72,
+        "endDate": null,
+        "importance": 78,
+        "venueName": "ZEROTOKYO",
+        "venueId": null,
+        "sourceUrl": "https://zerotokyo.jp/event/bresh-1102/",
+        "ticketUrl": "https://fiestabresh.zaiko.io/",
+        "summary": "Global Latin party brand BRESH returns to ZEROTOKYO after prior sell-outs, billed with Latin, reggaeton, pop, hip-hop and EDM across an all-night Shinjuku Halloween edition.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-rdc-fold-2026",
+        "title": "Rainbow Disco Club presents FOLD",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-21",
+        "importance": 78,
+        "venueName": "WOMB",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ra.co/events/2553079",
+        "ticketUrl": "https://ra.co/events/2553079",
+        "summary": "Rainbow Disco Club teams with London underground club FOLD for a three-floor WOMB showcase with Voicedrone b2b James Newmarch, Haruka, DJ MARIA., Kenji Takimi, Kikiorix and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-trekkie-trax-14-2026",
+        "title": "TREKKIE TRAX 14th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 77,
+        "venueName": "clubasia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2538713",
+        "ticketUrl": "https://trekkietrax.zaiko.io/",
+        "summary": "Tokyo’s influential bass/electronic collective TREKKIE TRAX celebrates 14 years at clubasia with JIALING, Foxsky, Carpainter, Masayoshi Iimori, Seimei, Oyubi and the crew.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-chris-dave-mononeon-justus-west-2026",
+        "title": "Chris Dave, MonoNeon and Justus West",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-19",
+        "importance": 76,
+        "venueName": "Billboard Live TOKYO",
+        "venueId": null,
+        "sourceUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21707",
+        "ticketUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21707",
+        "summary": "Drummer Chris Dave, bassist MonoNeon and guitarist/producer Justus West bring a genre-crossing jazz, hip-hop and R&B session to Billboard Live Tokyo.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-pasocom-music-club-wonders-2026",
+        "title": "Pasocom Music Club “wonders” Asia Tour 2026",
+        "type": "concert",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 74,
+        "venueName": "LIQUIDROOM",
+        "venueId": null,
+        "sourceUrl": "https://www.smash-jpn.com/live/?id=4764",
+        "ticketUrl": "https://www.smash-jpn.com/live/?id=4764",
+        "summary": "Pasocom Music Club bring their “wonders” Asia Tour to LIQUIDROOM, following a year of major Japanese festival and club-culture appearances.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-azu-tiwaline-ldg-2026",
+        "title": "Azu Tiwaline, DJ MARIA. / LDG 10th Anniversary 'EPILOGUE'",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 74,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546992",
+        "ticketUrl": "https://ra.co/events/2546992",
+        "summary": "LDG closes its 10th anniversary run with Azu Tiwaline and DJ MARIA. leading a psychedelic techno bill spanning dub, acid, industrial and experimental Tokyo sounds.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-kenny-barron-trio-2026",
+        "title": "Kenny Barron Trio",
+        "type": "concert",
+        "startDate": "2026-11-23",
+        "endDate": "2026-11-25",
+        "importance": 74,
+        "venueName": "Blue Note Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenote.co.jp/jp/artists/kenny-barron/",
+        "ticketUrl": "https://reserve.bluenote.co.jp/reserve/schedule/move2/202611",
+        "summary": "Modern jazz piano legend Kenny Barron brings his trio with Kanoa Mendenhall and Johnathan Blake to Blue Note Tokyo for a three-night run.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tokyo-grooving-night-premium-2026",
+        "title": "Grooving Night Premium in Billboard Live TOKYO: SIRUP × AAAMYYY",
+        "type": "concert",
+        "startDate": "2026-11-15",
+        "endDate": "2026-11-15",
+        "importance": 73,
+        "venueName": "Billboard Live TOKYO",
+        "venueId": null,
+        "sourceUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21613",
+        "ticketUrl": "https://www.billboard-live.com/en/tokyo/show?event_id=ev-21613",
+        "summary": "SIRUP’s Grooving Night Premium comes to Billboard Live Tokyo for its eighth edition, featuring AAAMYYY and a one-night-only duo live/session format.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-diggin-okinawa-2026",
+        "title": "DIGGIN' OKINAWA",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 73,
+        "venueName": "clubasia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2554222",
+        "ticketUrl": "https://clubasia.jp/",
+        "summary": "Okinawa hip-hop big party lands at clubasia, connecting Tokyo and Okinawa with MURO, MACKA-CHIN, SUIKEN, RITTO, CHOUJI, MuKuRo and a large live/DJ bill.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-bullet-train-dome-2026",
+        "title": "超特急 東京ドーム公演",
+        "type": "concert",
+        "startDate": "2026-11-25",
+        "endDate": "2026-11-25",
+        "importance": 85,
+        "venueName": "Tokyo Dome",
+        "venueId": null,
+        "sourceUrl": "https://bullettrain.jp/live/live25696/",
+        "ticketUrl": "https://bullettrain.jp/BT-1125-tokyo-dome/",
+        "summary": "Japanese dance-vocal group 超特急 perform a headline Tokyo Dome show on November 25, 2026. The official listing confirms a 16:00 door time and 18:00 start.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-band-maid-budokan-final-2026",
+        "title": "BAND-MAID WORLD TOUR 2026 FINAL",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-14",
+        "importance": 84,
         "venueName": "Nippon Budokan",
         "venueId": null,
-        "sourceUrl": "https://kyodo-osaka.co.jp/search/detail/12195",
-        "ticketUrl": "https://kyodo-osaka.co.jp/search/detail/12195",
-        "summary": "Nanase Aikawa brings her 30th anniversary ROCK KINGDOM tour to a Tokyo finale at Nippon Budokan. The promoter listing confirms the November 2, 2026 date and 18:30 start.",
+        "sourceUrl": "https://www.creativeman.co.jp/event/band-maid-world-tour-2026-final/",
+        "ticketUrl": "https://www.creativeman.co.jp/event/band-maid-world-tour-2026-final/",
+        "summary": "BAND-MAID close their WORLD TOUR 2026 with two final Tokyo dates at Nippon Budokan. Creativeman confirms the November 13 and 14 performances, with the second night starting at 17:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-glay-exofire-ariake-2026",
+        "title": "GLAY ARENA TOUR 2026-2027 “EXOFIRE”",
+        "type": "concert",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 84,
+        "venueName": "Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.udo.jp/shows/GLAY_arenatour2026_27",
+        "ticketUrl": "https://www.udo.jp/shows/GLAY_arenatour2026_27",
+        "summary": "GLAY bring their nationwide arena tour “EXOFIRE” to Ariake Arena for two Tokyo dates. UDO lists November 28 and 29, 2026 performances at the venue.",
         "genres": [
           "pop"
         ]
@@ -46,22 +385,6 @@
         ]
       },
       {
-        "id": "tokyo-band-maid-budokan-final-2026",
-        "title": "BAND-MAID WORLD TOUR 2026 FINAL",
-        "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-14",
-        "importance": 84,
-        "venueName": "Nippon Budokan",
-        "venueId": null,
-        "sourceUrl": "https://www.creativeman.co.jp/event/band-maid-world-tour-2026-final/",
-        "ticketUrl": "https://www.creativeman.co.jp/event/band-maid-world-tour-2026-final/",
-        "summary": "BAND-MAID close their WORLD TOUR 2026 with two final Tokyo dates at Nippon Budokan. Creativeman confirms the November 13 and 14 performances, with the second night starting at 17:00.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "tokyo-tedeschi-trucks-ariake-2026",
         "title": "Tedeschi Trucks Band - Future Soul Tour 2026",
         "type": "concert",
@@ -76,22 +399,6 @@
         "genres": [
           "r-and-b",
           "jazz"
-        ]
-      },
-      {
-        "id": "tokyo-5sos-ariake-2026",
-        "title": "5 Seconds of Summer - EVERYONE’S A STAR! World Tour",
-        "type": "concert",
-        "startDate": "2026-11-21",
-        "endDate": "2026-11-21",
-        "importance": 83,
-        "venueName": "SGC Hall Ariake",
-        "venueId": null,
-        "sourceUrl": "https://www.creativeman.co.jp/artist/2026/5sos/",
-        "ticketUrl": "https://eplus.tickets/5secondsofsummer/",
-        "summary": "5 Seconds of Summer return to Japan for a Tokyo date behind the album “Everyone’s A Star!” Creativeman confirms the November 21, 2026 show at SGC Hall Ariake with an 18:00 start.",
-        "genres": [
-          "pop"
         ]
       },
       {
@@ -113,34 +420,17 @@
         ]
       },
       {
-        "id": "tokyo-bullet-train-dome-2026",
-        "title": "超特急 東京ドーム公演",
+        "id": "tokyo-aikawa-nanase-budokan-2026",
+        "title": "Nanase Aikawa 30th Anniversary ROCK KINGDOM TOUR 2026 -FINAL 日本武道館-",
         "type": "concert",
-        "startDate": "2026-11-25",
-        "endDate": "2026-11-25",
-        "importance": 85,
-        "venueName": "Tokyo Dome",
+        "startDate": "2026-11-02",
+        "endDate": "2026-11-02",
+        "importance": 72,
+        "venueName": "Nippon Budokan",
         "venueId": null,
-        "sourceUrl": "https://bullettrain.jp/live/live25696/",
-        "ticketUrl": "https://bullettrain.jp/BT-1125-tokyo-dome/",
-        "summary": "Japanese dance-vocal group 超特急 perform a headline Tokyo Dome show on November 25, 2026. The official listing confirms a 16:00 door time and 18:00 start.",
-        "genres": [
-          "pop",
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "tokyo-glay-exofire-ariake-2026",
-        "title": "GLAY ARENA TOUR 2026-2027 “EXOFIRE”",
-        "type": "concert",
-        "startDate": "2026-11-28",
-        "endDate": "2026-11-29",
-        "importance": 84,
-        "venueName": "Ariake Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.udo.jp/shows/GLAY_arenatour2026_27",
-        "ticketUrl": "https://www.udo.jp/shows/GLAY_arenatour2026_27",
-        "summary": "GLAY bring their nationwide arena tour “EXOFIRE” to Ariake Arena for two Tokyo dates. UDO lists November 28 and 29, 2026 performances at the venue.",
+        "sourceUrl": "https://kyodo-osaka.co.jp/search/detail/12195",
+        "ticketUrl": "https://kyodo-osaka.co.jp/search/detail/12195",
+        "summary": "Nanase Aikawa brings her 30th anniversary ROCK KINGDOM tour to a Tokyo finale at Nippon Budokan. The promoter listing confirms the November 2, 2026 date and 18:30 start.",
         "genres": [
           "pop"
         ]

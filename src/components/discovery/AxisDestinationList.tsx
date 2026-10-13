@@ -64,13 +64,6 @@ export function AxisDestinationList({ items, month }: AxisDestinationListProps) 
                   {score.overallScore}
                   <span className="text-base text-[var(--muted-2)]">/100</span>
                 </p>
-                <Link
-                  href={href}
-                  className="mt-3 inline-flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
-                >
-                  read the guide
-                  <span aria-hidden>→</span>
-                </Link>
               </div>
             </div>
           </li>

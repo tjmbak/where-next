@@ -1,0 +1,23 @@
+{
+  "slug": "tbilisi",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:59:55.821Z",
+  "responseId": "resp_07691220b7a0dcc1006acdac6f44f887d0bf2840e33a4d8b1b+resp_0d5219bdc88a9875006acdac86405087d0b3a20cd622f4f222",
+  "searchCalls": 17,
+  "citations": [
+    {
+      "url": "https://ra.co/events/ge/tbilisi?startDate=2026-05-01&utm_source=openai",
+      "title": "Upcoming Events in Tbilisi · Get Your Tickets On RA",
+      "startIndex": 247,
+      "endIndex": 328
+    }
+  ],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 5,
+    "year": 2027,
+    "notes": "No qualifying, source-backed Tbilisi underground/genre-scene events for May 2027 were found; public listings checked surfaced either 2026 club listings or non-qualifying/non-scene pages. ([ra.co](https://ra.co/events/ge/tbilisi?startDate=2026-05-01&utm_source=openai))",
+    "events": []
+  }
+}

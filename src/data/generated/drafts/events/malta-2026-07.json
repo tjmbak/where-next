@@ -2,9 +2,9 @@
   "slug": "malta",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:26:55.452Z",
-  "responseId": "resp_030fdee3a150ff3f0069ff5fce5cf081a2bbde91a80e924097",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:26:37.739Z",
+  "responseId": "augment:resp_037d4b3d7e7455a3006a1b2b69c4948198a13510956cc9f2e7",
+  "searchCalls": 9,
   "citations": [],
   "data": {
     "destinationSlug": "malta",
@@ -12,6 +12,73 @@
     "year": 2026,
     "notes": "July 2026 is unusually stacked for Malta, spanning open-air pop spectacles, jazz programming, and a heavy run of electronic club and festival events.",
     "events": [
+      {
+        "id": "malta-isle-of-mtv-2026",
+        "title": "Isle of MTV Malta 2026: Katy Perry",
+        "type": "festival",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 96,
+        "venueName": "Isle of MTV / Floriana",
+        "venueId": null,
+        "sourceUrl": "https://www.katyperry.com/gig/july-22-2026-isle-of-mtv-malta/",
+        "ticketUrl": "https://isleofmtv.com/",
+        "summary": "Katy Perry is confirmed on her official tour page for Isle of MTV Malta on July 22. Additional Isle of MTV Malta 2026 performers had not yet been fully announced at research time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-jazz-festival-2026",
+        "title": "Malta Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-11",
+        "importance": 90,
+        "venueName": "Various Valletta venues",
+        "venueId": null,
+        "sourceUrl": "https://www.festivals.mt/events",
+        "ticketUrl": null,
+        "summary": "Festivals Malta’s July jazz programme runs from July 6 to 11, including opening concerts, late-night sessions, and Ta’ Liesse concerts. Confirmed artists across the listed programme include Toninho Horta 4TET, Seamus Blake, Jeff Ballard, Kurt Rosenwinkel, and Terri Lyne Carrington.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "malta-spiral-festival-2026",
+        "title": "EXIT Presents: Spiral Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-02",
+        "importance": 88,
+        "venueName": "Gianpula Village / Café del Mar / Toy Room Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://spiral-festival.com/",
+        "ticketUrl": "https://www.showshappening.com/GMED/EXIT-Presents-Spiral-Festival-2026",
+        "summary": "EXIT’s new Spiral Festival debuts in Malta from July 31 to August 2 across Gianpula Village, Café del Mar, and Toy Room Beach Club. Confirmed artists include Fatboy Slim, Nina Kraviz, Lilly Palmer, Argy, LP Giobbi, Kasia, Layla Benitez, and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "malta-michael-buble-2026",
+        "title": "Michael Bublé Live in Concert",
+        "type": "concert",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-08",
+        "importance": 86,
+        "venueName": "Park Nazzjonali Ta’ Qali",
+        "venueId": null,
+        "sourceUrl": "https://eventworks.mt/michaelbuble",
+        "ticketUrl": "https://eventworks.mt/michaelbuble",
+        "summary": "Michael Bublé plays a one-night Malta concert at Park Nazzjonali Ta’ Qali on Wednesday, July 8. Eventworks lists the show time as 18:00 with ticket tiers starting at €40.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
       {
         "id": "malta-galactica-residency-jul-2026",
         "title": "Cocoricò Presents Galactica Malta — Week 2",
@@ -46,20 +113,56 @@
         ]
       },
       {
-        "id": "malta-deborah-de-luca-cafe-del-mar-2026",
-        "title": "G7 Presents Deborah De Luca at Café del Mar",
+        "id": "malta-mestiza-cafe-del-mar-2026",
+        "title": "G7 Presents MËSTIZA at Café del Mar",
         "type": "club-night",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 75,
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 78,
         "venueName": "Café del Mar Malta",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2405539",
-        "ticketUrl": "https://www.showshappening.com/",
-        "summary": "G7 presents techno headliner Deborah De Luca for a July 4 sunset-to-late session at Café del Mar Malta. RA lists the event for 20:00–01:00 at the Qawra venue.",
+        "sourceUrl": "https://www.showshappening.com/G7/G7-presents-MSTIZA-at-Caf-del-Mar",
+        "ticketUrl": "https://www.showshappening.com/G7/G7-presents-MSTIZA-at-Caf-del-Mar",
+        "summary": "MËSTIZA bring their electronic-and-Spanish-heritage fusion to Café del Mar Malta on July 18. The official ticketing page lists the event at 20:00 and describes the duo’s sound as blending afro, Arabic, and Latin influences.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-galactica-cocorico-2026",
+        "title": "Cocoricò presents Galactica Malta — July Residency",
+        "type": "residency",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-31",
+        "importance": 78,
+        "venueName": "UNO MALTA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2390252",
+        "ticketUrl": "https://ra.co/events/2390252",
+        "summary": "Cocoricò’s Galactica returns to UNO Malta as a hard-techno summer residency, with July Fridays forming the core of the island takeover and promising big-room open-air techno energy.",
         "genres": [
           "techno",
           "electronic"
+        ]
+      },
+      {
+        "id": "malta-le-classico-2026",
+        "title": "Le Classico French Party — July Residency",
+        "type": "residency",
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-27",
+        "importance": 78,
+        "venueName": "Sky Club Malta",
+        "venueId": null,
+        "sourceUrl": "https://www.getyourtickets.com/event/events-lab/le-classico-skyclub/NV50RI7A",
+        "ticketUrl": "https://www.getyourtickets.com/event/events-lab/le-classico-skyclub/NV50RI7A",
+        "summary": "A major French diaspora club residency at Sky Club, with July Monday dates built around French rap, French Touch and remixes in a large-capacity Paceville setting.",
+        "genres": [
+          "hip-hop",
+          "electronic",
+          "pop"
         ]
       },
       {
@@ -81,70 +184,37 @@
         ]
       },
       {
-        "id": "malta-jazz-festival-2026",
-        "title": "Malta Jazz Festival 2026",
-        "type": "festival",
-        "startDate": "2026-07-06",
-        "endDate": "2026-07-11",
-        "importance": 90,
-        "venueName": "Various Valletta venues",
-        "venueId": null,
-        "sourceUrl": "https://www.festivals.mt/events",
-        "ticketUrl": null,
-        "summary": "Festivals Malta’s July jazz programme runs from July 6 to 11, including opening concerts, late-night sessions, and Ta’ Liesse concerts. Confirmed artists across the listed programme include Toninho Horta 4TET, Seamus Blake, Jeff Ballard, Kurt Rosenwinkel, and Terri Lyne Carrington.",
-        "genres": [
-          "jazz"
-        ]
-      },
-      {
-        "id": "malta-michael-buble-2026",
-        "title": "Michael Bublé Live in Concert",
-        "type": "concert",
-        "startDate": "2026-07-08",
-        "endDate": "2026-07-08",
-        "importance": 86,
-        "venueName": "Park Nazzjonali Ta’ Qali",
-        "venueId": null,
-        "sourceUrl": "https://eventworks.mt/michaelbuble",
-        "ticketUrl": "https://eventworks.mt/michaelbuble",
-        "summary": "Michael Bublé plays a one-night Malta concert at Park Nazzjonali Ta’ Qali on Wednesday, July 8. Eventworks lists the show time as 18:00 with ticket tiers starting at €40.",
-        "genres": [
-          "pop",
-          "jazz"
-        ]
-      },
-      {
-        "id": "malta-mestiza-cafe-del-mar-2026",
-        "title": "G7 Presents MËSTIZA at Café del Mar",
+        "id": "malta-deborah-de-luca-cafe-del-mar-2026",
+        "title": "G7 Presents Deborah De Luca at Café del Mar",
         "type": "club-night",
-        "startDate": "2026-07-18",
-        "endDate": "2026-07-18",
-        "importance": 78,
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 75,
         "venueName": "Café del Mar Malta",
         "venueId": null,
-        "sourceUrl": "https://www.showshappening.com/G7/G7-presents-MSTIZA-at-Caf-del-Mar",
-        "ticketUrl": "https://www.showshappening.com/G7/G7-presents-MSTIZA-at-Caf-del-Mar",
-        "summary": "MËSTIZA bring their electronic-and-Spanish-heritage fusion to Café del Mar Malta on July 18. The official ticketing page lists the event at 20:00 and describes the duo’s sound as blending afro, Arabic, and Latin influences.",
+        "sourceUrl": "https://ra.co/events/2405539",
+        "ticketUrl": "https://www.showshappening.com/",
+        "summary": "G7 presents techno headliner Deborah De Luca for a July 4 sunset-to-late session at Café del Mar Malta. RA lists the event for 20:00–01:00 at the Qawra venue.",
         "genres": [
-          "afro-house",
-          "house",
+          "techno",
           "electronic"
         ]
       },
       {
-        "id": "malta-isle-of-mtv-2026",
-        "title": "Isle of MTV Malta 2026: Katy Perry",
-        "type": "festival",
-        "startDate": "2026-07-22",
-        "endDate": "2026-07-22",
-        "importance": 96,
-        "venueName": "Isle of MTV / Floriana",
+        "id": "malta-mamacita-gianpula-2026",
+        "title": "MAMACITA Hip-Hop & Reggaeton at Gianpula Main Room",
+        "type": "residency",
+        "startDate": "2026-07-21",
+        "endDate": "2026-07-28",
+        "importance": 75,
+        "venueName": "Gianpula Main Room",
         "venueId": null,
-        "sourceUrl": "https://www.katyperry.com/gig/july-22-2026-isle-of-mtv-malta/",
-        "ticketUrl": "https://isleofmtv.com/",
-        "summary": "Katy Perry is confirmed on her official tour page for Isle of MTV Malta on July 22. Additional Isle of MTV Malta 2026 performers had not yet been fully announced at research time.",
+        "sourceUrl": "https://www.showshappening.com/lifeevents/MAMACITA-HIPHOP--REGGAETON--GIANPULA-MAIN-ROOM--MALTA--SUMMER-2026",
+        "ticketUrl": "https://www.showshappening.com/lifeevents/MAMACITA-HIPHOP--REGGAETON--GIANPULA-MAIN-ROOM--MALTA--SUMMER-2026",
+        "summary": "Italy’s Mamacita club brand lands at Gianpula Main Room for July Tuesday dates, focused on hip-hop and reggaeton in a large summer club setting.",
         "genres": [
-          "pop"
+          "hip-hop",
+          "latin"
         ]
       },
       {
@@ -166,21 +236,107 @@
         ]
       },
       {
-        "id": "malta-spiral-festival-2026",
-        "title": "EXIT Presents: Spiral Festival 2026",
-        "type": "festival",
-        "startDate": "2026-07-31",
-        "endDate": "2026-08-02",
-        "importance": 88,
-        "venueName": "Gianpula Village / Café del Mar / Toy Room Beach Club",
+        "id": "malta-holy-rave-july-2026",
+        "title": "The Holy Rave Malta — July Thursdays",
+        "type": "residency",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-30",
+        "importance": 72,
+        "venueName": "Tigullio",
         "venueId": null,
-        "sourceUrl": "https://spiral-festival.com/",
-        "ticketUrl": "https://www.showshappening.com/GMED/EXIT-Presents-Spiral-Festival-2026",
-        "summary": "EXIT’s new Spiral Festival debuts in Malta from July 31 to August 2 across Gianpula Village, Café del Mar, and Toy Room Beach Club. Confirmed artists include Fatboy Slim, Nina Kraviz, Lilly Palmer, Argy, LP Giobbi, Kasia, Layla Benitez, and more.",
+        "sourceUrl": "https://shotgun.live/en/cities/malta",
+        "ticketUrl": "https://shotgun.live/en/cities/malta",
+        "summary": "French hard-techno brand The Holy Rave runs a Thursday summer residency at Tigullio, with July editions listed for 2, 9, 16, 23 and 30 July covering hard techno, bounce, acid techno and trance-leaning rave sounds.",
         "genres": [
-          "electronic",
           "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-glitch-aerea-2026",
+        "title": "Glitch Club Series: AEREA (live)",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Club Phoenix - Gianpula Village",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2408022",
+        "ticketUrl": "https://ra.co/events/2408022",
+        "summary": "Glitch Club Series hosts AEREA’s Malta debut, with a techno-focused live set blending trance, hardgroove and immersive club textures alongside local support.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-glitch-davyboi-frederic-2026",
+        "title": "Glitch Club Series: davyboi & Frederic",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Club Phoenix - Gianpula Village",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2408025",
+        "ticketUrl": "https://ra.co/events/2408025",
+        "summary": "Glitch Club Series returns to Club Phoenix with davyboi, Frederic and STK for a high-energy blend of techno, hard-house, trance, bounce and groove.",
+        "genres": [
+          "techno",
+          "electronic",
           "house"
+        ]
+      },
+      {
+        "id": "malta-techno-agency-resilience-2026",
+        "title": "Techno Agency x O.S.M.W.S.T.A x T6E Resilience",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Liquid Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2362403",
+        "ticketUrl": "https://ra.co/events/2362403",
+        "summary": "Two-stage Liquid Club takeover from Techno Agency, O.S.M.W.S.T.A and T6E Resilience, pitched at underground techno and minimal-techno heads.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-dose-techno-thursdays-2026",
+        "title": "DOSE: Techno Thursdays / Season III",
+        "type": "club-night",
+        "startDate": "2026-07-16",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Liquid Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2371399",
+        "ticketUrl": "https://ra.co/events/2371399",
+        "summary": "Flat8th’s DOSE series continues its Liquid Club summer run, centered on bounce, hard dance, hard techno and trance-influenced late-night club energy.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-summerlove-boat-party-2026",
+        "title": "Summerlove Boat Party — 14 July Sailing",
+        "type": "club-night",
+        "startDate": "2026-07-14",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "TBA - Sliema Ferries - Faith Boat",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2366244",
+        "ticketUrl": "https://de.ra.co/events/2366244",
+        "summary": "A 250-capacity Sliema sailing party with resident DJ, open bar, R&B, reggaeton and dance music, aimed at the summer boat-party circuit rather than a conventional club room.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "electronic"
         ]
       }
     ]

@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 import { redirect } from "next/navigation";
 import { PushToggle } from "@/components/push/PushToggle";
 import { ForkEmailToggle } from "@/components/settings/ForkEmailToggle";
+import { WatchList } from "@/components/watch/WatchList";
 import { GENRE_LABELS, MONTHS } from "@/data/taxonomy";
 import { normalizePreferencesRow } from "@/lib/preferences";
 import { createSupabaseServerAuthClient } from "@/lib/supabase/server-auth";
@@ -30,26 +32,20 @@ export default async function SettingsPage() {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="flex items-center gap-5 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          <Link href="/me/itineraries" className="transition hover:text-[var(--foreground)]">
-            your itineraries
-          </Link>
+      <SiteHeader
+        action={
           <form action="/auth/logout" method="post">
-            <button type="submit" className="transition hover:text-[var(--foreground)]">
+            <button
+              type="submit"
+              className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+            >
               sign out
             </button>
           </form>
-        </nav>
-      </header>
+        }
+      />
 
-      <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-12 sm:px-10">
+      <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-8 sm:px-10">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
           settings · {userData.user.email}
         </p>
@@ -61,7 +57,7 @@ export default async function SettingsPage() {
           <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
             push notifications
           </p>
-          <h2 className="mt-2 text-xl font-medium text-[var(--foreground)]">Move first when it matters.</h2>
+          <h2 className="mt-2 text-xl font-medium text-[var(--foreground)]">Alerts for the cities you saved.</h2>
           <p className="mt-3 max-w-xl text-[14px] leading-7 text-[var(--muted)]">
             One-tap alerts when tickets drop in your saved cities, when an event is 14 days out, or when 5+ new shows
             land for somewhere you saved. Nothing else.
@@ -69,6 +65,15 @@ export default async function SettingsPage() {
           <div className="mt-5">
             <PushToggle initialEnabled={prefs.pushEnabled} />
           </div>
+        </section>
+
+        <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">
+          <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">watching</p>
+          <h2 className="mt-2 text-xl font-medium text-[var(--foreground)]">City-months on your radar.</h2>
+          <p className="mt-3 max-w-xl text-[14px] leading-7 text-[var(--muted)]">
+            One email when new events are confirmed for a window you watch — nothing on quiet weeks.
+          </p>
+          <WatchList />
         </section>
 
         <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">

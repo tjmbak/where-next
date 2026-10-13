@@ -1,0 +1,201 @@
+{
+  "slug": "buenos-aires",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:37:57.829Z",
+  "responseId": "resp_028c70ba0f09636b006acda6e2d12887d09ceb94276aaebd3b+resp_0c444338d0b0330c006acda741538c87d09118a0de7e184615",
+  "searchCalls": 44,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is anchored by Lollapalooza Argentina, with arena-scale Latin pop, nostalgia dance, reggae/rock crossovers and select club/electronic shows around it.",
+    "events": [
+      {
+        "id": "buenos-aires-lollapalooza-argentina-2027",
+        "title": "Lollapalooza Argentina 2027",
+        "type": "festival",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-14",
+        "importance": 96,
+        "venueName": "Hipódromo de San Isidro",
+        "venueId": "lolla-argentina",
+        "sourceUrl": "https://www.lollapaloozaar.com/informacion",
+        "ticketUrl": "https://www.lollapaloozaar.com/",
+        "summary": "The official festival FAQ confirms Lollapalooza Argentina for 12–14 March 2027 at Hipódromo de San Isidro, with three days, five stages and more than 100 bands.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-la-oreja-de-van-gogh-movistar-2027",
+        "title": "La Oreja de Van Gogh — Tantas Cosas Que Contar Tour",
+        "type": "concert",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-21",
+        "importance": 79,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://indiehoy.com/agenda/la-oreja-de-van-gogh-argentina/",
+        "ticketUrl": null,
+        "summary": "La Oreja de Van Gogh are confirmed for three Movistar Arena shows on 19, 20 and 21 March 2027, with Amaia Montero back as vocalist for the Tantas Cosas Que Contar tour.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-love-the-90s-2027",
+        "title": "Love The 90s Argentina 2027",
+        "type": "festival",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 78,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/es/festivals/3762140-love-the-90s-argentina/id/43374475-love-the-90s-argentina-2027",
+        "ticketUrl": null,
+        "summary": "Love The 90s Argentina is confirmed for 13 March 2027 at Movistar Arena, with a eurodance and 90s-pop lineup including Eiffel 65, 2 Unlimited, Reel 2 Real, Londonbeat, Real McCoy and El Símbolo.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "buenos-aires-emiliano-demarco-2027",
+        "title": "Emiliano Demarco - Mandarine Park / Punta Carrasco",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Mandarine Park",
+        "venueId": null,
+        "sourceUrl": "https://allmusicparties.com/en/evento/emiliano-demarco-mandarine-park-punta-carrasco",
+        "ticketUrl": null,
+        "summary": "A large-format all-night progressive/melodic house and techno event for Argentine DJ/producer Emiliano Demarco at the Punta Carrasco/Mandarine Park complex, presented by Elements and Circus.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-placebo-malvinas-2027",
+        "title": "Placebo — 30th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 76,
+        "venueName": "Estadio Malvinas Argentinas",
+        "venueId": null,
+        "sourceUrl": "https://indiehoy.com/agenda/placebo-argentina-2027-entradas/",
+        "ticketUrl": null,
+        "summary": "Placebo are confirmed for 3 March 2027 at Estadio Malvinas Argentinas in Buenos Aires as part of their 30th Anniversary Tour.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-cabaret-voltaire-niceto-2027",
+        "title": "Cabaret Voltaire",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-04",
+        "importance": 76,
+        "venueName": "Niceto Club",
+        "venueId": "niceto-ba",
+        "sourceUrl": "https://indiehoy.com/agenda/cabaret-voltaire-argentina-2027/",
+        "ticketUrl": null,
+        "summary": "Cabaret Voltaire make their first Argentina appearance on 4 March 2027 at Niceto Club, with Stephen Mallinder and Chris Watson revisiting the group’s industrial and electronic catalogue.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-paralamas-nonpalidece-2027",
+        "title": "Paralamas + Nonpalidece",
+        "type": "concert",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-23",
+        "importance": 74,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/46ef1dbf-7353-4e1f-82c8-7ff2334f7ca5",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/46ef1dbf-7353-4e1f-82c8-7ff2334f7ca5",
+        "summary": "Nonpalidece and Os Paralamas do Sucesso share Movistar Arena on 23 March 2027 for a first joint Buenos Aires show built around reggae, rock, ska and Latin American roots.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "buenos-aires-cabaret-voltaire-2027",
+        "title": "Cabaret Voltaire en Argentina",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Niceto Club",
+        "venueId": "niceto-ba",
+        "sourceUrl": "https://indiehoy.com/agenda/cabaret-voltaire-argentina-2027/",
+        "ticketUrl": "https://venti.live/evento/cabaret-voltaire-en-niceto-club",
+        "summary": "A historic Buenos Aires date for industrial/electronic culture: Cabaret Voltaire play Niceto Club for the first time in Argentina, with tickets via Venti.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-kasabian-c-art-media-2027",
+        "title": "Kasabian",
+        "type": "concert",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-23",
+        "importance": 73,
+        "venueName": "C Art Media",
+        "venueId": null,
+        "sourceUrl": "https://indiehoy.com/agenda/kasabian-argentina-2027/",
+        "ticketUrl": null,
+        "summary": "Kasabian return to Buenos Aires on 23 March 2027 at C Art Media, presenting Act III alongside catalogue staples such as “Club Foot” and “Fire.”",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-ha-ash-movistar-2027",
+        "title": "Ha*Ash — No Me Hablen de Amor Tour",
+        "type": "concert",
+        "startDate": "2027-03-17",
+        "endDate": "2027-03-17",
+        "importance": 72,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/1ece33a6-1f30-4b45-82bf-5a12f44edb1c",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/1ece33a6-1f30-4b45-82bf-5a12f44edb1c",
+        "summary": "Ha*Ash return to Movistar Arena on 17 March 2027 with their No Me Hablen de Amor Latin American tour, mixing new material with more than two decades of hits.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-ultra-sunn-2027",
+        "title": "Ultra Sunn en Argentina",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "Marquee Session Live",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/ultra-sunn-en-argentina",
+        "ticketUrl": "https://www.passline.com/eventos/ultra-sunn-en-argentina",
+        "summary": "Gothic BA brings Brussels darkwave/EBM duo Ultra Sunn to Marquee Session Live, a strong niche electronic booking connecting new beat, EBM and industrial club sounds.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

@@ -2,9 +2,9 @@
   "slug": "tbilisi",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:55:33.343Z",
-  "responseId": "resp_002c3dfd20e0b5340069ff66867cf8819cb153fe4b0bcbc70f",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T18:47:45.417Z",
+  "responseId": "augment:resp_086e9660f743089e006a1b30849ba8819880a7ecb7d8dd6cdc",
+  "searchCalls": 21,
   "citations": [],
   "data": {
     "destinationSlug": "tbilisi",
@@ -31,22 +31,6 @@
         ]
       },
       {
-        "id": "tbilisi-krovostok-2026",
-        "title": "Krovostok in Tbilisi",
-        "type": "concert",
-        "startDate": "2026-07-11",
-        "endDate": "2026-07-11",
-        "importance": 70,
-        "venueName": "Elektro:Yard",
-        "venueId": null,
-        "sourceUrl": "https://plenka2022.ticketscloud.org/e/697f3c58e23c80fad7ad045c?partner_id=5c3b9ab8620e9b000bccd49a",
-        "ticketUrl": "https://plenka2022.ticketscloud.org/e/697f3c58e23c80fad7ad045c?partner_id=5c3b9ab8620e9b000bccd49a",
-        "summary": "Ticketing page confirms Krovostok in Tbilisi at Elektro:Yard on July 11, 2026 at 20:00.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
         "id": "tbilisi-ricky-martin-2026",
         "title": "Ricky Martin — Tbilisi 2026",
         "type": "concert",
@@ -64,22 +48,6 @@
         ]
       },
       {
-        "id": "tbilisi-traitrs-2026",
-        "title": "TRAITRS in Tbilisi",
-        "type": "concert",
-        "startDate": "2026-07-17",
-        "endDate": "2026-07-17",
-        "importance": 68,
-        "venueName": "Junkyard Club",
-        "venueId": null,
-        "sourceUrl": "https://fienta.com/traitrs-in-tbilisi",
-        "ticketUrl": "https://fienta.com/traitrs-in-tbilisi",
-        "summary": "Canadian post-punk/darkwave duo TRAITRS perform at Junkyard Club on July 17, 2026; the listing gives doors at 20:00 and music from 21:00.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
         "id": "tbilisi-moby-live-26-2026",
         "title": "Moby Live 26",
         "type": "concert",
@@ -94,6 +62,55 @@
         "genres": [
           "electronic",
           "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-horoom-sally-c-2026",
+        "title": "Horoom: Gio Shengelia, Hannah D, Sally C, Zzzbam Live",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 76,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2449513",
+        "ticketUrl": "https://bassiani.com/light/nights/1091",
+        "summary": "Bassiani’s Horoom room hosts a strong summer club night with local anchor Gio Shengelia, Berlin-based house/acid/hip-house selector Sally C, Australia’s Hannah D, and a live set from Zzzbam, running from 23:59 to midday.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-krovostok-2026",
+        "title": "Krovostok in Tbilisi",
+        "type": "concert",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 70,
+        "venueName": "Elektro:Yard",
+        "venueId": null,
+        "sourceUrl": "https://plenka2022.ticketscloud.org/e/697f3c58e23c80fad7ad045c?partner_id=5c3b9ab8620e9b000bccd49a",
+        "ticketUrl": "https://plenka2022.ticketscloud.org/e/697f3c58e23c80fad7ad045c?partner_id=5c3b9ab8620e9b000bccd49a",
+        "summary": "Ticketing page confirms Krovostok in Tbilisi at Elektro:Yard on July 11, 2026 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tbilisi-traitrs-2026",
+        "title": "TRAITRS in Tbilisi",
+        "type": "concert",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 68,
+        "venueName": "Junkyard Club",
+        "venueId": null,
+        "sourceUrl": "https://fienta.com/traitrs-in-tbilisi",
+        "ticketUrl": "https://fienta.com/traitrs-in-tbilisi",
+        "summary": "Canadian post-punk/darkwave duo TRAITRS perform at Junkyard Club on July 17, 2026; the listing gives doors at 20:00 and music from 21:00.",
+        "genres": [
+          "electronic"
         ]
       }
     ]

@@ -2,9 +2,9 @@
   "slug": "bali",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:23:01.650Z",
-  "responseId": "resp_07ce856fff6e83c30069ff5f23389081938704517d90cb72d5",
-  "searchCalls": 10,
+  "generatedAt": "2026-05-30T18:04:29.308Z",
+  "responseId": "augment:resp_0bb9cceaef3ff9f7006a1b264ca32481998e1f2486bde319b5",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "bali",
@@ -12,6 +12,57 @@
     "year": 2026,
     "notes": "September 2026’s confirmed Bali music calendar is currently stronger on cultural performance, folklore, rhythm, and Latin dance gatherings than on large announced DJ lineups.",
     "events": [
+      {
+        "id": "bali-stephan-bodzin-2026",
+        "title": "Stephan Bodzin at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-09-26",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/stephan-bodzin-2609?aid=dance&discount=dance&source=presenter",
+        "ticketUrl": "https://megatix.co.id/events/stephan-bodzin-2609?aid=dance&discount=dance&source=presenter",
+        "summary": "Savaya hosts German live-electronic/techno figure Stephan Bodzin for a ticketed 21+ Saturday cliffside event opening at 3 PM.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-bali-carnival-2026",
+        "title": "Bali Carnival 2026",
+        "type": "carnival",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-02",
+        "importance": 76,
+        "venueName": "Nusa Dua, Bali",
+        "venueId": null,
+        "sourceUrl": "https://howtobali.com/events/bali-carnival-2026/",
+        "ticketUrl": null,
+        "summary": "A six-day Trinidad and Tobago-themed carnival in Nusa Dua, built around Caribbean-style parade culture, pool parties, colour-festival energy and live music.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "bali-marten-lou-2026",
+        "title": "Marten Lou at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-09-12",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/september-12-2026",
+        "ticketUrl": "https://megatix.co.id/savaya",
+        "summary": "Savaya presents Marten Lou for a Saturday day-into-night cliff-club session, with DJs from 3 PM leading into the main act; tickets and VIP/table access are listed by Savaya/Megatix.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
       {
         "id": "bali-taman-ayun-barong-sep-2026",
         "title": "Taman Ayun Barong Festival",
@@ -45,6 +96,22 @@
         ]
       },
       {
+        "id": "bali-nusantara-folklore-ubud-sep-2026",
+        "title": "Nusantara International Folklore Festival – Ubud, Bali",
+        "type": "festival",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-28",
+        "importance": 70,
+        "venueName": "Ubud, Bali",
+        "venueId": null,
+        "sourceUrl": "https://niff.co.id/service/event-details/",
+        "ticketUrl": null,
+        "summary": "NIFF’s official event page confirms a non-competitive folklore gathering in Ubud where dance and music groups from around the world present cultural performances, workshops, and ceremonies.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
         "id": "bali-odac-cuban-salsa-fiesta-sep-2026",
         "title": "ODAC Cuban Salsa Fiesta 2026 Bali Edition",
         "type": "festival",
@@ -58,22 +125,6 @@
         "summary": "Eventbrite listing by ODAC Singapore confirms a Bali edition featuring Cuban salsa workshops, masterclasses, and exclusive parties with international Cuban salsa artists.",
         "genres": [
           "latin",
-          "festival"
-        ]
-      },
-      {
-        "id": "bali-nusantara-folklore-ubud-sep-2026",
-        "title": "Nusantara International Folklore Festival – Ubud, Bali",
-        "type": "festival",
-        "startDate": "2026-09-25",
-        "endDate": "2026-09-28",
-        "importance": 70,
-        "venueName": "Ubud, Bali",
-        "venueId": null,
-        "sourceUrl": "https://niff.co.id/service/event-details/",
-        "ticketUrl": null,
-        "summary": "NIFF’s official event page confirms a non-competitive folklore gathering in Ubud where dance and music groups from around the world present cultural performances, workshops, and ceremonies.",
-        "genres": [
           "festival"
         ]
       }

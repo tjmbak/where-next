@@ -1,0 +1,318 @@
+{
+  "slug": "melbourne",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:42:34.264Z",
+  "responseId": "resp_0b4858e45d27685b006acda7a031e887d0baeeb62432346dfc+resp_0dbaa940b61ba64a006acda8498e7c87d09862155dc101f642",
+  "searchCalls": 38,
+  "citations": [],
+  "data": {
+    "destinationSlug": "melbourne",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is already anchored by Labour Day weekend festivals and outdoor garden shows, with Melbourne’s electronic and hip-hop club calendar starting to fill in around them.",
+    "events": [
+      {
+        "id": "melbourne-golden-plains-nineteen-2027",
+        "title": "Golden Plains Nineteen",
+        "type": "festival",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-08",
+        "importance": 90,
+        "venueName": "Meredith Supernatural Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://goldenplains.com.au/",
+        "ticketUrl": "https://goldenplains.com.au/",
+        "summary": "Golden Plains Nineteen is confirmed for 6–8 March 2027 at the Meredith Supernatural Amphitheatre, with the lineup still to be announced. The long-running camping festival is a major Victorian music-travel fixture over the Labour Day weekend.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-fatboy-slim-underpass-night-one-2027",
+        "title": "Novel Presents Fatboy Slim: Night One",
+        "type": "club-night",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 84,
+        "venueName": "The Underpass",
+        "venueId": null,
+        "sourceUrl": "https://novel.com.au/events/novel-presents-fatboy-slim-sold-out",
+        "ticketUrl": null,
+        "summary": "Fatboy Slim opens a two-night Novel run at The Underpass in West Melbourne. The promoter describes the setting as a new urban location beneath the elevated freeway.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-fatboy-slim-underpass-night-two-2027",
+        "title": "Novel Presents Fatboy Slim: Night Two",
+        "type": "club-night",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 84,
+        "venueName": "The Underpass",
+        "venueId": null,
+        "sourceUrl": "https://novel.com.au/events/novel-presents-fatboy-slim",
+        "ticketUrl": null,
+        "summary": "Fatboy Slim’s second Novel date at The Underpass is listed as sold out on the promoter’s event page. It completes the two-night West Melbourne run announced for March 2027.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "melbourne-live-at-gardens-avalanches-2027",
+        "title": "Live At The Gardens: The Avalanches + HAAi",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 82,
+        "venueName": "Royal Botanic Gardens Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://liveatthegardens.com.au/events/theavalanches/",
+        "ticketUrl": "https://liveatthegardens.com.au/events/theavalanches/",
+        "summary": "The Avalanches play a hometown Live At The Gardens show at Royal Botanic Gardens Melbourne with HAAi. The event is part of the open-air concert series at the Observatory Precinct.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-live-at-gardens-leon-bridges-2027",
+        "title": "Live At The Gardens: Leon Bridges + 54 Ultra + Surprise Chef",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-07",
+        "importance": 82,
+        "venueName": "Royal Botanic Gardens Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://liveatthegardens.com.au/events/leonbridges/",
+        "ticketUrl": "https://liveatthegardens.com.au/events/leonbridges/",
+        "summary": "Leon Bridges plays two Live At The Gardens dates at Royal Botanic Gardens Melbourne with 54 Ultra and Surprise Chef. The official listing marks 6 March as sold out and 7 March as the additional on-sale date.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "melbourne-jungle-rod-laver-2027",
+        "title": "Jungle",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 80,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/jungle-melbourne-2027/",
+        "ticketUrl": null,
+        "summary": "Jungle return to Melbourne for an arena show at Rod Laver Arena in support of their album Sunshine. The tour listing positions the group’s live show around disco, soul and dance music.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-sasha-john-digweed-timber-yard-2027",
+        "title": "Sasha & John Digweed Melbourne 2027",
+        "type": "club-night",
+        "startDate": "2027-03-07",
+        "endDate": "2027-03-07",
+        "importance": 80,
+        "venueName": "The Timber Yard",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2539344",
+        "ticketUrl": "https://ra.co/events/2539344",
+        "summary": "Sasha & John Digweed play The Timber Yard with Robbie Lowe. Resident Advisor lists the event as a progressive-house night running 17:00–23:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-fatboy-slim-underpass-2027",
+        "title": "Novel presents Fatboy Slim at The Underpass",
+        "type": "club-night",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-13",
+        "importance": 80,
+        "venueName": "The Underpass Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/novel-presents-fatboy-slim-tickets-2000228677820",
+        "ticketUrl": "https://www.eventbrite.com.au/e/novel-presents-fatboy-slim-tickets-2000228677820",
+        "summary": "Novel’s two-night Fatboy Slim takeover uses The Underpass in West Melbourne as a new concrete-and-steel dance setting rather than a conventional arena show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-beabadoobee-powerlines-2027",
+        "title": "beabadoobee: The Powerlines Tour",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "importance": 79,
+        "venueName": "Rod Laver Arena",
+        "venueId": null,
+        "sourceUrl": "https://rodlaverarena.com.au/event/beabadoobee-the-powerlines-tour-melbourne-2027/",
+        "ticketUrl": "https://www.axs.com/au/events/1588108/beabadoobee-tickets?staticDetails=staticDetails",
+        "summary": "beabadoobee brings The Powerlines Tour to Rod Laver Arena. The Melbourne arena date is part of her 2027 Australian run presented by Handsome Tours and Laneway Presents.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "melbourne-brunswick-music-festival-2027",
+        "title": "Brunswick Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-02-28",
+        "endDate": "2027-03-07",
+        "importance": 78,
+        "venueName": "Brunswick / Merri-bek venues",
+        "venueId": null,
+        "sourceUrl": "https://www.brunswickmusicfestival.com.au/",
+        "ticketUrl": null,
+        "summary": "Brunswick Music Festival returns from 28 February to 7 March 2027 across Merri-bek, with the full program still to be announced. It is one of Melbourne’s key inner-north music festivals and a strong local-culture anchor for the month.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-lucidity-festival-2027",
+        "title": "Lucidity 2027",
+        "type": "festival",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 78,
+        "venueName": "Melbourne Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://www.destroyalllines.com/tours/lucidity-2027",
+        "ticketUrl": "https://www.destroyalllines.com/tours/lucidity-2027",
+        "summary": "Destroy All Lines launches Lucidity at Melbourne Pavilion, headlined by Converge performing Jane Doe and Oathbreaker marking 10 years of Rheia. The lineup also includes Extortion, Portrayal of Guilt, The Broderick, Wiegedood, Ends In Tragedy, Blind Girls, ISUA and Melting.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "melbourne-isaiah-rashad-forum-2027",
+        "title": "Isaiah Rashad: Lil Sunny’s Awful Road Trip",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 76,
+        "venueName": "Forum Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?p=EFMC2027667IR&sh=RASISAI27&v=FRM",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?p=EFMC2027667IR&sh=RASISAI27&v=FRM",
+        "summary": "Isaiah Rashad plays Forum Melbourne on 3 March 2027. The Ticketek listing bills the show around It’s Been Awful and lists the venue as an 18+ general-admission standing event.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-kenny-dope-northcote-2027",
+        "title": "Novel Presents Kenny Dope",
+        "type": "club-night",
+        "startDate": "2027-03-07",
+        "endDate": "2027-03-07",
+        "importance": 76,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://novel.com.au/events/novel-presents-kenny-dope",
+        "ticketUrl": "https://moshtix.com.au/v2/event/kenny-dope-usa/200403?skin=northcotetheatre",
+        "summary": "Novel presents New York house figure Kenny Dope at Northcote Theatre. The promoter’s page confirms the 7 March date and frames the show around his house, hip-hop, Latin, jazz, funk, soul and reggae influences.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "melbourne-tove-lo-estrus-tour-2027",
+        "title": "Tove Lo: ESTRUS TOUR",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 75,
+        "venueName": "Margaret Court Arena",
+        "venueId": null,
+        "sourceUrl": "https://margaretcourtarena.com.au/event/tove-lo-estrus-tour-melbourne-2027/",
+        "ticketUrl": null,
+        "summary": "Tove Lo brings her ESTRUS TOUR to Margaret Court Arena with special guest Salty. The show is part of her global tour supporting her sixth album, ESTRUS.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "melbourne-isaiah-rashad-2027",
+        "title": "Isaiah Rashad — Lil Sunny’s Awful Road Trip",
+        "type": "concert",
+        "startDate": "2027-03-02",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://moshtix.com.au/v2/event/isaiah-rashad-usa-lil-sunny%E2%80%99s-awful-road-trip/200942",
+        "ticketUrl": "https://moshtix.com.au/v2/event/isaiah-rashad-usa-lil-sunny%E2%80%99s-awful-road-trip/200942",
+        "summary": "Top Dawg Entertainment rapper Isaiah Rashad brings his world tour to Northcote Theatre, a notable non-arena hip-hop booking for Melbourne in early March.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "melbourne-nemzzz-locked-in-tour-2027",
+        "title": "Nemzzz: Locked In Tour",
+        "type": "concert",
+        "startDate": "2027-03-16",
+        "endDate": "2027-03-16",
+        "importance": 72,
+        "venueName": "Northcote Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com.au/event/nemzzz-locked-in-tour-melbourne-tickets-edp1698824",
+        "ticketUrl": "https://www.livenation.com.au/event/nemzzz-locked-in-tour-melbourne-tickets-edp1698824",
+        "summary": "UK rapper Nemzzz plays Northcote Theatre on the Melbourne stop of his Locked In Tour. Live Nation lists the event as an all-ages show supporting the release of his new album.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-avalanches-haai-2027",
+        "title": "Live At The Gardens — The Avalanches with HAAi",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Royal Botanic Gardens Melbourne",
+        "venueId": null,
+        "sourceUrl": "https://liveatthegardens.com.au/events/theavalanches/",
+        "ticketUrl": "https://www.ticketmaster.com.au/live-at-the-gardens-the-avalanches-south-yarra-05-03-2027/event/130065379E4D5C99",
+        "summary": "The Avalanches’ hometown outdoor show is joined by HAAi, making it a crossover electronic event for fans of Australian sample culture and contemporary club-adjacent sounds.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "melbourne-sleep-d-tba-2027",
+        "title": "Sleep D + more",
+        "type": "club-night",
+        "startDate": "2027-03-02",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Venue TBA (Melbourne)",
+        "venueId": null,
+        "sourceUrl": "https://www.musicvictoria.com.au/resources/gig-guide/",
+        "ticketUrl": null,
+        "summary": "Melbourne/Naarm underground staples Sleep D are listed on Music Victoria’s March 2 guide at a TBA Melbourne venue; likely a leftfield house/electronic club-night worth tracking for final venue details.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

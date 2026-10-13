@@ -1,0 +1,35 @@
+{
+  "slug": "tulum",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:17:54.014Z",
+  "responseId": "resp_0fd02faca6bd0ad1006acda247331c87d09c58bb5d1b9a1c9a+resp_0b4afb02ad591451006acda274c4a887d085bf9ad7f9b32c7f",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 2,
+    "year": 2027,
+    "notes": "As of the latest available confirmations, February 2027 has very few announced Tulum music events; Arena Festival is the only solid music-travel event crossing into the month.",
+    "events": [
+      {
+        "id": "tulum-arena-festival-2027",
+        "title": "Arena Festival 2027: 15th Anniversary",
+        "type": "festival",
+        "startDate": "2027-01-28",
+        "endDate": "2027-02-01",
+        "importance": 85,
+        "venueName": "Playa del Carmen and Tulum, Riviera Maya",
+        "venueId": null,
+        "sourceUrl": "https://arena.mx/",
+        "ticketUrl": "https://accesos.fullpass-ticket.com/checkout/arena-festival-15th-aniversary-2027-y2ko4b",
+        "summary": "Arena Festival’s 15th anniversary edition is confirmed for January 28–February 1, 2027 across Playa del Carmen and Tulum, with five days, eight parties, 30+ DJs, and a main party connected to Zamna Tulum. The official festival page notes Offer Nissim main party access within the pass while the full lineup is being revealed progressively.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -2,78 +2,343 @@
   "slug": "new-orleans",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:58:04.242Z",
-  "responseId": "resp_01aa6cbeda0cc5350069ffd79fce148194ba3a043875cd3875",
-  "searchCalls": 18,
+  "generatedAt": "2026-10-13T02:35:54.945Z",
+  "responseId": "resp_0d6de3a9a0c03e0a006acd97d8b3cc87d096db2dc9d9f014d7+resp_0b5908c6032947d8006acd98a210a487d08514c51dafe3e085",
+  "searchCalls": 33,
   "citations": [],
   "data": {
     "destinationSlug": "new-orleans",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 already has a strong confirmed spread: a major local funk festival, arena hip-hop and gospel dates, and touring rock/jazz/electronic-leaning concerts across key New Orleans rooms.",
+    "notes": "October 2026 in New Orleans is anchored by citywide local-music programming, funk/blues festivals, Halloween electronic blowouts, and neighborhood culture festivals rather than one single flagship event.",
     "events": [
       {
-        "id": "new-orleans-akeem-ali-republic-oct-2026",
-        "title": "Akeem Ali at Republic NOLA",
-        "type": "concert",
-        "startDate": "2026-10-06",
-        "endDate": "2026-10-06",
-        "importance": 62,
-        "venueName": "Republic NOLA",
+        "id": "new-orleans-nolaxnola-2026",
+        "title": "NOLAxNOLA 2026",
+        "type": "festival",
+        "startDate": "2026-09-24",
+        "endDate": "2026-10-04",
+        "importance": 90,
+        "venueName": "Citywide New Orleans venues",
         "venueId": null,
-        "sourceUrl": "https://www.songkick.com/concerts/43135055-akeem-ali-at-republic-nola",
-        "ticketUrl": "https://www.songkick.com/concerts/43135055-akeem-ali-at-republic-nola",
-        "summary": "Akeem Ali is confirmed for an October 6 hip-hop show at Republic NOLA, with doors listed at 8:00 PM. The listing routes tickets through See Tickets US.",
+        "sourceUrl": "https://www.neworleans.com/nolaxnola/",
+        "ticketUrl": "https://www.neworleans.com/nolaxnola/",
+        "summary": "Citywide 11-day live-music celebration with 300+ shows at 50 venues, showcasing New Orleans musicians and cultural artists across neighborhoods. October highlights include River Eckert Generations of Groove, Louisiana Philharmonic with Tank & The Bangas and Dawn Richard, and NOLAxNOLA Talks.",
+        "genres": [
+          "festival",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-freaky-deaky-nola-2026",
+        "title": "Freaky Deaky New Orleans 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 90,
+        "venueName": "Mardi Gras World",
+        "venueId": null,
+        "sourceUrl": "https://freakydeakynola.com/",
+        "ticketUrl": "https://wl.eventim.us/event/Freaky-Deaky-New-Orleans/695020?afflky=FreakyDeakyNOLA",
+        "summary": "Freaky Deaky debuts in New Orleans for Halloween weekend at Mardi Gras World. The confirmed lineup includes Porter Robinson (DJ Set), Of The Trees, Dabin, FISHER, Chris Lorenzo, Devault, JKYL & HYDE, Canabliss, Xandra and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-nola-funk-fest-2026",
+        "title": "NOLA Funk Fest 2026",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-18",
+        "importance": 86,
+        "venueName": "Audubon Aquarium Riverfront Park",
+        "venueId": null,
+        "sourceUrl": "https://www.nolafunkfest.com/",
+        "ticketUrl": "https://www.nolafunkfest.com/",
+        "summary": "NOLA Funk Fest returns on the riverfront for three days celebrating Louisiana music history. The official 2026 lineup features Galactic, the Allen Toussaint Tribute, George Porter Jr.’s Supa’ Set, Dumpstaphunk, Brass-A-Holics, Marc Broussard and more.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-crescent-city-blues-bbq-2026",
+        "title": "Crescent City Blues & BBQ Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-11",
+        "importance": 84,
+        "venueName": "Lafayette Square Park",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzandheritage.org/2026-crescent-city-blues-bbq-festival-full-announcement/",
+        "ticketUrl": null,
+        "summary": "The New Orleans Jazz & Heritage Foundation’s 20th-anniversary Crescent City Blues & BBQ Festival is a free three-day event in Lafayette Square. Confirmed performers include Cedric Burnside, Samantha Fish, Little Freddie King, George Porter Jr. & the Runnin’ Partners, Terrance Simien and Booker T. Jones.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-national-fried-chicken-festival-2026",
+        "title": "National Fried Chicken Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-11",
+        "importance": 82,
+        "venueName": "New Orleans Lakefront / Lakefront Arena Festival Grounds",
+        "venueId": null,
+        "sourceUrl": "https://friedchickenfestival.com/music-lineup/",
+        "ticketUrl": "https://friedchickenfestival.com/",
+        "summary": "The rescheduled 10th-anniversary festival pairs food with a large music lineup: Marc Broussard and Shamarr Allen on Friday; Webbie and Big Freedia with the Louisiana Philharmonic Orchestra on Saturday; and 2 Chainz, Ying Yang Twins, Keri Hilson and A-Trak on Sunday.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-ashe-rooftop-festival-2026",
+        "title": "Ashé Rooftop Festival & Gala",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 82,
+        "venueName": "Ashé Cultural Arts Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ashenola.org/rooftop-festival-2026",
+        "ticketUrl": "https://www.ashenola.org/rooftop-festival-2026",
+        "summary": "Two-day African diaspora cultural weekend at Ashé with an Afro-chic gala and an all-day rooftop festival featuring Marsha Ambrosius, Orchestra Noir, La Reezy, Flagboy Giz, DJ Jahi of Public Enemy, and more.",
+        "genres": [
+          "festival",
+          "r-and-b",
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-widespread-panic-halloween-2026",
+        "title": "Widespread Panic Halloween Run",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "UNO Lakefront Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.arena.uno.edu/event/widespread-panic-night-1/1608/",
+        "ticketUrl": "https://www.ticketmaster.com/widespread-panic-tickets/artist/736451?venueId=221659",
+        "summary": "Widespread Panic plays a two-night Halloween weekend run at Lakefront Arena on Friday, October 30 and Saturday, October 31.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-govt-majik-felabration-2026",
+        "title": "Gov’t Majik Dirty South Afrobeat Arkestra: FELABRATION 2026",
+        "type": "concert",
+        "startDate": "2026-10-15",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "The Broadside",
+        "venueId": null,
+        "sourceUrl": "https://www.jazzgenerations.org/new-orleans?103f305d_page=1",
+        "ticketUrl": null,
+        "summary": "A 2026 birthday tribute to Fela Kuti featuring Gov’t Majik Dirty South Afrobeat Arkestra, Aurélien Barnes, and special guest Stanton Moore for a two-hour Afrobeat/funk set.",
+        "genres": [
+          "afro-house",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-art-of-the-crossfade-2026",
+        "title": "The Art of the Crossfade – New Orleans",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Music Box Village",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/the-art-of-the-crossfade-new-orleans-tickets-2001032697665",
+        "ticketUrl": "https://www.eventbrite.com/e/the-art-of-the-crossfade-new-orleans-tickets-2001032697665",
+        "summary": "Touring live remix/hip-hop mixtape experience by Josh Kun and J.PERIOD with Mumu Fresh, Daniel Crawford, Flagboy Giz, Leyla McCalla, Pell, and more, presented with Jazz Generations Initiative.",
+        "genres": [
+          "hip-hop",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-victoria-monet-frequency-love-2026",
+        "title": "Victoria Monét: Frequency Of Love Tour",
+        "type": "concert",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 75,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-new-orleans-10-30-2026/event/1B0065280B616D83",
+        "ticketUrl": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-new-orleans-10-30-2026/event/1B0065280B616D83",
+        "summary": "Grammy-winning R&B/pop artist Victoria Monét brings the Frequency Of Love Tour to The Fillmore New Orleans.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-reggae-bash-halloween-madness-2026",
+        "title": "Reggae Bash New Orleans: Halloween Madness",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Empire",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/reggae-bash-new-orleans-halloween-madness-tickets-2001777151346",
+        "ticketUrl": "https://www.eventbrite.com/e/reggae-bash-new-orleans-halloween-madness-tickets-2001777151346",
+        "summary": "Reggae Bash World’s Caribbean Halloween party at Empire, billed around dancehall, soca, reggae, Afrobeats, costume energy, and VIP/table service.",
+        "genres": [
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-treme-fall-festival-2026",
+        "title": "Tremé Fall Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 74,
+        "venueName": "St. Augustine Catholic Church Yard and surrounding Tremé streets",
+        "venueId": null,
+        "sourceUrl": "https://www.tremefest.org/",
+        "ticketUrl": null,
+        "summary": "The Tremé Fall Festival’s free festival day celebrates the historic Tremé neighborhood with local musicians, buskers, a second line, food and marketplace vendors.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-sherelle-arora-2026",
+        "title": "SHERELLE at Arora",
+        "type": "club-night",
+        "startDate": "2026-10-08",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Arora",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2548828",
+        "ticketUrl": "https://www.tixr.com/",
+        "summary": "Chore Boys bring UK high-speed club figure SHERELLE to Arora with Tokidokihoe, Freak POV, and Chore Boys for a Black/LGBTQ underground-leaning jungle and techno night.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-orleans-gentilly-fest-2026",
+        "title": "Gentilly Fest 2026",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-11",
+        "importance": 72,
+        "venueName": "Pontchartrain Park",
+        "venueId": null,
+        "sourceUrl": "https://www.gentillyfestival.com/entertainment",
+        "ticketUrl": null,
+        "summary": "Gentilly Fest’s 2026 mainstage schedule includes local DJs, singers and bands, with Saturday headlined by Dawn Richard and Sunday closing with Captain Charles & Friends featuring Roi Antony, Ronnie Bell, Lacee and LYSA.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-dj-soul-sister-80s-party-2026",
+        "title": "DJ Soul Sister’s ’80s Party: No Parking on the Dance Floor",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 72,
+        "venueName": "Tipitina's Uptown",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://ra.co/events/2549525",
+        "ticketUrl": "https://ra.co/events/2549525",
+        "summary": "A signature New Orleans vinyl dance party from DJ Soul Sister, focused on classic and underground ’80s R&B, funk, electro and hip-hop, hosted by MC Charlie V.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-soul-rebels-dba-2026",
+        "title": "The Soul Rebels at d.b.a.",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "d.b.a.",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/the-soul-rebels-at-dba-tickets-2002674920598",
+        "ticketUrl": "https://www.eventbrite.com/e/the-soul-rebels-at-dba-tickets-2002674920598",
+        "summary": "Late Frenchmen Street set from The Soul Rebels, the New Orleans brass ensemble known for fusing soul, jazz, funk, hip-hop, rock, and pop in a party-driven live format.",
+        "genres": [
+          "jazz",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-dominican-nola-fest-2026",
+        "title": "Dominican NOLA Fest",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "New Orleans Jazz Museum",
+        "venueId": null,
+        "sourceUrl": "https://nolajazzmuseum.org/events/2026/10/17/dominican-nola-fest",
+        "ticketUrl": null,
+        "summary": "Hispanic Heritage Month festival celebrating Dominican Republic, Caribbean, and New Orleans cultural connections through music, dance, gastronomy, history, arts, and workshops.",
+        "genres": [
+          "festival",
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-cupcakke-2026",
+        "title": "CupcakKe",
+        "type": "concert",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1551989/cupcakke-tickets",
+        "ticketUrl": "https://www.axs.com/events/1551989/cupcakke-tickets",
+        "summary": "Chicago rapper CupcakKe plays House of Blues New Orleans on her October tour date.",
         "genres": [
           "hip-hop"
         ]
       },
       {
-        "id": "new-orleans-lp-house-of-blues-oct-2026",
-        "title": "LP - All Is Not Lost Tour",
+        "id": "new-orleans-johnny-blue-skies-lakefront-oct-2026",
+        "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
         "type": "concert",
-        "startDate": "2026-10-06",
-        "endDate": "2026-10-06",
-        "importance": 70,
-        "venueName": "House of Blues New Orleans",
+        "startDate": "2026-10-27",
+        "endDate": "2026-10-27",
+        "importance": 84,
+        "venueName": "UNO Lakefront Arena",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-new-orleans-louisiana-10-06-2026/event/1B00649B19EFAA54",
-        "ticketUrl": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-new-orleans-louisiana-10-06-2026/event/1B00649B19EFAA54",
-        "summary": "LP brings the All Is Not Lost Tour to House of Blues New Orleans on October 6, with doors at 7:00 PM and show time listed at 8:00 PM.",
+        "sourceUrl": "https://www.arena.uno.edu/event/johnny-blue-skies-%26-the-dark-clouds-mutiny-for-the-masses-2026-tour/1592/",
+        "ticketUrl": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-new-orleans-louisiana-10-27-2026/event/1B00647CEC717A79",
+        "summary": "Johnny Blue Skies & the Dark Clouds bring the Mutiny for the Masses 2026 Tour to UNO Lakefront Arena on October 27 at 8:00 PM. The venue confirms Ticketmaster as the official ticketing provider for the show.",
         "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "new-orleans-amyl-sniffers-fillmore-oct-2026",
-        "title": "Amyl and the Sniffers at The Fillmore New Orleans",
-        "type": "concert",
-        "startDate": "2026-10-08",
-        "endDate": "2026-10-08",
-        "importance": 76,
-        "venueName": "The Fillmore New Orleans",
-        "venueId": null,
-        "sourceUrl": "https://www.livenation.com/event/G5viZ_kmIzuPN/amyl-and-the-sniffers",
-        "ticketUrl": "https://www.ticketmaster.com/amyl-and-the-sniffers-new-orleans-louisiana-10-08-2026/event/1B00646BA8E0D963",
-        "summary": "Australian punk-rock band Amyl and the Sniffers headline The Fillmore New Orleans on October 8. Live Nation lists Hunx & His Punx and Edging on the bill.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "new-orleans-parcels-saenger-oct-2026",
-        "title": "Parcels - Loved Tour 2026",
-        "type": "concert",
-        "startDate": "2026-10-10",
-        "endDate": "2026-10-10",
-        "importance": 78,
-        "venueName": "Saenger Theatre, New Orleans",
-        "venueId": null,
-        "sourceUrl": "https://us.atgtickets.com/events/parcels/saenger-theatre/",
-        "ticketUrl": "https://us.atgtickets.com/events/parcels/saenger-theatre/",
-        "summary": "Parcels bring the Loved Tour 2026 to the Saenger Theatre on October 10 at 8:00 PM CT. The official ATG listing describes the Byron Bay/Berlin band’s live-focused North American tour.",
-        "genres": [
-          "electronic",
           "pop"
         ]
       },
@@ -95,36 +360,19 @@
         ]
       },
       {
-        "id": "new-orleans-nola-funk-fest-oct-2026",
-        "title": "NOLA Funk Fest 2026",
-        "type": "festival",
-        "startDate": "2026-10-16",
-        "endDate": "2026-10-18",
-        "importance": 88,
-        "venueName": "Woldenberg Riverfront Park / Audubon Aquarium Riverfront",
-        "venueId": null,
-        "sourceUrl": "https://www.eventbrite.com/e/nola-funk-fest-2026-presented-by-mikes-amazing-tickets-1976668952046",
-        "ticketUrl": "https://www.eventbrite.com/e/nola-funk-fest-2026-presented-by-mikes-amazing-tickets-1976668952046",
-        "summary": "NOLA Funk Fest 2026 is confirmed as a three-day New Orleans music and culture festival running October 16–18. Announced artists include Galactic, George Porter Jr. projects, Irma Thomas, Ivan Neville, Cyril Neville, Anders Osborne and other Louisiana-rooted performers.",
-        "genres": [
-          "festival",
-          "jazz",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "new-orleans-clutch-house-of-blues-oct-2026",
-        "title": "CLUTCH: US Fall Tour",
+        "id": "new-orleans-parcels-saenger-oct-2026",
+        "title": "Parcels - Loved Tour 2026",
         "type": "concert",
-        "startDate": "2026-10-22",
-        "endDate": "2026-10-22",
-        "importance": 70,
-        "venueName": "House of Blues New Orleans",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 78,
+        "venueName": "Saenger Theatre, New Orleans",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/clutch-us-fall-tour-new-orleans-louisiana-10-22-2026/event/1B00647FAA1AEA91",
-        "ticketUrl": "https://www.ticketmaster.com/clutch-us-fall-tour-new-orleans-louisiana-10-22-2026/event/1B00647FAA1AEA91",
-        "summary": "Clutch’s US Fall Tour stops at House of Blues New Orleans on October 22. Ticketmaster lists Slomosa and Blood Vulture as support.",
+        "sourceUrl": "https://us.atgtickets.com/events/parcels/saenger-theatre/",
+        "ticketUrl": "https://us.atgtickets.com/events/parcels/saenger-theatre/",
+        "summary": "Parcels bring the Loved Tour 2026 to the Saenger Theatre on October 10 at 8:00 PM CT. The official ATG listing describes the Byron Bay/Berlin band’s live-focused North American tour.",
         "genres": [
+          "electronic",
           "pop"
         ]
       },
@@ -145,6 +393,22 @@
         ]
       },
       {
+        "id": "new-orleans-amyl-sniffers-fillmore-oct-2026",
+        "title": "Amyl and the Sniffers at The Fillmore New Orleans",
+        "type": "concert",
+        "startDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "importance": 76,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_kmIzuPN/amyl-and-the-sniffers",
+        "ticketUrl": "https://www.ticketmaster.com/amyl-and-the-sniffers-new-orleans-louisiana-10-08-2026/event/1B00646BA8E0D963",
+        "summary": "Australian punk-rock band Amyl and the Sniffers headline The Fillmore New Orleans on October 8. Live Nation lists Hunx & His Punx and Edging on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "new-orleans-cece-winans-smoothie-king-oct-2026",
         "title": "CeCe Winans - COME WORSHIP! Tour",
         "type": "concert",
@@ -161,19 +425,20 @@
         ]
       },
       {
-        "id": "new-orleans-johnny-blue-skies-lakefront-oct-2026",
-        "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+        "id": "new-orleans-snarky-puppy-2026",
+        "title": "Snarky Puppy – Somni US Tour",
         "type": "concert",
-        "startDate": "2026-10-27",
-        "endDate": "2026-10-27",
-        "importance": 84,
-        "venueName": "UNO Lakefront Arena",
+        "startDate": "2026-10-22",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Joy Theater",
         "venueId": null,
-        "sourceUrl": "https://www.arena.uno.edu/event/johnny-blue-skies-%26-the-dark-clouds-mutiny-for-the-masses-2026-tour/1592/",
-        "ticketUrl": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-new-orleans-louisiana-10-27-2026/event/1B00647CEC717A79",
-        "summary": "Johnny Blue Skies & the Dark Clouds bring the Mutiny for the Masses 2026 Tour to UNO Lakefront Arena on October 27 at 8:00 PM. The venue confirms Ticketmaster as the official ticketing provider for the show.",
+        "sourceUrl": "https://www.fusicology.com/events/snarky-puppy-somni-us-tour-new-orleans-joy-theater/",
+        "ticketUrl": "https://www.fusicology.com/events/snarky-puppy-somni-us-tour-new-orleans-joy-theater/",
+        "summary": "Five-time Grammy-winning jazz-funk collective Snarky Puppy stop in New Orleans on the Somni US Tour, blending fusion, R&B, gospel, funk, and improvisational jazz.",
         "genres": [
-          "pop"
+          "jazz",
+          "r-and-b"
         ]
       },
       {
@@ -190,6 +455,104 @@
         "summary": "Osees play Civic Theatre on October 29 at 8:00 PM, billed as Osees ft. Brigid Dawson with Traps PS. The Live Nation listing confirms both Osees and Traps PS on the lineup.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-lp-house-of-blues-oct-2026",
+        "title": "LP - All Is Not Lost Tour",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-new-orleans-louisiana-10-06-2026/event/1B00649B19EFAA54",
+        "ticketUrl": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-new-orleans-louisiana-10-06-2026/event/1B00649B19EFAA54",
+        "summary": "LP brings the All Is Not Lost Tour to House of Blues New Orleans on October 6, with doors at 7:00 PM and show time listed at 8:00 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-clutch-house-of-blues-oct-2026",
+        "title": "CLUTCH: US Fall Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 70,
+        "venueName": "House of Blues New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/clutch-us-fall-tour-new-orleans-louisiana-10-22-2026/event/1B00647FAA1AEA91",
+        "ticketUrl": "https://www.ticketmaster.com/clutch-us-fall-tour-new-orleans-louisiana-10-22-2026/event/1B00647FAA1AEA91",
+        "summary": "Clutch’s US Fall Tour stops at House of Blues New Orleans on October 22. Ticketmaster lists Slomosa and Blood Vulture as support.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-california-honeydrops-2026",
+        "title": "The California Honeydrops with Jontavious Willis",
+        "type": "concert",
+        "startDate": "2026-10-11",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Tipitina's",
+        "venueId": "tipitinas-nola",
+        "sourceUrl": "https://www.livenation.com/event/rZ7HnEZ1AfON7d/the-california-honeydrops",
+        "ticketUrl": "https://www.livenation.com/event/rZ7HnEZ1AfON7d/the-california-honeydrops",
+        "summary": "Oakland roots/R&B party band The California Honeydrops bring a brass-heavy, New Orleans-friendly soul and blues set to Tipitina’s with Jontavious Willis supporting.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-orleans-prof-2026",
+        "title": "PROF",
+        "type": "concert",
+        "startDate": "2026-10-26",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/prof-tickets/artist/1509957",
+        "ticketUrl": "https://www.ticketmaster.com/prof-tickets/artist/1509957",
+        "summary": "Independent Minneapolis rapper PROF brings his high-energy underground hip-hop tour to the Joy Theater, a non-arena option for rap travelers in late October.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-orleans-boyfriend-pres-hall-2026",
+        "title": "BOYFRIEND at Preservation Hall",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Preservation Hall",
+        "venueId": "preservation-hall-nola",
+        "sourceUrl": "https://www.bandsintown.com/e/108182423-boyfriend-at-preservation-hall",
+        "ticketUrl": "https://www.bandsintown.com/e/108182423-boyfriend-at-preservation-hall",
+        "summary": "New Orleans-based artist BOYFRIEND plays a late Halloween-night Preservation Hall show, connecting local hyperpop/rap performance with the city’s bounce-adjacent network.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-akeem-ali-republic-oct-2026",
+        "title": "Akeem Ali at Republic NOLA",
+        "type": "concert",
+        "startDate": "2026-10-06",
+        "endDate": "2026-10-06",
+        "importance": 62,
+        "venueName": "Republic NOLA",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43135055-akeem-ali-at-republic-nola",
+        "ticketUrl": "https://www.songkick.com/concerts/43135055-akeem-ali-at-republic-nola",
+        "summary": "Akeem Ali is confirmed for an October 6 hip-hop show at Republic NOLA, with doors listed at 8:00 PM. The listing routes tickets through See Tickets US.",
+        "genres": [
+          "hip-hop"
         ]
       }
     ]

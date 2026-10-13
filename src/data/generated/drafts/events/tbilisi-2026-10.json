@@ -2,16 +2,328 @@
   "slug": "tbilisi",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:55:32.190Z",
-  "responseId": "resp_0fcf8ffe68b2a7dc0069ff66a99b34819ea9f07e0ebb317765",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:33:28.670Z",
+  "responseId": "resp_0f9892794ba40786006acd97c70eb087d0adc4cabb61e2291a+resp_0bc65350587f87fd006acd981d80fc87d0a33ca77ed80aba01",
+  "searchCalls": 26,
   "citations": [],
   "data": {
     "destinationSlug": "tbilisi",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 has few major club calendars confirmed this far out; the verified calendar is led by classical, choral, and folk-arts events rather than announced Bassiani/KHIDI residencies.",
+    "notes": "October 2026 is anchored by Tbilisi’s heavyweight electronic institutions—4GB, Bassiani, KHIDI and queer-led parties—while hip-hop and bass nights broaden the travel-worthy calendar.",
     "events": [
+      {
+        "id": "tbilisi-bassiani-12-2026",
+        "title": "Bassiani 12",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-12",
+        "importance": 95,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2484544",
+        "ticketUrl": null,
+        "summary": "Bassiani marks its 12th anniversary with a marathon across Bassiani and Horoom featuring Rødhåd, MARRØN, Truncate, µ-Ziq live, Cassy, Ryan Elliott, Lawrence, Lowtec & Kassem Mosse, DJ Sodeyama, Erika and many more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-4gb-festival-2026",
+        "title": "4GB Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-04",
+        "importance": 94,
+        "venueName": "Loco Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2529754",
+        "ticketUrl": "https://ra.co/events/2529754",
+        "summary": "4GB returns to Loco Park for a multi-day electronic festival with Miss Kittin, Perc, DJ Sotofett, Ivan Smagghe, IMOGEN, Map.ache, Boyd Schidt, Tomma, Vakho, Zurkin and many more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "tbilisi-wings-of-desire-8-2026",
+        "title": "Wings of Desire: 8th Biannual Queer Gathering",
+        "type": "festival",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 88,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2550281",
+        "ticketUrl": null,
+        "summary": "Bassiani’s biannual queer gathering takes over Bassiani, Horoom and Aarmass with a large multidisciplinary lineup including 2CIU, Creams & Liza Rivs, HerShey, Knaughty, Memotech, Sophie Phare and many more.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tbilisi-hip-hop-festival-2026",
+        "title": "Tbilisi Hip-Hop Festival",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 86,
+        "venueName": "Factory Tbilisi",
+        "venueId": null,
+        "sourceUrl": "https://biletebi.ge/en/concerts/hip-hop-fest",
+        "ticketUrl": "https://biletebi.ge/en/concerts/hip-hop-fest",
+        "summary": "The inaugural Tbilisi Hip-Hop Festival brings Talib Kweli and FLOHIO to Factory Tbilisi, with beat battles, Red Bull Dance Your Style, graffiti, film screenings and hip-hop culture programming.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-oct23-2026",
+        "title": "Bassiani – Horoom: The Advent, Josey Rebelle, Samuel Kerridge",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 85,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2523960",
+        "ticketUrl": null,
+        "summary": "Bassiani hosts The Advent, HVL, Cypher, Josey Rebelle and Samuel Kerridge live, while Horoom features Dito, MESH, Ulf Eriksson and Vakho.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-oct16-2026",
+        "title": "Bassiani – Horoom: Anthony Rother, Virginia, Gonno, Hasvat Informant",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 84,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2534440",
+        "ticketUrl": null,
+        "summary": "Anthony Rother performs a hybrid electro set at Bassiani alongside Hasvat Informant, Nikala, 3AM, Beka Wu live and Thomas Hessler b2b Ina Kacz; Horoom hosts Gonno, Edge, Tomma and Virginia.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tbilisi-curated-by-kancheli-2026",
+        "title": "Curated By Resident: Kancheli",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 84,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2544888",
+        "ticketUrl": null,
+        "summary": "Bassiani resident Kancheli curates a two-room night with Kancheli b2b Jessie Granqvist, Dorisburg live, Thanos Hana live, Albert van Abbe, Eric Cloutier, Hamatsuki, Kdema, Kvanchi and TaronX.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-ancient-methods-2026",
+        "title": "KHIDI: Ancient Methods, Alexandra, Demuja, Sevda",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://ra.co/events/2542198",
+        "ticketUrl": "https://khidi.ge/event/161026/",
+        "summary": "KHIDI hosts an all-night-long main-room set from Ancient Methods, while G2 features Alexandra, Demuja and Sevda across house, dub, techno and progressive trance/house.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-eau-de-cologne-oct-2026",
+        "title": "Eau De Cologne",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 82,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://bassiani.com/eau-de-cologne/#register",
+        "ticketUrl": "https://bassiani.com/eau-de-cologne/#register",
+        "summary": "Bassiani’s queer sex-positive party Eau De Cologne returns with Citizens Union, Kiddy Smile, Natuta and Vince, with the event framed around inclusivity, consent and expressive dress code.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-halloween-oct30-2026",
+        "title": "KHIDI Halloween Night: Curses, Parrish Smith, Natalie Beridze",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 80,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://khidi.ge/event/301026/",
+        "ticketUrl": "https://khidi.ge/event/301026/",
+        "summary": "KHIDI’s Halloween night features Curses, Parrish Smith, Carmilla Sioux and Natalie Beridze, with the venue highlighting new wave, Italo disco, EBM, punk, rock, techno and experimental electronics.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-david-vunk-pablo-bozzi-2026",
+        "title": "KHIDI: David Vunk, Pablo Bozzi, Puritan, Saphileaum",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 76,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://khidi.ge/event/101025/",
+        "ticketUrl": "https://khidi.ge/event/101025/",
+        "summary": "KHIDI welcomes Pablo Bozzi and David Vunk on the main stage with residents Puritan and Saphileaum; G2 hosts Boyd Schidt, Frequency Shifter, Ketato M and Vnjoka.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-carbon-based-lifeforms-2026",
+        "title": "Carbon Based Lifeforms - Tbilisi",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 76,
+        "venueName": "Elektrowerk",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2508079",
+        "ticketUrl": "https://ra.co/events/2508079",
+        "summary": "Swedish psy-ambient duo Carbon Based Lifeforms perform at Elektrowerk, presenting the 20th anniversary of World of Sleepers alongside later material and a new unreleased composition.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-khidi-halloween-2026",
+        "title": "KHIDI Halloween: Carmilla Sioux, Curses, Downwell, Natalie Beridze, Parrish Smith",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "KHIDI",
+        "venueId": "khidi-tbilisi",
+        "sourceUrl": "https://ra.co/events/2549943",
+        "ticketUrl": "https://ra.co/events/2549943",
+        "summary": "KHIDI’s Halloween night leans into dark-wave, EBM, electro, experimental electronics and techno with Carmilla Sioux, Curses, Downwell, Natalie Beridze live and Parrish Smith, plus a G2 room from Body Pressure, Leü and Sevda b2b Ash Scholem.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-oct2-2026",
+        "title": "Horoom: DJ Sense, Obri, Seqta, Trotsky b2b Mtvare",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 72,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2512734",
+        "ticketUrl": null,
+        "summary": "Bassiani’s Horoom room hosts a local-heavy night with DJ Sense, Obri, Seqta and a Trotsky b2b Mtvare set focused on trance, acid house, techno, electro and breaks.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-blue-balls-meat-packer-2026",
+        "title": "Blue Balls: Meat-Packer",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 72,
+        "venueName": "Cafe-Gallery",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2558111",
+        "ticketUrl": "https://ra.co/events/2558111",
+        "summary": "Blue Balls brings its Meat-Packer edition to Cafe-Gallery with Mtvare, Leü and Magrra, leaning into house and electro with a queer club-night sensibility.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-mtkvarze-14th-anniversary-2026",
+        "title": "Mtkvarze 14th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Mtkvarze",
+        "venueId": "mtkvarze-tbilisi",
+        "sourceUrl": "https://ra.co/events/2558619",
+        "ticketUrl": "https://ra.co/events/2558619",
+        "summary": "Mtkvarze marks its 14th anniversary across main and small rooms with Kraumur b2b Tevz, Zurkin b2b DJ Astrobee, Tomma b2b Nika J and Rene b2b Parna.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tbilisi-helheim-f2f-oct-2026",
+        "title": "HELHEIM 3rd F2F Edition",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 70,
+        "venueName": "Revolution Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2545972",
+        "ticketUrl": "https://ra.co/events/2545972",
+        "summary": "HELHEIM’s third face-to-face edition takes over Revolution Club near Baratashvili Bridge with a long hard-techno, industrial, schranz and hardcore lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-madlobass-oct-2026",
+        "title": "MADLOBASS",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 70,
+        "venueName": "Spaceroom",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2547128",
+        "ticketUrl": "https://ra.co/events/2547128",
+        "summary": "MADLOBASS returns to Spaceroom with Granul, The Machete Boyz, irrationalizard, 2rNick, Goka and RafDog for a deep-bass, dubstep, grime, jungle and UK-garage-leaning night.",
+        "genres": [
+          "electronic"
+        ]
+      },
       {
         "id": "tbilisi-piano-competition-2026",
         "title": "The VIII Tbilisi International Piano Competition",

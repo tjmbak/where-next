@@ -1,0 +1,141 @@
+{
+  "slug": "sao-paulo",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:48:38.686Z",
+  "responseId": "resp_09d51f53bbdad232006acda969f45087d087a02f6257ab2c0a+resp_05701647cb40f4f4006acda9bb393c87d083936053aeb5ecba",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 4,
+    "year": 2027,
+    "notes": "At this lead time, April 2027 is anchored by confirmed arena/club touring shows, Bangers Open Air, and Tomorrowland Brasil just outside São Paulo; most underground club calendars are not yet announced.",
+    "events": [
+      {
+        "id": "sao-paulo-tomorrowland-brasil-2027",
+        "title": "Tomorrowland Brasil 2027",
+        "type": "festival",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 100,
+        "venueName": "Parque Maeda",
+        "venueId": null,
+        "sourceUrl": "https://brasil.tomorrowland.com/en/welcome/",
+        "ticketUrl": "https://brasil.tomorrowland.com/en/welcome/",
+        "summary": "Tomorrowland Brasil is confirmed for April 30–May 2, 2027 at Parque Maeda in Itu, São Paulo, with the Consciencia theme and more than 150 artists planned across multiple stages.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-bangers-open-air-2027",
+        "title": "Bangers Open Air 2027",
+        "type": "festival",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-25",
+        "importance": 88,
+        "venueName": "Memorial da América Latina",
+        "venueId": null,
+        "sourceUrl": "https://www2.clubedoingresso.com/evento/bangersopenair2027",
+        "ticketUrl": "https://www2.clubedoingresso.com/evento/bangersopenair2027",
+        "summary": "Bangers Open Air returns to Memorial da América Latina on April 24–25, with confirmed acts including Lacuna Coil, HammerFall, Floor Jansen, Quiet Riot, Soen, Eluveitie, Soilwork and Kanonenfieber.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-gop-tun-festival-2027",
+        "title": "Gop Tun Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-10",
+        "importance": 84,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.technoairlines.com/festival/gop-tun-festival-sao-paulo-brazil-2027",
+        "ticketUrl": "https://goptun.com.br/",
+        "summary": "São Paulo’s Gop Tun collective returns with its annual two-day house and techno festival, a destination event for Brazil’s independent electronic scene.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-louis-tomlinson-apr-2027",
+        "title": "Louis Tomlinson: How Did We Get Here? Latin American Tour",
+        "type": "concert",
+        "startDate": "2027-04-06",
+        "endDate": "2027-04-07",
+        "importance": 82,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/louis-tomlinson",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/louis-tomlinson",
+        "summary": "Louis Tomlinson brings his How Did We Get Here? Latin American Tour to São Paulo for two confirmed nights at Suhai Music Hall, including an added second date on April 7.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-pixies-2027",
+        "title": "Pixies",
+        "type": "concert",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-09",
+        "importance": 80,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/pixies-espaco-unimed-22054307/",
+        "ticketUrl": "https://www.eventim.com.br/event/pixies-espaco-unimed-22054307/",
+        "summary": "Pixies play a confirmed São Paulo headline show at Espaço Unimed on April 9, part of the band’s South America headline run celebrating four decades of activity.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-slash-myles-kennedy-2027",
+        "title": "Slash featuring Myles Kennedy and The Conspirators",
+        "type": "concert",
+        "startDate": "2027-04-14",
+        "endDate": "2027-04-14",
+        "importance": 78,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/slash-featuring-myles-kennedy-and-the-conspirators-2027-espaco-unimed-22229536/",
+        "ticketUrl": "https://www.eventim.com.br/event/slash-featuring-myles-kennedy-and-the-conspirators-2027-espaco-unimed-22229536/",
+        "summary": "Slash, Myles Kennedy and The Conspirators are confirmed at Espaço Unimed on April 14, 2027, on their 2027 tour cycle.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-jet-2027",
+        "title": "JET em São Paulo",
+        "type": "concert",
+        "startDate": "2027-04-18",
+        "endDate": "2027-04-18",
+        "importance": 72,
+        "venueName": "Audio",
+        "venueId": "audio-club-sp",
+        "sourceUrl": "https://www.ticket360.com.br/evento/34244/ingressos-para-jet-em-sao-paulo",
+        "ticketUrl": "https://www.ticket360.com.br/evento/34244/ingressos-para-jet-em-sao-paulo",
+        "summary": "Australian band JET are confirmed for Audio on April 18, billed as their first show in Brazil and part of the JET 2027 South America Tour.",
+        "genres": []
+      },
+      {
+        "id": "sao-paulo-cockney-rejects-2027",
+        "title": "Cockney Rejects: South America 2027",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 66,
+        "venueName": "Hangar 110",
+        "venueId": null,
+        "sourceUrl": "https://pixelticket.com.br/eventos/33120/cockney-rejects",
+        "ticketUrl": "https://pixelticket.com.br/eventos/33120/cockney-rejects",
+        "summary": "UK punk band Cockney Rejects are confirmed for Hangar 110 on April 17, with Inocentes and Few Thoughts listed as guests.",
+        "genres": []
+      }
+    ]
+  }
+}

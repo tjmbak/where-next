@@ -1,0 +1,319 @@
+{
+  "slug": "berlin",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:42:15.153Z",
+  "responseId": "resp_06eb5ce3f0531727006acda7e6c9ac87d09a971b7c02e8f7e6+resp_09d33550f2f0d582006acda840b23887d09353eda8e1640ec1",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is already anchored by a new RAYE-led Access All Areas festival, early confirmed club-programming around May Day, and a strong German rap/pop concert run.",
+    "events": [
+      {
+        "id": "berlin-access-all-areas-2027",
+        "title": "Access All Areas",
+        "type": "festival",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-25",
+        "importance": 84,
+        "venueName": "Station Berlin and Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://corporate.zalando.com/en/company/access-all-areas-zalandos-bold-new-music-fashion-and-culture-festival-coming-berlin-2027",
+        "ticketUrl": "https://corporate.zalando.com/en/company/access-all-areas-zalandos-bold-new-music-fashion-and-culture-festival-coming-berlin-2027",
+        "summary": "Zalando launches Access All Areas, a two-day music, fashion and culture festival across Station Berlin and Tempodrom, with RAYE announced as headliner. Zalando confirms 24–25 April 2027 and up to 40,000 visitors expected.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-maffay-oerding-nashville-2027",
+        "title": "Maffay + Oerding - Nashville Live 2027",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 80,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/maffay-oerding/",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/maffay-oerding/",
+        "summary": "Peter Maffay and Johannes Oerding bring their Nashville project to Uber Arena. The arena confirms the Berlin concert for 17 April 2027 at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-trettmann-stadt-aus-gold-2027",
+        "title": "Trettmann - Stadt aus Gold",
+        "type": "concert",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-04",
+        "importance": 79,
+        "venueName": "UFO im Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/trettmann-stadt-aus-gold-velodrom-22132534/",
+        "ticketUrl": "https://www.eventim.de/en/event/trettmann-stadt-aus-gold-velodrom-22132534/",
+        "summary": "Trettmann brings his Stadt aus Gold show to UFO im Velodrom. Eventim confirms the Berlin date for 4 April 2027 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-snarky-puppy-2027",
+        "title": "Snarky Puppy - Tour 2027",
+        "type": "concert",
+        "startDate": "2027-04-13",
+        "endDate": "2027-04-13",
+        "importance": 78,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.snarkypuppy.com/tour",
+        "ticketUrl": "https://www.berlin.de/tickets/jazz/snarky-puppy-tour-2027/2027-04-13-snarky-puppy-c52a2d46-1aa2-43d0-9e7b-3cbb16063698/",
+        "summary": "Snarky Puppy perform at Columbiahalle as part of their 2027 tour. The band's official tour page lists Columbiahalle, Berlin for 13 April 2027.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-simple-minds-european-tour-2027",
+        "title": "Simple Minds - European Tour Live 2027",
+        "type": "concert",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-21",
+        "importance": 78,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/simple-minds-european-tour-live-2027-uber-arena-berlin-21973072/",
+        "ticketUrl": "https://www.eventim.de/en/event/simple-minds-european-tour-live-2027-uber-arena-berlin-21973072/",
+        "summary": "Simple Minds play Uber Arena on their European Tour Live 2027. Eventim confirms the Berlin date for 21 April 2027 at 19:45.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-ak-ausserkontrolle-2027",
+        "title": "AK Ausserkontrolle - Auf die Harte Tour",
+        "type": "concert",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 77,
+        "venueName": "UFO im Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://neu.ufo-velodrom.de/events/event/ak-ausserkontrolle-ufo-2027-04-03",
+        "ticketUrl": "https://www.eventim.de/en/event/ak-ausserkontrolle-auf-die-harte-tour-velodrom-21732004/",
+        "summary": "Berlin street-rap artist AK Ausserkontrolle plays a hometown UFO im Velodrom date on his Auf die Harte Tour. The venue confirms the 3 April 2027 show with 18:30 doors and 20:00 start.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-piepshow-aprilpiep-2027",
+        "title": "PiepShow - AprilPiep",
+        "type": "club-night",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-24",
+        "importance": 75,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://technobeatscloud.com/en/events/event/piepshow-aprilpiep-kitkatclub-2027-04-23",
+        "ticketUrl": null,
+        "summary": "Monthly PiepShow queer techno rave at KitKatClub, advertised as a 14-hour party with multiple dancefloors and techno/house sounds.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-weltauswahl-extrawelt-2027",
+        "title": "Weltauswahl by Extrawelt",
+        "type": "club-night",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-10",
+        "importance": 74,
+        "venueName": "Ritter Butzke",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423314",
+        "ticketUrl": "https://ra.co/events/2423314",
+        "summary": "Extrawelt headlines a live techno edition of Weltauswahl at Ritter Butzke. Resident Advisor confirms the 10 April 2027 event and the 22:00–08:00 runtime.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-passenger-wild-love-2027",
+        "title": "Passenger - Wild Love Tour",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 74,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/passenger_2027-04-17_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/passenger_2027-04-17_20/",
+        "summary": "Passenger, the project of Mike Rosenberg, plays Tempodrom on the Wild Love Tour. The venue confirms the 17 April 2027 show with 18:30 doors and 20:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-small-great-house-festival-2027",
+        "title": "SMALL GREAT HOUSE FESTIVAL 'Open Air & Indoor +53H Non-Stop' + Special Guests",
+        "type": "festival",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 74,
+        "venueName": "OXI",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2556737",
+        "ticketUrl": "https://ra.co/events/2556737",
+        "summary": "A 53-hour open-air and indoor house/disco weekender at OXI from Small Great Things, returning after its first edition with classic house headliners and side programming promised.",
+        "genres": [
+          "house",
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-lune-ueberlebt-2027",
+        "title": "LUNE - Überlebt Tour 2027",
+        "type": "concert",
+        "startDate": "2027-04-15",
+        "endDate": "2027-04-15",
+        "importance": 73,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/lune_2027-04-15_19/tickets/",
+        "ticketUrl": "https://www.tempodrom.de/event/lune_2027-04-15_19/tickets/",
+        "summary": "German-French pop/R&B artist LUNE brings the Überlebt Tour to Tempodrom. The venue confirms the 15 April 2027 date, 18:00 doors and 19:30 start.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-1986zig-ich-komme-nach-hause-2027",
+        "title": "1986zig - Ich komme nach Hause Tour",
+        "type": "concert",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-22",
+        "importance": 72,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/1986zig-ich-komme-nach-hause-tour-columbiahalle-20645135/",
+        "ticketUrl": "https://www.eventim.de/en/event/1986zig-ich-komme-nach-hause-tour-columbiahalle-20645135/",
+        "summary": "German masked singer/rapper 1986zig performs at Columbiahalle on the Ich komme nach Hause Tour. Eventim confirms the 22 April 2027 Berlin show at 20:00.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-bcco-future666-2027",
+        "title": "BCCO x future.666",
+        "type": "club-night",
+        "startDate": "2027-04-30",
+        "endDate": "2027-04-30",
+        "importance": 72,
+        "venueName": "Haus der Visionäre",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2541063",
+        "ticketUrl": "https://ra.co/events/2541063",
+        "summary": "BCCO teams with future.666 for a May Day weekend session at Haus der Visionäre, billed as all night and all day long with b2bs. Resident Advisor confirms the 30 April 2027 date and 22:00–08:00 runtime.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-wa22ermann-knax-2027",
+        "title": "Wa22ermann - KNAX Tour 2026",
+        "type": "concert",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 70,
+        "venueName": "Festsaal Kreuzberg",
+        "venueId": null,
+        "sourceUrl": "https://festsaal-kreuzberg.de/de/programm/wa22ermann/",
+        "ticketUrl": "https://festsaal-kreuzberg.de/de/programm/wa22ermann/",
+        "summary": "Berlin rapper Wa22ermann brings her rescheduled KNAX tour to Festsaal Kreuzberg. The venue listing confirms the 1 April 2027 date, 19:00 doors and 20:00 start.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-goat-ball-mai-xxl-2027",
+        "title": "GOAT BALL 1ST OF MAI XXL EDITION",
+        "type": "club-night",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 70,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552627",
+        "ticketUrl": null,
+        "summary": "GOAT BALL’s May Day XXL edition at Lokschuppen Berlin is confirmed as a long-format Apr 30–May 2 party, with trance/electronica billing and lineup still TBA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-audio88-erste-solo-tour-2027",
+        "title": "Audio88 - Erste Solo Tour",
+        "type": "concert",
+        "startDate": "2027-04-25",
+        "endDate": "2027-04-25",
+        "importance": 69,
+        "venueName": "Lido",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/event/audio88-erste-solo-tour-lido-22076155/",
+        "ticketUrl": "https://www.eventim.de/event/audio88-erste-solo-tour-lido-22076155/",
+        "summary": "Audio88 plays Lido on his first solo tour after years with Audio88 & Yassin. Eventim confirms the Berlin concert for 25 April 2027 at 20:00.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-dent-may-kantine-2027",
+        "title": "Dent May (US / Carpark Records)",
+        "type": "concert",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-22",
+        "importance": 64,
+        "venueName": "Kantine am Berghain",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2513258",
+        "ticketUrl": "https://ra.co/events/2513258",
+        "summary": "Dent May plays Kantine am Berghain with support, presented by Crunch Tapes and Positive Transmitter. Resident Advisor confirms the 22 April 2027 date and 20:00–23:00 runtime.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-whalien-suicide-circus-2027",
+        "title": "WHALIEN",
+        "type": "club-night",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-24",
+        "importance": 64,
+        "venueName": "Suicide Circus Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketswap.com/concert-tickets/g/techno/germany/berlin/april",
+        "ticketUrl": "https://www.ticketswap.com/concert-tickets/g/techno/germany/berlin/april",
+        "summary": "A confirmed April techno listing for WHALIEN at Suicide Circus Berlin, dated Apr 23–24 on TicketSwap’s Berlin techno calendar.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

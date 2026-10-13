@@ -1,0 +1,100 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:34:29.122Z",
+  "responseId": "resp_0189beda12e6005e006acda629dc3887d097b004c7cb7159b6+resp_0ad4112fd6273a89006acda6845b6887d083e76114a94d39e7",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 3,
+    "year": 2027,
+    "notes": "Confirmed March 2027 listings are still sparse this far out; Rio’s club and festival calendar will likely fill in later, so this cut prioritizes ticketed concerts already published by venues or major ticketing platforms.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-vice-versa-arnaldo-adriana-2027",
+        "title": "Vice-Versa: Arnaldo Antunes e Adriana Calcanhotto",
+        "type": "concert",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-20",
+        "importance": 78,
+        "venueName": "Qualistage",
+        "venueId": null,
+        "sourceUrl": "https://qualistage.com.br/evento/442/viceversa",
+        "ticketUrl": "https://www.eventim.com.br/event/vice-versa-arnaldo-antunes-e-adriana-calcanhotto-qualistage-22149327/",
+        "summary": "Arnaldo Antunes and Adriana Calcanhotto bring their joint Vice-Versa project to Qualistage, supporting their first album created together. The venue page confirms the Rio show for 20 March 2027 at 21:30.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-lifehouse-teatro-clara-nunes-2027",
+        "title": "Lifehouse: Best of Acoustic",
+        "type": "concert",
+        "startDate": "2027-03-16",
+        "endDate": "2027-03-16",
+        "importance": 72,
+        "venueName": "Teatro Clara Nunes",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43424467-lifehouse-at-teatro-clara-nunes",
+        "ticketUrl": "https://101tickets.com.br/events/details/Lifehouse-no-Rio-de-Janeiro-16-03",
+        "summary": "Lifehouse plays Rio on its Brazil run with an acoustic-format show led by Jason Wade. Songkick lists the confirmed Rio date as 16 March 2027 at Teatro Clara Nunes, with doors at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-supercombo-circo-voador-2027",
+        "title": "Supercombo no Circo Voador",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 70,
+        "venueName": "Circo Voador",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/event/supercombo-no-circo-voador-circo-voador-22259536/",
+        "ticketUrl": "https://www.eventim.com.br/event/supercombo-no-circo-voador-circo-voador-22259536/",
+        "summary": "Brazilian alt-pop/rock band Supercombo brings its “Rogério 10 Anos” tour to Circo Voador, marking a decade of the album Rogério. The Eventim listing confirms the Rio date, venue, and 20:00 start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-amado-batista-espaco-hall-2027",
+        "title": "Amado Batista at Espaço Hall",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 65,
+        "venueName": "Espaço Hall",
+        "venueId": null,
+        "sourceUrl": "https://espacohall.com.br/agenda/",
+        "ticketUrl": "https://tasendo.com.br/rio-de-janeiro/festas/amado-batista",
+        "summary": "Veteran Brazilian popular/romantic singer Amado Batista is listed by Espaço Hall for a 6 March 2027 show in Barra da Tijuca. The event page notes an evening opening and a planned 22:30 show time.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-bosque-folia-2027",
+        "title": "Bosque Folia - Sextas de Carnaval 2027",
+        "type": "club-night",
+        "startDate": "2027-03-05",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Bosque Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.qualfestario.com.br/todos-os-eventos/bosquefolia",
+        "ticketUrl": null,
+        "summary": "Carnaval-themed Friday club night at Bosque Bar with funk carioca DJs Marcelin O Brabo, SWAG and Matica plus open-format sets from Bruna Areas and Pedro do Rio; a local scene event rather than an arena-scale carnaval package.",
+        "genres": [
+          "hip-hop",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

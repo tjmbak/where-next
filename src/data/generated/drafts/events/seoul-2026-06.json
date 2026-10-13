@@ -2,8 +2,8 @@
   "slug": "seoul",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:42:16.700Z",
-  "responseId": "resp_02e2f88753949363006a0098d818a48194851d6e921314d591",
+  "generatedAt": "2026-05-30T18:44:23.606Z",
+  "responseId": "augment:resp_01082aee7fd9cbe5006a1b2fac3090819ba7f905d67598f817",
   "searchCalls": 15,
   "citations": [],
   "data": {
@@ -45,55 +45,6 @@
           "electronic",
           "house",
           "techno"
-        ]
-      },
-      {
-        "id": "seoul-xia-gravity-jun-2026",
-        "title": "2026 XIA 6th Asia Tour Concert 'GRAVITY' in Seoul",
-        "type": "concert",
-        "startDate": "2026-06-12",
-        "endDate": "2026-06-14",
-        "importance": 78,
-        "venueName": "KSPO Dome",
-        "venueId": null,
-        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/13389",
-        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/13389",
-        "summary": "Kim Junsu (XIA) opens his GRAVITY Asia tour with three KSPO Dome performances on June 12, 13, and 14.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "seoul-treasure-the-stage-jun-2026",
-        "title": "TREASURE THE STAGE 2026 in Seoul",
-        "type": "concert",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-21",
-        "importance": 82,
-        "venueName": "Korea University Hwajeong Tiger Dome",
-        "venueId": null,
-        "sourceUrl": "https://weverse.io/treasure/notice/34819",
-        "ticketUrl": null,
-        "summary": "TREASURE’s official Weverse notice confirms three Seoul concerts at Korea University Hwajeong Tiger Dome on June 19, 20, and 21.",
-        "genres": [
-          "pop",
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "seoul-and2ble-welcome-to-qurious-jun-2026",
-        "title": "2026 AND2BLE Show Concert: Welcome to Qurious",
-        "type": "concert",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-21",
-        "importance": 76,
-        "venueName": "Jamsil Indoor Stadium",
-        "venueId": null,
-        "sourceUrl": "https://weverse.io/and2ble/notice/35451",
-        "ticketUrl": null,
-        "summary": "AND2BLE’s official Weverse schedule lists the Seoul opening run of Welcome to Qurious at Jamsil Indoor Stadium from June 19 to 21.",
-        "genres": [
-          "pop"
         ]
       },
       {
@@ -149,6 +100,23 @@
         ]
       },
       {
+        "id": "seoul-treasure-the-stage-jun-2026",
+        "title": "TREASURE THE STAGE 2026 in Seoul",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-21",
+        "importance": 82,
+        "venueName": "Korea University Hwajeong Tiger Dome",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/treasure/notice/34819",
+        "ticketUrl": null,
+        "summary": "TREASURE’s official Weverse notice confirms three Seoul concerts at Korea University Hwajeong Tiger Dome on June 19, 20, and 21.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
         "id": "seoul-tws-247-for-you-jun-2026",
         "title": "2026 TWS Tour '24/7:FOR:YOU' in Seoul",
         "type": "concert",
@@ -162,6 +130,227 @@
         "summary": "PLEDIS and HYBE confirm TWS’s Seoul tour dates at KSPO Dome on June 27 and 28, with both in-person and online live-streaming planned.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "seoul-fluidica-pride-rave-2026",
+        "title": "FLUIDICA: SEOUL PRIDE RAVE",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Eagle Seoul",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433482",
+        "ticketUrl": "https://ra.co/events/2433482",
+        "summary": "Queer underground rave FLUIDICA returns for a Seoul Pride afterparty at Eagle Seoul, combining hard/driving techno with drag, voguing, performance and dance until sunrise.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-xia-gravity-jun-2026",
+        "title": "2026 XIA 6th Asia Tour Concert 'GRAVITY' in Seoul",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-14",
+        "importance": 78,
+        "venueName": "KSPO Dome",
+        "venueId": null,
+        "sourceUrl": "https://tickets.interpark.com/contents/notice/detail/13389",
+        "ticketUrl": "https://tickets.interpark.com/contents/notice/detail/13389",
+        "summary": "Kim Junsu (XIA) opens his GRAVITY Asia tour with three KSPO Dome performances on June 12, 13, and 14.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-oslated-10-years-2026",
+        "title": "Oslated 10 years night with Adhémar",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Atdge Seoul",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425277",
+        "ticketUrl": null,
+        "summary": "Jeju-rooted label Oslated marks its 10th anniversary in Seoul as part of the Fête de la Musique Korea program, headlined by Paris-based Adhémar with Hii., Hogun and ccb.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-and2ble-welcome-to-qurious-jun-2026",
+        "title": "2026 AND2BLE Show Concert: Welcome to Qurious",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-21",
+        "importance": 76,
+        "venueName": "Jamsil Indoor Stadium",
+        "venueId": null,
+        "sourceUrl": "https://weverse.io/and2ble/notice/35451",
+        "ticketUrl": null,
+        "summary": "AND2BLE’s official Weverse schedule lists the Seoul opening run of Welcome to Qurious at Jamsil Indoor Stadium from June 19 to 21.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-kavari-cakeshop-2026",
+        "title": "Cakeshop presents: KAVARI (XL rec / UK)",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2428779",
+        "ticketUrl": "https://ra.co/events/2428779",
+        "summary": "Cakeshop hosts KAVARI’s Seoul debut, a bass/IDM-leaning experimental electronic night from the XL-linked UK artist, running 22:00–05:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-planet-turbo-oneman-2026",
+        "title": "Planet Turbo presents: Oneman",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Pistil",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2450970",
+        "ticketUrl": "https://ra.co/events/2450970",
+        "summary": "Planet Turbo hosts UK selector Oneman at intimate Itaewon room Pistil, with a UK garage/funky/grime/house-leaning lineup including Hyejin, Juuno, Haney Lee and Shins.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "seoul-xdb-carve-out-2026",
+        "title": "Carve Out Records with XDB (Metrolux, Göttingen)",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Modeci",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430802",
+        "ticketUrl": "https://ra.co/events/2430802",
+        "summary": "Modeci hosts a deep electronic selection night headlined by Metrolux founder XDB, with Ryosuke, Sinqmin, Gong, U YO, Lonho and YOUKU across dance floor and roof.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "seoul-soar-offset-harmonics-2026",
+        "title": "SOAR V — Offset Harmonics",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Cakeshop",
+        "venueId": "cakeshop-seoul",
+        "sourceUrl": "https://ra.co/events/2427764",
+        "ticketUrl": "https://ra.co/events/2427764",
+        "summary": "SOAR’s Cakeshop edition brings E.O.U, DDD, Yetsuby, C Bong Sae, Autopilot77_77 and Human Weak Points for a techno/electronica-focused Seoul showcase.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-antigone-faust-2026",
+        "title": "INVITES: Antigone",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Faust Seoul",
+        "venueId": "faust-seoul",
+        "sourceUrl": "https://ra.co/events/2453619",
+        "ticketUrl": null,
+        "summary": "Faust’s INVITES series books French techno artist Antigone alongside Kim Bo Yeon, ROS3, duco and TBA across Faust and Tanz Bar.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-kohra-volnost-2026",
+        "title": "Volnost INVITES 'Kohra'",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Volnost",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2450928",
+        "ticketUrl": null,
+        "summary": "Volnost’s INVITES series brings Goa-based Qilla Records founder Kohra to Itaewon for a psychedelic techno/minimal night with Deekay, Siot, KYVU and Seo Youngcha.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-metacritik-olsvanger-2026",
+        "title": "Metacritik : Olsvangèr",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Atdge Seoul",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423119",
+        "ticketUrl": null,
+        "summary": "Metacritik brings Olsvangèr to Atdge Seoul for a high-energy techno/house night with Pseudobaul, Mew and Haemi Park.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-hertz-onirik-2026",
+        "title": "Hertz meets: Onirik (Off The Grid, DE)",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Hertz",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2452757",
+        "ticketUrl": "https://ra.co/events/2452757",
+        "summary": "Hertz hosts Off The Grid’s Onirik for a house-focused all-night session with Baso and Soyo at the Itaewon listening/club space.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "seoul-offgrid-henry-fong-2026",
+        "title": "OFFGRID x FRAME presents HENRY FONG",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Frame Seoul",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2454472",
+        "ticketUrl": "https://ra.co/events/2454472",
+        "summary": "OFFGRID and Frame Seoul team for a bass/tech-house club night with Henry Fong, ONVY, Vandal Rock, Guilty Pleasure, PURE100% and TWOC.",
+        "genres": [
+          "electronic",
+          "house"
         ]
       }
     ]

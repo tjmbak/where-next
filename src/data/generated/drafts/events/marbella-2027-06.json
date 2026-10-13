@@ -1,0 +1,51 @@
+{
+  "slug": "marbella",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:09:37.491Z",
+  "responseId": "resp_0deb71f072454666006acdae5ac04087d08a167321c7e33830+resp_0ad5689cd5b0021c006acdaed0e77087d0a4a2df0bb9be8817",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 confirmations are still sparse this far out, with the strongest verified listings currently coming from Naô Pool Club rather than the later-summer Starlite programme.",
+    "events": [
+      {
+        "id": "marbella-kisstory-nao-residency-2027",
+        "title": "KISSTORY Marbella",
+        "type": "residency",
+        "startDate": "2027-03-28",
+        "endDate": "2027-09-26",
+        "importance": 78,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://site.fourvenues.com/en/nao-pool-club-marbella/events/kisstory-11-07-2027-23O1",
+        "ticketUrl": "https://site.fourvenues.com/en/nao-pool-club-marbella/events/kisstory-11-07-2027-23O1",
+        "summary": "KISSTORY lists an exclusive Summer 2027 Marbella residency at Naô Pool Club running from 28 March until 26 September, with old-skool anthems, resident DJs and special guests. The ticketing page confirms the venue and residency run, which covers June 2027.",
+        "genres": [
+          "house",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-rico-nao-jun-2027",
+        "title": "RICO",
+        "type": "beach-club",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-16",
+        "importance": 64,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://site.fourvenues.com/en/nao-pool-club-marbella/events/rico-16-06-2027-TKGN",
+        "ticketUrl": "https://site.fourvenues.com/en/nao-pool-club-marbella/events/rico-16-06-2027-TKGN",
+        "summary": "RICO is a confirmed Latin pool-club party at Naô Pool Club on Wednesday 16 June 2027 from 12:00 to 20:00. The event page describes it as a day party driven by Latin music with poolside tables and general tickets available.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

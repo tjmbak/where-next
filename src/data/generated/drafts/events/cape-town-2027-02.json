@@ -1,0 +1,134 @@
+{
+  "slug": "cape-town",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:19:32.591Z",
+  "responseId": "resp_002611b6a0443216006acda29563b887d09d1afbf8eeeb995b+resp_0c2734ea2e7a8991006acda309178087d0a03705413946b91c",
+  "searchCalls": 38,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 2,
+    "year": 2027,
+    "notes": "February’s confirmed calendar is led by electronic and outdoor weekender culture, with Cape Town club/beach events plus Western Cape festival trips within the broader Cape Town travel orbit.",
+    "events": [
+      {
+        "id": "cape-town-black-coffee-weekender-2027",
+        "title": "Black Coffee Weekender 2027",
+        "type": "festival",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-28",
+        "importance": 90,
+        "venueName": "The Ostrich",
+        "venueId": null,
+        "sourceUrl": "https://blackcoffeeweekender.com/",
+        "ticketUrl": "https://blackcoffeeweekender.howler.co.za/events/black-coffee-weekender-main-event-cape-town-27-february-2027-c74f",
+        "summary": "Black Coffee curates a three-day Cape Town weekender featuring a Friday charity dinner, Saturday main event and Sunday afterparty. The confirmed Saturday main event at The Ostrich features Black Coffee and Dixon, with more artists to be announced.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-black-coffee-weekender-main-2027",
+        "title": "Black Coffee Weekender 2027 — Main Event",
+        "type": "festival",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-28",
+        "importance": 84,
+        "venueName": "The Ostrich",
+        "venueId": null,
+        "sourceUrl": "https://blackcoffeeweekender.howler.co.za/events/black-coffee-weekender-main-event-cape-town-27-february-2027-c74f",
+        "ticketUrl": "https://blackcoffeeweekender.howler.co.za/events/black-coffee-weekender-main-event-cape-town-27-february-2027-c74f",
+        "summary": "The Saturday main event of Black Coffee’s three-day Cape Town Weekender is confirmed at The Ostrich, curated by Black Coffee with Dixon announced and a wider Afro-house/deep-house/electronic lineup still TBA.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-up-the-creek-2027",
+        "title": "Up The Creek Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-14",
+        "importance": 83,
+        "venueName": "Up the Creek, Swellendam",
+        "venueId": null,
+        "sourceUrl": "https://www.upthecreek.co.za/",
+        "ticketUrl": "https://www.upthecreek.co.za/tickets/",
+        "summary": "South Africa’s long-running riverside music festival returns on the Breede River near Swellendam with four days, four stages and 50+ live acts. Early announced names include Arno Carstens, aKING, BCUC, Barto, Georgetown, Keanan Eksteen, Pedro Barbosa and SUGARBIRD.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-liquicity-feb-2027",
+        "title": "Liquicity Cape Town 2027",
+        "type": "festival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 80,
+        "venueName": "The Ostrich Cape Town",
+        "venueId": null,
+        "sourceUrl": "https://liquicity.com/events/liquicity-cape-town-2027/",
+        "ticketUrl": "https://tickets.airdosh.co.za/event/it-came-from-the-jungle/F8b4zMZ5eXTaTrN",
+        "summary": "Liquicity brings its drum & bass brand back to Cape Town for a one-day summer edition at The Ostrich. Dimension is confirmed on the lineup, with more acts to be announced.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-pandora-aeon-2027",
+        "title": "Pandora: Aeon",
+        "type": "festival",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-14",
+        "importance": 74,
+        "venueName": "Stanford Hills Wine Estate",
+        "venueId": null,
+        "sourceUrl": "https://www.pandorafestival.org/",
+        "ticketUrl": "https://dosh.ly/pandora-aeon-2027",
+        "summary": "Pandora returns to Stanford Hills Wine Estate for Aeon, a three-day music, art and nature gathering built around immersive spaces, sound journeys, workshops, installations and dance floors.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-paradisco-love-sensation-2027",
+        "title": "Paradisco - Love Sensation",
+        "type": "club-night",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-14",
+        "importance": 70,
+        "venueName": "Grand Africa Cafe & Beach",
+        "venueId": null,
+        "sourceUrl": "https://paradisco.howler.co.za/events/paradisco-love-sensation-13-february-2027-a87d",
+        "ticketUrl": null,
+        "summary": "Paradisco’s Valentine weekend edition runs from late afternoon into the night at Grand Africa Cafe & Beach. The event is billed as a disco-to-house celebration, with tickets and tables marked as coming soon.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-ai-music-indaba-2027",
+        "title": "Cape Town AI Music Indaba 2027",
+        "type": "conference",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-27",
+        "importance": 60,
+        "venueName": "One Thibault Hotel by ITC Hospitality",
+        "venueId": null,
+        "sourceUrl": "https://computicket-boxoffice.com/e/cape-town-ai-music-indaba-2027-o9ZuNb",
+        "ticketUrl": "https://computicket-boxoffice.com/e/cape-town-ai-music-indaba-2027-o9ZuNb",
+        "summary": "The third Cape Town AI Music Indaba is a two-day summit on artificial intelligence in music creation, distribution and rights. The programme is set to include keynotes, demos and industry deal-making for artists, producers, tech founders and legal experts.",
+        "genres": []
+      }
+    ]
+  }
+}

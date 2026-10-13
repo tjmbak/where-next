@@ -2,9 +2,9 @@
   "slug": "paris",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:19:31.613Z",
-  "responseId": "resp_02c1d375c99258e90069ff5e0cfc4081a2ba05f286b39a42f6",
-  "searchCalls": 14,
+  "generatedAt": "2026-05-30T18:40:32.709Z",
+  "responseId": "augment:resp_09479f837d2ce2ef006a1b2ea0ab1c8199956f4142be977b85",
+  "searchCalls": 16,
   "citations": [],
   "data": {
     "destinationSlug": "paris",
@@ -28,6 +28,294 @@
           "festival",
           "electronic",
           "pop"
+        ]
+      },
+      {
+        "id": "paris-bruno-mars-stade-jun-2026",
+        "title": "Bruno Mars — The Romantic Tour",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 94,
+        "venueName": "Stade de France",
+        "venueId": null,
+        "sourceUrl": "https://www.stadefrance.com/en/ticket/bruno-mars-2026",
+        "ticketUrl": "https://www.stadefrance.com/en/ticket/bruno-mars-2026",
+        "summary": "Stade de France confirms Bruno Mars for Saturday 20 June 2026 as part of The Romantic Tour, with Paris dates also listed for 18 and 21 June. Anderson .Paak appears on all dates under his DJ Pee .Wee alias, with select support including Victoria Monét, RAYE and Leon Thomas.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-solidays-jun-2026",
+        "title": "Solidays 2026",
+        "type": "festival",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-28",
+        "importance": 94,
+        "venueName": "Hippodrome de Paris-Longchamp",
+        "venueId": null,
+        "sourceUrl": "https://www.paris.fr/evenements/solidays-51364",
+        "ticketUrl": "https://www.solidays.org/",
+        "summary": "Paris.fr confirms Solidays at Hippodrome de Longchamp from 26–28 June 2026. The 2026 names listed include Orelsan, GIMS, Major Lazer, Zara Larsson, Bigflo & Oli, Guy2Bezbar, Helena, Mosimann, Suzane and La Mano1.9.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-david-guetta-stade-jun-2026",
+        "title": "David Guetta — The Ultimate Monolith Show",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 91,
+        "venueName": "Stade de France",
+        "venueId": null,
+        "sourceUrl": "https://www.stadefrance.com/en/ticket/david-guetta",
+        "ticketUrl": "https://www.stadefrance.com/en/ticket/david-guetta",
+        "summary": "Stade de France confirms David Guetta’s special 13 June concert, billed as The Ultimate Monolith Show. Black Coffee is listed as the opening act on the official event page.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-foo-fighters-ladefense-jun-2026",
+        "title": "Foo Fighters — Take Cover Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 88,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/foo-fighters/",
+        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/foo-fighters/",
+        "summary": "Paris La Défense Arena confirms Foo Fighters on Friday 19 June 2026 for the Take Cover Tour 2026. The venue bills it as the band’s only French date on the tour.",
+        "genres": []
+      },
+      {
+        "id": "paris-iron-maiden-ladefense-jun-2026",
+        "title": "Iron Maiden — Run For Your Lives Tour",
+        "type": "concert",
+        "startDate": "2026-06-22",
+        "endDate": "2026-06-22",
+        "importance": 87,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/iron-maiden-2026-en/",
+        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/iron-maiden-2026-en/",
+        "summary": "Paris La Défense Arena confirms Iron Maiden for Monday 22 June 2026 on the Run For Your Lives tour. Evergrey is listed as support.",
+        "genres": []
+      },
+      {
+        "id": "paris-doja-cat-jun-2026",
+        "title": "Doja Cat — Tour Ma Vie World Tour",
+        "type": "concert",
+        "startDate": "2026-06-09",
+        "endDate": "2026-06-09",
+        "importance": 86,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/doja-cat--84a09",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/doja-cat--84a09",
+        "summary": "Accor Arena confirms Doja Cat on 9 June 2026 as part of the Tour Ma Vie World Tour. Naomi Sharon is listed as the opening act.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-amapianoland-fdlm-2026",
+        "title": "AMAPIANOLAND - Fête La Musique Festival",
+        "type": "festival",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 84,
+        "venueName": "The Bridge Paris",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/amapianoland-fete-la-musique-festival-tickets-1987860195356?aff=ebdssbdestsearch",
+        "ticketUrl": "https://www.eventbrite.com/e/amapianoland-fete-la-musique-festival-tickets-1987860195356?aff=ebdssbdestsearch",
+        "summary": "Touring brand AMAPIANOLAND lands in Paris for Fête de la Musique with a 2,000-person Afrobeats, Amapiano, Kwaito and Afro-house cultural takeover.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-kaytranada-accor-jun-2026",
+        "title": "KAYTRANADA",
+        "type": "concert",
+        "startDate": "2026-06-16",
+        "endDate": "2026-06-16",
+        "importance": 82,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/kaytranada--f815e",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/kaytranada--f815e",
+        "summary": "Accor Arena confirms KAYTRANADA for 16 June 2026. The listing notes the date follows his co-headlining tour with JUSTICE and forms part of a European and UK arena run.",
+        "genres": [
+          "electronic",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-alarma-17-2026",
+        "title": "Alarma #17: Rene Wise, VEL, KEUT b2b lilipop",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "TBA Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/alarma-17",
+        "ticketUrl": "https://shotgun.live/en/events/alarma-17",
+        "summary": "ALARMA returns to a near-Paris warehouse with Rene Wise, VEL and a KEUT b2b lilipop closing the night; the no-photo/no-video format makes it one of June’s key techno warehouse plays.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-orange-crush-festival-2026",
+        "title": "Orange Crush Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-14",
+        "importance": 82,
+        "venueName": "Ferme de Bissy, Bonnelles",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2410188",
+        "ticketUrl": "https://ra.co/events/2410188",
+        "summary": "A 45-minutes-from-Paris three-day field festival with Shanti Celeste, Courtesy, Elias Mazian, Julie Desire and more, moving across house, electro and leftfield club sounds.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-cypress-hill-accor-jun-2026",
+        "title": "Cypress Hill & Special Guest DJ Premier",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 80,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/cypress-hill-and-special-guest-dj-premier--98c39",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/cypress-hill-and-special-guest-dj-premier--98c39",
+        "summary": "Accor Arena confirms Cypress Hill for Thursday 18 June 2026, describing it as the group’s biggest Paris concert to date. DJ Premier is listed as the special guest.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-amapianoland-fete-jun-2026",
+        "title": "AmapianoLand Paris — Fête de la Musique Festival",
+        "type": "festival",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 80,
+        "venueName": "T7 Paris",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/amapianoland-fete-la-musique-festival-2000-afrobeats-amapiano-lovers-tickets-1987860195356",
+        "ticketUrl": "https://www.eventbrite.com/e/amapianoland-fete-la-musique-festival-2000-afrobeats-amapiano-lovers-tickets-1987860195356",
+        "summary": "AmapianoLand brings its sold-out Amapiano, Afrobeats and Afro-house arena show to T7 Paris for Fête de la Musique weekend — a 2,000-capacity celebration of the African diaspora dance floor.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-kalash-ladefense-jun-2026",
+        "title": "Kalash",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 78,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/kalash-2/",
+        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/kalash-2/",
+        "summary": "Paris La Défense Arena confirms Kalash for a one-off XXL concert on 12 June 2026. The venue frames the show as a milestone after his previous La Cigale, L’Olympia and Accor Arena dates.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-fluid-emilija-2026",
+        "title": "FLUID: EMILIJA, Upper90, DJ Cinéma Quartier Latin, Swooh",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Virage",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2427788",
+        "ticketUrl": "https://ra.co/events/2427788",
+        "summary": "FLUID’s first open-air of the year at Virage puts EMILIJA, Upper90, DJ Cinéma Quartier Latin and Swooh on a covered 360° stage under the périphérique.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-kod-cabanne-lowris-2026",
+        "title": "K.O.D (Cabanne b2b Lowris) - all night long",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "essaim",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2402706",
+        "ticketUrl": "https://ra.co/events/2402706",
+        "summary": "Essaim books Cabanne b2b Lowris for an all-night K.O.D session, with a limited presale and a door-heavy policy that suits the club’s late-night minimal/techno crowd.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-lust-chapter-xvii-2026",
+        "title": "LUST - Chapter XVII",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Fvtvr",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2429363",
+        "ticketUrl": "https://ra.co/events/2429363",
+        "summary": "Queer techno party LUST returns to FVTVR with Kwartz, Maemm and Slone, emphasizing consent, no phones and expressive dancefloor codes.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-fusion-yoyo-fdlm-2026",
+        "title": "Fusión FDLM at YOYO Palais de Tokyo: Afrobeats & Hip Hop",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "YOYO - Palais de Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/fr/events/fusion-fdlm-at-yoyo-palais-de-tokyo-afrobeats-hip-hop",
+        "ticketUrl": "https://shotgun.live/fr/events/fusion-fdlm-at-yoyo-palais-de-tokyo-afrobeats-hip-hop",
+        "summary": "Vibes Event’s FUSION takes over YOYO for Fête de la Musique weekend, mixing Afrobeats, hip-hop, amapiano, dancehall, baile funk, afro-house and shatta.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "afro-house"
         ]
       },
       {
@@ -61,154 +349,6 @@
         "summary": "Resident Advisor lists this Rex Club techno night for Friday 5 June with Octave One Live, STL-P and WhereIsFenix. Rex Club is the promoter on the listing.",
         "genres": [
           "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "paris-doja-cat-jun-2026",
-        "title": "Doja Cat — Tour Ma Vie World Tour",
-        "type": "concert",
-        "startDate": "2026-06-09",
-        "endDate": "2026-06-09",
-        "importance": 86,
-        "venueName": "Accor Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/doja-cat--84a09",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/doja-cat--84a09",
-        "summary": "Accor Arena confirms Doja Cat on 9 June 2026 as part of the Tour Ma Vie World Tour. Naomi Sharon is listed as the opening act.",
-        "genres": [
-          "pop",
-          "hip-hop",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "paris-kalash-ladefense-jun-2026",
-        "title": "Kalash",
-        "type": "concert",
-        "startDate": "2026-06-12",
-        "endDate": "2026-06-12",
-        "importance": 78,
-        "venueName": "Paris La Défense Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/kalash-2/",
-        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/kalash-2/",
-        "summary": "Paris La Défense Arena confirms Kalash for a one-off XXL concert on 12 June 2026. The venue frames the show as a milestone after his previous La Cigale, L’Olympia and Accor Arena dates.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "paris-david-guetta-stade-jun-2026",
-        "title": "David Guetta — The Ultimate Monolith Show",
-        "type": "concert",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-13",
-        "importance": 91,
-        "venueName": "Stade de France",
-        "venueId": null,
-        "sourceUrl": "https://www.stadefrance.com/en/ticket/david-guetta",
-        "ticketUrl": "https://www.stadefrance.com/en/ticket/david-guetta",
-        "summary": "Stade de France confirms David Guetta’s special 13 June concert, billed as The Ultimate Monolith Show. Black Coffee is listed as the opening act on the official event page.",
-        "genres": [
-          "electronic",
-          "house"
-        ]
-      },
-      {
-        "id": "paris-kaytranada-accor-jun-2026",
-        "title": "KAYTRANADA",
-        "type": "concert",
-        "startDate": "2026-06-16",
-        "endDate": "2026-06-16",
-        "importance": 82,
-        "venueName": "Accor Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/kaytranada--f815e",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/kaytranada--f815e",
-        "summary": "Accor Arena confirms KAYTRANADA for 16 June 2026. The listing notes the date follows his co-headlining tour with JUSTICE and forms part of a European and UK arena run.",
-        "genres": [
-          "electronic",
-          "house",
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "paris-cypress-hill-accor-jun-2026",
-        "title": "Cypress Hill & Special Guest DJ Premier",
-        "type": "concert",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-18",
-        "importance": 80,
-        "venueName": "Accor Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/cypress-hill-and-special-guest-dj-premier--98c39",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/cypress-hill-and-special-guest-dj-premier--98c39",
-        "summary": "Accor Arena confirms Cypress Hill for Thursday 18 June 2026, describing it as the group’s biggest Paris concert to date. DJ Premier is listed as the special guest.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "paris-bruno-mars-stade-jun-2026",
-        "title": "Bruno Mars — The Romantic Tour",
-        "type": "concert",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 94,
-        "venueName": "Stade de France",
-        "venueId": null,
-        "sourceUrl": "https://www.stadefrance.com/en/ticket/bruno-mars-2026",
-        "ticketUrl": "https://www.stadefrance.com/en/ticket/bruno-mars-2026",
-        "summary": "Stade de France confirms Bruno Mars for Saturday 20 June 2026 as part of The Romantic Tour, with Paris dates also listed for 18 and 21 June. Anderson .Paak appears on all dates under his DJ Pee .Wee alias, with select support including Victoria Monét, RAYE and Leon Thomas.",
-        "genres": [
-          "pop",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "paris-foo-fighters-ladefense-jun-2026",
-        "title": "Foo Fighters — Take Cover Tour 2026",
-        "type": "concert",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-19",
-        "importance": 88,
-        "venueName": "Paris La Défense Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/foo-fighters/",
-        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/foo-fighters/",
-        "summary": "Paris La Défense Arena confirms Foo Fighters on Friday 19 June 2026 for the Take Cover Tour 2026. The venue bills it as the band’s only French date on the tour.",
-        "genres": []
-      },
-      {
-        "id": "paris-iron-maiden-ladefense-jun-2026",
-        "title": "Iron Maiden — Run For Your Lives Tour",
-        "type": "concert",
-        "startDate": "2026-06-22",
-        "endDate": "2026-06-22",
-        "importance": 87,
-        "venueName": "Paris La Défense Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/iron-maiden-2026-en/",
-        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/iron-maiden-2026-en/",
-        "summary": "Paris La Défense Arena confirms Iron Maiden for Monday 22 June 2026 on the Run For Your Lives tour. Evergrey is listed as support.",
-        "genres": []
-      },
-      {
-        "id": "paris-solidays-jun-2026",
-        "title": "Solidays 2026",
-        "type": "festival",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-28",
-        "importance": 94,
-        "venueName": "Hippodrome de Paris-Longchamp",
-        "venueId": null,
-        "sourceUrl": "https://www.paris.fr/evenements/solidays-51364",
-        "ticketUrl": "https://www.solidays.org/",
-        "summary": "Paris.fr confirms Solidays at Hippodrome de Longchamp from 26–28 June 2026. The 2026 names listed include Orelsan, GIMS, Major Lazer, Zara Larsson, Bigflo & Oli, Guy2Bezbar, Helena, Mosimann, Suzane and La Mano1.9.",
-        "genres": [
-          "festival",
-          "hip-hop",
           "electronic"
         ]
       }

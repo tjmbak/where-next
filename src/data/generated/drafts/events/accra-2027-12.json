@@ -1,0 +1,33 @@
+{
+  "slug": "accra",
+  "month": 12,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:14:03.200Z",
+  "responseId": "resp_0d9d55b2612508f0006acdafacd18887d09aa3f199c456c64c+resp_05521c625f7b96db006acdafd2383087d0bab1974df22ab75e",
+  "searchCalls": 23,
+  "citations": [],
+  "data": {
+    "destinationSlug": "accra",
+    "month": 12,
+    "year": 2027,
+    "notes": "Most underground Accra December 2027 club-night listings are not yet published; only dated, source-verifiable diaspora/Detty December experiences were included.",
+    "events": [
+      {
+        "id": "accra-ueg-detty-december-2027",
+        "title": "Urban Events Global Presents: Detty December Ghana | A Curated Luxury Experience 2027",
+        "type": "festival",
+        "startDate": "2027-12-24",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Accra",
+        "venueId": null,
+        "sourceUrl": "https://posh.vip/e/urban-events-global-presentsdetty-december-ghana-a-curated-luxury-experience-2027-12-29-10-30",
+        "ticketUrl": "https://posh.vip/e/urban-events-global-presentsdetty-december-ghana-a-curated-luxury-experience-2027-12-29-10-30",
+        "summary": "A dated Urban Events Global Detty December Ghana diaspora experience listed for Accra; the public ticket page confirms the date and city but does not yet publish a detailed club-night lineup.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

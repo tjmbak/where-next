@@ -2,9 +2,9 @@
   "slug": "amsterdam",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:56:03.640Z",
-  "responseId": "resp_0c8798afe0f27ac40069ff589ebd448191a2513b37c3749ec0",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T17:59:45.125Z",
+  "responseId": "augment:resp_0411e2846d819211006a1b252a9fec8198a5266696835eab2d",
+  "searchCalls": 13,
   "citations": [],
   "data": {
     "destinationSlug": "amsterdam",
@@ -12,6 +12,24 @@
     "year": 2026,
     "notes": "July 2026 is unusually stacked in Amsterdam, with stadium pop/R&B runs, Pride-linked club events, and major outdoor electronic and multicultural festivals clustered around the final two weekends.",
     "events": [
+      {
+        "id": "amsterdam-dekmantel-festival-2026",
+        "title": "Dekmantel Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-29",
+        "endDate": "2026-08-02",
+        "importance": 96,
+        "venueName": "Amsterdamse Bos, Oude Kerk, Melkweg and Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://dekmantel.com/editorial/dekmantel-festival-2026-2",
+        "ticketUrl": "https://dekmantelfestival.com/",
+        "summary": "Dekmantel’s 12th edition runs July 29 to August 2, expanding across Amsterdamse Bos and city venues with 160+ electronic acts. The announced programme includes DARKSIDE, Helena Hauff, Ricardo Villalobos, DJ Sprinkles, Skrillex and Underground Resistance.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
       {
         "id": "amsterdam-bruno-mars-jul-2026",
         "title": "Bruno Mars – The Romantic Tour",
@@ -27,107 +45,6 @@
         "genres": [
           "pop",
           "r-and-b"
-        ]
-      },
-      {
-        "id": "amsterdam-multigroove-festival-2026",
-        "title": "Multigroove Festival",
-        "type": "festival",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 80,
-        "venueName": "Gaasperplas",
-        "venueId": null,
-        "sourceUrl": "https://www.multigroove.nl/events/multigroove-festival-2026",
-        "ticketUrl": "https://www.multigroove.nl/events/multigroove-festival-2026",
-        "summary": "Amsterdam rave institution Multigroove returns to Gaasperplas for a full-day harder-styles event, with artists including Catscan, Dano, The Darkraver, DJ Isaac, Partyraiser, Promo and Ruffneck.",
-        "genres": [
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "amsterdam-madness-afas-2026",
-        "title": "Madness",
-        "type": "concert",
-        "startDate": "2026-07-07",
-        "endDate": "2026-07-07",
-        "importance": 70,
-        "venueName": "AFAS Live",
-        "venueId": null,
-        "sourceUrl": "https://www.afaslive.nl/agenda/madness",
-        "ticketUrl": "https://www.eventim.nl/",
-        "summary": "British ska-pop veterans Madness play AFAS Live on July 7, returning to the Amsterdam venue with a show built around their long-running catalogue.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "amsterdam-joy-flow-festival-2026",
-        "title": "JOY x FLOW Festival",
-        "type": "festival",
-        "startDate": "2026-07-11",
-        "endDate": "2026-07-11",
-        "importance": 82,
-        "venueName": "Hembrugterrein",
-        "venueId": null,
-        "sourceUrl": "https://joyxflowfestival.nl/",
-        "ticketUrl": "https://weeztix.shop/",
-        "summary": "JOY and FLOW join forces at Hembrugterrein on the edge of Amsterdam/Zaanstad, with three stages and a house-led lineup including Franky Rizardo, Prunk, Sidney Charles, Benny Rodrigues b2b Dennis Quin and Luuk van Dijk b2b L.P. Rhythm.",
-        "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "amsterdam-kwaku-summer-festival-2026",
-        "title": "Kwaku Summer Festival",
-        "type": "festival",
-        "startDate": "2026-07-11",
-        "endDate": "2026-08-02",
-        "importance": 86,
-        "venueName": "Nelson Mandela Park",
-        "venueId": null,
-        "sourceUrl": "https://kwakufestival.nl/",
-        "ticketUrl": "https://tickets.kwakufestival.nl/",
-        "summary": "Kwaku Summer Festival returns to Nelson Mandela Park from July 11 to August 2, combining live music, food and cultural programming. Confirmed Friday Night Concert names on the festival site include En Vogue, Broederliefde and Kassav’.",
-        "genres": [
-          "r-and-b",
-          "hip-hop",
-          "latin"
-        ]
-      },
-      {
-        "id": "amsterdam-festival-macumba-2026",
-        "title": "Festival Macumba",
-        "type": "festival",
-        "startDate": "2026-07-18",
-        "endDate": "2026-07-18",
-        "importance": 76,
-        "venueName": "De Ven, Spaarnwoude",
-        "venueId": null,
-        "sourceUrl": "https://www.festivalmacumba.nl/",
-        "ticketUrl": "https://www.festivalmacumba.nl/",
-        "summary": "Festival Macumba brings Latin music to De Ven in Spaarnwoude near Amsterdam, with confirmed live and DJ acts including Elena Rose, La Cendejas, Gia Fu, Gerardo Rosales y su Salsa Legendaria and Fiesta Macumba Soundsystem.",
-        "genres": [
-          "latin",
-          "festival"
-        ]
-      },
-      {
-        "id": "amsterdam-james-taylor-afas-2026",
-        "title": "James Taylor and His All-Star Band",
-        "type": "concert",
-        "startDate": "2026-07-21",
-        "endDate": "2026-07-21",
-        "importance": 73,
-        "venueName": "AFAS Live",
-        "venueId": null,
-        "sourceUrl": "https://www.afaslive.nl/agenda/james-taylor",
-        "ticketUrl": "https://www.ticketmaster.nl/",
-        "summary": "James Taylor performs at AFAS Live on July 21 with his All-Star Band, in a seated singer-songwriter concert promoted by MOJO.",
-        "genres": [
-          "pop"
         ]
       },
       {
@@ -149,24 +66,6 @@
         ]
       },
       {
-        "id": "amsterdam-dekmantel-festival-2026",
-        "title": "Dekmantel Festival 2026",
-        "type": "festival",
-        "startDate": "2026-07-29",
-        "endDate": "2026-08-02",
-        "importance": 96,
-        "venueName": "Amsterdamse Bos, Oude Kerk, Melkweg and Paradiso",
-        "venueId": null,
-        "sourceUrl": "https://dekmantel.com/editorial/dekmantel-festival-2026-2",
-        "ticketUrl": "https://dekmantelfestival.com/",
-        "summary": "Dekmantel’s 12th edition runs July 29 to August 2, expanding across Amsterdamse Bos and city venues with 160+ electronic acts. The announced programme includes DARKSIDE, Helena Hauff, Ricardo Villalobos, DJ Sprinkles, Skrillex and Underground Resistance.",
-        "genres": [
-          "electronic",
-          "techno",
-          "house"
-        ]
-      },
-      {
         "id": "amsterdam-world-pride-music-festival-2026",
         "title": "World Pride Music Festival",
         "type": "festival",
@@ -185,6 +84,130 @@
         ]
       },
       {
+        "id": "amsterdam-kwaku-summer-festival-2026",
+        "title": "Kwaku Summer Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-08-02",
+        "importance": 86,
+        "venueName": "Nelson Mandela Park",
+        "venueId": null,
+        "sourceUrl": "https://kwakufestival.nl/",
+        "ticketUrl": "https://tickets.kwakufestival.nl/",
+        "summary": "Kwaku Summer Festival returns to Nelson Mandela Park from July 11 to August 2, combining live music, food and cultural programming. Confirmed Friday Night Concert names on the festival site include En Vogue, Broederliefde and Kassav’.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "amsterdam-no-art-closing-2026",
+        "title": "No Art Closing Festival",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Flevopark",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2320346",
+        "ticketUrl": "https://eventix.shop/",
+        "summary": "No Art closes in Flevopark with a high-profile house lineup including ANOTR, Mau P, Seth Troxler, The Martinez Brothers, Rossi, Rooléh and Toman.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-joy-flow-festival-2026",
+        "title": "JOY x FLOW Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 82,
+        "venueName": "Hembrugterrein",
+        "venueId": null,
+        "sourceUrl": "https://joyxflowfestival.nl/",
+        "ticketUrl": "https://weeztix.shop/",
+        "summary": "JOY and FLOW join forces at Hembrugterrein on the edge of Amsterdam/Zaanstad, with three stages and a house-led lineup including Franky Rizardo, Prunk, Sidney Charles, Benny Rodrigues b2b Dennis Quin and Luuk van Dijk b2b L.P. Rhythm.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-no-art-opening-2026",
+        "title": "No Art Opening Festival",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Sportpark Riekerhaven",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2402609",
+        "ticketUrl": "https://shop.paylogic.com/",
+        "summary": "No Art opens its festival run with ANOTR, Mochakk, Rüfüs Du Sol DJ set, Toman, Hannecart and Rooléh at Sportpark Riekerhaven.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-multigroove-festival-2026",
+        "title": "Multigroove Festival",
+        "type": "festival",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 80,
+        "venueName": "Gaasperplas",
+        "venueId": null,
+        "sourceUrl": "https://www.multigroove.nl/events/multigroove-festival-2026",
+        "ticketUrl": "https://www.multigroove.nl/events/multigroove-festival-2026",
+        "summary": "Amsterdam rave institution Multigroove returns to Gaasperplas for a full-day harder-styles event, with artists including Catscan, Dano, The Darkraver, DJ Isaac, Partyraiser, Promo and Ruffneck.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-ame-sama-abdulhadi-2026",
+        "title": "Âme DJ x Sama' Abdulhadi",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440116",
+        "ticketUrl": "https://weeztix.shop/",
+        "summary": "Lofi pairs Âme DJ’s psychedelic house and restrained techno with Sama’ Abdulhadi’s fast, tightly locked techno pressure for one full night.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-prncptl-day-night-2026",
+        "title": "PRNCPTL DOES AMSTERDAM - DAY & NIGHT",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415556",
+        "ticketUrl": "https://weeztix.shop/",
+        "summary": "Pornceptual makes its Lofi debut with a day-into-night edition running from open-air afternoon energy into a full nocturnal club session.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
         "id": "amsterdam-xlsior-worldpride-2026",
         "title": "XLSIOR Mykonos – Amsterdam edition",
         "type": "club-night",
@@ -199,6 +222,142 @@
         "genres": [
           "house",
           "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-sona-pawsa-park-2026",
+        "title": "SONA presents: PAWSA In The Park",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Havenpark",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412656",
+        "ticketUrl": "https://tickets.sonaworldwide.com/",
+        "summary": "SONA brings PAWSA for an extended open-air daytime house party at Havenpark, listed as sold out with resale active on RA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-raum-mala-junta-2026",
+        "title": "RAUM invites Mala Junta",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "CLUB RAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440419",
+        "ticketUrl": "https://shop.clubraum.nl/",
+        "summary": "Club RAUM’s WorldPride-linked DESIRE programme invites Berlin collective Mala Junta, with Hyperaktivist, D. Tiffany, Yazzus, DJ TOOL and more across a late-night session.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "amsterdam-thuishaven-kerri-chandler-2026",
+        "title": "Thuishaven with Kerri Chandler / Dennis Quin / D Stone",
+        "type": "club-night",
+        "startDate": "2026-07-12",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Thuishaven",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420464",
+        "ticketUrl": "https://thuishaven.nl/",
+        "summary": "Thuishaven hosts a Sunday daytime house session headlined by Kerri Chandler with Dennis Quin, D Stone, Keyrah, LI-YU and Suze Ijó.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-laundrette-isburning-2026",
+        "title": "LAUNDRETTE ...IsBurning",
+        "type": "club-night",
+        "startDate": "2026-07-31",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2453155",
+        "ticketUrl": "https://ra.co/events/2453155",
+        "summary": "LAUNDRETTE joins IsBurning for a WorldPride opening party at Lofi, with a secret house-focused lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-festival-macumba-2026",
+        "title": "Festival Macumba",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 76,
+        "venueName": "De Ven, Spaarnwoude",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalmacumba.nl/",
+        "ticketUrl": "https://www.festivalmacumba.nl/",
+        "summary": "Festival Macumba brings Latin music to De Ven in Spaarnwoude near Amsterdam, with confirmed live and DJ acts including Elena Rose, La Cendejas, Gia Fu, Gerardo Rosales y su Salsa Legendaria and Fiesta Macumba Soundsystem.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-palet-mini-festival-2026",
+        "title": "PALET Mini Festival",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2406778",
+        "ticketUrl": "https://shop.weeztix.com/",
+        "summary": "PALET stages a 15-hour day-into-night mini festival at Lofi with inside and outside areas focused on house and disco energy.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-james-taylor-afas-2026",
+        "title": "James Taylor and His All-Star Band",
+        "type": "concert",
+        "startDate": "2026-07-21",
+        "endDate": "2026-07-21",
+        "importance": 73,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/james-taylor",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "James Taylor performs at AFAS Live on July 21 with his All-Star Band, in a seated singer-songwriter concert promoted by MOJO.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-madness-afas-2026",
+        "title": "Madness",
+        "type": "concert",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-07",
+        "importance": 70,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/madness",
+        "ticketUrl": "https://www.eventim.nl/",
+        "summary": "British ska-pop veterans Madness play AFAS Live on July 7, returning to the Amsterdam venue with a show built around their long-running catalogue.",
+        "genres": [
+          "pop"
         ]
       }
     ]

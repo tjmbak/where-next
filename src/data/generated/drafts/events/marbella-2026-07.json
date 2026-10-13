@@ -2,9 +2,9 @@
   "slug": "marbella",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:24:40.989Z",
-  "responseId": "resp_0b8ea2f50c6da07a0069ff5f6602b881a29a239ae61ff785d7",
-  "searchCalls": 14,
+  "generatedAt": "2026-05-30T18:28:41.257Z",
+  "responseId": "augment:resp_0f147abd065ea1fe006a1b2bdeb7408198919f54b2567e3d08",
+  "searchCalls": 13,
   "citations": [],
   "data": {
     "destinationSlug": "marbella",
@@ -12,24 +12,6 @@
     "year": 2026,
     "notes": "July 2026 is anchored by Starlite Occident’s international concert run, with Marbella Arena adding a compact electronic/house strand around mid-month.",
     "events": [
-      {
-        "id": "marbella-danny-ocean-2026",
-        "title": "Danny Ocean at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 82,
-        "venueName": "Starlite Occident Auditorium",
-        "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/danny-ocean-2/",
-        "ticketUrl": null,
-        "summary": "Danny Ocean performs at Starlite Occident’s Auditorium on July 4, with the festival billing him around hits including “Me Rehúso” and his contemporary Latin-pop catalog.",
-        "genres": [
-          "latin",
-          "pop",
-          "r-and-b"
-        ]
-      },
       {
         "id": "marbella-maroon-5-2026",
         "title": "Maroon 5 at Starlite Occident",
@@ -47,53 +29,20 @@
         ]
       },
       {
-        "id": "marbella-faithless-arena-2026",
-        "title": "Faithless at Marbella Arena",
-        "type": "club-night",
-        "startDate": "2026-07-09",
-        "endDate": "2026-07-09",
-        "importance": 82,
-        "venueName": "Marbella Arena",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2344219",
-        "ticketUrl": "https://ra.co/events/2344219",
-        "summary": "Faithless are listed by Resident Advisor for a live Marbella Arena show on July 9, with support from BL3SS and an 20:00–01:00 event time.",
-        "genres": [
-          "electronic",
-          "house"
-        ]
-      },
-      {
-        "id": "marbella-chris-stussy-arena-2026",
-        "title": "Chris Stussy at Marbella Arena",
-        "type": "club-night",
-        "startDate": "2026-07-11",
-        "endDate": "2026-07-11",
-        "importance": 78,
-        "venueName": "Marbella Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Marbella-Arena/Chris-Stussy-at-Marbella-Arena/42414230/",
-        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Marbella-Arena/Chris-Stussy-at-Marbella-Arena/42414230/",
-        "summary": "Chris Stussy plays a Marbella Arena open-air show on July 11, with Skiddle listing Laidlaw and Lauren Lo Sung on the lineup and house as the genre.",
-        "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "marbella-jean-michel-jarre-2026",
-        "title": "Jean-Michel Jarre at Starlite Occident",
+        "id": "marbella-john-legend-2026",
+        "title": "John Legend at Starlite Occident",
         "type": "concert",
-        "startDate": "2026-07-13",
-        "endDate": "2026-07-13",
-        "importance": 88,
+        "startDate": "2026-07-20",
+        "endDate": "2026-07-20",
+        "importance": 90,
         "venueName": "Starlite Occident Auditorium",
         "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/jean-michel-jarre-2/",
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/john-legend-2/",
         "ticketUrl": null,
-        "summary": "Jean-Michel Jarre appears at Starlite Occident on July 13, with the official listing placing the electronic-music pioneer in the Auditorium at 22:00.",
+        "summary": "John Legend returns to Starlite Occident on July 20, with the official event page placing the EGOT-winning singer-songwriter in the Auditorium at 22:00.",
         "genres": [
-          "electronic"
+          "r-and-b",
+          "pop"
         ]
       },
       {
@@ -113,54 +62,19 @@
         ]
       },
       {
-        "id": "marbella-josh-baker-arena-2026",
-        "title": "Josh Baker at Marbella Arena",
-        "type": "club-night",
-        "startDate": "2026-07-17",
-        "endDate": "2026-07-17",
-        "importance": 76,
-        "venueName": "Marbella Arena",
+        "id": "marbella-jean-michel-jarre-2026",
+        "title": "Jean-Michel Jarre at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-13",
+        "importance": 88,
+        "venueName": "Starlite Occident Auditorium",
         "venueId": null,
-        "sourceUrl": "https://nl.ra.co/events/2360575",
-        "ticketUrl": "https://nl.ra.co/events/2360575",
-        "summary": "Josh Baker is confirmed by Resident Advisor for Marbella Arena on July 17, with house music listed as the genre and the event running 19:00–01:00.",
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/jean-michel-jarre-2/",
+        "ticketUrl": null,
+        "summary": "Jean-Michel Jarre appears at Starlite Occident on July 13, with the official listing placing the electronic-music pioneer in the Auditorium at 22:00.",
         "genres": [
-          "house",
           "electronic"
-        ]
-      },
-      {
-        "id": "marbella-yandel-sinfonico-2026",
-        "title": "Yandel Sinfónico at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-07-18",
-        "endDate": "2026-07-18",
-        "importance": 84,
-        "venueName": "Starlite Occident Auditorium",
-        "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/yandel-sinfonico-2/",
-        "ticketUrl": null,
-        "summary": "Yandel brings his “Yandel Sinfónico” show to Starlite Occident on July 18, reworking his urban and reggaeton catalog with a symphonic format.",
-        "genres": [
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "marbella-john-legend-2026",
-        "title": "John Legend at Starlite Occident",
-        "type": "concert",
-        "startDate": "2026-07-20",
-        "endDate": "2026-07-20",
-        "importance": 90,
-        "venueName": "Starlite Occident Auditorium",
-        "venueId": null,
-        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/john-legend-2/",
-        "ticketUrl": null,
-        "summary": "John Legend returns to Starlite Occident on July 20, with the official event page placing the EGOT-winning singer-songwriter in the Auditorium at 22:00.",
-        "genres": [
-          "r-and-b",
-          "pop"
         ]
       },
       {
@@ -198,6 +112,23 @@
         ]
       },
       {
+        "id": "marbella-yandel-sinfonico-2026",
+        "title": "Yandel Sinfónico at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "importance": 84,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/yandel-sinfonico-2/",
+        "ticketUrl": null,
+        "summary": "Yandel brings his “Yandel Sinfónico” show to Starlite Occident on July 18, reworking his urban and reggaeton catalog with a symphonic format.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
         "id": "marbella-manuel-turizo-2026",
         "title": "Manuel Turizo at Starlite Occident",
         "type": "concert",
@@ -212,6 +143,216 @@
         "genres": [
           "latin",
           "pop"
+        ]
+      },
+      {
+        "id": "marbella-danny-ocean-2026",
+        "title": "Danny Ocean at Starlite Occident",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 82,
+        "venueName": "Starlite Occident Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/eventoconcierto/danny-ocean-2/",
+        "ticketUrl": null,
+        "summary": "Danny Ocean performs at Starlite Occident’s Auditorium on July 4, with the festival billing him around hits including “Me Rehúso” and his contemporary Latin-pop catalog.",
+        "genres": [
+          "latin",
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-faithless-arena-2026",
+        "title": "Faithless at Marbella Arena",
+        "type": "club-night",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-09",
+        "importance": 82,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2344219",
+        "ticketUrl": "https://ra.co/events/2344219",
+        "summary": "Faithless are listed by Resident Advisor for a live Marbella Arena show on July 9, with support from BL3SS and an 20:00–01:00 event time.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-certti-mogli-2026",
+        "title": "Certti at Mogli",
+        "type": "residency",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-31",
+        "importance": 79,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.myguidemarbella.com/events/certti-at-mogli",
+        "ticketUrl": "https://www.skiddle.com/g/certti-pool-party/",
+        "summary": "Friday Mogli pool-party residency built around Afrobeats, R&B, hip-hop and amapiano, with July dates confirmed for every Friday from 3 to 31 July.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-chris-stussy-arena-2026",
+        "title": "Chris Stussy at Marbella Arena",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 78,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Marbella-Arena/Chris-Stussy-at-Marbella-Arena/42414230/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Marbella-Arena/Chris-Stussy-at-Marbella-Arena/42414230/",
+        "summary": "Chris Stussy plays a Marbella Arena open-air show on July 11, with Skiddle listing Laidlaw and Lauren Lo Sung on the lineup and house as the genre.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-afrobrunch-mogli-2026",
+        "title": "Afrobrunch at Mogli",
+        "type": "residency",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-30",
+        "importance": 78,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.myguidemarbella.com/events/afrobrunch-at-mogli",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobrunch-x-Mogli/42357208/",
+        "summary": "Afro-culture poolside Thursday residency at Mogli with July dates listed for 2, 9, 16, 23 and 30 July; the concept positions itself as one of Spain’s leading Afro music movements.",
+        "genres": [
+          "festival",
+          "afro-house",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "marbella-kisstory-nao-2026",
+        "title": "KISSTORY Marbella",
+        "type": "beach-club",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-26",
+        "importance": 78,
+        "venueName": "Nao Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://www.fatsoma.com/p/kisstorymarbella",
+        "ticketUrl": "https://www.fatsoma.com/p/kisstorymarbella",
+        "summary": "Major Sunday daytime pool-party brand at Nao Pool Club with confirmed July dates on 5, 12, 19 and 26 July, billed by the promoter as Marbella’s biggest pool-party/day-party event.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "house"
+        ]
+      },
+      {
+        "id": "marbella-josh-baker-arena-2026",
+        "title": "Josh Baker at Marbella Arena",
+        "type": "club-night",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 76,
+        "venueName": "Marbella Arena",
+        "venueId": null,
+        "sourceUrl": "https://nl.ra.co/events/2360575",
+        "ticketUrl": "https://nl.ra.co/events/2360575",
+        "summary": "Josh Baker is confirmed by Resident Advisor for Marbella Arena on July 17, with house music listed as the genre and the event running 19:00–01:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-nueva-soul-2026",
+        "title": "Nueva Soul - The AfroHouse Rooftop Experience",
+        "type": "residency",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-26",
+        "importance": 76,
+        "venueName": "Pangea Puerto Banus",
+        "venueId": null,
+        "sourceUrl": "https://xceed.me/en/MARBELLA/events/all/festivals",
+        "ticketUrl": "https://xceed.me/marbella/event/nueva-soul-the-afrohouse-rooftop-experience-5/222474",
+        "summary": "Sunday rooftop Afro-house series above Puerto Banús, with confirmed July dates including 5, 12, 19 and the DJ Sai Birthday Special on 26 July.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-afrobeast-mogli-2026",
+        "title": "AfroBeast x Mogli",
+        "type": "residency",
+        "startDate": "2026-07-07",
+        "endDate": "2026-07-28",
+        "importance": 74,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobeast-x-Mogli/42358397/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/Afrobeast-x-Mogli/42358397/",
+        "summary": "Tuesday daytime Afro-inspired pool party at Mogli, advertised with Afrobeats, amapiano, hip-hop and Afro-house across its summer 2026 run.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "marbella-rnb-lovers-mogli-2026",
+        "title": "R&B Lovers x Mogli",
+        "type": "residency",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-29",
+        "importance": 71,
+        "venueName": "Mogli Marbella",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/RB-Lovers-x-Mogli/42358946/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/spain/Mogli-Marbella/RB-Lovers-x-Mogli/42358946/",
+        "summary": "Wednesday throwback R&B pool-party residency at Mogli, focused on 90s and 00s R&B anthems in a daytime pool-club setting.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "marbella-red-cup-tibu-2026",
+        "title": "The Red Cup Party at Tibu",
+        "type": "residency",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-30",
+        "importance": 70,
+        "venueName": "TIBU Night Club",
+        "venueId": null,
+        "sourceUrl": "https://www.myguidemarbella.com/events/the-red-cup-party-at-tibu",
+        "ticketUrl": "https://www.fatsoma.com/e/9iy8yzzo/red-cup-party-at-tibu-marbella",
+        "summary": "Thursday-night TIBU residency through summer 2026 with a Hip-Hop, R&B, Afrobeats, UK and Bashment soundtrack; July dates are listed for 2, 9, 16, 23 and 30 July.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "marbella-bad-boujee-tibu-2026",
+        "title": "Bad & Boujee at TIBU Marbella",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-25",
+        "importance": 70,
+        "venueName": "TIBU Night Club",
+        "venueId": null,
+        "sourceUrl": "https://www.fatsoma.com/e/dxlk7p5k/bad-boujee-at-tibu-marbella",
+        "ticketUrl": "https://www.fatsoma.com/e/dxlk7p5k/bad-boujee-at-tibu-marbella",
+        "summary": "Puerto Banús urban club night at TIBU with Hip-Hop, R&B, Afrobeats and commercial party anthems, running late from Friday 24 July into Saturday morning.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
         ]
       }
     ]

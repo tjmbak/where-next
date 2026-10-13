@@ -1,0 +1,139 @@
+{
+  "slug": "sao-paulo",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:38:04.362Z",
+  "responseId": "resp_0afd64c032794a4b006acda6f3dcfc87d081746dbff9146474+resp_0e08feb5be2a8b9c006acda73b175887d08c73abae736ad002",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sao-paulo",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is already anchored by Lollapalooza Brasil, with a few confirmed arena and large-venue pop, MPB and dance-adjacent concerts around it; São Paulo club calendars are not yet meaningfully announced this far out.",
+    "events": [
+      {
+        "id": "sao-paulo-lollapalooza-brasil-2027",
+        "title": "Lollapalooza Brasil 2027",
+        "type": "festival",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-21",
+        "importance": 98,
+        "venueName": "Autódromo de Interlagos",
+        "venueId": "lolla-brasil",
+        "sourceUrl": "https://redeglobo.globo.com/redebahia/noticia/lollapalooza-brasil-2027-charli-xcx-travis-scott-david-guetta-the-killers-mochakk-e-mais-confira-line-up.ghtml",
+        "ticketUrl": "https://www.lollapaloozabr.com/information",
+        "summary": "Lollapalooza Brasil 2027 is confirmed for 19–21 March at Autódromo de Interlagos. Announced top-billed names include Travis Scott, Charli XCX, David Guetta, The Killers, Queens of the Stone Age, The Prodigy and Mochakk.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-jao-memorias-postumas-2027",
+        "title": "Jão | Turnê Memórias Póstumas",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 78,
+        "venueName": "Nubank Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/jao/jao-turne-memorias-postumas-4252486/?affiliate=TD0",
+        "ticketUrl": "https://www.eventim.com.br/artist/jao/jao-turne-memorias-postumas-4252486/?affiliate=TD0",
+        "summary": "Brazilian pop star Jão is confirmed at Nubank Parque on 27 March 2027 for the Memórias Póstumas tour. Eventim lists the São Paulo show with gates at 16:00 and the stadium venue at Av. Francisco Matarazzo, 1705.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-jungle-world-tour-2027",
+        "title": "Jungle - World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-30",
+        "endDate": "2027-03-30",
+        "importance": 74,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/jungle/",
+        "ticketUrl": "https://www.eventim.com.br/artist/jungle/",
+        "summary": "UK dance-soul band Jungle are confirmed for Espaço Unimed on 30 March 2027 at 21:30. The Eventim listing frames the São Paulo date as part of the Jungle World Tour 2027.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-cabaret-voltaire-2027",
+        "title": "Cabaret Voltaire — Final Tour",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Cine Joia",
+        "venueId": null,
+        "sourceUrl": "https://fastix.com.br/events/cabaret-voltaire-em-sao-paulo",
+        "ticketUrl": "https://fastix.com.br/events/cabaret-voltaire-em-sao-paulo",
+        "summary": "A rare São Paulo date for the industrial/electronic pioneers on their farewell tour, positioned more for post-punk, EBM, synth and experimental-electronic heads than the mainstream concert circuit.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "sao-paulo-sidechain-festival-2027",
+        "title": "SideChain Festival - 1° Edição: Pressure Factory",
+        "type": "festival",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-14",
+        "importance": 74,
+        "venueName": "Santa Helena Eventos e Lazer",
+        "venueId": null,
+        "sourceUrl": "https://zig.tickets/en-US/eventos/sidechain-festival-1-edicao-pressure-factory",
+        "ticketUrl": "https://zig.tickets/en-US/eventos/sidechain-festival-1-edicao-pressure-factory",
+        "summary": "Metro-area underground hi-BPM gathering in Mairiporã focused on Brazilian acelero culture, collectives, local artists and community-building rather than mainstream EDM festival booking.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-vice-versa-2027",
+        "title": "Vice-Versa | Arnaldo Antunes e Adriana Calcanhotto",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 70,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/vice-versa/",
+        "ticketUrl": "https://www.eventim.com.br/artist/vice-versa/",
+        "summary": "Arnaldo Antunes and Adriana Calcanhotto bring their collaborative Vice-Versa project to Espaço Unimed, with the São Paulo date listed for 6 March 2027 at 22:00. The show is built around their joint album plus reworked songs from both artists’ catalogues.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-fernando-sorocaba-2027",
+        "title": "Fernando & Sorocaba",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 64,
+        "venueName": "Tokio Marine Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/fernando-e-sorocaba-tokio-marine-hall",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/fernando-e-sorocaba-tokio-marine-hall",
+        "summary": "The sertanejo/country duo Fernando & Sorocaba are confirmed for Tokio Marine Hall on 12 March 2027 at 22:00. The Ticketmaster event page bills the show around the duo’s connection between Brazilian sertanejo and country music.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "slug": "london",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:43:28.803Z",
+  "responseId": "resp_0679a8bbd478afe0006acda811633c87d09c0d80b60ab0e97a+resp_0a13b03dadebb977006acda884e13c87d087a0c6ab80f0d9be",
+  "searchCalls": 38,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027’s confirmed London calendar is already weighted toward arena-scale pop and electronic shows, with a strong contemporary jazz thread running from KOKO to Brick Lane Jazz Festival.",
+    "events": [
+      {
+        "id": "london-olivia-rodrigo-residency-2027",
+        "title": "Olivia Rodrigo: The Unraveled Tour residency",
+        "type": "residency",
+        "startDate": "2027-04-05",
+        "endDate": "2027-04-05",
+        "importance": 94,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/olivia-rodrigo-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/olivia-rodrigo-2027",
+        "summary": "Olivia Rodrigo brings The Unraveled Tour to The O2 as a UK-exclusive residency, with the source listing 5 April 2027 among the confirmed dates. Grace Ives is listed for the early April run, with Die Spitz joining later dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-brick-lane-jazz-festival-2027",
+        "title": "Brick Lane Jazz Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-25",
+        "importance": 89,
+        "venueName": "Brick Lane venues",
+        "venueId": null,
+        "sourceUrl": "https://www.bricklanejazzfestival.com/",
+        "ticketUrl": "https://www.bricklanejazzfestival.com/",
+        "summary": "Brick Lane Jazz Festival is confirmed for 22–25 April 2027 and bills itself as East London’s home for forward-thinking sounds. The first wave includes Emma-Jean Thackray, MRCY, Dana & Alden, Novelist, Yazz Ahmed & BODUR, Marie Dahlstrøm, Auntie Flo live and more.",
+        "genres": [
+          "jazz",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-chase-status-o2-2027",
+        "title": "Chase & Status",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-03",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/chase-status",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/chase-status",
+        "summary": "Chase & Status return to The O2 for two nights, with the venue describing them as a duo at the forefront of the UK electronic scene. The listing explicitly confirms Friday 2 and Saturday 3 April 2027.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-soultown-festival-o2-2027",
+        "title": "Soultown Festival: Soultown in Concert",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-10",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/soultown-festival-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/soultown-festival-2027",
+        "summary": "Soultown marks its 10 Year Anniversary with a one-night concert at The O2. The confirmed bill includes Kool and the Gang, Earth Wind and Fire by Al McKay, Sister Sledge ft Kathy Sledge, Shalamar, Kenny Thomas, The Real Thing, Boney M, Odyssey, Heatwave and The Drifters.",
+        "genres": [
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-teddy-swims-o2-2027",
+        "title": "Teddy Swims: The UGLY Tour",
+        "type": "concert",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-25",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/teddy-swims",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/teddy-swims",
+        "summary": "Teddy Swims brings The UGLY Tour to The O2 on 21, 22, 24 and 25 April 2027. The venue describes it as his biggest EU/UK headline tour to date.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-gracie-abrams-o2-2027",
+        "title": "Gracie Abrams: The Look at My Life Tour",
+        "type": "concert",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-04",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/gracie-abrams-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/gracie-abrams-2027",
+        "summary": "Gracie Abrams returns to The O2 with The Look at My Life arena tour, starting its London run on 30 April 2027 and continuing into May. Samia is listed as special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-jordan-rakei-ally-pally-2027",
+        "title": "Jordan Rakei",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 81,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/jordan-rakei/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/jordan-rakei/",
+        "summary": "Jordan Rakei plays Alexandra Palace’s Great Hall on 24 April 2027 with special guest Olive Jones. The venue describes it as his biggest-ever headline show and part of the A Safe Place To Be Wild Tour.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-lizzy-mcalpine-brixton-2027",
+        "title": "Lizzy McAlpine: The Over Country Tour",
+        "type": "concert",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 78,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.academymusicgroup.com/events/lizzy-mcalpine-tickets-ae1395981",
+        "ticketUrl": "https://www.academymusicgroup.com/events/lizzy-mcalpine-tickets-ae1395981",
+        "summary": "Lizzy McAlpine’s The Over Country Tour has an explicitly listed O2 Academy Brixton date on Thursday 1 April 2027. The venue page describes the tour as supporting her fourth album, Angel.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-moses-boyd-2027",
+        "title": "Moses Boyd",
+        "type": "concert",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 76,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/moses-boyd",
+        "ticketUrl": "https://www.koko.co.uk/events/moses-boyd",
+        "summary": "Moses Boyd plays KOKO with a show billed under jazz and afrobeats. The listing highlights his album Songs For Sinners and his role in expanding contemporary UK jazz through gospel, soundsystem culture, Caribbean rhythms and 808s.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-gabrielle-apollo-2027",
+        "title": "Gabrielle: The Hits UK Tour",
+        "type": "concert",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-09",
+        "importance": 74,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/gabrielle/",
+        "ticketUrl": "https://www.eventimapollo.com/events/gabrielle/",
+        "summary": "Gabrielle brings The Hits UK Tour to Eventim Apollo on 9 April 2027. The venue lists Damage and DJ Lorcan as special guests.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-acid-arab-2027",
+        "title": "Acid Arab (Full Live Show)",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 74,
+        "venueName": "Village Underground",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2543565",
+        "ticketUrl": "https://ra.co/events/2543565",
+        "summary": "Acid Arab bring their live show to Village Underground, blending Western electronics with Middle Eastern folk and psychedelic club energy.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-atlantic-starr-indigo-2027",
+        "title": "Atlantic Starr: 50th Anniversary Greatest Hits Tour",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 72,
+        "venueName": "indigo at The O2",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/atlantic-starr",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/atlantic-starr",
+        "summary": "Atlantic Starr bring their 50th Anniversary Greatest Hits Tour to indigo at The O2 on 24 April 2027. The venue bills it as the group’s only UK appearance and first London show in over 20 years.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-osibisa-jazz-cafe-2027",
+        "title": "Osibisa",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-02",
+        "importance": 70,
+        "venueName": "Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.co.uk/event/osibisa-london-jazz-cafe-21419333/?affiliate=N2V",
+        "ticketUrl": "https://www.eventim.co.uk/event/osibisa-london-jazz-cafe-21419333/?affiliate=N2V",
+        "summary": "Osibisa perform at the Jazz Cafe, with the event page describing the London-founded band’s West African and Caribbean-rooted sound. The show is listed for 18:30 on 2 April 2027.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-moondance-old-skool-2027",
+        "title": "Moondance Old Skool Session",
+        "type": "club-night",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 70,
+        "venueName": "Studio 338",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/London/Studio-338/Moondance-Old-Skool-Session/42833366/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/Studio-338/Moondance-Old-Skool-Session/42833366/",
+        "summary": "Long-running rave brand Moondance returns to Studio 338 for a daytime old-skool session focused on house and classic rave culture.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-cape-town-to-london-2027",
+        "title": "CAPE TOWN TO LONDON",
+        "type": "club-night",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-17",
+        "importance": 65,
+        "venueName": "Tereza Joanne",
+        "venueId": null,
+        "sourceUrl": "https://whatnightout.uk/london/events/cape-town-to-london-8094160",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/cape-town-to-london-tickets-1999100940728",
+        "summary": "Monthly Amapiano Takeover On The Water party at Tereza Joanne with resident DJs and rotating special guests, billed around afrobeat, electronic and house sounds.",
+        "genres": [
+          "amapiano",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-optionone-thames-2027",
+        "title": "[Rescheduled] OptionOne On The Thames - Sunset Boat Party",
+        "type": "club-night",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 64,
+        "venueName": "Temple Pier",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2482996",
+        "ticketUrl": "https://ra.co/events/2482996",
+        "summary": "OptionOne’s annual Thames boat party returns with resident DJs playing curated house, electronica, techno and in-between sounds on the Golden Star from Temple Pier.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-bubbledee-house-haven-2027",
+        "title": "Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft",
+        "type": "club-night",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-18",
+        "importance": 63,
+        "venueName": "Colour Factory",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2501694",
+        "ticketUrl": "https://ra.co/events/2501694",
+        "summary": "Bubbledee’s monthly Colour Factory Loft session pairs Andrea Giudice and Larry Cadge with a late-night house/minimal dancefloor.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

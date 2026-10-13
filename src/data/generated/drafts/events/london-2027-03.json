@@ -1,0 +1,311 @@
+{
+  "slug": "london",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:30:10.385Z",
+  "responseId": "resp_09632113e9bbc479006acda4e5917887d0bff3ed83ff551714+resp_04c099d7fdfc3f0a006acda55de0c887d09fb7535dc70ee2f2",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is already anchored by arena-scale pop, hip-hop, K-pop and dance, plus a notable electronic-club reunion and specialist festival programming.",
+    "events": [
+      {
+        "id": "london-bloc-reunion-mar-2027",
+        "title": "Bloc 20 Year Reunion",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 90,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2409209",
+        "ticketUrl": "https://ra.co/events/2409209",
+        "summary": "Bloc returns for a 20-year reunion at The Cause on 6 March 2027, with Jeff Mills, British Murder Boys live, DJ Storm b2b Tasha, Egyptian Lover live, Leftfield DJ set, Miss Djax, Tama Sumo & Lakuti and more announced.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-c2c-country-to-country-mar-2027",
+        "title": "C2C: Country to Country 2027",
+        "type": "festival",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-14",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/c2c-country-to-country-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/c2c-country-to-country-2027",
+        "summary": "C2C returns to The O2 from 12 to 14 March 2027 with Ashley McBryde, Riley Green, Midland, Dasha, Cole Swindell, Chase Matthew and more listed across the London weekend.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-enhypen-o2-mar-2027",
+        "title": "ENHYPEN WORLD TOUR ‘BLOOD SAGA’ IN LONDON",
+        "type": "concert",
+        "startDate": "2027-03-08",
+        "endDate": "2027-03-09",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/enhypen-world-tour-blood-saga",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/enhypen-world-tour-blood-saga",
+        "summary": "K-pop group ENHYPEN play two nights at The O2 on 8 and 9 March 2027 for the BLOOD SAGA world tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-rapperholic-ghana70-mar-2027",
+        "title": "Rapperholic UK — Ghana’s 70th Independence Day",
+        "type": "concert",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/rapperholic-uk-ghanas-70th-independence-day",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/rapperholic-uk-ghanas-70th-independence-day",
+        "summary": "Sarkodie brings Rapperholic UK to The O2 on Ghana’s 70th Independence Day, with a surprise guest lineup promised for 6 March 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-rush-o2-mar-2027",
+        "title": "RUSH — Fifty Something Tour",
+        "type": "concert",
+        "startDate": "2027-03-16",
+        "endDate": "2027-03-21",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/rush",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/rush",
+        "summary": "Rush co-founders Geddy Lee and Alex Lifeson bring the Fifty Something Tour to The O2 for shows on 16, 18 and 21 March 2027, celebrating more than 50 years of Rush music.",
+        "genres": []
+      },
+      {
+        "id": "london-sonny-fodera-o2-mar-2027",
+        "title": "Sonny Fodera",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/sonny-fodera",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/sonny-fodera",
+        "summary": "Sonny Fodera plays The O2 on 27 March 2027, bringing his house-focused arena show and high-energy live production to London.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-ndubz-o2-mar-2027",
+        "title": "N-Dubz — The Legacy Tour",
+        "type": "concert",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-05",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/n-dubz-2027",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/n-dubz-2027",
+        "summary": "London pop-rap group N-Dubz bring The Legacy Tour to The O2 for three in-the-round arena shows from 3 to 5 March 2027.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-sub-focus-o2-mar-2027",
+        "title": "Sub Focus — Circular Sound",
+        "type": "concert",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-26",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/sub-focus",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/sub-focus",
+        "summary": "Sub Focus brings the Circular Sound Tour to The O2 on 26 March 2027, with an immersive live production built around his drum & bass catalogue.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-lizzy-mcalpine-brixton-mar-2027",
+        "title": "Lizzy McAlpine — THE OVER COUNTRY TOUR",
+        "type": "concert",
+        "startDate": "2027-03-31",
+        "endDate": "2027-03-31",
+        "importance": 80,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.uk/lizzy-mcalpine-london-31-03-2027/event/3E006537B4EA31F2",
+        "ticketUrl": "https://www.ticketmaster.co.uk/lizzy-mcalpine-london-31-03-2027/event/3E006537B4EA31F2",
+        "summary": "Lizzy McAlpine opens her London O2 Academy Brixton run on 31 March 2027 for THE OVER COUNTRY TOUR.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-trance-sanctuary-fsoe-2027",
+        "title": "Trance Sanctuary presents FSOE Road To 1000",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-07",
+        "importance": 80,
+        "venueName": "Outernet Live / The Lower Third",
+        "venueId": null,
+        "sourceUrl": "https://www.fsoelondon.co.uk/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/London/Outernet-Live/Trance-Sanctuary-presents-FSOE-Road-To-1000/42802425/",
+        "summary": "Trance Sanctuary links with Aly & Fila's Future Sound of Egypt for a Road To 1000 day-and-night takeover: a daytime Outernet Live event followed by an afterparty at The Lower Third, also marking Trance Sanctuary's 16th birthday.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-sienna-spiro-apollo-mar-2027",
+        "title": "Sienna Spiro",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-08",
+        "importance": 78,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/sienna-spiro/",
+        "ticketUrl": "https://www.eventimapollo.com/events/sienna-spiro/",
+        "summary": "Sienna Spiro is confirmed for a multi-night Eventim Apollo run from 4 to 8 March 2027, supporting the Visitor era.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-london-intl-ska-festival-mar-2027",
+        "title": "The London International Ska Festival 2027",
+        "type": "festival",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-27",
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://theskafestival.com/tickets-gigs/",
+        "ticketUrl": "https://theskafestival.com/tickets-gigs/",
+        "summary": "The London International Ska Festival marks its 39th anniversary from 25 to 27 March 2027, with first acts including Vin Gordon, The Bionic Rats, Nine Ton Peanut Smugglers, Rocksteady Conspiracy and Rookie Numbers.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-yousuke-yukimatsu-brixton-mar-2027",
+        "title": "Yousuke Yukimatsu (¥ØU$UK€ ¥UK1MAT$U)",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 76,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43416341-yousuke-yukimatsu-at-o2-academy-brixton",
+        "ticketUrl": "https://www.songkick.com/concerts/43416341-yousuke-yukimatsu-at-o2-academy-brixton",
+        "summary": "Japanese DJ Yousuke Yukimatsu is listed for O2 Academy Brixton on 27 March 2027, with doors at 19:00 and ticket links to the venue/Ticketmaster.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-malaa-alter-ego-2027",
+        "title": "Malaa's Alter Ego",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "E1 London",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1040385954-malaa-at-e1-london?came_from=168",
+        "ticketUrl": null,
+        "summary": "French producer Malaa brings the heavier Alter Ego project to E1, billed around a harder-edged electronic sound that moves beyond bass house into drum & bass, hard techno and hybrid rave territory.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "london-malcolm-todd-brixton-mar-2027",
+        "title": "Malcolm Todd: Do That Again Tour",
+        "type": "concert",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-04",
+        "importance": 75,
+        "venueName": "O2 Academy Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/malcolm-todd-do-that-again-tour-london-tickets-edp1698053",
+        "ticketUrl": "https://www.livenation.co.uk/event/malcolm-todd-do-that-again-tour-london-tickets-edp1698053",
+        "summary": "Malcolm Todd’s London run at O2 Academy Brixton includes confirmed dates on 2, 3 and 4 March, with Natanya listed as support on the 4 March listing.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-4am-kru-roundhouse-2027",
+        "title": "4am Kru - London",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "The Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2549674",
+        "ticketUrl": "https://ra.co/events/2549674",
+        "summary": "London jungle duo 4am Kru headline The Roundhouse with their live, 1994-flavoured jungle sound, presented by SJM Concerts and Wild Combination.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-cage-the-elephant-mar-2027",
+        "title": "Cage The Elephant — UK & EU Dying In Reverse Tour",
+        "type": "concert",
+        "startDate": "2027-03-01",
+        "endDate": "2027-03-01",
+        "importance": 74,
+        "venueName": "Alexandra Palace",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/cage-the-elephant/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/cage-the-elephant/",
+        "summary": "Cage The Elephant play Alexandra Palace’s Great Hall on 1 March 2027 as part of the UK & EU Dying In Reverse Tour.",
+        "genres": []
+      },
+      {
+        "id": "london-nouvelle-vague-koko-mar-2027",
+        "title": "Nouvelle Vague — A Date with Depeche Mode Tour",
+        "type": "concert",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-05",
+        "importance": 72,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://www.koko.co.uk/events/nouvelle-vague-a-date-with-depeche-mode-tour/nouvelle-vague-square-2",
+        "ticketUrl": "https://www.koko.co.uk/events/nouvelle-vague-a-date-with-depeche-mode-tour/nouvelle-vague-square-2",
+        "summary": "Nouvelle Vague play KOKO on 5 March 2027, touring their Depeche Mode reinterpretation project A Date with Depeche Mode.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

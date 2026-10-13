@@ -7,6 +7,7 @@ import {
 import { StayAndTravel } from "@/components/destinations/StayAndTravel";
 import { BentoDayCard } from "@/components/itineraries/BentoDayCard";
 import type { Itinerary, ItineraryDay } from "@/lib/itineraries/generate";
+import { SUPPORTED_YEARS } from "@/data/taxonomy";
 import type { Destination, Event, Venue } from "@/types/content";
 
 type ItineraryViewProps = {
@@ -25,16 +26,22 @@ export function ItineraryView({ itinerary, destination, onSwapDay, hideSummary }
   const eventById = new Map<string, Event>();
   const venueById = new Map<string, Venue>();
   const destinationBySlug = new Map<string, Destination>();
+  // The trip's own year is loaded last so its editions win on shared ids.
+  const tripYear = itinerary.startDate ? Number(itinerary.startDate.slice(0, 4)) : null;
+  const years = [...SUPPORTED_YEARS.filter((y) => y !== tripYear), ...(tripYear ? [tripYear] : [])];
+  const loadEvents = (slug: string) => {
+    for (const year of years) for (const e of getEventsForDestination(slug, year)) eventById.set(e.id, e);
+  };
   for (const slug of legSlugs) {
     const d = getDestinationBySlug(slug);
     if (d) destinationBySlug.set(slug, d);
-    for (const e of getEventsForDestination(slug)) eventById.set(e.id, e);
+    loadEvents(slug);
     for (const v of getVenuesForDestination(slug)) venueById.set(v.id, v);
   }
   // Fallback legacy: if legs not present, single destination
   if (!destinationBySlug.has(destination.slug)) {
     destinationBySlug.set(destination.slug, destination);
-    for (const e of getEventsForDestination(destination.slug)) eventById.set(e.id, e);
+    loadEvents(destination.slug);
     for (const v of getVenuesForDestination(destination.slug)) venueById.set(v.id, v);
   }
 

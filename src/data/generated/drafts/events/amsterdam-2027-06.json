@@ -1,0 +1,251 @@
+{
+  "slug": "amsterdam",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:06:53.908Z",
+  "responseId": "resp_0966d786d4dc79ce006acdad824e3887d095afdb50ba9491e6+resp_0ced9858bb619ebb006acdae03667487d0b9ff202f557bc5ef",
+  "searchCalls": 40,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 already has a strong confirmed electronic spine, led by 909 Festival, Tropikali and Luminosity’s 20-year trance week, with arena pop and Latin touring dates filling the month.",
+    "events": [
+      {
+        "id": "amsterdam-luminosity-beach-festival-jun-2027",
+        "title": "Luminosity Beach Festival 2027 — 20 Year Anniversary",
+        "type": "festival",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-27",
+        "importance": 88,
+        "venueName": "Beachclub Bernie's, Zandvoort",
+        "venueId": null,
+        "sourceUrl": "https://luminosity-events.nl/cevent/luminosity-beach-festival-2027-20-year-anniversary/",
+        "ticketUrl": "https://luminosity-events.nl/cevent/luminosity-beach-festival-2027-20-year-anniversary/",
+        "summary": "Luminosity’s flagship beach festival returns to Zandvoort for a four-day 20th-anniversary edition, positioned as the culmination of a full week of trance-focused celebrations around Amsterdam.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-909-festival-jun-2027",
+        "title": "909 Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-06",
+        "importance": 86,
+        "venueName": "Amsterdamse Bos",
+        "venueId": null,
+        "sourceUrl": "https://www.909.nl/",
+        "ticketUrl": "https://www.909.nl/",
+        "summary": "909 Festival returns to Amsterdamse Bos for two days, continuing its music-first techno and house identity built around the spirit of the Roland TR-909.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-don-omar-ziggo-jun-2027",
+        "title": "Don Omar — The Last King World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-06-30",
+        "endDate": "2027-06-30",
+        "importance": 84,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://ziggodome.nl/events/633a9a6f-6a55-4cae-ac71-9b318e67c9da/",
+        "ticketUrl": "https://ziggodome.nl/events/633a9a6f-6a55-4cae-ac71-9b318e67c9da/",
+        "summary": "Reggaeton heavyweight Don Omar plays Ziggo Dome on The Last King World Tour 2027, with the venue highlighting classics such as “Danza Kuduro,” “Dale Don Dale,” “Salió El Sol” and “Bandoleros.”",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "amsterdam-tropikali-festival-jun-2027",
+        "title": "Tropikali Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 82,
+        "venueName": "NDSM-werf",
+        "venueId": null,
+        "sourceUrl": "https://www.tropikali.nl/",
+        "ticketUrl": "https://www.tropikali.nl/",
+        "summary": "Tropikali returns to NDSM for edition N 9, with its Kalinichta, Latinichta, SECRETO and Rosario stages focused on queer community, global sounds, Latin rhythms, Balkan and SWANA influences, disco and electronic music.",
+        "genres": [
+          "latin",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-luminosity-paradiso-jun-2027",
+        "title": "Luminosity 20 Year Anniversary — Paradiso",
+        "type": "club-night",
+        "startDate": "2027-06-22",
+        "endDate": "2027-06-22",
+        "importance": 82,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://luminosity-events.nl/cevent/luminosity-20-year-anniversary-paradiso/",
+        "ticketUrl": "https://www.paradiso.nl/en/program/luminosity-20-years-anniversary/2915396",
+        "summary": "Luminosity marks 20 years with a daytime-to-evening anniversary event at Paradiso, bringing its global trance community into one of Amsterdam’s landmark music venues.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-festifest-2027",
+        "title": "Festifest",
+        "type": "festival",
+        "startDate": "2027-06-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "NDSM-werf + Noorderlicht",
+        "venueId": null,
+        "sourceUrl": "https://www.ndsm.nl/en/evenementen/festifest",
+        "ticketUrl": "https://www.festifest.nl/",
+        "summary": "Annual intimate house, disco and italo festival at NDSM Wharf/Noorderlicht, listed with three stages and a 5,000-person visitor cap.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-sombr-ziggo-jun-2027",
+        "title": "SOMBR — You Are The Reason Tour",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-01",
+        "importance": 76,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.nl/en/event/sombr-you-are-the-reason-tour-amsterdam-amsterdam-tickets-edp1693225",
+        "ticketUrl": "https://www.livenation.nl/en/event/sombr-you-are-the-reason-tour-amsterdam-amsterdam-tickets-edp1693225",
+        "summary": "SOMBR plays Ziggo Dome as part of the You Are The Reason Tour, with Ravyn Lenae and Jessie Mazin listed as support acts on the Live Nation event page.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "amsterdam-hayley-williams-afas-jun-2027",
+        "title": "Hayley Williams — The Hayley Williams Show",
+        "type": "concert",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-17",
+        "importance": 76,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/hayley-williams",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/hayley-williams",
+        "summary": "Hayley Williams brings The Hayley Williams Show to AFAS Live, with the venue confirming the Amsterdam date and that regular ticketing is handled by Ticketmaster.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-luminosity-paradiso-2027",
+        "title": "Luminosity 20 Year Anniversary at Paradiso",
+        "type": "club-night",
+        "startDate": "2027-06-22",
+        "endDate": "2027-06-23",
+        "importance": 76,
+        "venueName": "Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://luminosity-events.nl/events/luminosity-20-year-anniversary-paradiso/",
+        "ticketUrl": "https://luminosity-events.nl/events/luminosity-20-year-anniversary-paradiso/",
+        "summary": "Luminosity marks 20 years with a major anniversary event at Paradiso, positioning the night as a milestone gathering for its international electronic/trance community.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-take-that-afas-jun-2027",
+        "title": "Take That — Dreamers European Tour",
+        "type": "concert",
+        "startDate": "2027-06-27",
+        "endDate": "2027-06-27",
+        "importance": 75,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/en/agenda/take-that",
+        "ticketUrl": "https://www.afaslive.nl/en/agenda/take-that",
+        "summary": "Take That bring the Dreamers European Tour to AFAS Live, with Gary Barlow, Howard Donald and Mark Owen mixing songs from their upcoming Dreamers album with catalogue hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-simply-red-ziggo-jun-2027",
+        "title": "Simply Red — Summer Funk ’27",
+        "type": "concert",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-20",
+        "importance": 74,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://ziggodome.nl/en/events/c3a9a03a-ae22-4cb9-bdc5-d5322888d759/",
+        "ticketUrl": "https://www.ticketmaster.nl/event/simply-red-summer-funk-27-tickets/1266277965?language=en-us",
+        "summary": "Simply Red play two Ziggo Dome dates on the Summer Funk ’27 Tour, with the venue promising a set of soul, funk and fan favourites led by Mick Hucknall.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "amsterdam-luminosity-boat-jun-2027",
+        "title": "Luminosity 20 Year Anniversary — Boat Party",
+        "type": "club-night",
+        "startDate": "2027-06-21",
+        "endDate": "2027-06-21",
+        "importance": 74,
+        "venueName": "Boot10 / De Ruijterkade 14",
+        "venueId": null,
+        "sourceUrl": "https://luminosity-events.nl/cevent/luminosity-20-year-anniversary-boat-party/",
+        "ticketUrl": "https://luminosity-events.nl/cevent/luminosity-20-year-anniversary-boat-party/",
+        "summary": "Luminosity opens its 20 Year Anniversary Week with a seven-hour boat party on Amsterdam’s waters, boarding from De Ruijterkade by Central Station.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-luminosity-sunday-afterparty-jun-2027",
+        "title": "Luminosity 20 Year Anniversary — Sunday Afterparty",
+        "type": "club-night",
+        "startDate": "2027-06-27",
+        "endDate": "2027-06-28",
+        "importance": 72,
+        "venueName": "WestWeelde",
+        "venueId": null,
+        "sourceUrl": "https://luminosity-events.nl/cevent/luminosity-20-year-anniversary-sunday-afterparty/",
+        "ticketUrl": "https://luminosity-events.nl/cevent/luminosity-20-year-anniversary-sunday-afterparty/",
+        "summary": "Luminosity closes its anniversary weekend with a late-night afterparty at WestWeelde in Amsterdam, extending the trance week after the Zandvoort beach festival.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-raving-charlie-jun-2027",
+        "title": "Raving Charlie",
+        "type": "club-night",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 70,
+        "venueName": "Melkweg MAX",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/en/agenda/raving-charlie-26-06-2027/",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "Raving Charlie brings its monthly hard techno and rave night to Melkweg MAX, highlighting local hard-techno talent alongside international-facing rave energy.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

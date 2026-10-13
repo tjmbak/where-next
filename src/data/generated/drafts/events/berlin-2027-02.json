@@ -1,0 +1,289 @@
+{
+  "slug": "berlin",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:16:28.606Z",
+  "responseId": "resp_028fcd4c51b54ce0006acda1b99a4087d0bd0ac3da61e64c30+resp_097dbdcde4d329e3006acda252280087d0af9c988823e3d3d2",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is still early for Berlin’s underground club calendars, but several electronic/R&B/afro-diaspora concerts plus the Berlin Dance Music Event are already confirmed.",
+    "events": [
+      {
+        "id": "berlin-john-summit-feb-2027",
+        "title": "John Summit - Europe CTRL Escape Tour",
+        "type": "concert",
+        "startDate": "2027-02-18",
+        "endDate": "2027-02-18",
+        "importance": 85,
+        "venueName": "UFO im Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.ufo-velodrom.de/events/event/john-summit-ufo-2027-02-18",
+        "ticketUrl": "https://www.ticketmaster.de/event/john-summit--europe-ctrl-escape-tour-tickets/2091996281?language=en-us",
+        "summary": "John Summit brings his Europe CTRL Escape Tour to UFO im Velodrom, with the venue listing the show for 20:00 and doors at 18:30.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-chase-status-feb-2027",
+        "title": "Chase & Status Live - World Tour",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 84,
+        "venueName": "UFO im Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.ufo-velodrom.de/events/event/chase-status-ufo-2027-02-20",
+        "ticketUrl": "https://www.berlin.de/en/tickets/hip-hop/chase-and-status-live-world-tour/2027-02-20-chase-and-status-live-world-tour-363122bc-7d2a-4b24-9b49-cfc233a97261/",
+        "summary": "Chase & Status bring their live world tour to Berlin, presenting a drum & bass and UK bass live concept at UFO im Velodrom.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-bdme-feb-2027",
+        "title": "Berlin Dance Music Event 2027",
+        "type": "conference",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-28",
+        "importance": 80,
+        "venueName": "Various Berlin venues",
+        "venueId": null,
+        "sourceUrl": "https://berlin-dance-music-event.com/",
+        "ticketUrl": "https://shop.berlin-dance-music-event.com/",
+        "summary": "Berlin Dance Music Event returns from 25–28 February 2027 as a conference and night-program platform for electronic music culture, clubs, promoters, artists and industry professionals.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-masego-feb-2027",
+        "title": "Masego - Fix Your Face Tour",
+        "type": "concert",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-17",
+        "importance": 78,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://huxleysneuewelt.de/en/event/2027-02-17-masego",
+        "ticketUrl": "https://huxleysneuewelt.de/en/event/2027-02-17-masego",
+        "summary": "Masego’s Berlin date is confirmed at Huxleys Neue Welt after being postponed from 30 September 2026, with tickets remaining valid for the new date.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-slave-to-the-rave-valentines-2027",
+        "title": "Slave To The Rave Valentine's Return",
+        "type": "club-night",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-14",
+        "importance": 78,
+        "venueName": "OST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2389106",
+        "ticketUrl": "https://ra.co/events/2389106",
+        "summary": "Quest Agency brings Slave To The Rave back to OST for a 12-hour Valentine’s edition, with Chippy Nonstop, DJ Assault, DJ Fuckoff, DJ KILLING, softchaos, x3butterfly and host Darius The Barbarian pushing techno into jungle, ghettotech and rave hybrids.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-ibibio-sound-machine-feb-2027",
+        "title": "Ibibio Sound Machine",
+        "type": "concert",
+        "startDate": "2027-02-12",
+        "endDate": "2027-02-12",
+        "importance": 76,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://www.gretchen-club.de/detail.php?id=3589",
+        "ticketUrl": "https://www.gretchen-club.de/detail.php?id=3589",
+        "summary": "Ibibio Sound Machine play Gretchen with a live show built around West African rhythms, afrofuturist electronics, funk and club energy.",
+        "genres": [
+          "afro-house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-lee-fields-feb-2027",
+        "title": "Lee Fields",
+        "type": "concert",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-17",
+        "importance": 72,
+        "venueName": "Heimathafen Neukölln",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/lee-fields/2027-02-17-lee-fields-88a4b8bd-93aa-4fdb-8413-989775bbbfa9/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/rock-pop/lee-fields/2027-02-17-lee-fields-88a4b8bd-93aa-4fdb-8413-989775bbbfa9/",
+        "summary": "Soul singer Lee Fields is confirmed at Heimathafen Neukölln for a 20:00 Berlin show.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-cute-paracek-2027",
+        "title": "CUTE with Paraçek",
+        "type": "club-night",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-07",
+        "importance": 72,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497016",
+        "ticketUrl": "https://ra.co/events/2497016",
+        "summary": "DUALISMBERLIN’s CUTE returns to Lokschuppen Berlin for an 11-hour euphoric techno/trance night headlined by Paraçek, with more acts still to be announced.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-dagny-columbia-feb-2027",
+        "title": "Dagny - Europe 2027",
+        "type": "concert",
+        "startDate": "2027-02-15",
+        "endDate": "2027-02-15",
+        "importance": 70,
+        "venueName": "Columbia Theater",
+        "venueId": null,
+        "sourceUrl": "https://columbia-theater.de/event/20270215-dagny/",
+        "ticketUrl": "https://columbia-theater.de/event/20270215-dagny/",
+        "summary": "Norwegian pop artist Dagny plays Columbia Theater on her Europe 2027 tour, with the venue listing doors at 19:00 and show at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-drama-gretchen-feb-2027",
+        "title": "DRAMA",
+        "type": "concert",
+        "startDate": "2027-02-26",
+        "endDate": "2027-02-26",
+        "importance": 70,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://www.gretchen-club.de/en/detail.php",
+        "ticketUrl": "https://www.gretchen-club.de/en/detail.php",
+        "summary": "Chicago duo DRAMA are listed at Gretchen for 26 February 2027, with the venue categorizing the live show as electronica, soul, hip-hop and pop.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-los-bitchos-sinkane-feb-2027",
+        "title": "Greyzone presents: Los Bitchos & Friends with Sinkane solo",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-19",
+        "importance": 70,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://www.gretchen-club.de/en/detail.php",
+        "ticketUrl": "https://www.gretchen-club.de/en/detail.php",
+        "summary": "Greyzone presents Los Bitchos with Sinkane solo at Gretchen; the venue lists the show as cumbia, surf and psychedelic.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-rewi-ritter-butzke-feb-2027",
+        "title": "REWI",
+        "type": "club-night",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 66,
+        "venueName": "Ritter Butzke",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2520943",
+        "ticketUrl": "https://club.ritterbutzke.com/event/200227-REWI",
+        "summary": "Ritter Butzke hosts REWI for a techno night running from 22:00 to 07:00, confirmed on Resident Advisor.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-flexfab-manu-kann-feb-2027",
+        "title": "FLEXFAB & MANU KANN live",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 64,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://www.gretchen-club.de/en/detail.php?id=3580",
+        "ticketUrl": "https://ra.co/events/2511324",
+        "summary": "FlexFab and Manu Kann bring a live collaboration to Gretchen, blending club production, electronica and hip-hop.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-ana-lua-caiano-feb-2027",
+        "title": "Ana Lua Caiano",
+        "type": "concert",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "importance": 64,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://www.gretchen-club.de/en/detail.php",
+        "ticketUrl": "https://www.gretchen-club.de/en/detail.php",
+        "summary": "Portuguese artist Ana Lua Caiano plays Gretchen, with the venue listing the show under alt-pop, electronica and folk.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-thee-marloes-feb-2027",
+        "title": "Thee Marloes",
+        "type": "concert",
+        "startDate": "2027-02-23",
+        "endDate": "2027-02-23",
+        "importance": 64,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://www.gretchen-club.de/en/",
+        "ticketUrl": "https://www.gretchen-club.de/en/",
+        "summary": "Indonesian soul/R&B group Thee Marloes are listed at Gretchen for 23 February 2027 with doors at 19:30 and show at 20:30.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-moyka-kantine-feb-2027",
+        "title": "Moyka",
+        "type": "concert",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 63,
+        "venueName": "Kantine am Berghain",
+        "venueId": null,
+        "sourceUrl": "https://berghain.berlin/en/event/82432/",
+        "ticketUrl": "https://berghain.berlin/en/event/82432/",
+        "summary": "Norwegian electronic-pop artist Moyka plays Kantine am Berghain, with the official Berghain listing doors at 19:00 and start at 20:00.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

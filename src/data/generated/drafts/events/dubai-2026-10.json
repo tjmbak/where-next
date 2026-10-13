@@ -2,76 +2,329 @@
   "slug": "dubai",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:21:23.230Z",
-  "responseId": "resp_0a6b9f6bd9db3bc20069ff5e9a57cc8190a806fd4ef099f939",
-  "searchCalls": 19,
+  "generatedAt": "2026-10-13T02:30:15.705Z",
+  "responseId": "resp_0415d5b9cd6be9db006acd96d5ae1087d081c7c7e7fea67346+resp_075acc90fbaa3bb0006acd9752420887d09f7daa71a0743103",
+  "searchCalls": 33,
   "citations": [],
   "data": {
     "destinationSlug": "dubai",
     "month": 10,
     "year": 2026,
-    "notes": "October currently skews toward confirmed arena pop/heritage concerts and large outdoor festival brands, with several lineups still pending.",
+    "notes": "October 2026 is unusually strong for Dubai’s open-air electronic circuit, with Pacha ICONS, Bohemia, Ushuaïa Dubai Harbour, Soho Garden and Be Beach all anchoring the month alongside diaspora pop concerts.",
     "events": [
       {
-        "id": "dubai-richard-marx-2026",
-        "title": "Richard Marx Live at Coca-Cola Arena",
-        "type": "concert",
+        "id": "dubai-black-coffee-ushuaia-2026",
+        "title": "Black Coffee at Ushuaïa Dubai Harbour Experience",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 95,
+        "venueName": "Ushuaïa Dubai Harbour Experience",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108406/black-coffee-at-ushuaia-dubai-harbour-experience-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108406/black-coffee-at-ushuaia-dubai-harbour-experience-in-dubai",
+        "summary": "Black Coffee headlines the Season 3 opening party of Ushuaïa Dubai Harbour Experience. Platinumlist lists Black Coffee and Drive for the 24 October event at the Dubai Harbour venue.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-carl-cox-pacha-icons-2026",
+        "title": "Carl Cox | Season Opening – Pacha ICONS",
+        "type": "residency",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 90,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/091026-carl-cox-season-opening-pacha-icons",
+        "ticketUrl": "https://www.pachaicons.com/dubai/events/091026-carl-cox-season-opening-pacha-icons",
+        "summary": "Carl Cox opens the new Pacha ICONS season at Playa Pacha, FIVE LUXE JBR. The official page bills the event as a season-opening night of house at Dubai’s open-air dancefloor.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-adam-port-pacha-2026",
+        "title": "Adam Port | Pacha ICONS",
+        "type": "residency",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 88,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/311026-adam-port-pacha-icons",
+        "ticketUrl": "https://www.pachaicons.com/dubai/events/311026-adam-port-pacha-icons",
+        "summary": "Adam Port returns to Pacha ICONS at Playa Pacha, FIVE LUXE JBR. The official listing frames the night around the Keinemusik-linked artist’s deep, hypnotic house and Afro-influenced rhythms.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-sonny-fodera-pacha-2026",
+        "title": "Sonny Fodera | Playa Pacha",
+        "type": "residency",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 86,
+        "venueName": "Playa Pacha, FIVE LUXE JBR",
+        "venueId": null,
+        "sourceUrl": "https://www.pachaicons.com/dubai/events/210326-sonny-fodera-playa-pacha",
+        "ticketUrl": "https://www.pachaicons.com/dubai/events/210326-sonny-fodera-playa-pacha",
+        "summary": "Sonny Fodera brings his house sound to Playa Pacha at FIVE LUXE JBR. The official Pacha ICONS page lists Sonny Fodera with TSHA and Molly D on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-lost-frequencies-bohemia-2026",
+        "title": "Bohemia Presents Lost Frequencies | Season Opening Party",
+        "type": "beach-club",
         "startDate": "2026-10-03",
         "endDate": "2026-10-03",
-        "importance": 78,
+        "importance": 84,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/bohemia-presents-lost-frequencies-season-opening-party-tickets/999378145",
+        "ticketUrl": "https://www.ticketmaster.ae/event/bohemia-presents-lost-frequencies-season-opening-party-tickets/999378145",
+        "summary": "Lost Frequencies headlines Bohemia Beach Club’s season opening party at FIVE Palm Jumeirah. The bill is positioned as a beachfront electronic-music opener for Bohemia’s autumn run.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-nancy-ajram-coca-cola-arena-2026",
+        "title": "Nancy Ajram Live",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 84,
         "venueName": "Coca-Cola Arena",
         "venueId": null,
-        "sourceUrl": "https://coca-cola-arena.com/music/1837/richard-marx",
-        "ticketUrl": "https://coca-cola-arena.com/music/1837/richard-marx",
-        "summary": "Coca-Cola Arena confirms Richard Marx for Saturday 3 October 2026 at 8:00 PM. The show is billed as his first Middle East performance, covering four decades of hits.",
+        "sourceUrl": "https://www.district.ae/events/nancy-ajram-live-buy-tickets",
+        "ticketUrl": "https://www.district.ae/events/nancy-ajram-live-buy-tickets",
+        "summary": "Nancy Ajram performs a one-night Arabic pop concert at Coca-Cola Arena. The ticket page confirms the 24 October date and presents the show as the Queen of Arabic Pop’s return to Dubai.",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "dubai-kpopz-live-2026",
-        "title": "KPOPZ Live - The Ultimate K-pop Experience",
-        "type": "concert",
-        "startDate": "2026-10-03",
-        "endDate": "2026-10-03",
-        "importance": 62,
-        "venueName": "Theatre by QE2",
-        "venueId": null,
-        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/105187/kpopz-live-the-ultimate-k-pop-experience-at-theatre-by-qe2",
-        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/105187/kpopz-live-the-ultimate-k-pop-experience-at-theatre-by-qe2",
-        "summary": "Platinumlist confirms this K-pop tribute production at Theatre by QE2 on Saturday 3 October 2026. The show is built around K-pop choreography, immersive visuals and music associated with major Korean pop acts.",
+        "id": "dubai-i-hate-models-soho-2026",
+        "title": "I Hate Models at HIVE, Soho Garden Meydan",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 84,
+        "venueName": "Soho Garden Meydan",
+        "venueId": "soho-garden",
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108477/i-hate-models-at-hive-soho-garden-meydan-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108477/i-hate-models-at-hive-soho-garden-meydan-dubai",
+        "summary": "I Hate Models headlines HIVE at Soho Garden Meydan on 24 October. The Platinumlist event page describes a high-intensity night of techno, industrial and trance-influenced sounds.",
         "genres": [
-          "pop"
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "dubai-god-save-the-queen-2026",
-        "title": "God Save the Queen - A Tribute in Dubai",
-        "type": "concert",
-        "startDate": "2026-10-05",
-        "endDate": "2026-10-05",
-        "importance": 64,
-        "venueName": "Dubai Opera",
-        "venueId": null,
-        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104217/god-save-the-queen-a-tribute-in-dubai",
-        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104217/god-save-the-queen-a-tribute-in-dubai",
-        "summary": "Platinumlist confirms the Queen tribute show at Dubai Opera on Monday 5 October 2026 at 8:30 PM. The event is presented by Star System and features the touring tribute act led by Pablo Padín.",
+        "id": "dubai-massano-hive-2026",
+        "title": "MASSANO at HIVE, Soho Garden Meydan",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 82,
+        "venueName": "Soho Garden Meydan",
+        "venueId": "soho-garden",
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108434/massano-at-hive-soho-garden-meydan-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108434/massano-at-hive-soho-garden-meydan-dubai",
+        "summary": "Massano headlines HIVE at Soho Garden Meydan with support from SLVR and Jean B. Platinumlist frames the night around melodic house and techno, including Massano’s Afterlife/Drumcode-linked sound.",
         "genres": [
-          "pop"
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "dubai-sonny-fodera-playa-pacha-2026",
-        "title": "Sonny Fodera | Playa Pacha",
+        "id": "dubai-robin-schulz-bohemia-2026",
+        "title": "Bohemia Presents Robin Schulz",
         "type": "beach-club",
         "startDate": "2026-10-10",
         "endDate": "2026-10-10",
         "importance": 82,
-        "venueName": "FIVE Luxe JBR",
+        "venueName": "Bohemia Beach Club | FIVE Palm",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ae/event/sonny-fodera-playa-pacha-tickets/1704396099",
-        "ticketUrl": "https://www.ticketmaster.ae/event/sonny-fodera-playa-pacha-tickets/1704396099",
-        "summary": "Ticketmaster UAE confirms Sonny Fodera at Playa Pacha, FIVE Luxe JBR, on Saturday 10 October 2026 at 7:00 PM. The event is part of Pacha Icons and is listed as a 21+ dance/electronic show.",
+        "sourceUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/bohemia-presents-robin-schulz",
+        "ticketUrl": "https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar/bohemia-presents-robin-schulz",
+        "summary": "Robin Schulz returns to Dubai for Bohemia Presents at Bohemia Beach Club, FIVE Palm Jumeirah. Visit Dubai lists the event for 10 October as part of Bohemia’s new season.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-themba-bohemia-2026",
+        "title": "Bohemia Presents THEMBA",
+        "type": "beach-club",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 82,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/artist/bohemia-beach-club-tickets/1362134",
+        "ticketUrl": "https://www.ticketmaster.ae/artist/bohemia-beach-club-tickets/1362134",
+        "summary": "South African electronic artist THEMBA headlines Bohemia Beach Club as part of the Bohemia Presents Saturday series. Ticketmaster lists the event for 17 October at 7pm at FIVE Palm.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-indo-warehouse-2026",
+        "title": "INDO WAREHOUSE - Skyline Saturdays at The Penthouse",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "The Penthouse Dubai",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2544534",
+        "ticketUrl": "https://www.ticketmaster.ae/event/skyline-saturdays-presents-indo-warehouse-vstupenky/1971338580",
+        "summary": "Touring South Asian electronic/Indo-house brand Indo Warehouse lands at Skyline Saturdays with Kahani and Kunal Merchant blending club rhythms with South Asian folk and cinematic textures.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-tj-kz-coca-cola-arena-2026",
+        "title": "TJ Monterde & KZ Tandingan – In Between Middle East Tour",
+        "type": "concert",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 80,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/tj-monterde-kz-tandingan-in-between-middle-east-tour-tickets/234772650",
+        "ticketUrl": "https://www.ticketmaster.ae/event/tj-monterde-kz-tandingan-in-between-middle-east-tour-tickets/234772650",
+        "summary": "Filipino artists TJ Monterde and KZ Tandingan bring their In Between Middle East Tour to Coca-Cola Arena. The event is billed as an OPM concert featuring the two charting Filipino performers.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "dubai-dennis-cruz-bohemia-2026",
+        "title": "Bohemia Presents Dennis Cruz",
+        "type": "beach-club",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "Bohemia Beach Club | FIVE Palm",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/bohemia-presents-dennis-cruz-tickets/1895249673",
+        "ticketUrl": "https://www.ticketmaster.ae/event/bohemia-presents-dennis-cruz-tickets/1895249673",
+        "summary": "Dennis Cruz headlines Bohemia Beach Club at FIVE Palm on 31 October. Ticketmaster lists the event for 7pm as part of the Bohemia Presents programme.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-no-limit-fest-2026",
+        "title": "No Limit Fest Dubai: Ruger Live",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Helipad by Frozen Cherry",
+        "venueId": null,
+        "sourceUrl": "https://www.nolimitfest.net/",
+        "ticketUrl": "https://www.nolimitfest.net/",
+        "summary": "Afrobeats-forward diaspora festival debut at Helipad by Frozen Cherry, headlined by Ruger and billed around Afrobeats, Amapiano, hip-hop, electronic and Latin sounds.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-andrea-oliva-be-beach-2026",
+        "title": "Andrea Oliva at Be Beach Dubai",
+        "type": "beach-club",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 78,
+        "venueName": "Be Beach – Dubai",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/108208/andrea-oliva-at-be-beach-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/108208/andrea-oliva-at-be-beach-dubai",
+        "summary": "Qabila presents Andrea Oliva at Be Beach Dubai with support from Alex Twin. The waterfront party leans into Oliva’s house and techno sound associated with Ibiza’s ANTS parties.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-falguni-pathak-zabeel-2026",
+        "title": "Falguni Pathak Live in Dubai",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Zabeel Park Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/107047/falguni-pathak-live-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/107047/falguni-pathak-live-in-dubai",
+        "summary": "Falguni Pathak returns to Dubai for a live music and dance event at Zabeel Park Amphitheatre. Platinumlist bills the show around her dandiya and garba repertoire.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-aquaventure-after-dark-2026",
+        "title": "Aquaventure After Dark",
+        "type": "festival",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Aquaventure World",
+        "venueId": null,
+        "sourceUrl": "https://www.mixmaguae.com/read/aquaventure-after-dark-reveals-full-line-up-across-three-stages-news",
+        "ticketUrl": "https://www.aquaventureworld.com/",
+        "summary": "Three-stage after-hours waterpark party pairing hip-hop, R&B and Afrobeats with house/EDM areas, including Taya Kruzz, Keza, Tom Higham, Scott Forshaw and a Fred’s Coffee Party takeover.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "dubai-openhouse-2026",
+        "title": "OpenHouse Outdoor Day Party",
+        "type": "festival",
+        "startDate": "2026-10-24",
+        "endDate": null,
+        "importance": 76,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://openhousedxb.co/",
+        "ticketUrl": "https://openhousedxb.co/",
+        "summary": "OpenHouse returns as a Dubai open-air day-party takeover, gathering multiple local event brands, sounds and communities on one stage from 3pm till late.",
         "genres": [
           "house",
           "electronic"
@@ -96,17 +349,36 @@
         ]
       },
       {
-        "id": "dubai-boris-grebenshikov-2026",
-        "title": "Boris Grebenshikov",
-        "type": "concert",
+        "id": "dubai-elrow-2026",
+        "title": "elrow Dubai 2026: Nowmads",
+        "type": "festival",
         "startDate": "2026-10-24",
-        "endDate": "2026-10-24",
-        "importance": 72,
-        "venueName": "The Agenda",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Dubai Media City Amphitheatre",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ae/event/boris-grebenshikov-tickets/1469116963",
-        "ticketUrl": "https://www.ticketmaster.ae/event/boris-grebenshikov-tickets/1469116963",
-        "summary": "Ticketmaster UAE confirms Boris Grebenshikov at The Agenda on Saturday 24 October 2026 at 8:00 PM. The listing presents the Aquarium founder as performing in Dubai with BG+.",
+        "sourceUrl": "https://elrow.com/en/events/1256/dubai-nomads-new-world-10242026",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/elrow-dubai",
+        "summary": "The global elrow party brand returns to Dubai with its Nowmads theme, a one-day immersive electronic festival at Dubai Media City Amphitheatre with large-scale production and DJ lineup still to be announced.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "dubai-richard-marx-2026",
+        "title": "Richard Marx Live at Coca-Cola Arena",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 78,
+        "venueName": "Coca-Cola Arena",
+        "venueId": null,
+        "sourceUrl": "https://coca-cola-arena.com/music/1837/richard-marx",
+        "ticketUrl": "https://coca-cola-arena.com/music/1837/richard-marx",
+        "summary": "Coca-Cola Arena confirms Richard Marx for Saturday 3 October 2026 at 8:00 PM. The show is billed as his first Middle East performance, covering four decades of hits.",
         "genres": [
           "pop"
         ]
@@ -129,6 +401,22 @@
         ]
       },
       {
+        "id": "dubai-boris-grebenshikov-2026",
+        "title": "Boris Grebenshikov",
+        "type": "concert",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 72,
+        "venueName": "The Agenda",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ae/event/boris-grebenshikov-tickets/1469116963",
+        "ticketUrl": "https://www.ticketmaster.ae/event/boris-grebenshikov-tickets/1469116963",
+        "summary": "Ticketmaster UAE confirms Boris Grebenshikov at The Agenda on Saturday 24 October 2026 at 8:00 PM. The listing presents the Aquarium founder as performing in Dubai with BG+.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "dubai-summer-in-nashville-2026",
         "title": "Summer in Nashville Dubai 2026",
         "type": "festival",
@@ -142,6 +430,38 @@
         "summary": "The official Summer in Nashville site confirms the Dubai edition at Dubai Media City Amphitheatre on Saturday 31 October 2026. The event is billed as a touring country festival, with detailed artist billing not yet listed on the source page.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "dubai-god-save-the-queen-2026",
+        "title": "God Save the Queen - A Tribute in Dubai",
+        "type": "concert",
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-05",
+        "importance": 64,
+        "venueName": "Dubai Opera",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/104217/god-save-the-queen-a-tribute-in-dubai",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/104217/god-save-the-queen-a-tribute-in-dubai",
+        "summary": "Platinumlist confirms the Queen tribute show at Dubai Opera on Monday 5 October 2026 at 8:30 PM. The event is presented by Star System and features the touring tribute act led by Pablo Padín.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "dubai-kpopz-live-2026",
+        "title": "KPOPZ Live - The Ultimate K-pop Experience",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 62,
+        "venueName": "Theatre by QE2",
+        "venueId": null,
+        "sourceUrl": "https://dubai.platinumlist.net/event-tickets/105187/kpopz-live-the-ultimate-k-pop-experience-at-theatre-by-qe2",
+        "ticketUrl": "https://dubai.platinumlist.net/event-tickets/105187/kpopz-live-the-ultimate-k-pop-experience-at-theatre-by-qe2",
+        "summary": "Platinumlist confirms this K-pop tribute production at Theatre by QE2 on Saturday 3 October 2026. The show is built around K-pop choreography, immersive visuals and music associated with major Korean pop acts.",
+        "genres": [
+          "pop"
         ]
       }
     ]

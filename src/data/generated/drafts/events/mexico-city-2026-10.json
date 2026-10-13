@@ -2,31 +2,324 @@
   "slug": "mexico-city",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:46:36.059Z",
-  "responseId": "resp_071ffb36206c01940069ff6489f53c81a1909cde409e157a8e",
-  "searchCalls": 11,
+  "generatedAt": "2026-10-13T02:33:17.363Z",
+  "responseId": "resp_064d67571dc6556b006acd97ad67c887d0b46c1ddb6ede45db+resp_0e2be990cf71bb7c006acd9809ebf087d0a64464d70d4e7227",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "mexico-city",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is shaping up as a concert-heavy month in Mexico City, with major pop, electronic and indie bookings already ticketed, while most large-format festival lineups remain limited or unannounced.",
+    "notes": "October 2026 in Mexico City is unusually strong for electronic travel: Berlin-label takeovers, RA’s 25th anniversary, Día de Muertos club programming, Afro-house/Amapiano sessions, and large Latin/pop arena shows all overlap.",
     "events": [
       {
-        "id": "mexico-city-carlos-sadness-oct-2026",
-        "title": "Carlos Sadness",
-        "type": "concert",
-        "startDate": "2026-10-01",
-        "endDate": "2026-10-01",
-        "importance": 70,
-        "venueName": "Lunario Del Auditorio Nacional",
+        "id": "mexico-city-innervisions-cdmx-2026",
+        "title": "Innervisions CDMX 2026",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 88,
+        "venueName": "Maravilla Studios",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
-        "ticketUrl": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
-        "summary": "Spanish indie-pop artist Carlos Sadness is confirmed for a 9:00 p.m. show at Lunario Del Auditorio Nacional in Ciudad de México.",
+        "sourceUrl": "https://cdmx365.com/public/en/event/innervisions-cdmx-2026-10-03",
+        "ticketUrl": null,
+        "summary": "Innervisions’ Mexico City takeover at Maravilla Studios features Âme, Dixon, Jimi Jules, Julya Karma, Trikk and RY X. The listing confirms the event for October 3, 2026, with deep house and tech-house programming.",
         "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-martin-garrix-palacio-2026",
+        "title": "Martin Garrix",
+        "type": "concert",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 86,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-mexico/venue/163842",
+        "ticketUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-mexico/venue/163842",
+        "summary": "Martin Garrix plays Palacio de los Deportes on October 16, 2026, with a second date also listed for October 17. Ticketmaster confirms the October 16 show at 20:00.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-romeo-santos-prince-royce-2026",
+        "title": "Romeo Santos & Prince Royce",
+        "type": "concert",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 84,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-mexico/venue/163842",
+        "ticketUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-mexico/venue/163842",
+        "summary": "Bachata heavyweights Romeo Santos and Prince Royce play Palacio de los Deportes on October 25, 2026. Ticketmaster confirms the show at 19:00, with an additional date on October 26.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-alejandro-sanz-estadio-2026",
+        "title": "Alejandro Sanz",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 82,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/venue/163903",
+        "ticketUrl": "https://www.ticketmaster.com.mx/venue/163903",
+        "summary": "Alejandro Sanz plays Estadio GNP Seguros on October 10, 2026. Ticketmaster’s venue listing confirms the date, time and artist for the stadium concert.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-tierra-de-los-muertos-2026",
+        "title": "Tierra de los Muertos: El Reencuentro with Mestiza, Sebastien Leger, Roy Rosenfeld, Joezi",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "Ex Hacienda de San Pablo de Enmedio",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546305",
+        "ticketUrl": "https://ra.co/events/2546305",
+        "summary": "SET Underground brings Tierra de los Muertos to Ex Hacienda de San Pablo de Enmedio with MËSTIZA, Sebastien Leger, Roy Rosenfeld, Alan Dixon, Roderic and Joezi. RA confirms October 16, 2026, with Jardín and Inframundo components running into the early hours.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-bad-gyal-palacio-2026",
+        "title": "Bad Gyal",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 82,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/bad-gyal-boletos/artist/2433467?language=en-mx",
+        "ticketUrl": "https://www.ticketmaster.com.mx/bad-gyal-boletos/artist/2433467?language=en-mx",
+        "summary": "Bad Gyal brings her Mexico City date to Palacio de los Deportes on October 22, 2026. Ticketmaster lists the show at 20:00 as part of her confirmed Mexico concert dates.",
+        "genres": [
+          "latin",
           "pop",
-          "latin"
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-yuyu-juan-atkins-2026",
+        "title": "Yu Yu Cine Club: Juan Atkins",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 81,
+        "venueName": "YuYu Cine Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2542475",
+        "ticketUrl": "https://ra.co/events/2542475",
+        "summary": "Detroit techno originator Juan Atkins headlines YuYu Cine Club on October 31, 2026, with Maseriche and Jo Sep. RA confirms the Halloween-night booking from 23:00 to 05:00.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-ra25-funk-2026",
+        "title": "RA25: Mexico City",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 80,
+        "venueName": "Fünk",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497442",
+        "ticketUrl": "https://ra.co/events/2497442",
+        "summary": "Resident Advisor’s 25th anniversary tour stops at Fünk with Pearson Sound, BADSISTA, Bluecommand b2b Valeriana. RA confirms the Mexico City date for October 17, 2026, from 23:00 to 06:00.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-raw-cuts-boyanza-ian-pooley-2026",
+        "title": "Raw Cuts X Boyanza: CDMX — Ian Pooley, Julian Anthony b2b Mateo Dufour",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 79,
+        "venueName": "TBA - López 1, Colonia Centro, CDMX",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2520194",
+        "ticketUrl": "https://ra.co/events/2520194",
+        "summary": "Boyanza and Raw Cuts present a downtown Mexico City house/electronica night headlined by Ian Pooley, with Julian Anthony b2b Mateo Dufour plus local support. RA marks it as an RA Pick on October 10, 2026.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-pervert-dia-de-muertxxxs-2026",
+        "title": "PervertMX: Día de Muertxxxs",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 79,
+        "venueName": "Ex Fabrica de Harina Anden Tacuba",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2525440",
+        "ticketUrl": "https://ra.co/events/2525440",
+        "summary": "PervertMX’s Día de Muertxxxs edition lands at Ex Fabrica de Harina Anden Tacuba with Yonti, Nark, mutait, Enya Botello, FIG, MIKITA and sadgal. RA confirms the October 31, 2026 date and techno/house billing.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-omar-courtz-palacio-2026",
+        "title": "Omar Courtz",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 78,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-mexico/venue/163842",
+        "ticketUrl": "https://www.ticketmaster.com.mx/palacio-de-los-deportes-tickets-mexico/venue/163842",
+        "summary": "Puerto Rican urbano artist Omar Courtz plays Palacio de los Deportes on October 28, 2026. Ticketmaster’s venue schedule confirms the October 28 date at 20:00, with another show listed on October 29.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "mexico-city-pervert-flinta-2026",
+        "title": "PervertMX: FLINTA",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 77,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2525448",
+        "ticketUrl": "https://ra.co/events/2525448",
+        "summary": "PervertMX’s FLINTA edition brings NEGRACONDA, Magnolia Coronado, INAKARA, Mystery Affair and Ursula Prawn for a techno/house night. RA confirms the event for October 10, 2026, from 22:00 to 06:00.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-discos-movimiento-answer-code-request-2026",
+        "title": "8 años de Discos Movimiento con Answer Code Request",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 77,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2540870",
+        "ticketUrl": "https://ra.co/events/2540870",
+        "summary": "Discos Movimiento celebrates eight years with Answer Code Request, Morevi Records, Bluecommand, Gerhard and EM2K. RA lists the event as an RA Pick on October 23, 2026, from 23:00 to 06:00.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "mexico-city-sunday-sunday-oct4-2026",
+        "title": "Sunday Sunday CDMX: 04.10.26",
+        "type": "residency",
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-04",
+        "importance": 76,
+        "venueName": "Sunday Sunday",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2550024",
+        "ticketUrl": "https://ra.co/events/2550024",
+        "summary": "A representative October date for the city’s long-running Sunday Sunday rooftop party, with Fernanda Arrau, Soul Of Hex, Rafatel and Sunday Sunday DJs. RA lists the event on October 4, 2026, from 15:00 to 01:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-sunday-sunday-busy-p-breakbot-2026",
+        "title": "Sunday Sunday CDMX: Busy P + Breakbot + Irfane",
+        "type": "club-night",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-12",
+        "importance": 76,
+        "venueName": "Sunday Sunday",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2557162",
+        "ticketUrl": "https://ra.co/events/2557162",
+        "summary": "A high-demand edition of the long-running Sunday Sunday terrace party, pairing its weekly CDMX house/Italo-disco ritual with Busy P, Breakbot, Irfane, Salah Rezzak and Vithz.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-terminal-keep-hush-2026",
+        "title": "TERMINAL X KEEP HUSH pres Terminal Tribe Soundsystem Anti-aniversario",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 76,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2536110",
+        "ticketUrl": "https://ra.co/events/2536110",
+        "summary": "Terminal MX teams with Keep Hush for a 10-hour Terminal Tribe Soundsystem anti-anniversary spanning Latin bass, raptor house, techno, trance, tribal and club sounds from Venezuela, Chile, Ecuador and Mexico.",
+        "genres": [
+          "latin",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "mexico-city-querico-move-d-2026",
+        "title": "QUERICO Tokyo: Move D + Hanzo Tono + Lily",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 75,
+        "venueName": "Fünk",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/mx/mexicocity?startDate=2026-10-24",
+        "ticketUrl": "https://ra.co/events/mx/mexicocity?startDate=2026-10-24",
+        "summary": "QUERICO Tokyo brings Move D, Hanzo Tono and Lily to Fünk on October 24, 2026. RA’s Mexico City listing confirms the date, venue and lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-oskar-med-k-2026",
+        "title": "oskar med k at CDMX",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 75,
+        "venueName": "Foro Niebla",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396797",
+        "ticketUrl": "https://ra.co/events/2396797",
+        "summary": "Dorado Music Group brings oskar med k + friends to Foro Niebla for a heavily tracked house night in the Doctores/YuYu orbit.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -43,6 +336,57 @@
         "summary": "Robbie Williams is confirmed for an 8:00 p.m. arena concert at Palacio de los Deportes in Ciudad de México.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-hipnosis-festival-oct-2026",
+        "title": "Festival Hipnosis 2026",
+        "type": "festival",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 85,
+        "venueName": "Localización Secreta CDMX",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/497468/",
+        "ticketUrl": "https://feverup.com/m/497468/",
+        "summary": "Festival Hipnosis 2026 is confirmed for October 23–24 in Mexico City, with the ticketing page positioning it as a two-day psychedelic, garage and experimental rock-focused festival.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "mexico-city-jessie-ware-superbloom-oct-2026",
+        "title": "Jessie Ware: The Superbloom Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 84,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-22-10-2026/event/1400646C9883696F",
+        "ticketUrl": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-22-10-2026/event/1400646C9883696F",
+        "summary": "Jessie Ware brings The Superbloom Tour to Teatro Metropólitan for a confirmed 9:00 p.m. Mexico City concert.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-angerfist-klofama-2026",
+        "title": "Angerfist + KLOFAMA en MÉXICO",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Sala Urbana",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2435413",
+        "ticketUrl": "https://ra.co/events/2435413",
+        "summary": "RebelsMX presents a high-capacity hard techno/hardcore night pairing Dutch hardcore/gabber icon Angerfist with hard-techno name KLOFAMA at Sala Urbana.",
+        "genres": [
+          "techno",
+          "electronic"
         ]
       },
       {
@@ -79,38 +423,37 @@
         ]
       },
       {
-        "id": "mexico-city-martin-garrix-oct-2026",
-        "title": "Martin Garrix",
-        "type": "concert",
-        "startDate": "2026-10-16",
-        "endDate": "2026-10-16",
-        "importance": 90,
-        "venueName": "Palacio de los Deportes",
+        "id": "mexico-city-henri-bergmann-2026",
+        "title": "Henri Bergmann CDMX",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Pasaje America",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/martin-garrix-ciudad-de-mexico-16-10-2026/event/14006379C09FE01C",
-        "ticketUrl": "https://www.ticketmaster.com.mx/martin-garrix-ciudad-de-mexico-16-10-2026/event/14006379C09FE01C",
-        "summary": "Dutch EDM headliner Martin Garrix is confirmed for an 8:00 p.m. show at Palacio de los Deportes in Ciudad de México.",
+        "sourceUrl": "https://ra.co/events/2266894",
+        "ticketUrl": null,
+        "summary": "ORIGIN brings melodic/progressive techno selector Henri Bergmann, associated with Afterlife, Crosstown Rebels and Zamna, to Pasaje America with NUWANDA, Fernando Praga, Barravaz B2B D.N.A and Housters.",
         "genres": [
-          "electronic",
-          "house"
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "mexico-city-jessie-ware-superbloom-oct-2026",
-        "title": "Jessie Ware: The Superbloom Tour",
+        "id": "mexico-city-carlos-sadness-oct-2026",
+        "title": "Carlos Sadness",
         "type": "concert",
-        "startDate": "2026-10-22",
-        "endDate": "2026-10-22",
-        "importance": 84,
-        "venueName": "Teatro Metropólitan",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-01",
+        "importance": 70,
+        "venueName": "Lunario Del Auditorio Nacional",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-22-10-2026/event/1400646C9883696F",
-        "ticketUrl": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-22-10-2026/event/1400646C9883696F",
-        "summary": "Jessie Ware brings The Superbloom Tour to Teatro Metropólitan for a confirmed 9:00 p.m. Mexico City concert.",
+        "sourceUrl": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
+        "ticketUrl": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
+        "summary": "Spanish indie-pop artist Carlos Sadness is confirmed for a 9:00 p.m. show at Lunario Del Auditorio Nacional in Ciudad de México.",
         "genres": [
           "pop",
-          "r-and-b",
-          "electronic"
+          "latin"
         ]
       },
       {
@@ -130,19 +473,20 @@
         ]
       },
       {
-        "id": "mexico-city-hipnosis-festival-oct-2026",
-        "title": "Festival Hipnosis 2026",
-        "type": "festival",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-24",
-        "importance": 85,
-        "venueName": "Localización Secreta CDMX",
+        "id": "mexico-city-konstantin-all-night-2026",
+        "title": "Konstantin (All Night Long)",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "TBA",
         "venueId": null,
-        "sourceUrl": "https://feverup.com/m/497468/",
-        "ticketUrl": "https://feverup.com/m/497468/",
-        "summary": "Festival Hipnosis 2026 is confirmed for October 23–24 in Mexico City, with the ticketing page positioning it as a two-day psychedelic, garage and experimental rock-focused festival.",
+        "sourceUrl": "https://ra.co/events/2349037",
+        "ticketUrl": "https://ra.co/events/2349037",
+        "summary": "Dynamic Waves hosts a rescheduled all-night-long house/minimal session with Konstantin at a TBA Mexico City location.",
         "genres": [
-          "festival"
+          "house",
+          "electronic"
         ]
       }
     ]

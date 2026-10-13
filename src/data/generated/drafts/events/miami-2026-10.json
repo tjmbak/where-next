@@ -2,16 +2,329 @@
   "slug": "miami",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:04:10.211Z",
-  "responseId": "resp_05156b3b605d360c0069ff5a8657f081a19684b37e4d87d872",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:25:52.864Z",
+  "responseId": "resp_01fa1e626d34889a006acd95d21b8087d0baef54a760b8536d+resp_0071e28240e78743006acd96465c5887d09518cb966c00020d",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "miami",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is anchored by III Points and Miami Carnival, with a strong run of Latin arena and stadium concerts around the same weekends.",
+    "notes": "October 2026 in Miami is anchored by III Points and its citywide Satellite program, with Caribbean Carnival, Latin arena shows, Factory Town/Club Space marathons, and diaspora-rooted community festivals filling out the month.",
     "events": [
+      {
+        "id": "miami-iii-points-2026",
+        "title": "III Points 2026",
+        "type": "festival",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 96,
+        "venueName": "Mana Wynwood",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/",
+        "ticketUrl": "https://iiipoints.frontgatetickets.com/",
+        "summary": "III Points returns to Mana Wynwood for two nights across 13 stages, with the official site listing October 16–17 and a 2026 lineup of hundreds of artists.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-hocus-pocus-factory-town-2026",
+        "title": "Hocus Pocus 2026",
+        "type": "festival",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-01",
+        "importance": 92,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.factorytown.com/hocus-pocus/",
+        "ticketUrl": "https://www.factorytown.com/hocus-pocus/",
+        "summary": "Factory Town’s Hocus Pocus returns for three Halloween-season nights across five stages with more than 100 artists, including Âme b2b Marcel Dettmann, Apollonia, Baauer b2b Hudson Mohawke, Chase & Status and many more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-iii-points-closing-party-2026",
+        "title": "III Points Satellite: 33+ Hour Closing Party",
+        "type": "club-night",
+        "startDate": "2026-10-18",
+        "endDate": "2026-10-20",
+        "importance": 91,
+        "venueName": "Club Space",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/satellite/",
+        "ticketUrl": null,
+        "summary": "III Points Satellite closes at Club Space with a 33+ hour marathon from Sunday night to Tuesday, listing Honey Dijon, Marco Carola, Seth Troxler b2b Maher Daniel, Ben Sterling b2b Tiga, Adam Ten b2b Mita Gami and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-carnival-parade-fete-2026",
+        "title": "Miami Carnival Parade & Fete",
+        "type": "carnival",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 89,
+        "venueName": "Central Broward Park & Broward County Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/miami-carnival-parade-and-fete/35?category=2",
+        "ticketUrl": "https://www.caribtix.com/",
+        "summary": "Miami Carnival’s finale runs 11:00 AM–11:00 PM with masquerade bands, Caribbean music, steelpan, live entertainment, food village programming, and a post-parade fete.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-iii-points-space-saturday-2026",
+        "title": "III Points Satellite: Disco Lines, Four Tet b2b Floating Points b2b Daphni & more",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 88,
+        "venueName": "Club Space",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/satellite/",
+        "ticketUrl": null,
+        "summary": "III Points Satellite’s Saturday Club Space bill includes Disco Lines, Four Tet b2b Floating Points b2b Daphni, horsegiirL, Kettama, VTSS, MPH, Marte and Roddy Lima.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-iii-points-space-friday-2026",
+        "title": "III Points Satellite: 999999999, KI/KI, Roman Flügel b2b Danny Daze & more",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 86,
+        "venueName": "Club Space",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/satellite/",
+        "ticketUrl": null,
+        "summary": "Club Space’s Friday III Points Satellite bill features 999999999, KI/KI, Roman Flügel b2b Danny Daze, ¥ØU$UK€ ¥UK1MAT$U, David Vunk, DJ Three, Priori and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-iii-points-space-oct15-2026",
+        "title": "III Points Satellite: Cloonee, Miluhska, Omar+ & Vintage Culture",
+        "type": "club-night",
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-15",
+        "importance": 85,
+        "venueName": "Club Space",
+        "venueId": null,
+        "sourceUrl": "https://www.iiipoints.com/satellite/",
+        "ticketUrl": null,
+        "summary": "III Points Satellite lists a Club Space night with Cloonee, Miluhska, Omar+ and Vintage Culture, with doors at 11:00 PM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-iheartradio-fiesta-latina-2026",
+        "title": "iHeartRadio Fiesta Latina",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 84,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/iheartradio-fiesta-latina-miami-florida-10-17-2026/event/0D0064C58CC07B23",
+        "ticketUrl": "https://www.ticketmaster.com/iheartradio-fiesta-latina-miami-florida-10-17-2026/event/0D0064C58CC07B23",
+        "summary": "Kaseya Center hosts iHeartRadio Fiesta Latina at 8:00 PM; Ticketmaster’s event page lists performers including Anuel AA, Myke Towers, Farruko, Manuel Turizo, Eladio Carrión, FloyyMenor, Greeicy, Alleh and Rey Tony.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-carnival-parade-concert-2026",
+        "title": "Miami Carnival Parade and Concert 2026",
+        "type": "carnival",
+        "startDate": "2026-10-11",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Miami Carnival",
+        "venueId": null,
+        "sourceUrl": "https://miamicarnival.org/events/",
+        "ticketUrl": "https://miamicarnival.org/events/",
+        "summary": "Official Miami Carnival Sunday Parade and Fete, anchoring the region’s Caribbean soca, calypso, steelpan and mas weekend.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-club-space-satellite-four-tet-2026",
+        "title": "Satellite: Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, Kettama + MORE",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 84,
+        "venueName": "Club Space Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.clubspace.com/shows/satellite-disco-lines-four-tet-b2b-floating-points-b2b-daphni-horsegiirl-kettama-more-17th-oct-club-space-miami-miami-tickets",
+        "ticketUrl": "https://www.clubspace.com/shows/satellite-disco-lines-four-tet-b2b-floating-points-b2b-daphni-horsegiirl-kettama-more-17th-oct-club-space-miami-miami-tickets",
+        "summary": "A marathon Terrace Satellite party at Club Space with Four Tet, Floating Points and Daphni in a rare b2b, plus Disco Lines, horsegiirL, Kettama, VTSS and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-armin-orb-factory-town-2026",
+        "title": "Armin van Buuren presents The Orb",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 83,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.insomniac.com/events/armin-van-buuren-presents-the-orb-2026-10-10-miami-fl/",
+        "ticketUrl": "https://www.insomniac.com/events/armin-van-buuren-presents-the-orb-2026-10-10-miami-fl/",
+        "summary": "Armin van Buuren brings The Orb to Factory Town with Funk Tribu and NRG2000, billed by Insomniac as a trance/techno production from 10:00 PM to 5:00 AM.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-black-coffee-liv-2026",
+        "title": "Black Coffee at LIV Nightclub",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 82,
+        "venueName": "LIV Nightclub Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261016/friday/?direct=true",
+        "ticketUrl": "https://www.livnightclub.com/miami/event/EVE112156200020261016/friday/?direct=true",
+        "summary": "South African house icon Black Coffee brings deep, soulful Afro-house to LIV for a late-night Fontainebleau club set.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-perreo-del-futuro-halloween-2026",
+        "title": "PERREO DEL FUTURO Halloween",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "The Ground at Club Space",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2543693",
+        "ticketUrl": "https://ra.co/events/2543693",
+        "summary": "PERREO DEL FUTURO’s Halloween edition at The Ground pairs TSVI / Anunaku, Manuka Honey, yung_womb, MARACUYá, SATURNSARii and Mr. Bitch for a reggaeton, dembow, techno and bass-focused night.",
+        "genres": [
+          "latin",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-young-miko-late-checkout-2026",
+        "title": "Young Miko - Late Checkout Tour",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": "2026-10-28",
+        "importance": 79,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/young-miko-late-checkout-tour-miami-florida-10-28-2026/event/0D006483BCB1D6C1",
+        "ticketUrl": "https://www.ticketmaster.com/young-miko-late-checkout-tour-miami-florida-10-28-2026/event/0D006483BCB1D6C1",
+        "summary": "Young Miko’s Late Checkout Tour stops at Kaseya Center for an 8:00 PM Miami arena date.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-worship-factory-town-oct-2026",
+        "title": "WORSHIP at Factory Town",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 78,
+        "venueName": "Factory Town",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1039432960-worship-at-factory-town?came_from=242",
+        "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvovp",
+        "summary": "WORSHIP brings Sub Focus, Dimension, Culture Shock, and 1991 to Factory Town for a late-night drum-and-bass/electronic event starting at 10:00 PM.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-tini-futttura-2026",
+        "title": "TINI - FUTTTURA World Tour",
+        "type": "concert",
+        "startDate": "2026-10-18",
+        "endDate": "2026-10-18",
+        "importance": 78,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/tini-futttura-world-tour-miami-florida-10-18-2026/event/0D0064B3151133D8",
+        "ticketUrl": "https://www.ticketmaster.com/tini-futttura-world-tour-miami-florida-10-18-2026/event/0D0064B3151133D8",
+        "summary": "Argentine pop artist TINI brings the FUTTTURA World Tour to Kaseya Center for an 8:00 PM Miami date.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-soundtuary-ameme-malive-2026",
+        "title": "Soundtuary present AMÉMÉ & Malive - Open Air",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 78,
+        "venueName": "Jungle Island",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533343",
+        "ticketUrl": "https://ra.co/events/2533343",
+        "summary": "Soundtuary’s open-air Afro-house experience brings AMÉMÉ and Malive to Jungle Island with a boho-dress-code, outdoor-market, food-truck and late-night dance setup.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-satellite-pickle-iii-points-2026",
+        "title": "Satellite: The Pickle x III Points",
+        "type": "club-night",
+        "startDate": "2026-10-18",
+        "endDate": "2026-10-19",
+        "importance": 78,
+        "venueName": "The Pickle",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2519964",
+        "ticketUrl": "https://ra.co/events/2519964",
+        "summary": "Official III Points Satellite afterparty at The Pickle, billed as a 12-hour session of house, electronica and afterhours sounds from special guests.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
       {
         "id": "miami-karol-g-tropitour-2026",
         "title": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
@@ -28,6 +341,75 @@
           "latin",
           "pop",
           "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-carnival-jouvert-2026",
+        "title": "Miami Carnival J’ouvert",
+        "type": "carnival",
+        "startDate": "2026-10-10",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://miamicarnival.org/events/",
+        "ticketUrl": "https://miamicarnival.org/events/",
+        "summary": "Official Miami Carnival J’ouvert: a cornerstone Caribbean road-party ritual with soca/calypso bands, paint/mud/oil traditions, and pre-parade Carnival energy.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-eros-ramazzotti-2026",
+        "title": "Eros Ramazzotti - Una Historia Importante",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/eros-ramazzotti-3",
+        "ticketUrl": "https://www.ticketmaster.com/eros-ramazzotti-una-historia-importante-miami-florida-10-31-2026/event/0D00628388B04C45",
+        "summary": "Italian pop star Eros Ramazzotti brings his Una Historia Importante tour to Kaseya Center for a Halloween-night Miami concert.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-one-fete-2026",
+        "title": "One Fete Miami 2026",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 80,
+        "venueName": "Miami-Dade County Fair & Exposition",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108205747-jadel-legere-at-miami-dade-county-fair-and-exposition-inc.?came_from=257",
+        "ticketUrl": "https://www.bandsintown.com/e/108205747-jadel-legere-at-miami-dade-county-fair-and-exposition-inc.?came_from=257",
+        "summary": "Soca-forward Miami Carnival weekend festival listing featuring Jadel Legere, whose sound crosses soca, dancehall, Afropop, R&B and reggae.",
+        "genres": [
+          "festival",
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-camilo-usa-tour-2026",
+        "title": "Camilo - USA 2026 Tour",
+        "type": "concert",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "importance": 78,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/camilo-1",
+        "ticketUrl": "https://www.ticketmaster.com/camilo-tickets/artist/2773173",
+        "summary": "Camilo’s USA 2026 Tour stop at Kaseya Center is a rescheduled Miami date, with the Colombian artist bringing his Latin pop catalog to the arena.",
+        "genres": [
+          "latin",
+          "pop"
         ]
       },
       {
@@ -48,6 +430,40 @@
         ]
       },
       {
+        "id": "miami-reggae-fest-blaze-2026",
+        "title": "Reggae Fest Blaze Miami with Aidonia",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 75,
+        "venueName": "Wynwood Marketplace",
+        "venueId": null,
+        "sourceUrl": "https://www.reggaefest.com/miami",
+        "ticketUrl": null,
+        "summary": "Reggae Fest Blaze Miami returns to Wynwood Marketplace with Jamaican dancehall artist Aidonia headlining, plus DJ-driven reggae, soca and Caribbean party sets.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-night-carnival-2026",
+        "title": "Fete Republic Night Carnival Miami",
+        "type": "carnival",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-10",
+        "importance": 72,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.feterepublicjamaica.com/product/night-carnival-miami-super-early-bird-october-2026/",
+        "ticketUrl": "https://www.feterepublicjamaica.com/product/night-carnival-miami-super-early-bird-october-2026/",
+        "summary": "Fete Republic’s Monday Wear/Carnival-costume street-festival concept returns for Miami Carnival weekend as a 21+ Friday-night fete.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
         "id": "miami-black-country-new-road-2026",
         "title": "Black Country, New Road",
         "type": "concert",
@@ -61,23 +477,6 @@
         "summary": "Black Country, New Road perform at Miami Beach Bandshell in a show presented by AEG, highlighting the band’s post-rock, jazz and chamber-pop direction.",
         "genres": [
           "jazz",
-          "pop"
-        ]
-      },
-      {
-        "id": "miami-camilo-usa-tour-2026",
-        "title": "Camilo - USA 2026 Tour",
-        "type": "concert",
-        "startDate": "2026-10-09",
-        "endDate": "2026-10-09",
-        "importance": 78,
-        "venueName": "Kaseya Center",
-        "venueId": null,
-        "sourceUrl": "https://www.kaseyacenter.com/events/detail/camilo-1",
-        "ticketUrl": "https://www.ticketmaster.com/camilo-tickets/artist/2773173",
-        "summary": "Camilo’s USA 2026 Tour stop at Kaseya Center is a rescheduled Miami date, with the Colombian artist bringing his Latin pop catalog to the arena.",
-        "genres": [
-          "latin",
           "pop"
         ]
       },
@@ -100,23 +499,6 @@
         ]
       },
       {
-        "id": "miami-reggae-fest-blaze-2026",
-        "title": "Reggae Fest Blaze Miami with Aidonia",
-        "type": "festival",
-        "startDate": "2026-10-10",
-        "endDate": "2026-10-10",
-        "importance": 75,
-        "venueName": "Wynwood Marketplace",
-        "venueId": null,
-        "sourceUrl": "https://www.reggaefest.com/miami",
-        "ticketUrl": null,
-        "summary": "Reggae Fest Blaze Miami returns to Wynwood Marketplace with Jamaican dancehall artist Aidonia headlining, plus DJ-driven reggae, soca and Caribbean party sets.",
-        "genres": [
-          "latin",
-          "festival"
-        ]
-      },
-      {
         "id": "miami-bethel-music-2026",
         "title": "Bethel Music 2026 Tour",
         "type": "concert",
@@ -133,55 +515,55 @@
         ]
       },
       {
-        "id": "miami-carnival-parade-concert-2026",
-        "title": "Miami Carnival Parade of Bands & Concert",
-        "type": "carnival",
-        "startDate": "2026-10-11",
-        "endDate": "2026-10-11",
-        "importance": 92,
-        "venueName": "Miami-Dade County Fairgrounds",
+        "id": "miami-bad-gyal-mas-cara-2026",
+        "title": "Bad Gyal: Más Cara World Tour",
+        "type": "concert",
+        "startDate": "2026-10-28",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "The Fillmore Miami Beach at Jackie Gleason Theater",
         "venueId": null,
-        "sourceUrl": "https://www.miamiandbeaches.com/event/miami-carnival/35",
-        "ticketUrl": "https://www.caribtix.com/",
-        "summary": "Miami Carnival’s grand finale brings the Parade of Bands & Concert to Miami-Dade County Fairgrounds, with Caribbean music, masquerade bands, steelpan, soca, reggae and dancehall culture.",
+        "sourceUrl": "https://www.ticketmaster.com/bad-gyal-mas-cara-world-tour-2026-miami-beach-10-28-2026/event/0D00649B9BADC783",
+        "ticketUrl": "https://www.ticketmaster.com/bad-gyal-mas-cara-world-tour-2026-miami-beach-10-28-2026/event/0D00649B9BADC783",
+        "summary": "Spanish urbano/dancehall-pop artist Bad Gyal opens the U.S. leg of her Más Cara World Tour in Miami Beach, a strong Latin club-culture crossover booking outside the arena circuit.",
         "genres": [
           "latin",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-shrine-afrobeats-2026",
+        "title": "The Shrine: Afrobeats + Caribbean Heat",
+        "type": "residency",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-31",
+        "importance": 68,
+        "venueName": "Red Rooster Overtown",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/the-shrine-afrobeats-caribbean-heat/33678",
+        "ticketUrl": null,
+        "summary": "Weekly Saturday upstairs dance-floor series in Overtown rooted in Afrobeats, amapiano and Caribbean sounds, running through late November 2026.",
+        "genres": [
+          "amapiano",
           "festival"
         ]
       },
       {
-        "id": "miami-iii-points-2026",
-        "title": "III Points Music Festival 2026",
-        "type": "festival",
-        "startDate": "2026-10-16",
-        "endDate": "2026-10-17",
-        "importance": 95,
-        "venueName": "Mana Wynwood",
-        "venueId": null,
-        "sourceUrl": "https://www.iiipoints.com/",
-        "ticketUrl": "https://iiipoints.frontgatetickets.com/",
-        "summary": "III Points returns to Mana Wynwood for its 2026 edition, with Phase I announced and more than 100 additional artists still to be added.",
-        "genres": [
-          "electronic",
-          "house",
-          "techno"
-        ]
-      },
-      {
-        "id": "miami-eros-ramazzotti-2026",
-        "title": "Eros Ramazzotti - Una Historia Importante",
+        "id": "miami-akeem-ali-texture-2026",
+        "title": "Akeem Ali: The Texture Tour",
         "type": "concert",
-        "startDate": "2026-10-31",
-        "endDate": "2026-10-31",
-        "importance": 80,
-        "venueName": "Kaseya Center",
+        "startDate": "2026-10-03",
+        "endDate": null,
+        "importance": 61,
+        "venueName": "Midline Miami",
         "venueId": null,
-        "sourceUrl": "https://www.kaseyacenter.com/events/detail/eros-ramazzotti-3",
-        "ticketUrl": "https://www.ticketmaster.com/eros-ramazzotti-una-historia-importante-miami-florida-10-31-2026/event/0D00628388B04C45",
-        "summary": "Italian pop star Eros Ramazzotti brings his Una Historia Importante tour to Kaseya Center for a Halloween-night Miami concert.",
+        "sourceUrl": "https://www.miamiandbeaches.com/event/akeem-ali-the-texture-tour/39078",
+        "ticketUrl": null,
+        "summary": "Hip-hop artist Akeem Ali brings The Texture Tour to Wynwood’s Midline Miami, presented by Reaction Presents and Bowe Inc for an 18+ audience.",
         "genres": [
-          "pop",
-          "latin"
+          "hip-hop",
+          "r-and-b"
         ]
       }
     ]

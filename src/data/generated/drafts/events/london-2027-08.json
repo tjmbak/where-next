@@ -1,0 +1,289 @@
+{
+  "slug": "london",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:23:12.148Z",
+  "responseId": "resp_011823390827c82a006acdb173ae3487d08a7926859ff8e21a+resp_058ee8c1eb5917c7006acdb1e1544c87d0aa1a24bee683f410",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "london",
+    "month": 8,
+    "year": 2027,
+    "notes": "August 2027 is still early in the announcement cycle, but London already has confirmed bank-holiday club-culture anchors, Carnival, and several major park/stadium concerts.",
+    "events": [
+      {
+        "id": "london-notting-hill-carnival-2027",
+        "title": "Notting Hill Carnival 2027",
+        "type": "carnival",
+        "startDate": "2027-08-28",
+        "endDate": "2027-08-30",
+        "importance": 98,
+        "venueName": "Notting Hill",
+        "venueId": null,
+        "sourceUrl": "https://nhcarnival.org/?direct=true",
+        "ticketUrl": null,
+        "summary": "Notting Hill Carnival’s official site lists UK National Panorama on Saturday 28 August, Families and Children's Day on Sunday 29 August, and Adults Day on Monday 30 August 2027. The Carnival’s sound-system programme spans reggae, dub, rare groove, house, jungle, hip-hop and more across West London.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "london-harry-styles-wembley-aug25-2027",
+        "title": "Harry Styles: Together, Together 2027",
+        "type": "concert",
+        "startDate": "2027-08-25",
+        "endDate": "2027-08-25",
+        "importance": 88,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2027/Harry-Styles",
+        "ticketUrl": null,
+        "summary": "Harry Styles brings the Together, Together 2027 tour to Wembley Stadium on Wednesday 25 August 2027. Wembley Stadium confirms this as one of three August London dates for the run.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-harry-styles-wembley-aug27-2027",
+        "title": "Harry Styles: Together, Together 2027",
+        "type": "concert",
+        "startDate": "2027-08-27",
+        "endDate": "2027-08-27",
+        "importance": 88,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2027/Harry-Styles",
+        "ticketUrl": null,
+        "summary": "Harry Styles plays Wembley Stadium on Friday 27 August 2027. The official Wembley event page confirms the date within his three-night London stadium return.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-harry-styles-wembley-aug28-2027",
+        "title": "Harry Styles: Together, Together 2027",
+        "type": "concert",
+        "startDate": "2027-08-28",
+        "endDate": "2027-08-28",
+        "importance": 88,
+        "venueName": "Wembley Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.wembleystadium.com/events/2027/Harry-Styles",
+        "ticketUrl": null,
+        "summary": "Harry Styles closes his confirmed Wembley Stadium August 2027 run on Saturday 28 August. Wembley lists official ticket sellers as Ticketmaster and Wembley Stadium.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-body-movements-2027",
+        "title": "Body Movements Festival 2027",
+        "type": "festival",
+        "startDate": "2027-08-29",
+        "endDate": "2027-08-29",
+        "importance": 84,
+        "venueName": "Southwark Park",
+        "venueId": null,
+        "sourceUrl": "https://bodymovements.co.uk/",
+        "ticketUrl": "https://bodymovements.co.uk/faq/",
+        "summary": "Body Movements returns to Southwark Park on Sunday 29 August 2027 as a daytime queer electronic music festival. The official FAQ confirms the date, venue and that music runs until approximately 22:00–22:30, with Resident Advisor as exclusive ticketing partner.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-garage-nation-outdoor-2027",
+        "title": "Garage Nation Outdoor Festival 2027",
+        "type": "festival",
+        "startDate": "2027-08-07",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Morden Park",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/festivals/garagenation/",
+        "ticketUrl": "https://www.skiddle.com/festivals/garagenation/",
+        "summary": "A major UK garage and house all-dayer at Morden Park, with DJ Luck & MC Neat, Wideboys, Heartless Crew, Oxide & Neutrino, Sticky, Scott Garcia, Marcus Nasty, Lisa Maffia and more confirmed.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-jazz-cafe-festival-2027",
+        "title": "Jazz Cafe Festival 2027",
+        "type": "festival",
+        "startDate": "2027-08-01",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2506208",
+        "ticketUrl": "https://ra.co/events/2506208",
+        "summary": "The Jazz Cafe’s outdoor summer festival returns for 2027 with lineup still TBA; the listing positions it as a one-day open-air extension of the Camden venue’s jazz, soul and club-adjacent identity.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-simply-red-gunnersbury-2027",
+        "title": "Simply Red - Summer Funk '27 Tour",
+        "type": "concert",
+        "startDate": "2027-08-13",
+        "endDate": "2027-08-13",
+        "importance": 74,
+        "venueName": "Gunnersbury Park",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/event/simply-red-london-tickets-edp1699205",
+        "ticketUrl": "https://www.livenation.co.uk/event/simply-red-london-tickets-edp1699205",
+        "summary": "Simply Red headline Gunnersbury Park on Friday 13 August 2027 as part of the Summer Funk '27 Tour. Live Nation lists Lisa Stansfield and Soul II Soul as support artists for the London date.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-rnb-nation-outdoor-2027",
+        "title": "RnB Nation Outdoor Festival London 2027",
+        "type": "festival",
+        "startDate": "2027-08-08",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Morden Park",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/festivals/rnb-nation-outdoor-festival-london/",
+        "ticketUrl": "https://www.skiddle.com/festivals/rnb-nation-outdoor-festival-london/",
+        "summary": "Outdoor R&B, old-school hip-hop, soul, disco and UK garage festival at Morden Park, with dedicated RnB Nation, Soul & Disco, and Garage Nation/90s dance stages listed.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-soultasia-morden-2027",
+        "title": "SOULTASIA - Outdoor Festival, London 2027",
+        "type": "festival",
+        "startDate": "2027-08-08",
+        "endDate": "2027-08-08",
+        "importance": 70,
+        "venueName": "Morden Park",
+        "venueId": null,
+        "sourceUrl": "https://soultasia.com/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/Sutton/Morden-Park/SOULTASIA----Outdoor-Festival-London-2027/42631644/",
+        "summary": "Soultasia’s official site lists its London Morden edition for Sunday 8 August 2027. Skiddle confirms the Morden Park outdoor festival as an 18+ event running 13:00–22:00 with R&B, soul, funk and disco programming; individual artists have not yet been announced.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-boa-nova-2027",
+        "title": "Boa Nova 2027",
+        "type": "festival",
+        "startDate": "2027-08-08",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "TBA - South London Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2454819",
+        "ticketUrl": "https://ra.co/events/2454819",
+        "summary": "Brazilian culture-focused day festival returning to London, with baile funk, samba/MPB-adjacent sounds, food and open-air dancing planned for a new South London park site.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-cockney-caribbean-festival-2027",
+        "title": "Cockney & Caribbean Festival 2027",
+        "type": "festival",
+        "startDate": "2027-08-28",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "The Fox & Firkin",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/cockney-caribbean-festival-2027-headlining-kenny-thomas-tickets-1994695219096",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/cockney-caribbean-festival-2027-headlining-kenny-thomas-tickets-1994695219096",
+        "summary": "Bank Holiday weekend South East London garden festival blending soul, rare groove, old-school hip-hop, 90s R&B, reggae, ska and lovers rock, headlined by Kenny Thomas with DJs across the day.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-afroboat-black-sparkle-2027",
+        "title": "The AfroBOAT Party (The Black & Sparkle Edition)",
+        "type": "club-night",
+        "startDate": "2027-08-29",
+        "endDate": "2027-08-30",
+        "importance": 70,
+        "venueName": "Tereza Joanne",
+        "venueId": null,
+        "sourceUrl": "https://fixr.co/event/the-afroboat-party-the-black-sparkle-edition-tickets-779902509",
+        "ticketUrl": "https://fixr.co/event/the-afroboat-party-the-black-sparkle-edition-tickets-779902509",
+        "summary": "Carnival-weekend-adjacent Afroboat party on the Tereza Joanne, advertised with DJs, African drummers, BBQ and a music policy spanning Afrobeats, amapiano, hip-hop and nostalgic cuts.",
+        "genres": [
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-newen-afrobeat-jazz-cafe-2027",
+        "title": "Newen Afrobeat",
+        "type": "concert",
+        "startDate": "2027-08-11",
+        "endDate": "2027-08-11",
+        "importance": 66,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://www.ents24.com/london-events/the-jazz-cafe/newen-afrobeat/7525993",
+        "ticketUrl": null,
+        "summary": "Newen Afrobeat play The Jazz Cafe on Wednesday 11 August 2027 at 19:00. The Chilean Afrobeat ensemble brings a Fela Kuti-inspired mix of African traditions, Latin American rhythms, jazz and funk.",
+        "genres": [
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "london-steam-down-sdweekly-2027",
+        "title": "Steam Down: #SDWEEKLY",
+        "type": "residency",
+        "startDate": "2027-08-04",
+        "endDate": "2027-08-25",
+        "importance": 76,
+        "venueName": "Peckham Levels",
+        "venueId": null,
+        "sourceUrl": "https://www.southwark.gov.uk/southwark-presents/steam-down-sdweekly",
+        "ticketUrl": "https://peckhamlevels.org/events/steam-down",
+        "summary": "Scene-defining South East London jazz collective Steam Down runs its improvised weekly sessions on Wednesdays in August 2027, with rotating musicians and a jazz-meets-grime/Afrobeat/funk sensibility.",
+        "genres": [
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-we-are-many-bricks-2027",
+        "title": "We Are Many live music night at Bricks",
+        "type": "residency",
+        "startDate": "2027-08-04",
+        "endDate": "2027-08-25",
+        "importance": 68,
+        "venueName": "Bricks Brixton",
+        "venueId": null,
+        "sourceUrl": "https://www.brixtonbuzz.com/event/we-are-many-live-music-night-at-bricks/2027-08-04/",
+        "ticketUrl": "https://www.instagram.com/we_are_many_00",
+        "summary": "Weekly Brixton live night in collaboration with Soothsayers, bringing jazz, Afrobeat and dub rhythms, rotating bands, an open jam and guest-DJ selections at Bricks.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

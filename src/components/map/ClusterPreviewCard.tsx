@@ -60,7 +60,7 @@ export function ClusterPreviewCard({
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
     >
-      <div className="rounded-lg border border-[var(--border-strong)] bg-[rgba(13,13,16,0.94)] p-2.5 shadow-[0_24px_64px_rgba(0,0,0,0.65)] backdrop-blur-md">
+      <div className="rounded-xl border border-[var(--border-strong)] bg-[rgba(251,248,240,0.96)] p-2.5 shadow-[0_24px_64px_rgba(28,22,18,0.18)] backdrop-blur-md">
         <div className="mb-1.5 flex items-baseline justify-between gap-3 border-b border-[var(--border)] px-1 pb-1.5 font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
           <span>
             <span className="text-[var(--foreground)]">{preview.total}</span> cities
@@ -97,7 +97,7 @@ export function ClusterPreviewCard({
       </div>
       <span
         aria-hidden
-        className="absolute h-2 w-2 rotate-45 border border-[var(--border-strong)] bg-[rgba(13,13,16,0.94)]"
+        className="absolute h-2 w-2 rotate-45 border border-[var(--border-strong)] bg-[rgba(251,248,240,0.96)]"
         style={{
           left: `${clampedArrowPct}%`,
           transform: "translateX(-50%)",

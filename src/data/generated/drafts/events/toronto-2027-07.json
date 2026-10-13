@@ -1,0 +1,273 @@
+{
+  "slug": "toronto",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:32:30.134Z",
+  "responseId": "resp_0d750e9efc96a139006acdb38fcf9087d0b870887ddac798f6+resp_01860653308e223e006acdb3fbf6d087d0aafc61c03e695daa",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 already has several confirmed destination-scale calendars, led by Beaches Jazz/Latin programming, Toronto Caribbean Carnival, and VELD at Downsview Park.",
+    "events": [
+      {
+        "id": "toronto-caribana-grand-parade-jul-2027",
+        "title": "Toronto Caribbean Carnival 2027 Grand Parade",
+        "type": "carnival",
+        "startDate": "2027-07-31",
+        "endDate": "2027-07-31",
+        "importance": 96,
+        "venueName": "Exhibition Place / Lake Shore Boulevard",
+        "venueId": "toronto-caribana",
+        "sourceUrl": "https://torontocarnival.ca/event/grand-parade-2027/",
+        "ticketUrl": null,
+        "summary": "The Toronto Caribbean Carnival Grand Parade is confirmed for Saturday, July 31, 2027, from 10 a.m. to 8 p.m. at Exhibition Place and along the waterfront parade area. The official page describes masqueraders, Caribbean music, costumes and Mas Bands as the 60th-anniversary season’s flagship celebration.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-veld-jul-2027",
+        "title": "VELD Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-30",
+        "endDate": "2027-08-01",
+        "importance": 90,
+        "venueName": "Downsview Park",
+        "venueId": null,
+        "sourceUrl": "https://veld.frontgatetickets.com/event/vxq27a5a78o9cpre",
+        "ticketUrl": "https://veld.frontgatetickets.com/event/vxq27a5a78o9cpre",
+        "summary": "VELD’s 3-day 2027 festival pass confirms access to VELD Music Festival from Friday, July 30 through Sunday, August 1, 2027 at Downsview Park. The lineup is not announced yet, but the ticketing page confirms the dates, venue and festival capacity.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-caribana-king-queen-jul-2027",
+        "title": "Toronto Caribbean Carnival 2027 King & Queen Showcase",
+        "type": "carnival",
+        "startDate": "2027-07-29",
+        "endDate": "2027-07-30",
+        "importance": 88,
+        "venueName": "Allan A. Lamport Stadium",
+        "venueId": "toronto-caribana",
+        "sourceUrl": "https://torontocarnival.ca/event/king-queen-showcase-2027/",
+        "ticketUrl": null,
+        "summary": "Toronto Caribbean Carnival’s 60th-anniversary King & Queen Showcase is confirmed for July 29, 2027 at Lamport Stadium, scheduled from 7 p.m. to midnight. The event features participating Mas Bands presenting large-scale Carnival costumes with live performance elements.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-daylit-2027",
+        "title": "DayLit",
+        "type": "beach-club",
+        "startDate": "2027-07-30",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Cabana Pool Bar",
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events/daylit",
+        "ticketUrl": "https://www.caribanatoronto.com/events/daylit",
+        "summary": "Large-scale Carnival Friday pool/day party at Cabana Pool Bar, advertised as a 5,000+ person premium daytime event with soca, hip-hop, reggae and R&B.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-sundown-soca-2027",
+        "title": "Sundown Soca DJ Festival",
+        "type": "festival",
+        "startDate": "2027-07-31",
+        "endDate": "2027-08-01",
+        "importance": 80,
+        "venueName": "Sundown Grounds, Scarborough",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketgateway.com/event/view/sundownsocafestival",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/sundownsocafestival",
+        "summary": "Outdoor Carnival Saturday soca DJ festival in Scarborough from SouthBoy Entertainment, built around top DJs, selectors, Caribbean food vendors and cooler-fete energy from 3 PM to midnight.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-afrobeat-2027",
+        "title": "Afrobeat",
+        "type": "club-night",
+        "startDate": "2027-07-30",
+        "endDate": "2027-07-31",
+        "importance": 79,
+        "venueName": "Acqua Dolce",
+        "venueId": null,
+        "sourceUrl": "https://origin.caribanatoronto.com/events/afrobeat",
+        "ticketUrl": "https://origin.caribanatoronto.com/events/afrobeat",
+        "summary": "Toronto Carnival’s dedicated Afrobeats night at Acqua Dolce, with Afrobeats, amapiano, soca and hip-hop positioned for the Carnival Friday international crowd.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-beaches-jazz-jul-2027",
+        "title": "Beaches International Jazz Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-02",
+        "endDate": "2027-07-25",
+        "importance": 78,
+        "venueName": "The Beaches / Woodbine Park / Queen Street East",
+        "venueId": null,
+        "sourceUrl": "https://www.beachesjazz.com/",
+        "ticketUrl": null,
+        "summary": "The 39th annual Beaches International Jazz Festival is confirmed for July 2–25, 2027, with free-admission programming across Jimmie Simpson Park, Woodbine Park and Queen Street East. Lineups are not yet announced, but the official calendar confirms multiple July weekend series.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-carnival-nights-2027",
+        "title": "Carnival Nights",
+        "type": "club-night",
+        "startDate": "2027-07-29",
+        "endDate": "2027-07-30",
+        "importance": 78,
+        "venueName": "DPRTMNT",
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events/carnival-nights",
+        "ticketUrl": "https://www.caribanatoronto.com/events/carnival-nights",
+        "summary": "Caribana/Carnival Thursday kickoff party at DPRTMNT, billed with soca, hip-hop, reggae, R&B and old-school selections from 10 PM to 2 AM.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-set-it-off-2027",
+        "title": "Set It Off",
+        "type": "club-night",
+        "startDate": "2027-07-30",
+        "endDate": "2027-07-31",
+        "importance": 78,
+        "venueName": "Masonic Temple The Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events/set-it-off",
+        "ticketUrl": "https://www.caribanatoronto.com/events/set-it-off",
+        "summary": "Carnival Friday hip-hop and R&B night at The Concert Hall / Masonic Temple, billed as a premium full-scale nightlife event with soca, hip-hop, reggae and old school.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-beaches-streetfest-jul-2027",
+        "title": "Beaches Jazz Festival StreetFest 2027",
+        "type": "festival",
+        "startDate": "2027-07-22",
+        "endDate": "2027-07-24",
+        "importance": 74,
+        "venueName": "Queen Street East between Woodbine Avenue and Beech Avenue",
+        "venueId": null,
+        "sourceUrl": "https://www.beachesjazz.com/streetfest",
+        "ticketUrl": null,
+        "summary": "StreetFest is confirmed for July 22–24, 2027, with Queen Street East closing nightly for bands from 7–11 p.m. The official page says the lineup will arrive in early 2027 and describes a free street-music program spanning jazz, blues and other live bands.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-i-love-dancehall-2027",
+        "title": "I Love Dancehall",
+        "type": "club-night",
+        "startDate": "2027-07-31",
+        "endDate": "2027-08-01",
+        "importance": 74,
+        "venueName": "The Pint",
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events/i-love-dancehall",
+        "ticketUrl": "https://www.caribanatoronto.com/events/i-love-dancehall",
+        "summary": "Carnival Saturday downtown party at The Pint dedicated to dancehall and reggae, with soca, reggae, old school and dancehall listed from 10 PM to 2 AM.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-salsa-on-the-beach-jul-2027",
+        "title": "Salsa on the Beach 2027",
+        "type": "festival",
+        "startDate": "2027-07-09",
+        "endDate": "2027-07-11",
+        "importance": 72,
+        "venueName": "Woodbine Park",
+        "venueId": null,
+        "sourceUrl": "https://www.beachesjazz.com/salsa-on-the-beach",
+        "ticketUrl": null,
+        "summary": "Beaches Jazz Festival’s Salsa on the Beach is confirmed for July 9–11, 2027 at Woodbine Park. The official page highlights salsa, merengue and cumbia on an open-air dance floor with free admission.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-afropiano-nights-2027",
+        "title": "Afropiano Nights",
+        "type": "club-night",
+        "startDate": "2027-07-31",
+        "endDate": null,
+        "importance": 72,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events",
+        "ticketUrl": "https://www.caribanatoronto.com/events",
+        "summary": "A Carnival Saturday Afropiano listing in the Toronto Carnival 2027 event program, with venue still TBA and tickets noted from $50.",
+        "genres": [
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-rock-the-boat-2027",
+        "title": "Rock The Boat: Toronto’s Ultimate All White Caribana Yacht Party 2027",
+        "type": "club-night",
+        "startDate": "2027-07-30",
+        "endDate": "2027-07-31",
+        "importance": 70,
+        "venueName": "Yankee Lady III Dock",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/rock-the-boat-torontos-ultimate-all-white-caribana-yacht-party-2027-tickets-1996369154883",
+        "ticketUrl": "https://www.eventbrite.com/e/rock-the-boat-torontos-ultimate-all-white-caribana-yacht-party-2027-tickets-1996369154883",
+        "summary": "Caribana all-white yacht party from I AM LEGACI, advertised as a two-floor, 300+ person boat party on the Toronto waterfront.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-i-remember-2027",
+        "title": "I Remember",
+        "type": "club-night",
+        "startDate": "2027-07-31",
+        "endDate": "2027-08-01",
+        "importance": 70,
+        "venueName": "Aera Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events/i-remember",
+        "ticketUrl": "https://www.caribanatoronto.com/events/i-remember",
+        "summary": "Caribana Saturday old-school hip-hop and R&B rooftop night at Aera, spotlighting classic 1990s/2000s artists and an older-school Carnival crowd.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

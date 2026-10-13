@@ -1,0 +1,34 @@
+{
+  "slug": "ibiza",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:20:08.886Z",
+  "responseId": "resp_01593a38a4f77196006acdb10dd52887d09d10371103813447+resp_006ba7396c3373d7006acdb130b4e087d0be51035af656c3ce",
+  "searchCalls": 22,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 8,
+    "year": 2027,
+    "notes": "No confirmed August 2027 Ibiza scene/genre club nights were verifiable on RA, DICE, Shotgun, Eventbrite, Fourvenues, or Ibiza Spotlight as of 2026-10-13; available results were either 2026 listings or unconfirmed placeholder calendars.",
+    "events": [
+      {
+        "id": "ibiza-fat-tonys-boat-brunch-2027",
+        "title": "Fat Tony’s Boat Brunch at Irish Beach",
+        "type": "club-night",
+        "startDate": "2027-08-22",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Irish Beach / San Antonio boat departure",
+        "venueId": null,
+        "sourceUrl": "https://white-ibiza.com/ibiza-calendar/fat-tonys-boat-brunch-at-irish-beach/2027-08-22/",
+        "ticketUrl": null,
+        "summary": "A selected-Sunday high-summer boat brunch departing from San Antonio, with an Irish Beach pre-party, guest DJs, dancers, Fat Tony hosting, and three hours of house, disco and classic Ibiza energy at sea.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

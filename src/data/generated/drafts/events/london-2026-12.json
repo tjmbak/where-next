@@ -2,16 +2,318 @@
   "slug": "london",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:02:14.112Z",
-  "responseId": "resp_0aa3cc19eb33abd40069ff5a04520c8192b5d5a98c79c245a9",
-  "searchCalls": 17,
+  "generatedAt": "2026-10-13T02:50:26.639Z",
+  "responseId": "resp_0f52f89e68736df9006acd9b995c4087d0a7440f061bae29f4+resp_03e6ba9b3720cd78006acd9bf1d37887d091af961ea1178afd",
+  "searchCalls": 29,
   "citations": [],
   "data": {
     "destinationSlug": "london",
     "month": 12,
     "year": 2026,
-    "notes": "December 2026 is already anchored by arena-scale pop nostalgia, electronic orchestral shows, and strong mid-size pop/R&B concerts, with more club calendars likely to firm up closer to the month.",
+    "notes": "December 2026 is already unusually strong for London club travel: fabric, The Cause, DRUMSHEDS, KOKO, Phonox and E1 all have confirmed large-scale electronic programming alongside O2 arena R&B and pop bookings.",
     "events": [
+      {
+        "id": "london-pete-tong-ibiza-classics-2026",
+        "title": "Pete Tong Presents Ibiza Classics 2026",
+        "type": "concert",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/pete-tong-presents-ibiza-classics-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/pete-tong-presents-ibiza-classics-2026",
+        "summary": "Pete Tong brings Ibiza Classics back to The O2 for two nights with The Essential Orchestra, reworking classic house and club tracks at arena scale.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-defected-nye-wembley-2026",
+        "title": "Defected New Year's Eve - OVO Arena Wembley",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 87,
+        "venueName": "OVO Arena Wembley",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2538865",
+        "ticketUrl": "https://ra.co/events/2538865",
+        "summary": "Defected stages a New Year's Eve arena house party at OVO Arena Wembley with Basement Jaxx, Dennis Ferrer, Sam Divine b2b Low Steppa, Rae Sada and more phases to be announced.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "london-phoebe-bridgers-o2-dec-2026",
+        "title": "Phoebe Bridgers - The Lost Tour",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-02",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/phoebe-bridgers",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/phoebe-bridgers",
+        "summary": "Phoebe Bridgers brings The Lost Tour to The O2 for two London arena dates, with Isaac Wood and Anaïs listed as special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-resistance-drumsheds-dec-2026",
+        "title": "Resistance with Paul Kalkbrenner, Miss Monique, Kölsch and more",
+        "type": "festival",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 86,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2535065",
+        "ticketUrl": "https://ra.co/events/2535065",
+        "summary": "Resistance returns to London for an all-day DRUMSHEDS showcase headlined by Paul Kalkbrenner live, Miss Monique, Kölsch, Sven Väth, Roman Flügel b2b Gerd Janson and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-kehlani-o2-dec-2026",
+        "title": "Kehlani",
+        "type": "concert",
+        "startDate": "2026-12-08",
+        "endDate": "2026-12-08",
+        "importance": 85,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/kehlani-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/kehlani-2026",
+        "summary": "Kehlani returns to The O2 for a 2026 London arena show, with Odeal and Waseel billed as special guests.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-anjunadeep-cause-dec-2026",
+        "title": "Anjunadeep London",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 85,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2520529",
+        "ticketUrl": "https://ra.co/events/2520529",
+        "summary": "Anjunadeep takes over all four rooms of The Cause with a large label lineup including Jody Wisternoff, Nicky Elisabeth b2b Nordfold, Nox Vahn b2b PROFF, Quivver, Rezident and more.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-klockworks-2026",
+        "title": "fabric x 20yrs of Klockworks: Ben Klock B2B Ryan Elliott, Cassy, STERAC B2B ROD, NEUX, BOBBY",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 84,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476980",
+        "ticketUrl": "https://ra.co/events/2476980",
+        "summary": "fabric hosts the 20th anniversary of Klockworks with Ben Klock b2b Ryan Elliott, Cassy, STERAC b2b ROD, NEUX and BOBBY across the club.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "london-bryson-tiller-o2-dec-2026",
+        "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+        "type": "concert",
+        "startDate": "2026-12-07",
+        "endDate": "2026-12-07",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/bryson-tiller",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/bryson-tiller",
+        "summary": "Bryson Tiller brings The Neo Trapsoul Tour to The O2 with Majid Jordan as special guest.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-rnb-winter-ball-2026",
+        "title": "RnB Winter Ball",
+        "type": "concert",
+        "startDate": "2026-12-13",
+        "endDate": "2026-12-13",
+        "importance": 84,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/rnb-winter-ball",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/rnb-winter-ball",
+        "summary": "RnB Winter Ball returns to The O2 with Jagged Edge, B2K and SWV for a large-scale celebration of contemporary and classic R&B.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-marco-carola-koko-dec-2026",
+        "title": "KOKO Electronic: Marco Carola - Night 1",
+        "type": "club-night",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-26",
+        "importance": 84,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533526",
+        "ticketUrl": "https://ra.co/events/2533526",
+        "summary": "KOKO Electronic hosts Marco Carola for the first night of a Boxing Day weekend two-night run in the theatre.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "london-chris-stassy-weekender-2026",
+        "title": "CHRIS STASSY - LONDON WEEKENDER - fabric",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2542835",
+        "ticketUrl": "https://ra.co/events/2542835",
+        "summary": "Sold-out daytime house takeover at fabric with Chris Stassy as part of his London Weekender, listed by RA with 2.6k+ interest.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "london-fabric-continuum-2026",
+        "title": "fabric Continuum: RPR Soundsystem, Gene On Earth, Rene Wise, Binh, tINI, GiGi FM, dj sweet6teen",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-14",
+        "importance": 84,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476985",
+        "ticketUrl": "https://ra.co/events/2476985",
+        "summary": "fabric’s 24+ hour Continuum session pairs the Romanian minimal institution RPR Soundsystem with Gene On Earth, Binh, Rene Wise, tINI, GiGi FM and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-chris-stassy-fabric-dec-2026",
+        "title": "Chris Stassy - London Weekender at fabric",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 82,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2542835",
+        "ticketUrl": "https://ra.co/events/2542835",
+        "summary": "Chris Stassy’s London Weekender includes a sold-out daytime fabric session with Stassy and more acts to be announced.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "london-theo-parrish-fold-2026",
+        "title": "Labyrinth presents: Theo Parrish All Night Long",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12",
+        "importance": 81,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2539734",
+        "ticketUrl": "https://ra.co/events/2539734",
+        "summary": "Labyrinth brings Theo Parrish to FOLD for a sold-out seven-hour all-night-long set connecting house, disco, soul, jazz, funk and techno.",
+        "genres": [
+          "house",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-origins-djrum-dec-2026",
+        "title": "Origins: DjRUM All Night Long",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 80,
+        "venueName": "EartH",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2548959",
+        "ticketUrl": "https://ra.co/events/2548959",
+        "summary": "Origins presents DjRUM for a six-hour, three-deck, vinyl-only all-night-long session at EartH.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-denis-sulta-phonox-dec-2026",
+        "title": "Denis Sulta, O'Flynn - December Residency Closing Party",
+        "type": "residency",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-26",
+        "importance": 80,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533309",
+        "ticketUrl": "https://ra.co/events/2533309",
+        "summary": "Denis Sulta closes his December Phonox residency with O'Flynn, covering house and techno at the Brixton club.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "london-todd-terje-phonox-dec-2026",
+        "title": "Todd Terje All Day Long",
+        "type": "club-night",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 79,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2549953",
+        "ticketUrl": "https://ra.co/events/2549953",
+        "summary": "Todd Terje plays an all-day-long Phonox session focused on his disco, house and cosmic electronic sound.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabriclive-hospital30-2026",
+        "title": "FABRICLIVE x Hospital Records: Hospital30",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2506860",
+        "ticketUrl": "https://ra.co/events/2506860",
+        "summary": "FABRICLIVE and Hospitality UK bring Hospital Records’ 30th anniversary to fabric for a confirmed drum & bass daytime club event; the lineup is still TBA on the source page.",
+        "genres": [
+          "electronic"
+        ]
+      },
       {
         "id": "london-abba-voyage-dec-2026",
         "title": "ABBA Voyage",
@@ -24,6 +326,22 @@
         "sourceUrl": "https://www.axs.com/uk/events/861176/abba-voyage-friday-4th-december-2026-tickets",
         "ticketUrl": "https://www.axs.com/uk/events/861176/abba-voyage-friday-4th-december-2026-tickets",
         "summary": "A representative December performance of ABBA Voyage at ABBA Arena, the purpose-built London residency presenting ABBA’s songs as a high-production digital concert. The AXS listing confirms the Friday 4 December 2026 show at 19:45.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-ocean-colour-scene-o2-2026",
+        "title": "Ocean Colour Scene: Moseley Shoals 30th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2026-12-09",
+        "endDate": "2026-12-09",
+        "importance": 82,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/ocean-colour-scene",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/ocean-colour-scene",
+        "summary": "Ocean Colour Scene celebrate the 30th anniversary of Moseley Shoals at The O2, with The Enemy as special guests. The O2 confirms the Wednesday 9 December 2026 date and a career-spanning set alongside highlights from the album.",
         "genres": [
           "pop"
         ]
@@ -45,20 +363,54 @@
         ]
       },
       {
-        "id": "london-level-42-indigo-2026",
-        "title": "Level 42",
-        "type": "concert",
-        "startDate": "2026-12-04",
-        "endDate": "2026-12-04",
-        "importance": 70,
-        "venueName": "indigo at The O2",
+        "id": "london-supa-dupa-fly-rnb-ldn-2026",
+        "title": "Supa Dupa Fly: R'n'B LDN Day Party: HERE at Outernet",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "HERE at Outernet",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.co.uk/level-42-london-04-12-2026/event/35006454AB614C24",
-        "ticketUrl": "https://www.ticketmaster.co.uk/level-42-london-04-12-2026/event/35006454AB614C24",
-        "summary": "Level 42 play indigo at The O2 on Friday 4 December 2026. Ticketmaster confirms the London date at 19:00, with the band’s jazz-funk and pop catalogue at the centre of the show.",
+        "sourceUrl": "https://www.supadupaflylove.com/products/supa-dupa-fly-r-n-b-london/2026-12-12",
+        "ticketUrl": "https://www.supadupaflylove.com/shop/r-n-b-ldn-day-party-here-at-outernet",
+        "summary": "Supa Dupa Fly’s large-format R&B and hip-hop day party lands at HERE at Outernet with Sian Anderson, Sandra Omari, Emily Rawson and Miss Gower on the bill, built around 90s-to-2015 R&B and throwback anthems.",
         "genres": [
-          "pop",
-          "jazz"
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-amy-winehouse-band-roundhouse-2026",
+        "title": "The Amy Winehouse Band: Back to Black 20th Anniversary",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 76,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/the-amy-winehouse-band-2/",
+        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/the-amy-winehouse-band-2/",
+        "summary": "The Amy Winehouse Band, led by Amy Winehouse’s long-time musical director Dale Davis, performs at Roundhouse to mark the 20th anniversary of Back to Black. The venue confirms the Friday 18 December 2026 date and 19:00 start time.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-kodaline-roundhouse-2026",
+        "title": "Kodaline - Farewell Tour",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 75,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.co.uk/en/event/kodaline-farewell-tour-london-tickets-edp1661617",
+        "ticketUrl": "https://www.livenation.co.uk/en/event/kodaline-farewell-tour-london-tickets-edp1661617",
+        "summary": "Kodaline’s Farewell Tour includes a London Roundhouse show on Saturday 12 December 2026. Live Nation confirms the Roundhouse date, 19:00 doors, and Kodaline as headliner.",
+        "genres": [
+          "pop"
         ]
       },
       {
@@ -79,52 +431,19 @@
         ]
       },
       {
-        "id": "london-ocean-colour-scene-o2-2026",
-        "title": "Ocean Colour Scene: Moseley Shoals 30th Anniversary Tour",
-        "type": "concert",
-        "startDate": "2026-12-09",
-        "endDate": "2026-12-09",
-        "importance": 82,
-        "venueName": "The O2 arena",
+        "id": "london-frantic-xmas-2026",
+        "title": "Frantic Xmas Party 2026",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Ministry Of Sound",
         "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/ocean-colour-scene",
-        "ticketUrl": "https://www.theo2.co.uk/events/detail/ocean-colour-scene",
-        "summary": "Ocean Colour Scene celebrate the 30th anniversary of Moseley Shoals at The O2, with The Enemy as special guests. The O2 confirms the Wednesday 9 December 2026 date and a career-spanning set alongside highlights from the album.",
+        "sourceUrl": "https://ticket247.co.uk/Event/frantic-xmas-party-2026-at-ministry-of-sound-london-439496",
+        "ticketUrl": "https://ticket247.co.uk/Event/frantic-xmas-party-2026-at-ministry-of-sound-london-439496",
+        "summary": "Long-running hard dance institution Frantic returns for a daytime Christmas takeover across four rooms at Ministry Of Sound, focused on hard house, hard trance and trance.",
         "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "london-pete-tong-ibiza-classics-2026",
-        "title": "Pete Tong Presents Ibiza Classics 2026",
-        "type": "concert",
-        "startDate": "2026-12-11",
-        "endDate": "2026-12-12",
-        "importance": 90,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/pete-tong-presents-ibiza-classics-2026",
-        "ticketUrl": "https://www.theo2.co.uk/events/detail/pete-tong-presents-ibiza-classics-2026",
-        "summary": "Pete Tong returns to The O2 with Ibiza Classics, joined by The Essential Orchestra for orchestral reworkings of dance anthems. The O2 confirms shows on Friday 11 and Saturday 12 December 2026.",
-        "genres": [
-          "electronic",
-          "house"
-        ]
-      },
-      {
-        "id": "london-kodaline-roundhouse-2026",
-        "title": "Kodaline - Farewell Tour",
-        "type": "concert",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 75,
-        "venueName": "Roundhouse",
-        "venueId": null,
-        "sourceUrl": "https://www.livenation.co.uk/en/event/kodaline-farewell-tour-london-tickets-edp1661617",
-        "ticketUrl": "https://www.livenation.co.uk/en/event/kodaline-farewell-tour-london-tickets-edp1661617",
-        "summary": "Kodaline’s Farewell Tour includes a London Roundhouse show on Saturday 12 December 2026. Live Nation confirms the Roundhouse date, 19:00 doors, and Kodaline as headliner.",
-        "genres": [
-          "pop"
+          "electronic"
         ]
       },
       {
@@ -145,21 +464,52 @@
         ]
       },
       {
-        "id": "london-amy-winehouse-band-roundhouse-2026",
-        "title": "The Amy Winehouse Band: Back to Black 20th Anniversary",
+        "id": "london-level-42-indigo-2026",
+        "title": "Level 42",
         "type": "concert",
-        "startDate": "2026-12-18",
-        "endDate": "2026-12-18",
-        "importance": 76,
-        "venueName": "Roundhouse",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 70,
+        "venueName": "indigo at The O2",
         "venueId": null,
-        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/the-amy-winehouse-band-2/",
-        "ticketUrl": "https://www.roundhouse.org.uk/whats-on/the-amy-winehouse-band-2/",
-        "summary": "The Amy Winehouse Band, led by Amy Winehouse’s long-time musical director Dale Davis, performs at Roundhouse to mark the 20th anniversary of Back to Black. The venue confirms the Friday 18 December 2026 date and 19:00 start time.",
+        "sourceUrl": "https://www.ticketmaster.co.uk/level-42-london-04-12-2026/event/35006454AB614C24",
+        "ticketUrl": "https://www.ticketmaster.co.uk/level-42-london-04-12-2026/event/35006454AB614C24",
+        "summary": "Level 42 play indigo at The O2 on Friday 4 December 2026. Ticketmaster confirms the London date at 19:00, with the band’s jazz-funk and pop catalogue at the centre of the show.",
         "genres": [
-          "r-and-b",
-          "jazz",
-          "pop"
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-fossil-archive-glove-2026",
+        "title": "Fossil Archive presents: Lineup TBC",
+        "type": "club-night",
+        "startDate": "2026-12-13",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "The Glove That Fits",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2416648",
+        "ticketUrl": "https://ra.co/events/2416648",
+        "summary": "London techno label Fossil Archive hosts a Sunday evening session at The Glove That Fits with R.M.K and more TBC, focusing on local and emerging techno talent.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "london-daoud-jazz-cafe-2026",
+        "title": "daoud at The Jazz Cafe",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://www.ents24.com/london-events/the-jazz-cafe/daoud/7477677",
+        "ticketUrl": "https://www.ents24.com/london-events/the-jazz-cafe/daoud/7477677",
+        "summary": "A December Jazz Cafe date from trumpeter daoud, whose contemporary jazz writing and club-adjacent energy make this a strong pick for travellers tracking London’s modern jazz circuit.",
+        "genres": [
+          "jazz"
         ]
       }
     ]

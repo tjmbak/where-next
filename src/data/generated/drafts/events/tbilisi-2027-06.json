@@ -1,0 +1,40 @@
+{
+  "slug": "tbilisi",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:11:51.609Z",
+  "responseId": "resp_0bac9063a989ec24006acdaf1bd06c87d09244abef313a1a1b+resp_0bfcfe9a4f3c215e006acdaf53529487d0948c93ee10178e1c",
+  "searchCalls": 26,
+  "citations": [
+    {
+      "url": "https://ra.co/events/ge/tbilisi?startDate=2026-06-13&utm_source=openai",
+      "title": "Upcoming Events in Tbilisi · Get Your Tickets On RA",
+      "startIndex": 259,
+      "endIndex": 340
+    }
+  ],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 6,
+    "year": 2027,
+    "notes": "Only one June 2027 contemporary music event surfaced with primary confirmation so far; major Tbilisi club and festival calendars have not yet published confirmed June 2027 programs.",
+    "events": [
+      {
+        "id": "tbilisi-bryan-adams-jun-2027",
+        "title": "Bryan Adams — Roll With The Punches Tour",
+        "type": "concert",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-17",
+        "importance": 78,
+        "venueName": "Rustavi International Motorpark",
+        "venueId": null,
+        "sourceUrl": "https://www.bryanadams.com/news/moldova-georgia-kazakhstan-2027",
+        "ticketUrl": "https://biletebi.ge/en/concerts/bryan-adams",
+        "summary": "Bryan Adams brings the Roll With The Punches tour to Rustavi International Motorpark, listed by the artist as the Tbilisi/Georgia date on June 17, 2027. The ticketing page confirms the same date, 19:00 start time, and venue.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

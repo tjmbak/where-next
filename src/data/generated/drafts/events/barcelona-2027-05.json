@@ -1,0 +1,167 @@
+{
+  "slug": "barcelona",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:52:37.009Z",
+  "responseId": "resp_0446ef7e5635fd4c006acdaa4454f487d0a996be223236c307+resp_049d0dc00f4ba892006acdaabe120087d08f0a32fdfe73cc55",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "barcelona",
+    "month": 5,
+    "year": 2027,
+    "notes": "Confirmed May 2027 listings are currently strongest for arena pop/Spanish pop, with a few club and electronic picks already announced.",
+    "events": [
+      {
+        "id": "barcelona-olivia-rodrigo-unraveled-may-2027",
+        "title": "Olivia Rodrigo — The Unraveled Tour",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-06",
+        "importance": 88,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/olivia-rodrigo-may-1st-2nd-and-5th-and-6th",
+        "ticketUrl": "https://www.livenation.es/en/event/olivia-rodrigo-the-unraveled-tour-barcelona-tickets-edp1670579",
+        "summary": "Olivia Rodrigo plays four Palau Sant Jordi dates on May 1, 2, 5 and 6, 2027 as part of The Unraveled Tour. Live Nation lists Die Spitz as support on the Barcelona dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-quevedo-el-baifo-2027",
+        "title": "Quevedo — El Baifo Tour",
+        "type": "concert",
+        "startDate": "2027-05-31",
+        "endDate": "2027-05-31",
+        "importance": 83,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/quevedo",
+        "ticketUrl": "https://www.theproject.es/es/quevedo-31175",
+        "summary": "Canarian urban-pop artist Quevedo begins his Barcelona Palau Sant Jordi run on May 31, 2027 for El Baifo Tour. The venue lists further Palau dates in June and July, but this entry covers the confirmed May performance.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-gracie-abrams-look-at-my-life-2027",
+        "title": "Gracie Abrams — The Look At My Life Tour",
+        "type": "concert",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-28",
+        "importance": 82,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://palausantjordi.barcelona/en/gracie-abrams",
+        "ticketUrl": "https://www.livenation.es/en/event/gracie-abrams-the-look-at-my-life-tour-barcelona-tickets-edp1677023",
+        "summary": "Gracie Abrams plays two Palau Sant Jordi concerts on May 27 and 28, 2027 on The Look At My Life Tour. Live Nation lists Jake Minch as support for the Barcelona date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-pablo-lopez-palau-2027",
+        "title": "Pablo López — Hibakusha Tour",
+        "type": "concert",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-21",
+        "importance": 75,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://estadiolimpic.barcelona/es/pablo-lopez-1",
+        "ticketUrl": "https://www.elcorteingles.es/entradas/conciertos/entradas-pablo-lopez-barcelona-2027-05-21/",
+        "summary": "Spanish pop singer-songwriter Pablo López brings the arena-format Hibakusha Tour to Palau Sant Jordi on May 21, 2027. The venue page lists the show at 21:00 with GTS as promoter.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-rodrigo-y-gabriela-ourhome-2027",
+        "title": "Rodrigo y Gabriela — OurHome Tour",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 73,
+        "venueName": "La (2) de Apolo",
+        "venueId": null,
+        "sourceUrl": "https://www.sala-apolo.com/en/event/rodrigo-y-gabriela-20270507-7546",
+        "ticketUrl": "https://www.doctormusic.com/concierto-2027-rodrigo-y-gabriela",
+        "summary": "Grammy-winning Mexican guitar duo Rodrigo y Gabriela return to Barcelona on the OurHome Tour. Sala Apolo lists the concert for May 7, 2027 at La (2) de Apolo.",
+        "genres": [
+          "latin",
+          "jazz"
+        ]
+      },
+      {
+        "id": "barcelona-ry-x-dusk-2027",
+        "title": "RY X — DUSK Tour",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 72,
+        "venueName": "Paral·lel 62",
+        "venueId": null,
+        "sourceUrl": "https://paral-lel62.cat/en/programacio/ry-x-2027-barcelona-eng/",
+        "ticketUrl": "https://feverup.com/m/677125/en?seasonal=pc8237p",
+        "summary": "Australian artist, songwriter and producer RY X brings his DUSK tour to Paral·lel 62, presenting a new album due in 2027. The show is listed for May 5 with doors at 19:30 and start at 20:00.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-pablo-lopez-city-hall-2027",
+        "title": "Pablo López — Hibakusha Tour Piano y Voz",
+        "type": "concert",
+        "startDate": "2027-05-20",
+        "endDate": "2027-05-20",
+        "importance": 70,
+        "venueName": "City Hall Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://pablolopezmusic.com/del-nino-del-espacio-a-hibakusha-tour-2027-pablo-lopez-no-se-detiene/",
+        "ticketUrl": "https://www.elcorteingles.es/entradas/conciertos/entradas-pablo-lopez-barcelona-2027-05-21/",
+        "summary": "Pablo López opens his Barcelona Hibakusha Tour run with an intimate City Hall date on May 20 before the arena show. The official artist announcement lists the City Hall Barcelona date as part of a six-concert, two-format tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-fiesta-fa-razzmatazz-2027",
+        "title": "Fiesta ¡FA!",
+        "type": "concert",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-27",
+        "importance": 66,
+        "venueName": "Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/agenda/09-10-2026-fiesta-fa/",
+        "ticketUrl": "https://www.salarazzmatazz.com/agenda/09-10-2026-fiesta-fa/",
+        "summary": "Razzmatazz confirms Fiesta ¡FA! has been rescheduled to May 27, 2027. The Argentine/Uruguayan pop-rock party format arrives at Razzmatazz after sold-out editions in South America.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "barcelona-acid-resistance-2027",
+        "title": "ACID RESISTANCE mental state",
+        "type": "club-night",
+        "startDate": "2027-05-30",
+        "endDate": "2027-05-31",
+        "importance": 62,
+        "venueName": "DETROIT CLUB",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2422737",
+        "ticketUrl": "https://ra.co/events/2422737",
+        "summary": "Late-night acid techno session in L’Hospitalet with UK acid techno figures Guy Mcaffer aka The Geezer and TASSID alongside Sergio Madtraxx and Zyco.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

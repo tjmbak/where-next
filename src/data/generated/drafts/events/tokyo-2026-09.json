@@ -2,9 +2,9 @@
   "slug": "tokyo",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:44:27.215Z",
-  "responseId": "resp_06d1daf79fd02f7e0069ff63e3f86c8193a4af57fd0d5e4744",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T18:51:06.548Z",
+  "responseId": "augment:resp_0869f55f7d2e5ea8006a1b3145150881989eae8062e7ec48be",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "tokyo",
@@ -96,22 +96,6 @@
         ]
       },
       {
-        "id": "tokyo-rikon-densetsu-budokan-2026",
-        "title": "Rikon Densetsu — 2026 ONEMAN LIVE",
-        "type": "concert",
-        "startDate": "2026-09-10",
-        "endDate": "2026-09-11",
-        "importance": 77,
-        "venueName": "Nippon Budokan",
-        "venueId": null,
-        "sourceUrl": "https://eplus.jp/sf/detail/3983870001",
-        "ticketUrl": "https://eplus.jp/sf/detail/3983870001",
-        "summary": "Ticketing platform eplus lists Rikon Densetsu at Nippon Budokan on September 10 and 11, 2026. The shows are the band’s 2026 ONEMAN LIVE dates.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "tokyo-belle-sebastian-kanadevia-2026",
         "title": "Belle & Sebastian — Japan Tour 2026",
         "type": "concert",
@@ -123,6 +107,22 @@
         "sourceUrl": "https://www.creativeman.co.jp/event/belle-sebastian_2026/",
         "ticketUrl": "https://eplus.tickets/belleandsebastian/",
         "summary": "Creativeman confirms Belle & Sebastian’s Tokyo dates at Kanadevia Hall on September 24 and 25, 2026. The September 24 show performs Tigermilk and September 25 performs If You’re Feeling Sinister.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-rikon-densetsu-budokan-2026",
+        "title": "Rikon Densetsu — 2026 ONEMAN LIVE",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-11",
+        "importance": 77,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://eplus.jp/sf/detail/3983870001",
+        "ticketUrl": "https://eplus.jp/sf/detail/3983870001",
+        "summary": "Ticketing platform eplus lists Rikon Densetsu at Nippon Budokan on September 10 and 11, 2026. The shows are the band’s 2026 ONEMAN LIVE dates.",
         "genres": [
           "pop"
         ]
@@ -178,6 +178,38 @@
         ]
       },
       {
+        "id": "tokyo-mike-stern-band-2026",
+        "title": "Mike Stern Band featuring Dennis Chambers, Randy Brecker, Leni Stern & Lincoln Goines",
+        "type": "concert",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-04",
+        "importance": 70,
+        "venueName": "Blue Note Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenote.co.jp/jp/artists/mike-stern/",
+        "ticketUrl": null,
+        "summary": "A four-night Blue Note Tokyo run from fusion guitarist Mike Stern with heavyweight players Dennis Chambers, Randy Brecker, Leni Stern and Lincoln Goines, aimed at the city’s serious contemporary-jazz and fusion audience.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "tokyo-edo-jazz-2026",
+        "title": "江戸Jazz 2026",
+        "type": "concert",
+        "startDate": "2026-09-25",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "GINZA SIX Kanze Noh Theater",
+        "venueId": null,
+        "sourceUrl": "https://edojazz.jp/edojazz/",
+        "ticketUrl": null,
+        "summary": "A contemporary Japanese jazz night staged inside the Kanze Noh Theater at GINZA SIX, bringing together Akira Wada, Shota Watanabe, Ryo Konishi, Mao Sone, Keisuke Furuki, Akira Kudo and kiki vivi lily for a tradition-meets-modern-jazz setting.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
         "id": "tokyo-salad-music-festival-2026",
         "title": "TOKYO MET SaLaD MUSIC FESTIVAL 2026",
         "type": "festival",
@@ -191,6 +223,22 @@
         "summary": "Tokyo Metropolitan Theatre confirms the main program of TOKYO MET SaLaD MUSIC FESTIVAL 2026 for September 11–13, 2026. The festival program includes a main concert, orchestra programming, children’s opera, dance and mini-concerts around Ikebukuro.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "tokyo-andrea-motis-2026",
+        "title": "Andrea Motis Guitar Trio \"Intimate\"",
+        "type": "concert",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-28",
+        "importance": 65,
+        "venueName": "Blue Note Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenote.co.jp/jp/artists/andrea-motis/",
+        "ticketUrl": "https://reserve.bluenote.co.jp/reserve/schedule/show_event_info/3943/",
+        "summary": "Barcelona vocalist and trumpeter Andrea Motis brings her intimate guitar-trio project to Blue Note Tokyo with Josep Traver and Jurandir da Silva, spanning jazz standards, Brazilian repertoire, chanson and folk-inflected material.",
+        "genres": [
+          "jazz"
         ]
       }
     ]

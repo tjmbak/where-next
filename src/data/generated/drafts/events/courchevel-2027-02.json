@@ -1,0 +1,148 @@
+{
+  "slug": "courchevel",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:21:33.748Z",
+  "responseId": "resp_06f9cb8b476c2848006acda304bb6087d0bf74b45d891fc0ed+resp_019949084da4e71c006acda3717eb087d082d13a33596e1963",
+  "searchCalls": 42,
+  "citations": [],
+  "data": {
+    "destinationSlug": "courchevel",
+    "month": 2,
+    "year": 2027,
+    "notes": "Date-specific Courchevel club and festival lineups for February 2027 appear not to be published yet, while adjacent Méribel Mottaret has confirmed live après-ski and late-night music listings.",
+    "events": [
+      {
+        "id": "courchevel-folie-douce-apres-ski-2027",
+        "title": "La Folie Douce Méribel-Courchevel Après-Ski Clubbing",
+        "type": "residency",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-28",
+        "importance": 74,
+        "venueName": "La Folie Douce Méribel-Courchevel",
+        "venueId": "la-folie-douce-courchevel",
+        "sourceUrl": "https://www.meribel.net/en/apidae/la-folie-douce-meribel-courchevel-2/",
+        "ticketUrl": null,
+        "summary": "High-altitude daily après-ski party at the Saulire mid-station, with the venue’s 2026/27 winter opening period covering all of February 2027 and a format built around dining, entertainment, bar culture, live show energy and DJ-led clubbing.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-makash-waloo-2027",
+        "title": "Concert de Makash Waloo",
+        "type": "concert",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 62,
+        "venueName": "Galerie commerciale du Ruitor",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/apidae/concert-de-makash-waloo/",
+        "ticketUrl": null,
+        "summary": "Makash Waloo, the acoustic duo of Julien Curveur and Mister Martin, plays a late set mixing rock, pop, funk and Latin music. The confirmed February performance runs from 22:00 to 01:00 in Méribel Mottaret.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-ben-vickers-2027",
+        "title": "Après Live Music with Ben Vickers",
+        "type": "concert",
+        "startDate": "2027-02-15",
+        "endDate": "2027-02-15",
+        "importance": 62,
+        "venueName": "Le Rambler",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/en/apidae/apres-live-music-with-ben-vickers/",
+        "ticketUrl": null,
+        "summary": "Ben Vickers plays a solo après-ski set using guitar, vocals and loops, moving through reggae, funk, soul and blues-influenced covers. The confirmed February performance runs from 17:30 to 20:00.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-hook-2027",
+        "title": "Concert de Hook",
+        "type": "concert",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-11",
+        "importance": 61,
+        "venueName": "Méribel Mottaret",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/apidae/concert-de-hook/",
+        "ticketUrl": null,
+        "summary": "Hook, an eclectic rock-covers duo, is confirmed for a late-night Méribel Mottaret performance. The February date runs from 22:00 to 01:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-flow-2027",
+        "title": "Après Live Music with Flow",
+        "type": "concert",
+        "startDate": "2027-02-22",
+        "endDate": "2027-02-22",
+        "importance": 61,
+        "venueName": "Méribel Mottaret",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/en/apidae/apres-live-music-with-flow/",
+        "ticketUrl": null,
+        "summary": "Flow, aka Florent Loyez, performs a solo après-ski set of pop and rock classics using guitar, vocals and live looping. The confirmed February performance runs from 17:30 to 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-open-mic-feb-2027",
+        "title": "Open Mic Night – Live Karaoke – Songs on Demand",
+        "type": "club-night",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-01",
+        "importance": 60,
+        "venueName": "Galerie commerciale du Ruitor",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/en/apidae/open-mic-evening-live-karaoke/",
+        "ticketUrl": null,
+        "summary": "L’Instant Musical leads an interactive open mic and live-karaoke night where the audience chooses from a repertoire of more than 1,000 songs or joins the musicians on stage. The confirmed February session runs from 22:00 to 01:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-johnny-kisses-2027",
+        "title": "Après Live Music with Johnny Kisses the Cheerleader",
+        "type": "concert",
+        "startDate": "2027-02-03",
+        "endDate": "2027-02-03",
+        "importance": 60,
+        "venueName": "Le Rambler",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/en/apidae/apres-live-music-with-johnny-kisses-the-cheerleader/",
+        "ticketUrl": null,
+        "summary": "Johnny Kisses the Cheerleader performs a solo après-ski set built around rock, pop and reworked classics. The confirmed February performance runs from 17:30 to 20:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-bacon-juke-box-2027",
+        "title": "Concert de Bacon Juke Box",
+        "type": "concert",
+        "startDate": "2027-02-09",
+        "endDate": "2027-02-09",
+        "importance": 60,
+        "venueName": "Le Rambler",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/apidae/concert-en-de-bacon-juke-box/",
+        "ticketUrl": null,
+        "summary": "Bacon Juke Box returns to Le Rambler with Russell and Nico for a live set revisiting rock and pop classics from the 1960s to today. The confirmed February performance runs from 22:00 to 01:00.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

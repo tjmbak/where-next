@@ -1,0 +1,63 @@
+{
+  "slug": "new-york",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:27:09.785Z",
+  "responseId": "resp_06a087b971136cb7006acdb28d12d487d0b4c0ee72ece35480+resp_03a01235b0d9bf93006acdb2cd028087d08962f1237e60f6c9",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 underground club calendars for New York are not broadly published yet on RA/DICE/Shotgun/Eventbrite, so this list only includes confirmed genre/diaspora events with active source pages.",
+    "events": [
+      {
+        "id": "new-york-slipknot-sicest-stadium-tour-2027",
+        "title": "Slipknot: (sic)est Stadium Tour",
+        "type": "concert",
+        "startDate": "2027-07-18",
+        "endDate": "2027-07-18",
+        "importance": 84,
+        "venueName": "Citi Field",
+        "venueId": null,
+        "sourceUrl": "https://www.mlb.com/mets/tickets/concerts/slipknot",
+        "ticketUrl": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-queens-new-york-07-18-2027/event/1D006533A84229EC",
+        "summary": "Slipknot bring their stadium tour to Citi Field with Bring Me The Horizon and special guest Acid Bath, according to the venue's official concert page.",
+        "genres": []
+      },
+      {
+        "id": "new-york-empire-sensual-movement-2027",
+        "title": "Empire Sensual Movement 2027",
+        "type": "conference",
+        "startDate": "2027-07-29",
+        "endDate": "2027-08-02",
+        "importance": 72,
+        "venueName": "New York Marriott Marquis",
+        "venueId": null,
+        "sourceUrl": "https://sensualmovementusa.com/empire-sensual-movement-nyc-2027/",
+        "ticketUrl": "https://www.tickettailor.com/events/smeevents/2340162",
+        "summary": "A large salsa, bachata, and kizomba dance congress in Times Square with international instructors, performances, competitions, late-night socials, and early-bird tickets already on sale.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-new-york-mambo-experience-2027",
+        "title": "New York Mambo Experience 2027 + Mamboland ESM Congress",
+        "type": "conference",
+        "startDate": "2027-07-26",
+        "endDate": "2027-08-01",
+        "importance": 70,
+        "venueName": "Empire Dance Studio / New York Marriott Marquis",
+        "venueId": null,
+        "sourceUrl": "https://nymamboexperience.com/",
+        "ticketUrl": "https://nymamboexperience.com/passes",
+        "summary": "A weeklong salsa On2/mambo training and social-dance program: four days at Empire Dance Studio followed by the Mamboland ESM congress at New York Marriott Marquis, with workshops, live music, and socials.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "toronto",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:58:39.058Z",
+  "responseId": "resp_0071c5fd09dbfe1d006acdabc0c2c887d0911d841eb1dac952+resp_0f6563076f4c7847006acdac35f5c887d090e8aec88a7e305b",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is still lightly announced for Toronto’s club/festival scene, so the confirmed picture is led by stadium pop, History/Danforth touring shows, and a few notable indie/electronic picks.",
+    "events": [
+      {
+        "id": "toronto-harry-styles-may-2027",
+        "title": "Harry Styles: Together, Together — Toronto run",
+        "type": "residency",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-15",
+        "importance": 92,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/artist/2366444?tt_scene=anchor_view&venueId=132627",
+        "ticketUrl": "https://www.ticketmaster.ca/artist/2366444?tt_scene=anchor_view&venueId=132627",
+        "summary": "Harry Styles brings his Together, Together stadium tour to Rogers Stadium for four confirmed Toronto shows on May 7, 8, 14, and 15. This is the month’s biggest confirmed destination pop event.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-carly-rae-jepsen-history-may-2027",
+        "title": "Carly Rae Jepsen — Day and Night Tour",
+        "type": "concert",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-26",
+        "importance": 80,
+        "venueName": "History",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/carly-rae-jepsen-tickets/artist/1393390?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.ca/carly-rae-jepsen-day-and-night-toronto-ontario-05-25-2027/event/1000653A09F7D88D?tt_scene=anchor_view",
+        "summary": "Carly Rae Jepsen’s Day and Night Tour has two confirmed Toronto dates at History on May 25 and 26. The two-night run is one of the month’s key Canadian pop bookings.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-fkj-history-may-2027",
+        "title": "FKJ — TYBER Tour",
+        "type": "concert",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-28",
+        "importance": 75,
+        "venueName": "History",
+        "venueId": null,
+        "sourceUrl": "https://www.historytoronto.com/events/detail/fkj-1",
+        "ticketUrl": "https://www.historytoronto.com/events/detail/fkj-1",
+        "summary": "FKJ plays History on May 28 on the TYBER Tour, presented by Embrace. The 19+ show is a notable electronic/neo-soul booking for Toronto’s late-May calendar.",
+        "genres": [
+          "electronic",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "toronto-the-warning-history-may-2027",
+        "title": "The Warning — Everything’s Falling World Tour",
+        "type": "concert",
+        "startDate": "2027-05-11",
+        "endDate": "2027-05-11",
+        "importance": 70,
+        "venueName": "History",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/1AvZZ_3GklTRH3z/the-warning-everything-s-falling-world-tour",
+        "ticketUrl": "https://www.ticketmaster.ca/the-warning-everythings-falling-world-tour-toronto-ontario-05-11-2027/event/1000652AFFBFC4B8?tt_scene=anchor_view",
+        "summary": "Mexican rock trio The Warning headline History on the Everything’s Falling World Tour, with wilt listed on the Live Nation event page. The show is a notable international rock booking at Toronto’s east-end concert hall.",
+        "genres": []
+      },
+      {
+        "id": "toronto-mass-fermenting-dregs-may-2027",
+        "title": "Mass of the Fermenting Dregs",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-12",
+        "importance": 70,
+        "venueName": "The Danforth Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.motfd.com/",
+        "ticketUrl": "https://www.ticketmaster.ca/mass-of-the-fermenting-dregs-toronto-ontario-05-12-2027/event/10006504D69650BB?tt_scene=anchor_view",
+        "summary": "Japan’s Mass of the Fermenting Dregs bring their 2027 North American tour to The Danforth Music Hall. The band’s official tour schedule lists Toronto on May 12 at Danforth Music Hall.",
+        "genres": []
+      },
+      {
+        "id": "toronto-agnes-obel-danforth-may-2027",
+        "title": "Agnes Obel",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 68,
+        "venueName": "The Danforth Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/agnes-obel-toronto-ontario-05-22-2027/event/10006532B7F0BDBC?language=fr-ca&tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.ca/agnes-obel-toronto-ontario-05-22-2027/event/10006532B7F0BDBC?tt_scene=anchor_view",
+        "summary": "Agnes Obel is confirmed for The Danforth Music Hall on May 22, with doors/show details posted by Ticketmaster. The date is a strong art-pop/chamber-pop touring stop for the month.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-liminanas-horseshoe-may-2027",
+        "title": "The Limiñanas",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 62,
+        "venueName": "The Horseshoe Tavern",
+        "venueId": null,
+        "sourceUrl": "https://horseshoetavern.com/",
+        "ticketUrl": "https://www.ticketweb.ca/event/the-limianas-the-horseshoe-tavern-tickets/14828893",
+        "summary": "French psych-garage group The Limiñanas play the Horseshoe Tavern on Queen West. It is a small-capacity, scene-focused pick at one of Toronto’s classic live-music rooms.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

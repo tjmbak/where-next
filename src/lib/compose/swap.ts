@@ -1,6 +1,5 @@
 import {
   getDestinationBySlug,
-  getEventsForDestination,
   getEventsForDestinationInMonth,
   getVenuesForDestination
 } from "@/data/music-travel";
@@ -8,7 +7,7 @@ import type { ComposeItineraryCard } from "@/lib/compose/types";
 import type { Itinerary, ItineraryDay } from "@/lib/itineraries/generate";
 import type { Event, MonthNumber, Venue } from "@/types/content";
 
-const MODEL = "gpt-4o-mini";
+const MODEL = "gpt-5.5";
 
 export type SwapAnchorArgs = {
   dayNumber: number;
@@ -44,19 +43,15 @@ export async function swapAnchorInDraft(args: {
   const venues = getVenuesForDestination(destinationSlug);
   const venueById = new Map(venues.map((v) => [v.id, v] as const));
 
-  const monthEvents: Event[] = month
-    ? [...getEventsForDestinationInMonth(destinationSlug, month)]
-    : [];
-  if (monthEvents.length < 4) {
-    const all = getEventsForDestination(destinationSlug);
-    const seen = new Set(monthEvents.map((e) => e.id));
-    for (const e of all) {
-      if (seen.has(e.id)) continue;
-      seen.add(e.id);
-      monthEvents.push(e);
-      if (monthEvents.length >= 14) break;
-    }
-  }
+  // Only events running on this exact day can replace its anchor; venues
+  // cover everything else.
+  const dayIso = day.dateISO && /^\d{4}-\d{2}-\d{2}/.test(day.dateISO) ? day.dateISO.slice(0, 10) : null;
+  const monthEvents: Event[] =
+    month && dayIso
+      ? getEventsForDestinationInMonth(destinationSlug, month, Number(dayIso.slice(0, 4))).filter(
+          (e) => e.startDate <= dayIso && (e.endDate ?? e.startDate) >= dayIso
+        )
+      : [];
 
   const candidateEvents = monthEvents
     .filter((e) => !allAnchorIds.includes(e.id))
@@ -159,6 +154,7 @@ Rules:
     },
     body: JSON.stringify({
       model: MODEL,
+      reasoning_effort: "low",
       response_format: { type: "json_object" },
       messages: [
         { role: "system", content: "You replace itinerary anchors. Return JSON only." },

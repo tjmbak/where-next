@@ -2,19 +2,16 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
-import { BUDGET_LABELS, getMonthLabel } from "@/data/taxonomy";
+import { BUDGET_LABELS, getMonthLabel, upcomingYearForMonth } from "@/data/taxonomy";
 import {
   getDestinationMonthSummary,
   getDestinationRangeSummary,
   getEventsForDestinationInMonth,
   getEventsForDestinationInRange
 } from "@/data/music-travel";
-import { trackEvent } from "@/lib/analytics";
 import { pickHeroForMonth } from "@/lib/hero-images";
+import { TIER_COLORS, tierFromScore, type Tier } from "@/lib/tiers";
 import type { Destination, MonthNumber, MonthlyDestinationScore } from "@/types/content";
-
-type Tier = "peak" | "in season" | "shoulder" | "warm";
 
 type EmptyKind = "no-saved" | "no-saved-match" | "no-match";
 
@@ -24,7 +21,10 @@ type DestinationRowProps = {
     score: MonthlyDestinationScore;
   }>;
   selectedSlug?: string;
+  hoveredSlug?: string | null;
+  onHoverCity?: (slug: string | null) => void;
   month: MonthNumber;
+  year?: number;
   monthsInRange?: MonthNumber[];
   isSaved: (slug: string) => boolean;
   onToggleSaved: (slug: string) => void;
@@ -32,36 +32,22 @@ type DestinationRowProps = {
   hiddenGemSlugs?: ReadonlySet<string>;
   comparePickSet?: ReadonlySet<string>;
   onToggleComparePick?: (slug: string) => void;
+  onOpen?: (slug: string) => void;
+  forYouAvailable?: boolean;
+  forYouActive?: boolean;
+  onToggleForYou?: () => void;
   emptyKind?: EmptyKind;
   onClearFilters?: () => void;
   limit?: number;
 };
 
-function tierFromScore(score: number): Tier {
-  if (score >= 90) return "peak";
-  if (score >= 80) return "in season";
-  if (score >= 70) return "shoulder";
-  return "warm";
-}
-
-function tierColor(tier: Tier) {
-  switch (tier) {
-    case "peak":
-      return "var(--signal)";
-    case "in season":
-      return "#f5d971";
-    case "shoulder":
-      return "#9aa0a6";
-    case "warm":
-    default:
-      return "#5b5e62";
-  }
-}
-
 export function DestinationRow({
   destinations,
   selectedSlug,
+  hoveredSlug,
+  onHoverCity,
   month,
+  year = upcomingYearForMonth(month),
   monthsInRange,
   isSaved,
   onToggleSaved,
@@ -69,6 +55,10 @@ export function DestinationRow({
   hiddenGemSlugs,
   comparePickSet,
   onToggleComparePick,
+  onOpen,
+  forYouAvailable,
+  forYouActive,
+  onToggleForYou,
   emptyKind,
   onClearFilters,
   limit = 12
@@ -78,7 +68,13 @@ export function DestinationRow({
   const trackRef = useRef<HTMLUListElement | null>(null);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(false);
-  const items = useMemo(() => destinations.slice(0, limit), [destinations, limit]);
+  const [expanded, setExpanded] = useState(false);
+  const effectiveLimit = expanded ? destinations.length : limit;
+  const items = useMemo(
+    () => destinations.slice(0, effectiveLimit),
+    [destinations, effectiveLimit]
+  );
+  const canExpand = destinations.length > limit;
 
   const updateScrollState = useCallback(() => {
     const track = trackRef.current;
@@ -107,19 +103,79 @@ export function DestinationRow({
     track.scrollBy({ left: direction * cardWidth * 2, behavior: "smooth" });
   }
 
+  // Keep the selected card in view when the selection changes from elsewhere
+  // (e.g. a map marker click). `block: "nearest"` keeps the page from jumping.
+  const mountedRef = useRef(false);
+  useEffect(() => {
+    const track = trackRef.current;
+    if (!track || !selectedSlug) return;
+    const el = track.querySelector<HTMLElement>(`[data-slug="${CSS.escape(selectedSlug)}"]`);
+    if (!el) return;
+    el.scrollIntoView({
+      inline: "center",
+      block: "nearest",
+      behavior: mountedRef.current ? "smooth" : "auto"
+    });
+    mountedRef.current = true;
+  }, [selectedSlug]);
+
   if (items.length === 0) {
     return <RowEmptyState month={month} kind={emptyKind} onClearFilters={onClearFilters} />;
   }
 
   return (
     <div className="flex flex-col gap-3">
-      <div className="flex items-baseline justify-between">
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+      <div className="flex items-baseline justify-between gap-3">
+        <span className="flex items-center gap-2.5 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
           shortlist · {getMonthLabel(month).toLowerCase()}
+          {forYouAvailable && onToggleForYou ? (
+            <span className="inline-flex overflow-hidden rounded-full border border-[var(--border-strong)]">
+              <button
+                type="button"
+                aria-pressed={!forYouActive}
+                onClick={() => {
+                  if (forYouActive) onToggleForYou();
+                }}
+                className={`px-2 py-0.5 tracking-[0.16em] transition ${
+                  !forYouActive
+                    ? "bg-[var(--foreground)] text-[var(--background)]"
+                    : "text-[var(--muted)] hover:text-[var(--foreground)]"
+                }`}
+              >
+                ranked
+              </button>
+              <button
+                type="button"
+                aria-pressed={forYouActive}
+                onClick={() => {
+                  if (!forYouActive) onToggleForYou();
+                }}
+                className={`px-2 py-0.5 tracking-[0.16em] transition ${
+                  forYouActive
+                    ? "bg-[var(--signal)] text-white"
+                    : "text-[var(--muted)] hover:text-[var(--foreground)]"
+                }`}
+              >
+                for you
+              </button>
+            </span>
+          ) : null}
         </span>
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          {items.length}
-          {destinations.length > items.length ? `/${destinations.length}` : ""} ranked by activity
+        <span className="flex items-baseline gap-3 whitespace-nowrap font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+          <span className="hidden sm:inline">
+            {items.length}
+            {destinations.length > items.length ? `/${destinations.length}` : ""}{" "}
+            {forYouActive ? "sorted for you" : "ranked by activity"}
+          </span>
+          {canExpand ? (
+            <button
+              type="button"
+              onClick={() => setExpanded((v) => !v)}
+              className="rounded-full border border-[var(--border-strong)] px-2.5 py-1 tracking-[0.18em] text-[var(--foreground)] transition hover:border-[var(--foreground)]"
+            >
+              {expanded ? "show less" : `view all ${destinations.length}`}
+            </button>
+          ) : null}
         </span>
       </div>
 
@@ -143,7 +199,7 @@ export function DestinationRow({
             aria-label="scroll left"
             onClick={() => nudge(-1)}
             tabIndex={canScrollLeft ? 0 : -1}
-            className={`absolute left-2 top-[42%] z-30 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 font-mono text-base text-[var(--foreground)] shadow-[0_8px_24px_rgba(0,0,0,0.5)] backdrop-blur transition hover:border-[var(--foreground)] sm:left-4 ${
+            className={`absolute left-2 top-[42%] z-30 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 font-mono text-base text-[var(--foreground)] shadow-[0_8px_24px_-8px_rgba(28,22,18,0.35)] backdrop-blur transition hover:border-[var(--foreground)] sm:left-4 ${
               canScrollLeft
                 ? "sm:flex sm:opacity-0 sm:group-hover/row:opacity-100"
                 : "sm:flex sm:opacity-0"
@@ -156,7 +212,7 @@ export function DestinationRow({
             aria-label="scroll right"
             onClick={() => nudge(1)}
             tabIndex={canScrollRight ? 0 : -1}
-            className={`absolute right-2 top-[42%] z-30 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 font-mono text-base text-[var(--foreground)] shadow-[0_8px_24px_rgba(0,0,0,0.5)] backdrop-blur transition hover:border-[var(--foreground)] sm:right-4 ${
+            className={`absolute right-2 top-[42%] z-30 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 font-mono text-base text-[var(--foreground)] shadow-[0_8px_24px_-8px_rgba(28,22,18,0.35)] backdrop-blur transition hover:border-[var(--foreground)] sm:right-4 ${
               canScrollRight
                 ? "sm:flex sm:opacity-0 sm:group-hover/row:opacity-100"
                 : "sm:flex sm:opacity-0"
@@ -173,11 +229,13 @@ export function DestinationRow({
               const selected = destination.slug === selectedSlug;
               const tier = tierFromScore(score.overallScore);
               const summary = rangeMonths
-                ? getDestinationRangeSummary(destination.slug, rangeMonths)
-                : getDestinationMonthSummary(destination.slug, month);
-              const anchorEvent = rangeMonths
-                ? getEventsForDestinationInRange(destination.slug, rangeMonths)[0] ?? null
-                : getEventsForDestinationInMonth(destination.slug, month)[0] ?? null;
+                ? getDestinationRangeSummary(destination.slug, rangeMonths, year)
+                : getDestinationMonthSummary(destination.slug, month, year);
+              const anchorEvent = pickAnchor(
+                rangeMonths
+                  ? getEventsForDestinationInRange(destination.slug, rangeMonths, year)
+                  : getEventsForDestinationInMonth(destination.slug, month, year)
+              );
               const saved = isSaved(destination.slug);
               const trending = trendingSlugs?.has(destination.slug) ?? false;
               const hiddenGem = !trending && (hiddenGemSlugs?.has(destination.slug) ?? false);
@@ -187,24 +245,29 @@ export function DestinationRow({
                 <li
                   key={destination.slug}
                   data-slug={destination.slug}
+                  onMouseEnter={onHoverCity ? () => onHoverCity(destination.slug) : undefined}
+                  onMouseLeave={onHoverCity ? () => onHoverCity(null) : undefined}
                   className="snap-start shrink-0 basis-[260px] min-w-0 overflow-hidden sm:basis-[280px]"
                 >
                   <DestinationCard
                     destination={destination}
                     score={score}
                     selected={selected}
+                    highlighted={!selected && hoveredSlug === destination.slug}
                     tier={tier}
-                    spanLabel={summary.spanLabel}
                     eventCount={summary.count}
                     month={month}
                     saved={saved}
                     onToggleSaved={() => onToggleSaved(destination.slug)}
                     anchorEventTitle={anchorEvent?.title ?? null}
                     anchorEventType={anchorEvent?.type ?? null}
+                    anchorEstimated={anchorEvent ? anchorEvent.confirmed === false : false}
+                    anchorTiming={anchorEvent ? timingLabel(anchorEvent.startDate, anchorEvent.endDate) : null}
                     trending={trending}
                     hiddenGem={hiddenGem}
                     eager={eager}
                     inCompare={inCompare}
+                    onOpen={onOpen ? () => onOpen(destination.slug) : undefined}
                     onToggleCompare={
                       onToggleComparePick
                         ? () => onToggleComparePick(destination.slug)
@@ -252,7 +315,7 @@ function RowEmptyState({
   })();
 
   return (
-    <div className="flex flex-col items-center gap-3 rounded-lg border border-dashed border-[var(--border-strong)] bg-[var(--surface)]/40 px-6 py-10 text-center">
+    <div className="flex flex-col items-center gap-3 rounded-xl border border-dashed border-[var(--border-strong)] bg-[var(--surface)]/40 px-6 py-10 text-center">
       <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
         empty · {monthLabel}
       </span>
@@ -272,56 +335,76 @@ function RowEmptyState({
   );
 }
 
+/** Highest-ranked event that hasn't ended yet; falls back to the top event. */
+function pickAnchor<T extends { startDate: string; endDate?: string }>(events: T[]): T | null {
+  const today = new Date().toISOString().slice(0, 10);
+  return events.find((event) => (event.endDate ?? event.startDate) >= today) ?? events[0] ?? null;
+}
+
 function DestinationCard({
   destination,
   score,
   selected,
+  highlighted = false,
   tier,
-  spanLabel,
   eventCount,
   month,
   saved,
   onToggleSaved,
   anchorEventTitle,
   anchorEventType,
+  anchorEstimated,
+  anchorTiming,
   trending,
   hiddenGem,
   inCompare,
   onToggleCompare,
+  onOpen,
   eager
 }: {
   destination: Destination;
   score: MonthlyDestinationScore;
   selected: boolean;
+  highlighted?: boolean;
   tier: Tier;
-  spanLabel: string | null;
   eventCount: number;
   month: MonthNumber;
   saved: boolean;
   onToggleSaved: () => void;
   anchorEventTitle: string | null;
   anchorEventType: string | null;
+  anchorEstimated?: boolean;
+  anchorTiming?: { text: string; live: boolean } | null;
   trending: boolean;
   hiddenGem: boolean;
   inCompare: boolean;
   onToggleCompare?: () => void;
+  onOpen?: () => void;
   eager?: boolean;
 }) {
-  const dotColor = tierColor(tier);
+  const dotColor = TIER_COLORS[tier];
   const priceTier = BUDGET_LABELS[destination.budget];
+  const kicker = anchorEventTitle
+    ? anchorEventType
+      ? anchorEventType.replaceAll("-", " ")
+      : "headline"
+    : "the scene";
 
   return (
     <article
-      className={`group relative flex h-full flex-col overflow-hidden rounded-lg border bg-[var(--surface)] transition-colors duration-200 ${
+      className={`group relative flex h-full flex-col overflow-hidden rounded-2xl border bg-[var(--surface)] transition-[transform,box-shadow,border-color] duration-300 ${
         selected
-          ? "border-[var(--signal)]/60 shadow-[0_0_0_1px_var(--signal),0_18px_48px_rgba(255,139,61,0.18)]"
-          : "border-[var(--border)] hover:border-[var(--border-strong)]"
+          ? "border-[var(--signal)]/60 shadow-[0_0_0_1px_var(--signal),0_18px_40px_-16px_rgba(232,89,12,0.35)]"
+          : highlighted
+            ? "-translate-y-0.5 border-[var(--border-strong)] shadow-[0_18px_40px_-18px_rgba(28,22,18,0.28)]"
+            : "border-[var(--border)] shadow-[0_1px_2px_rgba(28,22,18,0.04)] hover:-translate-y-0.5 hover:shadow-[0_18px_40px_-18px_rgba(28,22,18,0.28)]"
       }`}
     >
-      <Link
-        href={`/destinations/${destination.slug}?month=${month}`}
-        aria-label={`Open ${destination.city} guide`}
-        className="flex h-full flex-col rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--signal)]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--background)]"
+      <button
+        type="button"
+        onClick={onOpen}
+        aria-label={`Quick look at ${destination.city}`}
+        className="flex h-full flex-col rounded-xl text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--signal)]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--background)]"
       >
         <div className="relative aspect-[16/10] w-full overflow-hidden">
           <Image
@@ -335,58 +418,70 @@ function DestinationCard({
           />
           <span aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-black/30" />
 
-          {spanLabel || trending || hiddenGem ? (
-            <div className="absolute left-3 top-3 flex flex-col items-start gap-1.5">
-              {spanLabel ? (
-                <span className="inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-white/85 backdrop-blur">
-                  {spanLabel}
-                </span>
-              ) : null}
-              {trending ? (
-                <span
-                  className="inline-flex items-center gap-1.5 rounded-full border bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] backdrop-blur"
-                  style={{
-                    borderColor: "rgba(255, 139, 61, 0.55)",
-                    color: "var(--signal)",
-                    boxShadow: "0 0 12px rgba(255, 139, 61, 0.35)"
-                  }}
-                >
-                  <span aria-hidden>↗</span>
-                  trending
-                </span>
-              ) : hiddenGem ? (
-                <span className="inline-flex items-center gap-1.5 rounded-full border border-white/30 bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-white/90 backdrop-blur">
-                  <span aria-hidden className="text-[8px]">◆</span>
-                  hidden gem
-                </span>
-              ) : null}
-            </div>
+          {trending || hiddenGem ? (
+            <span
+              title={trending ? "Biggest jump in activity from last month" : "Strong month, lower cost"}
+              className="absolute left-3 top-3 inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-white/90 backdrop-blur"
+            >
+              <span aria-hidden className={trending ? "text-[var(--signal)]" : "text-[8px]"}>
+                {trending ? "↗" : "◆"}
+              </span>
+              {trending ? "rising" : "hidden gem"}
+            </span>
           ) : null}
 
-          <span className="absolute right-3 top-3 inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-white/90 backdrop-blur">
-            <span
-              aria-hidden
-              className="h-1 w-1 rounded-full"
-              style={{ background: dotColor, boxShadow: `0 0 6px ${dotColor}` }}
-            />
-            <span className="text-white">{score.overallScore}</span>
-            <span className="text-white/60">{tier}</span>
-          </span>
-
-          <div className="absolute inset-x-3 bottom-3">
-            <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-white/65">
-              {destination.country.toLowerCase()}
-            </p>
-            <h3 className="text-lg font-medium leading-tight text-white">{destination.city}</h3>
+          <div className="absolute inset-x-3 bottom-3 flex items-end justify-between gap-3">
+            <div className="min-w-0">
+              <p className="truncate font-mono text-[10px] uppercase tracking-[0.18em] text-white/65">
+                {destination.country.toLowerCase()}
+              </p>
+              <h3 className="truncate text-lg font-medium leading-tight text-white">{destination.city}</h3>
+            </div>
+            <span className="flex shrink-0 flex-col items-end leading-none">
+              <span className="font-mono text-[22px] font-medium tracking-[-0.02em] text-white">
+                {score.overallScore}
+              </span>
+              <span className="mt-1 inline-flex items-center gap-1 font-mono text-[9px] uppercase tracking-[0.18em] text-white/70">
+                <span
+                  aria-hidden
+                  className="h-1 w-1 rounded-full"
+                  style={{ background: dotColor, boxShadow: `0 0 6px ${dotColor}` }}
+                />
+                {tier}
+              </span>
+            </span>
           </div>
         </div>
 
-        <div className="flex flex-1 flex-col gap-2.5 px-4 pb-3 pt-3">
-          <p className="line-clamp-2 min-h-[2.5rem] text-[13px] leading-5 text-[var(--foreground)]/85">
-            {destination.tagline}
+        <div className="flex flex-1 flex-col px-4 pb-3.5 pt-3">
+          <p
+            className={`flex items-center font-mono text-[9px] uppercase tracking-[0.2em] ${
+              selected ? "text-[var(--signal)]" : "text-[var(--muted)]"
+            }`}
+          >
+            {kicker}
+            {anchorEstimated ? (
+              <span className="ml-1.5 text-[var(--muted-2)]" title="Forward estimate — dates to confirm">· est</span>
+            ) : null}
+            {anchorTiming ? (
+              <span
+                className={`ml-1.5 rounded-full px-1.5 py-px ${
+                  anchorTiming.live ? "bg-[var(--signal)] text-white" : "bg-[var(--signal)]/10 text-[var(--signal)]"
+                }`}
+              >
+                {anchorTiming.text}
+              </span>
+            ) : null}
+          </p>
+          <p
+            className={`mt-1.5 line-clamp-2 min-h-[2.5rem] text-[14px] leading-5 ${
+              anchorEventTitle ? "font-medium text-[var(--foreground)]" : "text-[var(--foreground)]/80"
+            }`}
+          >
+            {anchorEventTitle ?? destination.tagline}
           </p>
 
-          <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
+          <p className="mt-auto pt-3 font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
             {eventCount > 0 ? (
               <>
                 <span className="text-[var(--foreground)]">{eventCount}</span> {eventCount === 1 ? "event" : "events"}
@@ -397,61 +492,23 @@ function DestinationCard({
             <span className="mx-1.5 text-[var(--muted-2)]">·</span>
             <span className="text-[var(--foreground)]">{priceTier}</span>
           </p>
-
-          <div
-            className={`mt-auto flex items-start gap-2 border-t pt-2.5 transition-colors ${
-              selected ? "border-[var(--signal)]/35" : "border-[var(--border)]"
-            }`}
-          >
-            <span
-              aria-hidden
-              className={`mt-1 h-1 w-1 shrink-0 rounded-full transition-shadow ${
-                selected
-                  ? "bg-[var(--signal)] shadow-[0_0_6px_var(--signal)]"
-                  : "bg-[var(--muted-2)]"
-              }`}
-            />
-            <div className="min-w-0 flex-1">
-              <p
-                className={`font-mono text-[9px] uppercase tracking-[0.2em] ${
-                  selected ? "text-[var(--signal)]" : "text-[var(--muted)]"
-                }`}
-              >
-                {anchorEventTitle
-                  ? anchorEventType
-                    ? anchorEventType.replace("-", " ")
-                    : "anchor"
-                  : "anchor"}
-              </p>
-              <p className="truncate text-[13px] leading-5 text-[var(--foreground)]">
-                {anchorEventTitle ?? "lineups still coming together"}
-              </p>
-            </div>
-          </div>
         </div>
-      </Link>
+      </button>
 
-      <div className="flex items-center justify-end gap-1.5 border-t border-[var(--border)] bg-[var(--surface)]/40 px-3 py-2">
-        <ShareButton destination={destination} month={month} />
+      <div className="absolute right-3 top-3 z-10 flex items-center gap-1.5">
         <button
           type="button"
           aria-pressed={saved}
           aria-label={saved ? `Unsave ${destination.city}` : `Save ${destination.city}`}
-          title={saved ? "Remove from saved" : "Save to your shortlist (stored on this device)"}
+          title={saved ? "Remove from saved" : "Save to your shortlist"}
           onClick={(event) => {
             event.preventDefault();
             event.stopPropagation();
             onToggleSaved();
           }}
-          className={`inline-flex h-7 w-7 items-center justify-center rounded-full border transition ${
-            saved
-              ? "border-[var(--signal)]/55 bg-[var(--signal)]/10 text-[var(--signal)]"
-              : "border-[var(--border-strong)] bg-transparent text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
-          }`}
+          className={`${ICON_BUTTON} ${saved ? ICON_ON : ICON_OFF}`}
         >
-          <span aria-hidden className="text-[14px] leading-none">
-            {saved ? "♥" : "♡"}
-          </span>
+          <HeartIcon filled={saved} />
         </button>
         {onToggleCompare ? (
           <button
@@ -464,14 +521,9 @@ function DestinationCard({
               event.stopPropagation();
               onToggleCompare();
             }}
-            className={`inline-flex h-7 items-center gap-1 rounded-full border px-2.5 font-mono text-[9px] uppercase tracking-[0.18em] transition ${
-              inCompare
-                ? "border-[var(--signal)]/55 bg-[var(--signal)]/10 text-[var(--signal)]"
-                : "border-[var(--border-strong)] bg-transparent text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
-            }`}
+            className={`${ICON_BUTTON} ${inCompare ? ICON_ON : ICON_OFF}`}
           >
-            <span aria-hidden>⇄</span>
-            {inCompare ? "added" : "compare"}
+            <CompareIcon />
           </button>
         ) : null}
       </div>
@@ -479,62 +531,39 @@ function DestinationCard({
   );
 }
 
-function ShareButton({ destination, month }: { destination: Destination; month: MonthNumber }) {
-  const [copied, setCopied] = useState(false);
-  const timerRef = useRef<number | null>(null);
+const DAY_MS = 86_400_000;
 
-  useEffect(() => {
-    return () => {
-      if (timerRef.current !== null) window.clearTimeout(timerRef.current);
-    };
-  }, []);
+function timingLabel(startDate: string, endDate?: string | null): { text: string; live: boolean } | null {
+  const today = new Date();
+  const todayUtc = Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate());
+  const start = new Date(`${startDate.slice(0, 10)}T00:00:00Z`).getTime();
+  const end = new Date(`${(endDate ?? startDate).slice(0, 10)}T00:00:00Z`).getTime();
+  if (Number.isNaN(start)) return null;
+  if (start <= todayUtc && end >= todayUtc) return { text: "on now", live: true };
+  const days = Math.round((start - todayUtc) / DAY_MS);
+  if (days < 0) return null;
+  if (days === 1) return { text: "tomorrow", live: false };
+  if (days <= 13) return { text: `in ${days} days`, live: false };
+  if (days <= 56) return { text: `in ${Math.round(days / 7)} wks`, live: false };
+  return null;
+}
 
-  const handleShare = useCallback(
-    async (event: React.MouseEvent | React.KeyboardEvent) => {
-      event.preventDefault();
-      event.stopPropagation();
-      const origin = typeof window !== "undefined" ? window.location.origin : "";
-      const url = `${origin}/?month=${month}&city=${destination.slug}`;
-      let didCopy = false;
-      try {
-        if (typeof navigator !== "undefined" && navigator.clipboard) {
-          await navigator.clipboard.writeText(url);
-          didCopy = true;
-        }
-      } catch {
-        didCopy = false;
-      }
-      trackEvent("destination_share", { slug: destination.slug, month, copied: didCopy });
-      if (didCopy) {
-        setCopied(true);
-        if (timerRef.current !== null) window.clearTimeout(timerRef.current);
-        timerRef.current = window.setTimeout(() => setCopied(false), 1600);
-      }
-    },
-    [destination.slug, month]
-  );
+const ICON_BUTTON = "inline-flex h-8 w-8 items-center justify-center rounded-full transition";
+const ICON_ON = "border border-[var(--signal)] bg-[var(--signal)] text-white shadow-[0_6px_16px_-6px_rgba(232,89,12,0.6)]";
+const ICON_OFF = "wn-glass-dark text-white/90 hover:text-white active:scale-95";
 
+function HeartIcon({ filled }: { filled: boolean }) {
   return (
-    <button
-      type="button"
-      aria-label={`Share ${destination.city} link`}
-      title={copied ? "Link copied" : "Copy a shareable link to this city + month"}
-      onClick={handleShare}
-      onKeyDown={(event) => {
-        if (event.key === "Enter" || event.key === " ") {
-          event.preventDefault();
-          handleShare(event);
-        }
-      }}
-      className={`inline-flex items-center justify-center rounded-full border transition ${
-        copied
-          ? "h-7 gap-1 border-[var(--signal)]/55 bg-[var(--signal)]/10 px-2.5 font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--signal)]"
-          : "h-7 w-7 border-[var(--border-strong)] bg-transparent text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
-      }`}
-    >
-      <span aria-hidden className="text-[12px] leading-none">
-        {copied ? "copied" : "↗"}
-      </span>
-    </button>
+    <svg aria-hidden viewBox="0 0 24 24" className="h-[15px] w-[15px]" fill={filled ? "currentColor" : "none"} stroke="currentColor" strokeWidth={1.8} strokeLinejoin="round">
+      <path d="M12 20s-7-4.35-7-10a4 4 0 0 1 7-2.65A4 4 0 0 1 19 10c0 5.65-7 10-7 10Z" />
+    </svg>
+  );
+}
+
+function CompareIcon() {
+  return (
+    <svg aria-hidden viewBox="0 0 24 24" className="h-[15px] w-[15px]" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round">
+      <path d="M7 4 3 8l4 4M3 8h13M17 20l4-4-4-4M21 16H8" />
+    </svg>
   );
 }

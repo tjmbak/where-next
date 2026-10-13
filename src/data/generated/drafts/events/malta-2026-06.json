@@ -2,9 +2,9 @@
   "slug": "malta",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:27:16.725Z",
-  "responseId": "resp_06c6ac7503f2e0cc0069ff5fcb2d1c8196ab5f046e61f27e3e",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:27:01.328Z",
+  "responseId": "augment:resp_07c6eb948dd8ae6f006a1b2b6993148199a7e423c28d9fb182",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "malta",
@@ -12,6 +12,23 @@
     "year": 2026,
     "notes": "June 2026 is especially strong for destination dance weekender formats in Malta, with R&B, UK garage, house, Afro-house and techno events clustered around Café del Mar, UNO Malta and Ta’ Qali.",
     "events": [
+      {
+        "id": "malta-abode-on-the-rock-2026",
+        "title": "ABODE On The Rock 2026",
+        "type": "festival",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-22",
+        "importance": 88,
+        "venueName": "Multiple venues across Malta",
+        "venueId": null,
+        "sourceUrl": "https://abodeontherock.aboderecords.com/",
+        "ticketUrl": "https://abodeontherock.aboderecords.com/",
+        "summary": "ABODE On The Rock returns to Malta with a four-day festival pass and first announced artists including Jamie Jones, Max Dean, Luke Dean, Gaskin, Jammer, Ilario Alicante, Candidate, Lauren Lo Sung and Prunk.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
       {
         "id": "malta-dlt-malta-jun-2026",
         "title": "DLT Malta 2026",
@@ -30,36 +47,37 @@
         ]
       },
       {
-        "id": "malta-travellers-anniversary-2026",
-        "title": "The Travellers - 10 Snin Ta’ Mużika",
+        "id": "malta-scorpions-mfcc-2026",
+        "title": "Scorpions Live in Concert",
         "type": "concert",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-05",
-        "importance": 72,
+        "startDate": "2026-06-16",
+        "endDate": "2026-06-16",
+        "importance": 84,
         "venueName": "Malta Fairs & Conventions Centre (MFCC)",
         "venueId": null,
-        "sourceUrl": "https://eventworks.mt/travellers",
-        "ticketUrl": "https://eventworks.mt/travellers",
-        "summary": "Maltese band The Travellers mark ten years with their biggest live show to date at MFCC, billed as a full-scale anniversary concert celebrating their decade of local hits.",
-        "genres": [
-          "pop"
-        ]
+        "sourceUrl": "https://eventworks.mt/SCORPIONS",
+        "ticketUrl": "https://eventworks.mt/SCORPIONS",
+        "summary": "German hard-rock band Scorpions bring their Coming Home tour to MFCC, Ta’ Qali, with a set expected to feature career-defining anthems such as “Rock You Like a Hurricane” and “Wind of Change.”",
+        "genres": []
       },
       {
-        "id": "malta-tension-friends-2026",
-        "title": "TENSION Festival presents &FRIENDS",
-        "type": "beach-club",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-06",
-        "importance": 73,
-        "venueName": "Café del Mar Malta",
+        "id": "malta-dlt-2026",
+        "title": "DLT Malta 2026: The Last Dance",
+        "type": "festival",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-07",
+        "importance": 84,
+        "venueName": "Multiple venues including UNO Malta and Café del Mar Malta",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2408563",
-        "ticketUrl": "https://ra.co/events/2408563",
-        "summary": "TENSION Festival returns to Café del Mar Malta with &FRIENDS headlining an Afro-house and tech-house sunset-to-night party, supported by ANT Mifsud.",
+        "sourceUrl": "https://www.dltmalta.co/faqs",
+        "ticketUrl": "https://www.dltmalta.co/book-tickets/",
+        "summary": "The final Malta edition of DLT runs 4–7 June across venues including UNO Malta and Café del Mar, with Brandy, KWN, Lloyd, DVSN, Musiq Soulchild, Isaiah Falls and a Soulection takeover anchoring a major R&B/Afro-diaspora destination weekender.",
         "genres": [
+          "r-and-b",
+          "hip-hop",
           "afro-house",
-          "house"
+          "amapiano",
+          "festival"
         ]
       },
       {
@@ -81,51 +99,41 @@
         ]
       },
       {
-        "id": "malta-shimza-cafe-del-mar-2026",
-        "title": "Mon Cheri Presents: Shimza",
-        "type": "beach-club",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-13",
-        "importance": 74,
-        "venueName": "Café del Mar Malta",
+        "id": "malta-in-act-maceo-plex-2026",
+        "title": "UNO x IN ACT: Maceo Plex",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "UNO Malta",
         "venueId": null,
-        "sourceUrl": "https://cafedelmar.com.mt/event/mon-cheri-presents-shimza/",
-        "ticketUrl": "https://cafedelmar.com.mt/event/mon-cheri-presents-shimza/",
-        "summary": "Mon Cheri brings South African Afro-house artist Shimza back to Café del Mar Malta for a sunset special as part of the G7 Summer 2026 tour.",
+        "sourceUrl": "https://ra.co/events/2429080",
+        "ticketUrl": "https://ra.co/events/2429080",
+        "summary": "IN ACT makes its Malta debut at UNO on 26 June in collaboration with Two Rocks, headlined by Maceo Plex with ANT Mifsud support for a large-scale melodic house and techno night.",
         "genres": [
-          "afro-house",
-          "house"
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "malta-scorpions-mfcc-2026",
-        "title": "Scorpions Live in Concert",
-        "type": "concert",
-        "startDate": "2026-06-16",
-        "endDate": "2026-06-16",
-        "importance": 84,
-        "venueName": "Malta Fairs & Conventions Centre (MFCC)",
-        "venueId": null,
-        "sourceUrl": "https://eventworks.mt/SCORPIONS",
-        "ticketUrl": "https://eventworks.mt/SCORPIONS",
-        "summary": "German hard-rock band Scorpions bring their Coming Home tour to MFCC, Ta’ Qali, with a set expected to feature career-defining anthems such as “Rock You Like a Hurricane” and “Wind of Change.”",
-        "genres": []
-      },
-      {
-        "id": "malta-abode-on-the-rock-2026",
-        "title": "ABODE On The Rock 2026",
+        "id": "malta-sidewinder-2026",
+        "title": "Sidewinder Malta 2026",
         "type": "festival",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-22",
-        "importance": 88,
-        "venueName": "Multiple venues across Malta",
+        "startDate": "2026-06-11",
+        "endDate": "2026-06-14",
+        "importance": 80,
+        "venueName": "Multiple venues",
         "venueId": null,
-        "sourceUrl": "https://abodeontherock.aboderecords.com/",
-        "ticketUrl": "https://abodeontherock.aboderecords.com/",
-        "summary": "ABODE On The Rock returns to Malta with a four-day festival pass and first announced artists including Jamie Jones, Max Dean, Luke Dean, Gaskin, Jammer, Ilario Alicante, Candidate, Lauren Lo Sung and Prunk.",
+        "sourceUrl": "https://www.sidewindermalta.com/",
+        "ticketUrl": "https://www.sidewindermalta.com/",
+        "summary": "The UK garage, R&B, bassline and bashment institution Sidewinder takes over Malta from 11–14 June with pool parties, beach events, Gianpula afterparty sessions, Toy Room closing parties and boat parties.",
         "genres": [
           "house",
-          "techno"
+          "hip-hop",
+          "r-and-b",
+          "amapiano",
+          "festival"
         ]
       },
       {
@@ -147,6 +155,23 @@
         ]
       },
       {
+        "id": "malta-shimza-cafe-del-mar-2026",
+        "title": "Mon Cheri Presents: Shimza",
+        "type": "beach-club",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 74,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://cafedelmar.com.mt/event/mon-cheri-presents-shimza/",
+        "ticketUrl": "https://cafedelmar.com.mt/event/mon-cheri-presents-shimza/",
+        "summary": "Mon Cheri brings South African Afro-house artist Shimza back to Café del Mar Malta for a sunset special as part of the G7 Summer 2026 tour.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
         "id": "malta-maceo-plex-uno-2026",
         "title": "TWO ROCKS presents Maceo Plex",
         "type": "club-night",
@@ -161,6 +186,75 @@
         "genres": [
           "techno",
           "house"
+        ]
+      },
+      {
+        "id": "malta-mon-cheri-shimza-2026",
+        "title": "Mon Cheri presents: Shimza at Café del Mar",
+        "type": "beach-club",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2404721",
+        "ticketUrl": "https://www.showshappening.com/G7/MON-CHERI-Presents-SHIMZA-at-Caf-del-Mar",
+        "summary": "Mon Cheri brings South African Afro-house figure Shimza to Café del Mar Malta on 13 June for a sunset-to-night G7 Summer session focused on tribal rhythms and groove-led Afro House.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-tension-friends-2026",
+        "title": "TENSION Festival presents &FRIENDS",
+        "type": "beach-club",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 73,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2408563",
+        "ticketUrl": "https://ra.co/events/2408563",
+        "summary": "TENSION Festival returns to Café del Mar Malta with &FRIENDS headlining an Afro-house and tech-house sunset-to-night party, supported by ANT Mifsud.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "malta-travellers-anniversary-2026",
+        "title": "The Travellers - 10 Snin Ta’ Mużika",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 72,
+        "venueName": "Malta Fairs & Conventions Centre (MFCC)",
+        "venueId": null,
+        "sourceUrl": "https://eventworks.mt/travellers",
+        "ticketUrl": "https://eventworks.mt/travellers",
+        "summary": "Maltese band The Travellers mark ten years with their biggest live show to date at MFCC, billed as a full-scale anniversary concert celebrating their decade of local hits.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "malta-tension-andfriends-2026",
+        "title": "Tension Festival Presents &Friends at Café del Mar Malta",
+        "type": "beach-club",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Café del Mar Malta",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/tension-festival-presents-friends-cafe-del-mar-malta",
+        "ticketUrl": "https://shotgun.live/en/festivals/tension-festival-presents-friends-cafe-del-mar-malta",
+        "summary": "Two Rocks brings Tension Festival back to Malta with &FRIENDS at Café del Mar on 6 June, a day-to-night Afro House and Tech House beach-club session after a sold-out debut.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -180,20 +274,58 @@
         ]
       },
       {
-        "id": "malta-vortex-twofaced-2026",
-        "title": "VORTEX – TWOFACED",
-        "type": "club-night",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-26",
-        "importance": 64,
-        "venueName": "Liquid Club",
+        "id": "malta-holy-rave-opening-2026",
+        "title": "The Holy Rave Malta | Opening Party",
+        "type": "residency",
+        "startDate": "2026-06-25",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Tigullio",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2430702",
-        "ticketUrl": "https://ra.co/events/2430702",
-        "summary": "VORTEX hosts New Zealand duo TWOFACED at Liquid Club, with Damz and Billy Hills also listed for a night spanning modern hard house, trance-edged club sounds and techno.",
+        "sourceUrl": "https://shotgun.live/en/events/the-holy-rave-malta-opening-party-2026",
+        "ticketUrl": "https://shotgun.live/en/events/the-holy-rave-malta-opening-party-2026",
+        "summary": "The Holy Rave launches its Malta summer Thursday residency at Tigullio on 25 June after sold-out events in France, Luxembourg and Switzerland, with hard techno, bounce, acid techno and trance selectors including VS, GABZZ and Kingsmo.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-groove-gallery-open-air-2026",
+        "title": "Oracles X Blank - The Groove Gallery - Open-Air Edition",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Hideout / BMX Track Pembroke",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2438645",
+        "ticketUrl": "https://ra.co/events/2438645",
+        "summary": "Oracles and Blank expand The Groove Gallery into a 12-hour open-air edition at Hideout and the BMX Track with two stages, a vinyl-only area, live performance, art, workshops, BMX showcases and underground house/techno programming.",
         "genres": [
           "house",
-          "techno"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "malta-afro-island-pioneer-neon-rave-2026",
+        "title": "Afro Island & Pioneer Plays - The Neon Rave",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Roots, UNO Village",
+        "venueId": null,
+        "sourceUrl": "https://afroisland.com/event/afro-island-pioneer-plays-the-neon-rave/",
+        "ticketUrl": "https://afroisland.com/event/afro-island-pioneer-plays-the-neon-rave/",
+        "summary": "Afro Island links with Pioneer Plays at Roots, UNO Village on 27 June for a UV Neon two-room collaboration with House, Amapiano and Tribal in the main room plus Afro, R&B, Hip-Hop and Dancehall in Room 2.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "hip-hop",
+          "r-and-b"
         ]
       },
       {
@@ -211,6 +343,23 @@
         "genres": [
           "techno",
           "electronic"
+        ]
+      },
+      {
+        "id": "malta-vortex-twofaced-2026",
+        "title": "VORTEX – TWOFACED",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 64,
+        "venueName": "Liquid Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430702",
+        "ticketUrl": "https://ra.co/events/2430702",
+        "summary": "VORTEX hosts New Zealand duo TWOFACED at Liquid Club, with Damz and Billy Hills also listed for a night spanning modern hard house, trance-edged club sounds and techno.",
+        "genres": [
+          "house",
+          "techno"
         ]
       }
     ]

@@ -1,0 +1,68 @@
+{
+  "slug": "ibiza",
+  "month": 9,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:21:05.901Z",
+  "responseId": "resp_0002675efaff0a00006acdb10df16087d0bbeeda3e991151cf+resp_0b30b96cece6a0ff006acdb15b6d5887d0a855be7f9d7b314a",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ibiza",
+    "month": 9,
+    "year": 2027,
+    "notes": "As of the latest available listings, Ibiza’s September 2027 superclub residencies and closing-party calendars are not yet broadly announced; only independently ticketed weekender-style events have solid public confirmation.",
+    "events": [
+      {
+        "id": "ibiza-our-house-2027",
+        "title": "Our House Ibiza 2027",
+        "type": "festival",
+        "startDate": "2027-09-20",
+        "endDate": "2027-09-24",
+        "importance": 70,
+        "venueName": "Various venues across Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.skiddle.com/whats-on/Ibiza/Ibiza-Various-Venues/Our-House-Ibiza-2027/42828346/",
+        "ticketUrl": "https://www.skiddle.com/whats-on/Ibiza/Ibiza-Various-Venues/Our-House-Ibiza-2027/42828346/",
+        "summary": "A five-day Ibiza party package led by Rob Tissera and Dale Castell, promising boat parties, super-club events, intimate venue events, pool parties and bar takeovers, with listed styles including house, funky house, trance, old skool and club classics.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "ibiza-terrace-soul-weekender-2027",
+        "title": "Terrace Soul / Ibiza Soul Weekender 2027",
+        "type": "festival",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-12",
+        "importance": 65,
+        "venueName": "San Antonio Bay beachfront hotel (to be announced)",
+        "venueId": null,
+        "sourceUrl": "https://www.terracesoul.co.uk/ibiza-weekend-hotel-rooms/",
+        "ticketUrl": "https://events.humanitix.com/ibiza-soul-weekender",
+        "summary": "A three-day soul-focused Ibiza weekender from Terrace Soul, with daytime pool DJ sessions, sunset sessions and a closing boat party. Confirmed phase-one DJs include Paul Alexander, Jez, Carl Bassett and Errol.",
+        "genres": [
+          "r-and-b",
+          "house"
+        ]
+      },
+      {
+        "id": "ibiza-secret-underground-2027",
+        "title": "Secret Underground Ibiza 2027",
+        "type": "club-night",
+        "startDate": "2027-09-12",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Liberty Club Ibiza",
+        "venueId": null,
+        "sourceUrl": "https://www.secret-underground.com/ibiza",
+        "ticketUrl": "https://www.secret-underground.com/en/ticket",
+        "summary": "A Dutch-led underground/fetish club night at Liberty Club Ibiza, running 23:00–04:00 with a confirmed DJ lineup including Mr & Mrs Secret, Iwan, Eric van Kleef and Emiel Roché across house, tech-house and techno-adjacent sounds.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      }
+    ]
+  }
+}

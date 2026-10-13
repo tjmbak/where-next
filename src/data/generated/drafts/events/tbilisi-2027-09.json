@@ -1,0 +1,34 @@
+{
+  "slug": "tbilisi",
+  "month": 9,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:29:03.647Z",
+  "responseId": "resp_096165fd6c077dff006acdb333cae887d09d5a40efad7ef0df+resp_0a38713f2ef218f7006acdb354502887d09d571b8a38ec1588",
+  "searchCalls": 20,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tbilisi",
+    "month": 9,
+    "year": 2027,
+    "notes": "Searches across RA, DICE, Shotgun, Eventbrite, TKT, club/link pages, and genre/diaspora queries found only one September 2027 Tbilisi genre event with a working source; major clubs had not yet listed September 2027 programmes.",
+    "events": [
+      {
+        "id": "tbilisi-techno-qvevri-2027",
+        "title": "Techno Qvevri",
+        "type": "club-night",
+        "startDate": "2027-09-11",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Qvevri",
+        "venueId": null,
+        "sourceUrl": "https://www.tbilisistyle.com/techno-qvevri",
+        "ticketUrl": "https://www.tbilisistyle.com/dashboard/tickets",
+        "summary": "A standalone heavy techno rave announced by Tbilisi Style 21, described as a nonstop TECHNO RAVE with European techno artists; tickets are listed for 11 Sept 2027 in Tbilisi.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

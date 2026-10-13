@@ -1,0 +1,84 @@
+{
+  "slug": "goa",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:27:58.380Z",
+  "responseId": "resp_0667305b956bd822006acda48e34a487d0ae8f95534742050d+resp_03d5297f89a00bab006acda4d8db4487d0943ce5c63f281304",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 confirmations are still sparse, but the month is anchored by Goa’s Hilltop psytrance calendar in Vagator.",
+    "events": [
+      {
+        "id": "goa-hilltop-festival-feb-2027",
+        "title": "Hilltop Festival 2027 — Weekend 2",
+        "type": "festival",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-07",
+        "importance": 92,
+        "venueName": "Hilltop Vagator",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://tickets.madvibes.in/product/hilltopfestival2027/",
+        "ticketUrl": "https://tickets.madvibes.in/product/hilltopfestival2027/",
+        "summary": "The official Madvibes ticket page confirms Hilltop Festival 2027 at Hilltop, Vagator, with February dates running 4–7 February after an opening January weekend. The event is billed around psychedelic sounds, sunrise sessions, and old-school Goa spirit.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-tribe-by-nova-hilltop-2027",
+        "title": "Tribe By Nova Hilltop Edition",
+        "type": "festival",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-14",
+        "importance": 82,
+        "venueName": "Hilltop Vagator",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://go-out.co/event/tribe-hilltop2027",
+        "ticketUrl": "https://go-out.co/event/tribe-hilltop2027",
+        "summary": "Tribe By Nova’s Hilltop Goa edition is confirmed for 13–14 February 2027 at Hill Top Goa, with day passes and a full-journey pass listed. The lineup is still marked as forthcoming on the ticket page, so this is included for the confirmed party itself rather than announced artists.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-carnival-2027",
+        "title": "Goa Carnival",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-09",
+        "importance": 80,
+        "venueName": "Multiple locations across Goa",
+        "venueId": null,
+        "sourceUrl": "https://tripclimate.com/guide/goa-carnival",
+        "ticketUrl": null,
+        "summary": "Goa’s pre-Lent Carnival is listed for 6–9 February 2027, with parades, music, street dancing, costumes and public celebrations. The main atmosphere is across Goa’s towns, especially Panaji, Margao, Mapusa and Vasco da Gama.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "goa-coracao-kizomba-retreat-2027",
+        "title": "Coração Kizomba Retreat",
+        "type": "festival",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-07",
+        "importance": 66,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://latindancecalendar.com/festivals/cora%C3%A7%C3%A3o-kizomba-retreat/",
+        "ticketUrl": null,
+        "summary": "A three-day Goa Kizomba retreat from the MKF / Muxima Kizomba Festival team, advertised with workshops, practice socials, sundowner, pool party and night parties. Artists and confirmed DJs are still listed as TBA on the source page.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

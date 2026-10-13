@@ -1,0 +1,280 @@
+{
+  "slug": "tokyo",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:48:35.773Z",
+  "responseId": "resp_008652f6038ecbad006acda92fd6b487d0b670886c5f1aab93+resp_071d5365177e009b006acda9a50d4087d0ac603c76398e2d65",
+  "searchCalls": 30,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is already anchored by Shibuya’s SYNCHRONICITY/CUEW weekend, Rainbow Disco Club’s electronic pilgrimage from Tokyo, and a run of confirmed J-pop, rock, alt-pop, and VTuber arena/theater shows; most underground club calendars are not yet published this far out.",
+    "events": [
+      {
+        "id": "tokyo-rainbow-disco-club-apr-2027",
+        "title": "Rainbow Disco Club 2027",
+        "type": "festival",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-18",
+        "importance": 93,
+        "venueName": "Higashi-Izu Cross Country Course",
+        "venueId": null,
+        "sourceUrl": "https://rainbowdiscoclub.com/en/",
+        "ticketUrl": "https://rainbowdiscoclub.zaiko.io/e/rdc2027",
+        "summary": "Rainbow Disco Club returns to Higashi-Izu for a three-day electronic music festival weekend, with the official site listing April 16–18 operating dates and ticket categories. The venue is outside Tokyo but is a major Tokyo-scene pilgrimage reachable by direct train from Shinjuku to Izu-Inatori.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "tokyo-synchronicity-festival-apr-2027",
+        "title": "SYNCHRONICITY’27",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-11",
+        "importance": 86,
+        "venueName": "Shibuya, Tokyo",
+        "venueId": null,
+        "sourceUrl": "https://synchronicity.tv/festival/news/260413/",
+        "ticketUrl": null,
+        "summary": "SYNCHRONICITY confirms its 2027 edition for April 10–11 in Shibuya, with artists to be announced later. The festival is one of Tokyo’s defining multi-venue urban music events, typically spanning indie, jazz, hip-hop, and electronic scenes.",
+        "genres": [
+          "festival",
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "tokyo-beabadoobee-powerlines-apr-2027",
+        "title": "beabadoobee: The Powerlines Tour",
+        "type": "concert",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-09",
+        "importance": 82,
+        "venueName": "Toyosu PIT",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationhip.co.jp/all-events/beabadoobee-tickets-ae1285263",
+        "ticketUrl": "https://www.livenationhip.co.jp/all-events/beabadoobee-tickets-ae1285263",
+        "summary": "Live Nation H.I.P. confirms beabadoobee’s Tokyo date for The Powerlines Tour at Toyosu PIT, advertised as her long-awaited first solo Japan performance.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-scandal-final-tour-apr-2027",
+        "title": "SCANDAL FINAL TOUR 2026–2027 “SCANDALの47都道府県ツアー”",
+        "type": "concert",
+        "startDate": "2027-04-30",
+        "endDate": "2027-04-30",
+        "importance": 82,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.scandal-4.com/live-tour/",
+        "ticketUrl": "https://red-hot.ne.jp/play/detail.php?pid=py28648",
+        "summary": "SCANDAL’s 47-prefecture final tour reaches Zepp DiverCity (TOKYO) on April 30, the first of two closing Tokyo dates before the May 1 show.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-ikimonogakari-ariake-apr-2027",
+        "title": "Ikimonogakari — 47-Prefecture Tour Tokyo date",
+        "type": "concert",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-10",
+        "importance": 80,
+        "venueName": "SGC HALL ARIAKE",
+        "venueId": null,
+        "sourceUrl": "https://tdp.tv-asahi.co.jp/hall/event/0042/",
+        "ticketUrl": "https://tdp.tv-asahi.co.jp/hall/event/0042/",
+        "summary": "Ikimonogakari’s 2026–2027 nationwide tour stops at SGC HALL ARIAKE in Tokyo, with the venue confirming an 18:00 showtime.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-natori-yokohama-apr-2027",
+        "title": "natori Zepp TOUR 2027 — Yokohama opening shows",
+        "type": "concert",
+        "startDate": "2027-04-06",
+        "endDate": "2027-04-07",
+        "importance": 78,
+        "venueName": "KT Zepp Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://www.sonymusic.co.jp/artist/natori/info/586179",
+        "ticketUrl": "https://eplus.tickets/natori27/",
+        "summary": "natori starts his nationwide Zepp Tour 2027 with two confirmed nights at KT Zepp Yokohama, both scheduled for 19:00 showtime.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-inui-toko-restart-apr-2027",
+        "title": "Inui Toko 2nd Solo Live “リスタート”",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 78,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.nijisanji.jp/events/inui_restart/",
+        "ticketUrl": "https://www.nijisanji.jp/events/inui_restart/",
+        "summary": "Nijisanji’s Inui Toko stages her second solo live at Tokyo Garden Theater, with guests Hoshimachi Suisei, Inami Rai, Furaka Kanato, and Kuramochi Meruto listed on the event page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-raisan-royale-apr-2027",
+        "title": "礼賛 ONEMAN TOUR 2027 “ロワイヤル”",
+        "type": "concert",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-10",
+        "importance": 76,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.sonymusic.co.jp/artist/RAISAN/info/586550",
+        "ticketUrl": "https://eplus.jp/raisan-tour2027/",
+        "summary": "Raisan’s ONEMAN TOUR 2027 “Royale” includes two confirmed Tokyo Garden Theater shows, with the April 9 performance at 19:00 and April 10 at 18:00.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-cuew-showcase-conference-apr-2027",
+        "title": "CUEW Showcase & Conference 2027",
+        "type": "conference",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-11",
+        "importance": 74,
+        "venueName": "Shibuya venues TBA",
+        "venueId": null,
+        "sourceUrl": "https://cuew.jp/",
+        "ticketUrl": null,
+        "summary": "CUEW is a Shibuya-based international music showcase and conference linked with SYNCHRONICITY, aimed at connecting Japanese and overseas artists and industry delegates.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-icex-nicox-land-apr-2027",
+        "title": "ICEx Fifth Concert Tour 2027 “NICOx LAND”",
+        "type": "concert",
+        "startDate": "2027-04-29",
+        "endDate": "2027-04-29",
+        "importance": 72,
+        "venueName": "Tokyo Garden Theater",
+        "venueId": null,
+        "sourceUrl": "https://icex.jp/contents/1112410",
+        "ticketUrl": "https://icex.jp/contents/1112410",
+        "summary": "J-pop boy group ICEx close out the April Tokyo Garden Theater run with the Tokyo stop of their Fifth Concert Tour 2027 “NICOx LAND.”",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-straightener-toyosu-apr-2027",
+        "title": "Straightener — Fictional History TOUR",
+        "type": "concert",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 70,
+        "venueName": "Toyosu PIT",
+        "venueId": null,
+        "sourceUrl": "https://red-hot.ne.jp/play/detail.php?pid=py28714",
+        "ticketUrl": "https://red-hot.ne.jp/play/detail.php?pid=py28714",
+        "summary": "Veteran Japanese rock band Straightener brings the Fictional History TOUR to Toyosu PIT, with Hot Stuff Promotion confirming the 17:00 start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-cuew-2027",
+        "title": "CUEW 2027",
+        "type": "conference",
+        "startDate": "2027-04-09",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Shibuya",
+        "venueId": null,
+        "sourceUrl": "https://synchronicity.tv/festival/news/260413/",
+        "ticketUrl": null,
+        "summary": "Showcase-and-conference program linked with SYNCHRONICITY’27, announced by the festival for the Friday before the main Shibuya weekend.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-dizzy-sunfist-o-east-apr-2027",
+        "title": "Dizzy Sunfist “OUR DREAM IS NOT DEAD” TOUR 2027",
+        "type": "concert",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-23",
+        "importance": 67,
+        "venueName": "Spotify O-EAST",
+        "venueId": null,
+        "sourceUrl": "https://shibuya-o.com/east/schedule/dizzy-sunfist-our-dream-is-not-dead-tour-2027/",
+        "ticketUrl": "https://eplus.jp/sf/detail/1395630001-P0030307P021001",
+        "summary": "Osaka punk-rock trio Dizzy Sunfist play Spotify O-EAST in Shibuya on the OUR DREAM IS NOT DEAD TOUR 2027, with venue and promoter pages confirming the 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-reaction-the-butta-zepp-apr-2027",
+        "title": "Reaction The Buttha 20th Anniversary ONEMAN LIVE “ブッタのゼップ”",
+        "type": "concert",
+        "startDate": "2027-04-18",
+        "endDate": "2027-04-18",
+        "importance": 66,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://rtb-music.com/contents/1069049",
+        "ticketUrl": "https://t.pia.jp/pia/event/event.do?eventCd=2618225",
+        "summary": "Reaction The Buttha marks its 20th anniversary with a one-man Zepp DiverCity concert, confirmed for a 17:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-minori-chihara-shibuya-apr-2027",
+        "title": "Minori Chihara Live at LINE CUBE SHIBUYA",
+        "type": "concert",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 64,
+        "venueName": "LINE CUBE SHIBUYA",
+        "venueId": null,
+        "sourceUrl": "https://minorichihara.com/pages/line-cube-shibuya-2027",
+        "ticketUrl": "https://minorichihara.com/pages/line-cube-shibuya-2027",
+        "summary": "Voice actress and anisong singer Minori Chihara plays a full band concert at LINE CUBE SHIBUYA with Yosuke Yamamoto, Ryosuke Nikamoto, Hideki Aoyama, and Yosuke Shibasaki listed as performers.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-kscs-back-to-tokyo-2027",
+        "title": "KSCS 2027 : BACK TO TOKYO",
+        "type": "club-night",
+        "startDate": "2027-04-03",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "HARLEM, Shibuya",
+        "venueId": null,
+        "sourceUrl": "https://cyphly.com/en/events/city/tokyo/genre/breaking",
+        "ticketUrl": null,
+        "summary": "Breaking battle night at Shibuya HARLEM with Open Breaking 2on2, Bgirl 1on1 and Kids U15 Breaking 1on1 categories; start time, entry and judges are still TBA on the listing.",
+        "genres": [
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

@@ -2,15 +2,199 @@
   "slug": "aspen",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T18:52:00.267Z",
-  "responseId": "resp_0712673d940a8a820069ff8216bdc081a2bf1609e3ebfc8ff4",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T02:58:51.335Z",
+  "responseId": "resp_0626af954dce106c006acd9de6393487d0969477fd260a2c4b+resp_0c40e5abbfa94593006acd9e2a995087d08d4c39a3e015b4ce",
+  "searchCalls": 29,
   "citations": [],
   "data": {
     "destinationSlug": "aspen",
     "month": 12,
     "year": 2026,
-    "notes": null,
-    "events": []
+    "notes": "December 2026 in Aspen is anchored by Belly Up’s holiday electronic/indie run, Snow Lodge’s NYE house booking, Wintersköl programming, and select JAS/industry events.",
+    "events": [
+      {
+        "id": "aspen-lcd-soundsystem-nye-2026",
+        "title": "LCD Soundsystem - New Year's Eve 2026",
+        "type": "residency",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 90,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/lcd-soundsystem-new-years-eve-2026/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=lcd-soundsystem-12-31-26",
+        "summary": "LCD Soundsystem headlines Belly Up Aspen’s New Year’s Eve 2026 show on December 31, with doors at 9:30 pm and showtime at 10:30 pm. This is the key date in the venue’s multi-night holiday run.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-cloonee-2026",
+        "title": "Cloonee",
+        "type": "club-night",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-26",
+        "importance": 84,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/cloonee-3/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=cloonee-12-26-26",
+        "summary": "House DJ and Hellbent Records founder Cloonee headlines Belly Up Aspen on December 26, 2026. Doors are listed for 8:30 pm with a 9:30 pm show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-sofi-tukker-2026",
+        "title": "SOFI TUKKER",
+        "type": "concert",
+        "startDate": "2026-12-29",
+        "endDate": "2026-12-29",
+        "importance": 84,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/sofi-tukker-8/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=sofi-tukker-12-29-26",
+        "summary": "GRAMMY-nominated electronic duo SOFI TUKKER plays Belly Up Aspen on December 29, 2026, one of the venue’s peak holiday-week bookings. Doors are listed for 8:30 pm with a 9:30 pm show.",
+        "genres": [
+          "electronic",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "aspen-anotr-nye-2026",
+        "title": "ANOTR NYE 2026",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 84,
+        "venueName": "The St. Regis Aspen Grand Astor Ballroom",
+        "venueId": null,
+        "sourceUrl": "https://www.thesnowlodge.com/music-lineup-1",
+        "ticketUrl": "https://www.tixr.com/groups/thesnowlodge/events/anotr-nye-2026-the-st-regis-aspen-ballroom-207847",
+        "summary": "The Snow Lodge hosts Dutch house duo ANOTR for its annual New Year’s Eve event at The St. Regis Aspen ballroom. The Tixr event lists a special DJ set, premium open bar from 9:00 pm to midnight, and an event end time of 2:00 am.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-opiuo-2026",
+        "title": "Opiuo",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 80,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/opiuo-2/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=opiuo-12-12-26",
+        "summary": "Opiuo brings a bass-heavy electronic set to Belly Up Aspen during Wintersköl weekend, with Dreamers Delight listed as support. The show is confirmed for December 12 at 9:30 pm.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-sofi-tukker-2026",
+        "title": "SOFI TUKKER",
+        "type": "residency",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-29",
+        "importance": 78,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/sofi-tukker-7/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=sofi-tukker-12-29-26",
+        "summary": "Two intimate late-December Belly Up dates from dance-pop/electronic duo SOFI TUKKER, whose sound leans global, Brazilian-influenced and club-ready.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "aspen-nimino-2026",
+        "title": "nimino",
+        "type": "club-night",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-10",
+        "importance": 76,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/nimino/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=nimino-12-10-26",
+        "summary": "UK electronic artist nimino headlines Belly Up Aspen on December 10, 2026. Doors are listed for 8:00 pm with a 9:00 pm show.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-prince-new-power-generation-2026",
+        "title": "Celebrating Prince Featuring Former Members of New Power Generation",
+        "type": "concert",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-28",
+        "importance": 73,
+        "venueName": "Paul JAS Center",
+        "venueId": null,
+        "sourceUrl": "https://jazzaspensnowmass.org/event/celebrating-prince-featuring-former-members-of-new-power-generation/",
+        "ticketUrl": "https://jazzaspensnowmass.org/jas-cafe-series/jas-cafe-tickets/?instance=80601",
+        "summary": "Jazz Aspen Snowmass presents a Prince celebration featuring former members of The New Power Generation at the Paul JAS Center. The December 28 performance is listed for 8:00–10:00 pm.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-two-feet-2026",
+        "title": "Two Feet",
+        "type": "concert",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 72,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/two-feet-3/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=two-feet-12-5-26",
+        "summary": "Two Feet plays Belly Up Aspen on December 5, with Golbus listed as support on the ticket link. The show is confirmed for 9:00 pm after 8:00 pm doors.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "aspen-winterskol-2026",
+        "title": "Wintersköl 2026",
+        "type": "festival",
+        "startDate": "2026-12-10",
+        "endDate": "2026-12-13",
+        "importance": 72,
+        "venueName": "Around Aspen and Aspen Snowmass",
+        "venueId": null,
+        "sourceUrl": "https://www.aspensnowmass.com/visit/events/winterskol",
+        "ticketUrl": null,
+        "summary": "Aspen’s annual Wintersköl winter celebration runs December 10–13, 2026 with live music in Wagner Park, a beer festival, bonfire, torchlight parade, fireworks, and Snowmass/Aspen events.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "aspen-aspen-live-2026",
+        "title": "Aspen Live",
+        "type": "conference",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-05",
+        "importance": 70,
+        "venueName": "The Limelight Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.aspenlive.com/",
+        "ticketUrl": "https://www.axs.com/events/1462894/aspen-live-tickets",
+        "summary": "Aspen Live returns December 3–5, 2026 for its 30th year as an invitation-style music and live-entertainment industry conference at The Limelight Hotel.",
+        "genres": []
+      }
+    ]
   }
 }

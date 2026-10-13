@@ -1,0 +1,208 @@
+{
+  "slug": "las-vegas",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:35:37.457Z",
+  "responseId": "resp_0e204bcb6a1be5ad006acda62d972487d082feefd99dbc3d76+resp_0a32e27642210871006acda69cd7d487d09249567f67d7eee2",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "las-vegas",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027’s confirmed Las Vegas music calendar is residency-heavy, led by Sphere, casino-theater and House of Blues runs, with Latin dance and party-brunch programming also on sale.",
+    "events": [
+      {
+        "id": "las-vegas-metallica-sphere-mar-2027",
+        "title": "Metallica: Life Burns Faster at Sphere",
+        "type": "residency",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-13",
+        "importance": 96,
+        "venueName": "Sphere",
+        "venueId": null,
+        "sourceUrl": "https://www.metallica.com/tour",
+        "ticketUrl": "https://metallica.lnk.to/MetallicaSphere",
+        "summary": "Metallica’s Sphere residency closes its March run with four confirmed Las Vegas dates: March 4, 6, 11 and 13, 2027. The band’s official tour page lists each date at Sphere.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-boyz-ii-men-chelsea-2027",
+        "title": "Boyz II Men at The Chelsea",
+        "type": "residency",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-20",
+        "importance": 85,
+        "venueName": "The Chelsea at The Cosmopolitan of Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://cosmopolitanlasvegas.mgmresorts.com/en/entertainment/boyz-ii-men.html",
+        "ticketUrl": "https://www.livenation.com/event/1kAYvP7MGAG0PFJ/boyz-ii-men",
+        "summary": "Boyz II Men play four exclusive March 2027 Las Vegas shows at The Chelsea on March 12, 13, 19 and 20. The Cosmopolitan’s event page confirms 8:00 p.m. showtimes for all four dates.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-barry-manilow-westgate-2027",
+        "title": "Barry Manilow: The Hits Come Home",
+        "type": "residency",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-27",
+        "importance": 80,
+        "venueName": "Westgate Las Vegas International Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.westgateresorts.com/news/westgate-las-vegas-resort-and-casino-announces-new-2027-dates-for-barry-manilows-record-breaking-las-vegas-residency/",
+        "ticketUrl": "https://www.axs.com/events/1062603/barry-manilow-rescheduled-from-92426-tickets",
+        "summary": "Barry Manilow’s long-running Westgate Las Vegas residency has newly announced 2027 dates, including March 25–27. The official Westgate announcement confirms the March block at the International Theater.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-drais-after-hours-2027",
+        "title": "Drai's After Hours Free Guest List by Promoter Now",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": "2027-03-29",
+        "importance": 78,
+        "venueName": "Drai's After Hours at The Vanderpump Hotel",
+        "venueId": null,
+        "sourceUrl": "https://stayhappening.com/e/drais-after-hours-free-guest-list-1am-6am-hip-hop-club-by-promoter-now-E118SB6NV712A",
+        "ticketUrl": "https://stayhappening.com/e/drais-after-hours-free-guest-list-1am-6am-hip-hop-club-by-promoter-now-E118SB6NV712A",
+        "summary": "Recurring Thursday–Sunday 1am–6am after-hours series billed as a hip-hop and R&B-first late-night club with house/open-format rooms, running through March 29, 2027.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "house"
+        ]
+      },
+      {
+        "id": "las-vegas-donny-osmond-harrahs-2027",
+        "title": "Donny Osmond at Harrah’s Las Vegas",
+        "type": "residency",
+        "startDate": "2027-03-31",
+        "endDate": "2027-03-31",
+        "importance": 74,
+        "venueName": "Harrah's Showroom at Harrah's Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/donny-osmond-las-vegas-las-vegas-nevada-03-31-2027/event/39006513A9E5DF45",
+        "ticketUrl": "https://www.ticketmaster.com/donny-osmond-las-vegas-las-vegas-nevada-03-31-2027/event/39006513A9E5DF45",
+        "summary": "Donny Osmond’s Las Vegas residency has a confirmed March 31, 2027 performance at Harrah’s Showroom. Ticketmaster lists the show at 7:30 p.m.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-flans40-2027",
+        "title": "FLANS40: “Sin Control” Tour",
+        "type": "concert",
+        "startDate": "2027-03-11",
+        "endDate": "2027-03-11",
+        "importance": 73,
+        "venueName": "The Theater at Virgin Hotels Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1616924/flans40-tickets?skin=virginhotel",
+        "ticketUrl": "https://www.axs.com/events/1616924/flans40-tickets?skin=virginhotel",
+        "summary": "Mexican pop group Flans brings the FLANS40 “Sin Control” Tour to The Theater at Virgin Hotels Las Vegas on March 11, 2027. AXS lists the show at 8:00 p.m. with doors at 7:00 p.m.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-tesla-house-of-blues-2027",
+        "title": "Tesla at House of Blues Las Vegas",
+        "type": "residency",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-13",
+        "importance": 72,
+        "venueName": "House of Blues Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/artists/104823/tesla-tickets/staticDetails",
+        "ticketUrl": "https://www.ticketmaster.com/tesla-tickets/artist/736277",
+        "summary": "Tesla has a five-show Las Vegas run at House of Blues on March 5, 6, 10, 12 and 13, 2027. AXS lists the run as House of Blues Las Vegas dates for the hard-rock band.",
+        "genres": []
+      },
+      {
+        "id": "las-vegas-traditional-bachata-festival-2027",
+        "title": "Las Vegas Traditional Bachata Festival",
+        "type": "festival",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-29",
+        "importance": 72,
+        "venueName": "Harrah’s Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/las-vegas-traditional-bachata-festival-march-25-29-2027-tickets-1990539782072",
+        "ticketUrl": "https://www.eventbrite.com/e/las-vegas-traditional-bachata-festival-march-25-29-2027-tickets-1990539782072",
+        "summary": "The Las Vegas Traditional Bachata Festival is confirmed for March 25–29, 2027 at Harrah’s Las Vegas. Eventbrite describes workshops, showcases and late-night social dancing centered on traditional bachata.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-lavo-party-brunch-mar-2027",
+        "title": "LAVO Party Brunch",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-06",
+        "importance": 70,
+        "venueName": "LAVO Italian Restaurant LV",
+        "venueId": null,
+        "sourceUrl": "https://tickets.taogroup.com/promoter/65c54fb1-0da8-409d-acb0-6bef0ad1214d",
+        "ticketUrl": "https://tickets.taogroup.com/promoter/65c54fb1-0da8-409d-acb0-6bef0ad1214d",
+        "summary": "A representative confirmed March date for Tao Group’s LAVO Party Brunch is Saturday, March 6, 2027, from noon to 6 p.m. The party-brunch concept is a daytime Las Vegas Strip scene event with live-DJ programming.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-hip-hop-pool-crawl-2027",
+        "title": "Las Vegas Hip Hop Pool Crawl with Party Bus W All YOU CAN DRINK",
+        "type": "beach-club",
+        "startDate": "2027-03-13",
+        "endDate": "2027-04-04",
+        "importance": 65,
+        "venueName": "ARIA Resort & Casino / multiple dayclubs",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/693407?seasonal=p06e4dp",
+        "ticketUrl": "https://feverup.com/m/693407?seasonal=p06e4dp",
+        "summary": "Supreme Club Tours’ weekend hip-hop pool crawl bundles party-bus transport, drinks, skip-line dayclub access, and stops listed for Marquee Dayclub, TAO Beach, Daylight Beach Club and Resorts World Casino.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-latin-nightclub-crawl-2027",
+        "title": "Las Vegas Latin Nightclub Crawl with Party Bus and Drinks",
+        "type": "club-night",
+        "startDate": "2027-03-01",
+        "endDate": "2027-03-31",
+        "importance": 64,
+        "venueName": "Palms Casino Resort / multiple Latin clubs",
+        "venueId": null,
+        "sourceUrl": "https://feverup.com/m/693490?seasonal=p06e4dp",
+        "ticketUrl": "https://feverup.com/m/693490?seasonal=p06e4dp",
+        "summary": "Rockstar Las Vegas’ Latin nightlife crawl lists March 2027 sessions with fast-pass entry to two Latin clubs plus a party bus, focusing on salsa, merengue, bachata and related Latin club sounds.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-as-i-lay-dying-2027",
+        "title": "As I Lay Dying at Backstage Bar & Billiards",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-04",
+        "importance": 60,
+        "venueName": "Backstage Bar & Billiards",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1627782/as-i-lay-dying-tickets",
+        "ticketUrl": "https://www.axs.com/events/1627782/as-i-lay-dying-tickets",
+        "summary": "As I Lay Dying is confirmed for Backstage Bar & Billiards in downtown Las Vegas on March 4, 2027. AXS lists the show at 8:00 p.m.",
+        "genres": []
+      }
+    ]
+  }
+}

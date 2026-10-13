@@ -2,8 +2,15 @@
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 import type { AffiliateProvider } from "@/lib/affiliate/providers";
+import type { MonthNumber } from "@/types/content";
 
 export type PreviewPayload =
+  | {
+      kind: "destination";
+      destinationSlug: string;
+      month: MonthNumber;
+      year?: number;
+    }
   | {
       kind: "event";
       eventId: string;

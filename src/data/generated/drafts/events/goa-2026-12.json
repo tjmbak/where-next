@@ -2,16 +2,289 @@
   "slug": "goa",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-10T14:45:53.866Z",
-  "responseId": "resp_09a3922568dc84f6006a0099e1fc888190a78f89e643bd14f5",
-  "searchCalls": 11,
+  "generatedAt": "2026-10-13T03:00:56.823Z",
+  "responseId": "resp_0d1ea7d402036e77006acd9e34064c87d098118f15122def0e+resp_0d442a4fae0ee1fb006acd9e8f64dc87d090cb6c8d17159d50",
+  "searchCalls": 37,
   "citations": [],
   "data": {
     "destinationSlug": "goa",
     "month": 12,
     "year": 2026,
-    "notes": "Confirmed December 2026 listings are still sparse, with the most solid music-related confirmations currently clustered around Serendipity Arts Festival and New Year’s Eve psytrance programming.",
+    "notes": "December 2026 in Goa is already anchored by psytrance/Goa-trance gatherings around Hilltop and Dpedro, plus a confirmed Anjunadeep NYE return at Thalassa.",
     "events": [
+      {
+        "id": "goa-anjunadeep-open-air-nye-2026",
+        "title": "Anjunadeep Open Air Goa 2026",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 88,
+        "venueName": "Thalassa Beach Boutique Resort",
+        "venueId": null,
+        "sourceUrl": "https://anjunadeep.com/events/goa",
+        "ticketUrl": "https://www.district.in/events/anjunadeep-open-air-goa-2026-buy-tickets",
+        "summary": "Anjunadeep returns to Goa for New Year’s Eve at Thalassa Beach Resort, with District listing the event from December 31 at 4 PM to January 1 at 3 AM and the lineup to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-septom-festival-2026",
+        "title": "Septom Festival",
+        "type": "festival",
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-29",
+        "importance": 86,
+        "venueName": "Hilltop Vagator",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://psyclopedia.com/events/sept-om-festival-december-2026",
+        "ticketUrl": "https://tickets.madvibes.in/product/septomfestivalhilltopgoa/",
+        "summary": "Old-school Goa-trance gathering at Hilltop with a listed lineup including Anoebis, Agneton, Dimension 5, Green Nuns of the Revolution, Shakta, Alien Project and Planet 604.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-hilltop-enter-the-void-2026",
+        "title": "Hilltop Enter The Void New Years Eve Gathering",
+        "type": "festival",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-01",
+        "importance": 85,
+        "venueName": "Hilltop Vagator",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://tickets.madvibes.in/product/hilltopenterthevoidnye/",
+        "ticketUrl": "https://tickets.madvibes.in/product/hilltopenterthevoidnye/",
+        "summary": "HillTop Goa’s three-day New Year gathering at Hilltop is billed as a psychedelic music, art, culture and community event from December 30 to January 1.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-septom-2026",
+        "title": "SeptOM Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-30",
+        "importance": 83,
+        "venueName": "Hilltop Goa",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://zygo.co.il/event/780562063740895247?tl=4505",
+        "ticketUrl": "https://tickets.madvibes.in/product/septomfestivalhilltopgoa/",
+        "summary": "Hilltop New Years Gathering positioned as three days of old-school Goa trance, with a pioneer-heavy lineup including Anoebis, Agneton, Dimension 5, Green Nuns of the Revolution, Shakta, Alien Project, Planet 604 and more.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-anam-cara-festival-2026",
+        "title": "Anam Cara Festival",
+        "type": "festival",
+        "startDate": "2026-12-24",
+        "endDate": "2026-12-26",
+        "importance": 82,
+        "venueName": "Goa, India",
+        "venueId": null,
+        "sourceUrl": "https://anamcarafestival.com/",
+        "ticketUrl": "https://anamcarafestival.com/",
+        "summary": "Three-day old-school Goa-trance festival listing X-Dream, SUN Project, Transwave, Etnica, California Sunshine, Battle of the Future Buddhas and more as confirmed artists.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-anam-cara-2026",
+        "title": "Anam Cara Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-24",
+        "endDate": "2026-12-26",
+        "importance": 82,
+        "venueName": "Goa, India",
+        "venueId": null,
+        "sourceUrl": "https://anamcarafestival.com/",
+        "ticketUrl": "https://anamcarafestival.com/tickets",
+        "summary": "Three-day old-school Goa trance gathering with confirmed international Goa/psytrance names including Etnica, Transwave, X-Dream, SUN Project, California Sunshine, Battle of the Future Buddhas and more, plus ceremonies and healing-village programming.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-francis-mercier-rrov-2026",
+        "title": "Francis Mercier @ RROV Goa",
+        "type": "club-night",
+        "startDate": "2026-12-27",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "RROV Goa",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/francis-mercier-rrov-goa/et00lu07q3",
+        "ticketUrl": "https://in.bookmyshow.com/events/francis-mercier-rrov-goa/et00lu07q3",
+        "summary": "Touring Afro-house headliner Francis Mercier plays a year-end Goa date at RROV, billed around Afro-house, deep grooves and global electronic sounds.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-vanaghotra-decade-ritual-2026",
+        "title": "Vanaghotra The Decade Ritual",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-02",
+        "importance": 72,
+        "venueName": "Dpedro Inn",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/vanaghotra-31-dec-2026-dpedro-inn-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/vanaghotra-31-dec-2026-dpedro-inn-buy-tickets",
+        "summary": "Vanaghotra Records marks its 10-year anniversary with a Dpedro Inn New Year ritual running from December 31 into January 2.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-unmada-vara-nye-2026",
+        "title": "UNMADA VARA - NYE - GOA",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Vagator, Goa",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/unmada-vara-nye-goa/ET00501247",
+        "ticketUrl": "https://in.bookmyshow.com/events/unmada-vara-nye-goa/ET00501247",
+        "summary": "A 15-hour New Year’s Eve trance/EDM gathering in Vagator with a lineup listed by Gigs Calendar including AudioSyntax, Knusparjungs, Oroboro, Tzu-Jan, Magikastal, Quadrahedron and others.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-primal-void-2026",
+        "title": "Primal Void",
+        "type": "festival",
+        "startDate": "2026-12-24",
+        "endDate": "2026-12-26",
+        "importance": 69,
+        "venueName": "Dpedro Inn",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/primal-void-25-dec-2026-dpedro-inn-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/primal-void-25-dec-2026-dpedro-inn-buy-tickets",
+        "summary": "Dimensional Magic Tribe presents a two-night Dpedro Inn gathering described as 25+ live acts with healing spaces and ritual-focused production.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-perseverance-festival-2026",
+        "title": "PERSEVERANCE FESTIVAL",
+        "type": "festival",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-28",
+        "importance": 67,
+        "venueName": "Dpedro Inn",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/perseverance-festival-26-dec-2026-dpedro-inn-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/perseverance-festival-26-dec-2026-dpedro-inn-buy-tickets",
+        "summary": "A two-night Psy Rituals ticketed festival at Dpedro Inn in Mandrem, running from the evening of December 26 into the morning of December 28.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-ritual-of-the-void-2026",
+        "title": "Ritual Of The Void",
+        "type": "festival",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-30",
+        "importance": 67,
+        "venueName": "Dpedro Inn",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/ritual-of-the-void-28-aug-2026-dpedro-inn-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/ritual-of-the-void-28-aug-2026-dpedro-inn-buy-tickets",
+        "summary": "Vasuki Vani Entertainment’s ticketed Dpedro Inn gathering starts December 28 at 8 PM and runs through the morning of December 30.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-ritual-void-2026",
+        "title": "Ritual of the Void - Goa",
+        "type": "club-night",
+        "startDate": "2026-12-28",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "DPedro Goa",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/ritual-of-the-void-goa/ET00515799",
+        "ticketUrl": "https://in.bookmyshow.com/events/ritual-of-the-void-goa/ET00515799",
+        "summary": "A 12-hour psychedelic underground club gathering at DPedro, framed as a ritual-style Goa edition focused on unity, freedom and immersive dancefloor energy.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-damru-nye-2026",
+        "title": "Damru",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 66,
+        "venueName": "House of Chapora by the Bay",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/damru-31-dec-2026-house-of-chapora-by-the-bay-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/damru-31-dec-2026-house-of-chapora-by-the-bay-buy-tickets",
+        "summary": "House of Chapora’s NYE party lists psychedelic sounds, visuals and LED performances, with Dark Fluid, Eldritch, Coco, Shayyy, Rupesh and Eka on the bill.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "goa-house-affairs-yacht-dec-2026",
+        "title": "House Affairs Sundowner Yacht Party",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 62,
+        "venueName": "Boat Goa: Britona",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/house-affairs-sundowner-yatch-party/ET00519934",
+        "ticketUrl": "https://in.bookmyshow.com/events/house-affairs-sundowner-yatch-party/ET00519934",
+        "summary": "A 3-hour sundowner yacht party from Boat Goa in Britona, billed with live DJs and Afro, House and Tech House music.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-new-year-bollywood-party-2027",
+        "title": "New Year Bollywood Party 2027",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 60,
+        "venueName": "Foxoso La Alphonso Beach Resort and Spa",
+        "venueId": null,
+        "sourceUrl": "https://in.bookmyshow.com/events/new-year-bollywood-party-2027/ET00521319",
+        "ticketUrl": "https://in.bookmyshow.com/events/new-year-bollywood-party-2027/ET00521319",
+        "summary": "A large-format Bollywood-themed NYE party with live performance, celebrity DJ, live band, emcee and fireworks countdown at Foxoso La Alphonso Beach Resort and Spa.",
+        "genres": [
+          "pop"
+        ]
+      },
       {
         "id": "goa-serendipity-arts-festival-2026",
         "title": "Serendipity Arts Festival 2026",
@@ -29,19 +302,20 @@
         ]
       },
       {
-        "id": "goa-vanaghotra-decade-ritual-2026",
-        "title": "Vanaghotra: The Decade Ritual",
-        "type": "club-night",
-        "startDate": "2026-12-31",
-        "endDate": "2027-01-01",
-        "importance": 70,
-        "venueName": "D’Pedro Inn, Mandrem",
+        "id": "goa-anamcara-2026",
+        "title": "ANAMCARA - Sacred Goa Trance Festival 2026",
+        "type": "festival",
+        "startDate": "2026-12-24",
+        "endDate": "2026-12-26",
+        "importance": 78,
+        "venueName": "Sacred Valley, Vagator",
         "venueId": null,
-        "sourceUrl": "https://idamoss.com/listing/vanaghotra-the-decade-ritual-nye-dec-31st-dpedro-goa/",
-        "ticketUrl": "https://idamoss.com/listing/vanaghotra-the-decade-ritual-nye-dec-31st-dpedro-goa/",
-        "summary": "Vanaghotra’s 10th-anniversary New Year’s Eve gathering is listed for D’Pedro Inn in Goa from 31 December 2026 to 1 January 2027. The listing describes a psychedelic, underground electronic soundscape and tribal gathering format.",
+        "sourceUrl": "https://www.anamcarafestival.com/info",
+        "ticketUrl": null,
+        "summary": "A 72-hour Goa trance/psytrance festival in Vagator with a stated 3,000-person capacity, 25+ artists, healing village and art installations.",
         "genres": [
-          "electronic"
+          "electronic",
+          "festival"
         ]
       }
     ]

@@ -1,0 +1,49 @@
+{
+  "slug": "seoul",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:26:12.359Z",
+  "responseId": "resp_00322b1ba07058e3006acda4671f6887d09e77cfb5d9320a21+resp_09a46be7b7f6ff99006acda4a5072c87d0abdb9d50360b7792",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "seoul",
+    "month": 2,
+    "year": 2027,
+    "notes": "As of 2026-10-13, searches across Resident Advisor, DICE, Shotgun, Eventbrite, Fixr, Korean ticketing/listing pages, and Seoul club/promoter queries did not surface any qualifying underground club-night, promoter-party, or diaspora/genre events with confirmed February 2027 dates and source pages.",
+    "events": [
+      {
+        "id": "seoul-cnblue-kspo-dome-2027",
+        "title": "CNBLUE 2027 Live at KSPO Dome",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-21",
+        "importance": 80,
+        "venueName": "KSPO Dome, Olympic Park",
+        "venueId": null,
+        "sourceUrl": "https://news.tf.co.kr/read/entertain/2365317.htm",
+        "ticketUrl": null,
+        "summary": "CNBLUE are confirmed for a two-night solo concert at KSPO Dome on February 20–21, 2027, marking the band’s first standalone KSPO Dome run after 17 years.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "seoul-freya-skye-stars-align-2027",
+        "title": "Freya Skye - Stars Align Tour in Seoul",
+        "type": "concert",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 70,
+        "venueName": "Myunghwa Live Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.kr/event/freya-skye-stars-align-tour-seoul-tickets-edp1698536",
+        "ticketUrl": "https://nol.yanolja.com/ticket/products/26013626",
+        "summary": "Freya Skye brings the Stars Align Tour to Seoul for a February 20, 2027 headline show at Myunghwa Live Hall, with tickets sold via NOL.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "slug": "st-barths",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:12:14.008Z",
+  "responseId": "resp_0cde1d44d7d16071006acda0cbdeac87d0ae754e60312de77d+resp_0de6c8732174c7f4006acda130f36487d0baabf0ba1686f3f5",
+  "searchCalls": 26,
+  "citations": [],
+  "data": {
+    "destinationSlug": "st-barths",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027’s confirmed contemporary music picture is led by New Year beach-club spillover and a small number of jazz dates within the St Barth Music Festival; classical, opera and ballet listings were excluded.",
+    "events": [
+      {
+        "id": "st-barths-super-island-2027",
+        "title": "SUPER ISLAND: Indie Beach × Gyp Sea",
+        "type": "beach-club",
+        "startDate": "2026-12-27",
+        "endDate": "2027-01-02",
+        "importance": 86,
+        "venueName": "Gyp Sea Beach / Indie Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.gypsea-stbarth.com/news-agenda/new-years-eve-in-st-barts",
+        "ticketUrl": null,
+        "summary": "Gyp Sea’s official page confirms the SUPER ISLAND takeover across Saint-Barth from December 27, 2026 through January 2, 2027, described as seven days and seven nights of music, beach days and sunsets. Peggy Gou is specifically confirmed for the December 31 New Year’s Eve date, with full line-up details still pending on the source page.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "st-barths-nikki-beach-amazing-sundays-2027",
+        "title": "Nikki Beach St Barth: Amazing Sundays",
+        "type": "beach-club",
+        "startDate": "2027-01-31",
+        "endDate": "2027-01-31",
+        "importance": 78,
+        "venueName": "Nikki Beach St. Barth",
+        "venueId": "nikki-beach-st-barths",
+        "sourceUrl": "https://tockify.com/icietla/detail/49/1801411200000",
+        "ticketUrl": "https://nikkibeach.com/saint-barth/happenings/amazing-sundays/",
+        "summary": "The local Ici et Là calendar lists Nikki Beach’s Amazing Sundays on January 31, 2027 from noon to 7:00 PM. Nikki Beach’s own event page describes Amazing Sundays as an island tradition led by the venue’s resident DJ.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-carlita-la-guerite-2027",
+        "title": "Carlita at La Guérite Saint-Barth",
+        "type": "beach-club",
+        "startDate": "2027-01-02",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "La Guérite Beach Saint-Barth",
+        "venueId": null,
+        "sourceUrl": "https://www.pasha-stbarth.com/en/blogs/infos/nouvel-an-2027-saint-barth-soirees-beach-clubs",
+        "ticketUrl": null,
+        "summary": "La Guérite’s New Year beach-club run continues on January 2 with Carlita, a major melodic/electronic house booking for the island’s high-season party circuit.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-super-island-miguelle-tons-2027",
+        "title": "Super Island Closing: Miguelle & Tons",
+        "type": "beach-club",
+        "startDate": "2027-01-02",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Gyp Sea Beach",
+        "venueId": null,
+        "sourceUrl": "https://superisland.fr/artist/miguelle-tons",
+        "ticketUrl": "https://superisland.fr/artist/miguelle-tons",
+        "summary": "Indie Beach and Gyp Sea close their Super Island takeover on St Jean Beach with Miami duo Miguelle & Tons, billed for a daytime-to-evening Latin-house beach party from 12:00 to 21:00.",
+        "genres": [
+          "house",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "st-barths-nikki-amazing-sundays-2027",
+        "title": "Nikki Beach Amazing Sundays",
+        "type": "beach-club",
+        "startDate": "2027-01-31",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Nikki Beach St. Barth",
+        "venueId": "nikki-beach-st-barths",
+        "sourceUrl": "https://tockify.com/icietla/detail/49/1801411200000",
+        "ticketUrl": null,
+        "summary": "Nikki Beach’s recurring Amazing Sundays format is confirmed for January 31, giving the month a classic St Barth daytime beach-club anchor with DJ-led party energy.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "st-barths-marion-chretien-jazz-2027",
+        "title": "St Barth Music Festival: Marion Chrétien Quintet Jazz Evening",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 66,
+        "venueName": "Anglican Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.saintbarthmusicfestival.com/en/d-tails-et-inscription/soiree-jazz-jazz-concert-marion-chretien-quintet-16-01",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en/d-tails-et-inscription/soiree-jazz-jazz-concert-marion-chretien-quintet-16-01",
+        "summary": "The official St Barth Music Festival page confirms a January 16 jazz concert at the Anglican Church in Gustavia. The listed ensemble features Marion Chrétien with Hadrien Remy, Thomas Posner, Frederic Nardin and Theo Moutou, presented as jazz, soul, blues and groove.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "st-barths-jazz-evening-jan17-2027",
+        "title": "St Barth Music Festival: Jazz Evening / Jazz Concert",
+        "type": "concert",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-17",
+        "importance": 65,
+        "venueName": "Anglican Church, Gustavia",
+        "venueId": null,
+        "sourceUrl": "https://www.saintbarthmusicfestival.com/en/d-tails-et-inscription/soiree-jazz-jazz-concert-marion-chretien-quintet-17-01",
+        "ticketUrl": "https://www.saintbarthmusicfestival.com/en/d-tails-et-inscription/soiree-jazz-jazz-concert-marion-chretien-quintet-17-01",
+        "summary": "The official festival page confirms a January 17 jazz concert at the Anglican Church in Gustavia. The event details list Angela Grey on vocals with Gustave Reichert, Luca Fattorini, Simon Chivallon and Malte Arndal.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "st-barths-pearl-beach-bikini-day-2027",
+        "title": "Pearl Beach: Bikini Day and DJ Set",
+        "type": "beach-club",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 61,
+        "venueName": "Pearl Beach",
+        "venueId": null,
+        "sourceUrl": "https://tockify.com/icietla/detail/92/1800720000000",
+        "ticketUrl": null,
+        "summary": "The Ici et Là event calendar lists Pearl Beach’s Bikini Day on January 23, 2027 from noon to 6:00 PM. The listing specifies a DJ set and fashion show by Pop St Barth at the Saint-Jean beach club.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "st-barths-pearl-bikini-day-2027",
+        "title": "Pearl Beach “Bikini Day” with DJ Set",
+        "type": "beach-club",
+        "startDate": "2027-01-23",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Pearl Beach",
+        "venueId": null,
+        "sourceUrl": "https://tockify.com/icietla/detail/92/1800720000000",
+        "ticketUrl": null,
+        "summary": "A confirmed local beach-club day party at Pearl Beach featuring a DJ set and fashion show by Pop St Barth, running 12:00–18:00 on St Jean Bay.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

@@ -2,9 +2,9 @@
   "slug": "london",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:00:04.162Z",
-  "responseId": "resp_0a32d6aaff21807b0069ff5989d4688194a2f1c8e2312bfeba",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T18:22:48.382Z",
+  "responseId": "augment:resp_0d5af2a2f2be30a9006a1b2a7aea48819b86e5722334acf3fa",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "london",
@@ -49,6 +49,128 @@
         ]
       },
       {
+        "id": "london-roots-picnic-2026",
+        "title": "Roots Picnic London",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 91,
+        "venueName": "Crystal Palace Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.palacebowlpresents.co.uk/events/the-roots-picnic/",
+        "ticketUrl": "https://www.palacebowlpresents.co.uk/events/the-roots-picnic/",
+        "summary": "Roots Picnic stages its first international edition at Crystal Palace Bowl, running across Saturday 8 and Sunday 9 August.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-peggy-gou-thames-2026",
+        "title": "Peggy Gou on the Thames",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 86,
+        "venueName": "Old Royal Naval College",
+        "venueId": null,
+        "sourceUrl": "https://www.labyrinthevents.com/events/preggy-gou",
+        "ticketUrl": "https://www.labyrinthevents.com/events/preggy-gou",
+        "summary": "Labyrinth presents Peggy Gou at the Old Royal Naval College, with Prospa, Kelly Lee Owens and MPH also listed on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-rally-festival-2026",
+        "title": "RALLY 2026",
+        "type": "festival",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "importance": 86,
+        "venueName": "Southwark Park",
+        "venueId": null,
+        "sourceUrl": "https://rallyrallyrally.co.uk/programme",
+        "ticketUrl": "https://ra.co/events/2298367",
+        "summary": "RALLY returns to Southwark Park with Blood Orange, Daniel Avery live, Smerz, Optimo, Voice Actor, Roman Flügel and more on the announced programme.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-michael-bibi-thames-2026",
+        "title": "Michael Bibi on the Thames",
+        "type": "club-night",
+        "startDate": "2026-08-16",
+        "endDate": "2026-08-16",
+        "importance": 84,
+        "venueName": "Old Royal Naval College",
+        "venueId": null,
+        "sourceUrl": "https://www.labyrinthevents.com/michael-bibi-2026?ref=pr",
+        "ticketUrl": "https://www.labyrinthevents.com/michael-bibi-2026?ref=pr",
+        "summary": "Michael Bibi plays a London 2026 exclusive extended set at the Old Royal Naval College as part of Labyrinth on the Thames.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-lenny-kravitz-2026",
+        "title": "Lenny Kravitz Live 2026",
+        "type": "concert",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-15",
+        "importance": 84,
+        "venueName": "Gunnersbury Park",
+        "venueId": null,
+        "sourceUrl": "https://goldenmile.london/event/lenny-kravitz/",
+        "ticketUrl": "https://www.ticketmaster.co.uk/",
+        "summary": "Lenny Kravitz plays an open-air Gunnersbury Park show with special guests Leon Thomas, Joss Stone, Brooke Combe and De’Wayne.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-boiler-room-saturday-2026",
+        "title": "Boiler Room: London — Saturday",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "London",
+        "venueId": null,
+        "sourceUrl": "https://boilerroom.tv/session/london-sat-26/",
+        "ticketUrl": "https://boilerroom.tv/session/london-sat-26/",
+        "summary": "Boiler Room’s Saturday London edition, featuring Face 2 Face and Teletech-hosted stages and a full-day cross-section of rap, underground electronic and techno-adjacent club culture.",
+        "genres": [
+          "electronic",
+          "techno",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-davido-friends-2026",
+        "title": "Davido & Friends",
+        "type": "concert",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-14",
+        "importance": 83,
+        "venueName": "Crystal Palace Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.palacebowlpresents.co.uk/events/davido/",
+        "ticketUrl": "https://www.palacebowlpresents.co.uk/events/davido/",
+        "summary": "Davido headlines Crystal Palace Bowl with Omah Lay, Black Sherif, Gabzy, T x C, Jazzwrld & Thukuthela, Ecool, Morravey and Boi Chase listed as guests.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
         "id": "london-jazz-cafe-festival-2026",
         "title": "Jazz Cafe Festival 2026: Ari Lennox",
         "type": "festival",
@@ -67,19 +189,18 @@
         ]
       },
       {
-        "id": "london-peggy-gou-thames-2026",
-        "title": "Peggy Gou on the Thames",
-        "type": "club-night",
-        "startDate": "2026-08-02",
-        "endDate": "2026-08-02",
-        "importance": 86,
-        "venueName": "Old Royal Naval College",
+        "id": "london-signal-festival-2026",
+        "title": "Signal Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-22",
+        "importance": 82,
+        "venueName": "The Cause",
         "venueId": null,
-        "sourceUrl": "https://www.labyrinthevents.com/events/preggy-gou",
-        "ticketUrl": "https://www.labyrinthevents.com/events/preggy-gou",
-        "summary": "Labyrinth presents Peggy Gou at the Old Royal Naval College, with Prospa, Kelly Lee Owens and MPH also listed on the lineup.",
+        "sourceUrl": "https://ra.co/events/2239194",
+        "ticketUrl": "https://ra.co/events/2239194",
+        "summary": "Signal Festival returns to The Cause with a drum & bass, jungle and dubstep lineup including Goldie, Dillinja, DJ Storm, Doc Scott, Coki, Loefah, Photek, Break and many more.",
         "genres": [
-          "house",
           "electronic"
         ]
       },
@@ -118,105 +239,125 @@
         ]
       },
       {
-        "id": "london-michael-bibi-thames-2026",
-        "title": "Michael Bibi on the Thames",
-        "type": "club-night",
+        "id": "london-soulection-experience-2026",
+        "title": "15 years: The Soulection Experience",
+        "type": "festival",
         "startDate": "2026-08-16",
-        "endDate": "2026-08-16",
-        "importance": 84,
-        "venueName": "Old Royal Naval College",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Magazine Open–Air",
         "venueId": null,
-        "sourceUrl": "https://www.labyrinthevents.com/michael-bibi-2026?ref=pr",
-        "ticketUrl": "https://www.labyrinthevents.com/michael-bibi-2026?ref=pr",
-        "summary": "Michael Bibi plays a London 2026 exclusive extended set at the Old Royal Naval College as part of Labyrinth on the Thames.",
+        "sourceUrl": "https://ra.co/events/2367066",
+        "ticketUrl": "https://ra.co/events/2367066",
+        "summary": "Soulection celebrates 15 years with its biggest UK showcase, bringing the LA-born global collective’s borderless blend of future R&B, soul, hip-hop and electronic sounds to Magazine Open–Air.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-ghana-party-shattafest-2026",
+        "title": "Ghana Party in the Park 2026 Presents ShattaFest UK",
+        "type": "festival",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Copthall Playing Fields",
+        "venueId": null,
+        "sourceUrl": "https://shoobs.com/events/116584/ghana-party-in-the-park-2026-presents-shattafest-uk",
+        "ticketUrl": "https://shoobs.com/events/116584/ghana-party-in-the-park-2026-presents-shattafest-uk",
+        "summary": "A large Ghanaian diaspora culture and music gathering with Afrobeats, hip-hop, R&B and reggae, plus food, fashion, masquerade parade, cultural dancers and community programming.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-4am-kru-ratfest-2026",
+        "title": "4am Kru present RATFEST",
+        "type": "festival",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443625",
+        "ticketUrl": "https://ra.co/events/2443625",
+        "summary": "A Sunday daytime blowout curated by 4am Kru at The Cause, pairing the live-rave energy of 4am Kru with Tim Reaper, Decibella, Singularity UK and a broader UK hardcore/jungle-leaning bill.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-juls-perfect-summer-2026",
+        "title": "Juls presents A Perfect Summer: Caribbean Nights / Jazz Cafe Residency",
+        "type": "residency",
+        "startDate": "2026-08-07",
+        "endDate": "2026-09-05",
+        "importance": 74,
+        "venueName": "The Jazz Cafe",
+        "venueId": null,
+        "sourceUrl": "https://www.ents24.com/london-events/the-jazz-cafe/juls-presents-a-perfect-summer-jazz-cafe-residency/7471969",
+        "ticketUrl": "https://www.ents24.com/london-events/the-jazz-cafe/juls-presents-a-perfect-summer-jazz-cafe-residency/7471969",
+        "summary": "British-Ghanaian producer and DJ Juls leads a run of late-summer Friday sessions celebrating Black club music, moving through Afrobeats, Amapiano, Afro-Latin and Caribbean sounds.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "london-unfold-cxxviii-2026",
+        "title": "UNFOLD CXXVIII",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440755",
+        "ticketUrl": "https://ra.co/events/2440755",
+        "summary": "FOLD’s cult Sunday techno session returns for an August edition, with the lineup still unannounced but the recurring UNFOLD format firmly central to London’s queer-inclusive hard techno scene.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-phonox-jumbi-circulate-2026",
+        "title": "Phonox x Jumbi: CIRCULATE with Derrick Carter, Shy One, Jitwam — Day & Night",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 72,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2416611",
+        "ticketUrl": "https://ra.co/events/2416611",
+        "summary": "A day-into-night Brixton link-up: Jumbi hosts Shy One, Jitwam and a special guest in the daytime before Phonox hands the booth to Chicago house cornerstone Derrick Carter all night long.",
         "genres": [
           "house",
           "electronic"
         ]
       },
       {
-        "id": "london-roots-picnic-2026",
-        "title": "Roots Picnic London",
-        "type": "festival",
-        "startDate": "2026-08-08",
-        "endDate": "2026-08-09",
-        "importance": 91,
-        "venueName": "Crystal Palace Bowl",
+        "id": "london-touching-bass-carni-jam-2026",
+        "title": "Touching Bass Carni Jam 2026",
+        "type": "club-night",
+        "startDate": "2026-08-09",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Bureau of Silly Ideas",
         "venueId": null,
-        "sourceUrl": "https://www.palacebowlpresents.co.uk/events/the-roots-picnic/",
-        "ticketUrl": "https://www.palacebowlpresents.co.uk/events/the-roots-picnic/",
-        "summary": "Roots Picnic stages its first international edition at Crystal Palace Bowl, running across Saturday 8 and Sunday 9 August.",
-        "genres": [
-          "hip-hop",
-          "r-and-b",
-          "jazz"
-        ]
-      },
-      {
-        "id": "london-davido-friends-2026",
-        "title": "Davido & Friends",
-        "type": "concert",
-        "startDate": "2026-08-14",
-        "endDate": "2026-08-14",
-        "importance": 83,
-        "venueName": "Crystal Palace Bowl",
-        "venueId": null,
-        "sourceUrl": "https://www.palacebowlpresents.co.uk/events/davido/",
-        "ticketUrl": "https://www.palacebowlpresents.co.uk/events/davido/",
-        "summary": "Davido headlines Crystal Palace Bowl with Omah Lay, Black Sherif, Gabzy, T x C, Jazzwrld & Thukuthela, Ecool, Morravey and Boi Chase listed as guests.",
-        "genres": [
-          "pop",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "london-lenny-kravitz-2026",
-        "title": "Lenny Kravitz Live 2026",
-        "type": "concert",
-        "startDate": "2026-08-15",
-        "endDate": "2026-08-15",
-        "importance": 84,
-        "venueName": "Gunnersbury Park",
-        "venueId": null,
-        "sourceUrl": "https://goldenmile.london/event/lenny-kravitz/",
-        "ticketUrl": "https://www.ticketmaster.co.uk/",
-        "summary": "Lenny Kravitz plays an open-air Gunnersbury Park show with special guests Leon Thomas, Joss Stone, Brooke Combe and De’Wayne.",
-        "genres": [
-          "pop",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "london-signal-festival-2026",
-        "title": "Signal Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-22",
-        "endDate": "2026-08-22",
-        "importance": 82,
-        "venueName": "The Cause",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2239194",
-        "ticketUrl": "https://ra.co/events/2239194",
-        "summary": "Signal Festival returns to The Cause with a drum & bass, jungle and dubstep lineup including Goldie, Dillinja, DJ Storm, Doc Scott, Coki, Loefah, Photek, Break and many more.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
-        "id": "london-rally-festival-2026",
-        "title": "RALLY 2026",
-        "type": "festival",
-        "startDate": "2026-08-29",
-        "endDate": "2026-08-29",
-        "importance": 86,
-        "venueName": "Southwark Park",
-        "venueId": null,
-        "sourceUrl": "https://rallyrallyrally.co.uk/programme",
-        "ticketUrl": "https://ra.co/events/2298367",
-        "summary": "RALLY returns to Southwark Park with Blood Orange, Daniel Avery live, Smerz, Optimo, Voice Actor, Roman Flügel and more on the announced programme.",
+        "sourceUrl": "https://ra.co/events/2441079",
+        "ticketUrl": "https://ra.co/events/2441079",
+        "summary": "Touching Bass marks ten years with a pre–Notting Hill Carnival, all-ages Brixton gathering focused on the soundsystem continuum, Afro-Caribbean spirit, food, dance and community.",
         "genres": [
           "electronic",
-          "pop",
           "festival"
         ]
       }

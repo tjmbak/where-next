@@ -2,15 +2,137 @@
   "slug": "verbier",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T18:54:49.178Z",
-  "responseId": "resp_0826bd6867e49bc20069ff82c3fd74819f99c777457375b2b5",
-  "searchCalls": 8,
+  "generatedAt": "2026-10-13T02:55:32.933Z",
+  "responseId": "resp_04473ca066e10b6a006acd9d01f9e887d091ce0bbefc3e4f36+resp_0183680698d894e2006acd9d5c4fa487d09544240d1dd5e4ec",
+  "searchCalls": 26,
   "citations": [],
   "data": {
     "destinationSlug": "verbier",
     "month": 12,
     "year": 2026,
-    "notes": null,
-    "events": []
+    "notes": "December 2026 in Verbier looks confirmed mainly around winter-season après-ski and nightclub residencies, with Polaris already finished in late November.",
+    "events": [
+      {
+        "id": "verbier-farinet-winter-live-dj-residency-2026",
+        "title": "Farinet Winter Live-Band & DJ Residency",
+        "type": "residency",
+        "startDate": "2026-12-01",
+        "endDate": "2027-04-25",
+        "importance": 82,
+        "venueName": "Farinet",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/practice/stay-accommodation-and-workation/farinet-verbier-en-2788527/",
+        "ticketUrl": null,
+        "summary": "Hotel Farinet’s winter season page confirms live band music in the après-ski bar every night, live DJs in the lounge until 02:00, and the South nightclub open until 04:00. The listed winter opening period runs from 1 December 2026 to 25 April 2027.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "verbier-farm-club-winter-season-2026",
+        "title": "Farm Club Winter Season",
+        "type": "residency",
+        "startDate": "2026-11-20",
+        "endDate": "2027-04-11",
+        "importance": 80,
+        "venueName": "Farm Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farm-club-verbier-en-2788094/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourisme lists Farm Club’s winter opening period from 20 November 2026 to 11 April 2027, with late-night Friday and Saturday hours from 23:00 to 04:00. The club is described as a long-running Verbier nightlife institution founded in 1971.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "verbier-w-living-room-nye-2026",
+        "title": "New Year’s Eve at W Living Room",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 74,
+        "venueName": "W Living Room, W Verbier",
+        "venueId": null,
+        "sourceUrl": "https://www.wverbier-restaurants.com/festive",
+        "ticketUrl": "https://www.sevenrooms.com/explore/livingroomgvawh/reservations/create/details/?details_id=ahNzfnNldmVucm9vbXMtc2VjdXJlcjMLEg9uaWdodGxvb3BfVmVudWUYgIDHq6mT9gkMCxIKRXhwZXJpZW5jZRiAgOeep72hCww&details_type=EXPERIENCE&searchTab=experiences",
+        "summary": "W Verbier’s festive programme lists New Year’s Eve at the W Living Room with dinner, DJ sounds, live entertainment and a midnight show. Party access is advertised from 23:00 until late, with reservations required.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-mouton-noir-apres-ski-dj-2026",
+        "title": "Le Mouton Noir Après-Ski & DJ Season",
+        "type": "residency",
+        "startDate": "2026-12-11",
+        "endDate": "2027-04-11",
+        "importance": 68,
+        "venueName": "Le Mouton Noir",
+        "venueId": null,
+        "sourceUrl": "https://www.kvhotels.com/en/altitude-restaurant-verbier-le-mouton-noir/",
+        "ticketUrl": null,
+        "summary": "Le Mouton Noir’s official page confirms its winter 2026/2027 season from 11 December 2026 to 11 April 2027 and bills the venue as a high-mountain restaurant, après-ski and DJ spot on the Ruinettes slopes. This is one of Verbier’s on-slope daytime party options.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "verbier-taratata-dj-set-season-2026",
+        "title": "Taratata Late-Night DJ-Set Season",
+        "type": "residency",
+        "startDate": "2026-12-03",
+        "endDate": "2027-04-30",
+        "importance": 65,
+        "venueName": "Taratata",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/taratata-verbier-en-3012181/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourisme confirms Taratata’s winter opening period from 3 December 2026 to 30 April 2027 and describes it as a festive late-night venue with DJ sets, dance and concert services. It is a restaurant-led nightlife pick rather than a one-off concert.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-farinet-lounge-djs-2026",
+        "title": "Farinet Lounge Bar Winter DJ Nights",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2027-04-24",
+        "importance": 64,
+        "venueName": "Farinet Lounge Bar",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-lounge-bar-lourtier-en-2788382/",
+        "ticketUrl": null,
+        "summary": "Farinet’s lounge season runs nightly from early December with cocktails from 16:00 and DJs taking over from 21:00, making it one of the resort’s core late-night dance options during the winter opening period.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-south-winter-club-2026",
+        "title": "SOUTH Restaurant & Club Winter Club Season",
+        "type": "residency",
+        "startDate": "2026-12-18",
+        "endDate": "2027-04-17",
+        "importance": 62,
+        "venueName": "SOUTH Restaurant & Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/south-restaurant-club-verbier-en-4557632/",
+        "ticketUrl": null,
+        "summary": "SOUTH reopens for the winter season as Farinet’s Asian-fusion dinner-to-nightclub room, with tables clearing after midnight for resident and guest DJs through the early hours.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      }
+    ]
   }
 }

@@ -1,0 +1,33 @@
+{
+  "slug": "marbella",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:23:34.753Z",
+  "responseId": "resp_03e5f859f370ebe5006acdb1fb815087d0a1c827a61238620c+resp_00bea63ade3bb877006acdb229880087d0bc104bb8f917cda2",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 8,
+    "year": 2027,
+    "notes": "No verified August 2027 Marbella scene-defining house, Afro house, hip-hop, R&B, afrobeats, or amapiano events were found on RA, DICE, Shotgun, Eventbrite, Fixr, Fourvenues, or visible promoter/venue listings; several comparable 2026 events and 2027 waitlists exist but without confirmed August 2027 dates.",
+    "events": [
+      {
+        "id": "marbella-la-oreja-starlite-2027",
+        "title": "La Oreja de Van Gogh at Starlite Occident Marbella",
+        "type": "concert",
+        "startDate": "2027-08-13",
+        "endDate": "2027-08-13",
+        "importance": 82,
+        "venueName": "Starlite Occident Marbella",
+        "venueId": null,
+        "sourceUrl": "https://starlitefestival.com/en/entradas/la-oreja-de-van-gogh",
+        "ticketUrl": "https://www.entradas.com/event/starlite-festival-la-oreja-de-van-gogh-starlite-marbella-starlite-marbella-22208298/?affiliate=F4L",
+        "summary": "La Oreja de Van Gogh are confirmed for Starlite Occident Marbella on Friday, 13 August 2027 at 22:00. The official Starlite page frames the show as part of the band's new era with Amaia Montero returning and its 30-year milestone.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

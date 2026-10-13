@@ -1,0 +1,290 @@
+{
+  "slug": "bangkok",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:15:19.042Z",
+  "responseId": "resp_05c4ac48966e1a24006acda15a35d487d094c2d6d4b5323427+resp_02a3acfe438e9f9b006acda1c03a8087d09adbf01c26ba5edd",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is anchored by New Year circuit-festival spillover, K-pop arena dates, and Bangkok’s independent club/showcase ecosystem around Silom and Charoenkrung.",
+    "events": [
+      {
+        "id": "bangkok-white-party-2027",
+        "title": "White Party Bangkok",
+        "type": "festival",
+        "startDate": "2026-12-29",
+        "endDate": "2027-01-03",
+        "importance": 93,
+        "venueName": "Paragon Hall & Nex Hall, Siam Paragon / The River Club",
+        "venueId": null,
+        "sourceUrl": "https://www.eventpop.me/e/159292",
+        "ticketUrl": "https://www.eventpop.me/e/159292",
+        "summary": "White Party Bangkok’s 10th-anniversary AmaXon edition runs six days across Siam Paragon venues and The River Club, continuing into January with circuit-dance parties and large-scale production.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-stray-kids-run-it-2027",
+        "title": "STRAY KIDS WORLD TOUR <RUN IT BANGKOK>",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-17",
+        "importance": 90,
+        "venueName": "Impact Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/27th_straykidsbkk",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/27th_straykidsbkk",
+        "summary": "Stray Kids play two Bangkok arena shows on 16 and 17 January 2027 as part of the RUN IT world tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-bangkok-music-city-2027",
+        "title": "Bangkok Music City 2027",
+        "type": "conference",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-31",
+        "importance": 88,
+        "venueName": "Charoenkrung Creative District",
+        "venueId": null,
+        "sourceUrl": "https://www.bmcfestival.com/",
+        "ticketUrl": "https://www.bmcfestival.com/faqs",
+        "summary": "Bangkok Music City returns on 30–31 January 2027 as a music conference and showcase festival featuring emerging artists and music-industry programming across the Charoenkrung Creative District.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-st-vincent-melt-livehouse-2027",
+        "title": "Melt Livehouse Idea Live: St. Vincent",
+        "type": "concert",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-22",
+        "importance": 82,
+        "venueName": "Bravo BKK",
+        "venueId": null,
+        "sourceUrl": "https://livein.city/bkk/concerts/melt-livehouse-idea-live-st-vincent-bravo-bkk-2027-01-22",
+        "ticketUrl": null,
+        "summary": "St. Vincent headlines Melt Livehouse Idea Live at Bravo BKK on 22 January 2027.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-westlife-anniversary-2027",
+        "title": "Westlife 25: The Anniversary World Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2027-01-25",
+        "endDate": "2027-01-25",
+        "importance": 82,
+        "venueName": "Impact Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_westlifebkk",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_westlifebkk",
+        "summary": "Westlife bring their 25th Anniversary World Tour to Impact Arena on 25 January 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-park-jinyoung-code-2027",
+        "title": "PARK JINYOUNG 1ST CONCERT TOUR [CODE#] IN BANGKOK",
+        "type": "concert",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-10",
+        "importance": 78,
+        "venueName": "Impact Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://thestandard.co/park-jinyoung-concert-thailand-impact/",
+        "ticketUrl": null,
+        "summary": "Park Jinyoung brings his first full solo concert tour in Thailand to Impact Arena for two nights on 9–10 January 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-boynextdoor-knock-on-2027",
+        "title": "BOYNEXTDOOR TOUR 'KNOCK ON Vol.2' IN BANGKOK",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 78,
+        "venueName": "Impact Arena, Muang Thong Thani",
+        "venueId": null,
+        "sourceUrl": "https://livein.city/bkk/concerts/boynextdoor-tour-knock-on-vol-2-in-bangkok-impact-arena-2027-01-30",
+        "ticketUrl": null,
+        "summary": "BOYNEXTDOOR bring the KNOCK ON Vol.2 tour to Impact Arena on 30 January 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-phahon-festival-2027",
+        "title": "PHAHON FESTIVAL MUSIC AT ESC PARK RANGSIT",
+        "type": "festival",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 76,
+        "venueName": "ESC Park Rangsit",
+        "venueId": null,
+        "sourceUrl": "https://www.musicfestival.in.th/en/festivals/phahon-festival-2027",
+        "ticketUrl": "https://www.ihaveticket.com/events/PHAHONFESTIVALMUSICATESCPARKRANGSIT?utm_medium=referral&utm_source=musicfestival.in.th",
+        "summary": "Phahon Festival brings Thai pop, R&B, hip-hop, pop-indie, luk thung and DJ/EDM acts to ESC Park Rangsit on 30 January 2027, with listed artists including Lamyai Haithongkham, Zom Marie, Gavin D, URBOYTJ, Oat Pramote and PROXIE.",
+        "genres": [
+          "festival",
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bangkok-more-rice-10th-2027",
+        "title": "More Rice 10th Year Starts",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-01-23/",
+        "ticketUrl": null,
+        "summary": "The kickoff for More Rice’s 10th year at Elsewhere; even with lineup still TBA, the label/promoter’s anniversary programming makes this a key underground Bangkok date to watch.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-blue-anniversary-2027",
+        "title": "BLUE 25TH ANNIVERSARY TOUR",
+        "type": "concert",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "importance": 74,
+        "venueName": "UOB Live Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_blue",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_blue",
+        "summary": "British pop/R&B group Blue perform their 25th Anniversary Tour at UOB Live Emsphere on 26 January 2027.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "bangkok-daft-funk-mustache-2027",
+        "title": "Daft Funk Live Thailand Premier Tour 2027 — Bangkok",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Mustache Bangkok",
+        "venueId": "mustache-bangkok",
+        "sourceUrl": "https://mustachebangkok.com/daft-funk-live/",
+        "ticketUrl": "https://mustachebangkok.com/daft-funk-live/",
+        "summary": "The Bangkok stop of Daft Funk’s Thailand tour brings a full live-band Daft Punk tribute production to Mustache, leaning into French house, disco-house and electronic nostalgia in a proper club room.",
+        "genres": [
+          "house",
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-roy-kim-roy-2027",
+        "title": "2026-27 ROY KIM LIVE TOUR [R:O:Y] in BANGKOK",
+        "type": "concert",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 70,
+        "venueName": "Phenix Grand Ballroom, Pantip Plaza",
+        "venueId": null,
+        "sourceUrl": "https://livein.city/bkk/concerts/2026-27-roy-kim-live-tour-r-o-y-in-bangkok-pantip-plaza-phenix-grand-ballroom-2027-01-16",
+        "ticketUrl": null,
+        "summary": "Roy Kim performs a Bangkok stop of his R:O:Y live tour at Phenix Grand Ballroom on 16 January 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-elsewhere-jirus-all-night-long-2027",
+        "title": "All Night Long: JIRUS",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 70,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/programme/",
+        "ticketUrl": null,
+        "summary": "Elsewhere’s January programme lists an All Night Long session with Bangkok selector JIRUS on 29 January 2027.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bangkok-chant-down-babylon-2027",
+        "title": "Chant Down Babylon",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Bangkok Island",
+        "venueId": null,
+        "sourceUrl": "https://bangkokisland.com/event/chant-down-babylon/?_wpnonce=a6858eee97&action=mpwem_date_29981&date=1799431200",
+        "ticketUrl": "https://bangkokisland.com/event/chant-down-babylon/?_wpnonce=a6858eee97&action=mpwem_date_29981&date=1799431200",
+        "summary": "A riverside reggae/roots/dancehall community night on Bangkok Island with Srirajah Rockers and Rootsman Creation, built around live bass-heavy grooves rather than a standard club format.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-centara-pool-party-2027",
+        "title": "Centara Pool Party | 9 January",
+        "type": "beach-club",
+        "startDate": "2027-01-09",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Pool Deck at Centara Grand at CentralWorld",
+        "venueId": null,
+        "sourceUrl": "https://bangkok-rooftops.com/events/centara-pool-party-9-january-2027/",
+        "ticketUrl": "https://bangkok-rooftops.com/events/centara-pool-party-9-january-2027/",
+        "summary": "Bangkok Rooftops’ season-opening pool/day party, running 3pm–10pm with DJ sets, skyline sunset energy, and an official after-party upstairs at Cru Champagne Bar until 1am.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bangkok-dott-etchar-elsewhere-2027",
+        "title": "Elsewhere: DOTT + Etchar",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Elsewhere Bangkok",
+        "venueId": null,
+        "sourceUrl": "https://elsewherebangkok.com/events/elsewhere-2027-01-16/",
+        "ticketUrl": null,
+        "summary": "A Saturday late-night Elsewhere session pairing Bangkok underground fixture DOTT with Etchar, representative of the city’s more music-led house/techno club circuit.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

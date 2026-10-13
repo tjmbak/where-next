@@ -2,63 +2,386 @@
   "slug": "new-york",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:13:15.537Z",
-  "responseId": "resp_0119109bd7ad521a0069ff5c9972bc81a09928b69c11d8d018",
-  "searchCalls": 15,
-  "citations": [],
+  "generatedAt": "2026-10-13T04:52:23.953Z",
+  "responseId": "manual:circoloco-halloween-2026",
+  "searchCalls": 0,
+  "citations": [
+    {
+      "url": "https://dice.fm/event/7dxmrb-teksupport-circoloco-halloween-fri-sold-out-30th-oct-brooklyn-storehouse-new-york-city-tickets",
+      "title": "Circoloco Halloween (Night 1)"
+    },
+    {
+      "url": "https://dice.fm/event/pyw9aw-teksupport-circoloco-halloween-sat-sold-out-31st-oct-brooklyn-storehouse-new-york-city-tickets",
+      "title": "Circoloco Halloween (Night 2)"
+    }
+  ],
   "data": {
     "destinationSlug": "new-york",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is already anchored by major arena pop/Latin dates, Forest Hills outdoor concerts, and Mondo.NYC’s music-tech showcase week, with more club programming likely to be announced closer to fall.",
+    "notes": "October 2026 in New York is anchored by Robtober and Mondo.NYC, with the most travel-worthy nightlife clustered around Brooklyn/Queens house, techno, diaspora, and queer dance-floor institutions.",
     "events": [
       {
-        "id": "new-york-sleepy-hollow-music-festival-2026",
-        "title": "Sleepy Hollow Music Festival",
-        "type": "festival",
-        "startDate": "2026-10-03",
-        "endDate": "2026-10-03",
-        "importance": 73,
-        "venueName": "Kingsland Point Park",
+        "id": "new-york-harry-styles-harryween-2026",
+        "title": "Harry Styles: Together, Together. Harryween.",
+        "type": "residency",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 96,
+        "venueName": "Madison Square Garden",
         "venueId": null,
-        "sourceUrl": "https://www.iloveny.com/thebeat/post/bands-announced-for-the-3rd-annual-sleepy-hollow-music-festival-october-3rd-2026/",
-        "ticketUrl": null,
-        "summary": "The third annual Sleepy Hollow Music Festival is confirmed for October 3 at Kingsland Point Park, with Everclear, The Smithereens with Marshall Crenshaw, Fastball, Sophie B. Hawkins and more announced.",
+        "sourceUrl": "https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B00643506DA83DE",
+        "ticketUrl": "https://www.ticketmaster.com/event/3B00643506DA83DE",
+        "summary": "Harry Styles’ 30-show Madison Square Garden run includes the October 31 Harryween performance, part of the Together, Together world tour.",
         "genres": [
-          "pop",
-          "festival"
-        ]
-      },
-      {
-        "id": "new-york-cristian-castro-2026",
-        "title": "Cristian Castro: Nada Solo Éxitos Tour 2026",
-        "type": "concert",
-        "startDate": "2026-10-02",
-        "endDate": "2026-10-02",
-        "importance": 74,
-        "venueName": "Infosys Theater at MSG",
-        "venueId": null,
-        "sourceUrl": "https://www.msg.com/events-tickets/cristian-castro-infosys-theater-at-madison-square-garden-october-2026/3B00644BAD974AB4",
-        "ticketUrl": "https://www.ticketmaster.com/artist/844826",
-        "summary": "Cristian Castro brings his Nada Solo Éxitos Tour 2026 to Infosys Theater at MSG on Friday, October 2.",
-        "genres": [
-          "latin",
           "pop"
         ]
       },
       {
-        "id": "new-york-geese-forest-hills-2026",
-        "title": "Geese: Getting Killed Again Tour",
-        "type": "concert",
-        "startDate": "2026-10-03",
-        "endDate": "2026-10-03",
-        "importance": 72,
-        "venueName": "Forest Hills Stadium",
+        "id": "new-york-circoloco-halloween-fri-2026",
+        "title": "Circoloco Halloween (Night 1)",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 93,
+        "venueName": "Brooklyn Storehouse",
         "venueId": null,
-        "sourceUrl": "https://www.axs.com/events/1428055/geese-tickets",
-        "ticketUrl": "https://www.axs.com/events/1428055/geese-tickets",
-        "summary": "Brooklyn band Geese headline Forest Hills Stadium on October 3 as part of the Getting Killed Again Tour.",
+        "sourceUrl": "https://dice.fm/event/7dxmrb-teksupport-circoloco-halloween-fri-sold-out-30th-oct-brooklyn-storehouse-new-york-city-tickets",
+        "ticketUrl": "https://dice.fm/event/7dxmrb-teksupport-circoloco-halloween-fri-sold-out-30th-oct-brooklyn-storehouse-new-york-city-tickets",
+        "summary": "Circoloco's Halloween weekend opens at the Brooklyn Navy Yard with &ME, Mochakk, Seth Troxler, Rampa, Carlita, MAP.ACHE, Beltran, and Konstantin. Presented by Teksupport; sold out, resale only.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-circoloco-halloween-sat-2026",
+        "title": "Circoloco Halloween (Night 2)",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 92,
+        "venueName": "Brooklyn Storehouse",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/pyw9aw-teksupport-circoloco-halloween-sat-sold-out-31st-oct-brooklyn-storehouse-new-york-city-tickets",
+        "ticketUrl": "https://dice.fm/event/pyw9aw-teksupport-circoloco-halloween-sat-sold-out-31st-oct-brooklyn-storehouse-new-york-city-tickets",
+        "summary": "Night two of Circoloco Halloween at Brooklyn Storehouse with Dixon, ANOTR, Jimi Jules, Aline Umber, Jamback, KROL, and Rossi. Presented by Teksupport; sold out, resale only.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-mondo-nyc-2026",
+        "title": "Mondo.NYC Music Business Conference & Showcase Festival",
+        "type": "conference",
+        "startDate": "2026-10-13",
+        "endDate": "2026-10-16",
+        "importance": 90,
+        "venueName": "Arlo Williamsburg Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.mondo.nyc/conference",
+        "ticketUrl": "https://www.mondo.nyc/conference",
+        "summary": "Mondo.NYC returns October 13–16 with panels, networking, and artist showcases based at Arlo Williamsburg and independent NYC venues. The 2026 edition lists 45+ panels, 200+ speakers, and 35+ artist showcases.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-berliner-philharmoniker-opening-gala-2026",
+        "title": "Carnegie Hall Opening Night Gala: Berliner Philharmoniker, Kirill Petrenko & Jonas Kaufmann",
+        "type": "concert",
+        "startDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "importance": 88,
+        "venueName": "Carnegie Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57029/",
+        "ticketUrl": null,
+        "summary": "The Berliner Philharmoniker’s Carnegie Hall appearance on October 8 features conductor Kirill Petrenko and tenor Jonas Kaufmann as part of the orchestra’s tour calendar.",
         "genres": []
+      },
+      {
+        "id": "new-york-honey-dijon-day-night-2026",
+        "title": "Honey Dijon: Day & Night",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 87,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2513628",
+        "ticketUrl": "https://ra.co/events/2513628",
+        "summary": "Honey Dijon leads a day-into-night Knockdown Center takeover with Luke Solomon, Anastazja, and Derrick Carter. The event is built around Chicago-rooted house and disco-driven club culture at one of Queens’ key large-scale dance venues.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-robert-glasper-robtober-2026",
+        "title": "Robert Glasper “Robtober” Residency",
+        "type": "residency",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-04",
+        "importance": 86,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.bluenotejazz.com/nyc/tm-event/robert-glasper-9/",
+        "ticketUrl": null,
+        "summary": "Robert Glasper opens his acclaimed October Blue Note residency with an October 1–4 run. The residency blends jazz, R&B, and hip-hop collaborations in the intimate Greenwich Village club setting.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-music-on-pacha-2026",
+        "title": "Music On: Marco Carola, Franky Rizardo, Mason Collective",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 86,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2544573",
+        "ticketUrl": "https://ra.co/events/2544573",
+        "summary": "Marco Carola’s Music On lands at Pacha New York with Franky Rizardo and Mason Collective. The night centers on rolling tech-house and big-room underground grooves.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-mala-junta-basement-2026",
+        "title": "Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 85,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533887",
+        "ticketUrl": "https://ra.co/events/2533887",
+        "summary": "Berlin collective Mala Junta takes over BASEMENT with Yazzus, Akua, and FASHION in the main room, plus DJ TOOL, Kilopatrah Jones, and Alfonso Javier in STUDIO. It is a high-profile techno and queer-underground booking for NYC’s warehouse circuit.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-animalia-nonstop-nowadays-2026",
+        "title": "Animalia Nonstop: Fred P, Kia, Louis Marlo (live), Mia Koden, Moopie, Simisea",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 84,
+        "venueName": "Nowadays",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2522249",
+        "ticketUrl": "https://ra.co/events/2522249",
+        "summary": "Nowadays hosts an Animalia Nonstop marathon with Fred P, Kia, Louis Marlo live, Mia Koden, Moopie, and Simisea. The lineup connects deep house, techno, UK bass pressure, and psychedelic club music across an extended session.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-wata-igarashi-basement-2026",
+        "title": "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533880",
+        "ticketUrl": "https://ra.co/events/2533880",
+        "summary": "Wata Igarashi returned to BASEMENT for a special all-night hypnotic techno set, while STUDIO hosted ISAbella, Subb-an and Meilgaarden across queer rave, electro and rolling house strains.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-zenker-pangaea-basement-2026",
+        "title": "Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533870",
+        "ticketUrl": "https://ra.co/events/2533870",
+        "summary": "A heavy BASEMENT bill linking Ilian Tape, Hessle Audio and UK bass-techno currents with The Carry Nation and Analog Soul in STUDIO for a house-rooted counterpoint.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-ra25-2026",
+        "title": "RA25: New York City",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Good Room",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497459",
+        "ticketUrl": "https://ra.co/events/2497459",
+        "summary": "Resident Advisor’s 25th-anniversary New York stop at Good Room featured Nick León, Galcher Lustwerk, adobeprincess, Stacey Hotwaxx Hale b2b Kilopatrah Jones, Special Guest DJ and Baalti.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-city-of-gods-2026",
+        "title": "City Of Gods Halloween Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-25",
+        "importance": 83,
+        "venueName": "City of Gods Festival at Industry City",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/en/festivals/cityofgods2026",
+        "ticketUrl": "https://r.shotgun.live/en/festivals/cityofgods2026",
+        "summary": "City of Gods’ large-scale Halloween weekender returned to Industry City with House of Yes and ZERO involved, positioned around house, techno, deep house and immersive nightlife spectacle.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-black-coffee-pacha-2026",
+        "title": "Black Coffee",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 83,
+        "venueName": "Pacha New York",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2442818",
+        "ticketUrl": "https://ra.co/events/2442818",
+        "summary": "Black Coffee brings his globally influential Afro-house and deep-house sound to Pacha New York for a late-night Brooklyn club takeover.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-beabadoobee-msg-2026",
+        "title": "beabadoobee: The Powerlines Tour",
+        "type": "concert",
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-05",
+        "importance": 82,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-new-york-new-york-10-05-2026/event/3B0064D1CF355790",
+        "ticketUrl": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-new-york-new-york-10-05-2026/event/3B0064D1CF355790",
+        "summary": "beabadoobee brings The Powerlines Tour to Madison Square Garden. This is one of the month’s major arena-level pop/indie concerts in Manhattan.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-battle-hymn-holiday-weekend-2026",
+        "title": "Battle Hymn - Holiday Weekend",
+        "type": "club-night",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 82,
+        "venueName": "Rumi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2535522",
+        "ticketUrl": "https://ra.co/events/2535522",
+        "summary": "Ladyfag’s Battle Hymn returns for a holiday-weekend Sunday session at Rumi with Kim Anh and resident Tedd Patterson. The party is one of NYC’s signature queer house-music gatherings.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-fist-basement-october-2026",
+        "title": "FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 82,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533906",
+        "ticketUrl": "https://ra.co/events/2533906",
+        "summary": "FIST takes over BASEMENT with Lacchesi, Nene H, Word of Command, and DJ Clone in the main room, plus Jubilee, Mez Monty, and Connor Wrong in STUDIO. The bill pushes heavy techno, electro, bass, grime, and house across the venue’s no-photo dance floors.",
+        "genres": [
+          "techno",
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-book-club-radio-2026",
+        "title": "Book Club Radio Festival #2: The Outer Rim",
+        "type": "festival",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-04",
+        "importance": 82,
+        "venueName": "Brooklyn Roots Collective",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2417784",
+        "ticketUrl": "https://shotgun.live/en/festivals/bookclubradiofest2",
+        "summary": "Book Club Radio’s no-phones warehouse festival took over Brooklyn Roots Collective and SILO with Tinzo, Jojo Lorenzo, Machinedrum, Mark Farina, Hiroko Yamamura, Byron the Aquarius, MikeQ, Nikki Nair, Soul Summit, Toribio and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-descendants-dj-tira-2026",
+        "title": "DESCENDANTS with DJ TIRA, Danni Gato & More",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "99 Scott Ave",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2541208",
+        "ticketUrl": "https://ra.co/events/2541208",
+        "summary": "NY-born Afro-electronic platform DESCENDANTS hosted Durban gqom and house icon DJ TIRA with Danni Gato, Meedy, Pizzi and Val Fleury for a major Afro Tech night.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-dr-rubinstein-basement-2026",
+        "title": "Dr. Rubinstein / The Advent / 98dots / Jay Jackson / Lauren Flax / Rumi de Baires",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "BASEMENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2533898",
+        "ticketUrl": "https://ra.co/events/2533898",
+        "summary": "BASEMENT hosted an acid-techno and rave-heavy lineup led by Dr. Rubinstein and The Advent, with STUDIO sets from Jay Jackson, Lauren Flax and Rumi de Baires.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
       },
       {
         "id": "new-york-monsta-x-2026",
@@ -77,18 +400,71 @@
         ]
       },
       {
-        "id": "new-york-berliner-philharmoniker-opening-gala-2026",
-        "title": "Carnegie Hall Opening Night Gala: Berliner Philharmoniker, Kirill Petrenko & Jonas Kaufmann",
-        "type": "concert",
-        "startDate": "2026-10-08",
-        "endDate": "2026-10-08",
-        "importance": 88,
-        "venueName": "Carnegie Hall",
+        "id": "new-york-nonstop-nowadays-2026",
+        "title": "Nonstop: EscaFlowne, Honey Bun, Main Phase, Nicola Cruz, Peach, Rose Kourts",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": null,
+        "importance": 81,
+        "venueName": "Nowadays",
         "venueId": null,
-        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57029/",
-        "ticketUrl": null,
-        "summary": "The Berliner Philharmoniker’s Carnegie Hall appearance on October 8 features conductor Kirill Petrenko and tenor Jonas Kaufmann as part of the orchestra’s tour calendar.",
-        "genres": []
+        "sourceUrl": "https://ra.co/events/2522252",
+        "ticketUrl": "https://ra.co/events/2522252",
+        "summary": "Nowadays’ extended Nonstop format ran from night into afternoon with EscaFlowne, Main Phase, Honey Bun, Rose Kourts, Nicola Cruz and Peach across house, bass, garage and Latin-inflected club rhythms.",
+        "genres": [
+          "house",
+          "electronic",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-mister-sunday-long-weekend-2026",
+        "title": "Mister Sunday Long Weekend Edition: Justin Carter and Eamon Harkin",
+        "type": "club-night",
+        "startDate": "2026-10-11",
+        "endDate": "2026-10-11",
+        "importance": 80,
+        "venueName": "Nowadays",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2503325",
+        "ticketUrl": "https://ra.co/events/2503325",
+        "summary": "Mister Sunday’s long-weekend edition brings Justin Carter and Eamon Harkin back to Nowadays for an afternoon-into-evening dance. The party is a cornerstone of New York’s outdoor/early-evening house scene.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-gryffin-under-k-2026",
+        "title": "Gryffin",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 80,
+        "venueName": "Under the K Bridge Park",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1364819/gryffin-tickets",
+        "ticketUrl": "https://www.axs.com/events/1364819/gryffin-tickets",
+        "summary": "Gryffin headlines Under the K Bridge Park in Brooklyn on October 17, with Łaszewo and AR/CO also listed.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-rawayana-2026",
+        "title": "Rawayana: ¿Dónde Es El After? World Tour",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 80,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/rawayana",
+        "ticketUrl": "https://www.ticketmaster.com/event/3000646BAB604050",
+        "summary": "Rawayana brings the ¿Dónde Es El After? World Tour to Barclays Center in Brooklyn on October 31.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
       },
       {
         "id": "new-york-foster-the-people-2026",
@@ -104,22 +480,6 @@
         "summary": "Foster The People play Forest Hills Stadium on October 10 with Goth Babe listed on the bill.",
         "genres": [
           "pop"
-        ]
-      },
-      {
-        "id": "new-york-mondo-nyc-2026",
-        "title": "Mondo.NYC Music & Technology Conference and Showcase",
-        "type": "conference",
-        "startDate": "2026-10-13",
-        "endDate": "2026-10-16",
-        "importance": 78,
-        "venueName": "Arlo Williamsburg and NYC showcase venues",
-        "venueId": null,
-        "sourceUrl": "https://www.mondo.nyc/",
-        "ticketUrl": "https://www.mondo.nyc/",
-        "summary": "Mondo.NYC returns October 13–16 as a music-and-technology business conference with an artist showcase festival across NYC venues.",
-        "genres": [
-          "festival"
         ]
       },
       {
@@ -140,22 +500,6 @@
         ]
       },
       {
-        "id": "new-york-gryffin-under-k-2026",
-        "title": "Gryffin",
-        "type": "concert",
-        "startDate": "2026-10-17",
-        "endDate": "2026-10-17",
-        "importance": 80,
-        "venueName": "Under the K Bridge Park",
-        "venueId": null,
-        "sourceUrl": "https://www.axs.com/events/1364819/gryffin-tickets",
-        "ticketUrl": "https://www.axs.com/events/1364819/gryffin-tickets",
-        "summary": "Gryffin headlines Under the K Bridge Park in Brooklyn on October 17, with Łaszewo and AR/CO also listed.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
         "id": "new-york-eros-ramazzotti-2026",
         "title": "Eros Ramazzotti: Una Historia Importante",
         "type": "concert",
@@ -173,36 +517,156 @@
         ]
       },
       {
-        "id": "new-york-harry-styles-harryween-2026",
-        "title": "Harry Styles: Together, Together. Harryween.",
-        "type": "residency",
-        "startDate": "2026-10-31",
-        "endDate": "2026-10-31",
-        "importance": 96,
-        "venueName": "Madison Square Garden",
+        "id": "new-york-berlin-beyond-year-3-2026",
+        "title": "Berlin Beyond Year 3",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 78,
+        "venueName": "Industry City",
         "venueId": null,
-        "sourceUrl": "https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B00643506DA83DE",
-        "ticketUrl": "https://www.ticketmaster.com/event/3B00643506DA83DE",
-        "summary": "Harry Styles’ 30-show Madison Square Garden run includes the October 31 Harryween performance, part of the Together, Together world tour.",
+        "sourceUrl": "https://ra.co/events/2283407",
+        "ticketUrl": "https://ra.co/events/2283407",
+        "summary": "ZERO, House of Yes, Garbicz Festival and Kater Berlin reunite for the third Berlin Beyond, a 12-hour Industry City house/techno gathering with lineup pending.",
         "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-rush-kettama-2026",
+        "title": "RUSH presents: KETTAMA",
+        "type": "club-night",
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-08",
+        "importance": 75,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2450112",
+        "ticketUrl": "https://ra.co/events/2450112",
+        "summary": "Knockdown Center and RUSH bring KETTAMA to Queens for a late-night garage and tech-house session.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-cristian-castro-2026",
+        "title": "Cristian Castro: Nada Solo Éxitos Tour 2026",
+        "type": "concert",
+        "startDate": "2026-10-02",
+        "endDate": "2026-10-02",
+        "importance": 74,
+        "venueName": "Infosys Theater at MSG",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/cristian-castro-infosys-theater-at-madison-square-garden-october-2026/3B00644BAD974AB4",
+        "ticketUrl": "https://www.ticketmaster.com/artist/844826",
+        "summary": "Cristian Castro brings his Nada Solo Éxitos Tour 2026 to Infosys Theater at MSG on Friday, October 2.",
+        "genres": [
+          "latin",
           "pop"
         ]
       },
       {
-        "id": "new-york-rawayana-2026",
-        "title": "Rawayana: ¿Dónde Es El After? World Tour",
-        "type": "concert",
-        "startDate": "2026-10-31",
-        "endDate": "2026-10-31",
-        "importance": 80,
-        "venueName": "Barclays Center",
+        "id": "new-york-arodes-guests-2026",
+        "title": "ARODES & Guests",
+        "type": "club-night",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-10",
+        "importance": 74,
+        "venueName": "99 Scott Ave",
         "venueId": null,
-        "sourceUrl": "https://www.barclayscenter.com/events/detail/rawayana",
-        "ticketUrl": "https://www.ticketmaster.com/event/3000646BAB604050",
-        "summary": "Rawayana brings the ¿Dónde Es El After? World Tour to Barclays Center in Brooklyn on October 31.",
+        "sourceUrl": "https://ra.co/events/2450195",
+        "ticketUrl": "https://ra.co/events/2450195",
+        "summary": "Gray Area presents Arodes at 99 Scott for an extended Brooklyn appearance centered on melodic house and techno, with additional guests to be announced.",
         "genres": [
-          "latin",
-          "pop"
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-sleepy-hollow-music-festival-2026",
+        "title": "Sleepy Hollow Music Festival",
+        "type": "festival",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 73,
+        "venueName": "Kingsland Point Park",
+        "venueId": null,
+        "sourceUrl": "https://www.iloveny.com/thebeat/post/bands-announced-for-the-3rd-annual-sleepy-hollow-music-festival-october-3rd-2026/",
+        "ticketUrl": null,
+        "summary": "The third annual Sleepy Hollow Music Festival is confirmed for October 3 at Kingsland Point Park, with Everclear, The Smithereens with Marshall Crenshaw, Fastball, Sophie B. Hawkins and more announced.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-nursery-frank-tony-roman-flugel-2026",
+        "title": "The Nursery: Frank & Tony, Roman Flügel",
+        "type": "club-night",
+        "startDate": "2026-10-11",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Public Records",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412514",
+        "ticketUrl": "https://ra.co/events/2412514",
+        "summary": "Public Records’ Nursery series continues with local deep-house touchstones Frank & Tony alongside German electronic mainstay Roman Flügel.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-geese-forest-hills-2026",
+        "title": "Geese: Getting Killed Again Tour",
+        "type": "concert",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 72,
+        "venueName": "Forest Hills Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1428055/geese-tickets",
+        "ticketUrl": "https://www.axs.com/events/1428055/geese-tickets",
+        "summary": "Brooklyn band Geese headline Forest Hills Stadium on October 3 as part of the Getting Killed Again Tour.",
+        "genres": []
+      },
+      {
+        "id": "new-york-nursery-floorplan-carista-2026",
+        "title": "The Nursery: Floorplan, CARISTA",
+        "type": "club-night",
+        "startDate": "2026-10-04",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Public Records",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412508",
+        "ticketUrl": "https://ra.co/events/2412508",
+        "summary": "Public Records’ daytime Nursery series pairs Detroit-rooted house/techno force Floorplan with CARISTA for a Sunday dance-floor session.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-kein-klub-2026",
+        "title": "KEIN KLUB",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 71,
+        "venueName": "H0L0",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2334019",
+        "ticketUrl": "https://ra.co/events/2334019",
+        "summary": "Aionia’s recurring KEIN KLUB returns to H0L0 with Intergalactic Gary, Amelia Holt and TBA guests across two low-light rooms focused on raw, off-center techno and EBM.",
+        "genres": [
+          "techno",
+          "electronic"
         ]
       }
     ]

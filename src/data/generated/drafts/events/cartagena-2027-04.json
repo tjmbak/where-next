@@ -1,0 +1,16 @@
+{
+  "slug": "cartagena",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:50:46.020Z",
+  "responseId": "resp_067ca7acc9f7445e006acdaa13f24087d0aac8ce9212dc1d57+resp_0fad0512f539621d006acdaa4115a087d0bc6578a044513d70",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cartagena",
+    "month": 4,
+    "year": 2027,
+    "notes": "Searches across RA, DICE, Shotgun, Eventbrite, Fixr, Boiler Room, promoter/club link-in-bio pages, and Cartagena venue pages found no qualifying April 2027 underground or diaspora/genre event with a date-specific ticket/listing source; recurring tourist pub crawls and non-music festivals were omitted.",
+    "events": []
+  }
+}

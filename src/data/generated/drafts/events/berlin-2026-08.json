@@ -2,16 +2,50 @@
   "slug": "berlin",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:53:56.486Z",
-  "responseId": "resp_0c756f92fad05b700069ff580f8e8081a2be564266a51934b4",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:07:48.966Z",
+  "responseId": "augment:resp_0112cd8babefd085006a1b271148508199ab23328fd76fd343",
+  "searchCalls": 14,
   "citations": [],
   "data": {
     "destinationSlug": "berlin",
     "month": 8,
     "year": 2026,
-    "notes": null,
+    "notes": "Focused on confirmed ticket/listing pages for underground club nights, open-air parties, techno/house brands and diaspora-adjacent events; obvious arena shows are omitted.",
     "events": [
+      {
+        "id": "berlin-musikfest-2026",
+        "title": "Musikfest Berlin 2026",
+        "type": "festival",
+        "startDate": "2026-08-28",
+        "endDate": "2026-09-23",
+        "importance": 90,
+        "venueName": "Philharmonie Berlin, Konzerthaus Berlin, Haus der Berliner Festspiele and Deutsche Oper Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.berlinerfestspiele.de/en/press-release/2026/mfb26_gesamtprogramm_ist_ver-ffentlicht",
+        "ticketUrl": "https://www.berlinerfestspiele.de/",
+        "summary": "Berliner Festspiele and the Berliner Philharmoniker Foundation present Musikfest Berlin 2026 from 28 August to 23 September, opening with Ligeti’s Le Grand Macabre and featuring major international orchestras, choirs, ensembles and soloists.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-pop-kultur-2026",
+        "title": "Pop-Kultur Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-24",
+        "endDate": "2026-08-30",
+        "importance": 86,
+        "venueName": "Silent Green, Festsaal Kreuzberg, Kulturbrauerei and Pierre Boulez Saal",
+        "venueId": null,
+        "sourceUrl": "https://www.pop-kultur.berlin/programm/",
+        "ticketUrl": "https://tickets.pop-kultur.berlin",
+        "summary": "Pop-Kultur’s 2026 programme runs 24–30 August, with confirmed live listings including Bar Italia, Jassin, The Notwist, Avalon Emerson & the Charm, PVA and múm.",
+        "genres": [
+          "pop",
+          "electronic",
+          "hip-hop"
+        ]
+      },
       {
         "id": "berlin-young-euro-classic-2026",
         "title": "Young Euro Classic 2026",
@@ -30,37 +64,56 @@
         ]
       },
       {
-        "id": "berlin-alligatoah-wuhlheide-2026",
-        "title": "Alligatoah – 20 Jahre Jubiläumskonzert",
-        "type": "concert",
-        "startDate": "2026-08-01",
-        "endDate": "2026-08-01",
-        "importance": 74,
-        "venueName": "Parkbühne Wuhlheide",
+        "id": "berlin-magma-festival-2026",
+        "title": "MAGMA Festival | 08. & 09. August 2026",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 84,
+        "venueName": "RSO.BERLIN",
         "venueId": null,
-        "sourceUrl": "https://www.wuhlheide.de/programm/alligatoah/2026-08-01",
-        "ticketUrl": "https://www.ticketmaster.de/",
-        "summary": "Alligatoah plays the second Berlin date of his 20-year anniversary concert run at Parkbühne Wuhlheide, with doors at 17:00 and showtime at 19:00.",
+        "sourceUrl": "https://ra.co/events/2370094",
+        "ticketUrl": "https://ra.co/events/2370094",
+        "summary": "Second edition of MAGMA at RSO.BERLIN, pairing house, techno, bass and forward club music with Joy Orbison, Yaeji, DJ Travella, Anthony Naples, HiTech, Mia Koden, Doudou MD and more.",
         "genres": [
-          "hip-hop",
-          "pop"
+          "house",
+          "techno",
+          "electronic",
+          "festival"
         ]
       },
       {
-        "id": "berlin-havelbeats-potsdam-2026",
-        "title": "Havelbeats Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-08",
-        "importance": 70,
-        "venueName": "Waschhaus / Schiffbauergasse Potsdam",
+        "id": "berlin-west-eastern-divan-waldbuehne-2026",
+        "title": "West-Eastern Divan Orchestra, Daniel Barenboim & Yo-Yo Ma",
+        "type": "concert",
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-13",
+        "importance": 82,
+        "venueName": "Waldbühne Berlin",
         "venueId": null,
-        "sourceUrl": "https://schiffbauergasse.de/event/7761",
-        "ticketUrl": "https://www.havelbeats-festival.de",
-        "summary": "Two-day Havelbeats Festival in Potsdam’s Schiffbauergasse/Waschhaus area on 7 and 8 August 2026; the venue page says artist and ticket details will follow via the festival site.",
+        "sourceUrl": "https://west-eastern-divan.org/event/waldbuehne-berlin/2026_08_13_1900",
+        "ticketUrl": "https://www.boulezsaal.de/",
+        "summary": "The West-Eastern Divan Orchestra’s traditional Waldbühne concert features Daniel Barenboim and cellist Yo-Yo Ma, with Dvořák’s Cello Concerto and orchestral repertoire on the programme.",
         "genres": [
-          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-village-lunacy-2026",
+        "title": "The Village Festival Berlin - House of Lunacy & The Extended Luniverse",
+        "type": "festival",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-22",
+        "importance": 82,
+        "venueName": "CLUB OST & RENATE BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430600",
+        "ticketUrl": "https://ra.co/events/2430600",
+        "summary": "House of Lunacy expands into a 24-hour, two-venue immersive art, performance and music festival spanning Club OST and Renate with a strict costume concept and sex-positive framework.",
+        "genres": [
           "electronic",
+          "house",
+          "techno",
           "festival"
         ]
       },
@@ -83,6 +136,22 @@
         ]
       },
       {
+        "id": "berlin-annenmaykantereit-wuhlheide-2026",
+        "title": "AnnenMayKantereit – Live 2026",
+        "type": "concert",
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-15",
+        "importance": 79,
+        "venueName": "Parkbühne Wuhlheide",
+        "venueId": null,
+        "sourceUrl": "https://www.visitberlin.de/en/event/annenmaykantereit",
+        "ticketUrl": null,
+        "summary": "AnnenMayKantereit are confirmed for three Berlin evenings at Parkbühne Wuhlheide on 13, 14 and 15 August 2026 as part of their Live 2026 tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
         "id": "berlin-escalation-fest-2026",
         "title": "Escalation Fest – Berlin Edition: Electric Callboy",
         "type": "festival",
@@ -101,38 +170,6 @@
         ]
       },
       {
-        "id": "berlin-annenmaykantereit-wuhlheide-2026",
-        "title": "AnnenMayKantereit – Live 2026",
-        "type": "concert",
-        "startDate": "2026-08-13",
-        "endDate": "2026-08-15",
-        "importance": 79,
-        "venueName": "Parkbühne Wuhlheide",
-        "venueId": null,
-        "sourceUrl": "https://www.visitberlin.de/en/event/annenmaykantereit",
-        "ticketUrl": null,
-        "summary": "AnnenMayKantereit are confirmed for three Berlin evenings at Parkbühne Wuhlheide on 13, 14 and 15 August 2026 as part of their Live 2026 tour.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "berlin-west-eastern-divan-waldbuehne-2026",
-        "title": "West-Eastern Divan Orchestra, Daniel Barenboim & Yo-Yo Ma",
-        "type": "concert",
-        "startDate": "2026-08-13",
-        "endDate": "2026-08-13",
-        "importance": 82,
-        "venueName": "Waldbühne Berlin",
-        "venueId": null,
-        "sourceUrl": "https://west-eastern-divan.org/event/waldbuehne-berlin/2026_08_13_1900",
-        "ticketUrl": "https://www.boulezsaal.de/",
-        "summary": "The West-Eastern Divan Orchestra’s traditional Waldbühne concert features Daniel Barenboim and cellist Yo-Yo Ma, with Dvořák’s Cello Concerto and orchestral repertoire on the programme.",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
         "id": "berlin-deftones-wuhlheide-2026",
         "title": "Deftones – Summer 2026",
         "type": "concert",
@@ -147,20 +184,108 @@
         "genres": []
       },
       {
-        "id": "berlin-omd-citadel-2026",
-        "title": "OMD – Summer of Hits",
-        "type": "concert",
-        "startDate": "2026-08-18",
-        "endDate": "2026-08-18",
-        "importance": 72,
-        "venueName": "Zitadelle Spandau",
+        "id": "berlin-bcco-hive-2026",
+        "title": "BCCO x HIVE",
+        "type": "club-night",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-16",
+        "importance": 78,
+        "venueName": "DSTRKT Club Berlin",
         "venueId": null,
-        "sourceUrl": "https://citadel-music-festival.de/en/event/2026-08-18-omd",
-        "ticketUrl": "https://www.eventim.de/",
-        "summary": "Orchestral Manoeuvres in the Dark play Zitadelle Spandau with support from Zoot Woman as part of OMD’s Summer of Hits open-air run.",
+        "sourceUrl": "https://ra.co/events/2331787",
+        "ticketUrl": "https://ra.co/events/2331787",
+        "summary": "A post–Rave The Planet collaboration between BCCO and HIVE at DSTRKT, focused on techno and trance with lineup still TBA.",
         "genres": [
-          "electronic",
-          "pop"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-synoid-2026",
+        "title": "SYNOID",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-08",
+        "importance": 78,
+        "venueName": "ÆDEN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2202971",
+        "ticketUrl": "https://ra.co/events/2202971",
+        "summary": "A confirmed August edition of Berlin techno institution SYNOID at ÆDEN, currently listed with full details to follow.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-else-birthday-weekender-2026",
+        "title": "Else 13th Birthday Weekender: 40 hours nonstop",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-10",
+        "importance": 77,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2372751",
+        "ticketUrl": "https://ra.co/events/2372751",
+        "summary": "Else marks its 13th birthday with a 40-hour open-air and club weekender featuring Blue Hour, Kameliia, Len Faki, Matrixxman, nthng, Stephanie Sykes, Vincent Neumann and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-polyamor-goat-ball-2026",
+        "title": "Polyamor X GOAT BALL 34h Weekender",
+        "type": "club-night",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-23",
+        "importance": 77,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2332863",
+        "ticketUrl": "https://ra.co/events/2332863",
+        "summary": "Polyamor and GOAT BALL join forces for a 34-hour Lokschuppen weekender spanning trance and techno with a broad local-and-underground lineup.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-dj-gigola-bigroom-sensual-2026",
+        "title": "Else x DJ Gigola pres. Bigroom Sensual",
+        "type": "club-night",
+        "startDate": "2026-08-23",
+        "endDate": "2026-08-24",
+        "importance": 77,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2403710",
+        "ticketUrl": "https://ra.co/events/2403710",
+        "summary": "DJ Gigola brings the Bigroom Sensual concept to Else for a Sunday open-air and indoor session with DJ Babatr, LB aka LABAT, LYZZA, SWART, ALCATRAZ b2b Margo XS and Luke Hovey.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-else-nachti-2026",
+        "title": "Else x Nachti",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-03",
+        "importance": 77,
+        "venueName": "Else",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2414903",
+        "ticketUrl": "https://ra.co/events/2414903",
+        "summary": "Nachtdigital’s Nachti spirit lands at Else for a long Sunday open-air and club session with Courtesy, Dahmar, Danielle, DJ MILLE, Elias Mazian, Jenny Cara and Moopie.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -180,36 +305,54 @@
         ]
       },
       {
-        "id": "berlin-pop-kultur-2026",
-        "title": "Pop-Kultur Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-24",
-        "endDate": "2026-08-30",
-        "importance": 86,
-        "venueName": "Silent Green, Festsaal Kreuzberg, Kulturbrauerei and Pierre Boulez Saal",
+        "id": "berlin-alligatoah-wuhlheide-2026",
+        "title": "Alligatoah – 20 Jahre Jubiläumskonzert",
+        "type": "concert",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 74,
+        "venueName": "Parkbühne Wuhlheide",
         "venueId": null,
-        "sourceUrl": "https://www.pop-kultur.berlin/programm/",
-        "ticketUrl": "https://tickets.pop-kultur.berlin",
-        "summary": "Pop-Kultur’s 2026 programme runs 24–30 August, with confirmed live listings including Bar Italia, Jassin, The Notwist, Avalon Emerson & the Charm, PVA and múm.",
+        "sourceUrl": "https://www.wuhlheide.de/programm/alligatoah/2026-08-01",
+        "ticketUrl": "https://www.ticketmaster.de/",
+        "summary": "Alligatoah plays the second Berlin date of his 20-year anniversary concert run at Parkbühne Wuhlheide, with doors at 17:00 and showtime at 19:00.",
         "genres": [
-          "pop",
-          "electronic",
-          "hip-hop"
+          "hip-hop",
+          "pop"
         ]
       },
       {
-        "id": "berlin-musikfest-2026",
-        "title": "Musikfest Berlin 2026",
-        "type": "festival",
-        "startDate": "2026-08-28",
-        "endDate": "2026-09-23",
-        "importance": 90,
-        "venueName": "Philharmonie Berlin, Konzerthaus Berlin, Haus der Berliner Festspiele and Deutsche Oper Berlin",
+        "id": "berlin-omd-citadel-2026",
+        "title": "OMD – Summer of Hits",
+        "type": "concert",
+        "startDate": "2026-08-18",
+        "endDate": "2026-08-18",
+        "importance": 72,
+        "venueName": "Zitadelle Spandau",
         "venueId": null,
-        "sourceUrl": "https://www.berlinerfestspiele.de/en/press-release/2026/mfb26_gesamtprogramm_ist_ver-ffentlicht",
-        "ticketUrl": "https://www.berlinerfestspiele.de/",
-        "summary": "Berliner Festspiele and the Berliner Philharmoniker Foundation present Musikfest Berlin 2026 from 28 August to 23 September, opening with Ligeti’s Le Grand Macabre and featuring major international orchestras, choirs, ensembles and soloists.",
+        "sourceUrl": "https://citadel-music-festival.de/en/event/2026-08-18-omd",
+        "ticketUrl": "https://www.eventim.de/",
+        "summary": "Orchestral Manoeuvres in the Dark play Zitadelle Spandau with support from Zoot Woman as part of OMD’s Summer of Hits open-air run.",
         "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-havelbeats-potsdam-2026",
+        "title": "Havelbeats Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-08",
+        "importance": 70,
+        "venueName": "Waschhaus / Schiffbauergasse Potsdam",
+        "venueId": null,
+        "sourceUrl": "https://schiffbauergasse.de/event/7761",
+        "ticketUrl": "https://www.havelbeats-festival.de",
+        "summary": "Two-day Havelbeats Festival in Potsdam’s Schiffbauergasse/Waschhaus area on 7 and 8 August 2026; the venue page says artist and ticket details will follow via the festival site.",
+        "genres": [
+          "techno",
+          "electronic",
           "festival"
         ]
       }

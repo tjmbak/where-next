@@ -1,0 +1,16 @@
+{
+  "slug": "tulum",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:29:25.644Z",
+  "responseId": "resp_0a401a1aef0d869a006acda53e91f887d09ba647e657c14606+resp_006a3afec0f74712006acda55ee06887d09e83dc8696feb27e",
+  "searchCalls": 25,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tulum",
+    "month": 3,
+    "year": 2027,
+    "notes": "No confirmed in-scope March 2027 music events were found during this research pass; the announced 2027 Tulum music calendar is still concentrated around the January high-season run.",
+    "events": []
+  }
+}

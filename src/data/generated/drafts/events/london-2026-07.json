@@ -2,9 +2,9 @@
   "slug": "london",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:00:21.068Z",
-  "responseId": "resp_095b81ffa5fc264b0069ff597eb48081a09ce57cb5f5de7898",
-  "searchCalls": 17,
+  "generatedAt": "2026-05-30T18:21:48.338Z",
+  "responseId": "augment:resp_0ca3bdf5033f4487006a1b2a3a2c7c819890bd87e3b80e2dbc",
+  "searchCalls": 14,
   "citations": [],
   "data": {
     "destinationSlug": "london",
@@ -45,6 +45,186 @@
         ]
       },
       {
+        "id": "london-bst-duran-duran-2026",
+        "title": "BST Hyde Park: Duran Duran",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 93,
+        "venueName": "Hyde Park",
+        "venueId": null,
+        "sourceUrl": "https://www.royalparks.org.uk/whats-on/bst-hyde-park-2026",
+        "ticketUrl": "https://www.royalparks.org.uk/whats-on/bst-hyde-park-2026",
+        "summary": "BST Hyde Park’s July run includes a confirmed Duran Duran headline date on Sunday 5 July 2026. The Royal Parks page lists the broader BST 2026 concert series in Hyde Park.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-junction2-fabric-2026",
+        "title": "Junction 2 x fabric",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 88,
+        "venueName": "Boston Manor Park",
+        "venueId": null,
+        "sourceUrl": "https://www.fabriclondon.com/event/fabric-x-junction-2",
+        "ticketUrl": "https://www.fabriclondon.com/event/fabric-x-junction-2",
+        "summary": "fabric and Junction 2 team up at Boston Manor Park for a full-day electronic programme. The confirmed bill includes Nina Kraviz, Jeff Mills, Marcel Dettmann b2b DJ Hell, GiGi FM b2b Polygonia, Nicolas Lutz and Francesco Del Garda.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-somerset-summer-series-2026",
+        "title": "Somerset House Summer Series with American Express",
+        "type": "festival",
+        "startDate": "2026-07-16",
+        "endDate": "2026-07-26",
+        "importance": 86,
+        "venueName": "Somerset House",
+        "venueId": null,
+        "sourceUrl": "https://www.somersethouse.org.uk/press/somerset-house-summer-series-with-american-express-announces-2026-festival-line-up",
+        "ticketUrl": "https://www.somersethouse.org.uk/whats-on/somerset-house-summer-series",
+        "summary": "Somerset House Summer Series returns for 11 nights in the courtyard from 16–26 July 2026. Confirmed headliners include Naïka, Palace, Thee Sacred Souls, Lightning Seeds, The Cribs, Agnes Obel, Black Country, New Road, Venna, Raf-Saperra, The Flaming Lips and Benjamin Clementine.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-wolf-alice-finsbury-2026",
+        "title": "Wolf Alice at Finsbury Park",
+        "type": "concert",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 84,
+        "venueName": "Finsbury Park",
+        "venueId": null,
+        "sourceUrl": "https://www.festivalrepublic.com/events/finsbury-park/wolf-alice",
+        "ticketUrl": "https://www.festivalrepublic.com/events/finsbury-park/wolf-alice",
+        "summary": "Wolf Alice play a major homecoming show at Finsbury Park, described by Festival Republic as their biggest show to date. The bill includes The Last Dinner Party, Lykke Li, Rachel Chinouriri, Keo and Florence Road.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-kaleidoscope-alexandra-palace-2026",
+        "title": "Kaleidoscope Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-11",
+        "importance": 84,
+        "venueName": "Alexandra Palace Park",
+        "venueId": null,
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival/",
+        "summary": "Kaleidoscope Festival returns to Alexandra Palace Park for a one-day programme headlined by Rudimental. The music bill also includes Groove Armada DJ set, MJ Cole live, Black Grape, Roni Size and The Amy Winehouse Band.",
+        "genres": [
+          "electronic",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-boiler-room-london-friday-2026",
+        "title": "Boiler Room: London - Friday",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Burgess Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2317964",
+        "ticketUrl": "https://ra.co/events/2317964",
+        "summary": "Boiler Room returns to Burgess Park for a daytime open-air London session with Basement Jaxx live, Chris Stussy and RECESS announced across a four-stage programme centred on amapiano and afro house-adjacent club culture.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-junction2-fabric-boston-manor-2026",
+        "title": "Junction 2 x fabric: Nina Kraviz, Jeff Mills, Marcel Dettmann, DJ Hell, Nicolas Lutz, Peach",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Boston Manor Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2361301",
+        "ticketUrl": "https://ra.co/events/2361301",
+        "summary": "fabric and Junction 2 join forces under the M4 at Boston Manor Park for a techno and house bill led by Nina Kraviz, Jeff Mills, Marcel Dettmann B2B DJ Hell, Nicolas Lutz and Peach.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-art-of-dark-15-years-2026",
+        "title": "Art Of Dark - 15 Years - Part 1",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 84,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2321332",
+        "ticketUrl": "https://ra.co/events/2321332",
+        "summary": "Art Of Dark marks 15 years with a 21-hour two-venue programme, with the FOLD leg featuring Binh, Reptant live, Tommy Pickles, Richard Gregory, Stefania, Onur Özer and more.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "london-wah-in-the-city-2026",
+        "title": "WAH In The City",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 83,
+        "venueName": "Silverworks Island",
+        "venueId": null,
+        "sourceUrl": "https://wah.london/",
+        "ticketUrl": "https://wah.london/",
+        "summary": "WAH In The City returns to Silverworks Island as a major drum & bass open-air festival. The confirmed lineup includes Pendulum live, Andy C: Alive, Bou feat. Eksman, Kanine and K Motionz.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-daynova-summer-day-party-2026",
+        "title": "Daynova - Massive Summer Day Party",
+        "type": "festival",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Eutopia Warehouse",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/daynova-massive-summer-day-party-tickets-1986634360852",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/daynova-massive-summer-day-party-tickets-1986634360852",
+        "summary": "Escape Promotions’ Daynova is a major indoor/outdoor day party at Eutopia Warehouse, billing 4,000 ravers, 40 DJs/MCs and four arenas covering R&B, dancehall, hip-hop, afrobeats, soca, garage, reggae, afro house and amapiano.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "amapiano",
+          "afro-house",
+          "house"
+        ]
+      },
+      {
         "id": "london-biffy-clyro-finsbury-2026",
         "title": "Biffy Clyro at Finsbury Park",
         "type": "concert",
@@ -78,20 +258,39 @@
         ]
       },
       {
-        "id": "london-wolf-alice-finsbury-2026",
-        "title": "Wolf Alice at Finsbury Park",
-        "type": "concert",
-        "startDate": "2026-07-05",
+        "id": "london-fabric-villalobos-moon-ear-2026",
+        "title": "fabric: Ricardo Villalobos, Sonja Moonear B2B Omar, Foehn & Jerome, Harry McCanna",
+        "type": "club-night",
+        "startDate": "2026-07-04",
         "endDate": "2026-07-05",
-        "importance": 84,
-        "venueName": "Finsbury Park",
-        "venueId": null,
-        "sourceUrl": "https://www.festivalrepublic.com/events/finsbury-park/wolf-alice",
-        "ticketUrl": "https://www.festivalrepublic.com/events/finsbury-park/wolf-alice",
-        "summary": "Wolf Alice play a major homecoming show at Finsbury Park, described by Festival Republic as their biggest show to date. The bill includes The Last Dinner Party, Lykke Li, Rachel Chinouriri, Keo and Florence Road.",
+        "importance": 82,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2424604",
+        "ticketUrl": "https://ra.co/events/2424604",
+        "summary": "A classic Saturday fabric booking built around minimal and house royalty, with Ricardo Villalobos in Room 1 and Sonja Moonear B2B OMAR all night in Room 2.",
         "genres": [
-          "pop",
-          "festival"
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-desi-beatz-summer-jam-2026",
+        "title": "Desi Beatz: Summer Jam Festival",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/desi-beatz-summer-jam-festival-tickets-1987849245605",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/desi-beatz-summer-jam-festival-tickets-1987849245605",
+        "summary": "Desi Beatz scales up its London party brand into an outdoor Summer Jam at The Cause, advertising 4,000 ravers, 25+ acts and three arenas of UK Desi music and party sounds.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "electronic"
         ]
       },
       {
@@ -112,91 +311,21 @@
         ]
       },
       {
-        "id": "london-wah-in-the-city-2026",
-        "title": "WAH In The City",
+        "id": "london-fragrance-effy-mall-grab-2026",
+        "title": "Effy & Mall Grab present: Fragrance",
         "type": "festival",
-        "startDate": "2026-07-05",
-        "endDate": "2026-07-05",
-        "importance": 83,
-        "venueName": "Silverworks Island",
-        "venueId": null,
-        "sourceUrl": "https://wah.london/",
-        "ticketUrl": "https://wah.london/",
-        "summary": "WAH In The City returns to Silverworks Island as a major drum & bass open-air festival. The confirmed lineup includes Pendulum live, Andy C: Alive, Bou feat. Eksman, Kanine and K Motionz.",
-        "genres": [
-          "electronic",
-          "festival"
-        ]
-      },
-      {
-        "id": "london-kaleidoscope-alexandra-palace-2026",
-        "title": "Kaleidoscope Festival",
-        "type": "festival",
-        "startDate": "2026-07-11",
-        "endDate": "2026-07-11",
-        "importance": 84,
-        "venueName": "Alexandra Palace Park",
-        "venueId": null,
-        "sourceUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival/",
-        "ticketUrl": "https://www.alexandrapalace.com/whats-on/kaleidoscope-festival/",
-        "summary": "Kaleidoscope Festival returns to Alexandra Palace Park for a one-day programme headlined by Rudimental. The music bill also includes Groove Armada DJ set, MJ Cole live, Black Grape, Roni Size and The Amy Winehouse Band.",
-        "genres": [
-          "electronic",
-          "pop",
-          "festival"
-        ]
-      },
-      {
-        "id": "london-bst-duran-duran-2026",
-        "title": "BST Hyde Park: Duran Duran",
-        "type": "festival",
-        "startDate": "2026-07-05",
-        "endDate": "2026-07-05",
-        "importance": 93,
-        "venueName": "Hyde Park",
-        "venueId": null,
-        "sourceUrl": "https://www.royalparks.org.uk/whats-on/bst-hyde-park-2026",
-        "ticketUrl": "https://www.royalparks.org.uk/whats-on/bst-hyde-park-2026",
-        "summary": "BST Hyde Park’s July run includes a confirmed Duran Duran headline date on Sunday 5 July 2026. The Royal Parks page lists the broader BST 2026 concert series in Hyde Park.",
-        "genres": [
-          "pop",
-          "festival"
-        ]
-      },
-      {
-        "id": "london-somerset-summer-series-2026",
-        "title": "Somerset House Summer Series with American Express",
-        "type": "festival",
-        "startDate": "2026-07-16",
-        "endDate": "2026-07-26",
-        "importance": 86,
-        "venueName": "Somerset House",
-        "venueId": null,
-        "sourceUrl": "https://www.somersethouse.org.uk/press/somerset-house-summer-series-with-american-express-announces-2026-festival-line-up",
-        "ticketUrl": "https://www.somersethouse.org.uk/whats-on/somerset-house-summer-series",
-        "summary": "Somerset House Summer Series returns for 11 nights in the courtyard from 16–26 July 2026. Confirmed headliners include Naïka, Palace, Thee Sacred Souls, Lightning Seeds, The Cribs, Agnes Obel, Black Country, New Road, Venna, Raf-Saperra, The Flaming Lips and Benjamin Clementine.",
-        "genres": [
-          "pop",
-          "r-and-b",
-          "jazz"
-        ]
-      },
-      {
-        "id": "london-junction2-fabric-2026",
-        "title": "Junction 2 x fabric",
-        "type": "festival",
-        "startDate": "2026-07-25",
-        "endDate": "2026-07-25",
-        "importance": 88,
+        "startDate": "2026-07-31",
+        "endDate": null,
+        "importance": 80,
         "venueName": "Boston Manor Park",
         "venueId": null,
-        "sourceUrl": "https://www.fabriclondon.com/event/fabric-x-junction-2",
-        "ticketUrl": "https://www.fabriclondon.com/event/fabric-x-junction-2",
-        "summary": "fabric and Junction 2 team up at Boston Manor Park for a full-day electronic programme. The confirmed bill includes Nina Kraviz, Jeff Mills, Marcel Dettmann b2b DJ Hell, GiGi FM b2b Polygonia, Nicolas Lutz and Francesco Del Garda.",
+        "sourceUrl": "https://ra.co/events/2363317",
+        "ticketUrl": "https://ra.co/events/2363317",
+        "summary": "Effy and Mall Grab present Fragrance at Boston Manor Park with a heavyweight club lineup including Benga B2B Special Request, BLUMITSU, DJ Storm, RONI, Sully and Tarzsa.",
         "genres": [
+          "electronic",
           "techno",
-          "house",
-          "electronic"
+          "house"
         ]
       },
       {
@@ -215,6 +344,24 @@
           "techno",
           "house",
           "electronic"
+        ]
+      },
+      {
+        "id": "london-club-stamina-fold-2026",
+        "title": "CLUB STAMINA presents Mina Galán + Line-up TBA",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-12",
+        "importance": 78,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395527",
+        "ticketUrl": "https://ra.co/events/2395527",
+        "summary": "Mina Galán brings Club Stamina to FOLD for a two-room takeover rooted in trans femme culture, Latin club pressure, baile funk, live performance and techno.",
+        "genres": [
+          "techno",
+          "electronic",
+          "latin"
         ]
       }
     ]

@@ -77,25 +77,25 @@ export function MiniMap({
           <circle cx={cx} cy={cy} r={radius} />
         </clipPath>
         <radialGradient id={`${clipId}-bg`} cx="50%" cy="40%" r="60%">
-          <stop offset="0%" stopColor="rgba(255,139,61,0.06)" />
-          <stop offset="100%" stopColor="rgba(8,8,10,0.0)" />
+          <stop offset="0%" stopColor="rgba(232,89,12,0.08)" />
+          <stop offset="100%" stopColor="rgba(240,233,216,0.0)" />
         </radialGradient>
       </defs>
 
       {/* Disc */}
-      <circle cx={cx} cy={cy} r={radius} fill="rgba(8,8,10,0.6)" />
+      <circle cx={cx} cy={cy} r={radius} fill="rgba(240,233,216,0.7)" />
       <circle cx={cx} cy={cy} r={radius} fill={`url(#${clipId}-bg)`} />
       <circle
         cx={cx}
         cy={cy}
         r={radius}
         fill="none"
-        stroke="rgba(237,237,235,0.15)"
+        stroke="rgba(28,22,18,0.18)"
         strokeWidth={0.6}
       />
 
       {/* Latitude/longitude grid (clipped to disc) */}
-      <g clipPath={`url(#${clipId})`} stroke="rgba(237,237,235,0.08)" strokeWidth={0.5} fill="none">
+      <g clipPath={`url(#${clipId})`} stroke="rgba(28,22,18,0.10)" strokeWidth={0.5} fill="none">
         {/* Equator */}
         <line x1={0} y1={cy} x2={size} y2={cy} />
         {/* Tropics-ish */}
@@ -112,13 +112,13 @@ export function MiniMap({
         <g clipPath={`url(#${clipId})`}>
           <path
             d={arcPath(projectedOrigin, projectedDots[0])}
-            stroke="rgba(255,139,61,0.55)"
+            stroke="rgba(232,89,12,0.55)"
             strokeWidth={0.8}
             strokeLinecap="round"
             strokeDasharray="2 2"
             fill="none"
           />
-          <circle cx={projectedOrigin.x} cy={projectedOrigin.y} r={1.4} fill="rgba(237,237,235,0.7)" />
+          <circle cx={projectedOrigin.x} cy={projectedOrigin.y} r={1.4} fill="rgba(28,22,18,0.7)" />
         </g>
       ) : null}
 
@@ -131,7 +131,7 @@ export function MiniMap({
               <path
                 key={`${i}-arc`}
                 d={arcPath(from, to)}
-                stroke="rgba(255,139,61,0.45)"
+                stroke="rgba(232,89,12,0.45)"
                 strokeWidth={0.7}
                 strokeLinecap="round"
                 fill="none"
@@ -152,7 +152,7 @@ export function MiniMap({
                 cx={dot.x}
                 cy={dot.y}
                 r={r * 2.6}
-                fill="rgba(255,139,61,0.18)"
+                fill="rgba(232,89,12,0.20)"
               >
                 <animate
                   attributeName="r"
@@ -173,8 +173,8 @@ export function MiniMap({
                 cx={dot.x}
                 cy={dot.y}
                 r={r}
-                fill="#ff8b3d"
-                stroke="rgba(8,8,10,0.95)"
+                fill="#e8590c"
+                stroke="rgba(253,250,242,0.95)"
                 strokeWidth={0.6}
               />
             </g>

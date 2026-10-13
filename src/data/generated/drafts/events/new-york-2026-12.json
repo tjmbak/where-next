@@ -2,32 +2,315 @@
   "slug": "new-york",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:14:48.734Z",
-  "responseId": "resp_09da082715aabf390069ff5ce9fb8881a3902be5333e59fa1c",
-  "searchCalls": 20,
+  "generatedAt": "2026-10-13T02:52:49.687Z",
+  "responseId": "resp_043a94dad13e2f9f006acd9c0f604087d0be3b118790d1d350+resp_06253003ecb6be9e006acd9c8ea9c487d08b3e7d50d725ce23",
+  "searchCalls": 36,
   "citations": [],
   "data": {
     "destinationSlug": "new-york",
     "month": 12,
     "year": 2026,
-    "notes": "Confirmed December 2026 picks are currently strongest in arena pop, Carnegie Hall holiday programming, and major classical/contemporary concerts; club and festival calendars are still lightly announced this far out.",
+    "notes": "December’s confirmed New York calendar already mixes arena-scale pop/R&B, LCD Soundsystem’s annual NYC residency, and Brooklyn’s house/techno/Latin club circuit, with more late-month underground announcements likely to follow.",
     "events": [
+      {
+        "id": "new-york-lcd-soundsystem-residency-2026",
+        "title": "LCD Soundsystem — NYC 2026 Residency",
+        "type": "residency",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 92,
+        "venueName": "Brooklyn Steel",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1637296/lcd-soundsystem-tickets",
+        "ticketUrl": "https://www.axs.com/events/1637296/lcd-soundsystem-tickets",
+        "summary": "LCD Soundsystem continues its NYC residency at Brooklyn Steel on December 1, one of several December dates in the band’s annual hometown run.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
       {
         "id": "new-york-doja-cat-msg-2026",
         "title": "Doja Cat — Tour Ma Vie World Tour",
         "type": "concert",
         "startDate": "2026-12-01",
         "endDate": "2026-12-01",
-        "importance": 91,
+        "importance": 88,
         "venueName": "Madison Square Garden",
         "venueId": null,
-        "sourceUrl": "https://www.msg.com/events-tickets/doja-cat-madison-square-garden-december-2026/3B00633A23FD3029",
-        "ticketUrl": "https://www.msg.com/events-tickets/doja-cat-madison-square-garden-december-2026/3B00633A23FD3029",
-        "summary": "Doja Cat brings the Tour Ma Vie World Tour to Madison Square Garden for a confirmed December 1 arena date.",
+        "sourceUrl": "https://msg.com/events-tickets/doja-cat-madison-square-garden-december-2026/3B00633A23FD3029",
+        "ticketUrl": "https://msg.com/events-tickets/doja-cat-madison-square-garden-december-2026/3B00633A23FD3029",
+        "summary": "Doja Cat brings the Tour Ma Vie World Tour to Madison Square Garden with special guest Latto on December 1.",
         "genres": [
           "pop",
-          "hip-hop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-brent-faiyaz-barclays-2026",
+        "title": "Brent Faiyaz Live: I Spent The Night With Brent Faiyaz",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 86,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/brent-faiyaz-live-i-spent-the-night-with-brent-faiyaz-brooklyn-12-03-2026/event/3000652F86C01F5C",
+        "ticketUrl": "https://www.ticketmaster.com/brent-faiyaz-live-i-spent-the-night-with-brent-faiyaz-brooklyn-12-03-2026/event/3000652F86C01F5C",
+        "summary": "Brent Faiyaz headlines Barclays Center on December 3 for his I Spent The Night With Brent Faiyaz arena show.",
+        "genres": [
           "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-bonobo-knockdown-2026",
+        "title": "Bonobo (DJ Set)",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 82,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552185",
+        "ticketUrl": "https://ra.co/events/2552185",
+        "summary": "Bonobo plays a DJ set at Knockdown Center on December 5, with Anish Kumar also on the bill.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-resolute-kerri-chandler-2026",
+        "title": "ReSolute presents: Kerri Chandler",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "TBA - Secret Location",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497040",
+        "ticketUrl": "https://ra.co/events/2497040",
+        "summary": "Long-running underground promoter ReSolute presents deep-house figurehead Kerri Chandler at a secret NYC location, with more artists to be announced.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-wang-leehom-barclays-2026",
+        "title": "Wang Leehom — The Best Place II World Tour",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 80,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/event/3000650F24FBD26B",
+        "ticketUrl": "https://www.ticketmaster.com/event/3000650F24FBD26B",
+        "summary": "Wang Leehom brings The Best Place II World Tour to Barclays Center on December 12.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-zero-nye-2026",
+        "title": "ZERO Presents: NYE",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 80,
+        "venueName": "Secret location in Brooklyn",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/zero-presents-nye",
+        "ticketUrl": "https://shotgun.live/en/festivals/zero-presents-nye",
+        "summary": "ZERO presents a New Year’s Eve house and indie-dance event at a secret Brooklyn location on December 31.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-musclecars-toribio-love-injection-2026",
+        "title": "MUSCLECARS, Toribio, Love Injection: Together Again",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "H0L0",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2540914",
+        "ticketUrl": "https://ra.co/events/2540914",
+        "summary": "MUSCLECARS, Toribio and Love Injection reunite at H0L0 for a late-morning house and deep-house session hosted by Benny Soto, Nervous and danceherenow.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-house-of-grooves-dec-2026",
+        "title": "House of Grooves: Eli Escobar All Night + Sissies of Mercy",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 78,
+        "venueName": "House of Yes",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2471768",
+        "ticketUrl": "https://ra.co/events/2471768",
+        "summary": "House of Yes hosts Eli Escobar’s monthly House of Grooves residency on December 4, with Eli Escobar playing all night and Sissies of Mercy in the Onyx Room.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-york-joe-dwet-file-barclays-2026",
+        "title": "Joé Dwèt Filé",
+        "type": "concert",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-19",
+        "importance": 78,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/joe-dwet-file-2026",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/joe-dwet-file-2026",
+        "summary": "French-Caribbean R&B artist Joé Dwèt Filé comes to Barclays Center on December 19.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "new-york-glitterbox-inner-city-2026",
+        "title": "Glitterbox: Inner City and More TBA",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "House of Yes",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2557200",
+        "ticketUrl": "https://ra.co/events/2557200",
+        "summary": "International house and disco party brand Glitterbox returns to NYC at House of Yes with Detroit dance-music icons Inner City and more acts to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-laylit-elsewhere-dec-2026",
+        "title": "Laylit",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 75,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2547796",
+        "ticketUrl": "https://ra.co/events/2547796",
+        "summary": "Laylit brings its Arab/SWANA diaspora-focused dance party to Elsewhere on December 4, with the lineup listed as to be announced.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-agape-serafina-2026",
+        "title": "AGAPĒ presents: Serafina - All Night Long",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "TBA - Brooklyn NY",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2384560",
+        "ticketUrl": "https://ra.co/events/2384560",
+        "summary": "AGAPĒ hosts Berlin-based Serafina for an open-to-close, high-BPM techno warehouse night at a Brooklyn location announced to ticket holders.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-elsewhere-nye-san-pacho-2026",
+        "title": "Elsewhere New Year’s Eve: San Pacho + more TBA",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 75,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2553681",
+        "ticketUrl": "https://ra.co/events/2553681",
+        "summary": "Elsewhere’s New Year’s Eve party on December 31 is led by San Pacho in the Hall, with more artists to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-pablo-fierro-2026",
+        "title": "Pablo Fierro w. Luna Mar, ASMOT & Kassin",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Unveiled",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531275",
+        "ticketUrl": "https://ra.co/events/2531275",
+        "summary": "GRAY-AREA brings Pablo Fierro to Unveiled for an Afro-house session with Luna Mar, ASMOT and Kassin, connecting Afro-house, deep house, Latin rhythms and soulful club music.",
+        "genres": [
+          "afro-house",
+          "house",
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-golden-record-traumer-2026",
+        "title": "Golden Record NYC presents Traumer All Night Long",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "TBA - East Williamsburg",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2543190",
+        "ticketUrl": "https://ra.co/events/2543190",
+        "summary": "Golden Record brings French house and tech-house selector Traumer to a secret East Williamsburg location for a late-running all-night session.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "new-york-snow-ball-eelke-kleijn-2026",
+        "title": "Snow Ball: Eelke Kleijn Live!",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 74,
+        "venueName": "House of Yes",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/snowball-eelke-kleijn-dec-5-2026",
+        "ticketUrl": "https://shotgun.live/en/events/snowball-eelke-kleijn-dec-5-2026",
+        "summary": "House of Yes stages its Snow Ball on December 5, headlined by melodic house artist Eelke Kleijn with additional artists to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-mvson-showcase-2026",
+        "title": "MVSON Showcase w. Special Guests",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "99 Scott Ave",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2538105",
+        "ticketUrl": "https://ra.co/events/2538105",
+        "summary": "Manchester-born event series and label MVSON, founded by Mason Collective, takes over Brooklyn warehouse space 99 Scott for its New York showcase.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {

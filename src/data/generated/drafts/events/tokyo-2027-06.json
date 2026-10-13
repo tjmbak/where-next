@@ -1,0 +1,107 @@
+{
+  "slug": "tokyo",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:12:13.678Z",
+  "responseId": "resp_0136d42ac6e1b24f006acdaf1ac36887d0854234bf3bd68f39+resp_0d2056ebfb08ebde006acdaf71335087d09262cadc54cb599e",
+  "searchCalls": 28,
+  "citations": [
+    {
+      "url": "https://ra.co/events/jp/tokyo?startDate=2026-06-13&utm_source=openai",
+      "title": "Upcoming Events in Tokyo · Get Your Tickets On RA",
+      "startIndex": 298,
+      "endIndex": 377
+    }
+  ],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 6,
+    "year": 2027,
+    "notes": "Confirmed June 2027 inventory is still sparse this far out, but the month already has a major international arena run plus Japanese festival and Zepp-level touring dates.",
+    "events": [
+      {
+        "id": "tokyo-radiohead-saitama-jun-2027",
+        "title": "Radiohead Tokyo 2027",
+        "type": "concert",
+        "startDate": "2027-06-08",
+        "endDate": "2027-06-13",
+        "importance": 96,
+        "venueName": "GMO Arena Saitama",
+        "venueId": null,
+        "sourceUrl": "https://www.radiohead2027.jp/",
+        "ticketUrl": "https://www.radiohead2027.jp/",
+        "summary": "Radiohead’s official Japan run is confirmed for June 8, 9, 11, 12 and 13 at GMO Arena Saitama, close to Tokyo. The dedicated Japan site lists ticket categories and notes this is the band’s first standalone Japan performance since 2008.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-flow-the-festival-jun-2027",
+        "title": "FLOW THE FESTIVAL 2027",
+        "type": "festival",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-20",
+        "importance": 82,
+        "venueName": "Pia Arena MM",
+        "venueId": null,
+        "sourceUrl": "https://www.flow-official.jp/live/detail.php?bu=.%2F%3Fy%3D2027%26m%3D6&id=2790",
+        "ticketUrl": "https://t.pia.jp/pia/event/event.do?eventBundleCd=b2668789",
+        "summary": "FLOW’s anime-rock festival returns for a 2027 edition on June 19–20 at Pia Arena MM in Yokohama, within the Tokyo metro area. The official announcement says artist details will be released later and confirms ticket categories including two-day and one-day passes.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-hibiya-music-festival-jun-2027",
+        "title": "Hibiya Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-06",
+        "importance": 78,
+        "venueName": "Hibiya Park, Tokyo Midtown Hibiya, Tokyo International Forum Hall A",
+        "venueId": null,
+        "sourceUrl": "https://hibiyamusicfes.jp/2026/information/news/27310520263121/",
+        "ticketUrl": null,
+        "summary": "Hibiya Music Festival has confirmed its 2027 edition for June 5–6 across Hibiya Park, Tokyo Midtown Hibiya and Tokyo International Forum Hall A. Lineup details are still to be announced by the festival.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-kroi-live-tour-jun-2027",
+        "title": "Kroi Live Tour 2027",
+        "type": "concert",
+        "startDate": "2027-06-11",
+        "endDate": "2027-06-11",
+        "importance": 72,
+        "venueName": "Zepp DiverCity(TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://special.kroi.net/tour/",
+        "ticketUrl": "https://w.pia.jp/t/kroi-t/",
+        "summary": "Kroi’s 2027 live-house tour includes a Tokyo stop at Zepp DiverCity(TOKYO) on June 11, with doors at 18:00 and showtime at 19:00. The band’s official tour page confirms the date, venue and ticket categories.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-sakurashimeji-zepp-tour-jun-2027",
+        "title": "Sakurashimeji ZeppTour+ 2027",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 63,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://sakurashimeji.com/feature/zepp_tour_2027",
+        "ticketUrl": "https://sakurashimeji.com/feature/zepp_tour_2027",
+        "summary": "Sakurashimeji have confirmed a Tokyo date on their ZeppTour+ 2027 at Zepp DiverCity (TOKYO) on June 15. The official tour page lists the Tokyo show with 17:45 doors and an 18:30 start.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

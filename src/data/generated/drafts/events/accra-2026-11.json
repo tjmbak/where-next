@@ -2,16 +2,250 @@
   "slug": "accra",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:16:32.477Z",
-  "responseId": "resp_08c300f5caa0e51e0069ff5d7f6b608192b82b1cc68796e7be",
-  "searchCalls": 20,
+  "generatedAt": "2026-10-13T02:40:29.478Z",
+  "responseId": "resp_0961a0fbd44fa576006acd99486c8087d099ddb960eee91b69+resp_0fc333323bd66ea5006acd99d5ea8087d0ad1a08c3e52bdbeb",
+  "searchCalls": 39,
   "citations": [],
   "data": {
     "destinationSlug": "accra",
     "month": 11,
     "year": 2026,
-    "notes": null,
+    "notes": "November 2026 in Accra has a light but varied confirmed calendar, with dance-culture festivals, Afrobeats concerts, recurring beach-club nights, and DJ-led nightlife ahead of Detty December.",
     "events": [
+      {
+        "id": "accra-olive-experience-2026",
+        "title": "O'Live Experience 2026",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 82,
+        "venueName": "National Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.iamolivetheboy.com/",
+        "ticketUrl": "https://app.chaleapp.org/checkout/242",
+        "summary": "Olivetheboy’s official site confirms O'Live Experience 2026 at the National Theatre, with gates at 6 PM and show at 7 PM. The artist is billed as an Afrobeats singer-songwriter blending Ghanaian rhythms with pop, R&B and alt influences.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "accra-undisputed-afro-break-2026",
+        "title": "FUJIFILM instax Undisputed Accra Qualifier x Afro Break Ghana",
+        "type": "festival",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 75,
+        "venueName": "Accra Mall",
+        "venueId": null,
+        "sourceUrl": "https://undisputedmasters.com/accra/",
+        "ticketUrl": "https://undisputedmasters.com/accra/",
+        "summary": "The Undisputed world breaking series comes to Accra Mall in partnership with Afro Break Ghana, bringing continental breaking battles, DJs and MCs to Accra. The official page confirms 21 November 2026 and free entrance.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-ghana-dance-kamp-2026",
+        "title": "Ghana Dance Kamp 2026",
+        "type": "festival",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-16",
+        "importance": 74,
+        "venueName": "Accra, Ghana",
+        "venueId": null,
+        "sourceUrl": "https://www.ghanadancekamp.com/",
+        "ticketUrl": "https://www.ghanadancekamp.com/",
+        "summary": "International Afro and Dancehall-focused dance camp and cultural experience in Accra, built around Afro dance styles, workshops, performances, and community programming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-kizomba-festival-2026",
+        "title": "Accra Kizomba Festival 2026",
+        "type": "festival",
+        "startDate": "2026-10-26",
+        "endDate": "2026-11-01",
+        "importance": 72,
+        "venueName": "Accra, Ghana",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/accra-kizomba-festival-2026",
+        "ticketUrl": "https://egotickets.com/events/accra-kizomba-festival-2026",
+        "summary": "A week-long Kizomba festival in Accra with DJs, instructors, workshops, bootcamps, social parties, late-night dance floors, live music and showcases. The confirmed dates run from 26 October to 1 November 2026.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "accra-afro-wave-tuesday-nov-2026",
+        "title": "Afro Wave Tuesday",
+        "type": "residency",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-03",
+        "importance": 70,
+        "venueName": "Afrikana Beach House",
+        "venueId": null,
+        "sourceUrl": "https://www.afrikanabeachhouse.com/event-details-registration/afro-wave-tuesday-2026-10-13-17-00",
+        "ticketUrl": "https://www.afrikanabeachhouse.com/event-details-registration/afro-wave-tuesday-2026-10-13-17-00",
+        "summary": "Afrikana Beach House’s recurring Tuesday night with Spinset is confirmed with a 3 November listing among its official dates. The night is billed around Afrobeats, Amapiano and hip-hop sounds at the Labadi beach venue.",
+        "genres": [
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-melt-smooth-experience-2026",
+        "title": "melt : a smooth experience",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 70,
+        "venueName": "Kokrobite Oasis",
+        "venueId": null,
+        "sourceUrl": "https://wedeyoutside.live/events/melt/",
+        "ticketUrl": "https://wedeyoutside.live/events/melt/",
+        "summary": "VAVAVOOM hosts a free golden-hour party at Kokrobite Oasis with TMSKDJ on the decks. The event is explicitly billed with Afrohouse, Afrobeats and Amapiano from 5 PM to 9 PM on 20 November 2026.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house"
+        ]
+      },
+      {
+        "id": "accra-amapiano-vibrations-2026",
+        "title": "Amapiano Vibrations",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "CLUB ICON",
+        "venueId": null,
+        "sourceUrl": "https://www.thenod.live/events/amapiano-vibrations-i8a",
+        "ticketUrl": "https://www.thenod.live/events/amapiano-vibrations-i8a",
+        "summary": "A 400-capacity ticketed amapiano rave in Accra billed as “Africa’s Biggest Amapiano Rave,” promoted by Lumis Group Africa.",
+        "genres": [
+          "amapiano"
+        ]
+      },
+      {
+        "id": "accra-hiwave-experience-2026",
+        "title": "The HiWave Experience",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 68,
+        "venueName": "Pera Lounge and Bar",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/the-hiwave-experience",
+        "ticketUrl": "https://egotickets.com/events/the-hiwave-experience",
+        "summary": "HiWave Band presents its maiden concert and end-of-year warm-up at Pera Lounge and Bar. The eGotickets listing confirms the show for 7 November 2026, running into the early hours of 8 November.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-el-chvpo-live-2026",
+        "title": "EL Chvpo Live",
+        "type": "concert",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "importance": 66,
+        "venueName": "Kona",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/chvpo-live",
+        "ticketUrl": "https://egotickets.com/events/chvpo-live",
+        "summary": "El Chvpo returns to Kona for a live show with guest artistes, Accra DJs and hype men. The event is confirmed for 7 November 2026 and billed as a new-chapter live experience for the artist.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-outside-big-abonteng-gona-boy-2026",
+        "title": "Outside with Big Abonteng x Gona Boy",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "importance": 66,
+        "venueName": "EnzoAccra",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/outside-with-big-abonteng-x-gona-boy",
+        "ticketUrl": "https://egotickets.com/events/outside-with-big-abonteng-x-gona-boy",
+        "summary": "Big Abonteng hosts an EnzoAccra night with Gona Boy live on stage, built around music, energy and party vibes. The ticketing page confirms 14 November 2026, running into 15 November.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "accra-vibra-nocturna-2026",
+        "title": "VIBRA NOCTURNA 2k26",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "importance": 65,
+        "venueName": "Coaches Lounge",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/vibra-nocturna-2k26",
+        "ticketUrl": "https://egotickets.com/events/vibra-nocturna-2k26",
+        "summary": "VYBZ SESSION GH presents Vibra Nocturna at Coaches Lounge, a nightlife event built around jamz, music performance and games. The eGotickets page confirms 21 November 2026 from 4 PM to 4 AM the next day.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "accra-accra-madness-2026",
+        "title": "Accra Madness",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-13",
+        "importance": 64,
+        "venueName": "Coaches Lounge",
+        "venueId": null,
+        "sourceUrl": "https://ayatickets.com/en/event/accra-madness",
+        "ticketUrl": "https://ayatickets.com/en/event/accra-madness",
+        "summary": "Accra Madness is a youth-culture party at Coaches Lounge with DJs, performances, fashion and entertainment. Ayatickets confirms the event for 13 November 2026 at 10:00 PM.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "accra-groove-yard-2026",
+        "title": "Groove Yard",
+        "type": "club-night",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-30",
+        "importance": 63,
+        "venueName": "East Garden Event Center",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/groove-yard",
+        "ticketUrl": "https://egotickets.com/events/groove-yard",
+        "summary": "Groove Yard is a Gen Z-focused day-club event at East Garden Event Center with top DJs, food, drinks and social energy. The listing confirms 29 November 2026 from noon to midnight into 30 November.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "accra-tropical-vibe-2026",
+        "title": "Tropical Vibe",
+        "type": "club-night",
+        "startDate": "2026-11-22",
+        "endDate": "2026-11-22",
+        "importance": 62,
+        "venueName": "University of Ghana swimming pool",
+        "venueId": null,
+        "sourceUrl": "https://egotickets.com/events/tropical-vibe",
+        "ticketUrl": "https://egotickets.com/events/tropical-vibe",
+        "summary": "Vibez Cafe’s Tropical Vibe returns for its second edition at the University of Ghana poolside. The confirmed 22 November 2026 event promises cocktails, smooth music and a tropical day-party setup.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
       {
         "id": "accra-tidal-rave-fest-2026",
         "title": "Tidal Rave Fest",

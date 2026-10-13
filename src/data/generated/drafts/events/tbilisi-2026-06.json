@@ -2,9 +2,9 @@
   "slug": "tbilisi",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:55:03.024Z",
-  "responseId": "resp_07a68705b20f61ff0069ff66717c2c819181e1464ebfa73c46",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T18:47:24.598Z",
+  "responseId": "augment:resp_0cb835af385e995c006a1b306c9adc819b96a902e35d1d8994",
+  "searchCalls": 13,
   "citations": [],
   "data": {
     "destinationSlug": "tbilisi",
@@ -48,6 +48,41 @@
         ]
       },
       {
+        "id": "tbilisi-ye-live-concert-2026",
+        "title": "YE LIVE CONCERT",
+        "type": "concert",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 88,
+        "venueName": "Dinamo Arena",
+        "venueId": null,
+        "sourceUrl": "https://starringgeorgia.ge/en/events/ye",
+        "ticketUrl": "https://tkt.ge/YE",
+        "summary": "Starring Georgia confirms YE, also known as Kanye West, for a live concert at Dinamo Arena on June 12. The event page bills it as his only performance in Georgia and part of Starring Georgia’s fourth season.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-jun12-2026",
+        "title": "Bassiani - Horoom – Fri, 12.06.2026",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 84,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426619",
+        "ticketUrl": null,
+        "summary": "Bassiani’s June 12 event brings Audrey Danza, Aurora Halal, Kasper Marott, Ndrx and Zesknel live to the main room, while Horoom hosts Kvanchi, Nil, Priori and Sportsmanship. The event is promoted by Bassiani and confirmed on Resident Advisor.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
         "id": "tbilisi-bassiani-horoom-jun5-2026",
         "title": "Bassiani - Horoom – Fri, 05.06.2026",
         "type": "club-night",
@@ -59,6 +94,111 @@
         "sourceUrl": "https://ra.co/events/2426616",
         "ticketUrl": null,
         "summary": "Bassiani’s June 5 program features Alpha Tracks, Blue Hour, Kancheli, Newa and Salty DJ in the main room, with Jek, HVL and Liquid Earth in Horoom. The night is promoted by Bassiani and listed on Resident Advisor.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-reclaim-your-city-2026",
+        "title": "Bassiani x Reclaim Your City / Horoom: Héctor Oaks 25",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 83,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://de.ra.co/events/2426629",
+        "ticketUrl": null,
+        "summary": "Reclaim Your City returns to Bassiani with HVL, Kangding Ray, Mareena, Rhyw and Zitto; Horoom marks Héctor Oaks/Cadency/ELEVEN’s 25th Bassiani appearance with Dito, NDRX b2b Sophie Phare and Obri.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-adriatique-mtatsminda-2026",
+        "title": "Adriatique x TBILISI",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-12",
+        "importance": 82,
+        "venueName": "Mtatsminda Park",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2314502",
+        "ticketUrl": "https://biletebi.ge",
+        "summary": "Adriatique headline an open-air electronic event at Mtatsminda Park, presented by Mono Hall and Boom Boom Booking Agency. The lineup also lists Jino Dollini, with the event scheduled for June 12 at 22:30.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-vault-sessions-2026",
+        "title": "Bassiani x Vault Sessions / Horoom x Morevi",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 81,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://de.ra.co/events/2426624",
+        "ticketUrl": null,
+        "summary": "Amsterdam’s Vault Sessions takes over Bassiani with VSC, Grace Dahl, Lea Occhi and Phil Berg b2b Lobster, while Horoom x Morevi brings Boyá, Keto, Jorge Caiado and Emanuele Barilli for house and funk-driven grooves.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-tom-odell-2026",
+        "title": "TOM ODELL - Tbilisi Concert",
+        "type": "concert",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-21",
+        "importance": 80,
+        "venueName": "Loco Park",
+        "venueId": null,
+        "sourceUrl": "https://ticketon.am/en/event/tom-odell-tbilisi-concert-2026",
+        "ticketUrl": "https://ticketon.am/en/event/tom-odell-tbilisi-concert-2026",
+        "summary": "Tom Odell is confirmed for a June 21 concert at Loco Park in Tbilisi. The ticketing page lists the show as part of his European tour, with doors at 18:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-aurora-halal-2026",
+        "title": "Bassiani – Horoom: Audrey Danza, Aurora Halal, Kasper Marott, NDRX, Zesknel, Priori",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": "2026-06-13",
+        "importance": 80,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426619",
+        "ticketUrl": null,
+        "summary": "A high-grade Bassiani/Horoom bill led by Aurora Halal, Audrey Danza and Kasper Marott, with NDRX, Zesknel live, Kvanchi, Priori, Nil and Sportsmanship covering psychedelic techno, acid pressure, house and experimental electronics.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-bassiani-horoom-blue-hour-2026",
+        "title": "Bassiani – Horoom: Blue Hour, Alpha Tracks, Kancheli, Newa, Salty DJ, Jek, HVL, Liquid Earth",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 77,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426616",
+        "ticketUrl": null,
+        "summary": "A two-room Bassiani/Horoom night built around Blue Hour’s acid-techno, rave and breakbeat palette, with Alpha Tracks, key Georgian residents Kancheli, Newa and HVL, plus house-minded Liquid Earth in Horoom.",
         "genres": [
           "techno",
           "house",
@@ -83,56 +223,38 @@
         ]
       },
       {
-        "id": "tbilisi-bassiani-horoom-jun12-2026",
-        "title": "Bassiani - Horoom – Fri, 12.06.2026",
+        "id": "tbilisi-faction-defragged-sessions-2026",
+        "title": "Faction x Defragged Sessions: 2bit2bi, Gwän, Ozan, Saag, Undrtow",
         "type": "club-night",
-        "startDate": "2026-06-12",
-        "endDate": "2026-06-12",
-        "importance": 84,
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 74,
         "venueName": "Bassiani",
         "venueId": "bassiani-tbilisi",
-        "sourceUrl": "https://ra.co/events/2426619",
+        "sourceUrl": "https://ra.co/events/2429167",
         "ticketUrl": null,
-        "summary": "Bassiani’s June 12 event brings Audrey Danza, Aurora Halal, Kasper Marott, Ndrx and Zesknel live to the main room, while Horoom hosts Kvanchi, Nil, Priori and Sportsmanship. The event is promoted by Bassiani and confirmed on Resident Advisor.",
+        "summary": "Bassiani’s Horoom hosts Faction in collaboration with Istanbul underground series Defragged Sessions, connecting Georgian, Turkish and wider European hypnotic-techno networks via Gwän, Ozan, Saag, Undrtow and 2bit2bi.",
         "genres": [
           "techno",
-          "house",
           "electronic"
         ]
       },
       {
-        "id": "tbilisi-adriatique-mtatsminda-2026",
-        "title": "Adriatique x TBILISI",
+        "id": "tbilisi-horoom-ouissam-emel-2026",
+        "title": "Horoom: Ouissam, Emel, Kvanchi, Mancho",
         "type": "club-night",
-        "startDate": "2026-06-12",
-        "endDate": "2026-06-12",
-        "importance": 82,
-        "venueName": "Mtatsminda Park",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2314502",
-        "ticketUrl": "https://biletebi.ge",
-        "summary": "Adriatique headline an open-air electronic event at Mtatsminda Park, presented by Mono Hall and Boom Boom Booking Agency. The lineup also lists Jino Dollini, with the event scheduled for June 12 at 22:30.",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-28",
+        "importance": 73,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426643",
+        "ticketUrl": null,
+        "summary": "Horoom closes the month with Kvanchi and Mancho alongside Ouissam, the Hong Kong/Hanoi figure behind Cliche Records and Savage, plus Filipino-Australian connector Emel for disco, house and techno-rooted selections.",
         "genres": [
-          "techno",
           "house",
+          "techno",
           "electronic"
-        ]
-      },
-      {
-        "id": "tbilisi-ye-live-concert-2026",
-        "title": "YE LIVE CONCERT",
-        "type": "concert",
-        "startDate": "2026-06-12",
-        "endDate": "2026-06-12",
-        "importance": 88,
-        "venueName": "Dinamo Arena",
-        "venueId": null,
-        "sourceUrl": "https://starringgeorgia.ge/en/events/ye",
-        "ticketUrl": "https://tkt.ge/YE",
-        "summary": "Starring Georgia confirms YE, also known as Kanye West, for a live concert at Dinamo Arena on June 12. The event page bills it as his only performance in Georgia and part of Starring Georgia’s fourth season.",
-        "genres": [
-          "hip-hop",
-          "pop"
         ]
       },
       {
@@ -153,19 +275,20 @@
         ]
       },
       {
-        "id": "tbilisi-tom-odell-2026",
-        "title": "TOM ODELL - Tbilisi Concert",
-        "type": "concert",
-        "startDate": "2026-06-21",
-        "endDate": "2026-06-21",
-        "importance": 80,
-        "venueName": "Loco Park",
-        "venueId": null,
-        "sourceUrl": "https://ticketon.am/en/event/tom-odell-tbilisi-concert-2026",
-        "ticketUrl": "https://ticketon.am/en/event/tom-odell-tbilisi-concert-2026",
-        "summary": "Tom Odell is confirmed for a June 21 concert at Loco Park in Tbilisi. The ticketing page lists the show as part of his European tour, with doors at 18:00.",
+        "id": "tbilisi-horoom-nat-wendell-2026",
+        "title": "Horoom: Nat Wendell, Sophie Phare, Hamatsuki, Skyra",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 72,
+        "venueName": "Bassiani",
+        "venueId": "bassiani-tbilisi",
+        "sourceUrl": "https://ra.co/events/2426617",
+        "ticketUrl": null,
+        "summary": "Horoom’s queer-underground room hosts Berlin-based house selector Nat Wendell with Sophie Phare and Unforeseen label founders Hamatsuki and Skyra, leaning into deep house, old-school trance and ambient-tinted electronics.",
         "genres": [
-          "pop"
+          "house",
+          "electronic"
         ]
       },
       {
@@ -183,6 +306,23 @@
         "genres": [
           "house",
           "electronic"
+        ]
+      },
+      {
+        "id": "tbilisi-no-pizza-base-kick-2026",
+        "title": "No Pizza Rave x Base Kick",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 68,
+        "venueName": "TBA - Secret Location",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2441857",
+        "ticketUrl": null,
+        "summary": "A secret-location community rave marking 20 years of No Pizza Rave, promoted by Base Kick, with The Twins, Artcore Rave Machine, Outcast, Airkoola and Basekick Crew across experimental and gabber-leaning electronics.",
+        "genres": [
+          "electronic",
+          "techno"
         ]
       }
     ]

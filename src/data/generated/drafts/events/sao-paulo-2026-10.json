@@ -2,31 +2,30 @@
   "slug": "sao-paulo",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:50:47.339Z",
-  "responseId": "resp_043ba3f51c8cff4f0069ff6592067c8197bf7fcac8292fa4ad",
-  "searchCalls": 10,
+  "generatedAt": "2026-10-13T02:33:14.857Z",
+  "responseId": "resp_0110375bb28b849a006acd97b7d7f487d0b5ed7afe73390081+resp_0ea75dafb7bd8fb7006acd9811f2f487d08139466201649d1c",
+  "searchCalls": 30,
   "citations": [],
   "data": {
     "destinationSlug": "sao-paulo",
     "month": 10,
     "year": 2026,
-    "notes": "October 2026 is unusually stadium-heavy in São Paulo, with confirmed pop, K-pop, metal and samba dates anchored by Allianz Parque and MorumBIS, plus a handful of electronic/pop festival activity.",
+    "notes": "October’s confirmed São Paulo calendar mixes global pop/R&B stadium dates with the city’s defining rooftop, club and electronic scenes.",
     "events": [
       {
-        "id": "sao-paulo-oktoberfest-2026",
-        "title": "9ª São Paulo Oktoberfest 2026",
-        "type": "festival",
-        "startDate": "2026-09-18",
-        "endDate": "2026-10-04",
-        "importance": 70,
-        "venueName": "Arena de Eventos - Parque Ibirapuera",
+        "id": "sao-paulo-bts-arirang-31-2026",
+        "title": "BTS World Tour 'Arirang' — São Paulo",
+        "type": "concert",
+        "startDate": "2026-10-31",
+        "endDate": "2026-10-31",
+        "importance": 98,
+        "venueName": "Estádio do Morumbis",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest-2026",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest-2026",
-        "summary": "The 9th São Paulo Oktoberfest runs into the first weekend of October with German cultural programming, typical music shows, DJs and a Biertent main stage at Parque Ibirapuera.",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/venda-geral-bts-world-tour-arirang-31-10",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-bts-world-tour-arirang-31-10",
+        "summary": "BTS closes out the São Paulo run of the World Tour 'Arirang' at Estádio do Morumbis, with the 31 October show scheduled for 20:00.",
         "genres": [
-          "festival",
-          "electronic"
+          "pop"
         ]
       },
       {
@@ -35,81 +34,296 @@
         "type": "concert",
         "startDate": "2026-10-10",
         "endDate": "2026-10-10",
-        "importance": 86,
-        "venueName": "Allianz Parque",
+        "importance": 88,
+        "venueName": "Nubank Parque",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/zayn",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/zayn",
-        "summary": "ZAYN brings The Konnakol Tour to São Paulo for a confirmed Allianz Parque concert on October 10, 2026, produced by Live Nation.",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/venda-geral-zayn-the-konnakol-tour-sao-paulo",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/venda-geral-zayn-the-konnakol-tour-sao-paulo",
+        "summary": "ZAYN brings The Konnakol Tour to São Paulo for a Saturday stadium show at Nubank Parque, with the concert scheduled for 20:00.",
         "genres": [
           "pop",
           "r-and-b"
         ]
       },
       {
-        "id": "sao-paulo-zig-festival-2026",
-        "title": "Zig Festival 2026: São Paulo",
-        "type": "festival",
-        "startDate": "2026-10-10",
-        "endDate": "2026-10-10",
-        "importance": 74,
-        "venueName": "Pavilhão + Audio",
+        "id": "sao-paulo-mochakk-calling-2026",
+        "title": "Mochakk Calling 2026",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-03",
+        "importance": 86,
+        "venueName": "Mercado Pago Hall - Pacaembu",
         "venueId": null,
-        "sourceUrl": "https://shotgun.live/pt-br/events/zig-festival-2026-10-10-oct-10th-sao-paulo",
-        "ticketUrl": "https://shotgun.live/pt-br/events/zig-festival-2026-10-10-oct-10th-sao-paulo",
-        "summary": "ZIG Festival’s São Paulo edition is confirmed for October 10 at Pavilhão + Audio, with Slayyyter listed on the lineup and a program billed for 30-plus singers, DJs and performers.",
+        "sourceUrl": "https://billboard.com.br/tudo-sobre-mochakk-calling-sp-2026/",
+        "ticketUrl": null,
+        "summary": "Mochakk brings his Mochakk Calling party back to São Paulo, with a four-and-a-half-hour long set plus Anastazja, Marina Dias and Peroli at Mercado Pago Hall in the Pacaembu complex.",
         "genres": [
-          "pop",
-          "electronic",
-          "house"
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "sao-paulo-esdeekid-rebel-tour-2026",
-        "title": "EsDeeKid: The Rebel Tour",
-        "type": "concert",
-        "startDate": "2026-10-22",
-        "endDate": "2026-10-22",
-        "importance": 68,
-        "venueName": "Audio",
-        "venueId": "audio-club-sp",
-        "sourceUrl": "https://www.eventim.com.br/artist/esdeekid/",
-        "ticketUrl": "https://www.eventim.com.br/artist/esdeekid/",
-        "summary": "UK underground rap artist EsDeeKid is confirmed at Audio on October 22, 2026, as part of The Rebel Tour in a 30e-promoted São Paulo date.",
+        "id": "sao-paulo-meli-music-2026",
+        "title": "MELI MUSIC – 4ª Edição",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 86,
+        "venueName": "Mercado Livre Arena Pacaembu",
+        "venueId": null,
+        "sourceUrl": "https://melimusic-sympla.com/",
+        "ticketUrl": "https://melimusic-sympla.com/",
+        "summary": "MELI MUSIC’s fourth edition is confirmed at Mercado Livre Arena Pacaembu with Anitta, Normani, Luísa Sonza, Pedro Sampaio and Gloria Groove among the announced pop lineup.",
         "genres": [
+          "pop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-zig-festival-2026",
+        "title": "Zig Festival 2026: 10/10",
+        "type": "festival",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 84,
+        "venueName": "Pavilhão + Audio",
+        "venueId": null,
+        "sourceUrl": "https://pt.ra.co/events/2438123",
+        "ticketUrl": "https://shotgun.live",
+        "summary": "Zig Festival’s São Paulo edition is listed at Avenida Francisco Matarazzo, 694 with a large lineup headed by Slayyyter, Rochelle Jordan, Karol Conká and Linn da Quebrada, connecting hyperpop, baile funk, pop and club music.",
+        "genres": [
+          "pop",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-mamba-negra-presidenta-2026",
+        "title": "Mamba Negra ☆ Presidenta ☆",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 84,
+        "venueName": "São Paulo, SP",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-pt/events/mamba-negra-presidenta",
+        "ticketUrl": "https://shotgun.live/pt-pt/events/mamba-negra-presidenta",
+        "summary": "Scene-defining queer underground institution Mamba Negra returns for a Halloween/election-themed edition with Donia L Jelly, EVEHIVE, Matusa, Mary D, MU540, Nãovenhasemrosto, Zaila and performers/visual artists.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic",
           "hip-hop"
         ]
       },
       {
-        "id": "sao-paulo-iron-maiden-oct25-2026",
-        "title": "Iron Maiden: Run For Your Lives World Tour 2026",
+        "id": "sao-paulo-jorja-smith-2026",
+        "title": "Jorja Smith",
         "type": "concert",
-        "startDate": "2026-10-25",
-        "endDate": "2026-10-25",
-        "importance": 90,
-        "venueName": "Allianz Parque",
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-30",
+        "importance": 82,
+        "venueName": "Espaço Unimed",
         "venueId": null,
-        "sourceUrl": "https://www.livepass.com.br/artist/iron-maiden/",
-        "ticketUrl": "https://www.livepass.com.br/artist/iron-maiden/",
-        "summary": "Iron Maiden’s 50th-anniversary Run For Your Lives World Tour lands at Allianz Parque on October 25, with Alter Bridge confirmed as the opening act.",
+        "sourceUrl": "https://guiadobemviver.com.br/programacao-cultural/jorja-smith",
+        "ticketUrl": "https://sales.ticketsforfun.com.br/#/ticket/eventInformation/jorja-smith",
+        "summary": "Jorja Smith plays Espaço Unimed with material from What Are the Odds, with DJ Akila opening and a program linking R&B with UK garage, grime, house, afrobeats and hip-hop references.",
+        "genres": [
+          "r-and-b",
+          "house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-under-division-vendex-2026",
+        "title": "Under Division apr. VENDEX",
+        "type": "club-night",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 82,
+        "venueName": "Fábrica Abandonada",
+        "venueId": null,
+        "sourceUrl": "https://www.sympla.com.br/evento/under-division-apr-vendex/3520353",
+        "ticketUrl": "https://www.sympla.com.br/evento/under-division-apr-vendex/3520353",
+        "summary": "Under Division’s hard-techno warehouse night brings Vendex from Spain for an exclusive Brazil date, joined by Amanda Mussi, Anddy Williams, Cabi, DJ Gabuxo and Kharsek.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-tarja-preta-phase-fatale-2026",
+        "title": "Tarja Preta presents: Phase Fatale",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 82,
+        "venueName": "Anexo Cambridge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2557918",
+        "ticketUrl": "https://shotgun.live",
+        "summary": "Industrial techno and EBM party Tarja Preta hosts Berghain/KHIDI resident Phase Fatale for his first São Paulo appearance, alongside Magal, LILITH, Barbara Dunkel b2b br:uno and Motorflavio.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-fuego-dancehall-centro-2026",
+        "title": "Fuego Dancehall // Centro SP",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 80,
+        "venueName": "Espaço Nobre / Rua Formosa 65",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/fuego-dancehall-centro-03-10",
+        "ticketUrl": "https://shotgun.live/en/events/fuego-dancehall-centro-03-10",
+        "summary": "TREVVO’s Fuego Dancehall brings a large São Paulo dancehall/reggae crowd to the Centro with Lara Sanches, Sucateiro vs Black, Deivi, Oasis Trindade and OLr08.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-meio-marcal-arthur-robert-2026",
+        "title": "[M]EIO 7ª Edição: Marcal & Arthur Robert",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "importance": 80,
+        "venueName": "Secret location in São Paulo",
+        "venueId": null,
+        "sourceUrl": "https://shtgn.live/pt-br/events/marcal-arthur-robert-16-10-m-eio-7-edicao",
+        "ticketUrl": "https://shtgn.live/pt-br/events/marcal-arthur-robert-16-10-m-eio-7-edicao",
+        "summary": "No-phone-policy underground techno session from [M]EIO with Brazil-to-Europe techno name Marcal and Vienna/Amsterdam artist Arthur Robert in an intimate secret-location format.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-gop-tun-martinelli-2026",
+        "title": "GOP TUN no Edifício Martinelli",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 79,
+        "venueName": "Edifício Martinelli",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2556352",
+        "ticketUrl": "https://www.sympla.com.br/evento/lgc/3588164",
+        "summary": "Gop Tun DJs take over the rooftop of Edifício Martinelli for an all-day 4x4 house and disco session from 14:00 to 22:00.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-fafi-abdel-nour-martinelli-2026",
+        "title": "From House to Disco Club presents Fafi Abdel Nour",
+        "type": "club-night",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "importance": 78,
+        "venueName": "Edifício Martinelli",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2523877",
+        "ticketUrl": "https://www.sympla.com.br/evento/from-house-to-disco-club-apresenta-fafi-abdel-nour-l-03-10/3558666",
+        "summary": "Amsterdam-based Fafi Abdel Nour plays the From House to Disco Club rooftop edition at Edifício Martinelli, joined by From House to Disco, Rafa Balera and Nana Kohat.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-d-edge-vladimir-dubyshkin-2026",
+        "title": "NAVE D-EDGE SP presents Vladimir Dubyshkin",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 78,
+        "venueName": "D-EDGE",
+        "venueId": null,
+        "sourceUrl": "https://djsound.com.br/?p=16336",
+        "ticketUrl": null,
+        "summary": "D-EDGE’s NAVE Saturday program features Russian techno artist Vladimir Dubyshkin on Pista 1 with DJ Murphy and Spuri, plus Gabriel Evoke, Hel Mello, Milani and Delete the Pattern across the club.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-ralachao-megafest-2026",
+        "title": "Ralachão - Megafest",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "importance": 78,
+        "venueName": "Sociedade Rosas de Ouro",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-pt/events/ralachao-mega-fest-31-10",
+        "ticketUrl": "https://shotgun.live/pt-pt/events/ralachao-mega-fest-31-10",
+        "summary": "Black, peripheral and LGBTQIA+ São Paulo party Ralachão stages a Megafest Halloween edition after 200+ editions, focused on funk, rap, afrobeat, dancehall, R&B and amapiano-adjacent sounds.",
+        "genres": [
+          "hip-hop",
+          "amapiano",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "sao-paulo-d-edge-ratier-neverdogs-2026",
+        "title": "NAVE D-EDGE SP presents Ratier & Laguna, Neverdogs",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 76,
+        "venueName": "D-EDGE",
+        "venueId": null,
+        "sourceUrl": "https://technobeatscloud.com/en/events/event/nave-d-edge-sp-ratier-laguna-neverdogs-d-edge-2026-10-24",
+        "ticketUrl": "https://www.blueticket.com.br",
+        "summary": "D-EDGE’s NAVE night lists Ratier and Neverdogs as headliners for an eight-hour club program running from 23:59 to 08:00.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-pitty-espaco-unimed-2026",
+        "title": "Pitty",
+        "type": "concert",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-17",
+        "importance": 75,
+        "venueName": "Espaço Unimed",
+        "venueId": null,
+        "sourceUrl": "https://www.ticket360.com.br/evento/34032/ingressos-para-pitty",
+        "ticketUrl": "https://www.ticket360.com.br/evento/34032/ingressos-para-pitty",
+        "summary": "Pitty opens the tour for her new album at Espaço Unimed in São Paulo, with a 22:30 showtime and a set centered on the new record alongside career songs.",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "sao-paulo-iron-maiden-extra-2026",
-        "title": "Iron Maiden: Run For Your Lives World Tour 2026 — Extra Date",
-        "type": "concert",
-        "startDate": "2026-10-27",
-        "endDate": "2026-10-27",
-        "importance": 88,
-        "venueName": "Allianz Parque",
+        "id": "sao-paulo-grade-masked-ball-2026",
+        "title": "Grade Masked Ball",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-25",
+        "importance": 75,
+        "venueName": "Baronesa / Edifício Barão de Formosa",
         "venueId": null,
-        "sourceUrl": "https://www.livepass.com.br/artist/iron-maiden/",
-        "ticketUrl": "https://www.livepass.com.br/artist/iron-maiden/",
-        "summary": "A second São Paulo Iron Maiden date is confirmed for October 27 at Allianz Parque due to demand, with Alter Bridge opening.",
+        "sourceUrl": "https://shotgun.live/pt-pt/events/grade04-10",
+        "ticketUrl": "https://shotgun.live/pt-pt/events/grade04-10",
+        "summary": "Festa Grade’s annual Halloween masked ball brings Zamurai from the US for her Brazil debut alongside Mary D, Malveck, M4lta, Cherolinne and Avante in a techno/house/Latin/funk-leaning ritual format.",
         "genres": [
-          "pop"
+          "techno",
+          "house",
+          "latin",
+          "electronic"
         ]
       },
       {
@@ -145,17 +359,33 @@
         ]
       },
       {
-        "id": "sao-paulo-bts-arirang-oct31-2026",
-        "title": "BTS World Tour ARIRANG — São Paulo",
+        "id": "sao-paulo-iron-maiden-oct25-2026",
+        "title": "Iron Maiden: Run For Your Lives World Tour 2026",
         "type": "concert",
-        "startDate": "2026-10-31",
-        "endDate": "2026-10-31",
-        "importance": 95,
-        "venueName": "Estádio MorumBIS",
+        "startDate": "2026-10-25",
+        "endDate": "2026-10-25",
+        "importance": 90,
+        "venueName": "Allianz Parque",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/bts-world-tour-arirang",
-        "summary": "BTS closes its São Paulo World Tour ARIRANG run at Estádio MorumBIS on October 31, 2026.",
+        "sourceUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "ticketUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "summary": "Iron Maiden’s 50th-anniversary Run For Your Lives World Tour lands at Allianz Parque on October 25, with Alter Bridge confirmed as the opening act.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-iron-maiden-extra-2026",
+        "title": "Iron Maiden: Run For Your Lives World Tour 2026 — Extra Date",
+        "type": "concert",
+        "startDate": "2026-10-27",
+        "endDate": "2026-10-27",
+        "importance": 88,
+        "venueName": "Allianz Parque",
+        "venueId": null,
+        "sourceUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "ticketUrl": "https://www.livepass.com.br/artist/iron-maiden/",
+        "summary": "A second São Paulo Iron Maiden date is confirmed for October 27 at Allianz Parque due to demand, with Alter Bridge opening.",
         "genres": [
           "pop"
         ]
@@ -175,6 +405,56 @@
         "genres": [
           "latin",
           "festival"
+        ]
+      },
+      {
+        "id": "sao-paulo-oktoberfest-2026",
+        "title": "9ª São Paulo Oktoberfest 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-10-04",
+        "importance": 70,
+        "venueName": "Arena de Eventos - Parque Ibirapuera",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest-2026",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest-2026",
+        "summary": "The 9th São Paulo Oktoberfest runs into the first weekend of October with German cultural programming, typical music shows, DJs and a Biertent main stage at Parque Ibirapuera.",
+        "genres": [
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-esdeekid-rebel-tour-2026",
+        "title": "EsDeeKid: The Rebel Tour",
+        "type": "concert",
+        "startDate": "2026-10-22",
+        "endDate": "2026-10-22",
+        "importance": 68,
+        "venueName": "Audio",
+        "venueId": "audio-club-sp",
+        "sourceUrl": "https://www.eventim.com.br/artist/esdeekid/",
+        "ticketUrl": "https://www.eventim.com.br/artist/esdeekid/",
+        "summary": "UK underground rap artist EsDeeKid is confirmed at Audio on October 22, 2026, as part of The Rebel Tour in a 30e-promoted São Paulo date.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sao-paulo-ensaio-da-pipoca-2026",
+        "title": "Ensaio Da Pipoca",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "importance": 63,
+        "venueName": "KOMPLEXO TEMPO",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/ensaio-da-pipoca",
+        "ticketUrl": "https://shotgun.live/pt-br/events/ensaio-da-pipoca",
+        "summary": "Maison Missionary’s pre-sale club night at KOMPLEXO TEMPO runs overnight into Sunday, with Anne Louise and Rafha Madrid listed and a tribal house/house music focus.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       }
     ]

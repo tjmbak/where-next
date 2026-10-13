@@ -2,9 +2,9 @@
   "slug": "detroit",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:33:00.235Z",
-  "responseId": "resp_09ddea23d93974740069ff613f0bd48197a004fcc6fdf0a7c8",
-  "searchCalls": 13,
+  "generatedAt": "2026-05-30T18:12:04.413Z",
+  "responseId": "augment:resp_0e43df16fe52d6df006a1b27fe6824819ab10909307681f11c",
+  "searchCalls": 11,
   "citations": [],
   "data": {
     "destinationSlug": "detroit",
@@ -12,6 +12,75 @@
     "year": 2026,
     "notes": "Detroit’s June 2026 calendar leans heavily into hip-hop, R&B, jazz and riverfront festival programming, with Tec-Troit extending the city’s electronic-music identity beyond Movement weekend.",
     "events": [
+      {
+        "id": "detroit-hart-of-detroit-summer-festival-2026",
+        "title": "Hart of Detroit Summer Festival",
+        "type": "festival",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 84,
+        "venueName": "Hart Plaza",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/hart-of-detroit-summer-festival-tickets-1986070513369",
+        "ticketUrl": "https://www.eventbrite.com/e/hart-of-detroit-summer-festival-tickets-1986070513369",
+        "summary": "The Juneteenth-focused Hart of Detroit Summer Festival returns to Hart Plaza with advertised performances including Fetty Wap, Kash Doll and BabyTron.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "detroit-tec-troit-electronic-music-festival-2026",
+        "title": "Tec-Troit Electronic Music Festival",
+        "type": "festival",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-28",
+        "importance": 82,
+        "venueName": "TBA - 1151 Taylor St.",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392995",
+        "ticketUrl": "https://ra.co/events/2392995",
+        "summary": "Tec-Troit is listed as a three-day free techno and house festival focused on Detroit-based musicians, with workshops and community programming alongside performances.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-rb-lovers-tour-2026",
+        "title": "The R&B Lovers Tour — Keith Sweat, Joe, Dru Hill, Ginuwine & Kut Klose",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 79,
+        "venueName": "Fox Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/rb-lovers",
+        "ticketUrl": "https://www.313presents.com/events/detail/rb-lovers",
+        "summary": "Keith Sweat, Joe, Dru Hill, Ginuwine and Kut Klose bring The R&B Lovers Tour to the Fox Theatre for a major classic R&B package show.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "detroit-bounce-that-dj-assault-2026",
+        "title": "Alternative School presents: BOUNCE THAT! w/ DJ Assault",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 79,
+        "venueName": "Northern Lights Lounge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2436766",
+        "ticketUrl": "https://ra.co/events/2436766",
+        "summary": "Alternative School’s BOUNCE THAT! returns with Detroit ghettotech/accelerated-funk pioneer DJ Assault, plus Disc Jockey George, DJ Psycho, Sheefy McFly, Fullbodydurag, Kittamami, LostBoy, and We1sman across indoor and patio stages.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
       {
         "id": "detroit-don-toliver-octane-2026",
         "title": "Don Toliver — Octane Tour with SahBabii, SoFaygo & CHASE B",
@@ -30,6 +99,176 @@
         ]
       },
       {
+        "id": "detroit-josh-groban-jennifer-hudson-2026",
+        "title": "Josh Groban with Jennifer Hudson",
+        "type": "concert",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-25",
+        "importance": 78,
+        "venueName": "Little Caesars Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.313presents.com/events/detail/josh-groban",
+        "ticketUrl": "https://www.313presents.com/events/detail/josh-groban",
+        "summary": "Josh Groban’s North American arena tour stops at Little Caesars Arena with Jennifer Hudson as the featured special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "detroit-sanctuary-pride-2026",
+        "title": "Sanctuary: Pride Edition",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 78,
+        "venueName": "Menjo's",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2387131",
+        "ticketUrl": "https://ra.co/events/2387131",
+        "summary": "A 10-hour, three-room Motor City Pride takeover of Menjo’s Entertainment Complex, built around Detroit queer underground techno, house, deep grooves, and sunrise endurance.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-juvenile-400-degree-band-2026",
+        "title": "Juvenile & The 400 Degree Band — The Desk Experience",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 76,
+        "venueName": "The Aretha Franklin Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/juvenile-the-400-degree-band-the-desk-experience-detroit-06-20-2026/event/08006377024BA024",
+        "ticketUrl": "https://www.ticketmaster.com/juvenile-the-400-degree-band-the-desk-experience-detroit-06-20-2026/event/08006377024BA024",
+        "summary": "Juvenile brings The 400 Degree Band to The Aretha Franklin Amphitheatre, with Mannie Fresh and B.G. listed in the Ticketmaster lineup.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "detroit-dystinct-yalla-habibi-2026",
+        "title": "DYSTINCT Live in Detroit: Yalla Habibi Club Takeover",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 75,
+        "venueName": "Elektricity",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2438160",
+        "ticketUrl": "https://www.prekindle.com/promo/id/-2852527949162845200",
+        "summary": "Yalla Habibi presents a Detroit-area club takeover with DYSTINCT, pairing a 30-minute live performance with DJs playing Arabic hits, Afro, international, and club anthems in a large nightlife setting.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-champion-sound-2026",
+        "title": "Champion Sound: Skyla Tylaa, Blakito & Yung D",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 74,
+        "venueName": "Big Pink",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2448590",
+        "ticketUrl": "https://ra.co/events/2448590",
+        "summary": "Big Pink’s Champion Sound returns with Skyla Tylaa, Blakito, and Yung D for an Afrobeats, Amapiano, and global-dance night positioned as a packed summer kickoff.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-malaa-alter-ego-2026",
+        "title": "Malaa's Alter Ego",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 74,
+        "venueName": "Lincoln Factory",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2414034",
+        "ticketUrl": "https://ra.co/events/2414034",
+        "summary": "MeanRed and Lincoln Factory present Malaa’s Alter Ego tour, a dark, bass-heavy house/electronic club-night concept framed as a head-to-head alias performance.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-diva-xr-2026",
+        "title": "DIVA XR",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 74,
+        "venueName": "Marble Bar",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443927",
+        "ticketUrl": "https://ra.co/events/2443927",
+        "summary": "Queer Pride-weekend collision of XOXR and Divalocity at Marble Bar, featuring TRQPITECA, Alex Falk, Garrison XR, Amino, Duck Trash, hypemelo, and more across house, electro, Miami bass, ballroom, and rave pressure.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-max-styler-russell-2026",
+        "title": "Max Styler",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 73,
+        "venueName": "Russell Industrial Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392713",
+        "ticketUrl": "https://ra.co/events/2392713",
+        "summary": "Paxahau brings house producer Max Styler to Building 6 at Russell Industrial Center, a larger-scale club/warehouse booking in a core Detroit electronic-music space.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-max-richter-acme-2026",
+        "title": "Max Richter with American Contemporary Music Ensemble",
+        "type": "concert",
+        "startDate": "2026-06-17",
+        "endDate": "2026-06-17",
+        "importance": 72,
+        "venueName": "Jack White Theatre at the Masonic Temple",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/search?q=the+jack+white+theatre+at+masonic+temple",
+        "ticketUrl": "https://www.ticketmaster.com/search?q=the+jack+white+theatre+at+masonic+temple",
+        "summary": "Composer Max Richter performs at the Jack White Theatre at the Masonic Temple with the American Contemporary Music Ensemble listed on the bill.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "detroit-drop-the-bass-2026",
+        "title": "Drop The Bass featuring DJ Magic Mike",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 72,
+        "venueName": "TV Lounge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2418187",
+        "ticketUrl": "https://ra.co/events/2418187",
+        "summary": "Breakloose Worldwide and Charivari Worldwide bring Miami-bass pioneer DJ Magic Mike to TV Lounge with DJ Godfather, BMG, Dilemma, Mark Moss, Beatnok, Matthew Jay, and Exodus across breakbeat, bass, and Detroit electronic lineages.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
         "id": "detroit-forrest-frank-jesus-generation-2026",
         "title": "Forrest Frank — The Jesus Generation Tour with Tori Kelly, Cory Asbury & The Figs",
         "type": "concert",
@@ -43,6 +282,39 @@
         "summary": "Forrest Frank headlines Little Caesars Arena on The Jesus Generation Tour, joined by Tori Kelly, Cory Asbury and The Figs.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "detroit-lalah-hathaway-aretha-2026",
+        "title": "Lalah Hathaway with Eric Darius",
+        "type": "concert",
+        "startDate": "2026-06-24",
+        "endDate": "2026-06-24",
+        "importance": 70,
+        "venueName": "The Aretha Franklin Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/search?q=lalah+hathaway",
+        "ticketUrl": "https://www.ticketmaster.com/search?q=lalah+hathaway",
+        "summary": "Lalah Hathaway plays The Aretha Franklin Amphitheatre as part of the venue’s Wednesday-night summer programming, with Eric Darius listed on the lineup.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "detroit-rsvp-aretha-2026",
+        "title": "RSVP — Ray J, Sammie, Bobby V & Pleasure P",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 70,
+        "venueName": "The Aretha Franklin Amphitheatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/rsvp-detroit-michigan-06-26-2026/event/080063770AEDA985",
+        "ticketUrl": "https://www.ticketmaster.com/rsvp-detroit-michigan-06-26-2026/event/080063770AEDA985",
+        "summary": "R&B supergroup RSVP — Ray J, Sammie, Bobby V and Pleasure P — is scheduled for a Friday night concert at The Aretha Franklin Amphitheatre.",
+        "genres": [
+          "r-and-b"
         ]
       },
       {
@@ -77,138 +349,6 @@
         "genres": [
           "jazz",
           "r-and-b"
-        ]
-      },
-      {
-        "id": "detroit-max-richter-acme-2026",
-        "title": "Max Richter with American Contemporary Music Ensemble",
-        "type": "concert",
-        "startDate": "2026-06-17",
-        "endDate": "2026-06-17",
-        "importance": 72,
-        "venueName": "Jack White Theatre at the Masonic Temple",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/search?q=the+jack+white+theatre+at+masonic+temple",
-        "ticketUrl": "https://www.ticketmaster.com/search?q=the+jack+white+theatre+at+masonic+temple",
-        "summary": "Composer Max Richter performs at the Jack White Theatre at the Masonic Temple with the American Contemporary Music Ensemble listed on the bill.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
-        "id": "detroit-hart-of-detroit-summer-festival-2026",
-        "title": "Hart of Detroit Summer Festival",
-        "type": "festival",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-19",
-        "importance": 84,
-        "venueName": "Hart Plaza",
-        "venueId": null,
-        "sourceUrl": "https://www.eventbrite.com/e/hart-of-detroit-summer-festival-tickets-1986070513369",
-        "ticketUrl": "https://www.eventbrite.com/e/hart-of-detroit-summer-festival-tickets-1986070513369",
-        "summary": "The Juneteenth-focused Hart of Detroit Summer Festival returns to Hart Plaza with advertised performances including Fetty Wap, Kash Doll and BabyTron.",
-        "genres": [
-          "hip-hop",
-          "festival"
-        ]
-      },
-      {
-        "id": "detroit-rb-lovers-tour-2026",
-        "title": "The R&B Lovers Tour — Keith Sweat, Joe, Dru Hill, Ginuwine & Kut Klose",
-        "type": "concert",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 79,
-        "venueName": "Fox Theatre",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/events/detail/rb-lovers",
-        "ticketUrl": "https://www.313presents.com/events/detail/rb-lovers",
-        "summary": "Keith Sweat, Joe, Dru Hill, Ginuwine and Kut Klose bring The R&B Lovers Tour to the Fox Theatre for a major classic R&B package show.",
-        "genres": [
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "detroit-juvenile-400-degree-band-2026",
-        "title": "Juvenile & The 400 Degree Band — The Desk Experience",
-        "type": "concert",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 76,
-        "venueName": "The Aretha Franklin Amphitheatre",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/juvenile-the-400-degree-band-the-desk-experience-detroit-06-20-2026/event/08006377024BA024",
-        "ticketUrl": "https://www.ticketmaster.com/juvenile-the-400-degree-band-the-desk-experience-detroit-06-20-2026/event/08006377024BA024",
-        "summary": "Juvenile brings The 400 Degree Band to The Aretha Franklin Amphitheatre, with Mannie Fresh and B.G. listed in the Ticketmaster lineup.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "detroit-lalah-hathaway-aretha-2026",
-        "title": "Lalah Hathaway with Eric Darius",
-        "type": "concert",
-        "startDate": "2026-06-24",
-        "endDate": "2026-06-24",
-        "importance": 70,
-        "venueName": "The Aretha Franklin Amphitheatre",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/search?q=lalah+hathaway",
-        "ticketUrl": "https://www.ticketmaster.com/search?q=lalah+hathaway",
-        "summary": "Lalah Hathaway plays The Aretha Franklin Amphitheatre as part of the venue’s Wednesday-night summer programming, with Eric Darius listed on the lineup.",
-        "genres": [
-          "r-and-b",
-          "jazz"
-        ]
-      },
-      {
-        "id": "detroit-josh-groban-jennifer-hudson-2026",
-        "title": "Josh Groban with Jennifer Hudson",
-        "type": "concert",
-        "startDate": "2026-06-25",
-        "endDate": "2026-06-25",
-        "importance": 78,
-        "venueName": "Little Caesars Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.313presents.com/events/detail/josh-groban",
-        "ticketUrl": "https://www.313presents.com/events/detail/josh-groban",
-        "summary": "Josh Groban’s North American arena tour stops at Little Caesars Arena with Jennifer Hudson as the featured special guest.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "detroit-rsvp-aretha-2026",
-        "title": "RSVP — Ray J, Sammie, Bobby V & Pleasure P",
-        "type": "concert",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-26",
-        "importance": 70,
-        "venueName": "The Aretha Franklin Amphitheatre",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com/rsvp-detroit-michigan-06-26-2026/event/080063770AEDA985",
-        "ticketUrl": "https://www.ticketmaster.com/rsvp-detroit-michigan-06-26-2026/event/080063770AEDA985",
-        "summary": "R&B supergroup RSVP — Ray J, Sammie, Bobby V and Pleasure P — is scheduled for a Friday night concert at The Aretha Franklin Amphitheatre.",
-        "genres": [
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "detroit-tec-troit-electronic-music-festival-2026",
-        "title": "Tec-Troit Electronic Music Festival",
-        "type": "festival",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-28",
-        "importance": 82,
-        "venueName": "TBA - 1151 Taylor St.",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2392995",
-        "ticketUrl": "https://ra.co/events/2392995",
-        "summary": "Tec-Troit is listed as a three-day free techno and house festival focused on Detroit-based musicians, with workshops and community programming alongside performances.",
-        "genres": [
-          "techno",
-          "house",
-          "electronic"
         ]
       }
     ]

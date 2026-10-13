@@ -1,0 +1,261 @@
+{
+  "slug": "berlin",
+  "month": 10,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:18:21.657Z",
+  "responseId": "resp_0c7aeba26f1734b0006acdb05ad2e087d0a3a0fa11c80cc9c4+resp_06a2fc53312ba111006acdb0bc494c87d0b5fd6c9f43a21e88",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 10,
+    "year": 2027,
+    "notes": "October 2027 confirmations are still weighted toward arena and ticketed concert announcements, with only a small number of Berlin club-culture listings already posted this far out.",
+    "events": [
+      {
+        "id": "berlin-sido-frieden-tour-2027",
+        "title": "Sido - Frieden Tour 2027 Zusatzshow",
+        "type": "concert",
+        "startDate": "2027-10-08",
+        "endDate": "2027-10-08",
+        "importance": 82,
+        "venueName": "Max-Schmeling-Halle",
+        "venueId": null,
+        "sourceUrl": "https://www.max-schmeling-halle.de/events/event/sido-max-schmeling-halle-2027-09-24",
+        "ticketUrl": "https://www.eventim.de/artist/sido/sido-frieden-tour-2027-tickets-only-nfc-album-tickets-4082990/",
+        "summary": "Berlin rap figure Sido plays an added hometown date at Max-Schmeling-Halle on the Frieden Tour 2027. The venue confirms the 8 October 2027 show, 20:00 start and 18:00 doors.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-foreigner-50th-anniversary-2027",
+        "title": "Foreigner - 50th Anniversary Arena Tour 2027 with Europe",
+        "type": "concert",
+        "startDate": "2027-10-12",
+        "endDate": "2027-10-12",
+        "importance": 72,
+        "venueName": "Max-Schmeling-Halle",
+        "venueId": null,
+        "sourceUrl": "https://www.max-schmeling-halle.de/en/events/event/foreigner-max-schmeling-halle-2027-10-12",
+        "ticketUrl": "https://www.eventim.de/en/artist/foreigner/foreigner-50th-anniversary-tour-2027-4170378/",
+        "summary": "Foreigner bring their 50th Anniversary Arena Tour to Max-Schmeling-Halle with Swedish rock band Europe as special guest. The venue confirms the Berlin date for 12 October 2027 at 20:00, with doors at 18:30.",
+        "genres": []
+      },
+      {
+        "id": "berlin-epica-symphonic-synergy-2027",
+        "title": "Epica - The Symphonic Synergy Tour 2027",
+        "type": "concert",
+        "startDate": "2027-10-01",
+        "endDate": "2027-10-01",
+        "importance": 70,
+        "venueName": "Admiralspalast",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/epica-the-symphonic-synergy-tour-2027-admiralspalast-22062123/",
+        "ticketUrl": "https://www.eventim.de/en/event/epica-the-symphonic-synergy-tour-2027-admiralspalast-22062123/",
+        "summary": "Dutch symphonic-metal band Epica bring their 2027 Symphonic Synergy tour to Admiralspalast on 1 October 2027. The Eventim listing confirms the Berlin date, venue and 20:00 start time.",
+        "genres": []
+      },
+      {
+        "id": "berlin-nena-alles-ist-gut-2027",
+        "title": "Nena - Alles ist gut Tour",
+        "type": "concert",
+        "startDate": "2027-10-23",
+        "endDate": "2027-10-23",
+        "importance": 70,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/nena-2027/2027-10-23-2000",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/nena-2027/2027-10-23-2000",
+        "summary": "Nena performs at Uber Arena on the Alles ist gut tour. The venue listing confirms 23 October 2027, 20:00 start and 18:00 doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-querbeat-tutti-vibe-2027",
+        "title": "Querbeat - Tutti Vibe Clubtour",
+        "type": "concert",
+        "startDate": "2027-10-23",
+        "endDate": "2027-10-23",
+        "importance": 68,
+        "venueName": "Festsaal Kreuzberg",
+        "venueId": null,
+        "sourceUrl": "https://www.querbeat.info/",
+        "ticketUrl": "https://www.eventim.de/event/querbeat-tutti-vibe-clubtour-festsaal-kreuzberg-21952420/",
+        "summary": "Querbeat bring their Tutti Vibe Clubtour to Festsaal Kreuzberg on 23 October 2027. The band's official tour page confirms the Berlin date and venue, with Eventim confirming the 20:00 start.",
+        "genres": [
+          "pop",
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "berlin-die-prinzen-abschiedstournee-2027",
+        "title": "Die Prinzen - Tschüssi, macht’s gut! Abschiedstournee",
+        "type": "concert",
+        "startDate": "2027-10-28",
+        "endDate": "2027-10-28",
+        "importance": 66,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/die-prinzen/2027-10-28-1930",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/die-prinzen/2027-10-28-1930",
+        "summary": "German pop group Die Prinzen bring their farewell tour to Uber Arena on 28 October 2027. The venue confirms the 19:30 show time and 18:00 doors.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-lychee-lassi-gretchen-2027",
+        "title": "Lychee Lassi",
+        "type": "concert",
+        "startDate": "2027-10-02",
+        "endDate": "2027-10-02",
+        "importance": 65,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430361",
+        "ticketUrl": "https://ra.co/events/2430361",
+        "summary": "Berlin underground band Lychee Lassi play Gretchen on 2 October 2027 with a live set blending hip-hop, jazz, dub, house and electronic sound experiments. Resident Advisor lists the event time as 18:30–22:30.",
+        "genres": [
+          "hip-hop",
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-andrea-berg-live-2027",
+        "title": "Andrea Berg - Live 2027",
+        "type": "concert",
+        "startDate": "2027-10-30",
+        "endDate": "2027-10-30",
+        "importance": 65,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/events/detail/andrea-berg-27/2027-10-30-1930",
+        "ticketUrl": "https://www.uber-arena.de/events/detail/andrea-berg-27/2027-10-30-1930",
+        "summary": "German pop-schlager star Andrea Berg plays Uber Arena on her 2027 tour. The venue confirms the Berlin show for 30 October 2027 at 19:30, with doors at 17:30.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-demolition-2027",
+        "title": "DEMOLITION",
+        "type": "club-night",
+        "startDate": "2027-10-16",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/promoters/106281",
+        "ticketUrl": null,
+        "summary": "Demolition Collective Berlin returns to Lokschuppen with a techno-focused night; the collective frames its sound across techno subgenres from melodic to industrial intensity.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-einheit-durch-musik-2027",
+        "title": "Einheit Durch Musik Teil 2",
+        "type": "club-night",
+        "startDate": "2027-10-02",
+        "endDate": "2027-10-02",
+        "importance": 60,
+        "venueName": "Alexanderplatz",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2554939",
+        "ticketUrl": null,
+        "summary": "A free street-focused electronic music gathering at Alexanderplatz one day before German Unity Day, with the RA listing naming SLUST, MusicZounds Kollektiv and Kauz among participating collectives. The event is scheduled for 14:00–22:00 on 2 October 2027.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-lokschuppen-stinny-stone-2027",
+        "title": "LOKSCHUPPEN pres. STINNY STONE INVITES",
+        "type": "club-night",
+        "startDate": "2027-10-02",
+        "endDate": "2027-10-03",
+        "importance": 60,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2555153",
+        "ticketUrl": "https://ra.co/events/2555153",
+        "summary": "Late-night Lokschuppen-presented techno/trance club event built around Stinny Stone’s invite format; lineup is still TBA on the source listing.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-lari-luke-2027",
+        "title": "LARI LUKE",
+        "type": "club-night",
+        "startDate": "2027-10-16",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Modus Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2516438",
+        "ticketUrl": "https://modus-berlin.de/event/161027-LARILUKE",
+        "summary": "Confirmed techno event at Modus Berlin headlined by LARI LUKE, with ticketing linked from the RA listing to Modus Berlin.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-bernhard-brink-admiralspalast-2027",
+        "title": "Bernhard Brink: Danke für die Zeit - Die Abschiedstour",
+        "type": "concert",
+        "startDate": "2027-10-04",
+        "endDate": "2027-10-04",
+        "importance": 68,
+        "venueName": "Admiralspalast",
+        "venueId": null,
+        "sourceUrl": "https://www.admiralspalast.theater/veranstaltung/bernhard-brink-danke-fuer-die-zeit-die-abschiedstour.html",
+        "ticketUrl": "https://www.admiralspalast.theater/veranstaltung/bernhard-brink-danke-fuer-die-zeit-die-abschiedstour.html",
+        "summary": "German schlager singer Bernhard Brink brings his farewell tour to Admiralspalast. The venue lists the Berlin performance for 04 Oct 2027 at 18:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-scala-kolacny-tempodrom-2027",
+        "title": "Scala & Kolacny Brothers: Scala 30",
+        "type": "concert",
+        "startDate": "2027-10-03",
+        "endDate": "2027-10-03",
+        "importance": 66,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/scala_und_kolacny_brothers_2027-10-03_19/tickets/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/scala_und_kolacny_brothers_2027-10-03_19/tickets/",
+        "summary": "Belgian choir project Scala & Kolacny Brothers bring their Scala 30 concert to Tempodrom. The venue lists doors at 18:00 and show start at 19:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-tom-twers-huxleys-2027",
+        "title": "Tom Twers: Mein Herz Kriegst Du Nicht - Tour 2027",
+        "type": "concert",
+        "startDate": "2027-10-08",
+        "endDate": "2027-10-08",
+        "importance": 65,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://huxleysneuewelt.de/en/events",
+        "ticketUrl": "https://huxleysneuewelt.de/en/events",
+        "summary": "German pop singer-songwriter Tom Twers is confirmed at Huxleys Neue Welt. The venue calendar lists the show on 08 Oct 2027 with doors at 19:00 and start at 20:00.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

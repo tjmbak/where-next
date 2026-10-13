@@ -2,16 +2,325 @@
   "slug": "berlin",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:54:30.205Z",
-  "responseId": "resp_0e49f54d698696d50069ff583da3d08197af6147855c70434d",
-  "searchCalls": 15,
+  "generatedAt": "2026-10-13T02:48:47.193Z",
+  "responseId": "resp_0b599d3b50e89d14006acd9b55a42087d0b15105cbd95f8c1e+resp_0fecd83a7bde0bfb006acd9bad367087d0b4138d6be2cd7a0f",
+  "searchCalls": 29,
   "citations": [],
   "data": {
     "destinationSlug": "berlin",
     "month": 12,
     "year": 2026,
-    "notes": "Berlin’s December 2026 calendar is already led by arena-scale German pop/hip-hop tours and seasonal concert runs, while most club lineups are not yet announced this far out.",
+    "notes": "December 2026 is already unusually well-confirmed for Berlin, with strong club programming around RSO, ://about blank, OST and RAW alongside pop/R&B/hip-hop concerts and major NYE weekender announcements.",
     "events": [
+      {
+        "id": "berlin-rso-null-reset-nye-2026",
+        "title": "RSO: NULL RESET — NYE 82HR WEEKENDER",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-04",
+        "importance": 92,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2487282",
+        "ticketUrl": "https://de.ra.co/events/2487282",
+        "summary": "RSO’s NULL RESET NYE Weekender runs from 31 December 2026 through 4 January 2027 across three floors. The confirmed lineup includes Adiel, Akua, Alarico, Daria Kolosova, Freddy K, MARRØN, Josey Rebelle, JASSS, DJ Spit, NIKS, Schacke and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-bcco-240kmh-nye-2026",
+        "title": "BCCO x 240KMH",
+        "type": "club-night",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-02",
+        "importance": 88,
+        "venueName": "MUENZE",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2393223",
+        "ticketUrl": "https://de.ra.co/events/2393223",
+        "summary": "BCCO and 240KMH join for a large-scale NYE Berlin celebration at MUENZE beginning 30 December 2026. RA confirms a heavyweight techno bill including future.666, AEREA live, ÜBERKIKZ, BIIA, DJ Hyperdrive, Alycia Bezgo, WILDERÍCH b2b GIØ and many more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-gegen-prncptl-ost-nye-2026",
+        "title": "GEGEN X PRNCPTL X OST NYE 34H",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-02",
+        "importance": 88,
+        "venueName": "OST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2480820",
+        "ticketUrl": "https://ra.co/events/2480820",
+        "summary": "GEGEN, Pornceptual and OST join forces for a 34-hour NYE event starting 31 December 2026. RA confirms a large queer techno and house lineup including Dr. Rubinstein, Hyperaktivist, Kiddy Smile, Spacer Woman, 2THEMAX b2b KEMIK and many more.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-polyamor-sesh-nye-2026",
+        "title": "Polyamor x SESH",
+        "type": "club-night",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-02",
+        "importance": 84,
+        "venueName": "RAW- Lokschuppen + Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2446798",
+        "ticketUrl": "https://ra.co/events/2446798",
+        "summary": "Polyamor and SESH take over RAW- Lokschuppen plus Astra Kulturhaus for a two-venue NYE event beginning 30 December 2026. RA confirms a large trance/techno lineup including Paraçek, davyboi, Mika Heggemann, Cara Elizabeth, DJ DRECKISCH and Trancemaster Krause.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-sido-weihnachtsshow-columbiahalle-2026",
+        "title": "Sido – SIDOs Weihnachtsshow 2026",
+        "type": "residency",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 82,
+        "venueName": "Columbiahalle",
+        "venueId": null,
+        "sourceUrl": "https://www.universal-music.de/sido/termine/18-12-2026-columbiahalle-berlin-20-00-1160949",
+        "ticketUrl": "https://www.eventim.de/artist/sido/sido-sidos-weihnachtsshow-2026-3979516/",
+        "summary": "Sido’s annual Weihnachtsshow run returns to Columbiahalle, with this representative date confirmed for 18 December 2026 at 20:00 on the artist’s Universal Music page. It is one of Berlin’s recurring German hip-hop holiday fixtures.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-renate-nye-2026",
+        "title": "Renate NYE 2026/27",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-03",
+        "importance": 81,
+        "venueName": "Renate",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2498052",
+        "ticketUrl": "https://ra.co/events/2498052",
+        "summary": "Renate's 68-hour, five-floor NYE program features techno, house, EBM and breakbeat with Amy Dabbs, Evil B-Side Twins, Rachel Noon, Vio PRG, Zeynep and showcase crews.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-nia-archives-emotional-world-tour-2026",
+        "title": "Nia Archives – Emotional World Tour",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 80,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.niaarchives.com/tour/",
+        "ticketUrl": "https://www.berlin.de/en/tickets/rock-pop/nia-archives-emotional-world-tour/2026-12-01-nia-archives-2c7091cb-5a37-4fb8-952c-b873e7fe202b/",
+        "summary": "Nia Archives brings her Emotional World Tour to Berlin’s Uber Eats Music Hall on 1 December 2026. The official artist tour page lists the Berlin date and venue.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-heisss-30-hours-2026",
+        "title": "HEISSS I 30 hours",
+        "type": "club-night",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-21",
+        "importance": 80,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2509264",
+        "ticketUrl": "https://ra.co/events/2509264",
+        "summary": "HEISSS stages a 30-hour RSO weekender with Justine Perry x Paula Koski, Temudo and more TBA, centered on long-form techno with house edges.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-oxi-nye-60-hours-2026",
+        "title": "OXI NYE - 60 Hours",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-03",
+        "importance": 78,
+        "venueName": "OXI",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2522767",
+        "ticketUrl": "https://ra.co/events/2522767",
+        "summary": "OXI marks the year change with a 60-hour queer and FLINTA-powered techno, house and disco session running through the first weekend of 2027.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-reinkarnation-about-blank-2026",
+        "title": "REINKARNATION w/ DICE, Kamäleon, Limoncello, Pavello Promillo & Giorgio Inkasso, Benito",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-05",
+        "importance": 77,
+        "venueName": "://about blank",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2445031",
+        "ticketUrl": "https://ra.co/events/2445031",
+        "summary": "NEUTRUM’s final REINKARNATION of 2026 is confirmed at ://about blank on 5 December 2026. The lineup includes DICE, Kamäleon, Limoncello, Pavelo Promillo b2b Giorgio Inkasso, BENITO, Alexa Fluor, Elias Nuit and Nassia BabyV.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-reinkarnation-2026",
+        "title": "REINKARNATION w./ DICE, Kamäleon, Pavello Promillo & Giorgio Inkasso, Limoncello, Benito",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 77,
+        "venueName": "://about blank",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2445031",
+        "ticketUrl": "https://ra.co/events/2445031",
+        "summary": "NEUTRUM closes its 2026 REINKARNATION series at ://about blank with high-energy techno, bounce, trance and hardtrance across two floors.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-bln-reunion-indoor-2026",
+        "title": "BLN REUNION INDOOR FESTIVAL",
+        "type": "festival",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 76,
+        "venueName": "Spindler & Klatt",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2442296",
+        "ticketUrl": "https://ra.co/events/2442296",
+        "summary": "Winter indoor edition of BLN Reunion with three floors and 14 acts, including AKA AKA, K-Paul, Sascha Braemer, Blondee, Ostekke and more.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-bree-runway-saalchen-2026",
+        "title": "Bree Runway",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 74,
+        "venueName": "Säälchen",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.de/event/bree-runway-tickets/446123075?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.de/event/bree-runway-tickets/446123075?language=en-us",
+        "summary": "Bree Runway plays Säälchen Berlin on 1 December 2026 at 20:00. Ticketmaster lists the event as presented by Live Nation.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-contrast-fka-m4a-paloma-2026",
+        "title": "CONTR4ST pres. fka.m4a [6 hour set]",
+        "type": "club-night",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 74,
+        "venueName": "Paloma",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2519546",
+        "ticketUrl": "https://ra.co/events/2519546",
+        "summary": "CONTR4ST returns to Paloma on 6 December 2026 with fka.m4a playing a six-hour set and support from Orik. The RA page lists house and progressive house as the core sound.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-afro-haus-xxl-2026",
+        "title": "AFRO HAUS XXL - Dezember Edition",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 74,
+        "venueName": "Narva Lounge",
+        "venueId": null,
+        "sourceUrl": "https://afrohaus.ticket.io/NYqbYmTR/?lang=de",
+        "ticketUrl": "https://afrohaus.ticket.io/NYqbYmTR/?lang=de",
+        "summary": "Three-floor diaspora party at Narva Lounge with Afrobeats, Amapiano, Hip Hop, UK sounds, Dancehall, Reggae and Soca, hosted by AFRO HAUS Soundsystem.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-shantel-bucovina-so36-2026",
+        "title": "Shantel & Bucovina Club Soundsystem – Partizani Super Sonic Live Tour",
+        "type": "concert",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-01",
+        "importance": 73,
+        "venueName": "SO36",
+        "venueId": null,
+        "sourceUrl": "https://www.so36.com/produkte/91779-tickets-shantel-bucovina-club-soundsystem-so36-berlin-am-01-12-2026",
+        "ticketUrl": "https://www.so36.com/produkte/91779-tickets-shantel-bucovina-club-soundsystem-so36-berlin-am-01-12-2026",
+        "summary": "Shantel & Bucovina Club Soundsystem play SO36 on 1 December 2026, with doors at 19:00 and show at 20:00. SO36’s official ticket page describes a live club-culture set blending Balkan pop, global bass, diaspora beats and electro.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-amsterdam-techno-records-depot-2026",
+        "title": "Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin]",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 73,
+        "venueName": "://about blank",
+        "venueId": null,
+        "sourceUrl": "https://pt.ra.co/events/2530889",
+        "ticketUrl": "https://pt.ra.co/events/2530889",
+        "summary": "Amsterdam Techno Records teams with DEPOT BERLIN at ://about blank on 12 December 2026. The RA listing confirms a three-floor techno lineup with Ángel Negrín, Solvados, Jasmin Giovanazzi, DEN!SE, Martxas, STASIC, Dave Mech live, Bokaric, s:mash and SIUL.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-small-great-house-2026",
+        "title": "Small Great House 'Season Closing 2026' with Nat Wendell b2b Mike Starr",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 73,
+        "venueName": "OXI",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2516629",
+        "ticketUrl": "https://ra.co/events/2516629",
+        "summary": "Small Great Things' house/disco season closing at OXI, anchored by Nat Wendell b2b Mike Starr with more artists to be announced.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
       {
         "id": "berlin-sido-weihnachtsshow-2026",
         "title": "SIDOs Weihnachtsshow 2026",
@@ -30,35 +339,36 @@
         ]
       },
       {
-        "id": "berlin-pur-uber-arena-2026",
-        "title": "PUR 2026",
+        "id": "berlin-die-fantastischen-vier-final-tour-2026",
+        "title": "Die Fantastischen Vier: Der letzte Bus – Final Tour",
         "type": "concert",
-        "startDate": "2026-12-02",
-        "endDate": "2026-12-02",
-        "importance": 78,
+        "startDate": "2026-12-17",
+        "endDate": "2026-12-17",
+        "importance": 84,
         "venueName": "Uber Arena",
         "venueId": null,
-        "sourceUrl": "https://www.pur.de/events/2026-12-02-pur-uber-arena-1164794",
-        "ticketUrl": "https://www.pur.de/events/2026-12-02-pur-uber-arena-1164794",
-        "summary": "German pop band PUR open their 2026 arena tour at Uber Arena Berlin on 2 December 2026. The official artist site lists the Berlin date and ticket link.",
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/die-fantastischen-vier-2",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/die-fantastischen-vier-2",
+        "summary": "German hip-hop pioneers Die Fantastischen Vier play Uber Arena Berlin on 17 December 2026. The official venue page lists the show as part of their final tour.",
         "genres": [
+          "hip-hop",
           "pop"
         ]
       },
       {
-        "id": "berlin-sarah-brightman-winter-symphony-2026",
-        "title": "Sarah Brightman: A Winter Symphony",
+        "id": "berlin-nimo-velodrom-2026",
+        "title": "NIMO: Home Sweet Home Arena Tour 2026",
         "type": "concert",
-        "startDate": "2026-12-02",
-        "endDate": "2026-12-02",
-        "importance": 74,
-        "venueName": "Tempodrom",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 83,
+        "venueName": "Velodrom Berlin",
         "venueId": null,
-        "sourceUrl": "https://www.tempodrom.de/event/sarah_brightman_2026-12-02_20/tickets/",
-        "ticketUrl": "https://www.tempodrom.de/event/sarah_brightman_2026-12-02_20/tickets/",
-        "summary": "Sarah Brightman brings her seasonal “A Winter Symphony” program to Tempodrom on 2 December 2026, with Tonči Huljić listed as support. The venue page confirms doors and start time for the Große Arena.",
+        "sourceUrl": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
+        "ticketUrl": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
+        "summary": "German rapper Nimo plays Velodrom Berlin on 12 December 2026 on his Home Sweet Home Arena Tour. Velodrom describes the Berlin stop as part of a double-header in December.",
         "genres": [
-          "pop"
+          "hip-hop"
         ]
       },
       {
@@ -73,6 +383,40 @@
         "sourceUrl": "https://www.uber-arena.de/events/detail/bap/2026-12-08-1930",
         "ticketUrl": "https://www.uber-arena.de/events/detail/bap/2026-12-08-1930",
         "summary": "Wolfgang Niedecken’s BAP play Uber Arena on 8 December 2026 as part of the band’s 50th-anniversary tour. The arena’s official event page confirms the date and tour title.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-piepshow-decemberpiep-2026",
+        "title": "PiepShow - DecemberPiep",
+        "type": "club-night",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-19",
+        "importance": 79,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2277084",
+        "ticketUrl": null,
+        "summary": "PiepShow’s DecemberPiep is billed as a colourful queer techno rave at KitKatClub, spanning five dancefloors, 14 DJ artists, play areas, drag/comedy performance, shibari and a 14-hour programme across techno, hard techno, house, disco and trance/groove rooms.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-pur-uber-arena-2026",
+        "title": "PUR 2026",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 78,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.pur.de/events/2026-12-02-pur-uber-arena-1164794",
+        "ticketUrl": "https://www.pur.de/events/2026-12-02-pur-uber-arena-1164794",
+        "summary": "German pop band PUR open their 2026 arena tour at Uber Arena Berlin on 2 December 2026. The official artist site lists the Berlin date and ticket link.",
         "genres": [
           "pop"
         ]
@@ -96,52 +440,37 @@
         ]
       },
       {
-        "id": "berlin-nimo-velodrom-2026",
-        "title": "NIMO: Home Sweet Home Arena Tour 2026",
+        "id": "berlin-matthias-reim-uber-arena-2026",
+        "title": "Matthias Reim: 35 Jahre “Verdammt, ich lieb’ dich”",
         "type": "concert",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 83,
-        "venueName": "Velodrom Berlin",
-        "venueId": null,
-        "sourceUrl": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
-        "ticketUrl": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
-        "summary": "German rapper Nimo plays Velodrom Berlin on 12 December 2026 on his Home Sweet Home Arena Tour. Velodrom describes the Berlin stop as part of a double-header in December.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "berlin-jerome-froese-privatclub-2026",
-        "title": "Jerome Froese: Rare Up Close – Live",
-        "type": "concert",
-        "startDate": "2026-12-12",
-        "endDate": "2026-12-12",
-        "importance": 70,
-        "venueName": "Privatclub",
-        "venueId": null,
-        "sourceUrl": "https://privatclub-berlin.de/events/3/?Itemid=32&extid=67&extmode=view&option=com_extcalendar",
-        "ticketUrl": "https://privatclub-berlin.de/events/3/?Itemid=32&extid=67&extmode=view&option=com_extcalendar",
-        "summary": "Jerome Froese performs at Privatclub on 12 December 2026, with the venue billing the show as electronic/guitartronica. The program includes solo work, reinterpreted Tangerine Dream material and new music.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
-        "id": "berlin-die-fantastischen-vier-final-tour-2026",
-        "title": "Die Fantastischen Vier: Der letzte Bus – Final Tour",
-        "type": "concert",
-        "startDate": "2026-12-17",
-        "endDate": "2026-12-17",
-        "importance": 84,
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-28",
+        "importance": 76,
         "venueName": "Uber Arena",
         "venueId": null,
-        "sourceUrl": "https://www.uber-arena.de/en/events/detail/die-fantastischen-vier-2",
-        "ticketUrl": "https://www.uber-arena.de/en/events/detail/die-fantastischen-vier-2",
-        "summary": "German hip-hop pioneers Die Fantastischen Vier play Uber Arena Berlin on 17 December 2026. The official venue page lists the show as part of their final tour.",
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/matthias-reim-26/",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/matthias-reim-26/",
+        "summary": "Matthias Reim visits Uber Arena on 28 December 2026 on his anniversary tour for “Verdammt, ich lieb’ dich.” The arena’s official page confirms the date and tour context.",
         "genres": [
-          "hip-hop",
           "pop"
+        ]
+      },
+      {
+        "id": "berlin-four-play-2026",
+        "title": "Four Play",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-05",
+        "importance": 76,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2326246",
+        "ticketUrl": "https://ra.co/events/2326246",
+        "summary": "Section 8’s sex-positive Four Play residency returns to KitKatClub with a multi-floor techno/house programme plus performances, interactive stations and a large awareness setup; the listing describes it as closer to a festival than a standard club night.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -156,6 +485,38 @@
         "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/no-angels/2026-12-18-2000",
         "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/no-angels/2026-12-18-2000",
         "summary": "No Angels celebrate their Christmas album with an exclusive Berlin concert at Uber Eats Music Hall on 18 December 2026. The venue page confirms the date, doors and start time.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-grobes-fest-astra-2026",
+        "title": "Grobes Fest 2026: Slime + Focus. + Rantanplan + Knochenfabrik",
+        "type": "festival",
+        "startDate": "2026-12-28",
+        "endDate": "2026-12-28",
+        "importance": 75,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.de/en/event/slime-grobes-fest-astra-kulturhaus-21584408/",
+        "ticketUrl": "https://www.eventim.de/en/event/slime-grobes-fest-astra-kulturhaus-21584408/",
+        "summary": "Grobes Fest brings Slime, Focus., Rantanplan and Knochenfabrik to Astra Kulturhaus on 28 December 2026. Eventim’s listing confirms the Berlin date, venue and lineup.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-sarah-brightman-winter-symphony-2026",
+        "title": "Sarah Brightman: A Winter Symphony",
+        "type": "concert",
+        "startDate": "2026-12-02",
+        "endDate": "2026-12-02",
+        "importance": 74,
+        "venueName": "Tempodrom",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/event/sarah_brightman_2026-12-02_20/tickets/",
+        "ticketUrl": "https://www.tempodrom.de/event/sarah_brightman_2026-12-02_20/tickets/",
+        "summary": "Sarah Brightman brings her seasonal “A Winter Symphony” program to Tempodrom on 2 December 2026, with Tonči Huljić listed as support. The venue page confirms doors and start time for the Große Arena.",
         "genres": [
           "pop"
         ]
@@ -178,35 +539,105 @@
         ]
       },
       {
-        "id": "berlin-grobes-fest-astra-2026",
-        "title": "Grobes Fest 2026: Slime + Focus. + Rantanplan + Knochenfabrik",
-        "type": "festival",
-        "startDate": "2026-12-28",
-        "endDate": "2026-12-28",
-        "importance": 75,
-        "venueName": "Astra Kulturhaus",
+        "id": "berlin-slave-to-the-rave-43-2026",
+        "title": "Slave To The Rave 43",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 72,
+        "venueName": "OST",
         "venueId": null,
-        "sourceUrl": "https://www.eventim.de/en/event/slime-grobes-fest-astra-kulturhaus-21584408/",
-        "ticketUrl": "https://www.eventim.de/en/event/slime-grobes-fest-astra-kulturhaus-21584408/",
-        "summary": "Grobes Fest brings Slime, Focus., Rantanplan and Knochenfabrik to Astra Kulturhaus on 28 December 2026. Eventim’s listing confirms the Berlin date, venue and lineup.",
+        "sourceUrl": "https://ra.co/events/2387902",
+        "ticketUrl": "https://ra.co/events/2387902",
+        "summary": "Quest Agency’s recurring Berlin techno party lands at OST for its 43rd edition, explicitly framed around a no-photo, consent-led and anti-discrimination rave environment.",
         "genres": [
-          "festival"
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "berlin-matthias-reim-uber-arena-2026",
-        "title": "Matthias Reim: 35 Jahre “Verdammt, ich lieb’ dich”",
+        "id": "berlin-neelix-2026",
+        "title": "NEELIX Berlin",
         "type": "concert",
-        "startDate": "2026-12-28",
-        "endDate": "2026-12-28",
-        "importance": 76,
-        "venueName": "Uber Arena",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "importance": 72,
+        "venueName": "Kesselhaus",
         "venueId": null,
-        "sourceUrl": "https://www.uber-arena.de/en/events/detail/matthias-reim-26/",
-        "ticketUrl": "https://www.uber-arena.de/en/events/detail/matthias-reim-26/",
-        "summary": "Matthias Reim visits Uber Arena on 28 December 2026 on his anniversary tour for “Verdammt, ich lieb’ dich.” The arena’s official page confirms the date and tour context.",
+        "sourceUrl": "https://ra.co/events/2357570",
+        "ticketUrl": "https://technoticket-neelix.ticket.io/ZufTDVjx/",
+        "summary": "A touring Neelix showcase at Kesselhaus, bringing the long-running Goa/progressive electronic act back to Berlin for an all-night techno-tagged event running from 22:00 to 08:00.",
         "genres": [
-          "pop"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-jerome-froese-privatclub-2026",
+        "title": "Jerome Froese: Rare Up Close – Live",
+        "type": "concert",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-12",
+        "importance": 70,
+        "venueName": "Privatclub",
+        "venueId": null,
+        "sourceUrl": "https://privatclub-berlin.de/events/3/?Itemid=32&extid=67&extmode=view&option=com_extcalendar",
+        "ticketUrl": "https://privatclub-berlin.de/events/3/?Itemid=32&extid=67&extmode=view&option=com_extcalendar",
+        "summary": "Jerome Froese performs at Privatclub on 12 December 2026, with the venue billing the show as electronic/guitartronica. The program includes solo work, reinterpreted Tangerine Dream material and new music.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-kinktastisch-2026",
+        "title": "Kinktastisch! Techno. Kink. Play",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 67,
+        "venueName": "Insomnia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2422854",
+        "ticketUrl": "https://ra.co/events/2422854",
+        "summary": "A kink/fetish techno and tech-house party at Insomnia with MINJA, Epicx and Mia Mangata, plus a midnight show, play areas, dungeon spaces, a no-phone policy and an on-site awareness team.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-young-love-2026",
+        "title": "YOUNG LOVE",
+        "type": "club-night",
+        "startDate": "2026-12-11",
+        "endDate": "2026-12-12",
+        "importance": 66,
+        "venueName": "Insomnia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2329519",
+        "ticketUrl": "https://ra.co/events/2329519",
+        "summary": "A long-running Insomnia sex-positive electro-house/techno night aimed at younger and young-at-heart clubbers, with tech house, techno and melodic techno, BDSM areas, a phone-free policy and awareness support.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-trance-baby-trance-2026",
+        "title": "Trance Baby Trance – Kinky Trance Party",
+        "type": "club-night",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "importance": 65,
+        "venueName": "Insomnia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2379636",
+        "ticketUrl": "https://ra.co/events/2379636",
+        "summary": "A dedicated sex-positive trance rave at Insomnia from the UNDR/Trance Baby Trance circle, pairing fast, euphoric rave electronics with phone-free play-friendly spaces, an inclusive door concept and trained awareness support.",
+        "genres": [
+          "electronic"
         ]
       }
     ]

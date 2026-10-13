@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 import { notFound } from "next/navigation";
 import { ShareButtons } from "@/components/sharing/ShareButtons";
 import { TripPolls } from "@/components/trips/TripPolls";
@@ -141,7 +142,7 @@ export default async function TripPage({ params }: RouteContext) {
   });
   const breadcrumb = breadcrumbJsonLd([
     { name: "Where Next", href: "/" },
-    { name: "Trips", href: "/trips" },
+    { name: "Trips", href: "/me/itineraries" },
     { name: trip.title, href: `/trips/${trip.slug}` }
   ]);
 
@@ -160,28 +161,16 @@ export default async function TripPage({ params }: RouteContext) {
         dangerouslySetInnerHTML={{ __html: jsonLdScript(breadcrumb) }}
       />
 
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="flex items-center gap-4 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+      <SiteHeader />
+
+      <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-8 sm:px-10">
+        <p className="flex items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+          <span>trip · {trip.visibility} · {cities.length} {cities.length === 1 ? "city" : "cities"}</span>
           {isOwner ? (
             <Link href={`/trips/${trip.slug}/edit`} className="transition hover:text-[var(--foreground)]">
-              edit
+              edit trip
             </Link>
           ) : null}
-          <Link href="/" className="transition hover:text-[var(--foreground)]">
-            ← back to map
-          </Link>
-        </nav>
-      </header>
-
-      <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          trip · {trip.visibility} · {cities.length} {cities.length === 1 ? "city" : "cities"}
         </p>
         <h1 className="mt-5 text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           {trip.title}

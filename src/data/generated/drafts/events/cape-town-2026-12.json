@@ -2,16 +2,334 @@
   "slug": "cape-town",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:14:51.821Z",
-  "responseId": "resp_0bff3dd0f788d7210069ff5d452ef481a393545ef0865c2325",
-  "searchCalls": 9,
+  "generatedAt": "2026-10-13T02:52:39.425Z",
+  "responseId": "resp_07adfa9c8186d85b006acd9c23ca7c87d0996cb9b3e07659a2+resp_09f81ca764a79b57006acd9c93622887d0aca8c9b1c672c585",
+  "searchCalls": 31,
   "citations": [],
   "data": {
     "destinationSlug": "cape-town",
     "month": 12,
     "year": 2026,
-    "notes": null,
+    "notes": "December 2026 is already anchored by Cape Town’s beach-club and outdoor-festival circuit, with Cabo Beach and The Ostrich carrying much of the confirmed electronic, amapiano, Afro-house and NYE programme.",
     "events": [
+      {
+        "id": "cape-town-black-coffee-exclusive-2026",
+        "title": "Black Coffee EXCLUSIVE - Cape Town",
+        "type": "club-night",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-19",
+        "importance": 90,
+        "venueName": "Cabo Beach",
+        "venueId": null,
+        "sourceUrl": "https://musicpeople.howler.co.za/events/black-coffee-exclusive-cape-town-18-december-2026-7bba/tickets",
+        "ticketUrl": "https://musicpeople.howler.co.za/events/black-coffee-exclusive-cape-town-18-december-2026-7bba/tickets",
+        "summary": "Black Coffee’s exclusive Cape Town date is confirmed for Cabo Beach on 18 December 2026, running into 19 December. The Howler ticket page lists the event as Black Coffee EXCLUSIVE at Cabo Beach with multiple party and VIP ticket tiers.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-piano-people-2026",
+        "title": "Piano People Cape Town 2026",
+        "type": "club-night",
+        "startDate": "2026-12-30",
+        "endDate": "2026-12-31",
+        "importance": 90,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://pianopeople.howler.events/events/piano-people-cape-town-2026-105f",
+        "ticketUrl": "https://pianopeople.howler.events/events/piano-people-cape-town-2026-105f",
+        "summary": "Piano People brings its Cape Town beach edition to Cabo Beach Club on 30 December, running until 02:00 on 31 December. The confirmed lineup includes Scorpion Kings, Focalistic, Dlala Thukzin, Scotts Maphuma & Bob Mabena, Sam Deep and W4DE.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-fatboy-slim-public-holiday-2026",
+        "title": "Fatboy Slim Cape Town 2026 - Public Holiday",
+        "type": "club-night",
+        "startDate": "2026-12-16",
+        "endDate": "2026-12-17",
+        "importance": 86,
+        "venueName": "Cabo Beach",
+        "venueId": null,
+        "sourceUrl": "https://fatboyslim.howler.co.za/events/fatboy-slim-cape-town-2026-public-holiday-ab4c/tickets",
+        "ticketUrl": "https://fatboyslim.howler.co.za/events/fatboy-slim-cape-town-2026-public-holiday-ab4c/tickets",
+        "summary": "Fatboy Slim plays a public-holiday Cape Town show at Cabo Beach on 16 December 2026. The Howler ticket page confirms the date and ticket tiers for the beach-club event.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-afrotrax-french-montana-2026",
+        "title": "AFROTRAX Cape Town: French Montana",
+        "type": "festival",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-04",
+        "importance": 84,
+        "venueName": "The Ostrich",
+        "venueId": null,
+        "sourceUrl": "https://afrotrax.com/countdown-to-december-4th-artist-spotlight-youngstacpt/",
+        "ticketUrl": "https://playy.co.uk/",
+        "summary": "AFROTRAX Cape Town is confirmed for The Ostrich on 4 December 2026, headlined by French Montana. The announced lineup also includes B.o.B, Cassper Nyovest, Nasty C, 25K and YoungstaCPT.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "cape-town-groove-room-2026",
+        "title": "The Groove Room Cape Town",
+        "type": "club-night",
+        "startDate": "2026-12-26",
+        "endDate": "2026-12-27",
+        "importance": 84,
+        "venueName": "Cabo Beach",
+        "venueId": null,
+        "sourceUrl": "https://thegrooveroom.howler.co.za/events/the-groove-room-cape-town-26-december-2026-971d",
+        "ticketUrl": "https://thegrooveroom.howler.co.za/events/the-groove-room-cape-town-26-december-2026-971d",
+        "summary": "The Groove Room lands at Cabo Beach on 26 December with a lineup led by Kelvin Momo, DJ Kent, DBN Gogo, MÖRDA b2b DJ Zinhle, DJ Lag and Thakzin. The event frames itself around African electronic music culture, including amapiano, gqom, Afro-house, Afro-tech and 3-step.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-theo-parrish-chimurenga-2026",
+        "title": "Theo Parrish Live at Chimurenga Factory, Cape Town",
+        "type": "club-night",
+        "startDate": "2026-12-04",
+        "endDate": "2026-12-05",
+        "importance": 84,
+        "venueName": "Chimurenga Factory",
+        "venueId": null,
+        "sourceUrl": "https://www.quicket.co.za/events/390516-theo-parrish-live-at-chimurenga-factory-cape-town",
+        "ticketUrl": "https://www.quicket.co.za/events/390516-theo-parrish-live-at-chimurenga-factory-cape-town",
+        "summary": "Detroit/Chicago house and techno figure Theo Parrish returns to Cape Town for an all-night Chimurenga Factory session presented with Vinyl Digz and Sho-Sho Comunications.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-kehlani-2026",
+        "title": "THE KEHLANI WORLD TOUR: South Africa",
+        "type": "concert",
+        "startDate": "2026-12-17",
+        "endDate": "2026-12-17",
+        "importance": 83,
+        "venueName": "Grand Arena at GrandWest",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.co.za/event/the-kehlani-world-tour-south-africa-tickets/66679430",
+        "ticketUrl": "https://www.ticketmaster.co.za/event/the-kehlani-world-tour-south-africa-tickets/66679430",
+        "summary": "Kehlani brings The Kehlani World Tour: South Africa to Grand Arena at GrandWest on 17 December 2026. Ticketmaster confirms the Cape Town date, venue and 20:00 show time.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-sean-paul-2026",
+        "title": "Sean Paul | Live in South Africa",
+        "type": "concert",
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-03",
+        "importance": 82,
+        "venueName": "Grand Arena, GrandWest",
+        "venueId": null,
+        "sourceUrl": "https://www.suninternational.com/grandwest/events/sean-paul-live-in-south-africa",
+        "ticketUrl": null,
+        "summary": "Sean Paul plays the Cape Town stop of his South African tour at Grand Arena, GrandWest. The venue page confirms the 3 December 2026 date and lists the show as a live concert by the Grammy-winning dancehall star.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-love-light-festival-2026",
+        "title": "Love & Light Festival - Cape Town",
+        "type": "festival",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "importance": 82,
+        "venueName": "The Ostrich",
+        "venueId": null,
+        "sourceUrl": "https://musicpeople.howler.co.za/events/love-light-festival-cape-town-19-december-2026-dc49",
+        "ticketUrl": "https://musicpeople.howler.co.za/events/love-light-festival-cape-town-19-december-2026-dc49",
+        "summary": "Love & Light Festival is confirmed at The Ostrich from 14:00 on 19 December to 02:00 on 20 December. The Music People / Howler page confirms the outdoor festival date, venue and 18+ entry policy.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-amnesia-nye-2026",
+        "title": "Amnesia Ibiza NYE - Cape Town",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 82,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2543187",
+        "ticketUrl": null,
+        "summary": "Amnesia Ibiza brings a New Year’s Eve Cape Town edition to Cabo Beach Club on 31 December 2026. Resident Advisor confirms the 18:00–03:00 event, two dance floors, and house / tech-house focus, with lineup still listed as TBA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-tr3s-caiiro-da-capo-enoo-napa-2026",
+        "title": "TR3S feat. Caiiro B3B Da Capo B3B Enoo Napa - Cape Town",
+        "type": "beach-club",
+        "startDate": "2026-12-29",
+        "endDate": "2026-12-30",
+        "importance": 82,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://cabobeach.co.za/cabo-beach-events/",
+        "ticketUrl": "https://musicpeople.howler.co.za/",
+        "summary": "Music People’s TR3S concept brings Caiiro, Da Capo and Enoo Napa together for a rare Afro-house/Afro-tech B3B at Cabo Beach Club.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-brandy-all-white-soul-sessions-2026",
+        "title": "All White Soul Sessions | Brandy",
+        "type": "concert",
+        "startDate": "2026-12-14",
+        "endDate": "2026-12-14",
+        "importance": 80,
+        "venueName": "Grand Arena, GrandWest",
+        "venueId": null,
+        "sourceUrl": "https://www.suninternational.com/grandwest/events/all-white-soul-sessions",
+        "ticketUrl": null,
+        "summary": "Brandy headlines the 2026 All White Soul Sessions at Grand Arena, GrandWest. The venue confirms the 14 December 2026 date and lists tickets as available through Webtickets and Pick n Pay outlets.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-alcazar-nye-2026",
+        "title": "Alcazar Cape Town New Year's Eve 2026",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 80,
+        "venueName": "Grand Africa Cafe & Beach, Cape Town",
+        "venueId": null,
+        "sourceUrl": "https://www.howler.co.za/events/alcazar-cape-town-new-year-s-eve-2026-64ba/",
+        "ticketUrl": "https://www.howler.co.za/events/alcazar-cape-town-new-year-s-eve-2026-64ba/",
+        "summary": "Alcazar NYE returns to Grand Africa Café & Beach as Isla Paradiso, with Alcazar, Bazique, The Tropical Roast and Kinky Disco taking over the venue. The confirmed event runs from 16:00 on 31 December to 02:00 on 1 January.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-everyday-people-cpt-2026",
+        "title": "Everyday People CPT",
+        "type": "beach-club",
+        "startDate": "2026-12-20",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://fixr.co/event/everyday-people-cpt-2012-tickets-246556146",
+        "ticketUrl": "https://fixr.co/event/everyday-people-cpt-2012-tickets-246556146",
+        "summary": "NYC-born diaspora day-party brand Everyday People returns to Cape Town with Strictly Soul for its December South Africa season opener at Cabo Beach.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "cape-town-jan-blomqvist-2026",
+        "title": "Còdigo Theatre presents Jan Blomqvist - CPT",
+        "type": "club-night",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 78,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://codigotheatre.howler.co.za/events/codigo-theatre-presents-jan-blomqvist-cpt-3ab8",
+        "ticketUrl": "https://codigotheatre.howler.co.za/events/codigo-theatre-presents-jan-blomqvist-cpt-3ab8",
+        "summary": "Còdigo Theatre brings Jan Blomqvist to Cabo Beach Club for an immersive electronic event running from 12:00 on 5 December to 02:00 on 6 December. The Howler page confirms Jan Blomqvist as the listed lineup artist.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-h2o-ostrich-nye-2026",
+        "title": "H2O Pres: THE OSTRICH NYE 2026",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 78,
+        "venueName": "The Ostrich - Cape Town",
+        "venueId": null,
+        "sourceUrl": "https://theostrich.howler.events/events/h2o-pres-the-ostrich-nye-2026-2b51",
+        "ticketUrl": "https://theostrich.howler.events/events/h2o-pres-the-ostrich-nye-2026-2b51",
+        "summary": "H2O hosts its New Year’s Eve outdoor celebration at The Ostrich from 17:00 on 31 December to 02:00 on 1 January. The Howler page confirms the open-air production, countdown focus and 18+ policy.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-bloma-dj-kent-2026",
+        "title": "BLOMA by DJ Kent - Cape Town 2026",
+        "type": "beach-club",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "importance": 76,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2466474",
+        "ticketUrl": "https://bloma.howler.co.za",
+        "summary": "DJ Kent brings the BLOMA summer format back to Cabo Beach Club after a sold-out prior edition, centred on Afro-house and Afrobeat grooves.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-liquideep-mi-casa-oskido-2026",
+        "title": "Liquideep, Mi Casa, Oskido & Dawson",
+        "type": "club-night",
+        "startDate": "2026-12-27",
+        "endDate": "2026-12-28",
+        "importance": 76,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://cabobeach.co.za/cabo-beach-events/",
+        "ticketUrl": null,
+        "summary": "Cabo Beach’s official events calendar confirms Liquideep, Mi Casa, Oskido & Dawson for 27 December 2026. This is a South African house and live-band crossover date in Cabo Beach’s peak festive-season run.",
+        "genres": [
+          "house",
+          "afro-house",
+          "pop"
+        ]
+      },
       {
         "id": "cape-town-live-kirstenbosch-dec8-2026",
         "title": "+LIVE+ at Kirstenbosch Garden",
@@ -39,6 +357,25 @@
         "ticketUrl": "https://www.webtickets.co.za/v2/event.aspx?itemid=1593368056",
         "summary": "Webtickets lists a second +LIVE+ performance at Kirstenbosch Gardens on 9 December 2026 at 18:00. The ticketing page marks this added date as sold out.",
         "genres": []
+      },
+      {
+        "id": "cape-town-beyond-the-mountain-2026",
+        "title": "Beyond the Mountain NYE Festival",
+        "type": "festival",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-01",
+        "importance": 75,
+        "venueName": "Utopia - Swellendam",
+        "venueId": null,
+        "sourceUrl": "https://www.howler.co.za/events/beyond-the-mountain-nye-festival-aacd",
+        "ticketUrl": "https://www.howler.co.za/events/beyond-the-mountain-nye-festival-aacd",
+        "summary": "Three-day Western Cape NYE electronic music and arts gathering with two immersive dance floors: The Mothership for psychedelic soundscapes and Gaia’s Garden for house, techno and in-between sounds; lineup still TBA.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
       }
     ]
   }

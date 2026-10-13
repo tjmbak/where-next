@@ -2,9 +2,9 @@
   "slug": "lisbon-portimao",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:48:12.927Z",
-  "responseId": "resp_02ff904f1421f2b00069ff56bc3f2c819e8e3dae8e4d501e56",
-  "searchCalls": 21,
+  "generatedAt": "2026-05-30T18:20:42.590Z",
+  "responseId": "augment:resp_0b3baa841edf3a34006a1b2a0211e4819ba31dc99fd569eadf",
+  "searchCalls": 18,
   "citations": [],
   "data": {
     "destinationSlug": "lisbon-portimao",
@@ -13,19 +13,21 @@
     "notes": "August 2026 is anchored by Lisbon’s late-summer festival run, with major outdoor festivals, jazz programming, and Algarve/Portimão beach-season concerts confirmed.",
     "events": [
       {
-        "id": "lisbon-portimao-jazz-em-agosto-2026",
-        "title": "Jazz em Agosto 2026",
+        "id": "lisbon-portimao-meo-kalorama-2026",
+        "title": "MEO Kalorama 2026",
         "type": "festival",
-        "startDate": "2026-07-31",
-        "endDate": "2026-08-09",
-        "importance": 82,
-        "venueName": "Fundação Calouste Gulbenkian",
+        "startDate": "2026-08-28",
+        "endDate": "2026-08-30",
+        "importance": 92,
+        "venueName": "Parque da Bela Vista",
         "venueId": null,
-        "sourceUrl": "https://gulbenkian.pt/jazzemagosto/agenda/",
-        "ticketUrl": "https://gulbenkian.pt/jazzemagosto/agenda/",
-        "summary": "The 42nd edition of Jazz em Agosto presents 14 concerts at Fundação Calouste Gulbenkian, including Joachim Kühn, Anna Webber: Shimmer Wince, Ches Smith: Clone Row, Chicago Underground Duo and SML. The official agenda lists concerts from 31 July through 9 August 2026.",
+        "sourceUrl": "https://meokalorama.pt/en/meo-kalorama-fecha-cartaz-com-maro-residencia-artistica-by-chelas-e-o-sitio-e-palco-panorama-lisboa-dedicado-a-musica-eletronica/",
+        "ticketUrl": "https://meokalorama.pt/en/",
+        "summary": "MEO Kalorama returns to Parque da Bela Vista in Lisbon from 28 to 30 August 2026. The official lineup announcement confirms Robbie Williams, Ms. Lauryn Hill with special guests, Deftones, Turnstile, Grace Jones, Interpol, Clipse, Freddie Gibbs + The Alchemist and a PANORAMA Lisboa electronic stage.",
         "genres": [
-          "jazz"
+          "festival",
+          "electronic",
+          "hip-hop"
         ]
       },
       {
@@ -47,21 +49,39 @@
         ]
       },
       {
-        "id": "lisbon-portimao-mar-me-quer-2026",
-        "title": "Mar Me Quer Portimão 2026",
+        "id": "lisbon-portimao-cascais-atlantic-sunsets-kaytranada-2026",
+        "title": "Cascais Atlantic Sunsets - 8 August",
         "type": "festival",
-        "startDate": "2026-08-12",
-        "endDate": "2026-08-14",
-        "importance": 78,
-        "venueName": "Zona Ribeirinha de Portimão",
+        "startDate": "2026-08-08",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Forte de Santo António da Barra",
         "venueId": null,
-        "sourceUrl": "https://palkotickets.pt/2865604918-mar-me-quer-portimao-2026/439701",
-        "ticketUrl": "https://palkotickets.pt/2865604918-mar-me-quer-portimao-2026/439701",
-        "summary": "Mar Me Quer returns to Portimão’s riverside for its 2026 edition from 12 to 14 August. The confirmed first lineup includes Maiara & Maraisa on 12 August, Veigh on 13 August and Orochi on 14 August.",
+        "sourceUrl": "https://shotgun.live/en/festivals/cascais-atlantic-sunsets-8-agosto",
+        "ticketUrl": "https://shotgun.live/en/festivals/cascais-atlantic-sunsets-8-agosto",
+        "summary": "Cascais Atlantic Sunsets brings Kaytranada to the Forte de Santo António da Barra for an open-air electronic sunset event blending house, R&B, hip-hop and Afro-house sensibilities.",
         "genres": [
-          "latin",
+          "house",
+          "electronic",
           "hip-hop",
-          "pop"
+          "r-and-b",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-jazz-em-agosto-2026",
+        "title": "Jazz em Agosto 2026",
+        "type": "festival",
+        "startDate": "2026-07-31",
+        "endDate": "2026-08-09",
+        "importance": 82,
+        "venueName": "Fundação Calouste Gulbenkian",
+        "venueId": null,
+        "sourceUrl": "https://gulbenkian.pt/jazzemagosto/agenda/",
+        "ticketUrl": "https://gulbenkian.pt/jazzemagosto/agenda/",
+        "summary": "The 42nd edition of Jazz em Agosto presents 14 concerts at Fundação Calouste Gulbenkian, including Joachim Kühn, Anna Webber: Shimmer Wince, Ches Smith: Clone Row, Chicago Underground Duo and SML. The official agenda lists concerts from 31 July through 9 August 2026.",
+        "genres": [
+          "jazz"
         ]
       },
       {
@@ -83,6 +103,134 @@
         ]
       },
       {
+        "id": "lisbon-portimao-the-rebirth-2026",
+        "title": "The Rebirth",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "8 Marvila",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/wahala-beach-vibes-the-rebirth",
+        "ticketUrl": "https://shotgun.live/en/events/wahala-beach-vibes-the-rebirth",
+        "summary": "This Is Éden returns with a large Afro-house/electronic diaspora night at 8 Marvila, billing Dlala Thukzin, FUNKY QLA and KARFOX with immersive production and an all-night format.",
+        "genres": [
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-cascais-atlantic-sunsets-armand-2026",
+        "title": "Cascais Atlantic Sunsets - 15 August",
+        "type": "festival",
+        "startDate": "2026-08-15",
+        "endDate": null,
+        "importance": 81,
+        "venueName": "Forte de Santo António da Barra",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/cascais-atlantic-sunsets-15-august",
+        "ticketUrl": "https://shotgun.live/en/festivals/cascais-atlantic-sunsets-15-august",
+        "summary": "The second Cascais Atlantic Sunsets date turns the fort into an electronic sunset stage with house veteran Armand Van Helden headlining.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-magic-land-2026",
+        "title": "Magic Land",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Praça David Leandro da Silva 8",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-pt/events/magic-land",
+        "ticketUrl": "https://shotgun.live/pt-pt/events/magic-land",
+        "summary": "Magic Night presents a late-night Afro-house/deep-house gathering led by Zakes Bantwini, Bun Xapa, Buruntuma, Veiga and Dass, focused on Afro-tech and African electronic rhythms.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-mar-me-quer-2026",
+        "title": "Mar Me Quer Portimão 2026",
+        "type": "festival",
+        "startDate": "2026-08-12",
+        "endDate": "2026-08-14",
+        "importance": 78,
+        "venueName": "Zona Ribeirinha de Portimão",
+        "venueId": null,
+        "sourceUrl": "https://palkotickets.pt/2865604918-mar-me-quer-portimao-2026/439701",
+        "ticketUrl": "https://palkotickets.pt/2865604918-mar-me-quer-portimao-2026/439701",
+        "summary": "Mar Me Quer returns to Portimão’s riverside for its 2026 edition from 12 to 14 August. The confirmed first lineup includes Maiara & Maraisa on 12 August, Veigh on 13 August and Orochi on 14 August.",
+        "genres": [
+          "latin",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-brunch-algarve-dawn-patrol-2026",
+        "title": "Brunch Electronik Algarve 2026 #1: DAWN PATROL, AYASHA",
+        "type": "beach-club",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Nosoloágua Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2436082",
+        "ticketUrl": "https://ra.co/events/2436082",
+        "summary": "Brunch Electronik’s Algarve beach-club edition opens its Portimão weekend with DAWN PATROL, Maz, Antdot, Riascode b2b Bakka and Ayasha at Nosoloágua.",
+        "genres": [
+          "afro-house",
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-brunch-algarve-mestiza-2026",
+        "title": "Brunch Electronik Algarve 2026 #2: Mestiza, JAMIIE, Ari Girão, VERÖ",
+        "type": "beach-club",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Nosoloágua Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2436086",
+        "ticketUrl": "https://ra.co/events/2436086",
+        "summary": "The second Brunch Electronik Algarve date at Nosoloágua pairs MËSTIZA and JAMIIE with Ari Girão and VERÖ for a Portimão beach-club electronic session.",
+        "genres": [
+          "afro-house",
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-bons-tempos-quintal-2026",
+        "title": "Bons Tempos No Quintal 2026",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Secret location in Lisbon",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/bons-tempos-no-quintal-2026",
+        "ticketUrl": "https://shotgun.live/en/festivals/bons-tempos-no-quintal-2026",
+        "summary": "Sing Entertainment’s intimate diaspora culture event returns with Angolan icon Paulo Flores plus DJs, connecting Lusophone live music with Afrobeat, Afro-house and Amapiano-adjacent club sounds.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
         "id": "lisbon-portimao-hermanos-gutierrez-2026",
         "title": "Hermanos Gutiérrez",
         "type": "concert",
@@ -99,21 +247,73 @@
         ]
       },
       {
-        "id": "lisbon-portimao-meo-kalorama-2026",
-        "title": "MEO Kalorama 2026",
-        "type": "festival",
-        "startDate": "2026-08-28",
-        "endDate": "2026-08-30",
-        "importance": 92,
-        "venueName": "Parque da Bela Vista",
+        "id": "lisbon-portimao-disturb-cristobal-pesce-2026",
+        "title": "Disturb 10h w/ Cristobal Pesce",
+        "type": "club-night",
+        "startDate": "2026-08-14",
+        "endDate": "2026-08-15",
+        "importance": 70,
+        "venueName": "KØMPLEX Lisbon",
         "venueId": null,
-        "sourceUrl": "https://meokalorama.pt/en/meo-kalorama-fecha-cartaz-com-maro-residencia-artistica-by-chelas-e-o-sitio-e-palco-panorama-lisboa-dedicado-a-musica-eletronica/",
-        "ticketUrl": "https://meokalorama.pt/en/",
-        "summary": "MEO Kalorama returns to Parque da Bela Vista in Lisbon from 28 to 30 August 2026. The official lineup announcement confirms Robbie Williams, Ms. Lauryn Hill with special guests, Deftones, Turnstile, Grace Jones, Interpol, Clipse, Freddie Gibbs + The Alchemist and a PANORAMA Lisboa electronic stage.",
+        "sourceUrl": "https://shotgun.live/en/venues/disturb-live-lisboa",
+        "ticketUrl": "https://shotgun.live/en/venues/disturb-live-lisboa",
+        "summary": "Disturb’s 10-hour KØMPLEX Lisbon session brings Cristobal Pesce into the city’s harder electronic circuit, spanning progressive psytrance, hard techno and hard-bounce energy.",
         "genres": [
-          "festival",
-          "electronic",
-          "hip-hop"
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-lifestyling-lorosae-2026",
+        "title": "Lifestyling at Lorosae Beach Club - 1st August",
+        "type": "beach-club",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Lorosae Rising Sun - Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415655",
+        "ticketUrl": "https://ra.co/events/2415655",
+        "summary": "Lifestyling’s annual return to Lorosae Beach Club brings a daytime house/electro session with Jamaimoi, Billi, Joaquín Texeira, Straka and ZA PRAT.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-assembling-lx-factory-2026",
+        "title": "Assembling LX Factory Lisboa | 6 August • Free Entry",
+        "type": "residency",
+        "startDate": "2026-08-06",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "LX Factory",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-pt/venues/collect",
+        "ticketUrl": "https://shotgun.live/pt-pt/venues/collect",
+        "summary": "Collect/Assemble Music’s recurring Assembling session brings its underground house, dub-techno and techno programming to LX Factory as a free-entry late-summer edition.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-artemis-boat-edition-12-2026",
+        "title": "Boat Edition #12",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Rocha do Conde de Óbidos / Príncipe Perfeito boat",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/boat-edition-12",
+        "ticketUrl": "https://shotgun.live/en/events/boat-edition-12",
+        "summary": "Artemis’ summer boat-party series continues on the Príncipe Perfeito with deep house, tech house and Afro-house sounds, featuring Caste and Conde.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
         ]
       }
     ]

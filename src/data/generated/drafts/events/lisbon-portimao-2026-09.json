@@ -2,8 +2,8 @@
   "slug": "lisbon-portimao",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:49:24.300Z",
-  "responseId": "resp_05a11fdebfa7b8360069ff56e384fc819382df7b500fb404c2",
+  "generatedAt": "2026-05-30T18:20:42.982Z",
+  "responseId": "augment:resp_026d494df36a5234006a1b2a0473d4819ba3583e9336959f11",
   "searchCalls": 16,
   "citations": [],
   "data": {
@@ -12,22 +12,6 @@
     "year": 2026,
     "notes": "September’s confirmed calendar is Lisbon-heavy; no Portimão flagship music events were found confirmed for September 2026 yet.",
     "events": [
-      {
-        "id": "lisbon-portimao-fischer-z-sep-2026",
-        "title": "Fischer-Z",
-        "type": "concert",
-        "startDate": "2026-09-04",
-        "endDate": "2026-09-04",
-        "importance": 68,
-        "venueName": "Coliseu dos Recreios",
-        "venueId": null,
-        "sourceUrl": "https://coliseulisboa.com/eventos/fischer-z/",
-        "ticketUrl": "https://coliseulisboa.com/eventos/fischer-z/",
-        "summary": "British new wave and alternative-rock band Fischer-Z return to Portugal for a 50th-anniversary concert at Coliseu dos Recreios. The venue listing confirms the September 4 date and 21:00 start.",
-        "genres": [
-          "pop"
-        ]
-      },
       {
         "id": "lisbon-portimao-the-weeknd-restelo-sep-2026",
         "title": "The Weeknd: After Hours Til Dawn Tour with Playboi Carti",
@@ -47,19 +31,18 @@
         ]
       },
       {
-        "id": "lisbon-portimao-living-tombstone-lav-sep-2026",
-        "title": "The Living Tombstone – Multiplayer Tour",
+        "id": "lisbon-portimao-placebo-campo-pequeno-sep-2026",
+        "title": "Placebo – 30th Anniversary Tour",
         "type": "concert",
-        "startDate": "2026-09-09",
-        "endDate": "2026-09-09",
-        "importance": 70,
-        "venueName": "LAV - Lisboa Ao Vivo",
+        "startDate": "2026-09-29",
+        "endDate": "2026-09-29",
+        "importance": 86,
+        "venueName": "Sagres Campo Pequeno",
         "venueId": null,
-        "sourceUrl": "https://www.songkick.com/concerts/43085440-living-tombstone-at-lav-lisboa-ao-vivo",
-        "ticketUrl": "https://www.songkick.com/concerts/43085440-living-tombstone-at-lav-lisboa-ao-vivo",
-        "summary": "The electronic-rock duo The Living Tombstone play LAV - Lisboa Ao Vivo on September 9 as part of the Multiplayer Tour. Songkick lists Multiplayer Tour on the bill and confirms doors at 21:00.",
+        "sourceUrl": "https://www.sagrescampopequeno.pt/en/calendar/placebo-30th-anniversary-tour",
+        "ticketUrl": "https://www.sagrescampopequeno.pt/en/calendar/placebo-30th-anniversary-tour",
+        "summary": "Placebo open the Portugal leg of their 30th Anniversary Tour at Sagres Campo Pequeno on September 29. The venue confirms doors at 19:00 and show time at 20:00.",
         "genres": [
-          "electronic",
           "pop"
         ]
       },
@@ -75,57 +58,6 @@
         "sourceUrl": "https://www.visitlisboa.com/de/veranstaltungen/the-neighbourhood-the-wourld-tour",
         "ticketUrl": "https://www.visitlisboa.com/de/veranstaltungen/the-neighbourhood-the-wourld-tour",
         "summary": "The Neighbourhood bring THE WOURLD TOUR to MEO Arena on September 12, with Nessa Barrett listed as support. Visit Lisboa confirms doors at 18:30 and show time at 20:00.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "lisbon-portimao-ca7riel-paco-sala-tejo-sep-2026",
-        "title": "CA7RIEL & Paco Amoroso – Free Spirits World Tour",
-        "type": "concert",
-        "startDate": "2026-09-13",
-        "endDate": "2026-09-13",
-        "importance": 78,
-        "venueName": "Sala Tejo",
-        "venueId": null,
-        "sourceUrl": "https://www.livenation.pt/en/event/ca7riel-and-paco-amoroso-free-spirits-world-tour-lisboa-tickets-edp1662306",
-        "ticketUrl": "https://www.livenation.pt/en/event/ca7riel-and-paco-amoroso-free-spirits-world-tour-lisboa-tickets-edp1662306",
-        "summary": "Argentine duo CA7RIEL & Paco Amoroso bring their Free Spirits World Tour to Lisbon’s Sala Tejo on September 13. Live Nation confirms the date, venue, and 20:00 show time.",
-        "genres": [
-          "hip-hop",
-          "latin",
-          "pop"
-        ]
-      },
-      {
-        "id": "lisbon-portimao-sigur-ros-campo-pequeno-sep-2026",
-        "title": "Sigur Rós – The Orchestral Tour",
-        "type": "concert",
-        "startDate": "2026-09-17",
-        "endDate": "2026-09-17",
-        "importance": 83,
-        "venueName": "Sagres Campo Pequeno",
-        "venueId": null,
-        "sourceUrl": "https://www.sagrescampopequeno.pt/en/calendar/sigur-ros-the-orchestral-tour",
-        "ticketUrl": "https://www.sagrescampopequeno.pt/en/calendar/sigur-ros-the-orchestral-tour",
-        "summary": "Sigur Rós perform The Orchestral Tour at Sagres Campo Pequeno on September 17, accompanied by the Lisbon Sinfonietta Orchestra and the Ricercare Choir. The venue confirms doors at 20:00 and show time at 21:00.",
-        "genres": [
-          "pop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "lisbon-portimao-gentleman-lav-sep-2026",
-        "title": "Gentleman – Live 2026",
-        "type": "concert",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-18",
-        "importance": 66,
-        "venueName": "LAV - Lisboa Ao Vivo",
-        "venueId": null,
-        "sourceUrl": "https://lisboaaovivo.com/evento/gentleman/",
-        "ticketUrl": "https://lisboaaovivo.com/evento/gentleman/",
-        "summary": "German reggae artist Gentleman returns to Portugal with Gentleman – Live 2026 at LAV - Lisboa Ao Vivo on September 18. The venue listing highlights his album Mad World and confirms a 21:30 start.",
         "genres": [
           "pop"
         ]
@@ -148,6 +80,114 @@
         ]
       },
       {
+        "id": "lisbon-portimao-black-coffee-open-air-2026",
+        "title": "Black Coffee - Lisbon Open Air 2026",
+        "type": "club-night",
+        "startDate": "2026-09-27",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "TBA Lisbon",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2437826",
+        "ticketUrl": "https://ra.co/events/2437826",
+        "summary": "Desert Rain Agency presents Black Coffee in Lisbon for a rare open-air afro-house and house gathering with the location still to be revealed.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-carl-cox-open-air-2026",
+        "title": "Carl Cox - Lisbon 2026",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "TBA - Lisbon Open Air",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2390704",
+        "ticketUrl": "https://ra.co/events/2390704",
+        "summary": "Large-scale Lisbon open-air electronic show promoted by Desert Rain Agency with Carl Cox, Loco Dice, John Digweed, Ben Sterling, Mita Gami, Tini Gessler and DJ Vibe.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-sigur-ros-campo-pequeno-sep-2026",
+        "title": "Sigur Rós – The Orchestral Tour",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 83,
+        "venueName": "Sagres Campo Pequeno",
+        "venueId": null,
+        "sourceUrl": "https://www.sagrescampopequeno.pt/en/calendar/sigur-ros-the-orchestral-tour",
+        "ticketUrl": "https://www.sagrescampopequeno.pt/en/calendar/sigur-ros-the-orchestral-tour",
+        "summary": "Sigur Rós perform The Orchestral Tour at Sagres Campo Pequeno on September 17, accompanied by the Lisbon Sinfonietta Orchestra and the Ricercare Choir. The venue confirms doors at 20:00 and show time at 21:00.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-yard-one-last-summer-dance-2026",
+        "title": "Yard - One Last Summer Dance 26'",
+        "type": "festival",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-13",
+        "importance": 82,
+        "venueName": "YARD The White Sand Mountains",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/yard-one-last-summer-dance-26",
+        "ticketUrl": "https://shotgun.live/en/events/yard-one-last-summer-dance-26",
+        "summary": "Two-day closing-of-summer YARD gathering in the Setúbal/Lisbon orbit with WhoMadeWho live announced and a house, melodic house & techno, afro house and electro mood.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-dhb-portugal-2026",
+        "title": "DHB Portugal 26",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-20",
+        "importance": 81,
+        "venueName": "Irmão / Costa da Caparica",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/dhb-portugal-26",
+        "ticketUrl": "https://shotgun.live/en/events/dhb-portugal-26",
+        "summary": "Deep House Bible returns to Costa da Caparica for a two-day open-air Portugal edition focused on deep house, house and tech house culture.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-ca7riel-paco-sala-tejo-sep-2026",
+        "title": "CA7RIEL & Paco Amoroso – Free Spirits World Tour",
+        "type": "concert",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 78,
+        "venueName": "Sala Tejo",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.pt/en/event/ca7riel-and-paco-amoroso-free-spirits-world-tour-lisboa-tickets-edp1662306",
+        "ticketUrl": "https://www.livenation.pt/en/event/ca7riel-and-paco-amoroso-free-spirits-world-tour-lisboa-tickets-edp1662306",
+        "summary": "Argentine duo CA7RIEL & Paco Amoroso bring their Free Spirits World Tour to Lisbon’s Sala Tejo on September 13. Live Nation confirms the date, venue, and 20:00 show time.",
+        "genres": [
+          "hip-hop",
+          "latin",
+          "pop"
+        ]
+      },
+      {
         "id": "lisbon-portimao-mac-demarco-lav-sep-2026",
         "title": "Mac DeMarco",
         "type": "concert",
@@ -161,6 +201,24 @@
         "summary": "Mac DeMarco plays LAV - Lisboa Ao Vivo on September 20, presenting his album Guitar. The venue listing confirms doors at 20:30 and concert start at 21:00.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-hugel-make-the-girls-dance-2026",
+        "title": "Hugel - Lisbon 2026 | Make The Girls Dance",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "TBA Lisbon",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2429454",
+        "ticketUrl": "https://ra.co/events/2429454",
+        "summary": "Hugel brings the Make The Girls Dance concept to Lisbon for a daytime open-air leaning tech-house and afro-house event.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -181,6 +239,58 @@
         ]
       },
       {
+        "id": "lisbon-portimao-aurora-mini-festival-2026",
+        "title": "Aurora Mini-Festival | By The Beach",
+        "type": "festival",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-07",
+        "importance": 73,
+        "venueName": "Praia do Infante, Costa da Caparica",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/aurora-mini-festival-by-the-beach",
+        "ticketUrl": "https://shotgun.live/en/events/aurora-mini-festival-by-the-beach",
+        "summary": "Boutique three-day beach gathering just outside Lisbon with intimate open-air dancefloors, sunset and late-night sessions, and a house-led electronic program by Aurora Sessions.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-festival-ano-q-2026",
+        "title": "Festival Ano Q 2026",
+        "type": "festival",
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-27",
+        "importance": 72,
+        "venueName": "Galeria Zé dos Bois",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2422536",
+        "ticketUrl": "https://ra.co/events/2422536",
+        "summary": "Rádio Quântica’s sixth community, non-profit festival edition at ZDB, spotlighting experimental Lisbon/Portuguese underground artists, emerging voices and typically marginalized communities.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-living-tombstone-lav-sep-2026",
+        "title": "The Living Tombstone – Multiplayer Tour",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 70,
+        "venueName": "LAV - Lisboa Ao Vivo",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43085440-living-tombstone-at-lav-lisboa-ao-vivo",
+        "ticketUrl": "https://www.songkick.com/concerts/43085440-living-tombstone-at-lav-lisboa-ao-vivo",
+        "summary": "The electronic-rock duo The Living Tombstone play LAV - Lisboa Ao Vivo on September 9 as part of the Multiplayer Tour. Songkick lists Multiplayer Tour on the bill and confirms doors at 21:00.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
         "id": "lisbon-portimao-ty-segall-lav-sep-2026",
         "title": "Ty Segall",
         "type": "concert",
@@ -197,17 +307,50 @@
         ]
       },
       {
-        "id": "lisbon-portimao-placebo-campo-pequeno-sep-2026",
-        "title": "Placebo – 30th Anniversary Tour",
+        "id": "lisbon-portimao-fischer-z-sep-2026",
+        "title": "Fischer-Z",
         "type": "concert",
-        "startDate": "2026-09-29",
-        "endDate": "2026-09-29",
-        "importance": 86,
-        "venueName": "Sagres Campo Pequeno",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 68,
+        "venueName": "Coliseu dos Recreios",
         "venueId": null,
-        "sourceUrl": "https://www.sagrescampopequeno.pt/en/calendar/placebo-30th-anniversary-tour",
-        "ticketUrl": "https://www.sagrescampopequeno.pt/en/calendar/placebo-30th-anniversary-tour",
-        "summary": "Placebo open the Portugal leg of their 30th Anniversary Tour at Sagres Campo Pequeno on September 29. The venue confirms doors at 19:00 and show time at 20:00.",
+        "sourceUrl": "https://coliseulisboa.com/eventos/fischer-z/",
+        "ticketUrl": "https://coliseulisboa.com/eventos/fischer-z/",
+        "summary": "British new wave and alternative-rock band Fischer-Z return to Portugal for a 50th-anniversary concert at Coliseu dos Recreios. The venue listing confirms the September 4 date and 21:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-c0de-ragetrain-2026",
+        "title": "C0de - Apocalypse w/ Ragetrain UK",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Republica da Musica",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/c-0-de-apocalypse-w-ragetrain-uk",
+        "ticketUrl": "https://shotgun.live/en/events/c-0-de-apocalypse-w-ragetrain-uk",
+        "summary": "C0DE Lisbon brings back UK hard-techno act Ragetrain for a dark, high-pressure club night at República da Música.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-gentleman-lav-sep-2026",
+        "title": "Gentleman – Live 2026",
+        "type": "concert",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 66,
+        "venueName": "LAV - Lisboa Ao Vivo",
+        "venueId": null,
+        "sourceUrl": "https://lisboaaovivo.com/evento/gentleman/",
+        "ticketUrl": "https://lisboaaovivo.com/evento/gentleman/",
+        "summary": "German reggae artist Gentleman returns to Portugal with Gentleman – Live 2026 at LAV - Lisboa Ao Vivo on September 18. The venue listing highlights his album Mad World and confirms a 21:30 start.",
         "genres": [
           "pop"
         ]

@@ -1,0 +1,136 @@
+{
+  "slug": "miami",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:44:21.933Z",
+  "responseId": "resp_0bb3dab21809df54006acda818ec5c87d082535a1704a92df5+resp_0b992ec5a992bbce006acda8bb451c87d0a08b6c937ff4e2a5",
+  "searchCalls": 41,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 4,
+    "year": 2027,
+    "notes": "Confirmed April 2027 inventory is still early: Miami’s club/festival calendar is sparse, while Pride, select concerts, and PortMiami music cruises are already on sale or announced.",
+    "events": [
+      {
+        "id": "miami-pride-festival-apr-2027",
+        "title": "Miami Beach Pride Festival",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-11",
+        "importance": 86,
+        "venueName": "Lummus Park",
+        "venueId": null,
+        "sourceUrl": "https://www.miamibeachpride.com/",
+        "ticketUrl": null,
+        "summary": "Miami Beach Pride’s two-day festival and parade weekend returns to Lummus Park and Ocean Drive with the organizer promoting world-class entertainment as part of the 2027 celebration.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-cruise-to-edge-apr-2027",
+        "title": "Cruise to the Edge 2027",
+        "type": "festival",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-08",
+        "importance": 78,
+        "venueName": "Norwegian Jewel, departing Miami",
+        "venueId": null,
+        "sourceUrl": "https://cruisetotheedge.com/",
+        "ticketUrl": "https://cruisetotheedge.com/pricing/",
+        "summary": "Progressive rock and metal festival cruise departing Miami aboard Norwegian Jewel, with announced artists including Marillion, Steve Hackett, Big Big Train, Symphony X, Adrian Belew, Haken and Queensrÿche.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-unsin-2027",
+        "title": "UNSIN 2027",
+        "type": "conference",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-22",
+        "importance": 78,
+        "venueName": "Miami, FL (exact address released after registration)",
+        "venueId": null,
+        "sourceUrl": "https://linktr.ee/unsinlive",
+        "ticketUrl": "https://luma.com/m75eiftn",
+        "summary": "UNSIN returns as a two-day Latin music conference and festival built around panels, workshops, live showcases and networking for Latin artists, founders, executives and creators.",
+        "genres": [
+          "latin",
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-underground-garage-cruise-apr-2027",
+        "title": "Little Steven’s Underground Garage Cruise",
+        "type": "festival",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-28",
+        "importance": 77,
+        "venueName": "Norwegian Jewel, Miami to Puerto Plata",
+        "venueId": null,
+        "sourceUrl": "https://www.undergroundgaragecruise.com/lineup/",
+        "ticketUrl": "https://www.undergroundgaragecruise.com/",
+        "summary": "The third Underground Garage Cruise sails round-trip from Miami with a punk/garage-rock lineup including The Damned, X, Buzzcocks, Stiff Little Fingers, Glen Matlock and members of Sleater-Kinney with Fred Armisen.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-love-of-soul-apr-2027",
+        "title": "The Love of Soul Tour: Fantasia, Anthony Hamilton, October London",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 76,
+        "venueName": "Hard Rock Live, Hollywood",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/the-love-of-soul-tour-hollywood-florida-04-17-2027/event/0D006535EBCEC7FF",
+        "ticketUrl": "https://www.ticketmaster.com/the-love-of-soul-tour-hollywood-florida-04-17-2027/event/0D006535EBCEC7FF",
+        "summary": "A major R&B/soul package tour brings Fantasia, Anthony Hamilton and October London to Hard Rock Live in nearby Hollywood, Florida.",
+        "genres": [
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-calema-2027",
+        "title": "Calema",
+        "type": "concert",
+        "startDate": "2027-04-03",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://miamibeachbandshell.com/event/calema/",
+        "ticketUrl": "https://wl.eventim.us/event/calema/699714?afflky=MiamiBeachBandshell",
+        "summary": "Lusophone Afropop duo Calema bring their São Tomé and Príncipe-rooted blend of African rhythms, Portuguese pop, Latin sounds and R&B to the Miami Beach Bandshell, presented by LPR.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-saint-levant-apr-2027",
+        "title": "Saint Levant – AFANDI World Tour",
+        "type": "concert",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-16",
+        "importance": 72,
+        "venueName": "The Fillmore Miami Beach at Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/saint-levant-afandi-world-tour-miami-beach-florida-04-16-2027/event/0D0064E7EC73EC3C",
+        "ticketUrl": "https://www.ticketmaster.com/saint-levant-afandi-world-tour-miami-beach-florida-04-16-2027/event/0D0064E7EC73EC3C",
+        "summary": "Palestinian-Algerian artist Saint Levant brings the AFANDI World Tour to The Fillmore Miami Beach for a confirmed Friday-night show.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

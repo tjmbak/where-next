@@ -1,0 +1,186 @@
+{
+  "slug": "verbier",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:22:19.709Z",
+  "responseId": "resp_0af86009dd278040006acda344d26887d0aeed4d7ff7121f95+resp_0fff832331301745006acda3a62a3487d0a8ae46769af6f5fa",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 2,
+    "year": 2027,
+    "notes": "Confirmed February listings skew toward Verbier’s winter après-ski and DJ residencies, with a few ski-area music/animation days rather than a major standalone festival lineup.",
+    "events": [
+      {
+        "id": "verbier-farinet-apres-ski-live-bands-2027",
+        "title": "Farinet Après-ski: Daily Live Bands",
+        "type": "residency",
+        "startDate": "2026-12-11",
+        "endDate": "2027-04-11",
+        "importance": 78,
+        "venueName": "Farinet Après-ski",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-apres-ski-verbier-en-2923576/",
+        "ticketUrl": null,
+        "summary": "Farinet Après-ski confirms live bands every evening from 6pm to 9pm during its winter season. The venue is one of Verbier’s core après-ski music spots on Place Centrale.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-farinet-lounge-dj-nights-2027",
+        "title": "Farinet Lounge & South: DJ Nights and Weekend Club Programme",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2027-04-24",
+        "importance": 74,
+        "venueName": "Farinet Lounge Bar / South Restaurant & Club",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-lounge-bar-lourtier-en-2788382/",
+        "ticketUrl": null,
+        "summary": "Farinet Lounge confirms DJs from 9pm and describes South as running a curated music programme that turns into one of Verbier’s liveliest nightclubs on weekends. The winter opening period runs through all of February 2027.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "verbier-le-rouge-winter-dj-programme-2027",
+        "title": "Le Rouge Restaurant & Après-Ski: Winter DJ Programme",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2027-04-25",
+        "importance": 70,
+        "venueName": "Le Rouge Restaurant & Après-Ski",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/le-rouge-restaurant-verbier-en-2788471/",
+        "ticketUrl": null,
+        "summary": "Le Rouge confirms public events throughout the winter season with a programme of DJs and après-ski entertainment. Its season dates cover February 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-farinet-dj-residency-2027",
+        "title": "Farinet Lounge Bar nightly DJ residency",
+        "type": "residency",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-28",
+        "importance": 66,
+        "venueName": "Farinet Lounge Bar",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-lounge-bar-lourtier-en-2788382/",
+        "ticketUrl": null,
+        "summary": "Farinet’s winter-season lounge programme runs through February 2027 with DJs taking over from 21:00, anchoring Verbier’s central après-to-late-evening dance scene.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-farm-club-winter-weekends-2027",
+        "title": "Farm Club winter weekend nights",
+        "type": "residency",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-28",
+        "importance": 64,
+        "venueName": "Farm Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farm-club-verbier-en-2788094/",
+        "ticketUrl": null,
+        "summary": "Verbier’s long-running Farm Club is confirmed open on winter weekends through February 2027, serving the resort’s late-night, international club crowd until 04:00.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-south-club-winter-residency-2027",
+        "title": "SOUTH Restaurant & Club winter club nights",
+        "type": "residency",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-28",
+        "importance": 63,
+        "venueName": "SOUTH Restaurant & Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/south-restaurant-club-verbier-en-4557632/",
+        "ticketUrl": null,
+        "summary": "SOUTH’s winter club format is confirmed across February 2027, converting from Asian-fusion restaurant into a late-night dance floor with DJs and genre programming varying by night.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-taratata-late-night-dj-parties-2027",
+        "title": "Taratata: Late-Night DJ Parties",
+        "type": "residency",
+        "startDate": "2026-12-03",
+        "endDate": "2027-04-30",
+        "importance": 62,
+        "venueName": "Taratata",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/taratata-verbier-en-3012180/",
+        "ticketUrl": null,
+        "summary": "Taratata’s winter listing confirms festive late-night parties with DJ sets, plus dance, concert and entertainment-evening services. The opening period runs through February 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-guggen-de-bagnes-concert-2027",
+        "title": "Aperitif and Concert of the Guggen de Bagnes",
+        "type": "carnival",
+        "startDate": "2027-02-08",
+        "endDate": "2027-02-08",
+        "importance": 60,
+        "venueName": "Place Centrale",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/vibe-events-entertainment/aperitif-and-concert-of-the-guggen-de-bagnes-verbier-en-4054986/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourisme confirms a free aperitif and concert by the Guggen of Bagnes, Chenegouga, on Place Centrale from 17:00 to 18:00.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-enpistes-le-nouvelliste-bruson-2027",
+        "title": "EnPistes with Le Nouvelliste — Bruson / La Pasay",
+        "type": "festival",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 60,
+        "venueName": "Restaurant de La Pasay",
+        "venueId": null,
+        "sourceUrl": "https://verbier4vallees.ch/en/experiences-in-verbier/events/enpistes-with-le-nouvelliste_event_368805",
+        "ticketUrl": null,
+        "summary": "The Valais ski-resort tour stops at Restaurant de La Pasay in Bruson with skiing, free aperitif, music, competition and entertainment. The detailed programme is still marked as forthcoming, so no artists are listed yet.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-sledging-festival-la-tzoumaz-2027",
+        "title": "Sledging Festival — La Tzoumaz",
+        "type": "festival",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-20",
+        "importance": 60,
+        "venueName": "Savoleyres / Bar des Établons",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/vibe-events-entertainment/sledging-festival-la-tzoumaz-en-2893244/",
+        "ticketUrl": null,
+        "summary": "The Sledging Festival confirms musical entertainment on 20 February 2027, with The Anthony’s performing at Savoleyres from 11am and at Bar des Établons from 3:30pm. The event is a ski-area day party built around La Tzoumaz’s sledging run.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

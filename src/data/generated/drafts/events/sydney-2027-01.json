@@ -1,0 +1,451 @@
+{
+  "slug": "sydney",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:13:57.041Z",
+  "responseId": "resp_0822d458a838d4ae006acda0c9412487d09d6c9c57d50a7e87+resp_0eb8d211c1516c92006acda14ee0c887d0a9adc32ff6dcd249",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "sydney",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is already anchored by New Year’s Day dance festivals, a strong Carriageworks/club run, diaspora parties, and several major touring concerts.",
+    "events": [
+      {
+        "id": "sydney-field-day-2027",
+        "title": "Field Day 2027",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 95,
+        "venueName": "The Domain",
+        "venueId": null,
+        "sourceUrl": "https://fieldday.com.au/",
+        "ticketUrl": null,
+        "summary": "Field Day returns to The Domain on New Year’s Day with a dance/electronic lineup led by Major Lazer and Sub Focus, plus Andy C, Boys Noize, Elderbrook, Hannah Laing, Oppidan and others.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-yabun-festival-2027",
+        "title": "Yabun Festival 2027",
+        "type": "festival",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "importance": 88,
+        "venueName": "Victoria Park, Broadway",
+        "venueId": null,
+        "sourceUrl": "https://yabun.org.au/",
+        "ticketUrl": null,
+        "summary": "Yabun returns on 26 January as a major First Nations cultural gathering with traditional and contemporary music, dance, talks, workshops, markets and community programming.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-dangerous-goods-xxl-2027",
+        "title": "Dangerous Goods XXL Festival - Sydney 2027",
+        "type": "festival",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 86,
+        "venueName": "Sydney Showgrounds",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2517331",
+        "ticketUrl": "https://ra.co/events/2517331",
+        "summary": "Dangerous Goods XXL brings a multi-stage techno, hardstyle, psytrance and trance bill to Sydney Showgrounds with Boris Brejcha, Claptone, Darude, Neelix, Sub Zero Project and Anderex among the Phase 1 lineup.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-hellbound-cruise-2027",
+        "title": "Hellbound 2 Cruise 2027",
+        "type": "festival",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-21",
+        "importance": 85,
+        "venueName": "Carnival Splendor / Overseas Passenger Terminal Sydney",
+        "venueId": null,
+        "sourceUrl": "https://www.hellboundcruise2.com.au/",
+        "ticketUrl": "https://www.hellboundcruise2.com.au/",
+        "summary": "Hellbound 2 is a four-night heavy music cruise departing Sydney for Tangalooma and returning to Sydney, featuring Parkway Drive, The Amity Affliction, Thy Art Is Murder, Alpha Wolf, Ocean Grove, RedHook and more.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-vince-staples-2027",
+        "title": "Vince Staples",
+        "type": "concert",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-06",
+        "importance": 84,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.untitledgroup.com.au/events-tours/vincestaples",
+        "ticketUrl": "https://premier.ticketek.com.au/events/BIGFISH27/venues/NMO/performances/ENMO2027606VN/tickets",
+        "summary": "Vince Staples plays Enmore Theatre as part of his Australian headline run, marking his first Australian shows since 2018.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-the-works-overmono-2027",
+        "title": "THE WORKS [JAN 8] feat. Overmono",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 84,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531686",
+        "ticketUrl": "https://ra.co/events/2531686",
+        "summary": "UK duo Overmono bring their breakbeat, dub and club-led live sound to Carriageworks for THE WORKS.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "sydney-bryson-tiller-2027",
+        "title": "Bryson Tiller - The Neo Trapsoul Tour",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 84,
+        "venueName": "Afterpay Arena",
+        "venueId": null,
+        "sourceUrl": "https://afterpayarena.com.au/event/bryson-tiller",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?sh=PCHINTLS27",
+        "summary": "Bryson Tiller brings The Neo Trapsoul Tour to Afterpay Arena with Majid Jordan listed as support on the Australian dates.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-summer-dance-rinse-fm-2027",
+        "title": "SUMMER DANCE x Rinse FM - SYD - Liberty Hall Courts",
+        "type": "club-night",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 83,
+        "venueName": "Liberty Hall Courts",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2510075",
+        "ticketUrl": "https://ra.co/events/2510075",
+        "summary": "Astral People, Summer Dance and Rinse FM present an open-air Liberty Hall Courts takeover led by JME, Yung Singh, Mia Koden, Prozak, Surusinghe and more.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-nia-archives-2027",
+        "title": "Nia Archives",
+        "type": "concert",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-07",
+        "importance": 82,
+        "venueName": "Metro Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.niaarchives.com/tour/",
+        "ticketUrl": "https://www.niaarchives.com/tour/",
+        "summary": "Nia Archives’ official tour page lists a Sydney date at Metro Theatre following Australian summer festival appearances, bringing her jungle and electronic sound to the city.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-the-works-sam-alfred-job-jobse-2027",
+        "title": "THE WORKS [JAN 7] feat. Sam Alfred b2b Job Jobse",
+        "type": "club-night",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-07",
+        "importance": 82,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531685",
+        "ticketUrl": "https://ra.co/events/2531685",
+        "summary": "Sam Alfred and Job Jobse play a special back-to-back warehouse session at Carriageworks for THE WORKS.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-the-works-kiki-2027",
+        "title": "THE WORKS [JAN 9] feat. KI/KI",
+        "type": "club-night",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-09",
+        "importance": 82,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531687",
+        "ticketUrl": "https://ra.co/events/2531687",
+        "summary": "Amsterdam techno/trance selector KI/KI headlines THE WORKS at Carriageworks Bay 22–24.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-human-league-2027",
+        "title": "The Human League - Generations Greatest Hits Tour",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-31",
+        "importance": 79,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://premier.ticketek.com.au/shows/show.aspx?p=ENMO2027631HL&sh=THLEAGUE27&v=NMO",
+        "ticketUrl": "https://premier.ticketek.com.au/shows/show.aspx?p=ENMO2027631HL&sh=THLEAGUE27&v=NMO",
+        "summary": "The Human League play two Enmore Theatre shows on their Generations greatest-hits tour, revisiting four decades of synth-pop material.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-tyler-icu-noir-2027",
+        "title": "Tyler ICU Live Sydney",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 78,
+        "venueName": "Mink x Diamond / Noir Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://events.humanitix.com/tylericusydney?hxchl=mkt-loc",
+        "ticketUrl": "https://events.humanitix.com/tylericusydney?hxchl=mkt-loc",
+        "summary": "South African amapiano producer Tyler ICU headlines a Sydney club night billed with hip-hop, R&B, Afrobeats, Amapiano, UK hip-hop and French Afro selections.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "sydney-the-works-rossi-2027",
+        "title": "THE WORKS [JAN 6] feat. Rossi., Dean Turnley b2b Jamback",
+        "type": "club-night",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-06",
+        "importance": 78,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531682",
+        "ticketUrl": "https://ra.co/events/2531682",
+        "summary": "Finely Tuned’s THE WORKS series opens with Rossi., Dean Turnley b2b Jamback and Stacie Fields at Carriageworks, focused on low-slung house and warehouse-scale club music.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-swim-live-orchestra-2027",
+        "title": "SWIM - AU Tour (Live with Orchestra)",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 76,
+        "venueName": "Carriageworks",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2556933",
+        "ticketUrl": "https://ra.co/events/2556933",
+        "summary": "Melbourne-born, London-based artist SWIM brings an immersive live house show with a full orchestra to Carriageworks.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-house-cltr-nyd-2027",
+        "title": "House CLTR Sydney - XXXL NYD Boat Party",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Inception Boat",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2529885",
+        "ticketUrl": "https://ra.co/events/2529885",
+        "summary": "House CLTR’s New Year’s Day sunset cruise bills three secret UK international headliners, five hours of house and deep-house classics, and a 25+ no-phones dancefloor on Sydney Harbour.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-run-the-numbers-4am-kru-2027",
+        "title": "RUN THE NUMBERS ft. 4AM KRU [UK]",
+        "type": "club-night",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 74,
+        "venueName": "Oxford Art Factory",
+        "venueId": null,
+        "sourceUrl": "https://www.moshtix.com.au/v2/event/run-the-numbers-ft-4am-kru-uk/200201",
+        "ticketUrl": "https://www.moshtix.com.au/v2/event/run-the-numbers-ft-4am-kru-uk/200201",
+        "summary": "Run The Numbers presents 4AM KRU at Oxford Art Factory with Irene J, Swisherman, Ninyo and Fashionably Late on support.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-beach-bar-caribbean-2027",
+        "title": "Beach Bar 2027 | Caribbean Rooftop Pool Party",
+        "type": "beach-club",
+        "startDate": "2027-01-02",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "The Rooftop Pool at The Old Clare Hotel",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/beach-bar-2027-caribbean-rooftop-pool-party-tickets-2002211990963",
+        "ticketUrl": "https://www.eventbrite.com.au/e/beach-bar-2027-caribbean-rooftop-pool-party-tickets-2002211990963",
+        "summary": "Caribbean Sydney and Prescription Caribbean Club bring back Beach Bar for its 12th edition: a rooftop pool party centred on soca, dancehall, Afrobeats and bouyon with DJ Fasmwa, Nicole Tania and Koolbreeze.",
+        "genres": [
+          "afro-house",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-great-southern-sounds-2027",
+        "title": "Great Southern Sounds",
+        "type": "festival",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-27",
+        "importance": 78,
+        "venueName": "Carnival Splendor / departing Sydney",
+        "venueId": null,
+        "sourceUrl": "https://www.greatsouthernsounds.com.au/",
+        "ticketUrl": "https://www.greatsouthernsounds.com.au/",
+        "summary": "Six-night Australian music cruise departing Sydney, led by Jimmy Barnes, Jon Stevens, Kate Ceberano, Daryl Braithwaite, Lee Kernaghan, Kasey Chambers, Troy Cassar-Daley and Marcia Hines among 35+ onboard acts.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "sydney-beartooth-hordern-2027",
+        "title": "Beartooth – Pure Ecstasy Australia Tour",
+        "type": "concert",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-30",
+        "importance": 74,
+        "venueName": "Hordern Pavilion",
+        "venueId": null,
+        "sourceUrl": "https://www.destroyalllines.com/tours/beartooth",
+        "ticketUrl": "https://www.destroyalllines.com/tours/beartooth",
+        "summary": "Beartooth play Hordern Pavilion on their Pure Ecstasy Australia Tour, with Fit For A King and Volumes confirmed as special guests.",
+        "genres": []
+      },
+      {
+        "id": "sydney-public-image-ltd-enmore-2027",
+        "title": "Public Image Ltd – This Is Not The Last Tour",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 72,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.pilofficial.com/tour/",
+        "ticketUrl": "https://premier.ticketek.com.au/Shows/Show.aspx?sh=PUBIMLTD27",
+        "summary": "John Lydon’s Public Image Ltd bring their Australasia tour to The Enmore, the Sydney stop on a run that also includes Brisbane, Melbourne, Adelaide and Perth.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-yeah-buoy-sunrise-boat-2027",
+        "title": "Yeah Buoy - New Years Sunrise Boat Party",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "King Street Wharf / Inception, Sydney Harbour",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/yeah-buoy-new-years-sunrise-boat-party-tickets-1988448936296",
+        "ticketUrl": "https://www.eventbrite.com.au/e/yeah-buoy-new-years-sunrise-boat-party-tickets-1988448936296",
+        "summary": "New Year’s Day sunrise harbour afterparty from Yeah Buoy, billed as a 3-level, 2-stage, 400+ capacity house-and-tech cruise running 3am–7am.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-waylon-wyatt-enmore-2027",
+        "title": "Waylon Wyatt – Dustpiles World Tour",
+        "type": "concert",
+        "startDate": "2027-01-19",
+        "endDate": "2027-01-19",
+        "importance": 70,
+        "venueName": "Enmore Theatre",
+        "venueId": "enmore-theatre",
+        "sourceUrl": "https://www.frontiertouring.com/waylonwyatt",
+        "ticketUrl": "https://www.frontiertouring.com/waylonwyatt",
+        "summary": "Rising US folk-country artist Waylon Wyatt plays Enmore Theatre on the Australian leg of the Dustpiles World Tour, joined by special guest Clover County.",
+        "genres": []
+      },
+      {
+        "id": "sydney-island-nye-2027",
+        "title": "The Island Sydney: New Years Eve",
+        "type": "beach-club",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 70,
+        "venueName": "The Island Sydney / Elizabeth Bay Marina",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com.au/e/the-island-sydney-new-years-eve-tickets-1985878415800",
+        "ticketUrl": "https://www.eventbrite.com.au/e/the-island-sydney-new-years-eve-tickets-1985878415800",
+        "summary": "The Island’s harbourside NYE party crosses into 1 January 2027, pairing premium waterfront fireworks access with a DJ-led island-club format.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "sydney-trance-day-party-2027",
+        "title": "Trance Day Party: Sydney",
+        "type": "club-night",
+        "startDate": "2027-01-30",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Mansions Potts Point",
+        "venueId": null,
+        "sourceUrl": "https://www.fatsoma.com/e/imiy23ny/trance-day-party-sydney",
+        "ticketUrl": "https://www.fatsoma.com/e/imiy23ny/trance-day-party-sydney",
+        "summary": "Daytime Disco Australia brings its daytime rave format to Potts Point for an afternoon of trance anthems and festival-style electronic classics.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "sydney-cliff-dive-fridays-2027",
+        "title": "The Cliff Dive Fridays",
+        "type": "residency",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-29",
+        "importance": 62,
+        "venueName": "The Cliff Dive",
+        "venueId": null,
+        "sourceUrl": "https://www.designmynight.com/sydney/whats-on/clubbing/the-cliff-dive-fridays",
+        "ticketUrl": "https://www.designmynight.com/sydney/whats-on/clubbing/the-cliff-dive-fridays",
+        "summary": "Weekly Oxford Street basement night running across Fridays in January with resident DJs, MCs and performers focused on hip-hop and R&B, with No Diggity-style club energy flagged by the venue listing.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

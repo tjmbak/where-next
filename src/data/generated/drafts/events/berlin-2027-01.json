@@ -1,0 +1,323 @@
+{
+  "slug": "berlin",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:02:27.113Z",
+  "responseId": "resp_0787d867b848e0fc006acd9e8ceb7487d0bf660debf59d926e+resp_0e62c8ffa7b6a2b9006acd9ee90c6c87d09d64b714c746a020",
+  "searchCalls": 29,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is led by CTM’s experimental/electronic program, with Berlin’s queer techno and long-format club culture already beginning to fill in around the festival week.",
+    "events": [
+      {
+        "id": "berlin-ctm-festival-jan-2027",
+        "title": "CTM Festival 2027 »Process...ing«",
+        "type": "festival",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-31",
+        "importance": 95,
+        "venueName": "Various Berlin venues",
+        "venueId": null,
+        "sourceUrl": "https://www.ctm-festival.de/festival-2027/welcome",
+        "ticketUrl": "https://www.ctm-festival.de/festival-2027/tickets",
+        "summary": "CTM’s 28th edition runs under the title »Process...ing« across venues including Radialsystem, Berghain, RSO.Berlin, Volksbühne, Morphine Raum and Haus der Visionäre. First announced artists include 96 Back, A.N.I., aya b2b Secretary, Debit, Dis Fig, Gudrun Gut, Kaitlyn Aurelia Smith, Kabeaushé, Marina Herlop, Microplastics, Modeselektor, NZIRIA and Spekki Webu.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-aespa-synk-complexity-2027",
+        "title": "aespa LIVE TOUR – SYNK : COMPLæXITY – in BERLIN",
+        "type": "concert",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "importance": 90,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/aespa/2027-01-26-2000",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/aespa/2027-01-26-2000",
+        "summary": "K-pop group aespa bring their »SYNK : COMPLæXITY« tour to Uber Arena at 20:00. The arena confirms tickets are on sale for the January 26 Berlin date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-ctm-modeselektor-mdslktr-2027",
+        "title": "CTM Festival 2027: Modeselektor present »MDSLKTR and Guests«",
+        "type": "concert",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-24",
+        "importance": 87,
+        "venueName": "Haus der Visionäre",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2538661",
+        "ticketUrl": "https://ra.co/events/2538661",
+        "summary": "CTM hosts the world premiere of Modeselektor’s new album »MDSKLTKR« at Haus der Visionäre. The confirmed bill includes Modeselektor & Guests, Kabeaushé and Gudrun Gut.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-rso-null-reset-2027",
+        "title": "RSO: NULL RESET — NYE 82HR WEEKENDER",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-04",
+        "importance": 84,
+        "venueName": "RSO.BERLIN",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2487282",
+        "ticketUrl": "https://de.ra.co/events/2487282",
+        "summary": "RSO’s 82-hour, three-floor New Year weekender brings a heavyweight techno lineup including Adiel, Akua, Daria Kolosova, Freddy K, Grace Dahl, MARRØN, Setaoc Mass b2b Henning Baer, Josey Rebelle, JASSS, NIKS and MCMLXXXV.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-bcco-240kmh-2027",
+        "title": "BCCO x 240KMH",
+        "type": "club-night",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-02",
+        "importance": 83,
+        "venueName": "MUENZE",
+        "venueId": null,
+        "sourceUrl": "https://de.ra.co/events/2393223",
+        "ticketUrl": "https://de.ra.co/events/2393223",
+        "summary": "Two major hard-techno brands take over MUENZE/Prägehalle for a multi-day NYE run with future.666, AEREA, ÜBERKIKZ, BIIA, DJ Hyperdrive, SAIKA, Per Pleks, JKS and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-paul-van-dyk-2027",
+        "title": "Paul van Dyk live at Uber Eats Music Hall",
+        "type": "concert",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 82,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/paul-van-dyk-2027/2027-01-23-2100",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/paul-van-dyk-2027/2027-01-23-2100",
+        "summary": "Berlin trance figurehead Paul van Dyk plays Uber Eats Music Hall at 21:00. The venue describes the show as turning the hall into a large club for one of electronic dance music’s best-known artists.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-polyamor-sesh-2027",
+        "title": "Polyamor x SESH",
+        "type": "club-night",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-02",
+        "importance": 80,
+        "venueName": "RAW- Lokschuppen + Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2446798",
+        "ticketUrl": "https://ra.co/events/2446798",
+        "summary": "Polyamor and SESH combine forces across Astra and Lokschuppen for a high-energy NYE session spanning trance, hardgroove and techno with Paraçek, DJ DRECKISCH, Trancemaster Krause, Cleopard2000, SATYS FYRE, DJ SEXSTASY, VIVI909 and more.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-gegen-prncptl-ost-2027",
+        "title": "GEGEN x PRNCPTL x OST NYE 34H",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-02",
+        "importance": 80,
+        "venueName": "OST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2480820",
+        "ticketUrl": "https://ra.co/events/2480820",
+        "summary": "GEGEN, Pornceptual and OST join with queer/fetish party crews for a 34-hour NYE ritual featuring Dr. Rubinstein, Hyperaktivist, Kiddy Smile, Laure Croft, Mar/us, VINVAR, Adam Munnings and more.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-gegen-pandemonium-2027",
+        "title": "GEGEN PANDEMONIUM-16 YRS",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-23",
+        "importance": 78,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2548865",
+        "ticketUrl": "https://ra.co/events/2548865",
+        "summary": "GEGEN’s 16-year anniversary brings its queer, sex-positive techno universe back to KitKatClub with Boudica/SKIN-linked programming and artists including Samantha Togni, Marcus L, OCD, Adam Munnings, Luigi Di Venere and Reza Jalilian.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-power-dance-club-2027",
+        "title": "Power Dance Club NYD 2027",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 77,
+        "venueName": "KREUZWERK",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2526997",
+        "ticketUrl": "https://ra.co/events/2526997",
+        "summary": "Power Dance Club’s New Year’s Day edition is billed as a 30-hour techno/house run at KREUZWERK, with the lineup still TBA but the brand positioned as a major queer-leaning Berlin dance-floor draw.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-blank-winter-holidays-2027",
+        "title": "Blank Winter Holidays - 30 Stunden nonstop",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 74,
+        "venueName": "://about blank",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2506458",
+        "ticketUrl": "https://ra.co/events/2506458",
+        "summary": "://about blank runs a 30-hour winter nonstop across MDF, Lobby, Wintergarten and Zelt with first names Anna Haleta, Portable live, SKALA, Stephanie Sykes and Irakli before the full lineup drop.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "berlin-happy-mondays-2027",
+        "title": "Happy Mondays (UK / live)",
+        "type": "concert",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-24",
+        "importance": 74,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2491422",
+        "ticketUrl": null,
+        "summary": "Happy Mondays return to Berlin for a live show at Astra Kulturhaus on their anniversary run for »Pills ’n’ Thrills and Bellyaches«. The listing confirms Happy Mondays plus support, with doors at 19:00 and show at 20:00.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-piepshow-januarypiep-2027",
+        "title": "PiepShow - JanuaryPiep",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-30",
+        "importance": 74,
+        "venueName": "KitKatClub",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2528201",
+        "ticketUrl": null,
+        "summary": "PiepShow’s JanuaryPiep edition is a 14-hour colourful queer techno rave at KitKatClub with five floors spanning techno, hard techno, hard trance/bounce, house, disco, pop and groove-oriented trance.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-darknights-festival-2027",
+        "title": "Berlin Darknights Festival II",
+        "type": "festival",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-30",
+        "importance": 72,
+        "venueName": "Festsaal Kreuzberg",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/tickets/konzerte/berlin-darknights-festival-presented-by-synthpop-eventmanagement-7ef52e39-835c-47b9-8ebc-fca113bd09f7/",
+        "ticketUrl": "https://www.berlin.de/tickets/konzerte/berlin-darknights-festival-presented-by-synthpop-eventmanagement-7ef52e39-835c-47b9-8ebc-fca113bd09f7/",
+        "summary": "Berlin Darknights Festival II runs for two nights at Festsaal Kreuzberg with a dark electro, EBM, industrial and synth lineup. Confirmed acts include Funker Vogt, Rotersand, Chrom, S.P.O.C.K., Blitz Union, Morphose, Zoodrake and more.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-beardyman-gretchen-2027",
+        "title": "Beardyman *live",
+        "type": "concert",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 70,
+        "venueName": "Gretchen",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2516535",
+        "ticketUrl": "https://ra.co/events/2516535",
+        "summary": "Beardyman performs live at Gretchen with a beatboxing, looping and improvisation-led show. The listing frames the set across hip-hop, electronica, dubstep, funk, drum & bass and IDM influences.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-onyx-ueberrest-2027",
+        "title": "ONYX pres. Ueberrest: 'RECHARGE'",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-30",
+        "importance": 70,
+        "venueName": "DSTRKT Club Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546051",
+        "ticketUrl": null,
+        "summary": "ONYX debuts a new production-heavy concept at DSTRKT, built around trance/techno with Ueberrest, Danilo Filipe and more TBA, plus a custom light and laser show.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-unleashed-undr-2027",
+        "title": "UNLEASHED by UNDR - Kinky Techno Party",
+        "type": "club-night",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-31",
+        "importance": 70,
+        "venueName": "Insomnia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2379564",
+        "ticketUrl": "https://ra.co/events/2379564",
+        "summary": "UNDR’s UNLEASHED format combines a techno-focused dance floor with a sex-positive, consent-led kink environment at Insomnia, with dedicated play spaces, no-phone rules and a fetish/techno dress code.",
+        "genres": [
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-levin-liam-pech-tour-2027",
+        "title": "Levin Liam - Pech Tour 2027",
+        "type": "concert",
+        "startDate": "2027-01-27",
+        "endDate": "2027-01-27",
+        "importance": 68,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://www.berlin.de/en/tickets/rock-pop/levin-liam-pech-tour-2027/2027-01-27-levin-liam-2f267c35-3eff-4727-832c-53b630dab7a2/",
+        "ticketUrl": "https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/1487595909?language=en-us",
+        "summary": "Hamburg artist Levin Liam brings his »Pech Tour 2027« to Huxleys Neue Welt. The date is confirmed for Wednesday, January 27 at 20:00.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

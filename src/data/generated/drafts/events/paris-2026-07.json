@@ -2,9 +2,9 @@
   "slug": "paris",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:19:38.237Z",
-  "responseId": "resp_03fe1e008c7716930069ff5e10cf1c81909b0e87cf9b7a1027",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:40:29.495Z",
+  "responseId": "augment:resp_00f808f53f094ed2006a1b2eac3e0c819ba95e9d36a16c1086",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "paris",
@@ -13,18 +13,54 @@
     "notes": "July 2026 is unusually stadium-heavy in Paris, with major Latin, pop, K-pop, rock and electronic festival dates clustered in the first three weekends.",
     "events": [
       {
-        "id": "paris-guns-n-roses-jul-2026",
-        "title": "Guns N’ Roses – World Tour 2026",
+        "id": "paris-the-weeknd-stade-france-2026",
+        "title": "The Weeknd 2026 at Stade de France",
         "type": "concert",
-        "startDate": "2026-07-01",
-        "endDate": "2026-07-03",
-        "importance": 88,
-        "venueName": "Accor Arena",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-12",
+        "importance": 97,
+        "venueName": "Stade de France",
         "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/guns-n-roses-world-tour-2026--54702",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/guns-n-roses-world-tour-2026--54702",
-        "summary": "Guns N’ Roses are confirmed for two Accor Arena shows on July 1 and July 3, 2026. Mammoth is listed as opening act on the venue page.",
-        "genres": []
+        "sourceUrl": "https://www.stadefrance.com/en/tickets/music",
+        "ticketUrl": "https://www.stadefrance.com/en/tickets/music",
+        "summary": "The Weeknd is confirmed for four Stade de France concerts on July 8, 10, 11 and 12, 2026. The official Stade de France ticket office lists the July 8 date as the fourth and final added show.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "paris-bts-stade-france-2026",
+        "title": "BTS 2026 at Stade de France",
+        "type": "concert",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-18",
+        "importance": 97,
+        "venueName": "Stade de France",
+        "venueId": null,
+        "sourceUrl": "https://www.stadefrance.com/en/tickets/music",
+        "ticketUrl": "https://www.stadefrance.com/en/tickets/music",
+        "summary": "BTS are confirmed for two Stade de France concerts on July 17 and 18, 2026. The official Stade de France ticket office bills them as two special dates for the K-pop group’s return.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-bad-bunny-jul-2026",
+        "title": "Bad Bunny – DeBÍ TiRAR MáS FOToS World Tour",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-05",
+        "importance": 96,
+        "venueName": "Paris La Défense Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/bad-bunny/",
+        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/bad-bunny/",
+        "summary": "Bad Bunny is confirmed for July 4 and 5, 2026 at Paris La Défense Arena, billed as his first performance in France. CHUWI is listed as the opening act.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
       },
       {
         "id": "paris-system-of-a-down-jul-2026",
@@ -38,6 +74,38 @@
         "sourceUrl": "https://www.stadefrance.com/fr/billetterie/system-of-a-down",
         "ticketUrl": "https://www.stadefrance.com/fr/billetterie/system-of-a-down",
         "summary": "System Of A Down are confirmed at Stade de France on July 2 and July 4, 2026. The Stade de France listing names Queens Of The Stone Age and Acid Bath as special guests.",
+        "genres": []
+      },
+      {
+        "id": "paris-peacock-society-2026",
+        "title": "Peacock Society 2026",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-11",
+        "importance": 90,
+        "venueName": "Hippodrome Paris-Vincennes",
+        "venueId": null,
+        "sourceUrl": "https://peacocksociety.fr/?lang=en",
+        "ticketUrl": "https://shotgun.live/en/festivals/peacock-society-2026",
+        "summary": "Peacock Society is confirmed as an open-air electronic festival on July 10–11, 2026 at Hippodrome Paris-Vincennes. The official lineup page lists artists including Four Tet, Floating Points, Boys Noize b2b SALOME, Channel Tres b2b Busy P, Benga & Flowdan, Palms Trax and Mia Koden.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-guns-n-roses-jul-2026",
+        "title": "Guns N’ Roses – World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-03",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/guns-n-roses-world-tour-2026--54702",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/guns-n-roses-world-tour-2026--54702",
+        "summary": "Guns N’ Roses are confirmed for two Accor Arena shows on July 1 and July 3, 2026. Mammoth is listed as opening act on the venue page.",
         "genres": []
       },
       {
@@ -59,38 +127,38 @@
         ]
       },
       {
-        "id": "paris-new-york-heritage-festival-2026",
-        "title": "Paris New York Heritage Festival 2026",
-        "type": "festival",
-        "startDate": "2026-07-03",
-        "endDate": "2026-07-05",
-        "importance": 72,
-        "venueName": "Parc André Citroën",
+        "id": "paris-romeo-santos-prince-royce-2026",
+        "title": "Romeo Santos & Prince Royce – Mejor Tarde Que Nunca Tour",
+        "type": "concert",
+        "startDate": "2026-07-19",
+        "endDate": "2026-07-19",
+        "importance": 82,
+        "venueName": "Accor Arena",
         "venueId": null,
-        "sourceUrl": "https://www.pnyhfestival.com/",
-        "ticketUrl": "https://www.pnyhfestival.com/",
-        "summary": "Paris New York Heritage Festival is confirmed for July 3–5, 2026 at Parc André Citroën. The official site describes the event as an EcoVillage built around jazz, soul and funk, with concerts and DJ sets; the full artist program is still marked as forthcoming.",
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/romeo-santos-and-prince-royce--7551f",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/romeo-santos-and-prince-royce--7551f",
+        "summary": "Romeo Santos and Prince Royce are confirmed for a joint Accor Arena concert on July 19, 2026. The venue describes it as their first time joining forces in Europe on the Mejor Tarde Que Nunca tour.",
         "genres": [
-          "jazz",
-          "r-and-b",
-          "festival"
+          "latin",
+          "r-and-b"
         ]
       },
       {
-        "id": "paris-bad-bunny-jul-2026",
-        "title": "Bad Bunny – DeBÍ TiRAR MáS FOToS World Tour",
-        "type": "concert",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-05",
-        "importance": 96,
-        "venueName": "Paris La Défense Arena",
+        "id": "paris-rhadoo-all-night-2026",
+        "title": "Rhadoo - all night long",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "essaim",
         "venueId": null,
-        "sourceUrl": "https://www.parisladefense-arena.com/en/evenement/bad-bunny/",
-        "ticketUrl": "https://www.parisladefense-arena.com/en/evenement/bad-bunny/",
-        "summary": "Bad Bunny is confirmed for July 4 and 5, 2026 at Paris La Défense Arena, billed as his first performance in France. CHUWI is listed as the opening act.",
+        "sourceUrl": "https://ra.co/events/2421168",
+        "ticketUrl": "https://ra.co/events/2421168",
+        "summary": "Romanian minimal figure Rhadoo plays all night long at essaim, a strong pick for travelers following micro-house, minimal and deep techno circuits.",
         "genres": [
-          "latin",
-          "pop"
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -108,54 +176,56 @@
         "genres": []
       },
       {
-        "id": "paris-the-weeknd-stade-france-2026",
-        "title": "The Weeknd 2026 at Stade de France",
-        "type": "concert",
-        "startDate": "2026-07-08",
-        "endDate": "2026-07-12",
-        "importance": 97,
-        "venueName": "Stade de France",
+        "id": "paris-belle-epoque-horde-open-air-2026",
+        "title": "BELLE EPOQUE! x HORDE OPEN AIR",
+        "type": "club-night",
+        "startDate": "2026-07-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Wanderlust",
         "venueId": null,
-        "sourceUrl": "https://www.stadefrance.com/en/tickets/music",
-        "ticketUrl": "https://www.stadefrance.com/en/tickets/music",
-        "summary": "The Weeknd is confirmed for four Stade de France concerts on July 8, 10, 11 and 12, 2026. The official Stade de France ticket office lists the July 8 date as the fourth and final added show.",
+        "sourceUrl": "https://ra.co/events/2418203",
+        "ticketUrl": "https://ra.co/events/2418203",
+        "summary": "A 14-hour open-air-to-late-night house session from Belle Epoque, Horde Paris, Fvtvr and Wanderlust, with Jan Blomqvist, Rodriguez Jr., Viken Arman and a broad local support slate.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
-        "id": "paris-vulfpeck-2026",
-        "title": "Vulfpeck 2026",
-        "type": "concert",
-        "startDate": "2026-07-09",
-        "endDate": "2026-07-09",
-        "importance": 74,
-        "venueName": "Accor Arena",
+        "id": "paris-la-culottee-nord-sud-2026",
+        "title": "la Culottée (Nord + Sud)",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "La Station - Gare des Mines",
         "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/vulfpeck-2026--d8f90",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/vulfpeck-2026--d8f90",
-        "summary": "Vulfpeck are confirmed for a single Accor Arena show on July 9, 2026. The venue bills the Los Angeles group’s Paris return as a funk-heavy arena date.",
-        "genres": [
-          "jazz"
-        ]
-      },
-      {
-        "id": "paris-peacock-society-2026",
-        "title": "Peacock Society 2026",
-        "type": "festival",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-11",
-        "importance": 90,
-        "venueName": "Hippodrome Paris-Vincennes",
-        "venueId": null,
-        "sourceUrl": "https://peacocksociety.fr/?lang=en",
-        "ticketUrl": "https://shotgun.live/en/festivals/peacock-society-2026",
-        "summary": "Peacock Society is confirmed as an open-air electronic festival on July 10–11, 2026 at Hippodrome Paris-Vincennes. The official lineup page lists artists including Four Tet, Floating Points, Boys Noize b2b SALOME, Channel Tres b2b Busy P, Benga & Flowdan, Palms Trax and Mia Koden.",
+        "sourceUrl": "https://ra.co/events/2442053",
+        "ticketUrl": "https://ra.co/events/2442053",
+        "summary": "A heavily watched La Station night split across Nord and Sud rooms with Amina, audio primitive, Rachel Noon, Gay Haze, Fais Le Beau and more.",
         "genres": [
           "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "paris-pornceptual-virage-2026",
+        "title": "Pornceptual: COCKO, Kandelissa, LOLSNAKE, Spacer Woman",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Virage",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2442122",
+        "ticketUrl": "https://ra.co/events/2442122",
+        "summary": "Berlin-born Pornceptual brings its club-culture, art, fashion and radical self-expression concept to Virage for a Berlin x Paris techno lineup with a mandatory dress code.",
+        "genres": [
           "techno",
-          "house"
+          "electronic"
         ]
       },
       {
@@ -175,36 +245,108 @@
         ]
       },
       {
-        "id": "paris-bts-stade-france-2026",
-        "title": "BTS 2026 at Stade de France",
-        "type": "concert",
-        "startDate": "2026-07-17",
-        "endDate": "2026-07-18",
-        "importance": 97,
-        "venueName": "Stade de France",
+        "id": "paris-dance-go-home-sbb-2026",
+        "title": "Dance And Go Home X SBB Paris",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "5 Rue Saint-Éleuthère",
         "venueId": null,
-        "sourceUrl": "https://www.stadefrance.com/en/tickets/music",
-        "ticketUrl": "https://www.stadefrance.com/en/tickets/music",
-        "summary": "BTS are confirmed for two Stade de France concerts on July 17 and 18, 2026. The official Stade de France ticket office bills them as two special dates for the K-pop group’s return.",
+        "sourceUrl": "https://shotgun.live/en/events/dance-and-go-home-x-sbb-paris",
+        "ticketUrl": "https://shotgun.live/en/events/dance-and-go-home-x-sbb-paris",
+        "summary": "Touring culture platform Dance and Go Home links with SBB Paris for a diaspora day-to-night party blending Afrobeats, Amapiano, hip-hop, R&B and dancehall.",
         "genres": [
-          "pop"
+          "amapiano",
+          "hip-hop",
+          "r-and-b"
         ]
       },
       {
-        "id": "paris-romeo-santos-prince-royce-2026",
-        "title": "Romeo Santos & Prince Royce – Mejor Tarde Que Nunca Tour",
+        "id": "paris-tribalism-freddy-k-hemka-2026",
+        "title": "tribalism - Freddy K, Hemka",
+        "type": "club-night",
+        "startDate": "2026-07-03",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "essaim",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420658",
+        "ticketUrl": "https://ra.co/events/2420658",
+        "summary": "A serious techno night at essaim led by Freddy K and Hemka, with the club’s limited-presale/door-ticket format built for heads rather than casual traffic.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-moblack-agoria-claraa-2026",
+        "title": "La Clairière: MoBlack, Agoria, CLARAA",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "La Clairière",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2447926",
+        "ticketUrl": "https://ra.co/events/2447926",
+        "summary": "Afro-house pioneer MoBlack headlines La Clairière alongside Agoria and CLARAA for a deep, travel-ready electronic night in the Bois de Boulogne setting.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-cocoon-eris-drew-2026",
+        "title": "cocoon - Eris Drew, Yaël Ohayon",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "essaim",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2420665",
+        "ticketUrl": "https://ra.co/events/2420665",
+        "summary": "Eris Drew joins Yaël Ohayon at essaim for a high-quality, queer-adjacent electronic night that should appeal to house and techno travelers looking beyond festival programming.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-vulfpeck-2026",
+        "title": "Vulfpeck 2026",
         "type": "concert",
-        "startDate": "2026-07-19",
-        "endDate": "2026-07-19",
-        "importance": 82,
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-09",
+        "importance": 74,
         "venueName": "Accor Arena",
         "venueId": null,
-        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/romeo-santos-and-prince-royce--7551f",
-        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/romeo-santos-and-prince-royce--7551f",
-        "summary": "Romeo Santos and Prince Royce are confirmed for a joint Accor Arena concert on July 19, 2026. The venue describes it as their first time joining forces in Europe on the Mejor Tarde Que Nunca tour.",
+        "sourceUrl": "https://www.accorarena.com/en/events-and-tickets/vulfpeck-2026--d8f90",
+        "ticketUrl": "https://www.accorarena.com/en/events-and-tickets/vulfpeck-2026--d8f90",
+        "summary": "Vulfpeck are confirmed for a single Accor Arena show on July 9, 2026. The venue bills the Los Angeles group’s Paris return as a funk-heavy arena date.",
         "genres": [
-          "latin",
-          "r-and-b"
+          "jazz"
+        ]
+      },
+      {
+        "id": "paris-new-york-heritage-festival-2026",
+        "title": "Paris New York Heritage Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-05",
+        "importance": 72,
+        "venueName": "Parc André Citroën",
+        "venueId": null,
+        "sourceUrl": "https://www.pnyhfestival.com/",
+        "ticketUrl": "https://www.pnyhfestival.com/",
+        "summary": "Paris New York Heritage Festival is confirmed for July 3–5, 2026 at Parc André Citroën. The official site describes the event as an EcoVillage built around jazz, soul and funk, with concerts and DJ sets; the full artist program is still marked as forthcoming.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
         ]
       }
     ]

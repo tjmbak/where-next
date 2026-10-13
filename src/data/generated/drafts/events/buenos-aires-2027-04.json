@@ -1,0 +1,132 @@
+{
+  "slug": "buenos-aires",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:48:25.272Z",
+  "responseId": "resp_048fb90dad0c80ad006acda95e00f087d085f2566668dd2dc3+resp_03fd43ce18cb9caa006acda9d9e63887d08cfd6b3bfd67e89f",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 4,
+    "year": 2027,
+    "notes": "Ultra Buenos Aires anchors April’s travel calendar, with several confirmed arena-scale pop, rock, Latin and electronic concerts around the same period.",
+    "events": [
+      {
+        "id": "buenos-aires-ultra-ba-2027",
+        "title": "Ultra Buenos Aires 2027",
+        "type": "festival",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-03",
+        "importance": 96,
+        "venueName": "Parque de la Ciudad",
+        "venueId": null,
+        "sourceUrl": "https://allmusicparties.com/en/evento/ultra-buenos-aires-2027",
+        "ticketUrl": "https://ultrabuenosaires.com/tickets/2027/",
+        "summary": "Ultra Buenos Aires is confirmed for Friday April 2 and Saturday April 3, 2027. The 2027 lineup had not been announced on the checked event page, but the confirmed two-day Ultra/RESISTANCE-format festival is the month’s flagship electronic event.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "buenos-aires-tan-bionica-apr-2027",
+        "title": "Tan Biónica at Movistar Arena",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-25",
+        "importance": 84,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/148a7bae-bb0a-4efa-b4f8-aca6f46beb26",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/148a7bae-bb0a-4efa-b4f8-aca6f46beb26",
+        "summary": "Tan Biónica return to Movistar Arena for two confirmed April shows on April 24 and April 25, 2027. The venue page says the concerts combine the band’s classic catalog with songs from El Regreso.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-jungle-2027",
+        "title": "Jungle with Sports",
+        "type": "concert",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-01",
+        "importance": 82,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://linda.buenosaires.gob.ar/eventos/jungle",
+        "ticketUrl": "https://www.songkick.com/concerts/43238515-jungle-at-movistar-arena",
+        "summary": "Jungle play Movistar Arena on April 1 with Sports opening. The Buenos Aires city listing describes the show as a live presentation of Jungle’s album Sunshine, blending soul, funk and electronic music.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-louis-tomlinson-2027",
+        "title": "Louis Tomlinson: How Did We Get Here? Latin America Tour",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-02",
+        "importance": 80,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.lat/en/event/louis-tomlinson-how-did-we-get-here-latin-america-tour-buenos-aires-tickets-edp1674397",
+        "ticketUrl": "https://www.livenation.lat/en/event/louis-tomlinson-how-did-we-get-here-latin-america-tour-buenos-aires-tickets-edp1674397",
+        "summary": "Louis Tomlinson brings the How Did We Get Here? Latin America Tour to Movistar Arena on April 2, 2027. Live Nation lists Tomlinson as the headliner for the Buenos Aires date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-pixies-2027",
+        "title": "Pixies",
+        "type": "concert",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-04",
+        "importance": 79,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/40a2e398-4362-44e7-b95d-f8a5007f5c12",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/40a2e398-4362-44e7-b95d-f8aca5007f5c12",
+        "summary": "Pixies are confirmed at Movistar Arena on April 4, 2027. The venue page lists doors at 19:00 and show time at 21:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-luis-fonsi-2027",
+        "title": "Luis Fonsi: Mar Infinito World Tour",
+        "type": "concert",
+        "startDate": "2027-04-13",
+        "endDate": "2027-04-13",
+        "importance": 78,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/29942a91-2789-460a-b611-97426be04d12",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/29942a91-2789-460a-b611-97426be04d12",
+        "summary": "Luis Fonsi plays Movistar Arena on April 13, 2027 as part of the Mar Infinito World Tour. The venue page says the set will cover Fonsi’s Latin pop hits including “Despacito,” “Échame la Culpa” and newer material.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-slash-myles-kennedy-2027",
+        "title": "Slash featuring Myles Kennedy and The Conspirators",
+        "type": "concert",
+        "startDate": "2027-04-07",
+        "endDate": "2027-04-07",
+        "importance": 76,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://songkick.com/concerts/43454078-slash-featuring-myles-kennedy-at-movistar-arena",
+        "ticketUrl": "https://songkick.com/concerts/43454078-slash-featuring-myles-kennedy-at-movistar-arena",
+        "summary": "Slash featuring Myles Kennedy and The Conspirators are listed for Movistar Arena on April 7, 2027. Songkick identifies the Buenos Aires concert as part of the Flying Blind-era tour activity.",
+        "genres": []
+      }
+    ]
+  }
+}

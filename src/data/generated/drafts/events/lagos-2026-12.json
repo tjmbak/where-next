@@ -2,16 +2,283 @@
   "slug": "lagos",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:16:42.091Z",
-  "responseId": "resp_06e0a12c467e16a60069ff5d78de00819d82292e4f7e140b7b",
-  "searchCalls": 18,
+  "generatedAt": "2026-10-13T02:54:06.964Z",
+  "responseId": "resp_0ecbf16732a3490f006acd9c72d28487d099f6901e974d2123+resp_0745c47174d314f9006acd9ce11b7887d0bc261852d85be7cd",
+  "searchCalls": 40,
   "citations": [],
   "data": {
     "destinationSlug": "lagos",
     "month": 12,
     "year": 2026,
-    "notes": null,
+    "notes": "Confirmed December 2026 Lagos music programming is still rolling out, but the verified calendar already centers on Detty December festivals, Flytime’s Eko Convention Centre run, beach raves, and diaspora-led nightlife.",
     "events": [
+      {
+        "id": "lagos-detty-december-fest-2026",
+        "title": "Detty December Fest 2026",
+        "type": "festival",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-30",
+        "importance": 90,
+        "venueName": "Detty December Village / Detty Festival Stage",
+        "venueId": null,
+        "sourceUrl": "https://dettydecfest.com/events/",
+        "ticketUrl": "https://tix.dot360.co/",
+        "summary": "Livespot’s 13-day Detty December Fest calendar runs across Lagos from 18–30 December, with multiple concerts, parties and experience nights; the confirmed season highlight is Wizkid opening the festival on 18 December.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-wizkid-detty-opening-2026",
+        "title": "Detty December Fest Grand Opening Concert ft. Wizkid",
+        "type": "concert",
+        "startDate": "2026-12-18",
+        "endDate": "2026-12-18",
+        "importance": 86,
+        "venueName": "Detty December Village",
+        "venueId": null,
+        "sourceUrl": "https://tix.dot360.co/event/detty-december-festival-grand-opening-event",
+        "ticketUrl": "https://tix.dot360.co/event/detty-december-festival-grand-opening-event",
+        "summary": "Wizkid headlines the opening night of Detty December Fest, with DOT TIX listing the show for 18 December 2026 at Detty December Village, Lagos.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lagos-flytime-fest-2026",
+        "title": "Flytime Fest, Powered by Coca-Cola",
+        "type": "festival",
+        "startDate": "2026-12-22",
+        "endDate": "2026-12-24",
+        "importance": 86,
+        "venueName": "Eko Convention Centre",
+        "venueId": null,
+        "sourceUrl": "https://ng.linkedin.com/company/flytime-promotions",
+        "ticketUrl": "https://www.flytimefest.com/tickets",
+        "summary": "Flytime Promotions confirms Flytime Fest, Powered by Coca-Cola, for 22–24 December 2026 at Eko Convention Centre as the central three-night festival block in its December Lagos series.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lagos-rhythm-unplugged-flytime-2026",
+        "title": "Coca-Cola Rhythm Unplugged 2026",
+        "type": "concert",
+        "startDate": "2026-12-21",
+        "endDate": "2026-12-21",
+        "importance": 84,
+        "venueName": "Eko Convention Centre",
+        "venueId": null,
+        "sourceUrl": "https://ng.linkedin.com/company/flytime-promotions",
+        "ticketUrl": "https://www.flytimefest.com/tickets",
+        "summary": "Flytime Promotions lists Coca-Cola Rhythm Unplugged for 21 December 2026 as part of its six-night December run at Eko Convention Centre; lineup details were still to be announced in the source.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lagos-flytime-house-rnb-brandy-2026",
+        "title": "Flytime’s House of RnB: The Concert — Brandy",
+        "type": "concert",
+        "startDate": "2026-12-20",
+        "endDate": "2026-12-20",
+        "importance": 82,
+        "venueName": "Eko Convention Centre",
+        "venueId": null,
+        "sourceUrl": "https://ng.linkedin.com/company/flytime-promotions",
+        "ticketUrl": "https://www.flytimefest.com/tickets",
+        "summary": "Flytime Promotions confirms Brandy as headliner for Flytime’s House of RnB at Eko Hotel Conference Centre / Eko Convention Centre on 20 December 2026.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-dance-eko-2026",
+        "title": "Dance Èkó 2026",
+        "type": "festival",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "importance": 82,
+        "venueName": "Orange Island",
+        "venueId": null,
+        "sourceUrl": "https://danceeko.com/",
+        "ticketUrl": "https://danceeko.com/",
+        "summary": "Two-day Lagos dance-music festival with Day 1 focused on underground/house sounds curated by Monochroma and Day 2 on amapiano/afropiano curated by Even In The Day.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-roadblock-rave-apocalypse-2026",
+        "title": "Roadblock — Rave Apocalypse: The Awakening",
+        "type": "club-night",
+        "startDate": "2026-12-19",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Balmoral Convention Centre, Federal Palace Hotel",
+        "venueId": null,
+        "sourceUrl": "https://roadblockng.com/",
+        "ticketUrl": "https://roadblockng.com/",
+        "summary": "Large-scale Afro-electronic Roadblock rave at Balmoral/Federal Palace, combining DJs, live-orchestra elements, show production and all-white/all-black dress code.",
+        "genres": [
+          "electronic",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "lagos-abe-lagos-2026",
+        "title": "ABE Lagos 2026",
+        "type": "club-night",
+        "startDate": "2026-12-25",
+        "endDate": null,
+        "importance": 78,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.abetour.com/",
+        "ticketUrl": "https://www.abetour.com/",
+        "summary": "All Black Everything’s Christmas-night Lagos diaspora party, selling general entry and VIP tables and billed around Afrobeats, old-school sounds and amapiano.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "lagos-detty-december-beach-rave-2026",
+        "title": "Detty December Beach Rave",
+        "type": "beach-club",
+        "startDate": "2026-12-25",
+        "endDate": "2026-12-26",
+        "importance": 78,
+        "venueName": "Voda Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://tiqstar.com/events/detty-december-beach-rave",
+        "ticketUrl": "https://tiqstar.com/events/detty-december-beach-rave",
+        "summary": "Christmas-night beachfront rave at Voda Beach Club with three stages spanning Afrobeats/amapiano, deep house/lo-fi and bass-focused sounds, capped at 3,000 capacity.",
+        "genres": [
+          "amapiano",
+          "house",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "lagos-eko-beach-rave-2026",
+        "title": "Eko Beach Rave & X Festival",
+        "type": "beach-club",
+        "startDate": "2026-12-11",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Voda Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.onepassafrica.com/events/rayda-entertainment/eko-beach-rave",
+        "ticketUrl": "https://raydaent.com/events/eko-beach-rave/tickets",
+        "summary": "Rayda Entertainment’s beach rave at Voda Beach, billed around Afrobeats, amapiano and afrohouse with a coastal electronic/festival setup and paid access tickets.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-flytime-circle-2026",
+        "title": "Flytime Circle",
+        "type": "concert",
+        "startDate": "2026-12-25",
+        "endDate": "2026-12-25",
+        "importance": 75,
+        "venueName": "Eko Convention Centre",
+        "venueId": null,
+        "sourceUrl": "https://ng.linkedin.com/company/flytime-promotions",
+        "ticketUrl": "https://www.flytimefest.com/tickets",
+        "summary": "Flytime Promotions lists 25 December 2026 for Flytime Circle, described by the organiser as a new concert franchise closing its six-night Eko Convention Centre run.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "lagos-elite-fest-2026",
+        "title": "ELITE FEST 2026",
+        "type": "festival",
+        "startDate": "2026-12-21",
+        "endDate": "2026-12-21",
+        "importance": 72,
+        "venueName": "Balmoral Convention Centre, Federal Palace Hotel",
+        "venueId": null,
+        "sourceUrl": "https://elitefestival.org/",
+        "ticketUrl": "https://elitefestival.org/",
+        "summary": "ELITE FEST 2026 is listed as a one-day Afrobeats festival at Balmoral Convention Centre, Victoria Island, with doors at 4:00 PM WAT.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-made-kuti-beach-2026",
+        "title": "Mádé Kuti at the Beach 2",
+        "type": "beach-club",
+        "startDate": "2026-12-06",
+        "endDate": "2026-12-06",
+        "importance": 70,
+        "venueName": "Jara Beach Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.jarabeachresort.com/madekuti",
+        "ticketUrl": "https://www.jarabeachresort.com/madekuti",
+        "summary": "Mádé Kuti & The Movement perform an intimate beachside live set at Jara Beach Resort with DJs, food, drinks and optional return bus transport from Ikoyi.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "lagos-off-duty-onchain-rave-2026",
+        "title": "OFF-DUTY by Onchain Festival",
+        "type": "conference",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "importance": 67,
+        "venueName": "Lagos, Nigeria",
+        "venueId": null,
+        "sourceUrl": "https://www.onchainfestival.org/",
+        "ticketUrl": "https://www.onchainfestival.org/",
+        "summary": "A two-day tech-rave positioned as an all-white, after-hours culture event with silent disco programming, main-stage moments, an Off Duty Rave and a headline act slot.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lagos-goddess-afrobeats-portal-2026",
+        "title": "The Goddess Afrobeats Portal",
+        "type": "club-night",
+        "startDate": "2026-12-12",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "Ivy Bar Restaurant",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/the-goddess-afrobeats-portal-tickets-2000200172560",
+        "ticketUrl": "https://www.eventbrite.com/e/the-goddess-afrobeats-portal-tickets-2000200172560",
+        "summary": "A small-format curated Afrobeats BYOB night at Ivy Bar Restaurant, centered on music, movement, lounging and dancefloor energy curated by High Priestess.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
       {
         "id": "lagos-festac50-2026",
         "title": "FESTAC@50",

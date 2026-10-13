@@ -1,0 +1,136 @@
+{
+  "slug": "mexico-city",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:47:49.514Z",
+  "responseId": "resp_0601f9b4bc355160006acda94e6d8887d0a501196b37ce5d2c+resp_065d48275d992109006acda9a7ef1087d0ac1838bf4dcb468d",
+  "searchCalls": 33,
+  "citations": [
+    {
+      "url": "https://ra.co/events/mx/mexicocity?startDate=2026-04-01&utm_source=openai",
+      "title": "Upcoming Events in Mexico City · Get Your Tickets On RA",
+      "startIndex": 379,
+      "endIndex": 463
+    }
+  ],
+  "data": {
+    "destinationSlug": "mexico-city",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 currently has confirmed stadium pop and Auditorio Nacional Latin/trova dates; major club and festival calendars for the month do not yet appear broadly announced.",
+    "events": [
+      {
+        "id": "mexico-city-louis-tomlinson-apr-2027",
+        "title": "Louis Tomlinson: How Did We Get Here? Latin America Tour",
+        "type": "concert",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-10",
+        "importance": 88,
+        "venueName": "Estadio GNP Seguros",
+        "venueId": null,
+        "sourceUrl": "https://www.ocesa.com.mx/todos-los-eventos/louis-tomlinson-boletos-ae1287628",
+        "ticketUrl": "https://www.ticketmaster.com.mx/louis-tomlinson-how-did-we-get-ciudad-de-mexico-10-04-2027/event/140064A6B451C456",
+        "summary": "Louis Tomlinson brings his How Did We Get Here? Latin America Tour to Estadio GNP Seguros on April 10, 2027. OCESA lists the Mexico City stadium date and links through to Ticketmaster sales.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-grupo-niche-apr-2027",
+        "title": "Grupo Niche \"Niche Disco Tour\"",
+        "type": "concert",
+        "startDate": "2027-04-18",
+        "endDate": "2027-04-18",
+        "importance": 82,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/grupo-niche-niche-disco-tour-ciudad-de-mexico-18-04-2027/event/3D0064C8BF072F43",
+        "ticketUrl": "https://www.ticketmaster.com.mx/grupo-niche-niche-disco-tour-ciudad-de-mexico-18-04-2027/event/3D0064C8BF072F43",
+        "summary": "Colombian salsa institution Grupo Niche plays Auditorio Nacional on April 18, 2027 as part of the Niche Disco Tour. The event page bills the show as a run through the band’s salsa anthems.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-silvio-rodriguez-apr26-2027",
+        "title": "Silvio Rodríguez",
+        "type": "concert",
+        "startDate": "2027-04-26",
+        "endDate": "2027-04-26",
+        "importance": 80,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-26-04-2027/event/3D006522A1AF32E7",
+        "ticketUrl": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-26-04-2027/event/3D006522A1AF32E7",
+        "summary": "Cuban Nueva Trova figure Silvio Rodríguez performs at Auditorio Nacional on April 26, 2027. Ticketmaster states the show is part of his Mexico tour and lists his accompanying band and musicians.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-silvio-rodriguez-apr27-2027",
+        "title": "Silvio Rodríguez — final added date",
+        "type": "concert",
+        "startDate": "2027-04-27",
+        "endDate": "2027-04-27",
+        "importance": 80,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-27-04-2027/event/3D006533DA405BFC",
+        "ticketUrl": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-27-04-2027/event/3D006533DA405BFC",
+        "summary": "Silvio Rodríguez adds a second Auditorio Nacional date on April 27, 2027. The Ticketmaster event page bills it as a new and final function following audience demand.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-espinoza-paz-apr-2027",
+        "title": "Espinoza Paz",
+        "type": "concert",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-21",
+        "importance": 74,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/espinoza-paz-ciudad-de-mexico-21-04-2027/event/3D006518B86836B7",
+        "ticketUrl": "https://www.ticketmaster.com.mx/espinoza-paz-ciudad-de-mexico-21-04-2027/event/3D006518B86836B7",
+        "summary": "Regional Mexican singer-songwriter Espinoza Paz returns to Auditorio Nacional on April 21, 2027. Ticketmaster lists the concert as a new presentation after strong audience response to his prior show.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "mexico-city-alcala-norte-apr-2027",
+        "title": "Alcalá Norte",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 70,
+        "venueName": "Foro Puebla",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/alcala-norte-mexico-09-10-2026/event/3D0064B69E695685",
+        "ticketUrl": "https://www.ticketmaster.com.mx/alcala-norte-mexico-09-10-2026/event/3D0064B69E695685",
+        "summary": "Spanish band Alcalá Norte is confirmed for Foro Puebla on April 24, 2027. The Ticketmaster event page lists the Mexico City date at the Roma-area venue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-willie-colon-forever-apr-2027",
+        "title": "Willie Colón Forever",
+        "type": "concert",
+        "startDate": "2027-04-14",
+        "endDate": "2027-04-14",
+        "importance": 62,
+        "venueName": "Auditorio Nacional",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/willie-colon-forever-ciudad-de-mexico-14-04-2027/event/3D0064C9A36D22E7",
+        "ticketUrl": "https://www.ticketmaster.com.mx/willie-colon-forever-ciudad-de-mexico-14-04-2027/event/3D0064C9A36D22E7",
+        "summary": "A Willie Colón tribute concert at Auditorio Nacional, billed as Willie Colón Forever, is confirmed for April 14, 2027. Ticketmaster describes it as a night honoring the salsa innovator’s legacy.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

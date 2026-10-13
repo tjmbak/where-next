@@ -1,0 +1,48 @@
+{
+  "slug": "aspen",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:36:53.586Z",
+  "responseId": "resp_0952dfbadda6246b006acda6a0ed4487d0aa1b5a46b90f7530+resp_084d530e27d458ff006acda70c019887d0aed66974a8b2875e",
+  "searchCalls": 41,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 3,
+    "year": 2027,
+    "notes": "Aspen’s confirmed March 2027 music calendar is still light, with Belly Up Aspen anchoring the month’s verified contemporary concerts.",
+    "events": [
+      {
+        "id": "aspen-evening-with-moe-2027",
+        "title": "An Evening with moe.",
+        "type": "concert",
+        "startDate": "2027-03-31",
+        "endDate": "2027-03-31",
+        "importance": 72,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/an-evening-with-moe/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=an-evening-with-moe.-3-31-27",
+        "summary": "Jam-band veterans moe. bring An Evening with moe. to Belly Up Aspen. The official venue listing confirms doors at 7:00 pm and showtime at 8:00 pm.",
+        "genres": []
+      },
+      {
+        "id": "aspen-g-love-special-sauce-2027",
+        "title": "G. Love & Special Sauce — Yeah, It’s That Easy 30th Anniversary Tour",
+        "type": "concert",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-04",
+        "importance": 70,
+        "venueName": "Belly Up Aspen",
+        "venueId": "belly-up-aspen",
+        "sourceUrl": "https://bellyupaspen.com/events/g-love-special-sauce-3/",
+        "ticketUrl": "https://tickets.bellyupaspen.com/link/event?event=g-love-special-sauce-3-4-27",
+        "summary": "G. Love & Special Sauce play Belly Up Aspen on the Yeah, It’s That Easy 30th Anniversary Tour, with Todd Carey listed on the bill. Doors are 7:00 pm and showtime is 8:00 pm.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

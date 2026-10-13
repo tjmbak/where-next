@@ -1,0 +1,220 @@
+{
+  "slug": "los-angeles",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:45:18.221Z",
+  "responseId": "resp_0841b717091e419b006acda881c58487d0a3d0713067e79f2b+resp_095da445181a80e6006acda908c9c087d0a5e468c3de90105c",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "los-angeles",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is anchored by Coachella in the Southern California desert plus a run of major pop and Latin arena/theater dates; most LA underground club calendars are not yet announced this far out.",
+    "events": [
+      {
+        "id": "los-angeles-coachella-weekend-one-2027",
+        "title": "Coachella Valley Music and Arts Festival 2027 — Weekend 1",
+        "type": "festival",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-11",
+        "importance": 100,
+        "venueName": "Empire Polo Club",
+        "venueId": "coachella",
+        "sourceUrl": "https://goldenvoice.com/festivals/",
+        "ticketUrl": "https://www.coachella.com/",
+        "summary": "Goldenvoice lists Coachella 2027 for April 9–11 and April 16–18 at Empire Polo Club. The 2027 lineup was not yet posted on the official Coachella page at research time, but passes and hotel packages were active.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-coachella-weekend-two-2027",
+        "title": "Coachella Valley Music and Arts Festival 2027 — Weekend 2",
+        "type": "festival",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-18",
+        "importance": 99,
+        "venueName": "Empire Polo Club",
+        "venueId": "coachella",
+        "sourceUrl": "https://goldenvoice.com/festivals/",
+        "ticketUrl": "https://www.coachella.com/",
+        "summary": "Goldenvoice confirms Coachella’s second 2027 weekend for April 16–18 at Empire Polo Club. As with Weekend 1, the official festival page had 2027 pass information but no announced lineup yet.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-harry-styles-rose-bowl-2027",
+        "title": "Harry Styles — Together, Together",
+        "type": "concert",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-23",
+        "importance": 90,
+        "venueName": "Rose Bowl",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/harry-styles-tickets/artist/2366444?tt_scene=anchor_view&venueId=90162",
+        "ticketUrl": "https://www.ticketmaster.com/harry-styles-tickets/artist/2366444?tt_scene=anchor_view&venueId=90162",
+        "summary": "Harry Styles is scheduled for a Rose Bowl run in Pasadena, with April 23, April 24, and April 30 listed in April 2027. This entry uses the first confirmed April date from Ticketmaster’s venue-specific listing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-carly-rae-jepsen-kia-forum-2027",
+        "title": "Carly Rae Jepsen — Day and Night Tour",
+        "type": "concert",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-22",
+        "importance": 82,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-inglewood-california-04-22-2027/event/0900653DD37AFC77",
+        "ticketUrl": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-inglewood-california-04-22-2027/event/0900653DD37AFC77",
+        "summary": "Carly Rae Jepsen’s Day and Night Tour is confirmed at Kia Forum in Inglewood on April 22, 2027. Ticketmaster lists the show at 7:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-jay-wheeler-youtube-theater-2027",
+        "title": "Jay Wheeler — La Voz Favorita Tour",
+        "type": "concert",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-10",
+        "importance": 78,
+        "venueName": "YouTube Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.youtubetheater.com/news/detail/jay-wheeler-anuncia-su-gira-mundial-la-voz-favorita-la-gira-llega-a-youtube-theater-el-10-de-abril-de-2027",
+        "ticketUrl": "https://www.youtubetheater.com/news/detail/jay-wheeler-anuncia-su-gira-mundial-la-voz-favorita-la-gira-llega-a-youtube-theater-el-10-de-abril-de-2027",
+        "summary": "Puerto Rican urban-Latin singer Jay Wheeler brings the La Voz Favorita Tour to YouTube Theater in Inglewood on April 10, 2027. The venue announcement names the tour and date directly.",
+        "genres": [
+          "latin",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-yuri-lucero-crypto-2027",
+        "title": "Yuri & Lucero — Entre Amigas Tour",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-17",
+        "importance": 78,
+        "venueName": "Crypto.com Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/yurilucero041727",
+        "ticketUrl": "https://www.axs.com/events/1527111/yuri-lucero-tickets",
+        "summary": "Mexican pop icons Yuri and Lucero bring their Entre Amigas Tour to Crypto.com Arena on April 17, 2027. The arena event page lists an 8:00 PM start with tickets on sale.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-angele-wiltern-2027",
+        "title": "Angèle — Instinct Tour",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-24",
+        "importance": 77,
+        "venueName": "The Wiltern",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vv170Z_oGkSfw2jj/angele-instinct-tour",
+        "ticketUrl": "https://www.livenation.com/event/vv170Z_oGkSfw2jj/angele-instinct-tour",
+        "summary": "Belgian pop artist Angèle brings the Instinct Tour to The Wiltern on April 24, 2027. Live Nation’s event page lists the date, venue, and artist lineup.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-saint-levant-anaheim-2027",
+        "title": "Saint Levant — AFANDI World Tour",
+        "type": "concert",
+        "startDate": "2027-04-29",
+        "endDate": "2027-04-29",
+        "importance": 74,
+        "venueName": "House of Blues Anaheim",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG10Z_Cr0rPTV/saint-levant-afandi-world-tour",
+        "ticketUrl": "https://www.livenation.com/event/vvG10Z_Cr0rPTV/saint-levant-afandi-world-tour",
+        "summary": "Saint Levant’s AFANDI World Tour is listed at House of Blues Anaheim on April 29, 2027, just outside Los Angeles proper in the broader LA/Orange County live-music market. Live Nation confirms the date, venue, and lineup.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-fiesta-broadway-2027",
+        "title": "Fiesta Broadway 2027",
+        "type": "festival",
+        "startDate": "2027-04-25",
+        "endDate": "2027-04-25",
+        "importance": 72,
+        "venueName": "Downtown Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://fiesta-broadway.com/",
+        "ticketUrl": null,
+        "summary": "Fiesta Broadway returns to Downtown Los Angeles on Sunday, April 25, 2027 with live music, cultural performances, food, and family entertainment. The official site describes the event as a free public celebration of LA’s Latino community.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-mei-semones-fonda-2027",
+        "title": "Mei Semones — Howl Tour",
+        "type": "concert",
+        "startDate": "2027-04-23",
+        "endDate": "2027-04-23",
+        "importance": 70,
+        "venueName": "Fonda Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1633448/mei-semones-tickets?staticDetails=staticDetails",
+        "ticketUrl": "https://www.axs.com/events/1633448/mei-semones-tickets?staticDetails=staticDetails",
+        "summary": "Goldenvoice presents Mei Semones at the Fonda Theatre on April 23, 2027 as part of the Howl Tour. The AXS event page confirms a 9:00 PM show and all-ages admission.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-nothing-but-thieves-apr-2027",
+        "title": "Nothing But Thieves: The Stray Dogs World Tour",
+        "type": "concert",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-04",
+        "importance": 72,
+        "venueName": "Hollywood Palladium",
+        "venueId": null,
+        "sourceUrl": "https://www.hollywoodpalladium.com/",
+        "ticketUrl": "https://www.ticketmaster.com/nothing-but-thieves-billets/artist/1939994?tt_scene=anchor_view",
+        "summary": "Nothing But Thieves bring The Stray Dogs World Tour to the Hollywood Palladium. The venue calendar confirms the Sunday, April 4, 2027 date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "los-angeles-attack-on-titan-symphony-apr-2027",
+        "title": "Attack on Titan: Symphony from Paradis",
+        "type": "concert",
+        "startDate": "2027-04-17",
+        "endDate": "2027-04-18",
+        "importance": 64,
+        "venueName": "Dolby Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/attack-on-titan-tickets/artist/3335869",
+        "ticketUrl": "https://www.ticketmaster.com/attack-on-titan-tickets/artist/3335869",
+        "summary": "The officially licensed Attack on Titan orchestral concert is confirmed for two Hollywood performances at Dolby Theatre on April 17 and April 18, 2027. Ticketmaster lists both dates and times.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

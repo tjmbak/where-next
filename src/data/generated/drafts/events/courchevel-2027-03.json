@@ -1,0 +1,82 @@
+{
+  "slug": "courchevel",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:35:15.693Z",
+  "responseId": "resp_0a92feba99496731006acda64c17dc87d0af47c0efd1f5dd7a+resp_01f5ff308d5ef4c6006acda6afe67487d0af3b8ee967d963c2",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "courchevel",
+    "month": 3,
+    "year": 2027,
+    "notes": "Confirmed March 2027 music listings are still sparse in Courchevel proper, so this calendar includes fixed-date official Courchevel items plus nearby 3 Vallées après-ski DJ programming.",
+    "events": [
+      {
+        "id": "courchevel-val-thorens-rave-experience-mar-2027",
+        "title": "Rave Experience #3",
+        "type": "club-night",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-23",
+        "importance": 72,
+        "venueName": "°Fahrenheit Seven Val Thorens",
+        "venueId": null,
+        "sourceUrl": "https://www.thesevener.com/en/val-thorens/events",
+        "ticketUrl": null,
+        "summary": "°Fahrenheit Seven Val Thorens lists Rave Experience #3 for March 23, 2027, from 15:00 to 19:00, with the lineup announced in March. The venue describes the Rave Experience concept as a hard-house and trance-focused après-ski format created with VIDO.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-val-thorens-snowfest-2027",
+        "title": "Snowfest 2027 après-ski DJ sets",
+        "type": "club-night",
+        "startDate": "2027-03-15",
+        "endDate": "2027-03-18",
+        "importance": 70,
+        "venueName": "°Fahrenheit Seven Val Thorens",
+        "venueId": null,
+        "sourceUrl": "https://www.thesevener.com/en/val-thorens/events",
+        "ticketUrl": null,
+        "summary": "The nearby 3 Vallées hotel-party hub °Fahrenheit Seven Val Thorens lists Snowfest 2027 après-ski DJ sets from March 15 to March 18, 2027, including Romanian-themed terrace sessions from 15:00 to 19:00. This is a fixed-date mountain après-ski series within the wider Courchevel-accessible ski area.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-ski-show-light-dj-mar-2027",
+        "title": "Ski Show and Light Show - Courchevel 1850 DJ Set",
+        "type": "club-night",
+        "startDate": "2027-03-04",
+        "endDate": "2027-03-04",
+        "importance": 60,
+        "venueName": "Front de neige 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/de/a/ski-show-and-light-show-courchevel-1850-6708686/",
+        "ticketUrl": null,
+        "summary": "Courchevel 1850’s ESF ski show and light show is followed by a 6:00 pm DJ set on the snow front. The official Courchevel page lists the event for Thursday, March 4, 2027, weather permitting.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "courchevel-meribel-dj-diner-festif-mar-2027",
+        "title": "DJ Set et dîner festif",
+        "type": "club-night",
+        "startDate": "2027-03-03",
+        "endDate": "2027-03-03",
+        "importance": 60,
+        "venueName": "Lilie Méribel",
+        "venueId": null,
+        "sourceUrl": "https://www.meribel.net/apidae/dj-set-et-diner-festif/",
+        "ticketUrl": null,
+        "summary": "A weekly Wednesday festive dinner and DJ set in Méribel Centre, with the dancefloor open from 21:00. Méribel’s official agenda lists March 3, 2027 as a confirmed March occurrence.",
+        "genres": [
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

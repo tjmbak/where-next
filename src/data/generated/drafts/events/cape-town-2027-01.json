@@ -1,0 +1,247 @@
+{
+  "slug": "cape-town",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:05:46.991Z",
+  "responseId": "resp_0ee9f37bf4c0517d006acd9f43542887d092df875cbd93ca95+resp_0c4a67239293d0be006acd9fade3bc87d0982faa8ff4d31b43",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 is unusually strong for Cape Town and the Western Cape, with New Year electronic/afro-house parties, major R&B/pop concerts, and destination outdoor festivals anchoring the month.",
+    "events": [
+      {
+        "id": "cape-town-tyla-apop-world-tour-2027",
+        "title": "Tyla A*POP World Tour Cape Town",
+        "type": "concert",
+        "startDate": "2027-01-04",
+        "endDate": "2027-01-04",
+        "importance": 90,
+        "venueName": "Green Point Track",
+        "venueId": null,
+        "sourceUrl": "https://tyla.howler.co.za/events/tyla-a-pop-world-tour-cape-town-d258",
+        "ticketUrl": "https://tyla.howler.co.za/events/tyla-a-pop-world-tour-cape-town-d258",
+        "summary": "Tyla brings her A*POP World Tour to Cape Town’s Green Point Track from 18:00 to 23:00. The official Howler listing confirms Tyla as the lineup and Anything Goes/Showtime as presenters.",
+        "genres": [
+          "pop",
+          "r-and-b",
+          "amapiano"
+        ]
+      },
+      {
+        "id": "cape-town-origin-festival-2027",
+        "title": "Origin Festival Cape Town 2027",
+        "type": "festival",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-31",
+        "importance": 86,
+        "venueName": "Elandskloof Farm Cottages",
+        "venueId": null,
+        "sourceUrl": "https://originfestival.com/",
+        "ticketUrl": "https://fixr.co/event/origin-festival-cape-town-2027-tickets-459932927",
+        "summary": "Origin Festival SA is confirmed for 29–31 January 2027, with tickets via the official site and FIXR. The 2027 edition features the Origin Floor for psytrance and the Riverside Beats Floor for techno, house and dubby beats.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-kunye-new-years-day-2027",
+        "title": "KUNYE New Years Day - Cape Town",
+        "type": "festival",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 84,
+        "venueName": "The Ostrich",
+        "venueId": null,
+        "sourceUrl": "https://kunyenyd.howler.co.za/events/kunye-new-years-day-01-jan-2027-cape-town-01d4",
+        "ticketUrl": "https://kunyenyd.howler.co.za/events/kunye-new-years-day-01-jan-2027-cape-town-01d4",
+        "summary": "KUNYE hosts its first full outdoor Cape Town New Year’s Day experience at The Ostrich, running from 14:00 to 02:00. Resident Advisor also lists Shimza and Afro House/Afro Tech for the event.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-fabric-castle-good-hope-2027",
+        "title": "fabric Cape Town 2027",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 84,
+        "venueName": "The Castle of Good Hope",
+        "venueId": null,
+        "sourceUrl": "https://www.thehouseofpop.co.za/london-clubbing-institution-fabric-announces-landmark-return-to-south-africa-in-january-2027/",
+        "ticketUrl": "https://dosh.ly/fabric-cape-town",
+        "summary": "London club institution fabric returns to Cape Town’s Castle of Good Hope on 16 January 2027. The confirmed Cape Town lineup includes Daniel Avery, HAAi, Heidi and Midland, with more artists still to be announced.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-fabric-cape-town-2027",
+        "title": "fabric Cape Town: HAAi, Midland, Daniel Avery, Heidi + more",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-17",
+        "importance": 84,
+        "venueName": "The Castle of Good Hope",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2542823",
+        "ticketUrl": "https://ra.co/events/2542823",
+        "summary": "London club institution fabric returns to Cape Town with Sub Sahara at The Castle of Good Hope, pairing a touring visual show with Daniel Avery, HAAi, Heidi, Midland, Sama’ Abdulhadi and more TBA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-wav-festival-2027",
+        "title": "WAV Festival Cape Town",
+        "type": "festival",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 82,
+        "venueName": "Green Point Track",
+        "venueId": null,
+        "sourceUrl": "https://www.wavfestival.com/faq-2",
+        "ticketUrl": "https://wavglobal.howler.co.za/wavct",
+        "summary": "WAV Festival’s official FAQ confirms the Cape Town edition for 2 January 2027 at Green Point Track. The festival positions itself as an R&B-focused music and culture event through an African lens.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "cape-town-balcony-mix-major-league-djz-2027",
+        "title": "Balcony Mix with Major League DJz",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-04",
+        "importance": 80,
+        "venueName": "Cabo Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://balconymixcpt.howler.co.za/events/balcony-mix-with-major-league-djz-3-january-2027-1069",
+        "ticketUrl": "https://balconymixcpt.howler.co.za/events/balcony-mix-with-major-league-djz-3-january-2027-1069",
+        "summary": "Major League DJz bring the Balcony Mix party back to Cabo Beach Club for a Sunday day-into-night amapiano takeover at the V&A Waterfront, presented by Anything Goes.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-wolfkop-weekender-2027",
+        "title": "Wolfkop Weekender 2027",
+        "type": "festival",
+        "startDate": "2027-01-14",
+        "endDate": "2027-01-18",
+        "importance": 80,
+        "venueName": "Wolfkop Camping Villages",
+        "venueId": null,
+        "sourceUrl": "https://wolfkopweekender.com/events/wolfkop-weekender-2027",
+        "ticketUrl": "https://wolfkopweekender.wontom.com/wolfkopweekender2027",
+        "summary": "Wolfkop Weekender returns to Wolfkop Camping Villages in Citrusdal from 14–18 January 2027. The official event page describes it as a boutique music festival centred on nature, art and electronic music.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-milk-cookies-festival-2027",
+        "title": "Milk + Cookies Festival Cape Town",
+        "type": "festival",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 80,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://musicinafrica.net/magazine/milk-cookies-festival-to-return-to-south-africa-in-january-2027/",
+        "ticketUrl": "https://www.milkandcookiesfestival.com/",
+        "summary": "Milk + Cookies Festival is confirmed to return to Cape Town on 29 January 2027, with Johannesburg following on 31 January. The lineup and venue were not yet announced at the time of the source, but the festival’s format combines music with food, fashion, art and design.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "cape-town-sexy-groovy-love-nyd-2027",
+        "title": "Sexy Groovy Love | New Year's Day 2027",
+        "type": "beach-club",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 76,
+        "venueName": "Grand Africa Café & Beach",
+        "venueId": null,
+        "sourceUrl": "https://sgl.howlerapp.com/events/sexy-groovy-love-new-year-s-day-2027-9133",
+        "ticketUrl": "https://sgl.howlerapp.com/events/sexy-groovy-love-new-year-s-day-2027-9133",
+        "summary": "Sexy Groovy Love returns to Grand Africa Café & Beach for a New Year’s Day beach celebration from 14:00 to 02:00. The listing confirms DJs, performers, immersive production and a full-day Cape Town beachfront format.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "cape-town-beyond-the-mountain-2027",
+        "title": "Beyond the Mountain NYE Festival",
+        "type": "festival",
+        "startDate": "2026-12-30",
+        "endDate": "2027-01-01",
+        "importance": 72,
+        "venueName": "Utopia - Swellendam",
+        "venueId": null,
+        "sourceUrl": "https://new-ux.howler.co.za/events/beyond-the-mountain-nye-festival-aacd",
+        "ticketUrl": "https://new-ux.howler.co.za/events/beyond-the-mountain-nye-festival-aacd",
+        "summary": "Three-day New Year music and arts festival in Swellendam with Airi, Von Riu, Akari System and Rinkadink announced. The event lists psychedelic soundscapes plus house and techno floors.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-afro-latin-summer-fiesta-2027",
+        "title": "Afro-Latin Summer Fiesta",
+        "type": "festival",
+        "startDate": "2027-01-27",
+        "endDate": "2027-02-01",
+        "importance": 66,
+        "venueName": "Location TBD",
+        "venueId": null,
+        "sourceUrl": "https://www.afrolatinsummerfiesta.com/event-details/afro-latin-summer-fiesta",
+        "ticketUrl": "https://www.afrolatinsummerfiesta.com/event-details/afro-latin-summer-fiesta",
+        "summary": "Afro-Latin Summer Fiesta runs from 27 January to 1 February 2027 in Cape Town. The official event page confirms six days of Salsa, Bachata, Kizomba, Afro dance, workshops, parties, performances, live music and social dancing.",
+        "genres": [
+          "latin",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "cape-town-maynardville-jazz-in-the-park-2027",
+        "title": "Maynardville 2027: Jazz in the Park",
+        "type": "concert",
+        "startDate": "2027-01-19",
+        "endDate": "2027-01-19",
+        "importance": 63,
+        "venueName": "Maynardville Open-Air Theatre",
+        "venueId": null,
+        "sourceUrl": "https://maynardville.co.za/maynardville-festival-programme/",
+        "ticketUrl": "https://www.quicket.co.za/organisers/56357-maynardville-open-air-festival",
+        "summary": "Jazz in the Park returns to the Maynardville Open-Air Festival on 19 January 2027. The festival page confirms a curated lineup of local musicians covering South African jazz, smooth classics and contemporary favourites.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

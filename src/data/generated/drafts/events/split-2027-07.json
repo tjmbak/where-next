@@ -1,0 +1,91 @@
+{
+  "slug": "split",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:29:18.299Z",
+  "responseId": "resp_0a77613548b3fd1e006acdb31df8cc87d0ab344d6d8428be97+resp_05e48bceafb73233006acdb3564c6087d08e40b11ddbb3e9d3",
+  "searchCalls": 24,
+  "citations": [],
+  "data": {
+    "destinationSlug": "split",
+    "month": 7,
+    "year": 2027,
+    "notes": "As of this research pass, July 2027 has one fully confirmed travel-scale music event in Split itself; most local club nights and smaller summer festivals have not yet published 2027 dates.",
+    "events": [
+      {
+        "id": "split-ultra-europe-jul-2027",
+        "title": "Ultra Europe 2027",
+        "type": "festival",
+        "startDate": "2027-07-09",
+        "endDate": "2027-07-11",
+        "importance": 98,
+        "venueName": "Park Mladeži",
+        "venueId": null,
+        "sourceUrl": "https://events.liveit.io/ultra-europe/ultra-europe-2027/",
+        "ticketUrl": "https://ultraeurope.com/tickets/festival/",
+        "summary": "Ultra Europe is confirmed for Friday, July 9 through Sunday, July 11, 2027 at Park Mladeži in Split. The official ticket page lists the 2027 dates and confirms three-day festival passes for the electronic festival.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "split-yacht-week-ultra-2027",
+        "title": "Yacht Week: Ultra, Croatia",
+        "type": "festival",
+        "startDate": "2027-07-10",
+        "endDate": "2027-07-17",
+        "importance": 78,
+        "venueName": "Split marina / Dalmatian islands route",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/croatia-ultra",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-ultra",
+        "summary": "A week-long Yacht Week route built around Split’s Ultra weekend, combining yacht parties, floating DJ-deck raft events, Carpe Diem beach-party energy and VIP festival access, with EDM, house and techno across the programme.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "split-cruizin-croatia-2027",
+        "title": "Cruizin’ Croatia 2027 — Rum & Music Events x Yacht Week",
+        "type": "carnival",
+        "startDate": "2027-07-17",
+        "endDate": "2027-07-24",
+        "importance": 74,
+        "venueName": "Split / Croatia yacht route",
+        "venueId": null,
+        "sourceUrl": "https://www.rumandmusic.com/",
+        "ticketUrl": "https://www.theyachtweek.com/RUMANDMUSIC",
+        "summary": "A Caribbean-diaspora Yacht Week takeover listed for Split, bringing Rum & Music’s fete culture to Croatia with soca, dancehall, reggae, afrobeats, amapiano, hip-hop and R&B across yacht, raft-up, day-club and island-party formats.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "split-sails-n-beats-2027",
+        "title": "Sails N’ Beats 2027",
+        "type": "festival",
+        "startDate": "2027-07-24",
+        "endDate": "2027-07-30",
+        "importance": 64,
+        "venueName": "Split / Croatia yacht route",
+        "venueId": null,
+        "sourceUrl": "https://www.adriaticyachting.ch/sails-n-beats",
+        "ticketUrl": "https://www.adriaticyachting.ch/sails-n-beats",
+        "summary": "A boutique yacht-and-music week starting in Split, built around international DJs, onboard sound-and-light setups, sunset sessions, yacht parties and beach-club/island nights along the Croatian coast.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

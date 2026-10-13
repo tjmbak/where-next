@@ -2,9 +2,9 @@
   "slug": "london",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:00:10.321Z",
-  "responseId": "resp_0c7bb904429817da0069ff59ad2ac0819da09c31366d98a2f7",
-  "searchCalls": 10,
+  "generatedAt": "2026-05-30T18:21:56.797Z",
+  "responseId": "augment:resp_0431055f70ddc774006a1b2a7b26b0819a870789b9592a1aa7",
+  "searchCalls": 8,
   "citations": [],
   "data": {
     "destinationSlug": "london",
@@ -12,6 +12,23 @@
     "year": 2026,
     "notes": "September 2026 is already anchored by major outdoor electronic festivals, arena-scale pop and rock shows, and a strong run of club-led events across London.",
     "events": [
+      {
+        "id": "london-ariana-grande-o2-2026",
+        "title": "Ariana Grande — The Eternal Sunshine Tour",
+        "type": "residency",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-01",
+        "importance": 94,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/ariana-grande-2026",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/ariana-grande-2026",
+        "summary": "Ariana Grande closes her ten-night London run at The O2 on 1 September 2026. The Eternal Sunshine Tour supports Eternal Sunshine and its deluxe follow-up, Brighter Days Ahead.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
       {
         "id": "london-waterworks-festival-2026",
         "title": "Waterworks Festival 2026",
@@ -31,22 +48,6 @@
         ]
       },
       {
-        "id": "london-cosmic-void-festival-2026",
-        "title": "Cosmic Void Festival 2026",
-        "type": "festival",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-20",
-        "importance": 76,
-        "venueName": "Electric Ballroom / The Underworld / The Black Heart",
-        "venueId": null,
-        "sourceUrl": "https://www.cosmicvoidfestival.com/",
-        "ticketUrl": "https://www.cosmicvoidfestival.com/",
-        "summary": "Extreme metal festival Cosmic Void returns to Camden Town across three venues. The confirmed lineup includes Hellhammer, Bloodbath, Moonspell, Sarcofago, Unleashed, Tiamat, Kampfar and Asphyx.",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
         "id": "london-bon-jovi-wembley-2026",
         "title": "Bon Jovi — Forever Tour 2026",
         "type": "concert",
@@ -61,20 +62,20 @@
         "genres": []
       },
       {
-        "id": "london-ariana-grande-o2-2026",
-        "title": "Ariana Grande — The Eternal Sunshine Tour",
-        "type": "residency",
-        "startDate": "2026-09-01",
-        "endDate": "2026-09-01",
-        "importance": 94,
-        "venueName": "The O2 arena",
+        "id": "london-defected-drumsheds-2026",
+        "title": "Defected London",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 86,
+        "venueName": "DRUMSHEDS LONDON",
         "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/ariana-grande-2026",
-        "ticketUrl": "https://www.theo2.co.uk/events/detail/ariana-grande-2026",
-        "summary": "Ariana Grande closes her ten-night London run at The O2 on 1 September 2026. The Eternal Sunshine Tour supports Eternal Sunshine and its deluxe follow-up, Brighter Days Ahead.",
+        "sourceUrl": "https://drumshedslondon.com/event/defected-london-aw26/",
+        "ticketUrl": "https://drumshedslondon.com/event/defected-london-aw26/",
+        "summary": "Defected returns to Drumsheds to kick off the AW26/27 season across X Room, Y Room and Z Room. The lineup is still TBA, but the date, venue and Defected showcase are confirmed by Drumsheds.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "house",
+          "electronic"
         ]
       },
       {
@@ -95,6 +96,56 @@
         ]
       },
       {
+        "id": "london-ava-london-2026",
+        "title": "AVA London 2026",
+        "type": "conference",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-26",
+        "importance": 82,
+        "venueName": "The British Library / Roundhouse / FOLD / HERE at Outernet / EartH Hackney",
+        "venueId": null,
+        "sourceUrl": "https://avafestival.com/new-ava-london-dates-24-26-september-2026/",
+        "ticketUrl": "https://avafestival.com/london/tickets/",
+        "summary": "AVA London returns for three days and nights of music, talks, AV shows, installations and creative exchange. The 2026 edition lists venues including The British Library, Roundhouse, FOLD, HERE at Outernet and EartH Hackney, with programme details still to be announced.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-the-cause-summer-closing-2026",
+        "title": "The Cause x 2026: Summer Closing Festival",
+        "type": "festival",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2331577",
+        "ticketUrl": "https://ra.co/events/2331577",
+        "summary": "The Cause stages a full-venue, festival-scale summer closing party using every inch of its Dock Road site, with lineup still TBA.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-judas-priest-eventim-2026",
+        "title": "Judas Priest + Nevermore",
+        "type": "concert",
+        "startDate": "2026-09-21",
+        "endDate": "2026-09-21",
+        "importance": 80,
+        "venueName": "Eventim Apollo",
+        "venueId": null,
+        "sourceUrl": "https://www.eventimapollo.com/events/judas-priest/",
+        "ticketUrl": "https://www.eventimapollo.com/events/judas-priest/",
+        "summary": "Judas Priest play Eventim Apollo on 21 September 2026, with Nevermore confirmed as special guests. The venue lists doors at 19:00.",
+        "genres": []
+      },
+      {
         "id": "london-nu-genea-roundhouse-2026",
         "title": "Nu Genea Live Band",
         "type": "concert",
@@ -113,66 +164,72 @@
         ]
       },
       {
-        "id": "london-defected-drumsheds-2026",
-        "title": "Defected London",
-        "type": "club-night",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 86,
-        "venueName": "DRUMSHEDS LONDON",
+        "id": "london-public-service-broadcasting-ally-pally-2026",
+        "title": "Public Service Broadcasting — The Race For Space 10 (+1) Celebration",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 78,
+        "venueName": "Alexandra Palace, The Great Hall",
         "venueId": null,
-        "sourceUrl": "https://drumshedslondon.com/event/defected-london-aw26/",
-        "ticketUrl": "https://drumshedslondon.com/event/defected-london-aw26/",
-        "summary": "Defected returns to Drumsheds to kick off the AW26/27 season across X Room, Y Room and Z Room. The lineup is still TBA, but the date, venue and Defected showcase are confirmed by Drumsheds.",
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/public-service-broadcasting/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/public-service-broadcasting/",
+        "summary": "Public Service Broadcasting return to Alexandra Palace for their biggest headline show, celebrating 10 (+1) years of The Race For Space. The venue confirms the show for 26 September 2026.",
         "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-nu-genea-2026",
+        "title": "Nu Genea",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "The Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2386936",
+        "ticketUrl": "https://ra.co/events/2386936",
+        "summary": "Nu Genea bring their live-band blend of disco, funk, boogie and Neapolitan groove to Roundhouse for their first London live-band show in over three years.",
+        "genres": [
+          "jazz",
           "house",
           "electronic"
         ]
       },
       {
-        "id": "london-judas-priest-eventim-2026",
-        "title": "Judas Priest + Nevermore",
-        "type": "concert",
-        "startDate": "2026-09-21",
-        "endDate": "2026-09-21",
-        "importance": 80,
-        "venueName": "Eventim Apollo",
+        "id": "london-cartulis-summer-closing-2026",
+        "title": "Cartulis Summer Closing",
+        "type": "club-night",
+        "startDate": "2026-09-26",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "FOLD",
         "venueId": null,
-        "sourceUrl": "https://www.eventimapollo.com/events/judas-priest/",
-        "ticketUrl": "https://www.eventimapollo.com/events/judas-priest/",
-        "summary": "Judas Priest play Eventim Apollo on 21 September 2026, with Nevermore confirmed as special guests. The venue lists doors at 19:00.",
-        "genres": []
-      },
-      {
-        "id": "london-ava-london-2026",
-        "title": "AVA London 2026",
-        "type": "conference",
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-26",
-        "importance": 82,
-        "venueName": "The British Library / Roundhouse / FOLD / HERE at Outernet / EartH Hackney",
-        "venueId": null,
-        "sourceUrl": "https://avafestival.com/new-ava-london-dates-24-26-september-2026/",
-        "ticketUrl": "https://avafestival.com/london/tickets/",
-        "summary": "AVA London returns for three days and nights of music, talks, AV shows, installations and creative exchange. The 2026 edition lists venues including The British Library, Roundhouse, FOLD, HERE at Outernet and EartH Hackney, with programme details still to be announced.",
+        "sourceUrl": "https://ra.co/events/2264990",
+        "ticketUrl": "https://ra.co/events/2264990",
+        "summary": "Cartulis Music closes summer with an overnight-to-morning party at FOLD, running from 23:59 until 11:00.",
         "genres": [
-          "electronic",
-          "festival"
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "london-i-prevail-ally-pally-2026",
-        "title": "I Prevail — The Violent Nature Tour",
-        "type": "concert",
-        "startDate": "2026-09-25",
-        "endDate": "2026-09-25",
-        "importance": 74,
-        "venueName": "Alexandra Palace, The Great Hall",
+        "id": "london-cosmic-void-festival-2026",
+        "title": "Cosmic Void Festival 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-20",
+        "importance": 76,
+        "venueName": "Electric Ballroom / The Underworld / The Black Heart",
         "venueId": null,
-        "sourceUrl": "https://www.alexandrapalace.com/whats-on/i-prevail/",
-        "ticketUrl": "https://www.alexandrapalace.com/whats-on/i-prevail/",
-        "summary": "I Prevail bring The Violent Nature Tour to Alexandra Palace on 25 September 2026. Amira Elfeky, Polaris and Gore are confirmed as support acts.",
-        "genres": []
+        "sourceUrl": "https://www.cosmicvoidfestival.com/",
+        "ticketUrl": "https://www.cosmicvoidfestival.com/",
+        "summary": "Extreme metal festival Cosmic Void returns to Camden Town across three venues. The confirmed lineup includes Hellhammer, Bloodbath, Moonspell, Sarcofago, Unleashed, Tiamat, Kampfar and Asphyx.",
+        "genres": [
+          "festival"
+        ]
       },
       {
         "id": "london-ella-mai-eventim-2026",
@@ -192,18 +249,101 @@
         ]
       },
       {
-        "id": "london-public-service-broadcasting-ally-pally-2026",
-        "title": "Public Service Broadcasting — The Race For Space 10 (+1) Celebration",
+        "id": "london-rossi-all-day-long-street-party-2026",
+        "title": "Rossi. All Day Long Street Party",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "TBA - Ives Rd, London E16 4SH",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2449968",
+        "ticketUrl": "https://ra.co/events/2449968",
+        "summary": "Labyrinth presents UK tech-house selector Rossi for an all-day-long East London street party closing out the open-air season.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-summer-outdoor-garage-festival-2026",
+        "title": "Summer Outdoor Garage Festival - Studio 338 London",
+        "type": "festival",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Studio 338",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440495",
+        "ticketUrl": "https://ra.co/events/2440495",
+        "summary": "A large open-air UK garage day festival at Studio 338, billed with DJ Luck & MC Neat plus headliners and residents, and promoted as a thousands-capacity outdoor rave.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "london-xtd-barac-2026",
+        "title": "XTD - 012 - Barac",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2414377",
+        "ticketUrl": "https://ra.co/events/2414377",
+        "summary": "XTD brings Romanian minimal-techno figure Barac to FOLD for an extended set, with Cem Ozden and Starlane on the bill plus an after-party component.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-i-prevail-ally-pally-2026",
+        "title": "I Prevail — The Violent Nature Tour",
         "type": "concert",
-        "startDate": "2026-09-26",
-        "endDate": "2026-09-26",
-        "importance": 78,
+        "startDate": "2026-09-25",
+        "endDate": "2026-09-25",
+        "importance": 74,
         "venueName": "Alexandra Palace, The Great Hall",
         "venueId": null,
-        "sourceUrl": "https://www.alexandrapalace.com/whats-on/public-service-broadcasting/",
-        "ticketUrl": "https://www.alexandrapalace.com/whats-on/public-service-broadcasting/",
-        "summary": "Public Service Broadcasting return to Alexandra Palace for their biggest headline show, celebrating 10 (+1) years of The Race For Space. The venue confirms the show for 26 September 2026.",
+        "sourceUrl": "https://www.alexandrapalace.com/whats-on/i-prevail/",
+        "ticketUrl": "https://www.alexandrapalace.com/whats-on/i-prevail/",
+        "summary": "I Prevail bring The Violent Nature Tour to Alexandra Palace on 25 September 2026. Amira Elfeky, Polaris and Gore are confirmed as support acts.",
+        "genres": []
+      },
+      {
+        "id": "london-soundgarden-2026",
+        "title": "The Soundgarden",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "UNLOCKED",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2404670",
+        "ticketUrl": "https://ra.co/events/2404670",
+        "summary": "Nick Warren brings The Soundgarden to London for a daytime-to-midnight progressive house session with Eelke Kleijn, Lavie Au Soleil, Sinca and Carina Lawrence.",
         "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-alive-snts-and-and-2026",
+        "title": "ALIVE: SNTS & AnD",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "E1",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423770",
+        "ticketUrl": "https://ra.co/events/2423770",
+        "summary": "E1’s ALIVE series books a hard techno lineup led by SNTS and AnD, with AVCI and MARIEEEA, for a no-phone overnight club session.",
+        "genres": [
+          "techno",
           "electronic"
         ]
       }

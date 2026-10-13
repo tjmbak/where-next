@@ -1,0 +1,69 @@
+{
+  "slug": "verbier",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:34:53.557Z",
+  "responseId": "resp_06b83b0cc637fd5c006acda6515bc487d0bcaf0040f6034fda+resp_0dc0c6d57750d5fc006acda6aaab9487d093dc7032e8254974",
+  "searchCalls": 28,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 3,
+    "year": 2027,
+    "notes": "As of October 2026, most one-off March 2027 club lineups in Verbier are not yet published; the confirmed music picture is mainly signature après-ski residencies plus a one-day Latin festival.",
+    "events": [
+      {
+        "id": "verbier-farinet-apres-live-music-2027",
+        "title": "Farinet Après-ski Live Music Residency",
+        "type": "residency",
+        "startDate": "2026-12-11",
+        "endDate": "2027-04-11",
+        "importance": 78,
+        "venueName": "Farinet Après-ski",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-apres-ski-verbier-en-2923576/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourism lists Farinet Après-ski as open for the winter season from 11 December 2026 until 11 April 2027, with live music every day from 6:00 pm to 9:00 pm. This is one of Verbier’s core après-ski music residencies rather than a named touring concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-latin-festival-2027",
+        "title": "Verbier Latin Festival",
+        "type": "festival",
+        "startDate": "2027-03-29",
+        "endDate": "2027-03-29",
+        "importance": 72,
+        "venueName": "LUMI bar",
+        "venueId": null,
+        "sourceUrl": "https://verbierlatinfestival.com/",
+        "ticketUrl": null,
+        "summary": "One-day Latin music event at LUMI in Verbier, advertised for Monday 29 March 2027 from noon until late. The event page lists live Latin music and DJ-set directions including Latin house and reggaeton/dembow, with named lineup details still to be announced.",
+        "genres": [
+          "latin",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "verbier-le-rouge-winter-dj-program-2027",
+        "title": "Le Rouge Winter DJ Program",
+        "type": "residency",
+        "startDate": "2026-12-04",
+        "endDate": "2027-04-25",
+        "importance": 70,
+        "venueName": "Le Rouge Restaurant & Après-Ski",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/le-rouge-restaurant-verbier-en-2923052/",
+        "ticketUrl": null,
+        "summary": "Verbier Tourism lists Le Rouge as open daily from 4 December 2026 until 25 April 2027 and describes public winter-season events with a contemporary DJ programme. Treat this as a confirmed season-long après-ski DJ residency; individual March 2027 guest-DJ dates were not yet published.",
+        "genres": [
+          "house",
+          "electronic",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

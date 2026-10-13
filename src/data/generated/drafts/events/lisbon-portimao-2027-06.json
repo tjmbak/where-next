@@ -1,0 +1,328 @@
+{
+  "slug": "lisbon-portimao",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:05:24.264Z",
+  "responseId": "resp_0c65b8370f350bbc006acdad29720887d0a4a60495707cf213+resp_05c88747e96438b0006acdadaa112c87d0b27f30df742cabc4",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "lisbon-portimao",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 is already anchored by beach-electronic festivals around Costa da Caparica, Afro Nation’s Portimão week, and several major Lisbon arena/stadium concerts.",
+    "events": [
+      {
+        "id": "lisbon-portimao-afro-nation-portugal-2027",
+        "title": "Afro Nation Portugal 2027",
+        "type": "festival",
+        "startDate": "2027-06-09",
+        "endDate": "2027-06-11",
+        "importance": 98,
+        "venueName": "Praia da Rocha, Portimão",
+        "venueId": "afro-nation",
+        "sourceUrl": "https://africa.rtp.pt/apoios/afro-nation-portugal-2027-praia-da-rocha/",
+        "ticketUrl": "https://www.afronation.com/",
+        "summary": "Afro Nation Portugal returns to Praia da Rocha from June 9–11, 2027. The first wave confirms Davido, Rema and Fally Ipupa as headliners, with Omah Lay, Shenseea, Valiant, Victony, Kabza De Small and TxC also announced.",
+        "genres": [
+          "festival",
+          "amapiano",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-karol-g-tropitour-2027",
+        "title": "Karol G - Viajando Por El Mundo Tropitour",
+        "type": "concert",
+        "startDate": "2027-06-18",
+        "endDate": "2027-06-18",
+        "importance": 88,
+        "venueName": "Estádio da Luz",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.pt/en/event/karol-g-viajando-por-el-mundo-tropitour-lisboa-tickets-edp1668647",
+        "ticketUrl": "https://www.livenation.pt/en/event/karol-g-viajando-por-el-mundo-tropitour-lisboa-tickets-edp1668647",
+        "summary": "Karol G brings the Viajando Por El Mundo Tropitour to Estádio da Luz, with doors at 16:00 and show time at 19:00. Live Nation lists Karol G as the headliner for the June 18, 2027 Lisbon stadium date.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-afro-break-portugal-2027",
+        "title": "Afro Break Portugal 2027 - No.1 ANP Party Experience",
+        "type": "festival",
+        "startDate": "2027-06-07",
+        "endDate": "2027-06-13",
+        "importance": 84,
+        "venueName": "Praia da Rocha / Portimão venues",
+        "venueId": null,
+        "sourceUrl": "https://afrobreakportugal.com/",
+        "ticketUrl": "https://www.sbworld.org/afro-break-portugal-2026%2Fvip-gold",
+        "summary": "SBWORLD's week-long Afro Nation-adjacent takeover in Portimão, with beach, pool, boat, brunch and after-party programming across venues including Clube Naval de Portimão, BVSE Club, Green Heart, Riade Alvor View and more.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-moga-caparica-2027",
+        "title": "MOGA Caparica 2027",
+        "type": "festival",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-07",
+        "importance": 82,
+        "venueName": "Costa da Caparica",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/pt-pt/festivals/moga-caparica-27-blind-pass",
+        "ticketUrl": "https://r.shotgun.live/pt-pt/festivals/moga-caparica-27-blind-pass",
+        "summary": "MOGA returns to Costa da Caparica, just south of Lisbon, with free OFF programming on June 2–3 and ticketed beach-festival days on June 4–6. The 2027 blind-pass listing confirms a house-focused mood spanning deep house, tech house, afro house and house.",
+        "genres": [
+          "house",
+          "afro-house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-suncebeat-new-horizons-2027",
+        "title": "Suncébeat New Horizons Lisbon Portugal 17-21 June 2027",
+        "type": "festival",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-21",
+        "importance": 82,
+        "venueName": "Irmão / Waikiki - Praia da Sereia",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/festivals/suncebeat-new-horizons-lisbon-portugal-17-21-june-2027",
+        "ticketUrl": "https://shotgun.live/en/festivals/suncebeat-new-horizons-lisbon-portugal-17-21-june-2027",
+        "summary": "A four-day-and-night house-focused beach gathering based at Irmão in Costa da Caparica, with afterparties at Waikiki and multiple boat parties; genres include House, Afro House, Deep House, Chicago House, Disco House and R&B.",
+        "genres": [
+          "house",
+          "afro-house",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-afro-nation-opening-party-2027",
+        "title": "Afro Nation Portugal 2027 Opening Party",
+        "type": "beach-club",
+        "startDate": "2027-06-08",
+        "endDate": "2027-06-08",
+        "importance": 80,
+        "venueName": "NoSoloÁgua Pool",
+        "venueId": null,
+        "sourceUrl": "https://www.afronation.com/faqs",
+        "ticketUrl": "https://www.afronation.com/book-extras-2027",
+        "summary": "Afro Nation confirms an official Opening Party on June 8, the night before the main Portimão beach festival begins. The add-on ticket page identifies NoSoloÁgua Pool as the venue for the opening/closing party package.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-afro-nation-closing-party-2027",
+        "title": "Afro Nation Portugal 2027 Closing Party",
+        "type": "beach-club",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-12",
+        "importance": 80,
+        "venueName": "NoSoloÁgua Pool",
+        "venueId": null,
+        "sourceUrl": "https://www.afronation.com/faqs",
+        "ticketUrl": "https://www.afronation.com/book-extras-2027",
+        "summary": "Afro Nation confirms its official Closing Party for June 12, immediately after the three festival days at Praia da Rocha. The add-on ticket page identifies NoSoloÁgua Pool as the venue for the opening/closing party package.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-luan-santana-registro-historico-2027",
+        "title": "Luan Santana | Registro Histórico",
+        "type": "concert",
+        "startDate": "2027-06-26",
+        "endDate": "2027-06-26",
+        "importance": 78,
+        "venueName": "Estádio da Luz",
+        "venueId": null,
+        "sourceUrl": "https://www.slbenfica.pt/en-us/agora/noticias/2026/06/19/clube-benfica-estadio-da-luz-recebe-concerto-luan-santana-26-de-junho",
+        "ticketUrl": "https://bilheteira.fnac.pt/Evento-559026/LUAN-SANTANA-%7C-REGISTRO-HIST%C3%93RICO-",
+        "summary": "Luan Santana closes the Registro Histórico tour at Estádio da Luz in Lisbon. Benfica’s venue announcement and official ticketing list the concert for June 26, 2027.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-patti-smith-quartet-2027",
+        "title": "Patti Smith Quartet",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 74,
+        "venueName": "Coliseu de Lisboa",
+        "venueId": null,
+        "sourceUrl": "https://www.bol.pt/Comprar/Bilhetes/185579-patti_smith_quartet-coliseu_de_lisboa/",
+        "ticketUrl": "https://www.bol.pt/Comprar/Bilhetes/185579-patti_smith_quartet-coliseu_de_lisboa/",
+        "summary": "Patti Smith returns to Lisbon with her quartet for a one-night Coliseu dos Recreios concert. The ticket listing confirms June 15, 2027 at 21:00 and describes a repertoire spanning rock, punk and poetry.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-simply-red-summer-funk-2027",
+        "title": "Simply Red - Summer Funk ’27 | Lisboa",
+        "type": "concert",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-16",
+        "importance": 70,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://simplyred.bol.pt/Comprar/Bilhetes/185296-simply_red_summer_funk_27_lisboa-sodade/",
+        "ticketUrl": "https://simplyred.bol.pt/Comprar/Bilhetes/185296-simply_red_summer_funk_27_lisboa-sodade/",
+        "summary": "Simply Red play MEO Arena on the Summer Funk ’27 tour, their first Portugal appearance in nearly two decades according to the ticket listing. The Lisbon show is confirmed for June 16, 2027 at 21:00.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-super-chancha-via-circuito-2027",
+        "title": "SUPER: Chancha Via Circuito + Ritmos Cholulteka",
+        "type": "club-night",
+        "startDate": "2027-06-18",
+        "endDate": "2027-06-18",
+        "importance": 70,
+        "venueName": "Casa Capitão",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2453366",
+        "ticketUrl": "https://ra.co/events/2453366",
+        "summary": "Casa Capitão’s SUPER series hosts Chancha Via Circuito and Ritmos Cholulteka on June 18, 2027. Resident Advisor lists the night as Latin Bass, with the Argentine producer celebrating 20 years of his cumbia-digital project.",
+        "genres": [
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-skin-out-pool-party-2027",
+        "title": "SKIN OUT Pool Party (Afronation Week)",
+        "type": "beach-club",
+        "startDate": "2027-06-08",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Location TBD, Portimão",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/skin-out-pool-party-afronation-week-tickets-1999704153955",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/skin-out-pool-party-afronation-week-tickets-1999704153955",
+        "summary": "Third edition of VIILLAGERS' SKIN OUT poolside party during Afro Nation week, with an extended afternoon-to-night format and a soundtrack advertised as Afrobeats, Amapiano and Dancehall.",
+        "genres": [
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-all-white-affair-2027",
+        "title": "All White Affair Boat Party (Afronation Week)",
+        "type": "club-night",
+        "startDate": "2027-06-08",
+        "endDate": null,
+        "importance": 69,
+        "venueName": "Clube Naval De Portimão",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/all-white-affair-boat-party-afronation-week-tickets-1999697014601?aff=ebdssbcitybrowse",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/all-white-affair-boat-party-afronation-week-tickets-1999697014601?aff=ebdssbcitybrowse",
+        "summary": "VIILLAGERS' all-white Afro Nation Week boat party, billed for Afrobeats, Amapiano, Dancehall, Shatta and Zouk on the water from Clube Naval de Portimão.",
+        "genres": [
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-grace-evora-show-carreira-2027",
+        "title": "Grace Évora | Show Carreira",
+        "type": "concert",
+        "startDate": "2027-06-05",
+        "endDate": "2027-06-05",
+        "importance": 68,
+        "venueName": "Coliseu de Lisboa",
+        "venueId": null,
+        "sourceUrl": "https://coliseulisboa.boltickets.pt/Comprar/Bilhetes/185271-grace_evora_show_carreira-coliseu_de_lisboa/",
+        "ticketUrl": "https://coliseulisboa.boltickets.pt/Comprar/Bilhetes/185271-grace_evora_show_carreira-coliseu_de_lisboa/",
+        "summary": "Cape Verdean artist Grace Évora plays a career-celebration concert at Coliseu dos Recreios, revisiting songs from more than three decades of work. The event is confirmed for June 5, 2027 at 21:30.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-rep-your-flag-boat-2027",
+        "title": "Rep Your Flag Boat Party (Afronation Week)",
+        "type": "club-night",
+        "startDate": "2027-06-11",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Clube Naval De Portimão",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/rep-your-flag-boat-party-afronation-week-tickets-1999680292585?aff=ebdsreoeymlcollection",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/rep-your-flag-boat-party-afronation-week-tickets-1999680292585?aff=ebdsreoeymlcollection",
+        "summary": "A VIILLAGERS culture-and-flag boat party minutes from Praia da Rocha, promising non-stop Afrobeats, Amapiano, Dancehall and global sounds during Afro Nation Friday.",
+        "genres": [
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-biso-na-biso-boat-2027",
+        "title": "Biso Na Biso Boat Party (Afronation Week)",
+        "type": "club-night",
+        "startDate": "2027-06-11",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Clube Naval De Portimão",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.co.uk/e/biso-na-biso-boat-party-afronation-week-tickets-1999693761872",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/biso-na-biso-boat-party-afronation-week-tickets-1999693761872",
+        "summary": "A Congolese diaspora boat party from VIILLAGERS, centred on Afrobeats, Soukouss, Congolese sounds, Ndombolo and global vibes from Clube Naval de Portimão.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-ute-lemper-ccb-2027",
+        "title": "The Best of Ute Lemper",
+        "type": "concert",
+        "startDate": "2027-06-08",
+        "endDate": "2027-06-08",
+        "importance": 62,
+        "venueName": "Centro Cultural de Belém",
+        "venueId": null,
+        "sourceUrl": "https://event.bol.pt/Comprar/Bilhetes/186240-the_best_of_ute_lemper-ccb/",
+        "ticketUrl": "https://event.bol.pt/Comprar/Bilhetes/186240-the_best_of_ute_lemper-ccb/",
+        "summary": "Ute Lemper brings a retrospective concert to CCB’s Grande Auditório, drawing on chanson, tango, cabaret and jazz-adjacent repertoire. The BOL listing confirms the June 8, 2027 date at 20:00.",
+        "genres": [
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-fuk-amapiano-afrobeats-boat-2027",
+        "title": "FU<K AMAPIANO x AFROBEATS Boat Party (AFRONAT1ON)",
+        "type": "club-night",
+        "startDate": "2027-06-09",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Sunset Plaza Marina / Marina de Portimão",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/fuk-amapiano-x-afrobeats-boat-party-afronat1on-kayak-caves-tour-byob-tickets-2002982313017?aff=ebdssbcategorybrowse",
+        "ticketUrl": "https://www.eventbrite.com/e/fuk-amapiano-x-afrobeats-boat-party-afronat1on-kayak-caves-tour-byob-tickets-2002982313017?aff=ebdssbcategorybrowse",
+        "summary": "AFROPLUG's small-capacity pre-Afro Nation Day 1 boat party from Marina de Portimão, explicitly billed as 100% Amapiano vs Afrobeats with a South African DJ and BYOB cruise format.",
+        "genres": [
+          "amapiano",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

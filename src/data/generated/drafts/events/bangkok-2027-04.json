@@ -1,0 +1,103 @@
+{
+  "slug": "bangkok",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:50:41.295Z",
+  "responseId": "resp_05d36ca37a7c4d53006acdaa09708087d0855a0dd8805c0741+resp_002923543edabc86006acdaa223e6887d0b6ffaf7cf3969f9d",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "bangkok",
+    "month": 4,
+    "year": 2027,
+    "notes": "Confirmed April 2027 listings are still thin this far out; major Songkran electronic-festival and club calendars have not yet published specific 2027 event pages.",
+    "events": [
+      {
+        "id": "bangkok-bruno-mars-romantic-tour-2027",
+        "title": "Bruno Mars - The Romantic Tour",
+        "type": "concert",
+        "startDate": "2027-04-24",
+        "endDate": "2027-04-25",
+        "importance": 90,
+        "venueName": "Rajamangala National Stadium",
+        "venueId": null,
+        "sourceUrl": "https://ticketmaster.co.th/activity/detail/26th_brunomarsbkk",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_brunomarsbkk",
+        "summary": "Bruno Mars plays two Bangkok stadium nights at Rajamangala National Stadium on 24 and 25 April 2027. Ticketmaster TH lists Anderson .Paak performing as DJ Pee .Wee on the newly announced shows.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "bangkok-gcircuit-songkran-2027",
+        "title": "GCircuit Songkran 2027",
+        "type": "festival",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-12",
+        "importance": 84,
+        "venueName": "EmSphere / UOB Live and associated pool-party venues",
+        "venueId": null,
+        "sourceUrl": "https://gaydossier.com/bangkok/",
+        "ticketUrl": "https://www.gcircuit.com/",
+        "summary": "Asia-facing LGBTQ+ circuit festival built around Songkran, with multi-day night parties and pool-party programming driven by international circuit DJs, high-production sound, lighting and themed staging.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-beabadoobee-powerlines-2027",
+        "title": "beabadoobee: The Powerlines Tour in Bangkok",
+        "type": "concert",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-02",
+        "importance": 74,
+        "venueName": "UOB Live Emsphere",
+        "venueId": null,
+        "sourceUrl": "https://uoblive.asia/event/beabadoobee-the-powerlines-tour",
+        "ticketUrl": "https://ticketmaster.co.th/activity/detail/26th_beabadoobee",
+        "summary": "beabadoobee brings The Powerlines Tour to UOB Live Emsphere on 2 April 2027. The venue page and Ticketmaster TH listing both confirm the Bangkok date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "bangkok-songkran-pride-2027",
+        "title": "Songkran Pride 2027",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-11",
+        "importance": 74,
+        "venueName": "BITEC Bangna",
+        "venueId": null,
+        "sourceUrl": "https://prideshow.org/shows/songkran-pride-2027",
+        "ticketUrl": null,
+        "summary": "PrideShow's Thai New Year edition: a two-day, music-led LGBTQ+ Songkran celebration at BITEC Bangna, with an electronic-music lineup announced as the core format and programme/tickets still forthcoming.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "bangkok-g-circuit-songkran-2027",
+        "title": "G Circuit Songkran 2027",
+        "type": "festival",
+        "startDate": "2027-04-09",
+        "endDate": "2027-04-12",
+        "importance": 90,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/g-circuit-songkran/",
+        "ticketUrl": null,
+        "summary": "G Circuit Songkran is listed for Friday, April 9 to Monday, April 12, 2027, as a four-day Bangkok circuit-party festival during Thai New Year. The listing describes the event as Asia’s largest gay circuit party, with night parties and pool parties.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

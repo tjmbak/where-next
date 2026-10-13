@@ -1,0 +1,325 @@
+{
+  "slug": "paris",
+  "month": 6,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:08:58.771Z",
+  "responseId": "resp_09197d89cd908154006acdae13056087d09feb32185aa0aa45+resp_08b67a9431308f9f006acdae8bcbc487d0a865b43b8ce9fd7d",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 6,
+    "year": 2027,
+    "notes": "June 2027 is still early-announcement territory: confirmed events are led by major festivals and arena concerts, while Paris club and underground calendars are not yet published this far out.",
+    "events": [
+      {
+        "id": "paris-we-love-green-2027",
+        "title": "We Love Green 2027",
+        "type": "festival",
+        "startDate": "2027-06-04",
+        "endDate": "2027-06-06",
+        "importance": 95,
+        "venueName": "Bois de Vincennes",
+        "venueId": null,
+        "sourceUrl": "https://www.sortiraparis.com/scenes/concert-musique/articles/70521-we-love-green-a-paris-voici-les-dates-de-l-edition-2027",
+        "ticketUrl": null,
+        "summary": "Paris’s flagship eco-minded contemporary music festival returns to Bois de Vincennes for three days. The 2027 dates are confirmed, while the lineup is still to be announced.",
+        "genres": [
+          "festival",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-tame-impala-2027",
+        "title": "Tame Impala",
+        "type": "concert",
+        "startDate": "2027-06-12",
+        "endDate": "2027-06-13",
+        "importance": 88,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/tame-impala--684d3",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/tame-impala--684d3",
+        "summary": "Tame Impala plays two Accor Arena shows with an in-the-round stage setup. Wet Leg is confirmed as support.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-fun-radio-ibiza-experience-2027",
+        "title": "Fun Radio Ibiza Experience 2027",
+        "type": "concert",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-24",
+        "importance": 85,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/fun-radio-ibiza-experience--02957",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/fun-radio-ibiza-experience--02957",
+        "summary": "Fun Radio Ibiza Experience returns to Accor Arena for its 11th edition. The venue describes it as an arena-scale electronic music show featuring major DJs.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-tayc-joya-tour-2027",
+        "title": "Tayc — JOŸA Tour",
+        "type": "concert",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-03",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/tayc-joya-tour--4fda9",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/tayc-joya-tour--4fda9",
+        "summary": "Tayc plays three nights at Accor Arena on the JOŸA Tour. The venue bills him as a leading figure in French R&B and the Afrolove movement.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-don-omar-2027",
+        "title": "Don Omar — The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-06-25",
+        "endDate": "2027-06-25",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/don-omar--0498e",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/don-omar--0498e",
+        "summary": "Reggaeton pioneer Don Omar returns to France with The Last King World Tour. Accor Arena confirms the Paris show for June 25, 2027.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "paris-blink-182-2027",
+        "title": "blink-182",
+        "type": "concert",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-15",
+        "importance": 83,
+        "venueName": "Plenitude Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.plenitudearena.com/evenement/blink-182/",
+        "ticketUrl": "https://www.livenation.fr/event/blink-182-nanterre-tickets-edp1679674",
+        "summary": "blink-182 performs a one-off Paris-area arena show in Nanterre, produced by Live Nation. The official venue page confirms the June 15 date at Plenitude Arena.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-hayley-williams-2027",
+        "title": "Hayley Williams",
+        "type": "concert",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-16",
+        "importance": 78,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Hayley%20Williams-22614",
+        "ticketUrl": "https://le-zenith.com/shows/Hayley%20Williams-22614",
+        "summary": "Hayley Williams brings The Hayley Williams Show to Zénith Paris - La Villette for a single Paris date. The venue notes it is her return after appearing at We Love Green the previous year.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-pepele-festival-2027",
+        "title": "Pépélé Festival",
+        "type": "festival",
+        "startDate": "2027-06-21",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Chalet du Lac",
+        "venueId": null,
+        "sourceUrl": "https://parisjetaime.com/eng/event/pepele-festival-e409",
+        "ticketUrl": "https://www.pepelefest.com/",
+        "summary": "Afrobeats and Amapiano-focused summer festival/night with international DJ Skyla Tylaa, positioned as a diaspora dance-music event for Fête de la Musique weekend energy.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-medine-enfants-du-destin-2027",
+        "title": "Médine — Enfants du destin",
+        "type": "concert",
+        "startDate": "2027-06-11",
+        "endDate": "2027-06-11",
+        "importance": 76,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://www.sallepleyel.com/evenement/medine-2/",
+        "ticketUrl": "https://www.sallepleyel.com/evenement/medine-2/",
+        "summary": "French rapper Médine brings an acoustic concert version of Enfants du destin to Salle Pleyel. The show revisits one of the major narrative song cycles from his catalogue.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-meiway-zo-gang-2027",
+        "title": "Meiway & Le Zo-Gang",
+        "type": "concert",
+        "startDate": "2027-06-13",
+        "endDate": "2027-06-13",
+        "importance": 76,
+        "venueName": "Zénith Paris - La Villette",
+        "venueId": null,
+        "sourceUrl": "https://le-zenith.com/shows/Meiway-22638",
+        "ticketUrl": "https://le-zenith.com/shows/Meiway-22638",
+        "summary": "Ivorian star Meiway brings Le Zo-Gang to Zénith Paris - La Villette for a one-night Paris show. The venue frames it as a career-spanning celebration of his Zoblazo catalogue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-yanns-phenomenal-retour-2027",
+        "title": "Yanns — Phénoménal Re-Tour",
+        "type": "concert",
+        "startDate": "2027-06-19",
+        "endDate": "2027-06-19",
+        "importance": 70,
+        "venueName": "Dôme de Paris",
+        "venueId": null,
+        "sourceUrl": "https://www.ledomedeparis.com/fr/spectacle/387/yanns",
+        "ticketUrl": "https://www.ledomedeparis.com/fr/spectacle/387/yanns",
+        "summary": "Yanns plays Dôme de Paris on the Phénoménal Re-Tour. The venue highlights a new staging and a high-energy show built around his pop-urban hits.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-medine-enfant-destin-2027",
+        "title": "Médine - Enfant du Destin",
+        "type": "concert",
+        "startDate": "2027-06-11",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Salle Pleyel",
+        "venueId": null,
+        "sourceUrl": "https://r.shotgun.live/fr/web/events/medine-enfant-du-destin",
+        "ticketUrl": "https://r.shotgun.live/fr/web/events/medine-enfant-du-destin",
+        "summary": "A seated/acoustic Paris date from veteran French rapper Médine, reworking his politically charged Enfants du destin song cycle in an intimate concert-theatre format.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-joe-hisaishi-symphonique-2027",
+        "title": "Joe Hisaishi symphonique",
+        "type": "concert",
+        "startDate": "2027-06-09",
+        "endDate": "2027-06-10",
+        "importance": 78,
+        "venueName": "Grande salle Pierre Boulez - Philharmonie de Paris",
+        "venueId": null,
+        "sourceUrl": "https://billetterie.philharmoniedeparis.fr/selection/event/date?lang=en&productId=10229442291822",
+        "ticketUrl": "https://billetterie.philharmoniedeparis.fr/selection/event/date?lang=en&productId=10229442291822",
+        "summary": "The Philharmonie ticketing page confirms two performances of Joe Hisaishi symphonique on June 9 and 10, 2027. This is a major orchestral draw for film-music and symphonic audiences in Paris.",
+        "genres": []
+      },
+      {
+        "id": "paris-souffle-de-vie-manifeste-2027",
+        "title": "Souffle de vie — Ensemble intercontemporain / ManiFeste-2027",
+        "type": "concert",
+        "startDate": "2027-06-11",
+        "endDate": "2027-06-11",
+        "importance": 75,
+        "venueName": "Salle des concerts - Cité de la musique",
+        "venueId": null,
+        "sourceUrl": "https://philharmoniedeparis.fr/fr/activite/concert/29497-souffle-de-vie",
+        "ticketUrl": "https://philharmoniedeparis.fr/fr/activite/concert/29497-souffle-de-vie",
+        "summary": "Ensemble intercontemporain performs Souffle de vie as part of ManiFeste-2027, Ircam’s contemporary-music festival. The programme includes works by Tristan Murail, Philippe Leroux, Luigi Nono and Sarah Nemtsov with live electronics.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-toujours-vivant-johnny-hallyday-2027",
+        "title": "Toujours Vivant — 500 choristes chantent avec Johnny Hallyday",
+        "type": "concert",
+        "startDate": "2027-06-27",
+        "endDate": "2027-06-27",
+        "importance": 73,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/toujours-vivant-500-choristes-chantent-avec-johnny-hallyday--46fd9",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/toujours-vivant-500-choristes-chantent-avec-johnny-hallyday--46fd9",
+        "summary": "This large-scale Johnny Hallyday tribute pairs his original voice and projected images with 500 Voices Harmony choristers and live musicians. Accor Arena confirms the Paris date for June 27, 2027.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-gypsy-maestros-2027",
+        "title": "Gypsy Maestros — Des Balkans au Danube",
+        "type": "concert",
+        "startDate": "2027-06-23",
+        "endDate": "2027-06-23",
+        "importance": 70,
+        "venueName": "Grande salle Pierre Boulez - Philharmonie de Paris",
+        "venueId": null,
+        "sourceUrl": "https://philharmoniedeparis.fr/fr/activite/concert/29360-gypsy-maestros",
+        "ticketUrl": "https://philharmoniedeparis.fr/fr/activite/concert/29360-gypsy-maestros",
+        "summary": "Gypsy Maestros opens the Philharmonie’s Les Balkans focus with musicians from Bucharest and Budapest, including Mónika Lakatos and Roby Lakatos. The concert is confirmed for June 23, 2027 at 8:00 pm.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "paris-maki-namekawa-hisaishi-2027",
+        "title": "Maki Namekawa — Autour de Joe Hisaishi",
+        "type": "concert",
+        "startDate": "2027-06-07",
+        "endDate": "2027-06-07",
+        "importance": 65,
+        "venueName": "Grande salle Pierre Boulez - Philharmonie de Paris",
+        "venueId": null,
+        "sourceUrl": "https://philharmoniedeparis.fr/en/activite/29822",
+        "ticketUrl": "https://philharmoniedeparis.fr/en/activite/29822",
+        "summary": "Pianist Maki Namekawa performs a film- and contemporary-music programme around Joe Hisaishi, Philip Glass, Ryuichi Sakamoto and Toru Takemitsu. The Philharmonie listing confirms the concert for June 7, 2027 at 8:00 pm.",
+        "genres": []
+      },
+      {
+        "id": "paris-tambura-guitare-manouche-2027",
+        "title": "De la tambura à la guitare manouche — Bako Jovanović / Sébastien Giniaux",
+        "type": "concert",
+        "startDate": "2027-06-25",
+        "endDate": "2027-06-25",
+        "importance": 65,
+        "venueName": "Amphithéâtre - Cité de la musique",
+        "venueId": null,
+        "sourceUrl": "https://philharmoniedeparis.fr/fr/activite/concert/29405-de-la-tambura-la-guitare-manouche",
+        "ticketUrl": "https://philharmoniedeparis.fr/fr/activite/concert/29405-de-la-tambura-la-guitare-manouche",
+        "summary": "Serbian tambura virtuoso Bako Jovanović meets French guitarist Sébastien Giniaux for a Balkan and manouche-rooted concert. The Philharmonie listing confirms the date as June 25, 2027 at 8:00 pm.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "paris-bal-balkans-2027",
+        "title": "Bal Balkans",
+        "type": "festival",
+        "startDate": "2027-06-26",
+        "endDate": null,
+        "importance": 63,
+        "venueName": "Le Studio - Philharmonie",
+        "venueId": null,
+        "sourceUrl": "https://philharmoniedeparis.fr/fr/activite/bal/29502-bal-balkans",
+        "ticketUrl": null,
+        "summary": "A free participatory Balkan dance event spotlighting music from Bulgaria, Turkey, North Macedonia, Bosnia, Greece and beyond, led by professional and amateur musicians.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

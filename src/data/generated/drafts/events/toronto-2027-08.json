@@ -1,0 +1,187 @@
+{
+  "slug": "toronto",
+  "month": 8,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:32:05.529Z",
+  "responseId": "resp_041509f898b4826c006acdb3919b5487d0ada71461546b4d48+resp_02280795bff469b8006acdb3f2948887d0a623ea6ecb1d3767",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "toronto",
+    "month": 8,
+    "year": 2027,
+    "notes": "Only a small number of August 2027 Toronto music anchors are publicly confirmed this far out; most venue calendars, club residencies, and arena tours have not yet been announced.",
+    "events": [
+      {
+        "id": "toronto-caribana-weekend-2027",
+        "title": "Toronto Carnival / Caribana 2027 Weekend Events",
+        "type": "carnival",
+        "startDate": "2027-07-29",
+        "endDate": "2027-08-02",
+        "importance": 95,
+        "venueName": "Toronto Caribbean Carnival (citywide)",
+        "venueId": "toronto-caribana",
+        "sourceUrl": "https://www.caribanatoronto.com/events",
+        "ticketUrl": "https://www.caribanatoronto.com/events",
+        "summary": "Caribana Toronto’s event hub lists the 2027 Toronto Carnival weekend from Thursday, July 29 through Monday, August 2, 2027, with music-led nightlife, day parties, parade programming, and soca/dancehall events across the city. Specific 2027 guest appearances are still pending.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "toronto-veld-music-festival-2027",
+        "title": "VELD Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-30",
+        "endDate": "2027-08-01",
+        "importance": 90,
+        "venueName": "Downsview Park",
+        "venueId": null,
+        "sourceUrl": "https://veld.frontgatetickets.com/event/vxq27a5a78o9cpre",
+        "ticketUrl": "https://veld.frontgatetickets.com/event/vxq27a5a78o9cpre",
+        "summary": "The 3-day VELD pass is confirmed for Friday, July 30 through Sunday, August 1, 2027 at Downsview Park. The 2027 artist lineup has not been announced yet.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-sunday-blocko-2027",
+        "title": "The Sunday Blocko",
+        "type": "club-night",
+        "startDate": "2027-08-01",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Rebel",
+        "venueId": "toronto-rebel",
+        "sourceUrl": "https://origin.caribanatoronto.com/events/sunday-blocko",
+        "ticketUrl": "https://origin.caribanatoronto.com/events/sunday-blocko",
+        "summary": "Toronto Carnival’s major Sunday day party returns to Rebel with four-room, large-footprint programming focused on hip-hop, reggae, soca and R&B from 3:15 PM to 8:00 PM.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-lit-caribana-2027",
+        "title": "LIT",
+        "type": "club-night",
+        "startDate": "2027-08-01",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Masonic Temple The Concert Hall",
+        "venueId": null,
+        "sourceUrl": "https://origin.caribanatoronto.com/events/lit",
+        "ticketUrl": "https://origin.caribanatoronto.com/events/lit",
+        "summary": "A Caribana Sunday closing-night after-party at the Masonic Temple Concert Hall, billed with top DJs, fire performers and Caribbean-driven hip-hop, R&B, reggae, soca, old school and dancehall.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-music-week-2027",
+        "title": "Toronto Music Week 2027",
+        "type": "festival",
+        "startDate": "2027-08-13",
+        "endDate": "2027-08-15",
+        "importance": 75,
+        "venueName": "Citywide Toronto",
+        "venueId": null,
+        "sourceUrl": "https://torontomusicweek.ca/",
+        "ticketUrl": "https://torontomusicweek.ca/",
+        "summary": "Toronto Music Week’s official site confirms a three-day citywide festival for August 13–15, 2027, spanning live shows, clubs, rooftops, after-dark programming, and industry gatherings. The full schedule and finalized lineup are not yet published.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-xoxo-afterhours-sunday-2027",
+        "title": "XOXO Afterhours Sunday",
+        "type": "club-night",
+        "startDate": "2027-08-01",
+        "endDate": "2027-08-02",
+        "importance": 72,
+        "venueName": "Secret Location - 277 Augusta Avenue",
+        "venueId": null,
+        "sourceUrl": "https://www.caribanatoronto.com/events/xoxo-afterhours-sunday",
+        "ticketUrl": "https://www.caribanatoronto.com/events/xoxo-afterhours-sunday",
+        "summary": "XOXO Afterhours Sunday is listed for Sunday, August 1, 2027, running 12:30 AM–6:00 AM into Monday, August 2. The event page bills DJs playing hip-hop, R&B, reggae, soca, and old school.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-hot-97-bet-party-2027",
+        "title": "Hot 97 BET Party",
+        "type": "club-night",
+        "startDate": "2027-08-01",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Acqua Dolce",
+        "venueId": null,
+        "sourceUrl": "https://origin.caribanatoronto.com/events?tab=17",
+        "ticketUrl": null,
+        "summary": "A Toronto Carnival Sunday nightlife event listed as a celebrity-driven party at Acqua Dolce, fitting the hip-hop/R&B Caribana weekend circuit.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-closing-time-aug-2027",
+        "title": "Closing Time",
+        "type": "concert",
+        "startDate": "2027-07-29",
+        "endDate": "2027-08-15",
+        "importance": 68,
+        "venueName": "Soulpepper Theatre Company / Young Centre for the Performing Arts",
+        "venueId": null,
+        "sourceUrl": "https://www.soulpepper.ca/performances/closing-time",
+        "ticketUrl": null,
+        "summary": "Soulpepper lists this as a two-part musical docu-concert about Toronto music venues, created by Andrew Penner, Beau Dixon and Frank Cox-O’Connell. The official page confirms the run from July 29 to August 15, 2027.",
+        "genres": []
+      },
+      {
+        "id": "toronto-sunday-junction-jam-aug-2027",
+        "title": "The Sunday Junction Jam",
+        "type": "club-night",
+        "startDate": "2027-08-01",
+        "endDate": "2027-08-01",
+        "importance": 60,
+        "venueName": "The Cat Pub & Eatery",
+        "venueId": null,
+        "sourceUrl": "https://torontobluessociety.com/event/the-sunday-junction-jam-2/2027-08-01/",
+        "ticketUrl": null,
+        "summary": "Toronto Blues Society lists this pay-what-you-can Sunday blues jam hosted by Junction City All-Stars at The Cat Pub & Eatery. The listing confirms August 1, 2027 from 4:00 pm to 7:00 pm.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "toronto-mike-sedgewick-friday-blues-jam-aug-2027",
+        "title": "Mike Sedgewick’s Friday Night Blues Jam",
+        "type": "club-night",
+        "startDate": "2027-08-20",
+        "endDate": "2027-08-20",
+        "importance": 60,
+        "venueName": "Black Swan Tavern",
+        "venueId": null,
+        "sourceUrl": "https://torontobluessociety.com/event/mike-sedgewicks-friday-night-blues-jam/2027-08-20/",
+        "ticketUrl": null,
+        "summary": "Toronto Blues Society confirms this recurring Friday night blues jam at Black Swan Tavern. The listing gives August 20, 2027 from 9:30 pm to 11:30 pm.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

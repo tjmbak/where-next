@@ -2,8 +2,8 @@
   "slug": "split",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:24:47.459Z",
-  "responseId": "resp_044bc77233e17edc0069ff5f7c6de0819e94fc01097840fc74",
+  "generatedAt": "2026-05-30T18:46:02.687Z",
+  "responseId": "augment:resp_0fc82959217c934d006a1b3007d5a0819baff7e27d33b28b3a",
   "searchCalls": 14,
   "citations": [],
   "data": {
@@ -13,35 +13,54 @@
     "notes": "June’s confirmed music calendar around Split is anchored by Croatian pop programming at Galerija Meštrović, with a few regional live-music picks just outside the city.",
     "events": [
       {
-        "id": "split-goran-karan-porat-2026",
-        "title": "Goran Karan | 'Oćeš doć? | Porat, Split 2026",
-        "type": "concert",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-06",
-        "importance": 68,
-        "venueName": "Porat Club Split",
+        "id": "split-melodije-jadrana-2026",
+        "title": "Melodije Jadrana Split 2026",
+        "type": "festival",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-28",
+        "importance": 82,
+        "venueName": "Galerija Meštrović",
         "venueId": null,
-        "sourceUrl": "https://www.entrio.hr/hr/event/goran-karan-koncert-split-2026-porat-oces-doc-32008",
-        "ticketUrl": "https://www.entrio.hr/hr/event/goran-karan-koncert-split-2026-porat-oces-doc-32008",
-        "summary": "Split pop singer Goran Karan plays Porat Club Split on 5 June 2026, with the ticketing page listing the event as running 05.06.2026–06.06.2026. The listing confirms the venue, start time, and ticket tiers.",
+        "sourceUrl": "https://melodijejadrana.hr/",
+        "ticketUrl": "https://shop.adriaticket.com/event-details/4837/melodije-jadrana-2026",
+        "summary": "Melodije Jadrana Split 2026 is confirmed for 25–28 June 2026 at Galerija Meštrović. The program includes Ricchi e Poveri, Jelena Rozga, Zorica Kondža with Joško Banov Acoustic Orchestra, and the Hit Ljeta new-songs night.",
         "genres": [
-          "pop"
+          "pop",
+          "festival"
         ]
       },
       {
-        "id": "split-brkovi-beerfest-dugopolje-2026",
-        "title": "Brkovi at Beerfest Dugopolje",
+        "id": "split-rhythm-waves-2026",
+        "title": "Yacht Week Rhythm & Waves Croatia",
         "type": "festival",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-05",
-        "importance": 62,
-        "venueName": "Lokva Dračanica, Dugopolje",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-27",
+        "importance": 76,
+        "venueName": "Croatia Original Route from the Split/Trogir sailing hub",
         "venueId": null,
-        "sourceUrl": "https://www.bandsintown.com/e/108284486-brkovi-at-lokva-dracanica?came_from=253&utm_campaign=event&utm_medium=web&utm_source=city_page",
-        "ticketUrl": null,
-        "summary": "Regional punk-folk/rock band Brkovi are listed for Beerfest Dugopolje at Lokva Dračanica on 5 June 2026. Dugopolje is just outside Split, making this a nearby live-music pick rather than an in-city club event.",
+        "sourceUrl": "https://www.theyachtweek.com/croatia-rhythm-waves",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-rhythm-waves",
+        "summary": "A week-long Yacht Week takeover on the Croatia route with hand-picked DJs, floating DJ decks, raft parties and a soundtrack centered on hip-hop, reggaeton, soca, dancehall, moombah and Afrobeats.",
         "genres": [
-          "festival"
+          "hip-hop",
+          "latin"
+        ]
+      },
+      {
+        "id": "split-podzemlje-killa-p-2026",
+        "title": "Podzemlje pres. Killa P @ Klub Kocka, Split",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 73,
+        "venueName": "Klub Kocka",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2453844",
+        "ticketUrl": "https://core-event.co/en/events/podzemlje-pres-killa-p-47b1/",
+        "summary": "Podzemlje closes the Platformat festival season at Klub Kocka with UK grime/dubstep figure Killa P, plus DMT, Spooky M and resident Anatolija; a notable bass-led booking for Split's underground club circuit.",
+        "genres": [
+          "electronic",
+          "hip-hop"
         ]
       },
       {
@@ -61,19 +80,67 @@
         ]
       },
       {
-        "id": "split-melodije-jadrana-2026",
-        "title": "Melodije Jadrana Split 2026",
-        "type": "festival",
-        "startDate": "2026-06-25",
-        "endDate": "2026-06-28",
-        "importance": 82,
-        "venueName": "Galerija Meštrović",
+        "id": "split-goran-karan-porat-2026",
+        "title": "Goran Karan | 'Oćeš doć? | Porat, Split 2026",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-06",
+        "importance": 68,
+        "venueName": "Porat Club Split",
         "venueId": null,
-        "sourceUrl": "https://melodijejadrana.hr/",
-        "ticketUrl": "https://shop.adriaticket.com/event-details/4837/melodije-jadrana-2026",
-        "summary": "Melodije Jadrana Split 2026 is confirmed for 25–28 June 2026 at Galerija Meštrović. The program includes Ricchi e Poveri, Jelena Rozga, Zorica Kondža with Joško Banov Acoustic Orchestra, and the Hit Ljeta new-songs night.",
+        "sourceUrl": "https://www.entrio.hr/hr/event/goran-karan-koncert-split-2026-porat-oces-doc-32008",
+        "ticketUrl": "https://www.entrio.hr/hr/event/goran-karan-koncert-split-2026-porat-oces-doc-32008",
+        "summary": "Split pop singer Goran Karan plays Porat Club Split on 5 June 2026, with the ticketing page listing the event as running 05.06.2026–06.06.2026. The listing confirms the venue, start time, and ticket tiers.",
         "genres": [
-          "pop",
+          "pop"
+        ]
+      },
+      {
+        "id": "split-allans-free-party-2026",
+        "title": "All/One presents: Allan's Free Party vol. 3",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "TBA - Bisko Outdoor; Splitsko-dalmatinska, Croatia",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2441694",
+        "ticketUrl": null,
+        "summary": "Free outdoor electronic gathering from All/One and Carnero in Split-Dalmatia, with Allan, El Commando, Carnero, Errortek, HyperLili, Jeans (NL), Karlita, Neurosystem, Matriark and Xer S]ne.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "split-after-dark-2026",
+        "title": "Split After Dark",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Jimmy Bar / Split boat party / VIP club entry route",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/croatia/events/split-after-dark?date=14-06-2026",
+        "ticketUrl": "https://www.partyhardtravel.com/croatia/events/split-after-dark?date=14-06-2026",
+        "summary": "Party Hard Travel's boat-to-club night pairs pre-drinks at Jimmy Bar with a live-DJ Split boat party and VIP club entry, aimed at international summer clubbing travelers rather than the arena/festival crowd.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "split-brkovi-beerfest-dugopolje-2026",
+        "title": "Brkovi at Beerfest Dugopolje",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 62,
+        "venueName": "Lokva Dračanica, Dugopolje",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/108284486-brkovi-at-lokva-dracanica?came_from=253&utm_campaign=event&utm_medium=web&utm_source=city_page",
+        "ticketUrl": null,
+        "summary": "Regional punk-folk/rock band Brkovi are listed for Beerfest Dugopolje at Lokva Dračanica on 5 June 2026. Dugopolje is just outside Split, making this a nearby live-music pick rather than an in-city club event.",
+        "genres": [
           "festival"
         ]
       }

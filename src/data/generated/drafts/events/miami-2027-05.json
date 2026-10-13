@@ -1,0 +1,205 @@
+{
+  "slug": "miami",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:54:25.157Z",
+  "responseId": "resp_0acf71ae517adbdd006acdaa9ee83c87d0876790171a3661ef+resp_06818b953aa3297d006acdab0a7c7087d0aa46e551a236b600",
+  "searchCalls": 39,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 5,
+    "year": 2027,
+    "notes": "Most Miami club calendars for May 2027 are not yet published; the confirmed picture is currently strongest in ticketed concerts, jazz, Latin pop and Memorial Day Caribbean programming.",
+    "events": [
+      {
+        "id": "miami-sizzle-2027",
+        "title": "Sizzle Miami 2027",
+        "type": "festival",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-31",
+        "importance": 84,
+        "venueName": "Miami / South Beach venues TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.gayout.com/usa-canada/united-states/miami/mega-events/sizzle-miami",
+        "ticketUrl": null,
+        "summary": "Long-running Black gay Memorial Day weekend party institution with pool parties, oceanfront day parties, yacht parties, and nightlife events; listed music focus includes Afrobeats, house, hip-hop, dancehall, and R&B.",
+        "genres": [
+          "afro-house",
+          "house",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-best-of-the-best-music-fest-2027",
+        "title": "Best of the Best Music Fest 2027",
+        "type": "festival",
+        "startDate": "2027-05-30",
+        "endDate": "2027-05-30",
+        "importance": 82,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.caribtix.com/event/bestofthebest-16782",
+        "ticketUrl": "https://www.caribtix.com/event/bestofthebest-16782",
+        "summary": "CaribTix lists Best of the Best Music Fest 2027 in Miami for May 30, 2027. The long-running Memorial Day weekend event is Miami's signature Caribbean music festival, though the 2027 lineup is not yet posted on the ticket page.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-sweet-heat-2027",
+        "title": "SweetHeat Miami 2027",
+        "type": "festival",
+        "startDate": "2027-05-11",
+        "endDate": "2027-05-17",
+        "importance": 82,
+        "venueName": "Miami / Miami Beach venues TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.tixr.com/groups/sweetheatmiami/events/sweetheat-miami-2027-205492",
+        "ticketUrl": "https://www.tixr.com/groups/sweetheatmiami/events/sweetheat-miami-2027-205492",
+        "summary": "Weeklong queer women-focused Miami destination party with DJ-driven nightlife, day parties, pool parties, yacht experiences, themed parties, R&B and throwback programming.",
+        "genres": [
+          "house",
+          "electronic",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-urban-beach-week-2027",
+        "title": "Memorial Weekend – Urban Beach Week",
+        "type": "festival",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-25",
+        "importance": 78,
+        "venueName": "South Beach",
+        "venueId": null,
+        "sourceUrl": "https://canvas.miami/event/memorial-weekend-urban-beach-week-2027-05-22",
+        "ticketUrl": null,
+        "summary": "Memorial Day weekend South Beach urban/hip-hop scene takeover listed with live performances, beach events, and shows throughout South Beach.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-christian-mcbride-big-band-2027",
+        "title": "Christian McBride Big Band",
+        "type": "concert",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-06",
+        "importance": 76,
+        "venueName": "Knight Concert Hall at Adrienne Arsht Center",
+        "venueId": null,
+        "sourceUrl": "https://admin.arshtcenter.org/tickets/2026-2027/jazz-roots/christian-mcbride-big-band/",
+        "ticketUrl": "https://admin.arshtcenter.org/tickets/2026-2027/jazz-roots/christian-mcbride-big-band/",
+        "summary": "The Adrienne Arsht Center confirms Christian McBride Big Band for May 6, 2027 at 8:00 PM as part of its Jazz Roots series. The program features the 17-piece band performing music from McBride's big-band recordings.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-takeover-haitian-flag-2027",
+        "title": "Miami Takeover 2027 Experience Wknd",
+        "type": "festival",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-17",
+        "importance": 76,
+        "venueName": "Location TBA",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/miami-takeover-2027-experience-wknd-tickets-1990887677637",
+        "ticketUrl": "https://www.eventbrite.com/e/miami-takeover-2027-experience-wknd-tickets-1990887677637",
+        "summary": "Annual Haitian Flag Day weekend takeover billed as multiple themed events with dancing, partying, and culture-focused nightlife across the weekend.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-ha-ash-no-me-hablen-de-amor-2027",
+        "title": "Ha*Ash - No Me Hablen de Amor",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 74,
+        "venueName": "The Fillmore Miami Beach at Jackie Gleason Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_K1-Dzg7/ha-ash-no-me-hablen-de-amor",
+        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_K1-Dzg7/ha-ash-no-me-hablen-de-amor",
+        "summary": "Live Nation confirms Ha*Ash's No Me Hablen de Amor show at The Fillmore Miami Beach on May 22, 2027 at 8:00 PM. The Mexican-American duo brings a major Latin pop concert to Miami Beach.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-nice-yacht-2027",
+        "title": "MIAMI NICE 2027 Memorial Day Weekend Annual All White Yacht Party",
+        "type": "club-night",
+        "startDate": "2027-05-29",
+        "endDate": "2027-05-30",
+        "importance": 72,
+        "venueName": "South Beach Lady",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/miami-nice-2027-memorial-day-weekend-annual-all-white-yacht-party-tickets-2000047385570",
+        "ticketUrl": "https://www.eventbrite.com/e/miami-nice-2027-memorial-day-weekend-annual-all-white-yacht-party-tickets-2000047385570",
+        "summary": "Memorial Day weekend all-white yacht party from long-running promoter MIAMINICE, sailing from the South Beach Lady in Hollywood/North Beach area with a 21+ nighttime party format.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-paloma-morphy-2027",
+        "title": "Paloma Morphy",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-12",
+        "importance": 70,
+        "venueName": "ZeyZey Miami",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/paloma-morphy-miami",
+        "ticketUrl": "https://shotgun.live/en/events/paloma-morphy-miami",
+        "summary": "Shotgun lists Paloma Morphy at ZeyZey Miami on May 12, 2027, from 7:00 PM to 2:00 AM. The listing describes an 18+ Latin indie-pop concert with special guests to be announced.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-valery-meladze-2027",
+        "title": "Valery Meladze",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 65,
+        "venueName": "James L Knight Center",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/vvG1VZ_khrOooe/valery-meladze",
+        "ticketUrl": "https://www.livenation.com/event/vvG1VZ_khrOooe/valery-meladze",
+        "summary": "Live Nation lists Valery Meladze at James L Knight Center on May 1, 2027 at 8:00 PM. The show is a Russian-language pop concert in downtown Miami.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-sounds-spirit-haiti-2027",
+        "title": "Sounds and Spirit of Haiti featuring Tradisyon Lakou Lakay",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 62,
+        "venueName": "Knight Concert Hall at Adrienne Arsht Center",
+        "venueId": null,
+        "sourceUrl": "https://umbraco-fe.azurewebsites.net/tickets/2026-2027/arsht-for-miami/sounds-and-spirit-of-haiti/",
+        "ticketUrl": "https://umbraco-fe.azurewebsites.net/tickets/2026-2027/arsht-for-miami/sounds-and-spirit-of-haiti/",
+        "summary": "The Arsht Center confirms Sounds and Spirit of Haiti on May 22, 2027 at 3:00 PM. The performance features Miami-based Tradisyon Lakou Lakay with live music, traditional rhythms, folkloric dance and Haitian storytelling.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "goa",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:14:10.850Z",
+  "responseId": "resp_0a0a91cd301075f8006acda165cc2087d0a6938d86a9ab8017+resp_070372eda63b44fb006acda1b3178887d0bc75231a3203b843",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "goa",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027’s confirmed Goa calendar is strongest for psytrance/open-air underground gatherings, with Goa Sunsplash adding a major reggae and sound-system weekend.",
+    "events": [
+      {
+        "id": "goa-hilltop-festival-2027",
+        "title": "Hilltop Festival 2027 — Weekend 1",
+        "type": "festival",
+        "startDate": "2027-01-30",
+        "endDate": "2027-01-31",
+        "importance": 90,
+        "venueName": "Hilltop Vagator",
+        "venueId": "hilltop-goa",
+        "sourceUrl": "https://tickets.madvibes.in/product/hilltopfestival2027/",
+        "ticketUrl": "https://tickets.madvibes.in/product/hilltopfestival2027/",
+        "summary": "Hilltop Festival 2027 is confirmed at Hilltop, Vagator, with Weekend 1 listed for January 30–31 before a second weekend in February. The ticket page emphasizes sunrise sessions, psychedelic sounds and old-school Goa energy.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-sunsplash-2027",
+        "title": "Goa Sunsplash 2027",
+        "type": "festival",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-17",
+        "importance": 88,
+        "venueName": "Thalassa Beach Boutique Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.goasunsplash.com/event-details/goa-sunsplash-2027-tickets",
+        "ticketUrl": "https://www.goasunsplash.com/event-details/goa-sunsplash-2027-tickets",
+        "summary": "Goa Sunsplash 2027 is confirmed for January 16–17 at Thalassa Beach Boutique Resort. The official page describes it as India’s home of reggae culture, focused on reggae, dub, dancehall and sound-system culture.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-roots-of-trance-2027",
+        "title": "Roots Of Trance Festival",
+        "type": "festival",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-08",
+        "importance": 76,
+        "venueName": "Dpedro Inn",
+        "venueId": null,
+        "sourceUrl": "https://anbocas.com/events/roots-of-trance-festival-06-jan-2027-dpedro-inn-buy-tickets",
+        "ticketUrl": "https://anbocas.com/events/roots-of-trance-festival-06-jan-2027-dpedro-inn-buy-tickets",
+        "summary": "Spinning Shivaay’s Roots Of Trance Festival is confirmed at Dpedro Inn, Mandrem, starting January 6 at 4:00 PM and ending January 8 at 8:00 AM. The ticket page lists festival passes and PARTYHUNT as promoter.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-ethnoentheo-ritual-2027",
+        "title": "Ethnoentheo Ritual",
+        "type": "festival",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-25",
+        "importance": 73,
+        "venueName": "Dpedro Goa",
+        "venueId": null,
+        "sourceUrl": "https://idamoss.com/listing/ethnoentheo-ritual-goa-2027/",
+        "ticketUrl": "https://idamoss.com/listing/ethnoentheo-ritual-goa-2027/",
+        "summary": "Ethnoentheo Ritual is confirmed at Dpedro Goa from January 23 to January 25, with the ticket page listing a festival pass for January 23rd and 24th. The event is framed as a two-night open-air jungle gathering across psytrance, dark psytrance, psycore and forest psy.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-kala-kestro-2027",
+        "title": "Kala Kestro",
+        "type": "festival",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-04",
+        "importance": 70,
+        "venueName": "D Pedro, Goa",
+        "venueId": null,
+        "sourceUrl": "https://tickets.madvibes.in/product-category/goa/",
+        "ticketUrl": "https://tickets.madvibes.in/product-category/goa/",
+        "summary": "A three-day D Pedro psytrance gathering listed by Madvibes and Axess for Jan 2–4, part of Goa’s early-January underground trance run.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "goa-positive-promotions-2027",
+        "title": "Goa 2027, Our Fifth Adventure in Paradise",
+        "type": "residency",
+        "startDate": "2027-01-12",
+        "endDate": "2027-01-23",
+        "importance": 70,
+        "venueName": "Various, South Goa",
+        "venueId": null,
+        "sourceUrl": "https://www.tickettailor.com/events/positivepromotions1/2095178",
+        "ticketUrl": "https://www.tickettailor.com/events/positivepromotions1/2095178",
+        "summary": "A limited-capacity South Goa travel-party programme of outdoor beach, jungle and pool day parties moving from soul and disco into house at night, with UK heritage DJs and Indian electronic selectors.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-once-upon-a-time-2027",
+        "title": "Once Upon A Time In Goa: Open-Air",
+        "type": "club-night",
+        "startDate": "2027-01-13",
+        "endDate": "2027-01-14",
+        "importance": 68,
+        "venueName": "Dpedro Goa",
+        "venueId": null,
+        "sourceUrl": "https://idamoss.com/listing/once-upon-a-time-in-goa/",
+        "ticketUrl": "https://idamoss.com/listing/once-upon-a-time-in-goa/",
+        "summary": "Once Upon A Time In Goa is a confirmed open-air psytrance gathering at Dpedro in Mandrem, running from January 13 at 7:00 PM to January 14 at 10:00 AM. The listing focuses on darkpsy, forest psytrance and experimental psychedelic sounds.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-dark-awakening-2027",
+        "title": "Dark Awakening: Open-Air Goa",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-03",
+        "importance": 67,
+        "venueName": "To be announced, Goa",
+        "venueId": null,
+        "sourceUrl": "https://idamoss.com/listing/dark-awakening-open-air-goa/",
+        "ticketUrl": "https://idamoss.com/listing/dark-awakening-open-air-goa/",
+        "summary": "Dark Awakening Edition II is a confirmed open-air underground electronic night running from 8:00 PM on January 2 to 6:00 AM on January 3. The listing describes deep, experimental and high-energy electronic soundscapes at a Goa venue still to be announced.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "goa-vanaghotra-decade-2027",
+        "title": "Vanaghotra: The Decade Ritual",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 73,
+        "venueName": "D’Pedro Inn / Dpedro Goa",
+        "venueId": null,
+        "sourceUrl": "https://idamoss.com/listing/vanaghotra-the-decade-ritual-nye-dec-31st-dpedro-goa/",
+        "ticketUrl": "https://idamoss.com/listing/vanaghotra-the-decade-ritual-nye-dec-31st-dpedro-goa/",
+        "summary": "A 10-year anniversary NYE psytrance ritual running through New Year’s morning at D’Pedro, framed around psychedelic soundscapes and tribal underground gathering energy.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      }
+    ]
+  }
+}

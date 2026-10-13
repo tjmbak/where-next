@@ -2,9 +2,9 @@
   "slug": "mykonos",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:47:36.918Z",
-  "responseId": "resp_078eada4fa727f860069ff56a8e0b48190b8db0a233f5be2c4",
-  "searchCalls": 19,
+  "generatedAt": "2026-05-30T18:36:36.553Z",
+  "responseId": "augment:resp_08968e33df3a33f1006a1b2da75530819bb59b986d1b4cf7c6",
+  "searchCalls": 23,
   "citations": [],
   "data": {
     "destinationSlug": "mykonos",
@@ -13,19 +13,54 @@
     "notes": "September's confirmed Mykonos calendar is led by Scorpios' sunset music program, with select late-night Cavo Paradiso dates also verified.",
     "events": [
       {
-        "id": "mykonos-scorpios-agoria-2026",
-        "title": "Agoria, Little D",
+        "id": "mykonos-cavo-dj-snake-2026",
+        "title": "DJ Snake | Dany Neville",
+        "type": "club-night",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-24",
+        "importance": 90,
+        "venueName": "Cavo Paradiso",
+        "venueId": null,
+        "sourceUrl": "https://new.cavoparadiso.gr/",
+        "ticketUrl": null,
+        "summary": "Cavo Paradiso's official Summer 2026 lineup page lists DJ Snake and Dany Neville for a September 24 late-night event. It is one of the biggest mainstream electronic bookings currently visible for Mykonos in September 2026.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-lee-burridge-2026",
+        "title": "Lee Burridge",
         "type": "beach-club",
-        "startDate": "2026-09-02",
-        "endDate": "2026-09-02",
-        "importance": 82,
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-15",
+        "importance": 89,
         "venueName": "Scorpios Mykonos",
         "venueId": "scorpios",
         "sourceUrl": "https://scorpios.com/program",
         "ticketUrl": null,
-        "summary": "Agoria plays Scorpios' Sunset Area with Little D on the venue's published September program. The listing describes a night of rich compositions, high-energy sonic exploration, and cross-cultural blends.",
+        "summary": "All Day I Dream founder Lee Burridge plays Scorpios' Terrace. The official program describes an organic-house and progressive-leaning journey rooted in emotion, atmosphere and melodic depth.",
         "genres": [
           "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-damian-lazarus-2026",
+        "title": "Damian Lazarus, Little D",
+        "type": "beach-club",
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-24",
+        "importance": 89,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Damian Lazarus headlines Scorpios' Terrace with Little D. The official listing bills Lazarus as a house-and-techno storyteller, with Little D supplying a genre-spanning support journey.",
+        "genres": [
+          "house",
+          "techno",
           "electronic"
         ]
       },
@@ -41,6 +76,24 @@
         "sourceUrl": "https://scorpios.com/program",
         "ticketUrl": null,
         "summary": "Scorpios lists a B3B-style Afro Tech showcase from Caiiro, Enoo Napa and Da Capo, joined by Jane Ryse. This is one of the strongest Afro-house/afro-tech bookings on the September schedule.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-shimza-2026",
+        "title": "Shimza, Jean Claude Ades",
+        "type": "beach-club",
+        "startDate": "2026-09-13",
+        "endDate": "2026-09-13",
+        "importance": 87,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Shimza appears at Scorpios with Jean Claude Ades for a Terrace session. The official listing positions Shimza at the forefront of global Afro House and pairs him with Ades' sunset-to-night selections.",
         "genres": [
           "afro-house",
           "house",
@@ -83,41 +136,6 @@
         ]
       },
       {
-        "id": "mykonos-scorpios-shimza-2026",
-        "title": "Shimza, Jean Claude Ades",
-        "type": "beach-club",
-        "startDate": "2026-09-13",
-        "endDate": "2026-09-13",
-        "importance": 87,
-        "venueName": "Scorpios Mykonos",
-        "venueId": "scorpios",
-        "sourceUrl": "https://scorpios.com/program",
-        "ticketUrl": null,
-        "summary": "Shimza appears at Scorpios with Jean Claude Ades for a Terrace session. The official listing positions Shimza at the forefront of global Afro House and pairs him with Ades' sunset-to-night selections.",
-        "genres": [
-          "afro-house",
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "mykonos-scorpios-lee-burridge-2026",
-        "title": "Lee Burridge",
-        "type": "beach-club",
-        "startDate": "2026-09-15",
-        "endDate": "2026-09-15",
-        "importance": 89,
-        "venueName": "Scorpios Mykonos",
-        "venueId": "scorpios",
-        "sourceUrl": "https://scorpios.com/program",
-        "ticketUrl": null,
-        "summary": "All Day I Dream founder Lee Burridge plays Scorpios' Terrace. The official program describes an organic-house and progressive-leaning journey rooted in emotion, atmosphere and melodic depth.",
-        "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
         "id": "mykonos-scorpios-satori-paax-2026",
         "title": "Satori (Live), PAAX",
         "type": "beach-club",
@@ -132,6 +150,57 @@
         "genres": [
           "electronic",
           "house"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-jean-claude-ades-marten-lou-2026",
+        "title": "Jean Claude Ades, Marten Lou",
+        "type": "beach-club",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 84,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Jean Claude Ades plays Scorpios' Terrace with Marten Lou. The official listing highlights Marten Lou's high-energy performance style alongside Ades' versatile sunset selections.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-agoria-2026",
+        "title": "Agoria, Little D",
+        "type": "beach-club",
+        "startDate": "2026-09-02",
+        "endDate": "2026-09-02",
+        "importance": 82,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Agoria plays Scorpios' Sunset Area with Little D on the venue's published September program. The listing describes a night of rich compositions, high-energy sonic exploration, and cross-cultural blends.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-scorpios-valeron-band-2026",
+        "title": "Valeron & Band (Live)",
+        "type": "beach-club",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 82,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://scorpios.com/program",
+        "ticketUrl": null,
+        "summary": "Valeron & Band are listed at Scorpios' Sunset Area on September 26. The program describes a live set using Greek instrumentation including satur, Cretan lyra and bouzouki within a pulsing house soundscape.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -153,70 +222,71 @@
         ]
       },
       {
-        "id": "mykonos-scorpios-damian-lazarus-2026",
-        "title": "Damian Lazarus, Little D",
-        "type": "beach-club",
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-24",
-        "importance": 89,
+        "id": "mykonos-scorpios-label-night-sep-2026",
+        "title": "Scorpios Label Night: Valeron, Jean Claude Ades & Lannka",
+        "type": "residency",
+        "startDate": "2026-09-09",
+        "endDate": null,
+        "importance": 76,
         "venueName": "Scorpios Mykonos",
         "venueId": "scorpios",
-        "sourceUrl": "https://scorpios.com/program",
+        "sourceUrl": "https://events.musicofourdesire.com/event/znho-scorpios-label-night-event-mykonos-greece",
         "ticketUrl": null,
-        "summary": "Damian Lazarus headlines Scorpios' Terrace with Little D. The official listing bills Lazarus as a house-and-techno storyteller, with Little D supplying a genre-spanning support journey.",
+        "summary": "The in-house Scorpios Music label night brings Valeron, Jean Claude Ades and Lannka together for an organic electronic, Afro-house and Greek-house showcase.",
         "genres": [
+          "afro-house",
           "house",
-          "techno",
           "electronic"
         ]
       },
       {
-        "id": "mykonos-cavo-dj-snake-2026",
-        "title": "DJ Snake | Dany Neville",
-        "type": "club-night",
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-24",
-        "importance": 90,
-        "venueName": "Cavo Paradiso",
-        "venueId": null,
-        "sourceUrl": "https://new.cavoparadiso.gr/",
+        "id": "mykonos-lannka-natascha-polke-2026",
+        "title": "Lannka Invites Natascha Polké (Live)",
+        "type": "residency",
+        "startDate": "2026-09-18",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Scorpios Mykonos",
+        "venueId": "scorpios",
+        "sourceUrl": "https://cloud9concierge.co/blog/scorpios-mykonos-2026-program-line-up",
         "ticketUrl": null,
-        "summary": "Cavo Paradiso's official Summer 2026 lineup page lists DJ Snake and Dany Neville for a September 24 late-night event. It is one of the biggest mainstream electronic bookings currently visible for Mykonos in September 2026.",
+        "summary": "Part of the recurring Lannka Invites strand at Scorpios, this live-focused edition brings Natascha Polké into the venue’s melodic and organic electronic sunset program.",
         "genres": [
-          "electronic",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mykonos-mamacita-cavo-2026",
+        "title": "Mamacita at Cavo Paradiso",
+        "type": "club-night",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-04",
+        "importance": 70,
+        "venueName": "Cavo Paradiso Club Mykonos",
+        "venueId": null,
+        "sourceUrl": "https://events.musicofourdesire.com/event/gdtx-mamacita-dj-set-mykonos-greece",
+        "ticketUrl": null,
+        "summary": "Touring Latin-urban party brand Mamacita lands at Cavo Paradiso with a reggaeton, Afrobeat, Latin house and house program that fits the island’s late-night diaspora crossover lane.",
+        "genres": [
+          "latin",
           "house"
         ]
       },
       {
-        "id": "mykonos-scorpios-valeron-band-2026",
-        "title": "Valeron & Band (Live)",
+        "id": "mykonos-ramyen-alemagou-2026",
+        "title": "Ramyen at Alemagou",
         "type": "beach-club",
-        "startDate": "2026-09-26",
-        "endDate": "2026-09-26",
-        "importance": 82,
-        "venueName": "Scorpios Mykonos",
-        "venueId": "scorpios",
-        "sourceUrl": "https://scorpios.com/program",
+        "startDate": "2026-09-05",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Alemagou",
+        "venueId": null,
+        "sourceUrl": "https://events.musicofourdesire.com/event/gzwj-ramyen-event-mykonos-greece",
         "ticketUrl": null,
-        "summary": "Valeron & Band are listed at Scorpios' Sunset Area on September 26. The program describes a live set using Greek instrumentation including satur, Cretan lyra and bouzouki within a pulsing house soundscape.",
+        "summary": "Alemagou’s windswept Ftelia Beach sunset program continues into September with Ramyen, focused on organic, Afro and tribal house in a beach-club setting.",
         "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
-        "id": "mykonos-scorpios-jean-claude-ades-marten-lou-2026",
-        "title": "Jean Claude Ades, Marten Lou",
-        "type": "beach-club",
-        "startDate": "2026-09-27",
-        "endDate": "2026-09-27",
-        "importance": 84,
-        "venueName": "Scorpios Mykonos",
-        "venueId": "scorpios",
-        "sourceUrl": "https://scorpios.com/program",
-        "ticketUrl": null,
-        "summary": "Jean Claude Ades plays Scorpios' Terrace with Marten Lou. The official listing highlights Marten Lou's high-energy performance style alongside Ades' versatile sunset selections.",
-        "genres": [
+          "afro-house",
           "house",
           "electronic"
         ]

@@ -2,9 +2,9 @@
   "slug": "tokyo",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:43:20.548Z",
-  "responseId": "resp_0a26f0a75698e2e70069ff63c09cc4819f8f09fc5340ad2d21",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:50:25.394Z",
+  "responseId": "augment:resp_04c149403b67f9f2006a1b3104b5d4819bb7ec830bf6689236",
+  "searchCalls": 21,
   "citations": [],
   "data": {
     "destinationSlug": "tokyo",
@@ -12,90 +12,6 @@
     "year": 2026,
     "notes": "June 2026 is unusually strong for Tokyo, spanning Tokyo Dome-scale J-pop/K-pop, global R&B and pop, and several credible house/techno signature parties.",
     "events": [
-      {
-        "id": "tokyo-daniel-caesar-jun-2026",
-        "title": "Daniel Caesar - Son of Spergy Tour",
-        "type": "concert",
-        "startDate": "2026-06-04",
-        "endDate": "2026-06-04",
-        "importance": 84,
-        "venueName": "Tokyo International Forum Hall A",
-        "venueId": null,
-        "sourceUrl": "https://www.livenationhip.co.jp/en/all-events/daniel-caesar-tickets-ae969510",
-        "ticketUrl": "https://www.livenationhip.co.jp/en/all-events/daniel-caesar-tickets-ae969510",
-        "summary": "Daniel Caesar brings his Son of Spergy Tour to Tokyo International Forum Hall A for a one-night Tokyo concert. The official Live Nation H.I.P. page lists the June 4 date and 19:00 start.",
-        "genres": [
-          "r-and-b",
-          "pop"
-        ]
-      },
-      {
-        "id": "tokyo-housetribe-anniversary-2026",
-        "title": "HOUSETRIBE 11th Anniversary",
-        "type": "club-night",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-05",
-        "importance": 76,
-        "venueName": "WOMB Tokyo",
-        "venueId": "womb-tokyo",
-        "sourceUrl": "https://ra.co/events/2431297",
-        "ticketUrl": null,
-        "summary": "WOMB’s tech-house party HOUSETRIBE celebrates its 11th anniversary with Mixed Methods, Yamariki, CARTOON, Daitto, Chika Luna and others. Resident Advisor lists the event for Friday, June 5 at WOMB.",
-        "genres": [
-          "house"
-        ]
-      },
-      {
-        "id": "tokyo-stones-throw-30-2026",
-        "title": "MIDNIGHT EAST presents Stones Throw 30 Years Tokyo supported by HUF",
-        "type": "club-night",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-06",
-        "importance": 80,
-        "venueName": "MIDNIGHT EAST / Spotify O-EAST",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2416233",
-        "ticketUrl": "https://ra.co/events/2416233",
-        "summary": "Stones Throw marks its 30th anniversary in Tokyo with Peanut Butter Wolf, Knxwledge, Mndsgn and Michi. The RA listing confirms the June 6 late-night event at MIDNIGHT EAST in Shibuya.",
-        "genres": [
-          "hip-hop",
-          "r-and-b",
-          "electronic"
-        ]
-      },
-      {
-        "id": "tokyo-seiko-matsuda-2026",
-        "title": "Seiko Matsuda Concert Tour 2026",
-        "type": "concert",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-07",
-        "importance": 82,
-        "venueName": "Tokyo Ariake Arena",
-        "venueId": null,
-        "sourceUrl": "https://ariake-arena.tokyo/event/next/",
-        "ticketUrl": "https://www.seikomatsuda.co.jp/",
-        "summary": "Seiko Matsuda plays two Tokyo Ariake Arena dates on June 6 and June 7. The venue calendar confirms the concert times and official artist-site link.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "tokyo-body-and-soul-2026",
-        "title": "Manhattan Portage presents Body&SOUL Live in Japan 2026",
-        "type": "festival",
-        "startDate": "2026-06-07",
-        "endDate": "2026-06-07",
-        "importance": 84,
-        "venueName": "Kiranah Garden Toyosu",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2396938",
-        "ticketUrl": "https://bodyandsoul-japan.zaiko.io/",
-        "summary": "The long-running Body&SOUL Japan gathering returns to Toyosu with resident legends Joe Claussell, Danny Krivit and François K. RA confirms the June 7 daytime event at Kiranah Garden Toyosu.",
-        "genres": [
-          "house",
-          "festival"
-        ]
-      },
       {
         "id": "tokyo-niziu-dome-2026",
         "title": "NiziU Live with U 2026 “NiziU : THE CINEMA”",
@@ -127,42 +43,6 @@
         "genres": [
           "pop",
           "r-and-b"
-        ]
-      },
-      {
-        "id": "tokyo-global-citizen-live-2026",
-        "title": "Global Citizen Live: Tokyo",
-        "type": "concert",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-18",
-        "importance": 86,
-        "venueName": "Tokyo International Forum",
-        "venueId": null,
-        "sourceUrl": "https://www.globalcitizen.org/en/events-broadcasts/tokyo/",
-        "ticketUrl": "https://www.globalcitizen.org/en/events-broadcasts/tokyo/",
-        "summary": "Global Citizen’s first Japan music event is headlined by &TEAM, with AI and Yuki Chiba also on the bill. The official event page confirms June 18 at Tokyo International Forum.",
-        "genres": [
-          "pop",
-          "hip-hop",
-          "r-and-b"
-        ]
-      },
-      {
-        "id": "tokyo-kulu-ame-womb-2026",
-        "title": "KULU Asia Tour 2026 Tokyo with Âme Live",
-        "type": "club-night",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 78,
-        "venueName": "WOMB Tokyo",
-        "venueId": "womb-tokyo",
-        "sourceUrl": "https://www.womb.co.jp/en/event/2026/06/20/kulu-9/",
-        "ticketUrl": "https://womb.zaiko.io/",
-        "summary": "KULU’s Asia Tour takes over all floors of WOMB with Âme Live as special guest. WOMB’s official page confirms the June 20 date and 23:00–04:30 timing.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
         ]
       },
       {
@@ -200,6 +80,24 @@
         ]
       },
       {
+        "id": "tokyo-global-citizen-live-2026",
+        "title": "Global Citizen Live: Tokyo",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 86,
+        "venueName": "Tokyo International Forum",
+        "venueId": null,
+        "sourceUrl": "https://www.globalcitizen.org/en/events-broadcasts/tokyo/",
+        "ticketUrl": "https://www.globalcitizen.org/en/events-broadcasts/tokyo/",
+        "summary": "Global Citizen’s first Japan music event is headlined by &TEAM, with AI and Yuki Chiba also on the bill. The official event page confirms June 18 at Tokyo International Forum.",
+        "genres": [
+          "pop",
+          "hip-hop",
+          "r-and-b"
+        ]
+      },
+      {
         "id": "tokyo-jsb-land-forever-2026",
         "title": "Sandaime J SOUL BROTHERS presents “JSB LAND ~FOREVER~”",
         "type": "concert",
@@ -214,6 +112,249 @@
         "genres": [
           "pop",
           "r-and-b"
+        ]
+      },
+      {
+        "id": "tokyo-daniel-caesar-jun-2026",
+        "title": "Daniel Caesar - Son of Spergy Tour",
+        "type": "concert",
+        "startDate": "2026-06-04",
+        "endDate": "2026-06-04",
+        "importance": 84,
+        "venueName": "Tokyo International Forum Hall A",
+        "venueId": null,
+        "sourceUrl": "https://www.livenationhip.co.jp/en/all-events/daniel-caesar-tickets-ae969510",
+        "ticketUrl": "https://www.livenationhip.co.jp/en/all-events/daniel-caesar-tickets-ae969510",
+        "summary": "Daniel Caesar brings his Son of Spergy Tour to Tokyo International Forum Hall A for a one-night Tokyo concert. The official Live Nation H.I.P. page lists the June 4 date and 19:00 start.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-body-and-soul-2026",
+        "title": "Manhattan Portage presents Body&SOUL Live in Japan 2026",
+        "type": "festival",
+        "startDate": "2026-06-07",
+        "endDate": "2026-06-07",
+        "importance": 84,
+        "venueName": "Kiranah Garden Toyosu",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396938",
+        "ticketUrl": "https://bodyandsoul-japan.zaiko.io/",
+        "summary": "The long-running Body&SOUL Japan gathering returns to Toyosu with resident legends Joe Claussell, Danny Krivit and François K. RA confirms the June 7 daytime event at Kiranah Garden Toyosu.",
+        "genres": [
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-acid-i-hate-models-2026",
+        "title": "ACiD: A Concept in Dance – I Hate Models",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/en/event/2026/06/12/acid-8/",
+        "ticketUrl": "https://www.womb.co.jp/en/event/2026/06/12/acid-8/",
+        "summary": "ACiD turns WOMB into a hard-techno/rave environment led by I Hate Models, with Risa Taniguchi, Albino Sound and Tokyo house/tech-house support floors.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-seiko-matsuda-2026",
+        "title": "Seiko Matsuda Concert Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 82,
+        "venueName": "Tokyo Ariake Arena",
+        "venueId": null,
+        "sourceUrl": "https://ariake-arena.tokyo/event/next/",
+        "ticketUrl": "https://www.seikomatsuda.co.jp/",
+        "summary": "Seiko Matsuda plays two Tokyo Ariake Arena dates on June 6 and June 7. The venue calendar confirms the concert times and official artist-site link.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-nu-festival-day2-2026",
+        "title": "NU Festival 2026 Day 2: NU LIVE × Sónar Sound",
+        "type": "festival",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 81,
+        "venueName": "TBA - Takanawa Gateway City",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2428718",
+        "ticketUrl": "https://ra.co/events/2428718",
+        "summary": "A forward-looking urban festival collaboration with Sónar featuring Actress, DJ Krush, Nathan Fake, Grandbrothers, Sapphire Slows and more across electronica, bass, ambient and art/technology programming.",
+        "genres": [
+          "electronic",
+          "festival",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "tokyo-stones-throw-30-2026",
+        "title": "MIDNIGHT EAST presents Stones Throw 30 Years Tokyo supported by HUF",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 80,
+        "venueName": "MIDNIGHT EAST / Spotify O-EAST",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2416233",
+        "ticketUrl": "https://ra.co/events/2416233",
+        "summary": "Stones Throw marks its 30th anniversary in Tokyo with Peanut Butter Wolf, Knxwledge, Mndsgn and Michi. The RA listing confirms the June 6 late-night event at MIDNIGHT EAST in Shibuya.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-soundgate-2026",
+        "title": "SOUNDGATE - Techno / House -",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Zerotokyo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2447619",
+        "ticketUrl": "https://ra.co/events/2447619",
+        "summary": "ZEROTOKYO brings together major Japanese electronic figures Takkyu Ishino, Shinichi Osawa, Yoshinori Sunahara, tofubeats and more across techno, house, hard techno, trance and open-format rooms.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-kulu-ame-womb-2026",
+        "title": "KULU Asia Tour 2026 Tokyo with Âme Live",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 78,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/en/event/2026/06/20/kulu-9/",
+        "ticketUrl": "https://womb.zaiko.io/",
+        "summary": "KULU’s Asia Tour takes over all floors of WOMB with Âme Live as special guest. WOMB’s official page confirms the June 20 date and 23:00–04:30 timing.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-kulu-asia-tour-2026",
+        "title": "KULU Asia Tour 2026 Tokyo: Âme Live",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://www.womb.co.jp/en/event/2026/06/20/kulu-9/",
+        "ticketUrl": "https://www.womb.co.jp/en/event/2026/06/20/kulu-9/",
+        "summary": "Traveling party collective KULU’s Asia Tour takes over all floors of WOMB with Âme Live for an Innervisions-rooted night of melodic house, techno, disco and ambient electronics.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-peter-van-hoesen-ldg-2026",
+        "title": "Peter Van Hoesen, Ness / LDG 10th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "VENT",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2425542",
+        "ticketUrl": "https://ra.co/events/2425542",
+        "summary": "Liquid Drop Groove marks its 10th anniversary at VENT with Peter Van Hoesen and Ness alongside YUTA, UG, Shinsuke Goto, Aksamit and Lisa Mizuno for a serious deep/hypnotic techno night.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-interface-zerotokyo-2026",
+        "title": "INTERFACE",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Zerotokyo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2438271",
+        "ticketUrl": "https://ra.co/events/2438271",
+        "summary": "A high-energy techno/trance ZEROTOKYO party featuring Drunken Kong and psy-trance legend Tsuyoshi Suzuki, plus multi-room techno and psychedelic-trance programming.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-housetribe-anniversary-2026",
+        "title": "HOUSETRIBE 11th Anniversary",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 76,
+        "venueName": "WOMB Tokyo",
+        "venueId": "womb-tokyo",
+        "sourceUrl": "https://ra.co/events/2431297",
+        "ticketUrl": null,
+        "summary": "WOMB’s tech-house party HOUSETRIBE celebrates its 11th anniversary with Mixed Methods, Yamariki, CARTOON, Daitto, Chika Luna and others. Resident Advisor lists the event for Friday, June 5 at WOMB.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "tokyo-solstice-gms-1200micrograms-2026",
+        "title": "Solstice Music presents GMS & 1200 Micrograms",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Zerotokyo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443763",
+        "ticketUrl": null,
+        "summary": "Solstice Music brings full-on/psytrance heavyweight GMS and 1200 Micrograms by Riktam to ZEROTOKYO with a supporting trance lineup.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-agartha-pride-2026",
+        "title": "AGARTHA",
+        "type": "club-night",
+        "startDate": "2026-06-06",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Zerotokyo",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2390356",
+        "ticketUrl": "https://ra.co/events/2390356",
+        "summary": "A large multi-floor queer party at ZEROTOKYO with AGARTHA, Pride Gate, 9monsters anniversary programming, go-go performers, drag, house/pop floors and a dedicated techno room.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
         ]
       }
     ]

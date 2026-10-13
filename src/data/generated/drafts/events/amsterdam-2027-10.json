@@ -1,0 +1,98 @@
+{
+  "slug": "amsterdam",
+  "month": 10,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:15:22.633Z",
+  "responseId": "resp_047d5a9b2d36f979006acdafe6b3ac87d08c4111eafc89f518+resp_004604c351bdaad3006acdb0230d8087d0b97802e1f44ca409",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "amsterdam",
+    "month": 10,
+    "year": 2027,
+    "notes": "ADE 2027 official dates/program were not yet publicly confirmed in the sources checked, so the verified October 2027 calendar is currently led by arena-scale Dutch pop/rock, tribute-rock, and electronic-orchestral shows.",
+    "events": [
+      {
+        "id": "amsterdam-racoon-30-jaar-2027",
+        "title": "Racoon: 30 jaar Racoon",
+        "type": "concert",
+        "startDate": "2027-10-01",
+        "endDate": "2027-10-02",
+        "importance": 70,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://ziggodome.nl/events/5aea067c-38d9-4f2b-bba5-59f18a9e9028/",
+        "ticketUrl": null,
+        "summary": "Racoon marks its 30th anniversary with two Ziggo Dome shows on Friday 1 and Saturday 2 October 2027, covering Dutch and English-language hits plus newer material. The venue page lists the shows as sold out.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-synthony-2027",
+        "title": "SYNTHONY",
+        "type": "concert",
+        "startDate": "2027-10-16",
+        "endDate": "2027-10-16",
+        "importance": 70,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/concerts/43447272-synthony-at-afas-live",
+        "ticketUrl": "https://www.ticketmaster.nl/artist/synthony-tickets/1014102?language=en-us",
+        "summary": "SYNTHONY plays AFAS Live on 16 October 2027, bringing its orchestral dance/electronic concert format to Amsterdam.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-3js-20-jaar-2027",
+        "title": "20 JAAR 3JS",
+        "type": "concert",
+        "startDate": "2027-10-09",
+        "endDate": "2027-10-09",
+        "importance": 64,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/20-jaar-3js",
+        "ticketUrl": null,
+        "summary": "Dutch pop band 3JS closes its 20th-anniversary celebration with a special AFAS Live show featuring an expanded band and guest appearances including Jan Smit.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-brit-floyd-animals-2027",
+        "title": "Brit Floyd: ANIMALS 50 – World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-10-12",
+        "endDate": "2027-10-12",
+        "importance": 62,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/brit-floyd-animals-50-world-tour-2027",
+        "ticketUrl": null,
+        "summary": "Brit Floyd brings its Animals 50 production to AFAS Live, performing Pink Floyd’s Animals material with a large-scale visual and laser production plus catalogue favourites.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-brit-floyd-echoes-2027",
+        "title": "Brit Floyd: Echoes - 60 Years of Pink Floyd",
+        "type": "concert",
+        "startDate": "2027-10-13",
+        "endDate": "2027-10-13",
+        "importance": 62,
+        "venueName": "AFAS Live",
+        "venueId": null,
+        "sourceUrl": "https://www.afaslive.nl/agenda/brit-floyd-echoes-60-years-of-pink-floyd",
+        "ticketUrl": null,
+        "summary": "Brit Floyd adds a second AFAS Live date with Echoes - 60 Years of Pink Floyd, a separate show focused on six decades of Pink Floyd repertoire.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

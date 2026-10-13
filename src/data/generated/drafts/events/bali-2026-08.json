@@ -2,9 +2,9 @@
   "slug": "bali",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:23:12.993Z",
-  "responseId": "resp_0d8ffdb77a53f19a0069ff5f035708819db13b816d4ab0df97",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:03:42.989Z",
+  "responseId": "augment:resp_0b3ba031695199ac006a1b2618706c819abdc77009d7ecf823",
+  "searchCalls": 19,
   "citations": [],
   "data": {
     "destinationSlug": "bali",
@@ -12,6 +12,39 @@
     "year": 2026,
     "notes": "August’s confirmed calendar is led by Ubud’s jazz festival and AXEAN’s regional showcase, while most Bali beach-club and nightclub calendars remain only partially announced this far out.",
     "events": [
+      {
+        "id": "bali-ubud-village-jazz-festival-2026",
+        "title": "Ubud Village Jazz Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-08",
+        "importance": 88,
+        "venueName": "Sthala, a Tribute Portfolio Hotel, Ubud Bali",
+        "venueId": null,
+        "sourceUrl": "https://ubudvillagejazzfestival.com/",
+        "ticketUrl": "https://megatix.co.id/events/sthala-ubud-village-jazz-festival-2026",
+        "summary": "The 13th Ubud Village Jazz Festival is confirmed for August 7–8, 2026 at Sthala Ubud Bali, presenting two evenings of jazz with Indonesian and international artists.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-axean-festival-2026",
+        "title": "AXEAN Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-30",
+        "importance": 86,
+        "venueName": "Jimbaran Hub",
+        "venueId": null,
+        "sourceUrl": "https://www.see.events/other/i/80802394/axean-festival-2026-at-jimbaran-hub-by-see-events-bali",
+        "ticketUrl": null,
+        "summary": "AXEAN Festival is confirmed for August 29–30, 2026 at Jimbaran Hub, bringing two days of live music, culture, and creative exchange focused on Southeast Asian artists and industry connections.",
+        "genres": [
+          "festival"
+        ]
+      },
       {
         "id": "bali-hayden-james-savaya-2026",
         "title": "Hayden James at Savaya Bali",
@@ -30,20 +63,22 @@
         ]
       },
       {
-        "id": "bali-ubud-village-jazz-festival-2026",
-        "title": "Ubud Village Jazz Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-08",
-        "importance": 88,
-        "venueName": "Sthala, a Tribute Portfolio Hotel, Ubud Bali",
+        "id": "bali-aaron-sevilla-savaya-2026",
+        "title": "Aaron Sevilla at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-08-30",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Savaya Bali",
         "venueId": null,
-        "sourceUrl": "https://ubudvillagejazzfestival.com/",
-        "ticketUrl": "https://megatix.co.id/events/sthala-ubud-village-jazz-festival-2026",
-        "summary": "The 13th Ubud Village Jazz Festival is confirmed for August 7–8, 2026 at Sthala Ubud Bali, presenting two evenings of jazz with Indonesian and international artists.",
+        "sourceUrl": "https://www.savaya.com/event-calendar/august-30-2026",
+        "ticketUrl": "https://megatix.co.id/events/aaron-sevilla-3008",
+        "summary": "Mexican Afro/Latin-house selector Aaron Sevilla closes the month at Savaya with a 21+ ticketed dayclub event, one of the clearest Afro-house bookings confirmed in Bali for August.",
         "genres": [
-          "jazz",
-          "festival"
+          "afro-house",
+          "house",
+          "latin",
+          "electronic"
         ]
       },
       {
@@ -65,6 +100,42 @@
         ]
       },
       {
+        "id": "bali-denis-sulta-savaya-2026",
+        "title": "Denis Sulta at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/august-2-2026",
+        "ticketUrl": "https://megatix.co.id/events/denis-sulta-0208",
+        "summary": "A strong house-and-techno booking for Bali’s peak season, with Denis Sulta playing Savaya’s Sunday dayclub slot from 1 PM.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-sneaky-sound-system-mrs-sippy-2026",
+        "title": "Sneaky Sound System Summer Residency",
+        "type": "residency",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-29",
+        "importance": 70,
+        "venueName": "Mrs Sippy Bali",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/sneaky-sound-system-summer-residency-every-saturday",
+        "ticketUrl": "https://megatix.co.id/events/sneaky-sound-system-summer-residency-every-saturday",
+        "summary": "Sneaky Sound System return for a Saturday pool-party residency at Mrs Sippy, running through July and August with multiple sessions across the high-season weekend circuit.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
         "id": "bali-buleleng-festival-2026",
         "title": "Buleleng Festival 2026 – Samsara: The Cycle of Titik Mula",
         "type": "festival",
@@ -76,22 +147,6 @@
         "sourceUrl": "https://visitnorthbali.bulelengkab.go.id/uploads/konten/bank-data_calendar-of-event-2026_20260109_113901.pdf",
         "ticketUrl": null,
         "summary": "The Buleleng Regency tourism calendar confirms Buleleng Festival 2026 for August 23–28, describing it as North Bali’s biggest annual event with the theme “Samsara: The Cycle of Titik Mula.”",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
-        "id": "bali-axean-festival-2026",
-        "title": "AXEAN Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-29",
-        "endDate": "2026-08-30",
-        "importance": 86,
-        "venueName": "Jimbaran Hub",
-        "venueId": null,
-        "sourceUrl": "https://www.see.events/other/i/80802394/axean-festival-2026-at-jimbaran-hub-by-see-events-bali",
-        "ticketUrl": null,
-        "summary": "AXEAN Festival is confirmed for August 29–30, 2026 at Jimbaran Hub, bringing two days of live music, culture, and creative exchange focused on Southeast Asian artists and industry connections.",
         "genres": [
           "festival"
         ]

@@ -1,0 +1,524 @@
+{
+  "slug": "berlin",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:54:09.951Z",
+  "responseId": "resp_0a7e2d5d46433384006acdaa8fd68c87d0a001cb987ff6f1ad+resp_02fd89588aa6b9e3006acdab138d1087d080d22913b877687c",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "berlin",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 already has confirmed arena pop, electronic and heavy-music festivals, while many of Berlin’s weekly underground club calendars are still too far out to verify.",
+    "events": [
+      {
+        "id": "berlin-karneval-der-kulturen-2027",
+        "title": "Karneval der Kulturen 2027",
+        "type": "carnival",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-17",
+        "importance": 92,
+        "venueName": "Blücherplatz / Friedrichshain parade route",
+        "venueId": null,
+        "sourceUrl": "https://karneval.berlin/faq/",
+        "ticketUrl": null,
+        "summary": "Berlin’s city-defining multicultural carnival is confirmed for May 14–17, with the street parade on May 16 and a four-day street festival around Blücherplatz featuring music, art and cultural programming.",
+        "genres": [
+          "festival",
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-gracie-abrams-2027",
+        "title": "Gracie Abrams — The Look at My Life Tour",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-13",
+        "importance": 88,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/gracie-abrams/2027-05-12-2000",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/gracie-abrams/2027-05-12-2000",
+        "summary": "Gracie Abrams is confirmed for a two-night Uber Arena run on May 12 and 13 as part of The Look at My Life Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-desertfest-2027",
+        "title": "Desertfest Berlin 2027",
+        "type": "festival",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-16",
+        "importance": 86,
+        "venueName": "Columbiahalle + Columbia Theater",
+        "venueId": null,
+        "sourceUrl": "https://desertfest-tickets.de/catalog/tickets/96646-tickets-desertfest-2027-columbiahalle-columbia-theater-berlin-am-14-05-2027",
+        "ticketUrl": "https://desertfest-tickets.de/catalog/tickets/96646-tickets-desertfest-2027-columbiahalle-columbia-theater-berlin-am-14-05-2027",
+        "summary": "Desertfest Berlin returns to Columbia Venues with a first wave led by Melvins, Hällas, A Place to Bury Strangers, Bongripper, Villagers of Ioannina City and Gnome.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-hilary-duff-lucky-me-2027",
+        "title": "Hilary Duff — The Lucky Me Tour 2027",
+        "type": "concert",
+        "startDate": "2027-05-12",
+        "endDate": "2027-05-12",
+        "importance": 82,
+        "venueName": "Velodrom",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2027-05-12-hilary-duff",
+        "ticketUrl": "https://trinitymusic.de/event/2027-05-12-hilary-duff",
+        "summary": "Hilary Duff plays Velodrom on her first global headline run in nearly two decades, with Rebecca Black confirmed as special guest.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-sombr-you-are-the-reason-2027",
+        "title": "sombr — You Are The Reason Tour",
+        "type": "concert",
+        "startDate": "2027-05-18",
+        "endDate": "2027-05-18",
+        "importance": 82,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/sombr/2027-05-18-1930",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/sombr/2027-05-18-1930",
+        "summary": "sombr brings the You Are The Reason Tour to Uber Arena with special guests Ravyn Lenae and Jessie Mazin.",
+        "genres": [
+          "pop",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "berlin-out-of-line-weekender-2027",
+        "title": "Out Of Line Weekender 2027",
+        "type": "festival",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-08",
+        "importance": 80,
+        "venueName": "Astra Kulturhaus Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.outoflineshop.de/tickets/out-of-line-weekender-2027-06-05-08-05-2027-berlin-weekend-ticket.html",
+        "ticketUrl": "https://www.outoflineshop.de/tickets/out-of-line-weekender-2027-06-05-08-05-2027-berlin-weekend-ticket.html",
+        "summary": "The dark-electronic label festival returns to Astra Kulturhaus with Hocico, Suicide Commando, IST IST, Erdling, SWARM, Zanias, Male Tears, Signal Aout 42 and more confirmed.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-erasure-2027",
+        "title": "Erasure",
+        "type": "concert",
+        "startDate": "2027-05-24",
+        "endDate": "2027-05-24",
+        "importance": 80,
+        "venueName": "Uber Eats Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-eats-music-hall.de/en/events/detail/erasure/",
+        "ticketUrl": "https://www.uber-eats-music-hall.de/en/events/detail/erasure/",
+        "summary": "British synth-pop duo Erasure are confirmed for Uber Eats Music Hall, with the venue listing Andy Bell and Vince Clarke for a May 24 concert.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-loreen-wildfire-2027",
+        "title": "Loreen — The Wildfire Tour",
+        "type": "concert",
+        "startDate": "2027-05-19",
+        "endDate": "2027-05-19",
+        "importance": 79,
+        "venueName": "Astra Kulturhaus",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2027-05-19-loreen",
+        "ticketUrl": "https://trinitymusic.de/event/2027-05-19-loreen",
+        "summary": "Loreen’s Berlin date for The Wildfire Tour is confirmed at Astra Kulturhaus after being rescheduled from October 2026.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-angele-instinct-2027",
+        "title": "Angèle — Instinct Tour",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 78,
+        "venueName": "Metropol",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2027-05-05-angele",
+        "ticketUrl": "https://trinitymusic.de/event/2027-05-05-angele",
+        "summary": "Belgian pop artist Angèle plays Metropol on the Instinct Tour, supporting her third album with a new electronic-leaning live show.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-techno-freitag-arena-2027",
+        "title": "Techno Freitag — Arena Edition",
+        "type": "club-night",
+        "startDate": "2027-05-21",
+        "endDate": "2027-05-21",
+        "importance": 76,
+        "venueName": "Arena Berlin",
+        "venueId": null,
+        "sourceUrl": "https://semmel.de/concert-info/concert-alias/2027-05-21-18-00-veranstaltungen-tickets-techno-freitag-berlin.html",
+        "ticketUrl": "https://semmel.de/concert-info/concert-alias/2027-05-21-18-00-veranstaltungen-tickets-techno-freitag-berlin.html",
+        "summary": "Techno Freitag scales up to Arena Berlin for an 18+ techno party with a 9,000-capacity arena format curated around the HandOfBlood/Hänno community.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-small-great-house-festival-2027",
+        "title": "SMALL GREAT HOUSE FESTIVAL 'Open Air & Indoor +53H Non-Stop' + Special Guests",
+        "type": "festival",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 76,
+        "venueName": "OXI",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2556737",
+        "ticketUrl": "https://ra.co/events/2556737",
+        "summary": "A 53-hour open-air and indoor house/disco weekender from Small Great Things at OXI, positioned around May Day with tickets live and the lineup still TBA.",
+        "genres": [
+          "house",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-lea-sieben-monde-2027",
+        "title": "LEA — Sieben Monde Arena Tour 2027",
+        "type": "concert",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-02",
+        "importance": 75,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/lea/2027-05-02-1900",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/lea/2027-05-02-1900",
+        "summary": "German singer-songwriter LEA brings her Sieben Monde Arena Tour 2027 to Uber Arena, her first live appearance at the venue according to the arena listing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-bcco-future666-2027",
+        "title": "BCCO x future.666",
+        "type": "club-night",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-01",
+        "importance": 73,
+        "venueName": "Haus der Visionäre",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2541063",
+        "ticketUrl": "https://ra.co/events/2541063",
+        "summary": "BCCO brings future.666 for an all-night/all-day May Day session at Haus der Visionäre, with RA tickets live and a long-session techno focus.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-kc-rebell-rebell4live-2027",
+        "title": "KC Rebell — Rebell 4 Live",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 72,
+        "venueName": "Huxleys Neue Welt",
+        "venueId": null,
+        "sourceUrl": "https://trinitymusic.de/event/2027-05-22-kc-rebell",
+        "ticketUrl": "https://trinitymusic.de/event/2027-05-22-kc-rebell",
+        "summary": "German rapper KC Rebell brings the Rebell 4 Live tour to Huxleys Neue Welt, one of seven selected tour shows announced for May 2027.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "berlin-goat-ball-mai-xxl-2027",
+        "title": "GOAT BALL 1ST OF MAI XXL EDITION",
+        "type": "club-night",
+        "startDate": "2027-04-30",
+        "endDate": "2027-05-02",
+        "importance": 68,
+        "venueName": "Lokschuppen Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2552627",
+        "ticketUrl": "https://ra.co/events/2552627",
+        "summary": "GOAT BALL’s XXL May Day edition runs from late Friday into Sunday morning at Lokschuppen Berlin, billed on RA with trance and electronica tags and tickets live.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "berlin-sesh-mai-2027",
+        "title": "1. Mai SESH",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 67,
+        "venueName": "Komplex Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2547554",
+        "ticketUrl": "https://ra.co/events/2547554",
+        "summary": "SESH confirms a May Day club/open-air-length session at Komplex Berlin, running 15:00–07:00 with RA tickets active and lineup still TBA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-onyx-mayday-2027",
+        "title": "ONYX 'MAYDAY'",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 66,
+        "venueName": "DSTRKT Club Berlin",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546063",
+        "ticketUrl": null,
+        "summary": "ONYX’s May Day concept show at DSTRKT Club Berlin advertises a custom light and laser production, with DJ DRECKISCH, AMYGDALA, NYCO, DJ Achim Feuervogel and Eva Charley announced so far.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-luo-night-germany-2027",
+        "title": "LUO NIGHT GERMANY 2027",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-02",
+        "importance": 64,
+        "venueName": "Vicom Festsaal",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/luo-night-germany-2027-tickets-2002708217189",
+        "ticketUrl": "https://www.eventbrite.com/e/luo-night-germany-2027-tickets-2002708217189",
+        "summary": "A 12-hour Kenyan/Luo diaspora night at Vicom Festsaal with DJ Ras Jamaika listed and live/performance elements promised, marketed around African culture, music and nightlife.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "berlin-komische-oper-porgy-bess-2027",
+        "title": "Porgy and Bess — Komische Oper Berlin premiere run",
+        "type": "concert",
+        "startDate": "2027-05-09",
+        "endDate": "2027-05-30",
+        "importance": 86,
+        "venueName": "Schillertheater – Großer Saal",
+        "venueId": null,
+        "sourceUrl": "https://www.komische-oper-berlin.de/en/what/a-z/porgy-and-bess/",
+        "ticketUrl": "https://www.komische-oper-berlin.de/en/what/a-z/porgy-and-bess/",
+        "summary": "Komische Oper Berlin’s new Porgy and Bess production premieres on 9 May and runs through the month at Schillertheater. The George Gershwin work is staged by Barrie Kosky and presented as a co-production with the Royal Danish Opera, Théâtre du Châtelet and Opéra National de Lyon.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "berlin-philharmonic-makela-lim-2027",
+        "title": "Berliner Philharmoniker — Klaus Mäkelä and Yunchan Lim",
+        "type": "concert",
+        "startDate": "2027-05-20",
+        "endDate": "2027-05-22",
+        "importance": 86,
+        "venueName": "Philharmonie Berlin – Main Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57168/",
+        "ticketUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57168/",
+        "summary": "Klaus Mäkelä conducts the Berliner Philharmoniker with Yunchan Lim as piano soloist. The programme includes a German premiere by Thomas Larcher, Rachmaninoff’s Piano Concerto No. 4 and Sibelius’s Symphony No. 7.",
+        "genres": []
+      },
+      {
+        "id": "berlin-philharmonic-hansel-gretel-2027",
+        "title": "Berliner Philharmoniker — Kirill Petrenko conducts Hänsel und Gretel",
+        "type": "concert",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-30",
+        "importance": 86,
+        "venueName": "Philharmonie Berlin – Main Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57170/",
+        "ticketUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57170/",
+        "summary": "Kirill Petrenko conducts the Berliner Philharmoniker in a staged production of Engelbert Humperdinck’s Hänsel und Gretel, featuring Vokalhelden from the orchestra’s education programme.",
+        "genres": []
+      },
+      {
+        "id": "berlin-staatsoper-la-forza-2027",
+        "title": "La forza del destino — Staatsoper Unter den Linden premiere",
+        "type": "concert",
+        "startDate": "2027-05-22",
+        "endDate": "2027-05-22",
+        "importance": 85,
+        "venueName": "Staatsoper Unter den Linden",
+        "venueId": null,
+        "sourceUrl": "https://www.staatsoper-berlin.de/en/spielplan/premieren/",
+        "ticketUrl": "https://www.staatsoper-berlin.de/en/spielplan/premieren/",
+        "summary": "Staatsoper Unter den Linden premieres Verdi’s La forza del destino, conducted by Philippe Jordan and directed by Vasily Barkhatov, with Lise Davidsen, Freddie De Tommaso and Igor Golovatenko listed in the cast.",
+        "genres": []
+      },
+      {
+        "id": "berlin-staatsoper-koenigskinder-2027",
+        "title": "Königskinder — Staatsoper Unter den Linden premiere",
+        "type": "concert",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 84,
+        "venueName": "Staatsoper Unter den Linden",
+        "venueId": null,
+        "sourceUrl": "https://www.staatsoper-berlin.de/en/spielplan/premieren/",
+        "ticketUrl": "https://www.staatsoper-berlin.de/en/spielplan/premieren/",
+        "summary": "Staatsoper Unter den Linden premieres Engelbert Humperdinck’s Königskinder, conducted by Christian Thielemann and directed by David Bösch, with Diana Damrau, Sebastian Kohlhepp and Christian Gerhaher listed in the cast.",
+        "genres": []
+      },
+      {
+        "id": "berlin-yuja-wang-recital-2027",
+        "title": "Yuja Wang — Piano recital",
+        "type": "concert",
+        "startDate": "2027-05-16",
+        "endDate": "2027-05-16",
+        "importance": 84,
+        "venueName": "Philharmonie Berlin – Main Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57164/",
+        "ticketUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57164/",
+        "summary": "Yuja Wang gives a solo piano recital at the invitation of the Berliner Philharmoniker in the Philharmonie’s Main Auditorium; the programme is still to be announced.",
+        "genres": []
+      },
+      {
+        "id": "berlin-philharmonic-sokhiev-bronfman-2027",
+        "title": "Berliner Philharmoniker — Tugan Sokhiev and Yefim Bronfman",
+        "type": "concert",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-15",
+        "importance": 82,
+        "venueName": "Philharmonie Berlin – Main Auditorium",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57162/",
+        "ticketUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57162/",
+        "summary": "Tugan Sokhiev conducts the Berliner Philharmoniker with Yefim Bronfman as piano soloist. The programme includes Britten’s Simple Symphony, Mozart’s Piano Concerto No. 24 and Shostakovich’s Symphony No. 12.",
+        "genres": []
+      },
+      {
+        "id": "berlin-roland-kaiser-arena-2027",
+        "title": "Roland Kaiser — Unser Moment Arena Tour 2027",
+        "type": "concert",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-07",
+        "importance": 78,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/roland-kaiser-2027",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/roland-kaiser-2027",
+        "summary": "Schlager veteran Roland Kaiser plays Uber Arena on 6 and 7 May as part of his Unser Moment Arena Tour 2027, marking his 75th-birthday year.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-staatskapelle-symphoniekonzert-vii-2027",
+        "title": "Staatskapelle Berlin — Symphoniekonzert VII with Philippe Jordan and Sol Gabetta",
+        "type": "concert",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-31",
+        "importance": 78,
+        "venueName": "Staatsoper Unter den Linden / Philharmonie Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.staatskapelle-berlin.de/en/veranstaltungen/symphoniekonzert-vii.27773/",
+        "ticketUrl": "https://www.staatskapelle-berlin.de/en/veranstaltungen/symphoniekonzert-vii.27773/",
+        "summary": "Philippe Jordan conducts Staatskapelle Berlin with cellist Sol Gabetta in a Spanish-themed programme of Rimsky-Korsakov, Lalo and Ravel. The source lists performances on 25 May at Staatsoper Unter den Linden and 31 May at the Philharmonie Berlin.",
+        "genres": []
+      },
+      {
+        "id": "berlin-superbooth-2027",
+        "title": "SUPERBOOTH27",
+        "type": "conference",
+        "startDate": "2027-05-06",
+        "endDate": "2027-05-08",
+        "importance": 78,
+        "venueName": "FEZ-Berlin",
+        "venueId": null,
+        "sourceUrl": "https://www.superbooth.com/en/",
+        "ticketUrl": "https://www.superbooth.com/en/tickets.html",
+        "summary": "Berlin’s flagship synthesizer and electronic-instrument gathering returns to FEZ-Berlin, combining trade-fair/community-meetup energy with electronic music performances, talks, and modular/synth culture programming.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "berlin-thomas-anders-modern-talking-2027",
+        "title": "Thomas Anders sings Modern Talking — The Best Live 2027",
+        "type": "concert",
+        "startDate": "2027-05-16",
+        "endDate": "2027-05-16",
+        "importance": 72,
+        "venueName": "Tempodrom – Große Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/thomas_anders_sings_modern_talking_2027-05-16_20/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/thomas_anders_sings_modern_talking_2027-05-16_20/tickets/",
+        "summary": "Thomas Anders brings Modern Talking hits to Tempodrom’s Große Arena with The Best Live 2027, listed for a 20:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-le-consort-vivaldi-2027",
+        "title": "Le Consort — “Vivaldi e Venezia”",
+        "type": "concert",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-07",
+        "importance": 70,
+        "venueName": "Philharmonie Berlin – Chamber Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57159/",
+        "ticketUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/57159/",
+        "summary": "Le Consort performs an Originalklang programme titled “Vivaldi e Venezia” at the invitation of the Berliner Philharmoniker, with works by Vivaldi, Albinoni, Caldara, Marini, Merula and Bach.",
+        "genres": []
+      },
+      {
+        "id": "berlin-abbamania-thank-you-2027",
+        "title": "ABBAMANIA — 50 Years of Thank You For The Music",
+        "type": "concert",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-14",
+        "importance": 68,
+        "venueName": "Uber Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.uber-arena.de/en/events/detail/abbamania-2027/2027-05-14-1930",
+        "ticketUrl": "https://www.uber-arena.de/en/events/detail/abbamania-2027/2027-05-14-1930",
+        "summary": "ABBAMANIA returns to Uber Arena with a 50 Years of Thank You For The Music show built around ABBA hits, choreography and live pop-spectacle staging.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "berlin-attack-on-titan-symphony-2027",
+        "title": "Attack on Titan — Symphony from Paradis",
+        "type": "concert",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-27",
+        "importance": 66,
+        "venueName": "Tempodrom – Große Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.tempodrom.de/en/event/attack_on_titan_2027-05-27_19/",
+        "ticketUrl": "https://www.tempodrom.de/en/event/attack_on_titan_2027-05-27_19/tickets/",
+        "summary": "Attack on Titan – Symphony from Paradis is an officially licensed orchestral concert featuring symphonic arrangements curated by original composers Hiroyuki Sawano and Kohta Yamamoto, performed with orchestra and choir plus HD projections from the series.",
+        "genres": []
+      }
+    ]
+  }
+}

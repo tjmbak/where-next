@@ -1,0 +1,31 @@
+{
+  "slug": "marrakech",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:33:52.599Z",
+  "responseId": "resp_0b7e8b6204d53207006acda6433a4487d0b3a144291d69910d+resp_046c4a87e2e9ad37006acda66937e087d0b675472703b47082",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marrakech",
+    "month": 3,
+    "year": 2027,
+    "notes": "As of October 2026, the only solid March 2027 music-travel event I could verify in or very near Marrakech is Wilco’s three-night destination run; club and festival calendars have not yet published confirmed March 2027 programming.",
+    "events": [
+      {
+        "id": "marrakech-wilco-in-morocco-2027",
+        "title": "Wilco in Morocco",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-27",
+        "importance": 82,
+        "venueName": "Palm Events Center",
+        "venueId": null,
+        "sourceUrl": "https://wilcoworld.net/tour_date_type/25-27-march-2027-marrakech-morocco/",
+        "ticketUrl": "https://www.tixr.com/groups/pilgrimageofsound/events/wilco-in-morocco-march-25-26-27-2027-180220",
+        "summary": "Wilco perform three unique, no-repeat nights in Marrakech as part of a destination concert experience presented with Pilgrimage of Sound. The official event materials list the run for March 25, 26 and 27, 2027 at Palm Events Center.",
+        "genres": []
+      }
+    ]
+  }
+}

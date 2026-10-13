@@ -2,8 +2,8 @@
   "slug": "las-vegas",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:34:35.426Z",
-  "responseId": "resp_037fe98a91fa16cd0069ff618d98dc81958c914aa288f08fdd",
+  "generatedAt": "2026-05-30T18:17:42.455Z",
+  "responseId": "augment:resp_04b6f2e1c15c7e15006a1b2967b420819ab698766e6b27786c",
   "searchCalls": 19,
   "citations": [],
   "data": {
@@ -29,55 +29,6 @@
         ]
       },
       {
-        "id": "las-vegas-pepe-aguilar-dolby-live-2026",
-        "title": "Pepe Aguilar: En Concierto USA 2026",
-        "type": "concert",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-06",
-        "importance": 80,
-        "venueName": "Dolby Live at Park MGM",
-        "venueId": null,
-        "sourceUrl": "https://parkmgm.mgmresorts.com/en/entertainment/pepe-aguilar.html",
-        "ticketUrl": "https://www.ticketmaster.com/pepe-aguilar-en-concierto-usa-2026-las-vegas-06-06-2026/event/2E0064639E8216C8",
-        "summary": "Pepe Aguilar plays Dolby Live at Park MGM on Saturday, June 6, 2026, as part of his En Concierto USA 2026 run.",
-        "genres": [
-          "latin"
-        ]
-      },
-      {
-        "id": "las-vegas-third-eye-blind-pearl-2026",
-        "title": "Third Eye Blind",
-        "type": "concert",
-        "startDate": "2026-06-06",
-        "endDate": "2026-06-06",
-        "importance": 74,
-        "venueName": "Pearl Concert Theater at Palms Casino Resort",
-        "venueId": null,
-        "sourceUrl": "https://www.palms.com/entertainment/pearl-theater/third-eye-blind",
-        "ticketUrl": "https://www.axs.com/events/1372705/third-eye-blind-tickets",
-        "summary": "Third Eye Blind are confirmed for Pearl Concert Theater at Palms Casino Resort on Saturday, June 6, 2026 at 8 PM.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "las-vegas-michelle-johnson-juneteenth-2026",
-        "title": "Michelle Johnson Presents \"Freedom — A Juneteenth Celebration\"",
-        "type": "concert",
-        "startDate": "2026-06-19",
-        "endDate": "2026-06-19",
-        "importance": 68,
-        "venueName": "Myron's at The Smith Center",
-        "venueId": null,
-        "sourceUrl": "https://thesmithcenter.com/tickets/2526/michelle-johnson-freedom/",
-        "ticketUrl": "https://thesmithcenter.com/tickets/2526/michelle-johnson-freedom/",
-        "summary": "Vocalist Michelle Johnson presents a Juneteenth concert at The Smith Center on June 19, blending spirituals, jazz, Broadway, soul, percussion, dance, and spoken word.",
-        "genres": [
-          "jazz",
-          "r-and-b"
-        ]
-      },
-      {
         "id": "las-vegas-kenny-chesney-sphere-2026",
         "title": "Kenny Chesney at Sphere",
         "type": "residency",
@@ -92,19 +43,19 @@
         "genres": []
       },
       {
-        "id": "las-vegas-chainsmokers-encore-beach-2026",
-        "title": "The Chainsmokers at Encore Beach Club",
-        "type": "beach-club",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 83,
-        "venueName": "Encore Beach Club",
+        "id": "las-vegas-rosalia-lux-tour-2026",
+        "title": "ROSALÍA: LUX TOUR 2026",
+        "type": "concert",
+        "startDate": "2026-06-27",
+        "endDate": "2026-06-27",
+        "importance": 90,
+        "venueName": "T-Mobile Arena",
         "venueId": null,
-        "sourceUrl": "https://www.axs.com/events/1329608",
-        "ticketUrl": "https://www.axs.com/events/1329608",
-        "summary": "The Chainsmokers headline a 21+ daytime pool-club event at Encore Beach Club on Saturday, June 20, 2026 at 11 AM.",
+        "sourceUrl": "https://www.t-mobilearena.com/events/detail/rosalia-lux-tour-2026",
+        "ticketUrl": "https://www.axs.com/events/1226186/rosalia-lux-tour-2026-tickets?hash=2ITXnRwXk8OoJcubD7q_w4Hh9kToqCtOagkyYd0XGWw",
+        "summary": "ROSALÍA brings her LUX TOUR 2026 to T-Mobile Arena on Saturday, June 27, 2026.",
         "genres": [
-          "electronic",
+          "latin",
           "pop"
         ]
       },
@@ -141,40 +92,6 @@
         ]
       },
       {
-        "id": "las-vegas-zedd-omnia-2026",
-        "title": "Zedd at OMNIA Nightclub",
-        "type": "club-night",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-26",
-        "importance": 82,
-        "venueName": "OMNIA Nightclub",
-        "venueId": null,
-        "sourceUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-6-26-2026",
-        "ticketUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-6-26-2026",
-        "summary": "Zedd is confirmed for OMNIA Nightclub on Friday, June 26, 2026, with the event running from 10:30 PM into the early hours of June 27.",
-        "genres": [
-          "electronic",
-          "pop"
-        ]
-      },
-      {
-        "id": "las-vegas-rosalia-lux-tour-2026",
-        "title": "ROSALÍA: LUX TOUR 2026",
-        "type": "concert",
-        "startDate": "2026-06-27",
-        "endDate": "2026-06-27",
-        "importance": 90,
-        "venueName": "T-Mobile Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.t-mobilearena.com/events/detail/rosalia-lux-tour-2026",
-        "ticketUrl": "https://www.axs.com/events/1226186/rosalia-lux-tour-2026-tickets?hash=2ITXnRwXk8OoJcubD7q_w4Hh9kToqCtOagkyYd0XGWw",
-        "summary": "ROSALÍA brings her LUX TOUR 2026 to T-Mobile Arena on Saturday, June 27, 2026.",
-        "genres": [
-          "latin",
-          "pop"
-        ]
-      },
-      {
         "id": "las-vegas-tiesto-palm-tree-2026",
         "title": "Tiësto at Palm Tree Beach Club",
         "type": "beach-club",
@@ -192,6 +109,23 @@
         ]
       },
       {
+        "id": "las-vegas-chainsmokers-encore-beach-2026",
+        "title": "The Chainsmokers at Encore Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 83,
+        "venueName": "Encore Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1329608",
+        "ticketUrl": "https://www.axs.com/events/1329608",
+        "summary": "The Chainsmokers headline a 21+ daytime pool-club event at Encore Beach Club on Saturday, June 20, 2026 at 11 AM.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
         "id": "las-vegas-deadmau5-xs-2026",
         "title": "deadmau5 at XS Nightclub",
         "type": "club-night",
@@ -206,6 +140,191 @@
         "genres": [
           "electronic",
           "house"
+        ]
+      },
+      {
+        "id": "las-vegas-zedd-omnia-2026",
+        "title": "Zedd at OMNIA Nightclub",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-26",
+        "importance": 82,
+        "venueName": "OMNIA Nightclub",
+        "venueId": null,
+        "sourceUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-6-26-2026",
+        "ticketUrl": "https://tickets.taogroup.com/e/omnia-las-vegas-6-26-2026",
+        "summary": "Zedd is confirmed for OMNIA Nightclub on Friday, June 26, 2026, with the event running from 10:30 PM into the early hours of June 27.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-pepe-aguilar-dolby-live-2026",
+        "title": "Pepe Aguilar: En Concierto USA 2026",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 80,
+        "venueName": "Dolby Live at Park MGM",
+        "venueId": null,
+        "sourceUrl": "https://parkmgm.mgmresorts.com/en/entertainment/pepe-aguilar.html",
+        "ticketUrl": "https://www.ticketmaster.com/pepe-aguilar-en-concierto-usa-2026-las-vegas-06-06-2026/event/2E0064639E8216C8",
+        "summary": "Pepe Aguilar plays Dolby Live at Park MGM on Saturday, June 6, 2026, as part of his En Concierto USA 2026 run.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "las-vegas-alan-fitzpatrick-bauhaus-2026",
+        "title": "Alan Fitzpatrick at Bauhaus Vegas Afterhours",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Bauhaus Vegas Afterhours",
+        "venueId": null,
+        "sourceUrl": "https://app.discotech.me/events/38196100-alan-fitzpatrick-at-bauhaus-afterhours",
+        "ticketUrl": "https://posh.vip/",
+        "summary": "UK techno headliner Alan Fitzpatrick takes over Bauhaus Vegas Afterhours, one of downtown’s dedicated house/techno rooms, for a late-night 11 PM–5 AM session.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-bolo-the-pit-2026",
+        "title": "The Pit with BOLO at Zouk Nightclub",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Zouk Nightclub at Resorts World Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://nocovervegas.com/events/the-pit-bolo-zouk-june-5-2026",
+        "ticketUrl": null,
+        "summary": "BOLO brings his branded Latin house/techno party The Pit to Zouk, a larger-format Strip option with rhythmic Latin and tribal house energy.",
+        "genres": [
+          "latin",
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-discopussy-pressure-riordan-2026",
+        "title": "DISCOPUSSY x PRESSURE w/ RIORDAN",
+        "type": "club-night",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Discopussy",
+        "venueId": null,
+        "sourceUrl": "https://www.discopussydtlv.com/",
+        "ticketUrl": "https://www.tixr.com/groups/discopussy/events/discopussy-x-pressure-w-riordan-192026",
+        "summary": "Discopussy teams with PRESSURE for a Riordan-led house/tech-house night in the Fremont East club’s Void Acoustics-powered room.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-third-eye-blind-pearl-2026",
+        "title": "Third Eye Blind",
+        "type": "concert",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-06",
+        "importance": 74,
+        "venueName": "Pearl Concert Theater at Palms Casino Resort",
+        "venueId": null,
+        "sourceUrl": "https://www.palms.com/entertainment/pearl-theater/third-eye-blind",
+        "ticketUrl": "https://www.axs.com/events/1372705/third-eye-blind-tickets",
+        "summary": "Third Eye Blind are confirmed for Pearl Concert Theater at Palms Casino Resort on Saturday, June 6, 2026 at 8 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-meltdown-friction-2026",
+        "title": "Meltdown w/ Friction",
+        "type": "club-night",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "We All Scream",
+        "venueId": null,
+        "sourceUrl": "https://app.discotech.me/events/38180208-meltdown-with-friction-at-we-all-scream",
+        "ticketUrl": "https://www.tixr.com/",
+        "summary": "Meltdown hosts drum-and-bass veteran Friction at We All Scream, giving downtown Las Vegas a bass-focused alternative to Strip EDM programming.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "las-vegas-i-love-rb-party-2026",
+        "title": "I LOVE R&B PARTY - Las Vegas, NV",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "On The Record",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/i-love-rb-party-las-vegas-nv-tickets-1989401100244",
+        "ticketUrl": "https://www.eventbrite.com/e/i-love-rb-party-las-vegas-nv-tickets-1989401100244",
+        "summary": "Concert Crave’s touring I LOVE R&B PARTY lands at On The Record with DJs and MCs centered on 90s, 2000s, and contemporary R&B sing-along dance-floor energy.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "las-vegas-club-90s-2010s-2026",
+        "title": "Club 90s - 2010s Night",
+        "type": "club-night",
+        "startDate": "2026-06-12",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Brooklyn Bowl Las Vegas",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/au/events/1450818/club-90s-2010s-night-tickets",
+        "ticketUrl": "https://www.axs.com/au/events/1450818/club-90s-2010s-night-tickets",
+        "summary": "Touring nostalgia-party brand Club 90s stages a 2010s pop dance night at Brooklyn Bowl Las Vegas, aimed at a sing-along club crowd rather than a seated concert audience.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "las-vegas-michelle-johnson-juneteenth-2026",
+        "title": "Michelle Johnson Presents \"Freedom — A Juneteenth Celebration\"",
+        "type": "concert",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-19",
+        "importance": 68,
+        "venueName": "Myron's at The Smith Center",
+        "venueId": null,
+        "sourceUrl": "https://thesmithcenter.com/tickets/2526/michelle-johnson-freedom/",
+        "ticketUrl": "https://thesmithcenter.com/tickets/2526/michelle-johnson-freedom/",
+        "summary": "Vocalist Michelle Johnson presents a Juneteenth concert at The Smith Center on June 19, blending spirituals, jazz, Broadway, soul, percussion, dance, and spoken word.",
+        "genres": [
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "las-vegas-hip-hop-pool-crawl-2026",
+        "title": "Las Vegas Hip Hop Pool Crawl",
+        "type": "beach-club",
+        "startDate": "2026-06-07",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Las Vegas Strip",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/las-vegas-hip-hop-pool-crawl-tickets-1131352197879",
+        "ticketUrl": "https://www.eventbrite.com/e/las-vegas-hip-hop-pool-crawl-tickets-1131352197879",
+        "summary": "Supreme Club Tours’ recurring hip-hop pool crawl links multiple dayclub stops with party-bus transfer, VIP entry, and a hip-hop-focused pool-party itinerary.",
+        "genres": [
+          "hip-hop"
         ]
       }
     ]

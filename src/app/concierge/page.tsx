@@ -4,6 +4,7 @@ import { ConciergeForm } from "@/components/concierge/ConciergeForm";
 import { getCurrentUser } from "@/lib/supabase/server-auth";
 import { siteUrl } from "@/lib/structured-data";
 import { ogImageUrl } from "@/lib/og";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 
 export const metadata: Metadata = {
   title: "Concierge · plan a single trip end-to-end",
@@ -34,19 +35,7 @@ export default async function ConciergePage() {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
-        <nav className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          <Link href="/" className="transition hover:text-[var(--foreground)]">
-            ← back to map
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-12 sm:px-10">
         <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">concierge · $199</p>

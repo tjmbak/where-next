@@ -1,17 +1,19 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { Plus_Jakarta_Sans, Geist_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { PreviewProvider } from "@/components/preview/PreviewContext";
 import { PreviewSheet } from "@/components/preview/PreviewSheet";
+import { ToastProvider } from "@/components/toast/Toaster";
+import { MobileTabBar } from "@/components/nav/MobileTabBar";
 import "./globals.css";
 
-const sans = Inter({
+const sans = Plus_Jakarta_Sans({
   subsets: ["latin"],
   variable: "--font-sans",
   display: "swap"
 });
 
-const mono = JetBrains_Mono({
+const mono = Geist_Mono({
   subsets: ["latin"],
   variable: "--font-mono",
   display: "swap"
@@ -23,7 +25,7 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   maximumScale: 5,
-  themeColor: "#0a0a0a",
+  themeColor: "#f9f5ee",
   viewportFit: "cover"
 };
 
@@ -51,10 +53,13 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${sans.variable} ${mono.variable}`}>
       <body>
-        <PreviewProvider>
-          {children}
-          <PreviewSheet />
-        </PreviewProvider>
+        <ToastProvider>
+          <PreviewProvider>
+            {children}
+            <PreviewSheet />
+            <MobileTabBar />
+          </PreviewProvider>
+        </ToastProvider>
         <Analytics />
       </body>
     </html>

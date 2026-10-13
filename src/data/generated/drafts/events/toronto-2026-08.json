@@ -2,9 +2,9 @@
   "slug": "toronto",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:31:11.679Z",
-  "responseId": "resp_026ea3557ad3b93a0069ff60aba7908194b955b0801225862d",
-  "searchCalls": 21,
+  "generatedAt": "2026-05-30T18:52:47.476Z",
+  "responseId": "augment:resp_015bbbb299c24c86006a1b31a9ff68819ba6858499cdc968f3",
+  "searchCalls": 8,
   "citations": [],
   "data": {
     "destinationSlug": "toronto",
@@ -12,6 +12,22 @@
     "year": 2026,
     "notes": "August 2026 is unusually strong for Toronto: Carnival weekend and VELD open the month, while Rogers Stadium and Scotiabank Arena carry several major stadium/arena runs later on.",
     "events": [
+      {
+        "id": "toronto-bts-arirang-2026",
+        "title": "BTS WORLD TOUR 'ARIRANG' IN TORONTO",
+        "type": "concert",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-23",
+        "importance": 96,
+        "venueName": "Rogers Stadium",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
+        "ticketUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
+        "summary": "Ticketmaster’s Rogers Stadium schedule lists BTS WORLD TOUR 'ARIRANG' IN TORONTO on Saturday, August 22 and Sunday, August 23, 2026 at 8:00 PM. The two-night stadium run is a global pop flagship for the month.",
+        "genres": [
+          "pop"
+        ]
+      },
       {
         "id": "toronto-caribbean-carnival-grand-parade-2026",
         "title": "Toronto Caribbean Carnival Grand Parade",
@@ -48,37 +64,32 @@
         ]
       },
       {
-        "id": "toronto-carnival-playground-rebel-2026",
-        "title": "Carnival Playground — AYETIAN Live | Toronto Caribana Sunday",
-        "type": "club-night",
-        "startDate": "2026-08-02",
-        "endDate": "2026-08-02",
-        "importance": 72,
-        "venueName": "REBEL",
-        "venueId": "toronto-rebel",
-        "sourceUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
-        "ticketUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
-        "summary": "TicketGateway lists Carnival Playground at REBEL on August 2, 2026, from 3:00 PM to 9:00 PM, with a live performance by AYETIAN. It is positioned as a Caribana Sunday day party at one of Toronto’s largest nightlife venues.",
-        "genres": [
-          "festival",
-          "hip-hop",
-          "latin"
-        ]
-      },
-      {
-        "id": "toronto-daniel-caesar-son-of-spergy-2026",
-        "title": "Daniel Caesar — Son of Spergy Tour",
+        "id": "toronto-rush-fifty-something-2026",
+        "title": "RUSH — Fifty Something",
         "type": "concert",
-        "startDate": "2026-08-02",
-        "endDate": "2026-08-02",
-        "importance": 82,
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-13",
+        "importance": 93,
         "venueName": "Scotiabank Arena",
         "venueId": null,
-        "sourceUrl": "https://www.scotiabankarena.com/events/detail/daniel-caesar-1",
-        "ticketUrl": "https://www.scotiabankarena.com/events/detail/daniel-caesar-1",
-        "summary": "Scotiabank Arena lists Daniel Caesar’s Son of Spergy Tour for Sunday, August 2, 2026 at 7:30 PM. The Toronto R&B artist returns for an arena-scale hometown date.",
+        "sourceUrl": "https://www.ticketmaster.ca/artist/807344?venueId=131157",
+        "ticketUrl": "https://www.ticketmaster.ca/artist/807344?venueId=131157",
+        "summary": "Ticketmaster lists RUSH’s Fifty Something run at Scotiabank Arena on August 7, 9, 11 and 13, 2026. The four-night Toronto arena stand is one of the month’s most significant hometown rock events.",
+        "genres": []
+      },
+      {
+        "id": "toronto-ed-sheeran-loop-tour-2026",
+        "title": "Ed Sheeran — LOOP Tour",
+        "type": "concert",
+        "startDate": "2026-08-20",
+        "endDate": "2026-08-20",
+        "importance": 92,
+        "venueName": "Rogers Centre",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.ca/event/1000632FE9BB4345",
+        "ticketUrl": "https://www.ticketmaster.ca/event/1000632FE9BB4345",
+        "summary": "Ticketmaster lists Ed Sheeran’s LOOP Tour at Rogers Centre on Thursday, August 20, 2026 at 5:30 PM. It is a major stadium date on his 2026 tour routing.",
         "genres": [
-          "r-and-b",
           "pop"
         ]
       },
@@ -94,36 +105,6 @@
         "sourceUrl": "https://www.livenation.com/event/1A8Zku4GkdRzJx6/foo-fighters-take-cover-tour-2026",
         "ticketUrl": "https://www.livenation.com/event/1A8Zku4GkdRzJx6/foo-fighters-take-cover-tour-2026",
         "summary": "Live Nation lists Foo Fighters at Rogers Stadium on Tuesday, August 4, 2026 at 5:30 PM. The bill also includes Queens of the Stone Age and Mannequin Pussy.",
-        "genres": []
-      },
-      {
-        "id": "toronto-guns-n-roses-world-tour-2026",
-        "title": "Guns N’ Roses — World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-08-05",
-        "endDate": "2026-08-05",
-        "importance": 88,
-        "venueName": "Rogers Stadium",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/Guns-N-Roses-tickets/artist/735218?lang=en-ca",
-        "ticketUrl": "https://www.ticketmaster.ca/Guns-N-Roses-tickets/artist/735218?lang=en-ca",
-        "summary": "Ticketmaster lists Guns N’ Roses at Rogers Stadium in Toronto on Wednesday, August 5, 2026 at 6:25 PM. Public Enemy is listed on the Toronto lineup.",
-        "genres": [
-          "hip-hop"
-        ]
-      },
-      {
-        "id": "toronto-rush-fifty-something-2026",
-        "title": "RUSH — Fifty Something",
-        "type": "concert",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-13",
-        "importance": 93,
-        "venueName": "Scotiabank Arena",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/artist/807344?venueId=131157",
-        "ticketUrl": "https://www.ticketmaster.ca/artist/807344?venueId=131157",
-        "summary": "Ticketmaster lists RUSH’s Fifty Something run at Scotiabank Arena on August 7, 9, 11 and 13, 2026. The four-night Toronto arena stand is one of the month’s most significant hometown rock events.",
         "genres": []
       },
       {
@@ -145,19 +126,19 @@
         ]
       },
       {
-        "id": "toronto-ed-sheeran-loop-tour-2026",
-        "title": "Ed Sheeran — LOOP Tour",
+        "id": "toronto-guns-n-roses-world-tour-2026",
+        "title": "Guns N’ Roses — World Tour 2026",
         "type": "concert",
-        "startDate": "2026-08-20",
-        "endDate": "2026-08-20",
-        "importance": 92,
-        "venueName": "Rogers Centre",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 88,
+        "venueName": "Rogers Stadium",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/event/1000632FE9BB4345",
-        "ticketUrl": "https://www.ticketmaster.ca/event/1000632FE9BB4345",
-        "summary": "Ticketmaster lists Ed Sheeran’s LOOP Tour at Rogers Centre on Thursday, August 20, 2026 at 5:30 PM. It is a major stadium date on his 2026 tour routing.",
+        "sourceUrl": "https://www.ticketmaster.ca/Guns-N-Roses-tickets/artist/735218?lang=en-ca",
+        "ticketUrl": "https://www.ticketmaster.ca/Guns-N-Roses-tickets/artist/735218?lang=en-ca",
+        "summary": "Ticketmaster lists Guns N’ Roses at Rogers Stadium in Toronto on Wednesday, August 5, 2026 at 6:25 PM. Public Enemy is listed on the Toronto lineup.",
         "genres": [
-          "pop"
+          "hip-hop"
         ]
       },
       {
@@ -179,19 +160,53 @@
         ]
       },
       {
-        "id": "toronto-bts-arirang-2026",
-        "title": "BTS WORLD TOUR 'ARIRANG' IN TORONTO",
+        "id": "toronto-carnival-playground-2026",
+        "title": "Carnival Playground — AYETIAN Live",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "REBEL Toronto",
+        "venueId": "toronto-rebel",
+        "sourceUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
+        "summary": "A major Caribana Sunday blocko/day party at REBEL with a live AYETIAN performance, billed as a yearly sell-out indoor/outdoor Carnival event.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-daniel-caesar-son-of-spergy-2026",
+        "title": "Daniel Caesar — Son of Spergy Tour",
         "type": "concert",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 82,
+        "venueName": "Scotiabank Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.scotiabankarena.com/events/detail/daniel-caesar-1",
+        "ticketUrl": "https://www.scotiabankarena.com/events/detail/daniel-caesar-1",
+        "summary": "Scotiabank Arena lists Daniel Caesar’s Son of Spergy Tour for Sunday, August 2, 2026 at 7:30 PM. The Toronto R&B artist returns for an arena-scale hometown date.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "toronto-afro-carib-fest-2026",
+        "title": "Afro-Carib Fest 2026",
+        "type": "festival",
         "startDate": "2026-08-22",
         "endDate": "2026-08-23",
-        "importance": 96,
-        "venueName": "Rogers Stadium",
+        "importance": 82,
+        "venueName": "Thomson Memorial Park",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
-        "ticketUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
-        "summary": "Ticketmaster’s Rogers Stadium schedule lists BTS WORLD TOUR 'ARIRANG' IN TORONTO on Saturday, August 22 and Sunday, August 23, 2026 at 8:00 PM. The two-night stadium run is a global pop flagship for the month.",
+        "sourceUrl": "https://afrocaribfestival.com/",
+        "ticketUrl": null,
+        "summary": "The 15th annual Afro-Carib Fest returns to Scarborough with a large free weekend of African and Caribbean culture, live performances, DJs, dance, food, and community programming.",
         "genres": [
-          "pop"
+          "festival"
         ]
       },
       {
@@ -210,6 +225,125 @@
           "hip-hop",
           "r-and-b",
           "festival"
+        ]
+      },
+      {
+        "id": "toronto-afrofest-2026",
+        "title": "AFROFEST 2026",
+        "type": "festival",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-16",
+        "importance": 80,
+        "venueName": "Woodbine Park",
+        "venueId": null,
+        "sourceUrl": "https://www.afrofest.ca/",
+        "ticketUrl": null,
+        "summary": "Toronto’s long-running African music and culture festival returns to Woodbine Park for an August weekend, anchoring the city’s African-diaspora live-music calendar.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-rhythm-open-air-minimal-tech-house-2026",
+        "title": "Rhythm Open Air: Minimal & Tech House",
+        "type": "club-night",
+        "startDate": "2026-08-29",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "131 McCormack St",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2426044",
+        "ticketUrl": "https://ra.co/events/2426044",
+        "summary": "Rhythm’s summer open-air series closes with a minimal and tech-house edition at 131 McCormack St, part of a new independent outdoor dance-music platform for Toronto.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-caribana-boat-party-2026",
+        "title": "Caribana Boat Party Toronto 2026",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "River Gambler",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/caribana-boat-party-toronto-2026-tickets-starting-at-25-official-party-tickets-1988236823862",
+        "ticketUrl": "https://www.eventbrite.com/e/caribana-boat-party-toronto-2026-tickets-starting-at-25-official-party-tickets-1988236823862",
+        "summary": "A 500+ guest Caribana harbour cruise with rooftop dancing and DJs playing Soca, Dancehall, Afrobeats, Hip Hop, Reggaeton, and throwbacks.",
+        "genres": [
+          "hip-hop",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-volen-sentir-sunset-rooftop-2026",
+        "title": "Volen Sentir: Sunset Rooftop Party",
+        "type": "club-night",
+        "startDate": "2026-08-20",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Open Aera",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415159",
+        "ticketUrl": "https://ra.co/events/2415159",
+        "summary": "Plainsight.Live brings Volen Sentir to Open Aera for a sunset rooftop session of deep, atmospheric house, supported by Jonathan Rosa and R8YZ.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-stamped-caribana-2026",
+        "title": "STAMPED: AYA x Friends — Toronto Caribana Edition",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Lavelle",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/stamped-aya-x-friends-toronto-caribana-ed-afrobeats-amapiano-more-tickets-1987480158656",
+        "ticketUrl": "https://www.eventbrite.com/e/stamped-aya-x-friends-toronto-caribana-ed-afrobeats-amapiano-more-tickets-1987480158656",
+        "summary": "MANLIKEAYA brings the STAMPED party back to Toronto for a Caribana day party focused on Afrobeats, Amapiano, and continental African sounds at Lavelle.",
+        "genres": [
+          "amapiano",
+          "festival"
+        ]
+      },
+      {
+        "id": "toronto-luttrell-summer-love-2026",
+        "title": "Eric Luttrell: Summer of Love Tour",
+        "type": "club-night",
+        "startDate": "2026-08-15",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Open Aera",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2441617",
+        "ticketUrl": "https://ra.co/events/2441617",
+        "summary": "Anjunadeep staple Luttrell returns to Toronto for a daytime progressive/deep-house event at Open Aera as part of the Summer of Love Tour.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "toronto-carnival-playground-rebel-2026",
+        "title": "Carnival Playground — AYETIAN Live | Toronto Caribana Sunday",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": "2026-08-02",
+        "importance": 72,
+        "venueName": "REBEL",
+        "venueId": "toronto-rebel",
+        "sourceUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/carnivalplayground2026",
+        "summary": "TicketGateway lists Carnival Playground at REBEL on August 2, 2026, from 3:00 PM to 9:00 PM, with a live performance by AYETIAN. It is positioned as a Caribana Sunday day party at one of Toronto’s largest nightlife venues.",
+        "genres": [
+          "festival",
+          "hip-hop",
+          "latin"
         ]
       }
     ]

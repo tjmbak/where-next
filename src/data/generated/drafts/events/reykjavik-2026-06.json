@@ -2,9 +2,9 @@
   "slug": "reykjavik",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-10T00:51:10.239Z",
-  "responseId": "resp_0a770ae8e2a73edc0069ffd607887481a28106f50858faf199",
-  "searchCalls": 18,
+  "generatedAt": "2026-05-30T18:41:11.799Z",
+  "responseId": "augment:resp_026a0b10b2c36dbf006a1b2ede91f4819895ea982df619a579",
+  "searchCalls": 14,
   "citations": [],
   "data": {
     "destinationSlug": "reykjavik",
@@ -29,22 +29,6 @@
         ]
       },
       {
-        "id": "reykjavik-fischersund-scent-music-2026",
-        "title": "Fischersund: A Night of Scent & Music",
-        "type": "concert",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-05",
-        "importance": 82,
-        "venueName": "Austurbæjarbíó",
-        "venueId": null,
-        "sourceUrl": "https://www.listahatid.is/en/vidburdir/ilmtonleikar-fischersund",
-        "ticketUrl": null,
-        "summary": "Fischersund brings its scented-concert concept to Reykjavík with Jónsi, Sin Fang and Kjartan Holm performing compositions tied to the house’s fragrances, with video works by Ingibjörg Birgisdóttir.",
-        "genres": [
-          "electronic"
-        ]
-      },
-      {
         "id": "reykjavik-hildur-where-to-from-2026",
         "title": "Hildur Guðnadóttir – Where to From",
         "type": "concert",
@@ -61,18 +45,153 @@
         ]
       },
       {
-        "id": "reykjavik-viibra-venutian-wetland-2026",
-        "title": "viibra: Venutian Wetland",
+        "id": "reykjavik-john-grant-2026",
+        "title": "John Grant",
         "type": "concert",
-        "startDate": "2026-06-08",
-        "endDate": "2026-06-08",
-        "importance": 70,
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-13",
+        "importance": 86,
         "venueName": "Harpa Concert Hall",
         "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/21266",
+        "sourceUrl": "https://www.harpa.is/en/events/20921",
         "ticketUrl": null,
-        "summary": "The flute septet viibra performs Venutian Wetland, a new sound-and-movement work by Bergrún Snæbjörnsdóttir and choreographer Margrét Bjarnadóttir, as part of Reykjavík Arts Festival.",
+        "summary": "Reykjavík Arts Festival presents John Grant at Harpa’s Eldborg, billed as his first major concert in Iceland in many years.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-angel-blue-2026",
+        "title": "Reykjavík Arts Festival: Angel Blue",
+        "type": "concert",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 84,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/20809",
+        "ticketUrl": null,
+        "summary": "American soprano Angel Blue performs with pianist Bryan Wagorn on the closing day of Reykjavík Arts Festival, with a program spanning Fauré, Debussy, Strauss, Gershwin and African American spirituals.",
         "genres": []
+      },
+      {
+        "id": "reykjavik-fischersund-scent-music-2026",
+        "title": "Fischersund: A Night of Scent & Music",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-05",
+        "importance": 82,
+        "venueName": "Austurbæjarbíó",
+        "venueId": null,
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/ilmtonleikar-fischersund",
+        "ticketUrl": null,
+        "summary": "Fischersund brings its scented-concert concept to Reykjavík with Jónsi, Sin Fang and Kjartan Holm performing compositions tied to the house’s fragrances, with video works by Ingibjörg Birgisdóttir.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-katie-melua-2026",
+        "title": "Katie Melua",
+        "type": "concert",
+        "startDate": "2026-06-25",
+        "endDate": "2026-06-25",
+        "importance": 82,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/20821",
+        "ticketUrl": null,
+        "summary": "Katie Melua performs at Harpa’s Eldborg with her group, in a concert advertised as featuring her best-known songs.",
+        "genres": [
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "reykjavik-10cc-2026",
+        "title": "10cc",
+        "type": "concert",
+        "startDate": "2026-06-23",
+        "endDate": "2026-06-23",
+        "importance": 80,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21132",
+        "ticketUrl": null,
+        "summary": "10cc, led by founding member Graham Gouldman with the current touring band, performs at Harpa’s Eldborg with a set built around the group’s classic pop catalogue.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-volume-io-adrianna-cranz-2026",
+        "title": "Volume x I/0 present: Adrianna, Cranz",
+        "type": "club-night",
+        "startDate": "2026-06-16",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Útópía",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21610/volume-x-i-0-present-adrianna-cranz",
+        "ticketUrl": "https://tix.is/en/event/21610/volume-x-i-0-present-adrianna-cranz",
+        "summary": "Independence Day eve club night across three stages of techno, house and drum & bass, pairing international guests Adrianna and Cranz with a large local Reykjavík lineup including a:wide, Balatron, Samwise, Tomashevsky and Young G&T.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-la-poblana-fest-2026",
+        "title": "La Poblana Fest 5th Anniversary",
+        "type": "festival",
+        "startDate": "2026-06-06",
+        "endDate": "2026-06-07",
+        "importance": 76,
+        "venueName": "Bíó Paradís",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21584/la-poblana-fest-5th-anniversary",
+        "ticketUrl": "https://tix.is/en/event/21584/la-poblana-fest-5th-anniversary",
+        "summary": "La Poblana’s fifth-anniversary night with Kumbiavik Collective brings live cumbia, sonidero culture, tropical vinyl energy and Afro-Latin/global club selections from La Dimensión, Sonido Fin and Suma Phayiri B2B La Contra.",
+        "genres": [
+          "latin",
+          "festival",
+          "electronic"
+        ]
+      },
+      {
+        "id": "reykjavik-stefan-hilmarsson-2026",
+        "title": "Stefán Hilmarsson – 26.06.26",
+        "type": "concert",
+        "startDate": "2026-06-26",
+        "endDate": "2026-06-27",
+        "importance": 75,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/en/events/21078",
+        "ticketUrl": null,
+        "summary": "Icelandic singer Stefán Hilmarsson marks a major birthday and a forty-year career milestone with two Eldborg concerts featuring a full band, brass section and special guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-arts-festival-closing-party-2026",
+        "title": "Reykjavík Arts Festival Closing Party",
+        "type": "club-night",
+        "startDate": "2026-06-14",
+        "endDate": "2026-06-14",
+        "importance": 74,
+        "venueName": "Iðnó",
+        "venueId": null,
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/lokaparty",
+        "ticketUrl": null,
+        "summary": "The festival hub closes with DJ Choconilla and dj Lui playing African-inspired selections including amapiano, afrobeat and pop, followed by DJ 101 Savage with live visuals.",
+        "genres": [
+          "amapiano",
+          "pop"
+        ]
       },
       {
         "id": "reykjavik-love-love-2026",
@@ -105,100 +224,117 @@
         "genres": []
       },
       {
-        "id": "reykjavik-john-grant-2026",
-        "title": "John Grant",
-        "type": "concert",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-13",
-        "importance": 86,
-        "venueName": "Harpa Concert Hall",
-        "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/20921",
-        "ticketUrl": null,
-        "summary": "Reykjavík Arts Festival presents John Grant at Harpa’s Eldborg, billed as his first major concert in Iceland in many years.",
-        "genres": [
-          "pop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "reykjavik-arts-festival-closing-party-2026",
-        "title": "Reykjavík Arts Festival Closing Party",
+        "id": "reykjavik-bed-by-10pm-2026",
+        "title": "Bed By 10pm Is Coming To Reykjavik!",
         "type": "club-night",
-        "startDate": "2026-06-14",
-        "endDate": "2026-06-14",
-        "importance": 74,
-        "venueName": "Iðnó",
+        "startDate": "2026-06-27",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Gamla Bíó",
         "venueId": null,
-        "sourceUrl": "https://www.listahatid.is/en/vidburdir/lokaparty",
-        "ticketUrl": null,
-        "summary": "The festival hub closes with DJ Choconilla and dj Lui playing African-inspired selections including amapiano, afrobeat and pop, followed by DJ 101 Savage with live visuals.",
+        "sourceUrl": "https://likeit-loveit.com/us/events/bed-by-10pm-gamla-bio-333/bed-by-10pm-is-coming-to-reykjavik-365556282/",
+        "ticketUrl": "https://fixr.co/event/bed-by-10pm-is-coming-to-reykjavik-tickets-365556282?lang=en-US",
+        "summary": "Touring early-evening 30+ club brand brings its resident-DJ party format to Gamla Bíó, built around 80s, 90s and early-2000s club classics, visuals, confetti and dancefloor nostalgia.",
         "genres": [
-          "amapiano",
+          "electronic",
           "pop"
         ]
       },
       {
-        "id": "reykjavik-angel-blue-2026",
-        "title": "Reykjavík Arts Festival: Angel Blue",
+        "id": "reykjavik-viibra-venutian-wetland-2026",
+        "title": "viibra: Venutian Wetland",
         "type": "concert",
-        "startDate": "2026-06-14",
-        "endDate": "2026-06-14",
-        "importance": 84,
+        "startDate": "2026-06-08",
+        "endDate": "2026-06-08",
+        "importance": 70,
         "venueName": "Harpa Concert Hall",
         "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/20809",
+        "sourceUrl": "https://www.harpa.is/en/events/21266",
         "ticketUrl": null,
-        "summary": "American soprano Angel Blue performs with pianist Bryan Wagorn on the closing day of Reykjavík Arts Festival, with a program spanning Fauré, Debussy, Strauss, Gershwin and African American spirituals.",
+        "summary": "The flute septet viibra performs Venutian Wetland, a new sound-and-movement work by Bergrún Snæbjörnsdóttir and choreographer Margrét Bjarnadóttir, as part of Reykjavík Arts Festival.",
         "genres": []
       },
       {
-        "id": "reykjavik-10cc-2026",
-        "title": "10cc",
+        "id": "reykjavik-mikael-mani-trio-2026",
+        "title": "Mikael Máni Trio feat. Henrik Linder & Magnús T. Elíassen",
         "type": "concert",
-        "startDate": "2026-06-23",
-        "endDate": "2026-06-23",
-        "importance": 80,
-        "venueName": "Harpa Concert Hall",
-        "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/21132",
-        "ticketUrl": null,
-        "summary": "10cc, led by founding member Graham Gouldman with the current touring band, performs at Harpa’s Eldborg with a set built around the group’s classic pop catalogue.",
+        "startDate": "2026-06-07",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Lemmy",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/event/21684/mikael-mani-trio-feat-henrik-linder-magnus-t-eliassen",
+        "ticketUrl": "https://tix.is/event/21684/mikael-mani-trio-feat-henrik-linder-magnus-t-eliassen",
+        "summary": "A compact jazz-scene date for guitarist Mikael Máni’s Half Sun tour, featuring Dirty Loops bassist Henrik Linder and drummer Magnús Trygvason Elíassen of ADHD/Moses Hightower.",
         "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "reykjavik-katie-melua-2026",
-        "title": "Katie Melua",
-        "type": "concert",
-        "startDate": "2026-06-25",
-        "endDate": "2026-06-25",
-        "importance": 82,
-        "venueName": "Harpa Concert Hall",
-        "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/20821",
-        "ticketUrl": null,
-        "summary": "Katie Melua performs at Harpa’s Eldborg with her group, in a concert advertised as featuring her best-known songs.",
-        "genres": [
-          "pop",
           "jazz"
         ]
       },
       {
-        "id": "reykjavik-stefan-hilmarsson-2026",
-        "title": "Stefán Hilmarsson – 26.06.26",
+        "id": "reykjavik-popera-dj-set-2026",
+        "title": "POPera + Diana Burkot DJ Set",
         "type": "concert",
-        "startDate": "2026-06-26",
-        "endDate": "2026-06-27",
-        "importance": 75,
-        "venueName": "Harpa Concert Hall",
-        "venueId": "harpa-reykjavik",
-        "sourceUrl": "https://www.harpa.is/en/events/21078",
+        "startDate": "2026-06-07",
+        "endDate": null,
+        "importance": 67,
+        "venueName": "IÐNÓ",
+        "venueId": null,
+        "sourceUrl": "https://www.listahatid.is/en/vidburdir/popera",
         "ticketUrl": null,
-        "summary": "Icelandic singer Stefán Hilmarsson marks a major birthday and a forty-year career milestone with two Eldborg concerts featuring a full band, brass section and special guests.",
+        "summary": "Free Reykjavík Arts Festival performance described as club-kid culture meeting classical instrumentation, with producer/DJ Diana Burkot and performer Michael Richardt, followed by Burkot’s Rosemary Loves a Blackberry DJ set.",
+        "genres": [
+          "pop",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "reykjavik-oyama-superserious-spacestation-2026",
+        "title": "OYAMA x SUPERSERIOUS x SPACESTATION í Tónabíó",
+        "type": "concert",
+        "startDate": "2026-06-05",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Tónabíó",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/21566/oyama-x-superserious-x-spacestation-i-tonabio",
+        "ticketUrl": "https://tix.is/en/event/21566/oyama-x-superserious-x-spacestation-i-tonabio",
+        "summary": "Three-act local Reykjavík indie/shoegaze and indie-pop bill at Tónabíó, bringing together OYAMA, SUPERSERIOUS and SPACESTATION for a non-arena snapshot of the city’s guitar-pop scene.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "reykjavik-world-music-harpa-2026",
+        "title": "Heimstónlistarhátíð fjölskyldunnar í Hörpu / Family World Music Festival at Harpa",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Harpa Concert Hall",
+        "venueId": "harpa-reykjavik",
+        "sourceUrl": "https://www.harpa.is/dagskra",
+        "ticketUrl": null,
+        "summary": "Daytime world-music festival at Harpa with participatory music and culture from regions including West Africa, East Asia, Central and Eastern Europe, and Central and South America, designed as a free-flowing diversity-focused gathering.",
+        "genres": [
+          "festival",
+          "latin"
+        ]
+      },
+      {
+        "id": "reykjavik-bond-jazz-bond-2026",
+        "title": "Bond. Jazz Bond.",
+        "type": "concert",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 62,
+        "venueName": "Tjarnarbíó",
+        "venueId": null,
+        "sourceUrl": "https://tix.is/en/event/20986/bond-jazz-bond",
+        "ticketUrl": "https://tix.is/en/event/20986/bond-jazz-bond",
+        "summary": "Rannveig Káradóttir fronts a sextet of Icelandic jazz players in jazz and funk arrangements of James Bond themes, arranged by Peter Aisher and staged downtown at Tjarnarbíó.",
+        "genres": [
+          "jazz"
         ]
       }
     ]

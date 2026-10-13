@@ -1,0 +1,306 @@
+{
+  "slug": "port-of-spain",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:11:33.617Z",
+  "responseId": "resp_042de55cae974b23006acda0c2000487d08286cb9382ace513+resp_0c8901c4927deb3d006acda11e023887d086bde55f536e7937",
+  "searchCalls": 27,
+  "citations": [],
+  "data": {
+    "destinationSlug": "port-of-spain",
+    "month": 1,
+    "year": 2027,
+    "notes": "January is confirmed as Port of Spain’s pre-Carnival build-up, with soca fetes, boat rides, J’ouvert-style parties and Panorama steelpan events leading into Carnival week.",
+    "events": [
+      {
+        "id": "port-of-spain-panorama-semis-2027",
+        "title": "Savannah Party - Medium & Large Conventional Band Semi-Finals: National Panorama 2027",
+        "type": "festival",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-24",
+        "importance": 90,
+        "venueName": "Grand & North Stands, Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/savannahparty2027",
+        "ticketUrl": "https://islandetickets.com/event/savannahparty2027",
+        "summary": "Pan Trinbago presents the National Panorama 2027 Medium & Large Conventional Band Semi-Finals at Queen’s Park Savannah, one of the core steelpan events of the Carnival build-up.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-panorama-medium-finals-2027",
+        "title": "Medium Conventional Band FINALS - National Panorama 2027",
+        "type": "festival",
+        "startDate": "2027-01-31",
+        "endDate": "2027-01-31",
+        "importance": 88,
+        "venueName": "Grand & North Stands, Queen’s Park Savannah",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/mediumfinals2027",
+        "ticketUrl": "https://islandetickets.com/event/mediumfinals2027",
+        "summary": "Pan Trinbago’s National Panorama 2027 Medium Conventional Band Finals are confirmed for Queen’s Park Savannah on January 31.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-soaka-till-sunrise-2027",
+        "title": "Soaka Till Sunrise",
+        "type": "festival",
+        "startDate": "2027-01-17",
+        "endDate": "2027-01-17",
+        "importance": 86,
+        "venueName": "O2 Park",
+        "venueId": null,
+        "sourceUrl": "https://www.travelhaeven.com/events/soaka-arts-music-fest",
+        "ticketUrl": "https://www.travelhaeven.com/events/soaka-arts-music-fest",
+        "summary": "Soaka Till Sunrise is listed as the signature Soaka weekend paint-and-powder fete, running 3:00 AM to 10:00 AM at O2 Park.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-iron-park-2027",
+        "title": "Iron Park - Trinidad Big Soaka Weekend",
+        "type": "festival",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-16",
+        "importance": 84,
+        "venueName": "Fatima Grounds",
+        "venueId": null,
+        "sourceUrl": "https://www.travelhaeven.com/events/soaka-arts-music-fest",
+        "ticketUrl": "https://www.travelhaeven.com/events/soaka-arts-music-fest",
+        "summary": "Part of the Soaka Arts & Music Festival weekend, Iron Park is billed around steelband clashes, rhythm sections, DJs and soca at Fatima Grounds.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-soka-in-moka-2027",
+        "title": "Soka in Moka 2027: Enchanted",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-03",
+        "importance": 80,
+        "venueName": "Trinity College, Moka",
+        "venueId": null,
+        "sourceUrl": "https://next.trinijunglejuice.com/events/soka-in-moka-2027-enchanted",
+        "ticketUrl": null,
+        "summary": "Soka in Moka returns as an all-inclusive Carnival fete at Trinity College, Moka, with food, drinks and non-stop entertainment listed for the evening.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-feteyard-2027",
+        "title": "FETEYARD 2027",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-23",
+        "importance": 80,
+        "venueName": "TBD",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/FETEYARD2027",
+        "ticketUrl": "https://islandetickets.com/event/FETEYARD2027",
+        "summary": "The Lost Tribe’s fifth Fete Yard edition continues its annual cooler-party concept celebrating Carnival culture through masquerade themes and a larger year-five buildout.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-1st-jam-2027",
+        "title": "1ST JAM 2027",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 78,
+        "venueName": "Port-of-Spain",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/1ST-JAM-2027",
+        "ticketUrl": "https://islandetickets.com/event/1ST-JAM-2027",
+        "summary": "SCORCH opens the Carnival-season party calendar with a Port-of-Spain DJ/truck-focused fete billed as “the first movement of the season.”",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-phoenix-festival-2027",
+        "title": "Phoenix the Festival 2027",
+        "type": "festival",
+        "startDate": "2027-01-09",
+        "endDate": "2027-01-10",
+        "importance": 78,
+        "venueName": "Holy Name Convent, Queen's Park East",
+        "venueId": null,
+        "sourceUrl": "https://next.trinijunglejuice.com/events/phoenix-the-festival-2027",
+        "ticketUrl": null,
+        "summary": "Phoenix marks its 9th year as a food-inclusive cooler experience in support of Holy Name Convent, with a Soca-artiste lineup and Carnival-party format announced.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-eday-2027",
+        "title": "EDAY",
+        "type": "concert",
+        "startDate": "2027-01-31",
+        "endDate": "2027-02-01",
+        "importance": 78,
+        "venueName": "Port Of Spain",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/EDAY2027",
+        "ticketUrl": "https://islandetickets.com/event/EDAY2027",
+        "summary": "Erphaan Alves Live lists EDAY as a Port of Spain Carnival-season event running from the evening of January 31 into February 1.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-soca-nrg-final-2027",
+        "title": "SOCA NRG International Final: Trinidad 2027",
+        "type": "festival",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-31",
+        "importance": 78,
+        "venueName": "Venue announced closer to the date",
+        "venueId": null,
+        "sourceUrl": "https://socanrgfest.com/events",
+        "ticketUrl": "https://socanrgfest.com/tickets",
+        "summary": "A three-day international soca dance championship and Caribbean dance-fitness festival weekend bringing qualified dancers from the Caribbean, USA, Canada, UK, Europe, and beyond to Trinidad & Tobago.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-rum-and-music-ddi-2027",
+        "title": "Rum and Music | Cruizin Down D Islands 27",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Trinidad and Tobago",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/ddi2027",
+        "ticketUrl": "https://islandetickets.com/event/ddi2027",
+        "summary": "Rum and Music’s pre-Carnival DDI cruise advertises two boats, an island stop, local and international DJs, and cooler-fete energy on the water.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-fete-gala-v-2027",
+        "title": "FETE GALA V ALL INCLUSIVE",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-24",
+        "importance": 75,
+        "venueName": "Queen's Park Oval",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/FETEGALAVALLINCLUSIVE",
+        "ticketUrl": "https://islandetickets.com/event/FETEGALAVALLINCLUSIVE",
+        "summary": "Life Events celebrates five years of Fete Gala with an all-inclusive Carnival-season fete at Queen’s Park Oval.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-rise-nasty-jouvert-2027",
+        "title": "RISE - Nasty Jouvert",
+        "type": "carnival",
+        "startDate": "2027-01-31",
+        "endDate": "2027-01-31",
+        "importance": 75,
+        "venueName": "O2 Park Westside Chaguaramas",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/RiseNasty",
+        "ticketUrl": "https://islandetickets.com/event/RiseNasty",
+        "summary": "Chill Out Events’ RISE - Nasty Jouvert is confirmed for O2 Park with paint, powder, water and foam; the organizer lists soca, jab, bouyon and dancehall as the soundtrack.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-trini-soca-cruise-2027",
+        "title": "TRINI SOCA CRUISE",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 72,
+        "venueName": "Harbour Master, Cocorite",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/Trini-Soca-Cruise-2027",
+        "ticketUrl": "https://islandetickets.com/event/Trini-Soca-Cruise-2027",
+        "summary": "VEE TEAM PROMOTIONS, CARNIVAL MAN, 868 ENTERTAINMENT and IZSO PROMOTIONS present a Saturday afternoon soca cruise from Harbour Master in Cocorite.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-french-toast-breakfast-2027",
+        "title": "French Toast Breakfast Experience: Tribal Oasis",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Queen’s Hall, Port of Spain",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/Frenchtoast27",
+        "ticketUrl": "https://islandetickets.com/event/Frenchtoast27",
+        "summary": "House of Siete’s breakfast fete positions itself as an official early-season Carnival breakfast experience, with heritage, food, rhythm, and morning party energy at Queen’s Hall.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-ciao-hello-carnival-2027",
+        "title": "CIAO - Hello Carnival Bikini Breakfast Cooler Cruise",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-03",
+        "importance": 70,
+        "venueName": "Harbour Master, Cocorite",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/ciao27",
+        "ticketUrl": "https://islandetickets.com/event/ciao27",
+        "summary": "Darren Hart & friends present a Carnival breakfast cooler cruise from Harbour Master in Cocorite, with DJs and a 10:00 AM sail time listed by the organizer.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-lava-on-water-2027",
+        "title": "LAVA ON WATER",
+        "type": "club-night",
+        "startDate": "2027-01-31",
+        "endDate": "2027-01-31",
+        "importance": 70,
+        "venueName": "Harbour Master",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/httpsislandeticketscomevent280878",
+        "ticketUrl": "https://islandetickets.com/event/httpsislandeticketscomevent280878",
+        "summary": "Lava Brands & Entertainment presents Lava On Water - 2 Wild, an animal-print themed Carnival boat party on Harbour Master.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "port-of-spain-boozebacchanal-first-jam-2027",
+        "title": "Booze&Bacchanal FIRST JAM",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Harbour Master",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/boozebacchanal-first-jam-tickets-1997802632453",
+        "ticketUrl": "https://www.eventbrite.com/e/boozebacchanal-first-jam-tickets-1997802632453",
+        "summary": "Carnival Plug’s four-hour Harbour Master cooler cruise brands itself as a legendary Booze&Bacchanal January Jam with nonstop music, drinks, and boat-party energy.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

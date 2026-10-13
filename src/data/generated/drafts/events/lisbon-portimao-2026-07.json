@@ -2,8 +2,8 @@
   "slug": "lisbon-portimao",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:47:46.587Z",
-  "responseId": "resp_0e87e24e8aacb74f0069ff56b70078819dbadb2470ac4b886d",
+  "generatedAt": "2026-05-30T18:20:57.095Z",
+  "responseId": "augment:resp_0a6c2c728b752057006a1b29f65ec8819a87bb6076c83f660d",
   "searchCalls": 14,
   "citations": [],
   "data": {
@@ -31,52 +31,20 @@
         ]
       },
       {
-        "id": "lisbon-portimao-lisb-on-jardim-sonoro-2026",
-        "title": "LISB-ON #Jardim Sonoro 2026",
+        "id": "lisbon-portimao-nos-alive-2026",
+        "title": "NOS Alive 2026",
         "type": "festival",
-        "startDate": "2026-07-03",
-        "endDate": "2026-07-04",
-        "importance": 85,
-        "venueName": "Jardim Keil do Amaral",
+        "startDate": "2026-07-09",
+        "endDate": "2026-07-11",
+        "importance": 96,
+        "venueName": "Passeio Marítimo de Algés",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2292304",
-        "ticketUrl": "https://ra.co/events/2292304",
-        "summary": "Resident Advisor lists LISB-ON 2026 at Jardim Keil do Amaral with programming across 3 and 4 July. Confirmed names include CamelPhat, Rødhåd b2b MARRØN, Adam Ten, Kölsch, Ben Sims, Folamour, Sven Väth, Kerri Chandler, BASHKKA and Anfisa Letyago.",
+        "sourceUrl": "https://nosalive.com/en/",
+        "ticketUrl": "https://nosalive.com/en/",
+        "summary": "NOS Alive 2026 is confirmed for 9, 10 and 11 July in Algés, just outside Lisbon. Official artist pages and the festival site list major names including Twenty One Pilots, Nick Cave & The Bad Seeds, Wolf Alice, Lorde, Pixies, Teddy Swims and Florence + The Machine.",
         "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "lisbon-portimao-evillive-warm-up-2026",
-        "title": "EVILLIVE Warm-Up",
-        "type": "concert",
-        "startDate": "2026-07-04",
-        "endDate": "2026-07-04",
-        "importance": 70,
-        "venueName": "Sala Tejo, MEO Arena",
-        "venueId": null,
-        "sourceUrl": "https://arena.meo.pt/en/agenda/evillive-warm-up_en/15957",
-        "ticketUrl": "https://arena.meo.pt/en/agenda/evillive-warm-up_en/15957",
-        "summary": "MEO Arena confirms the official EVILLIVE Warm-Up on 4 July 2026 at Sala Tejo. The lineup features Trivium, Cavalera performing Chaos A.D., and Portuguese extreme-metal act Okkultist.",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
-        "id": "lisbon-portimao-evillive-festival-2026",
-        "title": "EVILLIVE Festival 2026",
-        "type": "festival",
-        "startDate": "2026-07-05",
-        "endDate": "2026-07-05",
-        "importance": 82,
-        "venueName": "MEO Arena",
-        "venueId": null,
-        "sourceUrl": "https://arena.meo.pt/en/agenda/evil-live-festival-2026_en/15793",
-        "ticketUrl": "https://arena.meo.pt/en/agenda/evil-live-festival-2026_en/15793",
-        "summary": "EVILLIVE Festival returns to Lisbon’s MEO Arena for a one-day edition on 5 July 2026. Confirmed artists include Marilyn Manson, Megadeth, Mastodon, Converge, The Gathering and Imminence.",
-        "genres": [
+          "pop",
+          "electronic",
           "festival"
         ]
       },
@@ -99,6 +67,165 @@
         ]
       },
       {
+        "id": "lisbon-portimao-lisb-on-jardim-sonoro-2026",
+        "title": "LISB-ON #Jardim Sonoro 2026",
+        "type": "festival",
+        "startDate": "2026-07-03",
+        "endDate": "2026-07-04",
+        "importance": 85,
+        "venueName": "Jardim Keil do Amaral",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2292304",
+        "ticketUrl": "https://ra.co/events/2292304",
+        "summary": "Resident Advisor lists LISB-ON 2026 at Jardim Keil do Amaral with programming across 3 and 4 July. Confirmed names include CamelPhat, Rødhåd b2b MARRØN, Adam Ten, Kölsch, Ben Sims, Folamour, Sven Väth, Kerri Chandler, BASHKKA and Anfisa Letyago.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-yard-rampa-adam-port-2026",
+        "title": "Rampa & Adam Port @ Yard The White Sand Mountains",
+        "type": "beach-club",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "YARD The White Sand Mountains",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/artists/keinemusik",
+        "ticketUrl": null,
+        "summary": "YARD’s July 18 open-air booking pairs Keinemusik’s Rampa and Adam Port in the Lisbon region, listed on Shotgun as an afro-house and house event at The White Sand Mountains.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-labyrinth-caiiro-akhet-2026",
+        "title": "Labyrinth Lisbon Debut: Caiiro Presents AKHET",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "Escala25",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2427994",
+        "ticketUrl": "https://ra.co/events/2427994",
+        "summary": "Labyrinth makes its Lisbon debut under the 25 de Abril bridge at Escala25, bringing South African afro-house figure Caiiro for a day-to-night AKHET show from 16:00–00:00.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-evillive-festival-2026",
+        "title": "EVILLIVE Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-05",
+        "endDate": "2026-07-05",
+        "importance": 82,
+        "venueName": "MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/evil-live-festival-2026_en/15793",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/evil-live-festival-2026_en/15793",
+        "summary": "EVILLIVE Festival returns to Lisbon’s MEO Arena for a one-day edition on 5 July 2026. Confirmed artists include Marilyn Manson, Megadeth, Mastodon, Converge, The Gathering and Imminence.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-alibi-festival-2026",
+        "title": "Älibi Festival",
+        "type": "festival",
+        "startDate": "2026-07-11",
+        "endDate": "2026-07-12",
+        "importance": 81,
+        "venueName": "Campus de Benfica",
+        "venueId": null,
+        "sourceUrl": "https://ma.to/event/alibi-festival-11-jul-2026",
+        "ticketUrl": "https://ma.to/event/alibi-festival-11-jul-2026",
+        "summary": "Two-day Lisbon afro-house festival at Campus de Benfica, promoted by THIS IS LISBON and featuring Aaron Sevilla, Homeboyz, Magic Beatz and a wider Afro/Latin-influenced lineup.",
+        "genres": [
+          "afro-house",
+          "house",
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-brunch-electronik-2-2026",
+        "title": "Brunch Electronik Lisboa 2026 #2: Joseph Capriati, Nic Fanciulli, Victor Lou, Taby",
+        "type": "festival",
+        "startDate": "2026-07-12",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Lagoa Branca, Tapada da Ajuda",
+        "venueId": null,
+        "sourceUrl": "https://lisboa.brunchelectronik.com/en",
+        "ticketUrl": "https://lisboa.brunchelectronik.com/en",
+        "summary": "Brunch Electronik’s second Lisbon summer-season date brings Joseph Capriati, Nic Fanciulli, Victor Lou and Taby to Tapada da Ajuda for an open-air afternoon/evening house and electronic session.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-fuse-15-anniversary-2026",
+        "title": "Fuse Records: 15th Anniversary",
+        "type": "festival",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Tapada da Ajuda",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2353310",
+        "ticketUrl": "https://ra.co/events/2353310",
+        "summary": "Lisbon institution Fuse Records celebrates 15 years with a two-floor day-into-night house and techno anniversary at Tapada da Ajuda, including Booka Shade, Ale De Tuglie, Analodjica and local crew names.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-brunch-electronik-3-2026",
+        "title": "Brunch Electronik Lisboa 2026 #3: Sara Landry + guests TBA",
+        "type": "festival",
+        "startDate": "2026-07-25",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Lagoa Branca, Tapada da Ajuda",
+        "venueId": null,
+        "sourceUrl": "https://xceed.me/en/lisboa/event/brunch-electronik-lisboa-2026-3-sara-landry-more-guests-tba/227118",
+        "ticketUrl": "https://xceed.me/en/lisboa/event/brunch-electronik-lisboa-2026-3-sara-landry-more-guests-tba/227118",
+        "summary": "Brunch Electronik’s July 25 Tapada da Ajuda date brings Sara Landry to Lisbon for a harder-edged open-air electronic session, with more guests to be announced.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-afrosummerclub-amapiano-worldwide-2026",
+        "title": "AfroSummerClub: Amapiano Worldwide Boat Party",
+        "type": "club-night",
+        "startDate": "2026-07-02",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Praia da Rocha Harbour",
+        "venueId": null,
+        "sourceUrl": "https://49nights.com/AfroNation",
+        "ticketUrl": null,
+        "summary": "AfroSummerClub’s Amapiano Worldwide boat party is listed during Afro Nation week at Praia da Rocha Harbour, positioned as a dedicated amapiano cruise from 15:30–19:00.",
+        "genres": [
+          "amapiano",
+          "afro-house"
+        ]
+      },
+      {
         "id": "lisbon-portimao-scorpions-meo-arena-2026",
         "title": "Scorpions - Coming Home 2026",
         "type": "concert",
@@ -115,38 +242,40 @@
         ]
       },
       {
-        "id": "lisbon-portimao-nos-alive-2026",
-        "title": "NOS Alive 2026",
+        "id": "lisbon-portimao-afrobreak-portugal-2026",
+        "title": "Afro Break Portugal 2026 - No.1 Afro Nation Party Experience",
         "type": "festival",
-        "startDate": "2026-07-09",
-        "endDate": "2026-07-11",
-        "importance": 96,
-        "venueName": "Passeio Marítimo de Algés",
+        "startDate": "2026-07-01",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Praia da Rocha / Portimão",
         "venueId": null,
-        "sourceUrl": "https://nosalive.com/en/",
-        "ticketUrl": "https://nosalive.com/en/",
-        "summary": "NOS Alive 2026 is confirmed for 9, 10 and 11 July in Algés, just outside Lisbon. Official artist pages and the festival site list major names including Twenty One Pilots, Nick Cave & The Bad Seeds, Wolf Alice, Lorde, Pixies, Teddy Swims and Florence + The Machine.",
+        "sourceUrl": "https://www.eventbrite.co.uk/e/afro-break-portugal-2026-no1-afro-nation-party-experience-tickets-1520570440119",
+        "ticketUrl": "https://www.eventbrite.co.uk/e/afro-break-portugal-2026-no1-afro-nation-party-experience-tickets-1520570440119",
+        "summary": "Afro Break’s Portugal takeover frames itself as an Afro Nation-week party experience, with DJs playing afrobeats, amapiano and related diaspora sounds from 18:00 on July 1.",
         "genres": [
-          "pop",
-          "electronic",
-          "festival"
+          "amapiano",
+          "festival",
+          "hip-hop",
+          "r-and-b"
         ]
       },
       {
-        "id": "lisbon-portimao-grupo-revelacao-lisboa-2026",
-        "title": "Grupo Revelação - Lisboa",
-        "type": "concert",
-        "startDate": "2026-07-19",
-        "endDate": "2026-07-19",
-        "importance": 65,
-        "venueName": "Monsantos Open Air",
+        "id": "lisbon-portimao-makena-afrobeats-vs-amapiano-2026",
+        "title": "Makena Entertainment: Afro Beats vs Amapiano",
+        "type": "club-night",
+        "startDate": "2026-07-03",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Portimão, Portugal",
         "venueId": null,
-        "sourceUrl": "https://sixemotions.bol.pt/Comprar/Bilhetes/164957-grupo_revelacao_lisboa-monsantos_open_air/",
-        "ticketUrl": "https://sixemotions.bol.pt/Comprar/Bilhetes/164957-grupo_revelacao_lisboa-monsantos_open_air/",
-        "summary": "BOL lists Brazilian samba and pagode group Grupo Revelação at Monsantos Open Air in Lisbon on 19 July 2026. The listing confirms a 20:00 session and describes the show as a return to Portugal for the long-running group.",
+        "sourceUrl": "https://makenaevents.com/afronation",
+        "ticketUrl": "https://www.eventbrite.fr/e/makena-afro-beats-vs-amapiano-tickets-1985728689966",
+        "summary": "Makena’s July 3 night party is billed as a direct genre showdown between afrobeats and amapiano, part of its 14-event Afro Nation Portimão weekender programme.",
         "genres": [
-          "latin",
-          "pop"
+          "amapiano",
+          "hip-hop",
+          "r-and-b"
         ]
       },
       {
@@ -182,6 +311,22 @@
         ]
       },
       {
+        "id": "lisbon-portimao-evillive-warm-up-2026",
+        "title": "EVILLIVE Warm-Up",
+        "type": "concert",
+        "startDate": "2026-07-04",
+        "endDate": "2026-07-04",
+        "importance": 70,
+        "venueName": "Sala Tejo, MEO Arena",
+        "venueId": null,
+        "sourceUrl": "https://arena.meo.pt/en/agenda/evillive-warm-up_en/15957",
+        "ticketUrl": "https://arena.meo.pt/en/agenda/evillive-warm-up_en/15957",
+        "summary": "MEO Arena confirms the official EVILLIVE Warm-Up on 4 July 2026 at Sala Tejo. The lineup features Trivium, Cavalera performing Chaos A.D., and Portuguese extreme-metal act Okkultist.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
         "id": "lisbon-portimao-alpha-blondy-monsantos-2026",
         "title": "Alpha Blondy",
         "type": "concert",
@@ -195,6 +340,23 @@
         "summary": "BOL confirms Alpha Blondy at Monsantos Open Air in Lisbon on 31 July 2026. The listing bills the Ivorian reggae figure for a six-and-a-half-hour open-air event with doors at 17:00 and a 20:00 session.",
         "genres": [
           "festival"
+        ]
+      },
+      {
+        "id": "lisbon-portimao-grupo-revelacao-lisboa-2026",
+        "title": "Grupo Revelação - Lisboa",
+        "type": "concert",
+        "startDate": "2026-07-19",
+        "endDate": "2026-07-19",
+        "importance": 65,
+        "venueName": "Monsantos Open Air",
+        "venueId": null,
+        "sourceUrl": "https://sixemotions.bol.pt/Comprar/Bilhetes/164957-grupo_revelacao_lisboa-monsantos_open_air/",
+        "ticketUrl": "https://sixemotions.bol.pt/Comprar/Bilhetes/164957-grupo_revelacao_lisboa-monsantos_open_air/",
+        "summary": "BOL lists Brazilian samba and pagode group Grupo Revelação at Monsantos Open Air in Lisbon on 19 July 2026. The listing confirms a 20:00 session and describes the show as a return to Portugal for the long-running group.",
+        "genres": [
+          "latin",
+          "pop"
         ]
       }
     ]

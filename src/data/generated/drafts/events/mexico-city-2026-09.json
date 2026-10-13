@@ -2,64 +2,31 @@
   "slug": "mexico-city",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:46:27.993Z",
-  "responseId": "resp_05fd928be24b4fef0069ff646b52bc819da9633345128ae03a",
-  "searchCalls": 21,
+  "generatedAt": "2026-05-30T18:30:39.145Z",
+  "responseId": "augment:resp_0a60562e343295b1006a1b2c6db068819a95783cabc88eb2b8",
+  "searchCalls": 20,
   "citations": [],
   "data": {
     "destinationSlug": "mexico-city",
     "month": 9,
     "year": 2026,
-    "notes": null,
+    "notes": "September 2026 underground/promoter calendars for CDMX are still sparse this far out, so this list includes only confirmed genre-scene events with live ticket/source pages.",
     "events": [
       {
-        "id": "mexico-city-siddhartha-sep-2026",
-        "title": "Siddhartha",
-        "type": "concert",
-        "startDate": "2026-09-03",
-        "endDate": "2026-09-03",
-        "importance": 81,
-        "venueName": "Palacio de los Deportes",
+        "id": "mexico-city-vans-warped-tour-2026",
+        "title": "Vans Warped Tour México 2026",
+        "type": "festival",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "importance": 92,
+        "venueName": "Autódromo Hermanos Rodríguez",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/siddhartha-boletos/artist/1741090",
-        "ticketUrl": "https://www.ticketmaster.com.mx/siddhartha-boletos/artist/1741090",
-        "summary": "Siddhartha plays Palacio de los Deportes in Mexico City on September 3, 2026. Ticketmaster lists the show as a confirmed Mexico concert date.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "mexico-city-david-byrne-sep-2026",
-        "title": "David Byrne - Who Is the Sky Tour",
-        "type": "concert",
-        "startDate": "2026-09-04",
-        "endDate": "2026-09-04",
-        "importance": 82,
-        "venueName": "Teatro Metropólitan",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
-        "ticketUrl": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
-        "summary": "David Byrne brings the Who Is the Sky Tour to Teatro Metropólitan on September 4, 2026. The Ticketmaster event page confirms the date, venue, and show title.",
+        "sourceUrl": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
+        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
+        "summary": "Vans Warped Tour México is confirmed for Autódromo Hermanos Rodríguez on September 12-13, 2026. The two-day pass listing confirms the festival dates and venue.",
         "genres": [
           "pop",
-          "electronic"
-        ]
-      },
-      {
-        "id": "mexico-city-tini-futttura-2026",
-        "title": "TINI - FUTTTURA World Tour",
-        "type": "concert",
-        "startDate": "2026-09-04",
-        "endDate": "2026-09-04",
-        "importance": 80,
-        "venueName": "Arena CDMX",
-        "venueId": null,
-        "sourceUrl": "https://www.superboletos.com/landing-evento/ksrhUZW0ip7quoffcCiDMQ",
-        "ticketUrl": "https://www.superboletos.com/landing-evento/ksrhUZW0ip7quoffcCiDMQ",
-        "summary": "TINI's FUTTTURA World Tour is listed for Arena CDMX on September 4, 2026. Superboletos is the official ticketing link for the Arena CDMX date.",
-        "genres": [
-          "latin",
-          "pop"
+          "festival"
         ]
       },
       {
@@ -80,22 +47,6 @@
         ]
       },
       {
-        "id": "mexico-city-5-seconds-summer-2026",
-        "title": "5 Seconds of Summer",
-        "type": "concert",
-        "startDate": "2026-09-09",
-        "endDate": "2026-09-09",
-        "importance": 82,
-        "venueName": "Palacio de los Deportes",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
-        "ticketUrl": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
-        "summary": "5 Seconds of Summer perform at Palacio de los Deportes on September 9, 2026. The Ticketmaster event page confirms the Mexico City concert date.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "mexico-city-aespa-synk-2026",
         "title": "aespa LIVE TOUR - SYNK : COMPLæXITY - in Mexico City",
         "type": "concert",
@@ -110,40 +61,6 @@
         "genres": [
           "pop",
           "electronic"
-        ]
-      },
-      {
-        "id": "mexico-city-vans-warped-tour-2026",
-        "title": "Vans Warped Tour México 2026",
-        "type": "festival",
-        "startDate": "2026-09-12",
-        "endDate": "2026-09-13",
-        "importance": 92,
-        "venueName": "Autódromo Hermanos Rodríguez",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
-        "ticketUrl": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
-        "summary": "Vans Warped Tour México is confirmed for Autódromo Hermanos Rodríguez on September 12-13, 2026. The two-day pass listing confirms the festival dates and venue.",
-        "genres": [
-          "pop",
-          "festival"
-        ]
-      },
-      {
-        "id": "mexico-city-khalid-2026",
-        "title": "Khalid",
-        "type": "concert",
-        "startDate": "2026-09-17",
-        "endDate": "2026-09-17",
-        "importance": 80,
-        "venueName": "Arena CDMX",
-        "venueId": null,
-        "sourceUrl": "https://www.bandsintown.com/es/e/108114649-khalid-at-arena-cdmx?came_from=209",
-        "ticketUrl": "https://www.bandsintown.com/es/e/108114649-khalid-at-arena-cdmx?came_from=209",
-        "summary": "Khalid is listed for Arena CDMX on September 17, 2026 at 19:00. Bandsintown confirms the venue and date for the Mexico City concert.",
-        "genres": [
-          "r-and-b",
-          "pop"
         ]
       },
       {
@@ -194,6 +111,122 @@
         "summary": "The Neighbourhood plays Palacio de los Deportes on September 25, 2026 as part of THE WOURLD TOUR. The Ticketmaster listing confirms the Mexico City date.",
         "genres": [
           "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-david-byrne-sep-2026",
+        "title": "David Byrne - Who Is the Sky Tour",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 82,
+        "venueName": "Teatro Metropólitan",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
+        "ticketUrl": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
+        "summary": "David Byrne brings the Who Is the Sky Tour to Teatro Metropólitan on September 4, 2026. The Ticketmaster event page confirms the date, venue, and show title.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-5-seconds-summer-2026",
+        "title": "5 Seconds of Summer",
+        "type": "concert",
+        "startDate": "2026-09-09",
+        "endDate": "2026-09-09",
+        "importance": 82,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
+        "ticketUrl": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
+        "summary": "5 Seconds of Summer perform at Palacio de los Deportes on September 9, 2026. The Ticketmaster event page confirms the Mexico City concert date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-siddhartha-sep-2026",
+        "title": "Siddhartha",
+        "type": "concert",
+        "startDate": "2026-09-03",
+        "endDate": "2026-09-03",
+        "importance": 81,
+        "venueName": "Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/siddhartha-boletos/artist/1741090",
+        "ticketUrl": "https://www.ticketmaster.com.mx/siddhartha-boletos/artist/1741090",
+        "summary": "Siddhartha plays Palacio de los Deportes in Mexico City on September 3, 2026. Ticketmaster lists the show as a confirmed Mexico concert date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-tini-futttura-2026",
+        "title": "TINI - FUTTTURA World Tour",
+        "type": "concert",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-04",
+        "importance": 80,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.superboletos.com/landing-evento/ksrhUZW0ip7quoffcCiDMQ",
+        "ticketUrl": "https://www.superboletos.com/landing-evento/ksrhUZW0ip7quoffcCiDMQ",
+        "summary": "TINI's FUTTTURA World Tour is listed for Arena CDMX on September 4, 2026. Superboletos is the official ticketing link for the Arena CDMX date.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-khalid-2026",
+        "title": "Khalid",
+        "type": "concert",
+        "startDate": "2026-09-17",
+        "endDate": "2026-09-17",
+        "importance": 80,
+        "venueName": "Arena CDMX",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/es/e/108114649-khalid-at-arena-cdmx?came_from=209",
+        "ticketUrl": "https://www.bandsintown.com/es/e/108114649-khalid-at-arena-cdmx?came_from=209",
+        "summary": "Khalid is listed for Arena CDMX on September 17, 2026 at 19:00. Bandsintown confirms the venue and date for the Mexico City concert.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "mexico-city-iamhardstyle-2026",
+        "title": "Brennan Heart presents I AM HARDSTYLE",
+        "type": "club-night",
+        "startDate": "2026-09-18",
+        "endDate": null,
+        "importance": 77,
+        "venueName": "Pabellón del Palacio de los Deportes",
+        "venueId": null,
+        "sourceUrl": "https://www.iamhardstyle.com/mexico/",
+        "ticketUrl": "https://www.ticketmaster.com.mx/i-am-hardstyle-mexico-18-09-2026/event/1400649EB893D735",
+        "summary": "Touring hard-dance brand I AM HARDSTYLE lands in CDMX with Brennan Heart billed for a three-hour solo set, a notable electronic/hardstyle night for travelers seeking non-arena-pop dance programming.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "mexico-city-mc-davo-2026",
+        "title": "MC Davo",
+        "type": "concert",
+        "startDate": "2026-09-20",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "Pepsi Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.mx/mc-davo-mexico-20-09-2026/event/14006479BA54F5BE",
+        "ticketUrl": "https://www.ticketmaster.com.mx/mc-davo-mexico-20-09-2026/event/14006479BA54F5BE",
+        "summary": "Mexican rap fixture MC Davo headlines Pepsi Center, making this one of the clearer September 2026 hip-hop bookings confirmed in CDMX at the time of search.",
+        "genres": [
+          "hip-hop",
+          "latin"
         ]
       }
     ]

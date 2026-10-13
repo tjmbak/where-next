@@ -2,31 +2,330 @@
   "slug": "bali",
   "month": 10,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:23:24.322Z",
-  "responseId": "resp_0334ab4299caa82c0069ff5f3048a081a0830c1603ecad7385",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T02:30:30.908Z",
+  "responseId": "resp_0b27427ee323ac68006acd96d5bc3887d0ac45a8783f6568e4+resp_09d9c25ee39e1e21006acd97652ab887d0890ee17b1a88396e",
+  "searchCalls": 35,
   "citations": [],
   "data": {
     "destinationSlug": "bali",
     "month": 10,
     "year": 2026,
-    "notes": "Confirmed October 2026 music programming is still sparse, with Savaya’s electronic bookings providing the main destination-scale anchors so far.",
+    "notes": "As of October 13, Bali’s confirmed October calendar is strongest around Savaya/Zumana’s international electronic bookings, Potato Head/Klymax’s selector-led programming, and Afro/Latin diaspora parties around Halloween.",
     "events": [
       {
-        "id": "bali-zamna-savaya-oct-2026",
-        "title": "Zamna Bali 2026 at Savaya",
+        "id": "bali-zamna-savaya-2026",
+        "title": "Zamna Bali at Savaya",
         "type": "festival",
         "startDate": "2026-10-17",
         "endDate": "2026-10-18",
-        "importance": 88,
+        "importance": 90,
         "venueName": "Savaya Bali",
         "venueId": null,
-        "sourceUrl": "https://www.savaya.com/new/zamna-returns-to-the-island",
+        "sourceUrl": "https://www.savaya.com/new/zamna-returns-on-17-18-october-2026",
         "ticketUrl": "https://megatix.co.id/events/zamna-bali-october-2026",
-        "summary": "Savaya confirms Zamna returns to Bali for two shows on October 17–18, 2026. The Tulum-origin electronic festival brand brings its international club-festival concept to the Uluwatu venue.",
+        "summary": "Zamna returns to Savaya for two days: October 17 focuses on house and techno with 19:26, Brina Knauss, Innellea and ZSS, while October 18 moves into Afro house with Djeff, Moojo, Nitefreak and Vanco.",
+        "genres": [
+          "house",
+          "techno",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "bali-fallen-wonderland-savaya-2026",
+        "title": "Fallen Wonderland Halloween Weekend at Savaya",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-01",
+        "importance": 84,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/new/savaya-bali-october-2026-diplo-zamna-halloween-weekend",
+        "ticketUrl": "https://megatix.co.id/savaya",
+        "summary": "Savaya confirms a three-day Halloween weekend from October 30 to November 1, with Jonas Blue on Friday, Hayden James on Saturday and a costume contest on Sunday.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "bali-diplo-savaya-2026",
+        "title": "Diplo at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-10-08",
+        "endDate": "2026-10-08",
+        "importance": 82,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2449810",
+        "ticketUrl": "https://ra.co/events/2449810",
+        "summary": "Diplo played a one-night Savaya Bali show on October 8, with RA listing the event as a house/deep-house booking at the Uluwatu cliff club.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-artbat-zumana-2026",
+        "title": "ARTBAT at Zumana Bali",
+        "type": "club-night",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 82,
+        "venueName": "Zumana Bali",
+        "venueId": null,
+        "sourceUrl": "https://zumanabali.com/events/artbat-1610",
+        "ticketUrl": "https://megatix.co.id/events/artbat-1610",
+        "summary": "Zumana’s official event page confirms Ukrainian melodic-techno duo ARTBAT for Friday, October 16, with Megatix tickets linked from the venue page.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-beatland-battle-2026",
+        "title": "Beatland World Beatbox Battle 2026",
+        "type": "festival",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-18",
+        "importance": 80,
+        "venueName": "BLOCK42 at NUANU",
+        "venueId": null,
+        "sourceUrl": "https://beatlandbattle.com/",
+        "ticketUrl": "https://megatix.co.id/events/beatland-beatbox-battle-2026",
+        "summary": "Beatland brings solo and loopstation beatbox finals to BLOCK42 at Nuanu on October 17, with the programme running into an afterparty after midnight and a confirmed ONYX live appearance listed on ticketing sources.",
+        "genres": [
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-junction-africa-vol9-2026",
+        "title": "Junction: Africa Vol. 9",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": "2026-11-01",
+        "importance": 80,
+        "venueName": "MESA Bali",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/JAVOL9",
+        "ticketUrl": "https://megatix.co.id/events/JAVOL9",
+        "summary": "The Mesa Bali and Afrobeats Asia present a three-day, three-floor Afro-diaspora weekend with DJ Miro, DJ Obas, DJ Ola, Vebo, Goatee, Rhyno, JB Smooth and supporting DJs across Gqom, Amapiano, Afro Tech and Afrobeats-driven club sounds.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "bali-evolving-landscapes-potato-head-2026",
+        "title": "Evolving Landscapes: Rostarr at Potato Head Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 78,
+        "venueName": "Potato Head Beach Club",
+        "venueId": "potato-head",
+        "sourceUrl": "https://ra.co/events/2553066",
+        "ticketUrl": "https://ra.co/events/2553066",
+        "summary": "Desa Potato Head’s Rostarr launch turns the Beach Club into an open-air dancefloor with Suze Ijó, Alex From Tokyo, Eric Duncan, Ryosuke Fukunaga, Yuka Mizuhara and Archie, before the programme continues inside Klymax.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "bali-franky-wah-savaya-2026",
+        "title": "Franky Wah at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-24",
+        "importance": 78,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2494164",
+        "ticketUrl": "https://ra.co/events/2494164",
+        "summary": "Franky Wah is confirmed for Savaya on Saturday, October 24, with RA tagging the show as house and techno at the Uluwatu venue.",
+        "genres": [
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "bali-transit-nuanu-halloween-2026",
+        "title": "TRANSIT x Nuanu: Halloween Pre-Party",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Block42, Nuanu Creative City",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/transit-halloween?source=presenter",
+        "ticketUrl": "https://megatix.co.id/events/transit-halloween?source=presenter",
+        "summary": "Bali collective TRANSIT takes over Block42 at Nuanu with Schacke, Dior, 0OBSCENE, Sanjonas, Anelle and a secret guest for fast techno, experimental club, hard club, bass and broken-rhythm sounds.",
         "genres": [
           "techno",
           "electronic"
+        ]
+      },
+      {
+        "id": "bali-latin-beach-festival-atlas-2026",
+        "title": "Biggest Latin Beach Festival — Yonaguni Fiesta x Atlas Beach Club",
+        "type": "beach-club",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-16",
+        "importance": 75,
+        "venueName": "Atlas Beach Club",
+        "venueId": null,
+        "sourceUrl": "https://atlasbeachfest.com/index.php/es/beach-club/event/biggest-latin-beach-festival-yonaguni-fiesta-x-atlas-beach-club",
+        "ticketUrl": "https://atlasbeachfest.com/index.php/es/beach-club/event/biggest-latin-beach-festival-yonaguni-fiesta-x-atlas-beach-club",
+        "summary": "Atlas Beach Club confirms a Yonaguni Fiesta collaboration built around Latin sounds, beachfront dancing and a 6 PM event start on October 16.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "bali-disko-afrika-shadows-2026",
+        "title": "Disko Afrika: Night of the Shadows",
+        "type": "club-night",
+        "startDate": "2026-10-31",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Desa Kitsuné",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/diskoafrikahalloween?source=presenter",
+        "ticketUrl": "https://megatix.co.id/events/diskoafrikahalloween?source=presenter",
+        "summary": "Disko Afrika’s Halloween edition lands at Desa Kitsuné, extending the collective’s Bali Afro-diaspora party lane into a ticketed night built around African and Afro-Caribbean club energy.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-dj-fett-burger-telephones-klymax-2026",
+        "title": "DJ Fett Burger & Telephones, Archie at Klymax Discotheque",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-24",
+        "importance": 74,
+        "venueName": "Klymax Discotheque",
+        "venueId": "potato-head",
+        "sourceUrl": "https://ra.co/events/2546916",
+        "ticketUrl": "https://ra.co/events/2546916",
+        "summary": "Klymax hosts Norwegian selectors DJ Fett Burger and Telephones back-to-back with Archie on October 23, with RA listing a 10 PM to 4 AM session.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-dj-boring-klymax-2026",
+        "title": "DJ BORING, Dita at Klymax Discotheque",
+        "type": "club-night",
+        "startDate": "2026-10-02",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Klymax Discotheque",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546903",
+        "ticketUrl": "https://ra.co/events/2546903",
+        "summary": "Klymax’s October run opened with Australian selector DJ BORING alongside Indonesia-based Dita, leaning into house, techno, electro, acid, proto-house, breaks, and Balearic-adjacent club sounds.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-nitefreak-zumana-2026",
+        "title": "Nitefreak at Zumana Bali",
+        "type": "club-night",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-21",
+        "importance": 73,
+        "venueName": "Zumana Bali",
+        "venueId": null,
+        "sourceUrl": "https://zumanabali.com/events/nitefreak-2110",
+        "ticketUrl": "https://megatix.co.id/zumana",
+        "summary": "Zumana’s official page confirms Zimbabwean Afro-house artist Nitefreak for Wednesday, October 21 at the Kuta beach-club venue.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "bali-bell-towers-klymax-2026",
+        "title": "Bell Towers, Jonathan Kusuma, Seabass at Klymax Discotheque",
+        "type": "club-night",
+        "startDate": "2026-10-30",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Klymax Discotheque",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2546920",
+        "ticketUrl": "https://ra.co/events/2546920",
+        "summary": "Klymax closes October with Bell Towers, Jonathan Kusuma and Seabass, drawing on sample disco, leftfield house, proto-techno, darker late-night grooves and Bali’s audiophile dance-floor culture.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-general-levy-nuanu-2026",
+        "title": "General Levy — Live in Bali",
+        "type": "concert",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 72,
+        "venueName": "BLOCK42 NUANU EVENT SPACE",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/general-levy-live2026",
+        "ticketUrl": "https://megatix.co.id/events/general-levy-live2026",
+        "summary": "UK jungle and dancehall MC General Levy is confirmed for a live set at BLOCK42 in Nuanu Creative City, with support DJs and an afterparty focused on jungle, dancehall, reggae, dub and bass music.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "bali-argy-zumana-2026",
+        "title": "ARGY at Zumana Bali",
+        "type": "club-night",
+        "startDate": "2026-10-14",
+        "endDate": "2026-10-14",
+        "importance": 72,
+        "venueName": "Zumana Bali",
+        "venueId": null,
+        "sourceUrl": "https://zumanabali.com/events/argy-1410",
+        "ticketUrl": "https://megatix.co.id/events/argy-1410",
+        "summary": "Zumana’s official event page confirms ARGY for Wednesday, October 14, with paid tickets at the Kuta beach-club venue.",
+        "genres": [
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "bali-vanco-zumana-2026",
+        "title": "Vanco at Zumana Bali",
+        "type": "club-night",
+        "startDate": "2026-10-23",
+        "endDate": "2026-10-23",
+        "importance": 72,
+        "venueName": "Zumana Bali",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2555249",
+        "ticketUrl": "https://ra.co/events/2555249",
+        "summary": "RA confirms Afro-house/Afro-tech artist Vanco at Zumana Bali on Friday, October 23, with the event promoted by Zumana Bali.",
+        "genres": [
+          "afro-house",
+          "house"
         ]
       },
       {
@@ -48,18 +347,20 @@
         ]
       },
       {
-        "id": "bali-boat-vibes-vol-4-2026",
-        "title": "Boat Vibes Bali Vol. 4",
-        "type": "club-night",
-        "startDate": "2026-10-10",
-        "endDate": "2026-10-10",
-        "importance": 60,
-        "venueName": "The Shivanna - Benoa Check In Point",
+        "id": "bali-alex-wann-2026",
+        "title": "Alex Wann at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-10-04",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Savaya Bali",
         "venueId": null,
-        "sourceUrl": "https://megatix.co.id/events/boat-vibes-bali-vol-4",
-        "ticketUrl": "https://megatix.co.id/events/boat-vibes-bali-vol-4",
-        "summary": "Boat Vibes Bali Vol. 4 is a confirmed sunset cruise from Benoa Harbour on October 10, 2026, billed with a live DJ and fire dance. The itinerary runs as a four-hour sailing event along the Nusa Dua coastline.",
+        "sourceUrl": "https://app.discotech.me/events/38130411-alex-wann-at-savaya",
+        "ticketUrl": "https://megatix.co.id/events/alex-wann-0410",
+        "summary": "Paris-based Alex Wann brings Afro-leaning melodic/deep house to Savaya’s cliffside dayclub format, a strong destination booking for Bali’s Afro-house and melodic-house crowd.",
         "genres": [
+          "afro-house",
+          "house",
           "electronic"
         ]
       },
@@ -75,6 +376,22 @@
         "sourceUrl": "https://megatix.co.id/events/shivanna-halloween",
         "ticketUrl": "https://megatix.co.id/events/shivanna-halloween",
         "summary": "The Shivanna Halloween Party is confirmed for October 31, 2026, as a sunset cruise from Benoa Harbour. The ticket page lists a live DJ, fire dance, canapés, and a four-hour sailing format.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-boat-vibes-vol-4-2026",
+        "title": "Boat Vibes Bali Vol. 4",
+        "type": "club-night",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-10",
+        "importance": 60,
+        "venueName": "The Shivanna - Benoa Check In Point",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/boat-vibes-bali-vol-4",
+        "ticketUrl": "https://megatix.co.id/events/boat-vibes-bali-vol-4",
+        "summary": "Boat Vibes Bali Vol. 4 is a confirmed sunset cruise from Benoa Harbour on October 10, 2026, billed with a live DJ and fire dance. The itinerary runs as a four-hour sailing event along the Nusa Dua coastline.",
         "genres": [
           "electronic"
         ]

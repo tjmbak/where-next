@@ -1,0 +1,122 @@
+{
+  "slug": "buenos-aires",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:11:22.042Z",
+  "responseId": "resp_01de0be2a104c565006acda07b237087d09643df84e9ae6861+resp_0ba8d4b934a8e76b006acda0fcd57c87d08bff48cd639021f1",
+  "searchCalls": 44,
+  "citations": [],
+  "data": {
+    "destinationSlug": "buenos-aires",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027’s confirmed calendar is still sparse, but it already has a notable psych/alt festival play plus arena-scale classic rock, pop, and international metal/rock tours.",
+    "events": [
+      {
+        "id": "buenos-aires-rush-movistar-arena-2027",
+        "title": "Rush – Fifty Something Tour",
+        "type": "concert",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15",
+        "importance": 88,
+        "venueName": "Movistar Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.rush.com/show/fifty-something-2027-01-15/",
+        "ticketUrl": "https://aks-prod-arena-seo.fanfactory.com.ar/show/ca784f55-cd9c-43d0-9c2d-6009849007bf",
+        "summary": "Rush’s official tour page confirms the Fifty Something Tour date at Movistar Arena in Buenos Aires on January 15, 2027.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-levitation-argentina-2027",
+        "title": "Levitation Argentina 2027",
+        "type": "festival",
+        "startDate": "2027-01-20",
+        "endDate": "2027-01-20",
+        "importance": 85,
+        "venueName": "Ciudad Cultural Konex",
+        "venueId": null,
+        "sourceUrl": "https://es.rollingstone.com/arg-levitation-llega-por-primera-vez-a-la-argentina-con-melvins-osees-boris-y-mas/",
+        "ticketUrl": null,
+        "summary": "Levitation’s first Argentina edition is confirmed for January 20, 2027 in Buenos Aires, with Melvins, Osees, Boris, Frankie and the Witch Fingers, and Winona Riders announced on the bill.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "buenos-aires-freya-skye-c-art-media-2027",
+        "title": "Freya Skye – Stars Align Tour",
+        "type": "concert",
+        "startDate": "2027-01-25",
+        "endDate": "2027-01-25",
+        "importance": 72,
+        "venueName": "C Art Media",
+        "venueId": null,
+        "sourceUrl": "https://freyaskye.com/tour",
+        "ticketUrl": "https://www.passline.com/eventos/freya-skye",
+        "summary": "Freya Skye’s official tour page lists a Buenos Aires date at C Art Media on January 25, 2027 as part of her 2027 international tour routing.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "buenos-aires-mushroom-nye-2027",
+        "title": "Oostil x Bob Tosh x Temple Gate x Mushroom NYE",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Estadio Nacional de Beisbol, Ezeiza",
+        "venueId": null,
+        "sourceUrl": "https://emtickets.app/",
+        "ticketUrl": "https://emtickets.app/",
+        "summary": "Mushroom’s post-NYE melodic-techno event in Ezeiza, with Oostil, Bob Tosh and Temple Gate listed for 02:00 on January 1.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "buenos-aires-avatar-teatro-flores-2027",
+        "title": "Avatar at Teatro Flores",
+        "type": "concert",
+        "startDate": "2027-01-13",
+        "endDate": "2027-01-13",
+        "importance": 70,
+        "venueName": "Teatro Flores",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/avatar-en-teatro-flores-13-enero-2027",
+        "ticketUrl": "https://www.passline.com/eventos/avatar-en-teatro-flores-13-enero-2027",
+        "summary": "Swedish metal band Avatar plays Teatro Flores, with the event page listing Wednesday, January 13, 2027 at 19:00.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-geoff-tate-vorterix-2027",
+        "title": "Geoff Tate’s Operation: Mindcrime – The Final Chapter",
+        "type": "concert",
+        "startDate": "2027-01-14",
+        "endDate": "2027-01-14",
+        "importance": 70,
+        "venueName": "Teatro Vorterix",
+        "venueId": null,
+        "sourceUrl": "https://www.geofftate.com/event/geoff-tates-operation-mindcrime-the-final-chapter-vorterix/",
+        "ticketUrl": "https://www.allaccess.com.ar/event/geoff-tate-s-operation-mindcrime---the-final-chapter",
+        "summary": "Geoff Tate brings his Operation: Mindcrime – The Final Chapter show to Vorterix in Buenos Aires on January 14, 2027 at 19:00, according to his official tour page.",
+        "genres": []
+      },
+      {
+        "id": "buenos-aires-crashdiet-teatrito-2027",
+        "title": "Crashdïet – South America Tour 2027",
+        "type": "concert",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 65,
+        "venueName": "El Teatrito",
+        "venueId": null,
+        "sourceUrl": "https://www.passline.com/eventos/crashdiet-en-argentina-south-america-tour-2027",
+        "ticketUrl": "https://www.passline.com/eventos/crashdiet-en-argentina-south-america-tour-2027",
+        "summary": "Crashdïet’s Buenos Aires stop on the South America Tour 2027 is confirmed at El Teatrito for Friday, January 29, 2027 at 18:00.",
+        "genres": []
+      }
+    ]
+  }
+}

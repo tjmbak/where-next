@@ -1,0 +1,253 @@
+{
+  "slug": "new-york",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:05:41.859Z",
+  "responseId": "resp_0a26846c96f3f1e6006acd9f2a05c487d0af62a4cbc0bef006+resp_0313d7d17264df56006acd9fae2c3487d0a090c5157e5d02f0",
+  "searchCalls": 38,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 1,
+    "year": 2027,
+    "notes": "January’s confirmed calendar is anchored by Phish’s MSG New Year’s run, NYC Winter Jazzfest, and Brooklyn’s early-year club programming across Pacha, SILO and Elsewhere.",
+    "events": [
+      {
+        "id": "new-york-phish-msg-nye-run-2027",
+        "title": "Phish New Year’s Run at Madison Square Garden",
+        "type": "concert",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-02",
+        "importance": 93,
+        "venueName": "Madison Square Garden",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/phish-madison-square-garden-december-2026/3B00653D12F81FC8",
+        "ticketUrl": "https://www.ticketmaster.com/Phish-tickets/artist/748766",
+        "summary": "Phish closes its four-night Madison Square Garden New Year’s run with January 1 and January 2 performances; the January 2 show is billed as the band’s 100th performance at The Garden.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-winter-jazzfest-jan-2027",
+        "title": "NYC Winter Jazzfest 2027",
+        "type": "festival",
+        "startDate": "2027-01-12",
+        "endDate": "2027-01-19",
+        "importance": 91,
+        "venueName": "Multiple venues, Manhattan and Brooklyn",
+        "venueId": null,
+        "sourceUrl": "https://tickets.venuepilot.com/e/marathon-winter-jazzfest-2027-2027-01-12-winter-jazzfest-new-york-28f7cf",
+        "ticketUrl": "https://tickets.venuepilot.com/e/marathon-winter-jazzfest-2027-2027-01-12-winter-jazzfest-new-york-28f7cf",
+        "summary": "The 2027 NYC Winter Jazzfest pass covers January 12–19 across 18 venues with 100+ bands. Confirmed artists include Sun Ra Arkestra, Brandee Younger, Marc Ribot, Ravi Coltrane, David Murray, Irreversible Entanglements, Aja Monet, and many more.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-merge-great-beyond-weekender-2027",
+        "title": "MERGE x THE GREAT BEYOND Weekender",
+        "type": "festival",
+        "startDate": "2027-01-27",
+        "endDate": "2027-01-31",
+        "importance": 84,
+        "venueName": "TBA - Brooklyn",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2502909",
+        "ticketUrl": "https://ra.co/events/2502909",
+        "summary": "Brooklyn queer-techno institution MERGE teams with The Great Beyond for a five-day winter weekender, moving from experimental/live programming at Nowadays into East Williamsburg warehouse nights.",
+        "genres": [
+          "techno",
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-sosa-pacha-2027",
+        "title": "SOSA at Brooklyn Pacha",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 80,
+        "venueName": "Brooklyn Pacha",
+        "venueId": null,
+        "sourceUrl": "https://pacha-nyc.com/event/sosa-02-01-2027",
+        "ticketUrl": "https://pacha-nyc.com/event/sosa-02-01-2027",
+        "summary": "Liverpool tech-house DJ SOSA headlines Brooklyn Pacha on New Year’s Weekend, with the venue billing the night as a 10 PM–4 AM club show.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-eli-escobar-elsewhere-2027",
+        "title": "Eli Escobar (Open to Close)",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 76,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://www.elsewhere.club/events/2002812534204",
+        "ticketUrl": "https://www.elsewhere.club/events/2002812534204",
+        "summary": "NYC house mainstay Eli Escobar plays an open-to-close full-venue club night at Elsewhere, with doors listed at 10:30 PM.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-zomboy-silo-2027",
+        "title": "Zomboy at SILO Brooklyn",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-02",
+        "importance": 74,
+        "venueName": "SILO Brooklyn",
+        "venueId": null,
+        "sourceUrl": "https://relentlessbeats.com/events/zomboy-silo-010227",
+        "ticketUrl": "https://relentlessbeats.com/events/zomboy-silo-010227",
+        "summary": "EMW presents bass-music headliner Zomboy at SILO Brooklyn for a 10 PM–4 AM 21+ nightclub show.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-omar-knockdown-2027",
+        "title": "OMAR",
+        "type": "club-night",
+        "startDate": "2027-01-30",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Knockdown Center",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2500203",
+        "ticketUrl": "https://ra.co/events/2500203",
+        "summary": "London deep-house artist Omar+ brings an extended set to Knockdown Center, blending house production with R&B-inspired vocals inside one of NYC’s key large-scale warehouse venues.",
+        "genres": [
+          "house",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-bree-runway-elsewhere-2027",
+        "title": "Bree Runway at Elsewhere",
+        "type": "concert",
+        "startDate": "2027-01-27",
+        "endDate": "2027-01-27",
+        "importance": 72,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://www.bandsintown.com/e/1040456379-bree-runway-at-elsewhere",
+        "ticketUrl": "https://www.bandsintown.com/e/1040456379-bree-runway-at-elsewhere",
+        "summary": "British pop and rap artist Bree Runway is confirmed for The Hall at Elsewhere, with Bandsintown listing a 7 PM show.",
+        "genres": [
+          "pop",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-miss-bashful-elsewhere-2027",
+        "title": "Miss Bashful (Live) Full Venue Takeover",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": "2027-01-29",
+        "importance": 72,
+        "venueName": "Elsewhere",
+        "venueId": null,
+        "sourceUrl": "https://www.elsewhere.club/events/2002089160574",
+        "ticketUrl": "https://www.elsewhere.club/events/2002089160574",
+        "summary": "Miss Bashful brings a live full-venue takeover to Elsewhere, with the venue listing doors at 10:30 PM for the 21+ club event.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-teedee-hyperactive-silo-2027",
+        "title": "TeeDee presents Hyperactive - All Night Long",
+        "type": "club-night",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "importance": 70,
+        "venueName": "SILO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2519990",
+        "ticketUrl": "https://ra.co/events/2519990",
+        "summary": "TeeDee brings the Hyperactive all-night-long format to SILO, with RA listing tech house and minimal for the 10 PM–4 AM club night.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-corto-alto-lpr-2027",
+        "title": "corto.alto at Le Poisson Rouge",
+        "type": "concert",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-22",
+        "importance": 68,
+        "venueName": "Le Poisson Rouge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2507410",
+        "ticketUrl": "https://ra.co/events/2507410",
+        "summary": "Glasgow jazz project corto.alto is confirmed for Le Poisson Rouge, with RA listing a 6:30 PM–11 PM show.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-heyz-silo-2027",
+        "title": "HEYZ at SILO Brooklyn",
+        "type": "club-night",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-16",
+        "importance": 65,
+        "venueName": "SILO Brooklyn",
+        "venueId": null,
+        "sourceUrl": "https://www.emwpresents.com/events",
+        "ticketUrl": "https://www.emwpresents.com/events",
+        "summary": "EMW Presents lists HEYZ at SILO Brooklyn from 10 PM on January 16 to 4 AM on January 17, adding another bass/electronic club booking to the month.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-medellin-fridays-jan-2027",
+        "title": "Medellin Fridays - Colombian Latin & Reggaeton Party NYC",
+        "type": "club-night",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 60,
+        "venueName": "San Antonios",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2532622",
+        "ticketUrl": "https://ra.co/events/2532622",
+        "summary": "iBoatNYC’s Medellin Fridays returns on New Year’s Day at San Antonios, with RA listing the party as a Colombian Latin and reggaeton night running 5 PM–3 AM.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-medellin-fridays-2027",
+        "title": "Medellin Fridays - Colombian Latin & Reggaeton Party NYC",
+        "type": "club-night",
+        "startDate": "2027-01-22",
+        "endDate": null,
+        "importance": 60,
+        "venueName": "San Antonios",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2532625",
+        "ticketUrl": "https://ra.co/events/2532625",
+        "summary": "A Colombian-focused Latin and reggaeton party in the Lower East Side, promoted by iBoatNYC/Perreo Parrty and aimed at late-night diaspora dance-floor energy.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "slug": "new-york",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:19:44.568Z",
+  "responseId": "resp_0da5c3e3b46b88c8006acda28cbecc87d0a575d8cb01e3d818+resp_0ae56b58028872da006acda302451c87d0a69282699ffc8615",
+  "searchCalls": 35,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-york",
+    "month": 2,
+    "year": 2027,
+    "notes": "Confirmed February 2027 programming is already led by major pop, Latin, R&B and electronic tours alongside Brooklyn/Manhattan club and jazz-room dates.",
+    "events": [
+      {
+        "id": "new-york-olivia-rodrigo-unraveled-2027",
+        "title": "Olivia Rodrigo — The Unraveled Tour",
+        "type": "concert",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-28",
+        "importance": 94,
+        "venueName": "Barclays Center",
+        "venueId": null,
+        "sourceUrl": "https://www.barclayscenter.com/events/detail/olivia-rodrigo",
+        "ticketUrl": "https://www.barclayscenter.com/events/detail/olivia-rodrigo",
+        "summary": "Olivia Rodrigo brings The Unraveled Tour to Brooklyn for a multi-night Barclays Center run with The Last Dinner Party and Devon Again listed as guests.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-don-omar-ubs-arena-2027",
+        "title": "Don Omar — The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-02-28",
+        "endDate": "2027-02-28",
+        "importance": 88,
+        "venueName": "UBS Arena",
+        "venueId": null,
+        "sourceUrl": "https://ubsarena.com/event/don-omar-the-last-king-world-tour/",
+        "ticketUrl": "https://ubsarena.com/event/don-omar-the-last-king-world-tour/",
+        "summary": "Reggaeton pioneer Don Omar brings The Last King World Tour to UBS Arena in Elmont, just outside New York City.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "new-york-dweller-festival-2027",
+        "title": "Dweller Festival",
+        "type": "festival",
+        "startDate": "2027-02-20",
+        "endDate": "2027-02-23",
+        "importance": 84,
+        "venueName": "New York City",
+        "venueId": null,
+        "sourceUrl": "https://festicket.com/guides/2027/north-america/united-states/festivals",
+        "ticketUrl": null,
+        "summary": "Festival listing for the New York celebration of Black electronic music, a scene-defining February weekender when active; lineup and venue details were not yet published in the available source.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-york-pablo-alboran-radio-city-2027",
+        "title": "Pablo Alborán — Global Tour KM0",
+        "type": "concert",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-11",
+        "importance": 82,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://msg.com/events-tickets/pablo-alboran-radio-city-music-hall-february-2027/3C00650DED172A51",
+        "ticketUrl": "https://msg.com/events-tickets/pablo-alboran-radio-city-music-hall-february-2027/3C00650DED172A51",
+        "summary": "Spanish pop star Pablo Alborán brings the Global Tour KM0 to Radio City Music Hall.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-flo-radio-city-2027",
+        "title": "FLO — Therapy at the Club Tour",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 82,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/flo-radio-city-music-hall-february-2027/3C00653AB0DA1C73",
+        "ticketUrl": "https://www.msg.com/events-tickets/flo-radio-city-music-hall-february-2027/3C00653AB0DA1C73",
+        "summary": "UK R&B trio FLO bring the Therapy at the Club Tour to Radio City Music Hall.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-alan-walker-terminal-5-2027",
+        "title": "Alan Walker",
+        "type": "concert",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-11",
+        "importance": 80,
+        "venueName": "Terminal 5",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1607306/alan-walker-tickets",
+        "ticketUrl": "https://www.axs.com/events/1607306/alan-walker-tickets",
+        "summary": "Alan Walker headlines Terminal 5 with an 18+ electronic show listed for February 11, 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-kenia-os-beacon-theatre-2027",
+        "title": "Kenia Os — K de Karma Tour",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 79,
+        "venueName": "Beacon Theatre",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/kenia-os-beacon-theatre-february-2027/3B006542F93BB880",
+        "ticketUrl": "https://www.msg.com/events-tickets/kenia-os-beacon-theatre-february-2027/3B006542F93BB880",
+        "summary": "Mexican pop artist Kenia Os brings the K de Karma Tour to the Beacon Theatre.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-a-trak-brooklyn-pacha-2027",
+        "title": "A-Trak & Friends",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 78,
+        "venueName": "Brooklyn Pacha",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/clubs/304759",
+        "ticketUrl": null,
+        "summary": "Resident Advisor lists A-Trak & Friends at the newly launched Brooklyn Pacha, part of the city’s large-format Brooklyn dance-music circuit.",
+        "genres": [
+          "house",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "new-york-la-roux-brooklyn-steel-2027",
+        "title": "La Roux",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 76,
+        "venueName": "Brooklyn Steel",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1613779/la-roux-tickets",
+        "ticketUrl": "https://www.axs.com/events/1613779/la-roux-tickets",
+        "summary": "La Roux’s official tour routing includes a Brooklyn Steel headline date on February 5, 2027.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-all-time-low-radio-city-2027",
+        "title": "All Time Low — So Wrong, It’s Right: A 20 Year Celebration",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-20",
+        "importance": 76,
+        "venueName": "Radio City Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.msg.com/events-tickets/all-time-low-we-the-kings-radio-city-music-hall-february-2027/3C006538EE4F378F",
+        "ticketUrl": "https://www.msg.com/events-tickets/all-time-low-we-the-kings-radio-city-music-hall-february-2027/3C006538EE4F378F",
+        "summary": "All Time Low celebrate 20 years of So Wrong, It’s Right with special guests We The Kings across two Radio City Music Hall dates.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-kenny-garrett-blue-note-2027",
+        "title": "Kenny Garrett",
+        "type": "concert",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-19",
+        "importance": 76,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/rZ7HnEZ1AfaIF0/kenny-garrett",
+        "ticketUrl": "https://www.livenation.com/event/rZ7HnEZ1AfaIF0/kenny-garrett",
+        "summary": "Alto saxophonist Kenny Garrett is confirmed for a February 19 set at Blue Note Jazz Club.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-ibeyi-irving-plaza-2027",
+        "title": "Ibeyi",
+        "type": "concert",
+        "startDate": "2027-02-10",
+        "endDate": "2027-02-10",
+        "importance": 75,
+        "venueName": "Irving Plaza Powered By Verizon 5G",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/ibeyi-new-york-new-york-02-10-2027/event/000064CFE32B4D08?tt_scene=anchor_view",
+        "ticketUrl": "https://www.ticketmaster.com/ibeyi-new-york-new-york-02-10-2027/event/000064CFE32B4D08?tt_scene=anchor_view",
+        "summary": "Ibeyi play Irving Plaza on February 10, 2027, a strong pick for travelers following contemporary Afro-Cuban, electronic and R&B-rooted live music.",
+        "genres": [
+          "r-and-b",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-danny-avila-99-scott-2027",
+        "title": "Danny Avila & Guests",
+        "type": "club-night",
+        "startDate": "2027-02-27",
+        "endDate": "2027-02-27",
+        "importance": 74,
+        "venueName": "99 Scott Ave",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2548904",
+        "ticketUrl": "https://ra.co/events/2548904",
+        "summary": "GRAY-AREA presents Danny Avila & Guests at 99 Scott Ave for a late-night techno event.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-french-79-webster-hall-2027",
+        "title": "French 79 — Close to the Giants Tour",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 73,
+        "venueName": "Webster Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.websterhall.com/events/detail/?event_id=1407908",
+        "ticketUrl": "https://www.websterhall.com/events/detail/?event_id=1407908",
+        "summary": "French electronic producer French 79 plays Webster Hall on the Close to the Giants Tour.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "new-york-cautious-clay-blue-note-2027",
+        "title": "Cautious Clay at Blue Note Jazz Club",
+        "type": "residency",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-14",
+        "importance": 72,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/cautious-clay-tickets/artist/2493750",
+        "ticketUrl": "https://www.ticketweb.com/event/cautious-clay-blue-note-jazz-club-tickets/14301994",
+        "summary": "Multi-night Blue Note run from the genre-fluid New York artist whose live set bridges alternative R&B, neo-soul, jazz, pop and ambient textures.",
+        "genres": [
+          "r-and-b",
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-marian-hill-elsewhere-2027",
+        "title": "Marian Hill — ACT TWO: THE TOUR",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 70,
+        "venueName": "Elsewhere - The Hall",
+        "venueId": null,
+        "sourceUrl": "https://www.eventbrite.com/e/marian-hill-act-two-the-tour-tickets-2000481742744",
+        "ticketUrl": "https://www.eventbrite.com/e/marian-hill-act-two-the-tour-tickets-2000481742744",
+        "summary": "Marian Hill headline The Hall at Elsewhere in Bushwick as part of ACT TWO: THE TOUR.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "new-york-cautious-clay-blue-note-2027",
+        "title": "Cautious Clay",
+        "type": "concert",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-06",
+        "importance": 70,
+        "venueName": "Blue Note Jazz Club",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/cautious-clay-blue-note-jazz-club-tickets/14302054",
+        "ticketUrl": "https://www.ticketweb.com/event/cautious-clay-blue-note-jazz-club-tickets/14302054",
+        "summary": "Cautious Clay plays Blue Note Jazz Club, bringing his pop, alternative R&B and jazz-adjacent songwriting into an intimate New York room.",
+        "genres": [
+          "r-and-b",
+          "pop",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-york-capyac-residency-night-2-2027",
+        "title": "CAPYAC NYC Residency Night 2",
+        "type": "residency",
+        "startDate": "2027-02-10",
+        "endDate": "2027-02-10",
+        "importance": 70,
+        "venueName": "Night Club 101",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/venue/rZ7HnEZ17QkQd/night-club-101-events",
+        "ticketUrl": "https://www.livenation.com/venue/rZ7HnEZ17QkQd/night-club-101-events",
+        "summary": "CAPYAC’s NYC residency at Night Club 101 includes a confirmed Night 2 date on February 10, 2027.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      }
+    ]
+  }
+}

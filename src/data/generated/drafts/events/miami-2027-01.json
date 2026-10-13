@@ -1,0 +1,304 @@
+{
+  "slug": "miami",
+  "month": 1,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:04:33.733Z",
+  "responseId": "resp_0cfbc0f384672545006acd9ee90a3c87d0b65780f335c30f4b+resp_0f1a1fc31c4de965006acd9f6155e887d0bd627141afa478d9",
+  "searchCalls": 36,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 1,
+    "year": 2027,
+    "notes": "January 2027 in Miami is unusually cruise-heavy, with multiple confirmed destination music sailings departing from PortMiami alongside select soul, funk and electronic club dates on land.",
+    "events": [
+      {
+        "id": "miami-edsea-2027",
+        "title": "EDSea 2027",
+        "type": "festival",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-31",
+        "importance": 93,
+        "venueName": "PortMiami / Norwegian Joy",
+        "venueId": null,
+        "sourceUrl": "https://www.edsea.com/",
+        "ticketUrl": "https://www.edsea.com/",
+        "summary": "EDSea 2027 is confirmed for January 26-31, sailing from Miami to Harvest Caye, Belize. The Insomniac festival cruise promises five nights of dance music, themed stages, immersive art and nonstop performances aboard Norwegian Joy.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-groove-cruise-2027",
+        "title": "Groove Cruise Miami 2027",
+        "type": "festival",
+        "startDate": "2027-01-21",
+        "endDate": "2027-01-25",
+        "importance": 92,
+        "venueName": "PortMiami / Allure of the Seas",
+        "venueId": null,
+        "sourceUrl": "https://www.groovecruise.com/",
+        "ticketUrl": null,
+        "summary": "Groove Cruise Miami 2027 sails January 21-25 from Miami aboard Royal Caribbean's Allure of the Seas. The confirmed 2027 lineup highlights include Adam Beyer, BUNT., Disco Lines, Eli Brown and Kettama across house, techno, melodic and bass styles.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-70000-tons-metal-2027",
+        "title": "70000TONS OF METAL 2027",
+        "type": "festival",
+        "startDate": "2027-01-14",
+        "endDate": "2027-01-18",
+        "importance": 89,
+        "venueName": "PortMiami / Freedom of the Seas",
+        "venueId": null,
+        "sourceUrl": "https://70000tons.com/",
+        "ticketUrl": "https://book.70000tons.com/en/events/70000tons-of-metal-2027",
+        "summary": "70000TONS OF METAL is confirmed for January 14-18, sailing round-trip from Miami to Puerto Plata, Dominican Republic. The long-running heavy metal cruise bills itself as the world's biggest heavy metal cruise.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-shiprocked-2027",
+        "title": "ShipRocked 2027",
+        "type": "festival",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-30",
+        "importance": 85,
+        "venueName": "PortMiami",
+        "venueId": null,
+        "sourceUrl": "https://shiprocked.com/?page=1",
+        "ticketUrl": null,
+        "summary": "ShipRocked 2027 is confirmed for January 24-30, departing from Miami with stops in Roatán and Cozumel. The rock-focused floating festival advertises artist-hosted activities, theme nights and a full music experience onboard.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-emos-not-dead-cruise-2027",
+        "title": "Emo's Not Dead Cruise 2027",
+        "type": "festival",
+        "startDate": "2027-01-22",
+        "endDate": "2027-01-26",
+        "importance": 82,
+        "venueName": "PortMiami / Norwegian Joy",
+        "venueId": null,
+        "sourceUrl": "https://emosnotdead.com/pages/emos-not-dead-cruise",
+        "ticketUrl": "https://emosnotdead.com/pages/emos-not-dead-cruise",
+        "summary": "Emo's Not Dead Cruise 2027 sails January 22-26 from Miami to Great Stirrup Cay. The lineup includes Yellowcard, Mayday Parade, Underoath, Dance Gavin Dance, Silverstein, Gym Class Heroes, The Wonder Years and more.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-chosen-few-cruise-2027",
+        "title": "Chosen Few DJs & Friends Cruise 2027",
+        "type": "festival",
+        "startDate": "2027-01-03",
+        "endDate": "2027-01-10",
+        "importance": 82,
+        "venueName": "Royal Caribbean Allure of the Seas / PortMiami",
+        "venueId": null,
+        "sourceUrl": "https://www.chosenfewcruise.com/",
+        "ticketUrl": "https://www.onitravelnow.com/",
+        "summary": "Chicago house institution Chosen Few takes its DJs and community to sea for a seven-night Miami roundtrip cruise with Terry Hunter, Alan King, Mike Dunn, Wayne Williams and more.",
+        "genres": [
+          "house"
+        ]
+      },
+      {
+        "id": "miami-big-easy-cruise-2027",
+        "title": "The Big Easy Cruise 2027",
+        "type": "festival",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-23",
+        "importance": 80,
+        "venueName": "Port Everglades Cruise Port",
+        "venueId": null,
+        "sourceUrl": "https://bigeasycruise.com/",
+        "ticketUrl": "https://starvistalive.rezmagic.com/Booking/Reservation/Start?tripID=10907",
+        "summary": "The Big Easy Cruise sails from nearby Fort Lauderdale on January 16-23 with New Orleans-rooted programming. The confirmed 2027 lineup includes Keb' Mo', Samantha Fish, Galactic featuring Jelly Joseph, Robert Randolph, The Record Company, Blind Boys of Alabama and more.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-salsa-cruise-2027",
+        "title": "2027 Salsa Cruise",
+        "type": "festival",
+        "startDate": "2027-01-25",
+        "endDate": "2027-01-29",
+        "importance": 79,
+        "venueName": "Miami, FL / Cruise ship",
+        "venueId": null,
+        "sourceUrl": "https://www.salsacruise.com/lineup/",
+        "ticketUrl": "https://salsacruise.rezmagic.com/",
+        "summary": "Latin dance-music cruise from Miami with salsa headliners from Puerto Rico, Colombia, Cuba and Peru plus nightly DJs, dance battles and instructors.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-dreamland-nye-2027",
+        "title": "Dreamland Festival Miami New Year’s Eve 2026/2027",
+        "type": "festival",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-03",
+        "importance": 76,
+        "venueName": "Various Miami Beach / Wynwood venues",
+        "venueId": null,
+        "sourceUrl": "https://www.gaytravel4u.com/event/dreamland-festival-miami-new-years-eve/",
+        "ticketUrl": null,
+        "summary": "LGBTQ+ circuit-party weekender carrying into January with house/EDM parties including M2 and Wynwood-area events.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-lettuce-new-years-2027",
+        "title": "Lettuce - New Year's Run",
+        "type": "concert",
+        "startDate": "2027-01-01",
+        "endDate": "2027-01-01",
+        "importance": 72,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://www.gmplive.net/events/lettuce-nye-26",
+        "ticketUrl": "https://wl.eventim.us/event/lettuce/698649?afflky=MiamiBeachBandshell",
+        "summary": "Lettuce closes its two-night New Year's run at Miami Beach Bandshell on January 1, 2027. The funk-jazz sextet is billed for two unique two-set shows celebrating the end of 2026 and the start of 2027.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-jody-wisternoff-2027",
+        "title": "Jody Wisternoff",
+        "type": "club-night",
+        "startDate": "2027-01-03",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Upside",
+        "venueId": null,
+        "sourceUrl": "https://posh.vip/e/jody-wisternoff-2?t=edmtrain",
+        "ticketUrl": "https://posh.vip/e/jody-wisternoff-2?t=edmtrain",
+        "summary": "Apex Presents brings Anjunadeep-linked UK selector Jody Wisternoff to Upside for a Sunday evening deep/progressive house session.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "miami-booker-t-jones-2027",
+        "title": "Booker T. Jones",
+        "type": "concert",
+        "startDate": "2027-01-15",
+        "endDate": "2027-01-15",
+        "importance": 72,
+        "venueName": "ZeyZey",
+        "venueId": null,
+        "sourceUrl": "https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan",
+        "ticketUrl": "https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan",
+        "summary": "Booker T. Jones is confirmed for ZeyZey's Zaku Stage on January 15, 2027. The Stax Records architect and Booker T. & the MGs co-founder brings a deep catalog of Memphis soul and Hammond-organ classics.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-california-honeydrops-2027",
+        "title": "The California Honeydrops - Winter Tour 2027",
+        "type": "concert",
+        "startDate": "2027-01-08",
+        "endDate": "2027-01-08",
+        "importance": 70,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/events/1649795/the-california-honeydrops-tickets",
+        "ticketUrl": "https://www.axs.com/events/1649795/the-california-honeydrops-tickets",
+        "summary": "The California Honeydrops bring their Winter Tour 2027 to Miami Beach Bandshell on January 8. The Oakland-rooted group is known for retro soul, blues, jazz and improvisational live sets.",
+        "genres": [
+          "r-and-b",
+          "jazz"
+        ]
+      },
+      {
+        "id": "miami-reggaeton-day-party-2027",
+        "title": "Reggaeton Day Party: Miami, FL",
+        "type": "club-night",
+        "startDate": "2027-01-30",
+        "endDate": null,
+        "importance": 68,
+        "venueName": "Tomorrowland Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.fatsoma.com/e/v7s346nn/reggaeton-day-party-miami-fl",
+        "ticketUrl": "https://www.fatsoma.com/e/v7s346nn/reggaeton-day-party-miami-fl",
+        "summary": "Touring Daytime Disco USA reggaeton party with a 21+ afternoon format, last-entry rules and tiered ticketing.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-shrine-afrobeats-caribbean-heat-2027",
+        "title": "The Shrine: Afrobeats + Caribbean Heat",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": null,
+        "importance": 65,
+        "venueName": "Red Rooster Overtown",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/the-shrine-afrobeats-caribbean-heat/33678",
+        "ticketUrl": "https://www.miamiandbeaches.com/event/the-shrine-afrobeats-caribbean-heat/33678",
+        "summary": "Weekly Overtown diaspora dance night centered on Afrobeats, Amapiano and Caribbean sounds, confirmed through January 2.",
+        "genres": [
+          "amapiano",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-heyz-midline-2027",
+        "title": "HEYZ at Midline Miami",
+        "type": "club-night",
+        "startDate": "2027-01-29",
+        "endDate": null,
+        "importance": 64,
+        "venueName": "Midline Miami",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/venues/134744/midline-miami-tickets?page=2",
+        "ticketUrl": "https://www.axs.com/venues/134744/midline-miami-tickets?page=2",
+        "summary": "Bass-forward electronic club booking at Midline, listed by the venue’s official AXS calendar for January 29.",
+        "genres": [
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-skyline-sessions-2027",
+        "title": "The Skyline Sessions @ Las’ Lap Rooftop Miami",
+        "type": "club-night",
+        "startDate": "2027-01-02",
+        "endDate": "2027-01-03",
+        "importance": 62,
+        "venueName": "Las’ Lap Miami Rooftop",
+        "venueId": null,
+        "sourceUrl": "https://posh.vip/e/the-skyline-sessions-laslap-rooftop-miami-2027-1-3-7-0",
+        "ticketUrl": "https://posh.vip/e/the-skyline-sessions-laslap-rooftop-miami-2027-1-3-7-0",
+        "summary": "South Beach rooftop party from The Stylez Way with R&B, Afro, hip-hop, dancehall and global party edits.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
+        ]
+      }
+    ]
+  }
+}

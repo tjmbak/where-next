@@ -2,15 +2,100 @@
   "slug": "courchevel",
   "month": 12,
   "year": 2026,
-  "generatedAt": "2026-05-09T18:52:52.562Z",
-  "responseId": "resp_0485213820c116b90069ff825127748196be3bf9b51303a988",
-  "searchCalls": 8,
+  "generatedAt": "2026-10-13T02:54:57.525Z",
+  "responseId": "resp_0621f693f88e9ce5006acd9cf7945087d0a9ef1032812324cd+resp_0a5b8d58caed49d1006acd9d32879487d093f43e99d68af612",
+  "searchCalls": 27,
   "citations": [],
   "data": {
     "destinationSlug": "courchevel",
     "month": 12,
     "year": 2026,
-    "notes": null,
-    "events": []
+    "notes": "Courchevel’s December 2026 resort-run music calendar is confirmed mainly around holiday and ski-week spectacles; most hotel, club, and après-ski venue lineups for the 2026/27 season are not yet published with specific dates.",
+    "events": [
+      {
+        "id": "courchevel-new-years-eve-party-2026",
+        "title": "New Year’s Eve Party — Courchevel 1850",
+        "type": "club-night",
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "importance": 82,
+        "venueName": "Front de neige, Courchevel 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/new-years-eve-party-courchevel-1850-6633721/",
+        "ticketUrl": null,
+        "summary": "Courchevel’s official New Year’s Eve open-air party features Djaayz, DJ Mast, fireworks, and an international DJ set by Mosimann after midnight. The official listing describes it as the biggest party in the Alps and lists free admission.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-nye-mosimann-2026",
+        "title": "New Year's Eve Party - Courchevel 1850 with Djaayz, DJ Mast and Mosimann",
+        "type": "concert",
+        "startDate": "2026-12-31",
+        "endDate": "2027-01-01",
+        "importance": 80,
+        "venueName": "Front de neige Courchevel 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/pt/a/new-years-eve-party-courchevel-1850-6633721/",
+        "ticketUrl": null,
+        "summary": "Courchevel 1850's free open-air New Year's Eve party, with warm-up by Djaayz, DJ Mast, midnight fireworks and an international DJ set from Mosimann after midnight.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-folie-douce-apres-ski-residency-2026",
+        "title": "La Folie Douce Méribel-Courchevel Daily Après-Ski Party Residency",
+        "type": "residency",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-31",
+        "importance": 68,
+        "venueName": "La Folie Douce Méribel-Courchevel",
+        "venueId": "la-folie-douce-courchevel",
+        "sourceUrl": "https://www.meribel.net/apidae/la-folie-douce-meribel-courchevel/",
+        "ticketUrl": null,
+        "summary": "Season-opening altitude après-ski residency running daily through the holiday period, combining the Rock The Top show format, terrace partying, restaurant service and end-of-day entertainment at the Saulire mid-station.",
+        "genres": [
+          "house",
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-world-cup-dj-loran-2026",
+        "title": "Audi FIS Women’s Ski World Cup Courchevel — DJ set with Loran",
+        "type": "concert",
+        "startDate": "2026-12-22",
+        "endDate": "2026-12-22",
+        "importance": 62,
+        "venueName": "Stade Emile Allais",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/coupe-du-monde-feminine-de-ski-audi-fis-ski-world-cup-7985544/",
+        "ticketUrl": null,
+        "summary": "Courchevel’s night slalom programme includes a confirmed DJ set by Loran, resident host of RTL2’s Pop-Rock Party, between the two race runs. The event is listed as free of charge on the official Courchevel tourism page.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "courchevel-christmas-concert-1850-2026",
+        "title": "Christmas Concert — Courchevel 1850",
+        "type": "concert",
+        "startDate": "2026-12-25",
+        "endDate": "2026-12-25",
+        "importance": 60,
+        "venueName": "Front de neige, Courchevel 1850",
+        "venueId": null,
+        "sourceUrl": "https://courchevel.com/en/a/christmas-concert-courchevel-1850-7198030/",
+        "ticketUrl": null,
+        "summary": "A live Christmas concert on the Courchevel 1850 snow front featuring the Christmas Band singing trio. The official Courchevel page lists the event for 25 December 2026 at 4:30 pm and notes free admission.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
   }
 }

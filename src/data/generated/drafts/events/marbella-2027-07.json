@@ -1,0 +1,101 @@
+{
+  "slug": "marbella",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:23:34.649Z",
+  "responseId": "resp_01428967bbe6b10b006acdb1b2127887d0a1c3ec658775e8e0+resp_06883a860fb79608006acdb20b3b5087d094fec36ae8ba6e6e",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "marbella",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 confirmations are still early, with Marbella proper led by Bella Festival and KISSTORY’s pool-club residency while nearby Fuengirola’s Marenostrum has already announced several major Costa del Sol arena-scale concerts.",
+    "events": [
+      {
+        "id": "marbella-don-omar-marenostrum-jul-2027",
+        "title": "Don Omar — The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-07-16",
+        "endDate": "2027-07-16",
+        "importance": 86,
+        "venueName": "Escenario Unicaja, Marenostrum Fuengirola",
+        "venueId": null,
+        "sourceUrl": "https://marenostrumfuengirola.com/eventos/don-omar/",
+        "ticketUrl": "https://marenostrumfuengirola.com/eventos/don-omar/",
+        "summary": "Don Omar is confirmed at Marenostrum Fuengirola on 16 July 2027, with show time listed at 21:00. The official page bills the reggaeton star’s European return under The Last King World Tour and marks the event as sold out.",
+        "genres": [
+          "latin"
+        ]
+      },
+      {
+        "id": "marbella-bella-festival-jul-2027",
+        "title": "Bella Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-31",
+        "endDate": "2027-07-31",
+        "importance": 83,
+        "venueName": "OMA Sound",
+        "venueId": null,
+        "sourceUrl": "https://bellafestival.es/",
+        "ticketUrl": "https://www.ingresse.com/bella-indexa-festival-2027/",
+        "summary": "Bella Festival is confirmed for Saturday 31 July 2027 at OMA Sound in Marbella. The official site has 2027 tickets linked, while the 2027 artist lineup is not yet clearly published on the page.",
+        "genres": [
+          "festival",
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-take-that-marenostrum-jul-2027",
+        "title": "Take That — Dreamers Tour",
+        "type": "concert",
+        "startDate": "2027-07-11",
+        "endDate": "2027-07-11",
+        "importance": 80,
+        "venueName": "Escenario Unicaja, Marenostrum Fuengirola",
+        "venueId": null,
+        "sourceUrl": "https://marenostrumfuengirola.com/eventos/take-that/",
+        "ticketUrl": "https://marenostrumfuengirola.com/eventos/take-that/",
+        "summary": "Take That are confirmed for Marenostrum Fuengirola on 11 July 2027, with show time listed at 21:00. The venue page describes it as the band’s only confirmed Andalucía date for the Dreamers Tour.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "marbella-kisstory-nao-jul-2027",
+        "title": "KISSTORY Marbella",
+        "type": "residency",
+        "startDate": "2027-07-11",
+        "endDate": "2027-07-11",
+        "importance": 78,
+        "venueName": "Naô Pool Club",
+        "venueId": null,
+        "sourceUrl": "https://site.fourvenues.com/es/nao-pool-club-marbella/events/kisstory-11-07-2027-23O1",
+        "ticketUrl": "https://site.fourvenues.com/es/nao-pool-club-marbella/events/kisstory-11-07-2027-23O1",
+        "summary": "KISSTORY’s Marbella summer residency is confirmed at Naô Pool Club, with this listed July date running 12:00–20:00. The party bills itself around KISSTORY DJs, residents and special guests playing old-skool and anthem-led daytime pool-club music.",
+        "genres": [
+          "house",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "marbella-david-bisbal-marenostrum-jul-2027",
+        "title": "David Bisbal — Tour Eternos",
+        "type": "concert",
+        "startDate": "2027-07-22",
+        "endDate": "2027-07-22",
+        "importance": 76,
+        "venueName": "Escenario Unicaja, Marenostrum Fuengirola",
+        "venueId": null,
+        "sourceUrl": "https://marenostrumfuengirola.com/eventos/david-bisbal/",
+        "ticketUrl": "https://marenostrumfuengirola.com/eventos/david-bisbal/",
+        "summary": "David Bisbal is confirmed for Marenostrum Fuengirola on 22 July 2027, with doors at 19:30 and show at 21:30. The concert is part of Tour Eternos, built around his album ETERNOS and Spanish-language pop repertoire.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "slug": "rio-de-janeiro",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:21:22.894Z",
+  "responseId": "resp_0b300d82a7348bd6006acda2e2334087d0bbf54ac4c3fe16d9+resp_02d9cf1907801da4006acda3680bf887d080629b02af03d081",
+  "searchCalls": 37,
+  "citations": [],
+  "data": {
+    "destinationSlug": "rio-de-janeiro",
+    "month": 2,
+    "year": 2027,
+    "notes": "February 2027 is already dominated by Rio Carnival, with confirmed Sambódromo parade nights plus premium camarotes and a small set of post-Carnival club/concert dates on sale.",
+    "events": [
+      {
+        "id": "rio-de-janeiro-rio-carnival-grupo-especial-2027",
+        "title": "Rio Carnaval 2027: Grupo Especial Competitive Parades",
+        "type": "carnival",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-09",
+        "importance": 100,
+        "venueName": "Rio Carnival",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-arquibancadas-grupo-especial-lado-impar",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-arquibancadas-grupo-especial-lado-impar",
+        "summary": "Rio’s top-tier Grupo Especial schools parade competitively on 7, 8 and 9 February at the Sambódromo da Marquês de Sapucaí. This is the flagship music-and-spectacle event of Carnival week in Rio.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-rio-carnival-champions-parade-2027",
+        "title": "Rio Carnaval 2027: Desfile das Campeãs",
+        "type": "carnival",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 98,
+        "venueName": "Rio Carnival",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-arquibancadas-grupo-especial-lado-impar",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-arquibancadas-grupo-especial-lado-impar",
+        "summary": "The six highest-placed Grupo Especial schools return to Sapucaí for the Champions Parade on 13 February. Ticketmaster lists the Champions Parade date alongside the competitive parade ticket information.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-rio-carnival-serie-ouro-2027",
+        "title": "Rio Carnaval 2027: Série Ouro Parades",
+        "type": "carnival",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-06",
+        "importance": 96,
+        "venueName": "Rio Carnival",
+        "venueId": "rio-carnival",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-arquibancadas-serie-ouro-lado-par",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-arquibancadas-serie-ouro-lado-par",
+        "summary": "The Série Ouro opens Rio’s official Sambadrome program across two nights, with 17 samba schools competing on 5 and 6 February. The Ticketmaster event page lists the participating schools for each night at Sambódromo da Marquês de Sapucaí.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-camarote-aura-feb-2027",
+        "title": "Camarote Aura 2027",
+        "type": "carnival",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-13",
+        "importance": 88,
+        "venueName": "Sambódromo da Marquês de Sapucaí",
+        "venueId": null,
+        "sourceUrl": "https://www.songkick.com/festivals/3803571-camarote-aura/id/43395901-camarote-aura-2027",
+        "ticketUrl": null,
+        "summary": "Camarote Aura is listed for the Rio Carnival season at the Sambódromo, with confirmed artists including Ludmilla, Matuê, João Gomes, Filipe Ret, Sorriso Maroto, Péricles, Dilsinho, Felipe Amorim, Belo and Mumuzinho. February dates fall within its 31 January–13 February run.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-camarote-rio-feb-2027",
+        "title": "Camarote Rio 2027",
+        "type": "carnival",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-13",
+        "importance": 87,
+        "venueName": "Sambódromo da Marquês de Sapucaí",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-camarote-rio",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/rio-carnaval-2027-camarote-rio",
+        "summary": "Camarote Rio’s confirmed February Carnival nights run on 5, 6, 7, 8, 9 and 13 February, with listed shows including Belo, Melody, Maneirinho, Roda do D2, L7nnon, DJ Topo, Sorriso Maroto, Xande de Pilares, Mumuzinho, Pixote, Ferrugem and Thiago Martins across the program.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-boma-carnario-2027",
+        "title": "BOMA CarnaRIO 2027",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-13",
+        "importance": 84,
+        "venueName": "Museu do Amanhã",
+        "venueId": null,
+        "sourceUrl": "https://festasrj.com.br/boma-carnario/festas/",
+        "ticketUrl": null,
+        "summary": "BOMA CarnaRIO is announced for 5–13 February 2027 at Museu do Amanhã, returning as a multi-night electronic Carnival program. The page notes five 2027 editions planned at the venue, with 2027 lineup details still not fully posted.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-jack-johnson-surfilmusic-2027",
+        "title": "Jack Johnson: SURFILMUSIC Tour",
+        "type": "concert",
+        "startDate": "2027-02-16",
+        "endDate": "2027-02-16",
+        "importance": 78,
+        "venueName": "Qualistage",
+        "venueId": null,
+        "sourceUrl": "https://www.livepass.com.br/event/jack-johnson-surfilmusic-tour-brasil-2027-rj-qualistage-21903836/?inApp=true",
+        "ticketUrl": "https://www.livepass.com.br/event/jack-johnson-surfilmusic-tour-brasil-2027-rj-qualistage-21903836/?inApp=true",
+        "summary": "Jack Johnson brings the SURFILMUSIC Tour to Qualistage on 16 February, with Donavon Frankenreiter and G. Love scheduled before Johnson’s 21:00 set. The Livepass page confirms the Rio date, venue and running order.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-bloco-das-gauchas-2027",
+        "title": "Bloco das Gaúchas Carnaval 2027",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Local a divulgar, Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://wegoout.com.br/eventos/bloco-das-gauchas-rj",
+        "ticketUrl": "https://www.ingresse.com/bloco-das-gauchas-carnaval-2027/",
+        "summary": "Long-running women-led Carnival party from Porto Alegre in Rio, returning for its 13th year with a 13-hour premium open-bar Saturday event and abadá included.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-baile-do-momo-2027",
+        "title": "Baile do Momo // Carnaval",
+        "type": "carnival",
+        "startDate": "2027-02-07",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Local a ser definido, Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://tasendo.com.br/rio-de-janeiro/festas/baile-do-momo-carnaval",
+        "ticketUrl": "https://cart.ingresse.com/cc9d0199-fc0a-458e-9e14-2e5a903d7b52/tickets",
+        "summary": "Sunday-night closed Carnival ball with open bar, open candy/guloseimas and open-palco format; listings tag the music mix around samba, pagode, funk and MPB.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-baile-do-momo-carnario-2027",
+        "title": "Baile do Momo CarnaRIO",
+        "type": "club-night",
+        "startDate": "2027-02-07",
+        "endDate": "2027-02-07",
+        "importance": 75,
+        "venueName": "Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://mareticket.com.br/produto/baile-do-momo-carnario/",
+        "ticketUrl": "https://mareticket.com.br/produto/baile-do-momo-carnario/",
+        "summary": "Baile do Momo CarnaRIO is confirmed for 7 February 2027 in Rio de Janeiro. The ticket page describes it as a premium Carnival party with full open bar and a large-scale production concept.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-we-make-better-days-carnival-2027",
+        "title": "We Make Better Days: Carnival Edition",
+        "type": "club-night",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-06",
+        "importance": 73,
+        "venueName": "Local a definir",
+        "venueId": null,
+        "sourceUrl": "https://www.sympla.com.br/evento/we-make-better-days-l-carnival-edition-05-02-2027/3578495",
+        "ticketUrl": "https://www.sympla.com.br/evento/we-make-better-days-l-carnival-edition-05-02-2027/3578495",
+        "summary": "We Make Better Days presents its Carnival Edition on 5 February from 23:00 to 08:00 the next morning in Rio de Janeiro. The confirmed Sympla page describes the 2027 edition as a full open-bar Carnival Friday event.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-ixquece-pool-party-2027",
+        "title": "IXQUECE | Carnaval 2027",
+        "type": "beach-club",
+        "startDate": "2027-02-09",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "Local a definir, Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://www.sympla.com.br/evento/ixquece-l-carnaval-2027/3531860",
+        "ticketUrl": "https://www.sympla.com.br/evento/ixquece-l-carnaval-2027/3531860",
+        "summary": "Annual Tuesday-of-Carnival Rio pool party from We Make, billed as the only IXQUECE of the year with 13 hours of full open bar from 11:00.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-majestique-carnaval-2027",
+        "title": "Majestique Carnaval",
+        "type": "carnival",
+        "startDate": "2027-02-08",
+        "endDate": null,
+        "importance": 71,
+        "venueName": "Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://festaserrejota.com.br/majestique-carnaval",
+        "ticketUrl": "https://festaserrejota.com.br/majestique-carnaval",
+        "summary": "Carnival Monday fantasy-party brand returning to Rio in a premium open-bar format, with a confirmed surprise funk attraction and more acts to be announced.",
+        "genres": [
+          "festival",
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-barko-after-carnaval-2027",
+        "title": "Barko: After de Carnaval",
+        "type": "club-night",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-21",
+        "importance": 70,
+        "venueName": "BR Marinas - Marina da Glória",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/pt-br/events/barko-carnaval",
+        "ticketUrl": "https://shotgun.live/pt-br/events/barko-carnaval",
+        "summary": "Barko’s post-Carnival party is confirmed for 21 February from 14:00 to 19:00 at BR Marinas - Marina da Glória. Shotgun lists KBRAL on the lineup and tags the event with baile funk and techno.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-isso-nao-e-uma-festa-2027",
+        "title": "Isso Não É Uma Festa – Carnaval Rio 2027",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-07",
+        "importance": 68,
+        "venueName": "A ser divulgado, Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://raentretenimento.com/eventos/ingressos-desconto-isso-nao-e-uma-festa-carnaval-riodejaneiro-0602/",
+        "ticketUrl": "https://raentretenimento.com/eventos/ingressos-desconto-isso-nao-e-uma-festa-carnaval-riodejaneiro-0602/",
+        "summary": "Invitation-led, full-open-bar Saturday-night Carnival party with a fantasy-forward concept, scheduled from 22:00 until 07:00; lineup still to be announced.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-rodrigo-barba-bloco-eu-sozinho-2027",
+        "title": "Rodrigo Barba apresenta “Bloco do Eu Sozinho”",
+        "type": "concert",
+        "startDate": "2027-02-13",
+        "endDate": "2027-02-13",
+        "importance": 64,
+        "venueName": "Circo Voador",
+        "venueId": null,
+        "sourceUrl": "https://www.eventim.com.br/artist/circo-voador/rodrigo-barba-apresenta-bloco-do-eu-sozinho-4232097/",
+        "ticketUrl": "https://www.eventim.com.br/event/rodrigo-barba-apresenta-bloco-do-eu-sozinho-circo-voador-22073536/",
+        "summary": "Rodrigo Barba closes the 25-year celebration tour for Los Hermanos’ classic album “Bloco do Eu Sozinho” at Circo Voador on 13 February. Eventim lists guests including Frank Jorge, BNegão and Melvin & Os Inoxidáveis.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-esbornia-carnario-2027",
+        "title": "Esbórnia – Carnaval RJ 2027",
+        "type": "carnival",
+        "startDate": "2027-02-06",
+        "endDate": "2027-02-07",
+        "importance": 73,
+        "venueName": "TBA - Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://raentretenimento.com/eventos/ingressos-desconto-esbornia-de-carnaval-rio-de-janeiro-2027/",
+        "ticketUrl": "https://raentretenimento.com/eventos/ingressos-desconto-esbornia-de-carnaval-rio-de-janeiro-2027/",
+        "summary": "Long-running Esbórnia Carnival party brand returns to Rio for a 12-hour full open-bar Saturday-to-Sunday edition; source lists Agencia Lorde as organizer, with venue and lineup still pending.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "rio-de-janeiro-balburdia-carnaval-2027",
+        "title": "Balbúrdia Carnaval 2027 – The Duck Show",
+        "type": "carnival",
+        "startDate": "2027-02-05",
+        "endDate": null,
+        "importance": 70,
+        "venueName": "TBA - Rio de Janeiro",
+        "venueId": null,
+        "sourceUrl": "https://partiupraboa.com/eventos/festa-balburdia-carnaval/",
+        "ticketUrl": "https://partiupraboa.com/eventos/festa-balburdia-carnaval/",
+        "summary": "Themed Balbúrdia Carnival edition billed as “The Duck Show,” a Friday-night full open-bar promoter party with open Duckz shot bar and a secret Rio location to be disclosed closer to the event.",
+        "genres": [
+          "festival",
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

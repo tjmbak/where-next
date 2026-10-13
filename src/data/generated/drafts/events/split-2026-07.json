@@ -2,9 +2,9 @@
   "slug": "split",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:24:43.083Z",
-  "responseId": "resp_0289336884b009560069ff5f7f7a2c819cbe81eefe326ed7bf",
-  "searchCalls": 14,
+  "generatedAt": "2026-05-30T18:46:28.046Z",
+  "responseId": "augment:resp_0d2877874c4f28e5006a1b300eb6f08198aed6ccc9113bf875",
+  "searchCalls": 21,
   "citations": [],
   "data": {
     "destinationSlug": "split",
@@ -31,6 +31,24 @@
         ]
       },
       {
+        "id": "split-sunburn-opening-2026",
+        "title": "Sunburn Europe Opening Party - Boiler Club",
+        "type": "club-night",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-19",
+        "importance": 80,
+        "venueName": "Boiler Club",
+        "venueId": null,
+        "sourceUrl": "https://events.liveit.io/sunburn-europe/sunburn-europe-opening-party/",
+        "ticketUrl": "https://events.liveit.io/sunburn-europe/sunburn-europe-opening-party/",
+        "summary": "Opening-night Split club event for Sunburn Europe’s Croatia Yacht Week debut, bringing the Asia-rooted EDM festival brand into Boiler Club from 23:00 to 05:00.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
         "id": "split-ultra-boat-party-2026",
         "title": "Ultra Europe 2026 Boat Party",
         "type": "club-night",
@@ -46,6 +64,41 @@
           "electronic",
           "house",
           "techno"
+        ]
+      },
+      {
+        "id": "split-sunburn-farewell-2026",
+        "title": "Sunburn Europe Farewell Party - Central Club",
+        "type": "club-night",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-25",
+        "importance": 78,
+        "venueName": "Central the Club",
+        "venueId": null,
+        "sourceUrl": "https://events.liveit.io/sunburn-europe/sunburn-europe-farewell-party/",
+        "ticketUrl": "https://events.liveit.io/sunburn-europe/sunburn-europe-farewell-party/",
+        "summary": "Closing Split club night for Sunburn Europe’s Croatia Yacht Week, staged at Central the Club from 23:00 to 05:00 as the branded farewell party.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "split-out-to-sea-boat-party-2026",
+        "title": "Out To Sea Boat Party - July Series",
+        "type": "club-night",
+        "startDate": "2026-07-02",
+        "endDate": "2026-07-30",
+        "importance": 64,
+        "venueName": "TBC / Split boat departure",
+        "venueId": null,
+        "sourceUrl": "https://www.partyhardtravel.com/croatia/events/calendar/july",
+        "ticketUrl": "https://www.partyhardtravel.com/croatia/events/calendar/july",
+        "summary": "Recurring July boat-party run listed by Party Hard Travel on July 2, 5, 9, 12, 16, 19, 23, 26 and 30 at 14:00, positioned as part of Split’s summer party-package circuit.",
+        "genres": [
+          "electronic",
+          "house"
         ]
       }
     ]

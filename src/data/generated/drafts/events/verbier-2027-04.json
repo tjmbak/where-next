@@ -1,0 +1,138 @@
+{
+  "slug": "verbier",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:45:45.791Z",
+  "responseId": "resp_0982f2c715a1fc61006acda8e0f99887d0a42ea4a03030d9a7+resp_086dfbf764f184a8006acda944d3f087d0b9e674834be78ba5",
+  "searchCalls": 22,
+  "citations": [],
+  "data": {
+    "destinationSlug": "verbier",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 currently has a sparse confirmed calendar: the reliable picture is late-season après-ski/live-band and nightclub programming in Verbier plus a nearby 4 Vallées electronic festival.",
+    "events": [
+      {
+        "id": "verbier-snow-vibes-nendaz-2027",
+        "title": "Snow Vibes Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-10",
+        "endDate": "2027-04-12",
+        "importance": 80,
+        "venueName": "Snow Vibes Festival, Nendaz",
+        "venueId": null,
+        "sourceUrl": "https://www.nendazsnowvibes.ch/pro/",
+        "ticketUrl": "https://www.nendazsnowvibes.ch/tickets/",
+        "summary": "Snow Vibes 2027 is confirmed for April 2027 in Nendaz, within the 4 Vallées area, as a two-day high-altitude electronic festival with international electronic, techno and dance artists. The official page lists the venue at 2,200 meters above sea level with a 7,000-visitor, cable-car-accessed festival setup.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "verbier-farinet-apres-live-2027",
+        "title": "Farinet Après-ski Live Music Season",
+        "type": "residency",
+        "startDate": "2026-12-11",
+        "endDate": "2027-04-11",
+        "importance": 74,
+        "venueName": "Farinet Après-ski",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farinet-apres-ski-verbier-en-2923576/",
+        "ticketUrl": null,
+        "summary": "Farinet Après-ski’s winter season runs through 11 April 2027, with live music listed every evening from 18:00 to 21:00. It is one of Verbier’s defining après-ski party rooms rather than a one-off concert.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-farm-club-weekends-2027",
+        "title": "Farm Club Winter Weekend Nights",
+        "type": "club-night",
+        "startDate": "2026-11-20",
+        "endDate": "2027-04-11",
+        "importance": 73,
+        "venueName": "Farm Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/discover/pause-indoor-activities-wellness/farm-club-verbier-en-2788094/",
+        "ticketUrl": null,
+        "summary": "Farm Club’s winter opening period is confirmed through 11 April 2027, with Friday and Saturday club hours listed from 23:00 to 04:00. The long-running Verbier nightclub is positioned as a central late-night dance-floor institution in the resort.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-south-djs-jazz-soul-2027",
+        "title": "SOUTH Restaurant & Club Winter DJ and Jazz/Soul Nights",
+        "type": "residency",
+        "startDate": "2026-12-18",
+        "endDate": "2027-04-17",
+        "importance": 68,
+        "venueName": "SOUTH Restaurant & Club",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/south-restaurant-club-verbier-en-4557632/",
+        "ticketUrl": null,
+        "summary": "SOUTH’s winter club season is listed through 17 April 2027, with DJs and late-night dancing; its venue description also highlights Jazz & Soul Thursdays and resident/guest DJs through the season. This is a solid late-season Verbier nightlife pick rather than a named festival lineup.",
+        "genres": [
+          "electronic",
+          "jazz",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "verbier-farinet-lounge-dj-residency-2027",
+        "title": "Farinet Lounge Bar nightly DJ residency",
+        "type": "residency",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-24",
+        "importance": 68,
+        "venueName": "Farinet Lounge Bar / SOUTH Restaurant & Club",
+        "venueId": "farinet-verbier",
+        "sourceUrl": "https://www.verbier.ch/decouvrir/pause-activites-indoor-wellness/farinet-lounge-bar-lourtier-fr-2923467/",
+        "ticketUrl": null,
+        "summary": "Season-long central Verbier après-to-late-night programme: DJ-led lounge sessions from 21:00, with the connected SOUTH space described as shifting into one of Verbier’s livelier nightclub settings on weekends, confirmed open through 24 April 2027.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-le-rouge-dj-programme-2027",
+        "title": "Le Rouge winter DJ programme",
+        "type": "residency",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-25",
+        "importance": 66,
+        "venueName": "Le Rouge Restaurant & Après-Ski",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/pratique/taste-restaurants-et-bars/le-rouge-restaurant-verbier-fr-2788471/",
+        "ticketUrl": "https://www.lerouge-verbier.com/",
+        "summary": "Le Rouge’s confirmed winter-season public events programme with contemporary DJ programming continues through 25 April 2027, covering Verbier’s après-ski-to-evening terrace party lane rather than a one-off arena show.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "verbier-taratata-dj-nights-2027",
+        "title": "Taratata festive late-night DJ sets",
+        "type": "residency",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-30",
+        "importance": 60,
+        "venueName": "Taratata",
+        "venueId": null,
+        "sourceUrl": "https://www.verbier.ch/en/practice/taste-restaurants-and-bars/taratata-verbier-en-3012180/",
+        "ticketUrl": "https://www.taratata-verbier.ch",
+        "summary": "Taratata’s season listing confirms festive late-night parties with DJ sets during its 3 December 2026–30 April 2027 operating period, making it a smaller but verified Verbier nightlife option for April 2027.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

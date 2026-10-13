@@ -1,0 +1,114 @@
+{
+  "slug": "new-orleans",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:03:14.141Z",
+  "responseId": "resp_0bb7dfe2362ef6da006acdacef6d3087d09183d159339ac87b+resp_0c5a7ed87257807c006acdad41367087d091f6bd0cec51c259",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 5,
+    "year": 2027,
+    "notes": "May 2027 is currently anchored by Jazz Fest’s closing weekend, with only a small number of late-night and touring concerts confirmed this far out.",
+    "events": [
+      {
+        "id": "new-orleans-jazz-fest-2027",
+        "title": "New Orleans Jazz & Heritage Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-22",
+        "endDate": "2027-05-02",
+        "importance": 98,
+        "venueName": "New Orleans Jazz & Heritage Festival",
+        "venueId": "jazz-fest-nola",
+        "sourceUrl": "https://www.neworleans.com/things-to-do/festivals/music-festivals/the-ultimate-jazz-fest-guide/",
+        "ticketUrl": "https://www.nojazzfest.com/",
+        "summary": "Jazz Fest returns across two Thursday-to-Sunday weekends, April 22–25 and April 29–May 2, 2027, at the Fair Grounds. The 2027 music lineup is not yet announced, but the festival is New Orleans’ flagship multi-stage celebration of local, national, and international music.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-rock-the-boat-mdw-2027",
+        "title": "Rock The Boat New Orleans: Memorial Day Weekend All White Boat Party",
+        "type": "club-night",
+        "startDate": "2027-05-29",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Creole Queen",
+        "venueId": null,
+        "sourceUrl": "https://islandetickets.com/event/nolamdw",
+        "ticketUrl": "https://www.ticketgateway.com/event/view/rock-the-boat-new-orleans--memorial-day-weekend-all-white-boat-party",
+        "summary": "I AM LEGACI’s touring Rock The Boat brand brings an all-white Memorial Day Weekend party cruise to the Mississippi River, with music, dancing, and limited boat capacity aboard the Creole Queen.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-moe-chickie-wah-wah-2027",
+        "title": "moe. late-night club show",
+        "type": "club-night",
+        "startDate": "2027-05-01",
+        "endDate": "2027-05-01",
+        "importance": 72,
+        "venueName": "Chickie Wah Wah",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketweb.com/event/moe-chickie-wah-wah-tickets/14349814",
+        "ticketUrl": "https://www.ticketweb.com/event/moe-chickie-wah-wah-tickets/14349814",
+        "summary": "Chickie Wah Wah presents a special 21+ late-night show by jam band moe. on Saturday, May 1, 2027, at 11:15 PM. The listing notes that access is tied to a limited two-day pass via the Civic Theatre ticketing page rather than standalone tickets.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-bayou-boogaloo-2027",
+        "title": "Bayou Boogaloo",
+        "type": "festival",
+        "startDate": "2027-05-14",
+        "endDate": "2027-05-16",
+        "importance": 72,
+        "venueName": "Historic Pitot House & The Broadside",
+        "venueId": null,
+        "sourceUrl": "https://www.experienceneworleans.com/events.html",
+        "ticketUrl": null,
+        "summary": "A neighborhood-scale New Orleans music, art, food, and bayou-culture festival returning for a mid-May weekend outside the city’s mega-festival circuit.",
+        "genres": [
+          "festival",
+          "jazz"
+        ]
+      },
+      {
+        "id": "new-orleans-michael-shannon-jason-narducy-rem-document-2027",
+        "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.’s Document",
+        "type": "concert",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-05",
+        "importance": 63,
+        "venueName": "The Joy Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-new-orleans-louisiana-05-05-2027/event/1B00653CA702AAAE",
+        "ticketUrl": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-new-orleans-louisiana-05-05-2027/event/1B00653CA702AAAE",
+        "summary": "Michael Shannon, Jason Narducy, and friends bring their performance of R.E.M.’s 1987 album Document to The Joy Theater on May 5, 2027. The confirmed Ticketmaster event is listed as an alternative concert at 7:00 PM.",
+        "genres": []
+      },
+      {
+        "id": "new-orleans-david-foster-katharine-mcphee-2027",
+        "title": "David Foster and Katharine McPhee",
+        "type": "concert",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-13",
+        "importance": 60,
+        "venueName": "Orpheum Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.axs.com/artists/900335/david-foster-tickets?page=2",
+        "ticketUrl": "https://www.axs.com/artists/900335/david-foster-tickets?page=2",
+        "summary": "David Foster and Katharine McPhee are listed for a 7:30 PM concert at Orpheum Theater in New Orleans on May 13, 2027. The AXS tour listing confirms the New Orleans stop alongside other May 2027 dates.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

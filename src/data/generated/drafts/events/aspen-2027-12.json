@@ -1,0 +1,16 @@
+{
+  "slug": "aspen",
+  "month": 12,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:15:06.981Z",
+  "responseId": "resp_0686aa4fe80cb00c006acdb003b25087d0a0ec2bd54b76565b+resp_0c844abd83f542b8006acdb0274ac887d097e997c98755db2c",
+  "searchCalls": 17,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 12,
+    "year": 2027,
+    "notes": "No verified scene-defining Aspen club, promoter, diaspora, or genre events for December 2027 were found on venue calendars or ticket/listing platforms checked.",
+    "events": []
+  }
+}

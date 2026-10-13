@@ -1,0 +1,87 @@
+{
+  "slug": "cape-town",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:31:57.408Z",
+  "responseId": "resp_09b8bb5e5cb1aa22006acda58ab79487d0973d1ab921253a5e+resp_0df20a0f6fd043e6006acda5d59b8087d0bb36261d68278d5d",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "cape-town",
+    "month": 3,
+    "year": 2027,
+    "notes": "Only events with explicit March 2027 dates published by a qualifying source are included.",
+    "events": [
+      {
+        "id": "cape-town-montreux-jazz-franschhoek-2027",
+        "title": "Montreux Jazz Festival Franschhoek 2027",
+        "type": "festival",
+        "startDate": "2027-03-19",
+        "endDate": "2027-03-21",
+        "importance": 90,
+        "venueName": "Franschhoek Wine Valley",
+        "venueId": null,
+        "sourceUrl": "https://mjfsa.com/",
+        "ticketUrl": null,
+        "summary": "The South African edition of the Montreux Jazz Festival returns to Franschhoek for its second edition from 19–21 March 2027. The 2027 lineup has not yet been announced on the official festival page.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-bazique-festival-2027",
+        "title": "Bazique Festival 2027",
+        "type": "festival",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-07",
+        "importance": 82,
+        "venueName": "Buffalo Drift",
+        "venueId": null,
+        "sourceUrl": "https://bazique.howlerapp.com/events/bazique-festival-2027-6f15",
+        "ticketUrl": "https://bazique.howlerapp.com/events/bazique-festival-2027-6f15",
+        "summary": "Three-day camping festival of art and music at Buffalo Drift, presented as a collaboration of Cape Town party promoters, creatives, musicians, installation artists and performers. The 2027 ticketing page confirms 14:00 on 5 March through 17:00 on 7 March 2027.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "cape-town-habitat-whisper-2027",
+        "title": "HABITAT ~ Whisper in the Woods 27′",
+        "type": "festival",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-21",
+        "importance": 75,
+        "venueName": "Otium Oasis Glamping and Camping",
+        "venueId": null,
+        "sourceUrl": "https://psymedia.co.za/festival/habitat-whisper-in-the-woods/",
+        "ticketUrl": "https://psymedia.co.za/festival/habitat-whisper-in-the-woods/",
+        "summary": "Outdoor forest gathering focused on psychedelic trance, techno, immersive stage design and South Africa’s tight-knit outdoor electronic dancefloor culture, held near the Tesselaarsdal/Otium Oasis site.",
+        "genres": [
+          "electronic",
+          "techno",
+          "festival"
+        ]
+      },
+      {
+        "id": "cape-town-paradisco-gypsy-woman-2027",
+        "title": "Paradisco - Gypsy Woman",
+        "type": "club-night",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-28",
+        "importance": 70,
+        "venueName": "Grand Africa Cafe & Beach, Cape Town",
+        "venueId": null,
+        "sourceUrl": "https://paradisco.howler.co.za/events/paradisco-gypsy-woman-27-march-2027-f4fe",
+        "ticketUrl": "https://paradisco.howler.co.za/events/paradisco-gypsy-woman-27-march-2027-f4fe",
+        "summary": "Paradisco’s beachside Gypsy Woman edition is confirmed at Grand Africa Cafe & Beach, running from 18:00 on 27 March to 02:00 on 28 March 2027. The party is billed musically as disco to house and everything in between.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      }
+    ]
+  }
+}

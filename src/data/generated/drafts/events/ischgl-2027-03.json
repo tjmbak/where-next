@@ -1,0 +1,83 @@
+{
+  "slug": "ischgl",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:34:58.655Z",
+  "responseId": "resp_0edf9875b282499d006acda65bb96c87d0911e52e24f37d35a+resp_0fc92c39f9acff7c006acda6a8fb1887d0a27a61af1e61f830",
+  "searchCalls": 18,
+  "citations": [],
+  "data": {
+    "destinationSlug": "ischgl",
+    "month": 3,
+    "year": 2027,
+    "notes": "Confirmed March music is concentrated around the 28 March Spring Blanc launch and the Top of the Mountain Easter weekend; most April headliners and club-style lineups are still not announced.",
+    "events": [
+      {
+        "id": "ischgl-top-of-the-mountain-easter-2027",
+        "title": "Top of the Mountain Easter Concert",
+        "type": "concert",
+        "startDate": "2027-03-28",
+        "endDate": "2027-03-28",
+        "importance": 88,
+        "venueName": "Ischgl Stage",
+        "venueId": "top-of-the-mountain-ischgl",
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/top-of-the-mountain-easter-concert_event_48827699",
+        "ticketUrl": null,
+        "summary": "The Top of the Mountain Easter Concert is confirmed for Easter Sunday at the Ischgl Stage in the Silvretta Arena, 2,300 metres up in the ski area. The official page marks the lineup as coming soon, so no headliner is listed yet.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-spring-blanc-2027",
+        "title": "Spring Blanc in Ischgl",
+        "type": "festival",
+        "startDate": "2027-03-28",
+        "endDate": "2027-05-02",
+        "importance": 84,
+        "venueName": "Silvretta Arena Ischgl/Samnaun",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/springblanc",
+        "ticketUrl": null,
+        "summary": "Spring Blanc is Ischgl’s late-season event series combining spring skiing, culinary programming, lifestyle events and music. The official page lists the 2027 run from 28 March to 2 May and highlights Top of the Mountain concerts and live music in the snow.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "ischgl-trofana-alm-party-de-luxe-2027",
+        "title": "Trofana Alm “Party de Luxe” Après-Ski DJ Residency",
+        "type": "residency",
+        "startDate": "2026-11-26",
+        "endDate": "2027-05-02",
+        "importance": 66,
+        "venueName": "Trofana Alm",
+        "venueId": "trofana-alm-ischgl",
+        "sourceUrl": "https://www.ischgl.com/en/plan-your-trip/ischgl-a-z/trofana-alm_infra_100003134",
+        "ticketUrl": null,
+        "summary": "Season-long daily après-ski party at one of Ischgl’s signature nightlife venues, with the official listing noting regular international DJ appearances and modern sound production; the run covers all of March 2027.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "ischgl-easter-party-see-2027",
+        "title": "Easter Party in See: The Pfundskerle live",
+        "type": "concert",
+        "startDate": "2027-03-29",
+        "endDate": "2027-03-29",
+        "importance": 62,
+        "venueName": "Panoramarestaurant Medrig Alm (Medrig Alm Stage)",
+        "venueId": null,
+        "sourceUrl": "https://www.ischgl.com/en/events-experiences/topevents/easter-party-in-see_event_49705937",
+        "ticketUrl": null,
+        "summary": "The nearby Paznaun resort of See hosts an Easter Monday mountain-stage party with The Pfundskerle providing live entertainment from 2:00 pm. Admission is listed as free with a valid ski pass.",
+        "genres": [
+          "pop"
+        ]
+      }
+    ]
+  }
+}

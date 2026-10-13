@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SiteHeader } from "@/components/nav/SiteHeader";
 import { notFound, redirect } from "next/navigation";
 import { TripEditor } from "@/components/trips/TripEditor";
 import { DESTINATIONS } from "@/data/music-travel";
@@ -43,23 +44,15 @@ export default async function TripEditPage({ params }: RouteContext) {
 
   return (
     <main className="min-h-screen w-full bg-[var(--background)]">
-      <header className="mx-auto flex w-full max-w-[1180px] items-center justify-between px-6 py-6 sm:px-10">
-        <Link href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-          <span className="inline-flex h-6 w-6 items-center justify-center rounded-sm bg-[var(--foreground)] font-mono text-[11px] font-bold text-[var(--background)]">
-            W
-          </span>
-          <span>where next</span>
-        </Link>
+      <SiteHeader />
+
+      <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-8 sm:px-10">
         <Link
           href={`/trips/${slug}`}
           className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
         >
           ← back to trip
         </Link>
-      </header>
-
-      <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-10 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">edit trip</p>
         <h1 className="mt-3 text-[clamp(2rem,4vw,2.5rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
           {trip.title}
         </h1>

@@ -1,0 +1,321 @@
+{
+  "slug": "paris",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:32:19.049Z",
+  "responseId": "resp_003b60a8c691c222006acda595ea0087d0b9df349582b6a3c1+resp_02d7ac0fbbe90d2f006acda5e83b8087d0a7d1e5ce8c931657",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "paris",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is already anchored by Banlieues Bleues plus a strong run of arena pop, Francophone rap, diaspora pop, jazz, and electronic/live-club dates.",
+    "events": [
+      {
+        "id": "paris-angele-instinct-tour-2027",
+        "title": "Angèle — Instinct Tour",
+        "type": "residency",
+        "startDate": "2027-03-08",
+        "endDate": "2027-03-13",
+        "importance": 90,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/angele--be804",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/angele--be804",
+        "summary": "Angèle plays a multi-night Accor Arena run on 8, 9, 10, 12 and 13 March 2027 as part of her Instinct Tour. The venue page describes the Belgian artist as a major voice in contemporary European pop.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-banlieues-bleues-2027",
+        "title": "Banlieues Bleues 44th Edition",
+        "type": "festival",
+        "startDate": "2027-03-05",
+        "endDate": "2027-04-02",
+        "importance": 88,
+        "venueName": "Various venues, Seine-Saint-Denis / Greater Paris",
+        "venueId": null,
+        "sourceUrl": "https://www.banlieuesbleues.org/festival/programme/",
+        "ticketUrl": null,
+        "summary": "Banlieues Bleues confirms its 44th edition from 5 March to 2 April 2027, bringing its long-running jazz and adventurous-music festival format to venues around Greater Paris.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-teddy-swims-2027",
+        "title": "Teddy Swims",
+        "type": "concert",
+        "startDate": "2027-03-30",
+        "endDate": "2027-03-31",
+        "importance": 86,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/teddy-swims--5cc4d",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/teddy-swims--5cc4d",
+        "summary": "Teddy Swims plays Accor Arena on 30 and 31 March 2027. The venue describes him as a powerful soul voice crossing R&B, pop and country.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-magic-system-30-years-2027",
+        "title": "Magic System — 30th Anniversary",
+        "type": "concert",
+        "startDate": "2027-03-21",
+        "endDate": "2027-03-21",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/magic-system--50118",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/magic-system--50118",
+        "summary": "Magic System celebrate 30 years of their career at Accor Arena on 21 March 2027. The venue frames it as an anniversary event built around global hits including “Premier Gaou” and “Magic in the Air.”",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "paris-elgrandetoto-salgoat-2027",
+        "title": "ElGrandeToto — Salgoat World Tour",
+        "type": "concert",
+        "startDate": "2027-03-27",
+        "endDate": "2027-03-27",
+        "importance": 84,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/elgrandetoto-salgoat-world-tour--252fb",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/elgrandetoto-salgoat-world-tour--252fb",
+        "summary": "Moroccan-Francophone rap star ElGrandeToto brings the Salgoat World Tour to Accor Arena on 27 March 2027. The venue notes his move from sold-out Olympia and Zénith shows into arena scale.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-keblack-2027",
+        "title": "KeBlack",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-25",
+        "importance": 83,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/keblack--cfce8",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/keblack--cfce8",
+        "summary": "KeBlack plays Accor Arena on 25 March 2027. The venue positions the concert as a celebration of his recent hit streak and rise through the French urban-pop scene.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-grand-corps-malade-2027",
+        "title": "Grand Corps Malade",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-13",
+        "importance": 82,
+        "venueName": "adidas arena",
+        "venueId": null,
+        "sourceUrl": "https://www.adidasarena.com/programmation/grand-corps-malade--1175",
+        "ticketUrl": "https://www.adidasarena.com/programmation/grand-corps-malade--1175",
+        "summary": "Grand Corps Malade performs two adidas arena dates on 12 and 13 March 2027. The venue confirms the French slam and rap figure’s return to the stage with a new tour.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-tash-sultana-2027",
+        "title": "Tash Sultana",
+        "type": "concert",
+        "startDate": "2027-03-29",
+        "endDate": "2027-03-29",
+        "importance": 80,
+        "venueName": "adidas arena",
+        "venueId": null,
+        "sourceUrl": "https://www.adidasarena.com/programmation/tash-sultana--1053",
+        "ticketUrl": "https://www.adidasarena.com/programmation/tash-sultana--1053",
+        "summary": "Tash Sultana’s adidas arena concert is confirmed for 29 March 2027 after being rescheduled from 13 March 2026. The venue says existing tickets remain valid for the new Paris date.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-chloe-olympia-2027",
+        "title": "Chloé - L’Olympia",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "L’Olympia",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/chloe-l-olympia",
+        "ticketUrl": "https://shotgun.live/en/events/chloe-l-olympia",
+        "summary": "A rare headline concert from Chloé, the Paris electronic DJ/producer closely associated with Pulp-era club culture and left-field, emotionally driven DJ sets.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-yuston-xiii-2027",
+        "title": "Yuston XIII",
+        "type": "concert",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-20",
+        "importance": 77,
+        "venueName": "Accor Arena",
+        "venueId": null,
+        "sourceUrl": "https://www.accorarena.com/fr/programmation/yuston-xiii--4ebb6",
+        "ticketUrl": "https://www.accorarena.com/fr/programmation/yuston-xiii--4ebb6",
+        "summary": "Yuston XIII plays Accor Arena on 20 March 2027, following the release of Les Enfants du Chaos. The arena presents the date as a major return for the French artist.",
+        "genres": [
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-moses-boyd-2027",
+        "title": "Moses Boyd",
+        "type": "concert",
+        "startDate": "2027-03-25",
+        "endDate": "2027-03-25",
+        "importance": 77,
+        "venueName": "La Bellevilloise",
+        "venueId": null,
+        "sourceUrl": "https://labellevilloise.com/evenement/moses-boyd/",
+        "ticketUrl": "https://labellevilloise.com/evenement/moses-boyd/",
+        "summary": "Moses Boyd performs at La Bellevilloise on 25 March 2027. The venue presents the Mercury Prize-nominated drummer, producer and composer around his album Songs For Sinners, spanning jazz, gospel, sound-system culture and bass music.",
+        "genres": [
+          "jazz",
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-assassin-cigale-2027",
+        "title": "Assassin",
+        "type": "concert",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 76,
+        "venueName": "La Cigale",
+        "venueId": null,
+        "sourceUrl": "https://lacigale.fr/evenements/assassin-4/",
+        "ticketUrl": "https://lacigale.fr/evenements/assassin-4/",
+        "summary": "French hip-hop group Assassin return to Paris at La Cigale on 13 March 2027. The venue bills the group as a foundational conscious rap act led by Rockin’ Squat.",
+        "genres": [
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "paris-mph-sacre-2027",
+        "title": "Sacré Présente: MPH & Friends",
+        "type": "club-night",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-14",
+        "importance": 76,
+        "venueName": "Sacré",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/mphsacre",
+        "ticketUrl": "https://shotgun.live/en/events/mphsacre",
+        "summary": "UK garage producer MPH brings a late-night Sacré session focused on bass-heavy club tracks, framed as a Paris stop after sold-out tours and international festival appearances.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-la-roux-trianon-2027",
+        "title": "La Roux",
+        "type": "concert",
+        "startDate": "2027-03-09",
+        "endDate": "2027-03-09",
+        "importance": 74,
+        "venueName": "Le Trianon",
+        "venueId": null,
+        "sourceUrl": "https://www.letrianon.fr/fr/programmation/la-roux/",
+        "ticketUrl": "https://www.letrianon.fr/fr/programmation/la-roux/",
+        "summary": "La Roux plays Le Trianon on 9 March 2027. The show spotlights the synth-pop artist whose work has been sampled or referenced by artists across pop, club and hip-hop scenes.",
+        "genres": [
+          "electronic",
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-yousuke-yukimatsu-centquatre-2027",
+        "title": "¥ØU$UK€ ¥UK1MAT$U (Yousuke Yukimatsu) @ CENTQUATRE-PARIS",
+        "type": "concert",
+        "startDate": "2027-03-13",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "CENTQUATRE-PARIS",
+        "venueId": null,
+        "sourceUrl": "https://by-night.fr/paris/soiree/yenou-ukeur-yenuk1mat-u-yousuke-yukimatsu-centquatre-paris--4033906",
+        "ticketUrl": "https://shotgun.live/events/ou-uk-uk-1-mat-u-centquatre-paris",
+        "summary": "Super! presents the boundary-pushing Japanese selector Yousuke Yukimatsu for a confirmed Centquatre appearance, listed on Shotgun under gabber, trance, house and experimental-adjacent tags.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
+      {
+        "id": "paris-yousuke-yukimatsu-2027",
+        "title": "¥ØU$UK€ ¥UK1MAT$U",
+        "type": "club-night",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 72,
+        "venueName": "104 CENTQUATRE",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2538425",
+        "ticketUrl": "https://ra.co/events/2538425",
+        "summary": "Japanese selector ¥ØU$UK€ ¥UK1MAT$U plays 104 CENTQUATRE on 13 March 2027. Resident Advisor lists the event with Super! as promoter and ¥ØU$UK€ ¥UK1MAT$U as the lineup.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "paris-squeeze-bataclan-2027",
+        "title": "Squeeze",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "importance": 72,
+        "venueName": "Le Bataclan",
+        "venueId": null,
+        "sourceUrl": "https://www.bataclan.fr/en/event/squeeze_2027-03-18/",
+        "ticketUrl": "https://www.bataclan.fr/en/event/squeeze_2027-03-18/",
+        "summary": "British pop institution Squeeze play Le Bataclan on 18 March 2027. The venue highlights the band’s blend of new wave, power pop and melodic songwriting.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "paris-general-elektriks-cigale-2027",
+        "title": "General Elektriks",
+        "type": "concert",
+        "startDate": "2027-03-30",
+        "endDate": "2027-03-30",
+        "importance": 72,
+        "venueName": "La Cigale",
+        "venueId": null,
+        "sourceUrl": "https://lacigale.fr/evenements/general-elektriks-2/",
+        "ticketUrl": "https://lacigale.fr/evenements/general-elektriks-2/",
+        "summary": "General Elektriks plays La Cigale on 30 March 2027 with a live-band show rooted in funk, soul, hip-hop and jazz. The venue notes the performance will feature material from a new album announced for January 2027.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

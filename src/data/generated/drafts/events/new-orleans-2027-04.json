@@ -1,0 +1,136 @@
+{
+  "slug": "new-orleans",
+  "month": 4,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:50:54.754Z",
+  "responseId": "resp_0910dc2d9517e72a006acda9dca9f887d0be02f85c3c51de0e+resp_0439b89b90daf9da006acdaa489e4087d0966b732a00ed0654",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "new-orleans",
+    "month": 4,
+    "year": 2027,
+    "notes": "April 2027 is anchored by French Quarter Festival and the opening weekends of Jazz Fest, with smaller local street-festival and electronic-programming confirmations starting to appear.",
+    "events": [
+      {
+        "id": "new-orleans-jazz-heritage-festival-2027",
+        "title": "New Orleans Jazz & Heritage Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-22",
+        "endDate": "2027-05-02",
+        "importance": 98,
+        "venueName": "New Orleans Jazz & Heritage Festival",
+        "venueId": "jazz-fest-nola",
+        "sourceUrl": "https://www.nojazzfest.com/faq/",
+        "ticketUrl": null,
+        "summary": "Jazz Fest returns over two long weekends: April 22–25 and April 29–May 2, 2027 at the Fair Grounds Race Course. The festival covers New Orleans and Louisiana music traditions alongside blues, R&B, gospel, Cajun, zydeco, Afro-Caribbean, Latin, rock, rap, country, bluegrass, and jazz; the 2027 artist lineup is still pending.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-french-quarter-festival-2027",
+        "title": "French Quarter Festival 2027",
+        "type": "festival",
+        "startDate": "2027-04-08",
+        "endDate": "2027-04-11",
+        "importance": 90,
+        "venueName": "French Quarter",
+        "venueId": null,
+        "sourceUrl": "https://frenchquarterfest.org/",
+        "ticketUrl": null,
+        "summary": "Free four-day French Quarter music festival showcasing New Orleans and Louisiana music across outdoor stages. The 2027 lineup has not yet been announced, but the festival dates are confirmed for April 8–11, 2027.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-niall-horan-2027",
+        "title": "Niall Horan: Dinner Party Live on Tour",
+        "type": "concert",
+        "startDate": "2027-04-29",
+        "endDate": "2027-04-29",
+        "importance": 82,
+        "venueName": "Smoothie King Center",
+        "venueId": null,
+        "sourceUrl": "https://www.smoothiekingcenter.com/events/detail/niall-horan",
+        "ticketUrl": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-new-orleans-louisiana-04-29-2027/event/1B0064A893B6A823",
+        "summary": "Niall Horan brings his Dinner Party Live on Tour to Smoothie King Center on April 29, 2027, with special guest Cameron Whitcomb. The arena show starts at 7:30 PM.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-electric-spring-2027",
+        "title": "Electric Spring 2027",
+        "type": "festival",
+        "startDate": "2027-04-02",
+        "endDate": "2027-04-03",
+        "importance": 72,
+        "venueName": "The Broadside",
+        "venueId": null,
+        "sourceUrl": "https://electricspringfestival.com/faq/",
+        "ticketUrl": "https://electricspringfestival.com/tickets/",
+        "summary": "Two-day New Orleans electronic music and arts festival at The Broadside, billed as a celebration of local and regional underground DJ culture. The lineup has not yet been announced.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "new-orleans-psychedelic-furs-living-colour-2027",
+        "title": "The Psychedelic Furs with Living Colour",
+        "type": "concert",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-04",
+        "importance": 70,
+        "venueName": "The Fillmore New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.livenation.com/event/G5viZ_aD68Eh6/the-psychedelic-furs-with-special-guests-living-colour",
+        "ticketUrl": "https://www.livenation.com/event/G5viZ_aD68Eh6/the-psychedelic-furs-with-special-guests-living-colour",
+        "summary": "The Psychedelic Furs play The Fillmore New Orleans with special guests Living Colour on April 4, 2027 at 7:00 PM. This is a notable touring rock/new-wave bill early in the month.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "new-orleans-rnb-mimosa-2027",
+        "title": "New Orleans RnB Mimosa Festival",
+        "type": "festival",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-30",
+        "importance": 65,
+        "venueName": "New Orleans",
+        "venueId": null,
+        "sourceUrl": "https://www.usefestkit.com/events/rnb-mimosa-festival/new-orleans-rnb-mimosa-festival",
+        "ticketUrl": null,
+        "summary": "Vendor-facing listing sourced from the event site confirms an April 2027 New Orleans R&B daytime festival concept blending live R&B music, mimosas, food vendors, and curated RnB Block Party-style vibes; the public listing currently gives a month-long April date window rather than a single announced show day.",
+        "genres": [
+          "r-and-b",
+          "festival"
+        ]
+      },
+      {
+        "id": "new-orleans-lyons-street-fest-2027",
+        "title": "Lyons Street Fest",
+        "type": "festival",
+        "startDate": "2027-04-03",
+        "endDate": "2027-04-03",
+        "importance": 60,
+        "venueName": "531 Lyons St",
+        "venueId": null,
+        "sourceUrl": "https://www.neworleans.com/event/lyons-street-fest/203437/",
+        "ticketUrl": null,
+        "summary": "Free Uptown neighborhood street festival with local music, food, vendors, and a veterans-community benefit focus. The 2027 edition is confirmed for April 3 from 11:00 AM to 5:00 PM.",
+        "genres": [
+          "festival"
+        ]
+      }
+    ]
+  }
+}

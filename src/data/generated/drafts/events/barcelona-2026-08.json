@@ -2,9 +2,9 @@
   "slug": "barcelona",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:49:44.107Z",
-  "responseId": "resp_027951b064d80f420069ff5722d79c8194a314c90e47b087b0",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T18:06:25.443Z",
+  "responseId": "augment:resp_0d87b6b33655fe8d006a1b26b14bf8819b96dc3c7ad66757d6",
+  "searchCalls": 13,
   "citations": [],
   "data": {
     "destinationSlug": "barcelona",
@@ -30,20 +30,21 @@
         ]
       },
       {
-        "id": "barcelona-circuit-water-park-day-2026",
-        "title": "Circuit Festival: Water Park Day",
-        "type": "club-night",
-        "startDate": "2026-08-04",
-        "endDate": "2026-08-04",
-        "importance": 88,
-        "venueName": "Illa Fantasia",
+        "id": "barcelona-brunch-electronik-2026",
+        "title": "Brunch Electronik Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-09",
+        "importance": 95,
+        "venueName": "Parc del Fòrum",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
-        "ticketUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
-        "summary": "Circuit’s signature Water Park Day is confirmed for 4 August 2026 at Illa Fantasia in Vilassar de Dalt, with day, night and combined ticket options listed by Ticketmaster.",
+        "sourceUrl": "https://ra.co/events/2234024",
+        "ticketUrl": "https://ra.co/events/2234024",
+        "summary": "Brunch Electronik Festival is confirmed at Parc del Fòrum from 7 to 9 August 2026, with a large electronic lineup including Eric Prydz, Kaytranada, Jeff Mills, Paul Kalkbrenner, CamelPhat, The Blaze DJ set, I Hate Models, Floating Points live and many more.",
         "genres": [
           "electronic",
-          "house"
+          "house",
+          "techno"
         ]
       },
       {
@@ -64,17 +65,71 @@
         ]
       },
       {
-        "id": "barcelona-happy-techno-2026",
-        "title": "Happy Techno at La Terrrazza Barcelona - Open Air / Daytime",
+        "id": "barcelona-circuit-water-park-day-2026",
+        "title": "Circuit Festival: Water Park Day",
+        "type": "club-night",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-04",
+        "importance": 88,
+        "venueName": "Illa Fantasia",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.es/artist/circuit-festival-tickets/68373?language=en-us",
+        "summary": "Circuit’s signature Water Park Day is confirmed for 4 August 2026 at Illa Fantasia in Vilassar de Dalt, with day, night and combined ticket options listed by Ticketmaster.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-bresh-open-air-2026",
+        "title": "Bresh Open Air Poble Espanyol",
         "type": "club-night",
         "startDate": "2026-08-01",
-        "endDate": "2026-08-01",
-        "importance": 70,
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Plaça Major del Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://www.sala-apolo.com/en/event/bresh-open-air-poble-espanyol-20260801-7330",
+        "ticketUrl": "https://www.sala-apolo.com/en/event/bresh-open-air-poble-espanyol-20260801-7330",
+        "summary": "Global Latin-pop party brand Bresh takes over Poble Espanyol’s main square for a 4,500-capacity open-air edition, moving through reggaeton, Latin pop, dancehall, electronic music and old-school hits.",
+        "genres": [
+          "pop",
+          "latin",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-afrodanz-major-league-djz-2026",
+        "title": "Afrodanz – Open Air Afro House Experience with Major League Djz",
+        "type": "beach-club",
+        "startDate": "2026-08-15",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2409240",
+        "ticketUrl": "https://ra.co/events/2409240",
+        "summary": "Afrodanz returns to Seaseaclub for a Mediterranean open-air Afro House experience headlined by Major League Djz with NIIXII and Sofia Pineda.",
+        "genres": [
+          "afro-house",
+          "amapiano",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-jackies-9th-anniversary-2026",
+        "title": "Jackies - 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": null,
+        "importance": 79,
         "venueName": "La Terrrazza",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2395450",
-        "ticketUrl": "https://ra.co/events/2395450",
-        "summary": "Happy Techno’s open-air daytime edition at La Terrrazza is confirmed for 1 August 2026, with Stefano Noferini, Lexlay, Cris Ocaña and Shitake listed on the lineup.",
+        "sourceUrl": "https://ra.co/events/2392532",
+        "ticketUrl": "https://ra.co/events/2392532",
+        "summary": "Barcelona house label and touring party Jackies celebrates nine years with an open-air daytime edition led by Hunee, Hector Romero, Piem and Nesi.",
         "genres": [
           "house",
           "electronic"
@@ -98,69 +153,6 @@
         ]
       },
       {
-        "id": "barcelona-black-label-society-2026",
-        "title": "Black Label Society UK / EU Tour 2026",
-        "type": "concert",
-        "startDate": "2026-08-04",
-        "endDate": "2026-08-04",
-        "importance": 72,
-        "venueName": "Sala Razzmatazz",
-        "venueId": null,
-        "sourceUrl": "https://www.salarazzmatazz.com/agenda/04-08-2026-black-label-society-uk-eu-tour-2026/",
-        "ticketUrl": "https://www.salarazzmatazz.com/agenda/04-08-2026-black-label-society-uk-eu-tour-2026/",
-        "summary": "Black Label Society plays Razzmatazz on 4 August 2026, with Thundermother and Thrown Into Exile confirmed as support acts.",
-        "genres": []
-      },
-      {
-        "id": "barcelona-high-on-fire-2026",
-        "title": "High On Fire - European Tour Summer 2026",
-        "type": "concert",
-        "startDate": "2026-08-05",
-        "endDate": "2026-08-05",
-        "importance": 70,
-        "venueName": "Sala Razzmatazz",
-        "venueId": null,
-        "sourceUrl": "https://www.salarazzmatazz.com/ca/agenda/05-08-2026-high-on-fire/",
-        "ticketUrl": "https://www.salarazzmatazz.com/ca/agenda/05-08-2026-high-on-fire/",
-        "summary": "Grammy-winning metal band High On Fire is confirmed for Razzmatazz Sala 2 on 5 August 2026 as part of its European Tour Summer 2026.",
-        "genres": []
-      },
-      {
-        "id": "barcelona-brunch-electronik-2026",
-        "title": "Brunch Electronik Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-09",
-        "importance": 95,
-        "venueName": "Parc del Fòrum",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2234024",
-        "ticketUrl": "https://ra.co/events/2234024",
-        "summary": "Brunch Electronik Festival is confirmed at Parc del Fòrum from 7 to 9 August 2026, with a large electronic lineup including Eric Prydz, Kaytranada, Jeff Mills, Paul Kalkbrenner, CamelPhat, The Blaze DJ set, I Hate Models, Floating Points live and many more.",
-        "genres": [
-          "electronic",
-          "house",
-          "techno"
-        ]
-      },
-      {
-        "id": "barcelona-hunee-la-terrrazza-2026",
-        "title": "Hunee with Piem, Hector Romero and Nesi",
-        "type": "club-night",
-        "startDate": "2026-08-08",
-        "endDate": "2026-08-08",
-        "importance": 72,
-        "venueName": "La Terrrazza",
-        "venueId": null,
-        "sourceUrl": "https://music.apple.com/jo/concerts/ce.b2347f8f-18c6-4137-b07c-71b6e2c61d68",
-        "ticketUrl": null,
-        "summary": "Hunee is listed for an open-air La Terrrazza date on 8 August 2026, joined by Piem, Hector Romero and Nesi.",
-        "genres": [
-          "house",
-          "electronic"
-        ]
-      },
-      {
         "id": "barcelona-amyl-and-the-sniffers-2026",
         "title": "Amyl And The Sniffers",
         "type": "concert",
@@ -173,6 +165,24 @@
         "ticketUrl": "https://www.salarazzmatazz.com/agenda/2026-08-18-amyl-and-the-sniffers/",
         "summary": "Amyl and The Sniffers return to Barcelona for a sold-out Razzmatazz Sala 1 show on 18 August 2026.",
         "genres": []
+      },
+      {
+        "id": "barcelona-les-enfants-arapu-bday-2026",
+        "title": "Les Enfants goes to Seaseaclub pres. Arapu Bday Bash with Dubfire, Butch, Priku",
+        "type": "beach-club",
+        "startDate": "2026-08-23",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2422318",
+        "ticketUrl": "https://ra.co/events/2422318",
+        "summary": "Les Enfants Brillants moves to Seaseaclub for Arapu’s birthday bash, pairing Arapu b2b Butch, Dubfire b2b Priku and Alex b2b Lancaster across tech-house and minimal.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
       },
       {
         "id": "barcelona-compota-de-manana-2026",
@@ -206,6 +216,136 @@
         "genres": [
           "latin"
         ]
+      },
+      {
+        "id": "barcelona-summer-indoor-rave-input-2026",
+        "title": "SUMMER INDOOR RAVE with Don Woezik & Per Pleks",
+        "type": "club-night",
+        "startDate": "2026-08-13",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "INPUT High Fidelity Dance Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2430252",
+        "ticketUrl": "https://ra.co/events/2430252",
+        "summary": "INPUT’s summer indoor rave pairs Don Woezik and Per Pleks for a hard-driving techno night in one of Barcelona’s key club rooms.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-sight-sonny-fodera-2026",
+        "title": "SIGHT & Vagalum pres. Sonny Fodera",
+        "type": "residency",
+        "startDate": "2026-08-16",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Ku Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431754",
+        "ticketUrl": "https://ra.co/events/2431754",
+        "summary": "SIGHT teams with Vagalum for a Ku Barcelona Sunday edition headlined by tech-house mainstay Sonny Fodera.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-sight-valhalla-korolova-2026",
+        "title": "SIGHT & Valhalla pres. Korolova, Prophecy, JP Candela, Rivellino",
+        "type": "residency",
+        "startDate": "2026-08-23",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Ku Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431762",
+        "ticketUrl": "https://ra.co/events/2431762",
+        "summary": "SIGHT links with Valhalla at Ku Barcelona for a melodic house and tech-house Sunday led by Korolova with Prophecy, JP Candela and Rivellino.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-sight-james-hype-2026",
+        "title": "SIGHT pres. James Hype, Alex Now, La Cintia",
+        "type": "residency",
+        "startDate": "2026-08-09",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Ku Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431749",
+        "ticketUrl": "https://ra.co/events/2431749",
+        "summary": "SIGHT’s weekly Ku Barcelona residency brings UK house act James Hype with Alex Now and La Cintia.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-black-label-society-2026",
+        "title": "Black Label Society UK / EU Tour 2026",
+        "type": "concert",
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-04",
+        "importance": 72,
+        "venueName": "Sala Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/agenda/04-08-2026-black-label-society-uk-eu-tour-2026/",
+        "ticketUrl": "https://www.salarazzmatazz.com/agenda/04-08-2026-black-label-society-uk-eu-tour-2026/",
+        "summary": "Black Label Society plays Razzmatazz on 4 August 2026, with Thundermother and Thrown Into Exile confirmed as support acts.",
+        "genres": []
+      },
+      {
+        "id": "barcelona-hunee-la-terrrazza-2026",
+        "title": "Hunee with Piem, Hector Romero and Nesi",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 72,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://music.apple.com/jo/concerts/ce.b2347f8f-18c6-4137-b07c-71b6e2c61d68",
+        "ticketUrl": null,
+        "summary": "Hunee is listed for an open-air La Terrrazza date on 8 August 2026, joined by Piem, Hector Romero and Nesi.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-happy-techno-2026",
+        "title": "Happy Techno at La Terrrazza Barcelona - Open Air / Daytime",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "importance": 70,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2395450",
+        "ticketUrl": "https://ra.co/events/2395450",
+        "summary": "Happy Techno’s open-air daytime edition at La Terrrazza is confirmed for 1 August 2026, with Stefano Noferini, Lexlay, Cris Ocaña and Shitake listed on the lineup.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-high-on-fire-2026",
+        "title": "High On Fire - European Tour Summer 2026",
+        "type": "concert",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-05",
+        "importance": 70,
+        "venueName": "Sala Razzmatazz",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/ca/agenda/05-08-2026-high-on-fire/",
+        "ticketUrl": "https://www.salarazzmatazz.com/ca/agenda/05-08-2026-high-on-fire/",
+        "summary": "Grammy-winning metal band High On Fire is confirmed for Razzmatazz Sala 2 on 5 August 2026 as part of its European Tour Summer 2026.",
+        "genres": []
       }
     ]
   }

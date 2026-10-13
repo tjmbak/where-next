@@ -1,0 +1,66 @@
+{
+  "slug": "tel-aviv",
+  "month": 5,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:01:27.052Z",
+  "responseId": "resp_0fcc5e84722877cc006acdac75649c87d09a2921d2cb7fc00a+resp_016568ca63bffd4a006acdacc9347087d08a7564238274d7b4",
+  "searchCalls": 31,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tel-aviv",
+    "month": 5,
+    "year": 2027,
+    "notes": "Confirmed May 2027 inventory is still sparse and leans toward ticketed Israeli songbook and jazz concerts; major club/festival calendars for Tel Aviv do not appear to be announced yet.",
+    "events": [
+      {
+        "id": "tel-aviv-revolution-arik-einstein-may-2027",
+        "title": "Ani Ve'Ata – The Revolution Orchestra Plays Arik Einstein",
+        "type": "concert",
+        "startDate": "2027-05-08",
+        "endDate": "2027-05-08",
+        "importance": 68,
+        "venueName": "Israeli Opera / Tel Aviv Performing Arts Center",
+        "venueId": null,
+        "sourceUrl": "https://www.israel-opera.co.il/show/%D7%90%D7%A0%D7%99-%D7%95%D7%90%D7%AA%D7%94-%D7%AA%D7%96%D7%9E%D7%95%D7%A8%D7%AA-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94/",
+        "ticketUrl": "https://www.israel-opera.co.il/show/%D7%90%D7%A0%D7%99-%D7%95%D7%90%D7%AA%D7%94-%D7%AA%D7%96%D7%9E%D7%95%D7%A8%D7%AA-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94/",
+        "summary": "The Revolution Orchestra presents a new live interpretation of Arik Einstein’s Israeli pop/rock songbook, with guest actor Moni Moshonov and vocalist Roni Dalumi or Sivan Talmor listed by the presenter.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-yoni-rechter-jazz-may-2027",
+        "title": "Yoni Rechter Solo +JAZZ",
+        "type": "concert",
+        "startDate": "2027-05-19",
+        "endDate": "2027-05-19",
+        "importance": 64,
+        "venueName": "Sela Club, Charles Bronfman Culture Hall",
+        "venueId": null,
+        "sourceUrl": "https://discover.ticketmaster.co.il/event/jazzsela/",
+        "ticketUrl": "https://discover.ticketmaster.co.il/event/jazzsela/",
+        "summary": "Yoni Rechter performs a solo piano-and-vocal show in the +JAZZ series, focused on his major songs and their connection to jazz language.",
+        "genres": [
+          "jazz",
+          "pop"
+        ]
+      },
+      {
+        "id": "tel-aviv-hot-jazz-hermlins-may-2027",
+        "title": "Hot Jazz 2026–2027: The Hermlins Band – Swing Is the Thing",
+        "type": "concert",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-25",
+        "importance": 62,
+        "venueName": "Gray Tel Aviv",
+        "venueId": null,
+        "sourceUrl": "https://shamayim.smarticket.co.il/%D7%94%D7%A1%D7%95%D7%95%D7%99%D7%A0%D7%92_%D7%94%D7%9C%D7%95%D7%94%D7%98_%D7%A9%D7%9C_%D7%A9%D7%A0%D7%95%D7%AA_%D7%94_30__%D7%95%D7%94_40_/?id=1407",
+        "ticketUrl": "https://shamayim.smarticket.co.il/%D7%94%D7%A1%D7%95%D7%95%D7%99%D7%A0%D7%92_%D7%94%D7%9C%D7%95%D7%94%D7%98_%D7%A9%D7%9C_%D7%A9%D7%A0%D7%95%D7%AA_%D7%94_30__%D7%95%D7%94_40_/?id=1407",
+        "summary": "Berlin’s The Hermlins Band bring the Hot Jazz international series to Gray Tel Aviv with a swing program referencing Glenn Miller, Benny Goodman, Duke Ellington and Tommy Dorsey.",
+        "genres": [
+          "jazz"
+        ]
+      }
+    ]
+  }
+}

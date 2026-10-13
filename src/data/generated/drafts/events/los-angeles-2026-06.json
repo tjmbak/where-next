@@ -2,9 +2,9 @@
   "slug": "los-angeles",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:08:23.857Z",
-  "responseId": "resp_0bf3cb8b6d3719450069ff5b646d50819cb102785e57c6b935",
-  "searchCalls": 19,
+  "generatedAt": "2026-05-30T18:24:05.936Z",
+  "responseId": "augment:resp_03ade5a151942c5f006a1b2ac50190819bbcde715c377a6c5f",
+  "searchCalls": 17,
   "citations": [],
   "data": {
     "destinationSlug": "los-angeles",
@@ -13,20 +13,37 @@
     "notes": "June 2026 is especially strong in Los Angeles thanks to Pride weekend, World Cup fan programming, Hollywood Bowl season openers, and major arena pop/Latin/hip-hop tours.",
     "events": [
       {
-        "id": "los-angeles-outloud-weho-pride-2026",
-        "title": "OUTLOUD Music Festival at WeHo Pride",
-        "type": "festival",
-        "startDate": "2026-06-05",
-        "endDate": "2026-06-07",
-        "importance": 86,
-        "venueName": "West Hollywood Park",
+        "id": "los-angeles-ariana-grande-crypto-2026",
+        "title": "Ariana Grande: The Eternal Sunshine Tour",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 92,
+        "venueName": "Crypto.com Arena",
         "venueId": null,
-        "sourceUrl": "https://www.wehopride.com/event/outloud-weho-pride",
-        "ticketUrl": "https://www.wehopride.com/event/outloud-weho-pride",
-        "summary": "Three-day WeHo Pride music festival headlined by The Pussycat Dolls, JADE, and Ava Max at West Hollywood Park.",
+        "sourceUrl": "https://www.cryptoarena.com/events/detail/arianagrande26",
+        "ticketUrl": "https://www.cryptoarena.com/events/detail/arianagrande26",
+        "summary": "Ariana Grande brings The Eternal Sunshine Tour to Crypto.com Arena for two confirmed Los Angeles dates, June 13 and 14.",
         "genres": [
           "pop",
-          "festival"
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "los-angeles-shakira-intuit-dome-2026",
+        "title": "Shakira: Las Mujeres Ya No Lloran World Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-13",
+        "endDate": "2026-06-14",
+        "importance": 90,
+        "venueName": "Intuit Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.intuitdome.com/events/event-schedule",
+        "ticketUrl": "https://www.intuitdome.com/events/event-schedule",
+        "summary": "Shakira plays two arena dates at Intuit Dome in Inglewood on June 13 and 14 as part of her Las Mujeres Ya No Lloran World Tour 2026.",
+        "genres": [
+          "latin",
+          "pop"
         ]
       },
       {
@@ -48,20 +65,37 @@
         ]
       },
       {
-        "id": "los-angeles-red-bull-midsummer-la-2026",
-        "title": "Red Bull Midsummer LA",
-        "type": "club-night",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 80,
-        "venueName": "The Hollywood Roosevelt",
+        "id": "los-angeles-outloud-weho-pride-2026",
+        "title": "OUTLOUD Music Festival at WeHo Pride",
+        "type": "festival",
+        "startDate": "2026-06-05",
+        "endDate": "2026-06-07",
+        "importance": 86,
+        "venueName": "West Hollywood Park",
         "venueId": null,
-        "sourceUrl": "https://www.redbull.com/us-en/events/midsummer-los-angeles",
-        "ticketUrl": "https://www.redbull.com/us-en/events/midsummer-los-angeles",
-        "summary": "Red Bull’s global Midsummer electronic series lands in Los Angeles with TOKiMONSTA, Austin Millz, Noodles, Baile World, Pangea Sound, STRAWBRY & Friends, heds, and THE 9AM BANGER listed on the schedule.",
+        "sourceUrl": "https://www.wehopride.com/event/outloud-weho-pride",
+        "ticketUrl": "https://www.wehopride.com/event/outloud-weho-pride",
+        "summary": "Three-day WeHo Pride music festival headlined by The Pussycat Dolls, JADE, and Ava Max at West Hollywood Park.",
         "genres": [
-          "electronic",
-          "house"
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-rosalia-kia-forum-2026",
+        "title": "ROSALÍA: LUX Tour 2026",
+        "type": "concert",
+        "startDate": "2026-06-29",
+        "endDate": "2026-07-01",
+        "importance": 86,
+        "venueName": "Kia Forum",
+        "venueId": null,
+        "sourceUrl": "https://thekiaforum.com/events/",
+        "ticketUrl": "https://thekiaforum.com/events/",
+        "summary": "ROSALÍA’s LUX Tour 2026 is listed at Kia Forum with a Los Angeles-area run beginning June 29 and continuing July 1.",
+        "genres": [
+          "latin",
+          "pop"
         ]
       },
       {
@@ -81,37 +115,74 @@
         ]
       },
       {
-        "id": "los-angeles-shakira-intuit-dome-2026",
-        "title": "Shakira: Las Mujeres Ya No Lloran World Tour 2026",
-        "type": "concert",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-14",
-        "importance": 90,
-        "venueName": "Intuit Dome",
+        "id": "los-angeles-la-block-party-2026",
+        "title": "LA Block Party: Keyshia Cole, Mario, Fabolous, Danity Kane, Twista & More",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Pershing Square",
         "venueId": null,
-        "sourceUrl": "https://www.intuitdome.com/events/event-schedule",
-        "ticketUrl": "https://www.intuitdome.com/events/event-schedule",
-        "summary": "Shakira plays two arena dates at Intuit Dome in Inglewood on June 13 and 14 as part of her Las Mujeres Ya No Lloran World Tour 2026.",
+        "sourceUrl": "https://www.eventbrite.com/e/la-block-party-2026-tickets-1985001762707?aff=ebdssbdestsearch",
+        "ticketUrl": "https://www.eventbrite.com/e/la-block-party-2026-tickets-1985001762707?aff=ebdssbdestsearch",
+        "summary": "A 21+ outdoor R&B and hip-hop block party in Downtown LA with Keyshia Cole, Mario, Fabolous, Danity Kane, Twista, Juelz Santana, Petey Pablo, Lil Mo, Nivea, food trucks, bars, and vendors.",
         "genres": [
-          "latin",
-          "pop"
+          "r-and-b",
+          "hip-hop",
+          "festival"
         ]
       },
       {
-        "id": "los-angeles-ariana-grande-crypto-2026",
-        "title": "Ariana Grande: The Eternal Sunshine Tour",
-        "type": "concert",
-        "startDate": "2026-06-13",
-        "endDate": "2026-06-14",
-        "importance": 92,
-        "venueName": "Crypto.com Arena",
+        "id": "los-angeles-red-bull-midsummer-la-2026",
+        "title": "Red Bull Midsummer LA",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 80,
+        "venueName": "The Hollywood Roosevelt",
         "venueId": null,
-        "sourceUrl": "https://www.cryptoarena.com/events/detail/arianagrande26",
-        "ticketUrl": "https://www.cryptoarena.com/events/detail/arianagrande26",
-        "summary": "Ariana Grande brings The Eternal Sunshine Tour to Crypto.com Arena for two confirmed Los Angeles dates, June 13 and 14.",
+        "sourceUrl": "https://www.redbull.com/us-en/events/midsummer-los-angeles",
+        "ticketUrl": "https://www.redbull.com/us-en/events/midsummer-los-angeles",
+        "summary": "Red Bull’s global Midsummer electronic series lands in Los Angeles with TOKiMONSTA, Austin Millz, Noodles, Baile World, Pangea Sound, STRAWBRY & Friends, heds, and THE 9AM BANGER listed on the schedule.",
         "genres": [
-          "pop",
-          "r-and-b"
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "los-angeles-yoon-fest-2026",
+        "title": "Yoon Fest 2026",
+        "type": "festival",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-22",
+        "importance": 79,
+        "venueName": "Secret location in Los Angeles",
+        "venueId": null,
+        "sourceUrl": "https://shotgun.live/en/events/yoon-fest-2026",
+        "ticketUrl": "https://shotgun.live/en/events/yoon-fest-2026",
+        "summary": "YOON returns as an intimate three-day, three-night Southern California gathering with a 500-person cap, two stages, deep sound, and a lineup spanning Danny Daze, Brett Johnson, Janeret, Dylan Payne, Annika Wolfe, and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-wotn-15-year-2026",
+        "title": "we own the night LA 15 year anniversary",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "TBA - DTLA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2409967",
+        "ticketUrl": "https://ra.co/events/2409967",
+        "summary": "Long-running LA underground party We Own The Night celebrates 15 years with Rush Hour co-founder Antal, promising rare house, disco, acid, techno, art, and food near Downtown LA.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
@@ -164,20 +235,91 @@
         ]
       },
       {
-        "id": "los-angeles-rosalia-kia-forum-2026",
-        "title": "ROSALÍA: LUX Tour 2026",
-        "type": "concert",
-        "startDate": "2026-06-29",
-        "endDate": "2026-07-01",
-        "importance": 86,
-        "venueName": "Kia Forum",
+        "id": "los-angeles-work-pleasurekraft-2026",
+        "title": "WORK presents Compendium: Pleasurekraft [All Night Long]",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "TBA - Los Angeles",
         "venueId": null,
-        "sourceUrl": "https://thekiaforum.com/events/",
-        "ticketUrl": "https://thekiaforum.com/events/",
-        "summary": "ROSALÍA’s LUX Tour 2026 is listed at Kia Forum with a Los Angeles-area run beginning June 29 and continuing July 1.",
+        "sourceUrl": "https://ra.co/events/2417837",
+        "ticketUrl": "https://ra.co/events/2417837",
+        "summary": "6AM Group and Synthetik Minds bring Pleasurekraft back to the WORK Warehouse for an all-night, no-genre-boundaries Compendium set rooted in techno and progressive club pressure.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-stacey-pullen-bae-bae-2026",
+        "title": "Dirty Epic and INCOGNITO present: Stacey Pullen, BAE BAE and Nish",
+        "type": "club-night",
+        "startDate": "2026-06-26",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "TBA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415209",
+        "ticketUrl": "https://ra.co/events/2415209",
+        "summary": "Dirty Epic and INCOGNITO team for a Detroit techno warehouse affair with Second Wave innovator Stacey Pullen, Hood Rave host BAE BAE, and Nish.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-chapstick-pride-2026",
+        "title": "Chapstick",
+        "type": "festival",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Bellwether",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2404802",
+        "ticketUrl": "https://ra.co/events/2404802",
+        "summary": "A Pride mini-fest for lesbian and non-binary communities with Rico Nasty, Empress Of, Flyana Boss DJ set, and two-stage programming at The Bellwether.",
+        "genres": [
+          "hip-hop",
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "los-angeles-midnight-lovers-bradley-zero-2026",
+        "title": "Midnight Lovers Summer Day Party with Bradley Zero, Masha Mar, Mez Monty, James Axon",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Bridge",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2415278",
+        "ticketUrl": "https://ra.co/events/2415278",
+        "summary": "Midnight Lovers opens summer with an extended outdoor day-into-night party under the Sixth Street Bridge, led by Bradley Zero with Masha Mar, Mez Monty b2b James Axon, Xica Soul b2b Maddy Maia, Extrachuy, and Planet Rolly.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "los-angeles-closer-thermal-aleroj-2026",
+        "title": "CLOSER presents THERMAL with Aleroj, ELLA & 2DEEP",
+        "type": "club-night",
+        "startDate": "2026-06-13",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "TBA - DTLA",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2444604",
+        "ticketUrl": "https://ra.co/events/2444604",
+        "summary": "CLOSER’s Latin-leaning THERMAL edition features Bogotá’s Aleroj with 2DEEP, ELLA, and Nat The F*kn Rat, connecting guaracha, reggaeton, juke, techno, hardcore, and underground perreo.",
         "genres": [
           "latin",
-          "pop"
+          "techno",
+          "electronic"
         ]
       },
       {

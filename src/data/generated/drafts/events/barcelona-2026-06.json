@@ -2,9 +2,9 @@
   "slug": "barcelona",
   "month": 6,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:50:01.303Z",
-  "responseId": "resp_007a66b4b4b5fc060069ff571f3cc08195a611244ca0ff1dd6",
-  "searchCalls": 19,
+  "generatedAt": "2026-05-30T18:05:54.221Z",
+  "responseId": "augment:resp_00d8daf52c7d60c4006a1b2688d2bc819a9a105c463260f5d3",
+  "searchCalls": 10,
   "citations": [],
   "data": {
     "destinationSlug": "barcelona",
@@ -49,24 +49,6 @@
         ]
       },
       {
-        "id": "barcelona-offsonar-baddest-behaviour-2026",
-        "title": "OFFSónar 2026: Baddest Behaviour – Mau P",
-        "type": "club-night",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-18",
-        "importance": 82,
-        "venueName": "Poble Espanyol",
-        "venueId": null,
-        "sourceUrl": "https://offsonar.co/",
-        "ticketUrl": null,
-        "summary": "Mau P brings his Baddest Behaviour concept to OFFSónar at Poble Espanyol’s Monasterio Stage. The confirmed event runs from 5pm to 2am on Thursday 18 June.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
         "id": "barcelona-offsonar-keinemusik-2026",
         "title": "OFFSónar 2026: Rampa & Adam Port – Keinemusik",
         "type": "club-night",
@@ -85,24 +67,6 @@
         ]
       },
       {
-        "id": "barcelona-offsonar-lone-romantic-maceo-plex-2026",
-        "title": "OFFSónar 2026: Lone Romantic by Maceo Plex",
-        "type": "club-night",
-        "startDate": "2026-06-18",
-        "endDate": "2026-06-18",
-        "importance": 82,
-        "venueName": "Poble Espanyol",
-        "venueId": null,
-        "sourceUrl": "https://offsonar.co/",
-        "ticketUrl": null,
-        "summary": "Maceo Plex presents Lone Romantic at OFFSónar on the Carpa&Picnic stage. The confirmed Poble Espanyol event takes place Thursday 18 June from 5pm to 2am.",
-        "genres": [
-          "techno",
-          "house",
-          "electronic"
-        ]
-      },
-      {
         "id": "barcelona-offsonar-adriatique-x-2026",
         "title": "OFFSónar 2026: Adriatique Present X",
         "type": "club-night",
@@ -114,42 +78,6 @@
         "sourceUrl": "https://offsonar.co/",
         "ticketUrl": null,
         "summary": "Adriatique’s Present X takeover is confirmed at OFFSónar for Friday 19 June at Poble Espanyol. The event is scheduled from 5pm to 2am and focuses on forward-thinking melodic and club electronics.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "barcelona-offsonar-fuse-london-2026",
-        "title": "OFFSónar 2026: FUSE London",
-        "type": "club-night",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 82,
-        "venueName": "Poble Espanyol",
-        "venueId": null,
-        "sourceUrl": "https://offsonar.co/",
-        "ticketUrl": null,
-        "summary": "FUSE London is confirmed as part of OFFSónar’s Saturday 20 June programme at Poble Espanyol. The event runs from 5pm to 2am.",
-        "genres": [
-          "house",
-          "techno",
-          "electronic"
-        ]
-      },
-      {
-        "id": "barcelona-offsonar-mochakk-calling-2026",
-        "title": "OFFSónar 2026: Mochakk Calling",
-        "type": "club-night",
-        "startDate": "2026-06-20",
-        "endDate": "2026-06-20",
-        "importance": 83,
-        "venueName": "Poble Espanyol",
-        "venueId": null,
-        "sourceUrl": "https://offsonar.co/",
-        "ticketUrl": null,
-        "summary": "Mochakk Calling is confirmed for OFFSónar at Poble Espanyol on Saturday 20 June. The official listing gives a 5pm to 2am schedule.",
         "genres": [
           "house",
           "techno",
@@ -175,20 +103,233 @@
         ]
       },
       {
-        "id": "barcelona-kany-garcia-2026",
-        "title": "Kany García",
-        "type": "concert",
+        "id": "barcelona-district-youme-metamorfosi-2026",
+        "title": "District Sónar Week: You&Me + Metamorfosi",
+        "type": "festival",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "Parc del Fòrum",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2370944",
+        "ticketUrl": "https://ra.co/events/2370944",
+        "summary": "District’s Sónar Week concept at Parc del Fòrum pairs Josh Baker’s You&Me with Metamorfosi access, bringing Josh Baker, Seth Troxler, Prospa, Marsolo, Silva Bumpa and Marlie to the seaside Canopy stage.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-face2face-serafina-2026",
+        "title": "FACE 2 FACE BARCELONA: Serafina All Night Long - OFFBCN 26",
+        "type": "club-night",
+        "startDate": "2026-06-19",
+        "endDate": "2026-06-20",
+        "importance": 84,
+        "venueName": "Bosc Tancat / Diverbosc",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2319952",
+        "ticketUrl": "https://ra.co/events/2319952",
+        "summary": "High-demand OFFBCN warehouse-style night from FACE 2 FACE and Output Barcelona, headlined by Serafina all night long with a second stage including Bárbara Lago and BIXBITA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-mochakk-calling-2026",
+        "title": "OFFSónar 2026: Mochakk Calling",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 83,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Mochakk Calling is confirmed for OFFSónar at Poble Espanyol on Saturday 20 June. The official listing gives a 5pm to 2am schedule.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-output-now-here-2026",
+        "title": "Output pres. NOW HERE with Paco Osuna, Loco Dice and Ilario Alicante - OFFBCN 26",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-21",
+        "importance": 83,
+        "venueName": "Bosc Tancat / Diverbosc",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2344348",
+        "ticketUrl": "https://ra.co/events/2344348",
+        "summary": "Paco Osuna’s NOW HERE returns for Output’s OFFBCN Saturday night with Ilario Alicante, Loco Dice, Melanie Ribbe, Paco Osuna, Andrew Azara, Merissa Mahilaa and Nick Curly.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-life-and-death-get-traum-2026",
+        "title": "Life and Death x Get-traum - OFFBCN 2026",
+        "type": "beach-club",
+        "startDate": "2026-06-20",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "SeaSea Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2367768",
+        "ticketUrl": "https://ra.co/events/2367768",
+        "summary": "Daytime OFFBCN collaboration from Life and Death and Get-traum featuring DJ Tennis b2b Traumer, Alex Kassian, Roi Perez b2b PARAMIDA, Sedef Adasï, Shonky b2b dj sweet6teen and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-baddest-behaviour-2026",
+        "title": "OFFSónar 2026: Baddest Behaviour – Mau P",
+        "type": "club-night",
         "startDate": "2026-06-18",
         "endDate": "2026-06-18",
-        "importance": 72,
-        "venueName": "Palau Sant Jordi",
+        "importance": 82,
+        "venueName": "Poble Espanyol",
         "venueId": null,
-        "sourceUrl": "https://palausantjordi.barcelona/en/kany-garcia-0",
-        "ticketUrl": "https://www.ticketmaster.es/",
-        "summary": "Puerto Rican singer-songwriter Kany García brings her European tour to Palau Sant Jordi. The venue confirms the Barcelona concert for Thursday 18 June at 20:30.",
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Mau P brings his Baddest Behaviour concept to OFFSónar at Poble Espanyol’s Monasterio Stage. The confirmed event runs from 5pm to 2am on Thursday 18 June.",
         "genres": [
-          "latin",
-          "pop"
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-lone-romantic-maceo-plex-2026",
+        "title": "OFFSónar 2026: Lone Romantic by Maceo Plex",
+        "type": "club-night",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 82,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "Maceo Plex presents Lone Romantic at OFFSónar on the Carpa&Picnic stage. The confirmed Poble Espanyol event takes place Thursday 18 June from 5pm to 2am.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-offsonar-fuse-london-2026",
+        "title": "OFFSónar 2026: FUSE London",
+        "type": "club-night",
+        "startDate": "2026-06-20",
+        "endDate": "2026-06-20",
+        "importance": 82,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://offsonar.co/",
+        "ticketUrl": null,
+        "summary": "FUSE London is confirmed as part of OFFSónar’s Saturday 20 June programme at Poble Espanyol. The event runs from 5pm to 2am.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-uncle-waffles-chocolate-city-2026",
+        "title": "Chocolate City BCN presents Uncle Waffles",
+        "type": "club-night",
+        "startDate": "2026-06-07",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Twenties Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2421878",
+        "ticketUrl": "https://ra.co/events/2421878",
+        "summary": "Chocolate City BCN brings amapiano star Uncle Waffles to Barcelona for an urban/African culture day-into-night party mixing Afrobeat, Amapiano and Dancehall.",
+        "genres": [
+          "amapiano",
+          "afro-house",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "barcelona-ku-offbcn-2026",
+        "title": "OFFBCN 2026 - Ku Barcelona",
+        "type": "residency",
+        "startDate": "2026-06-16",
+        "endDate": "2026-06-21",
+        "importance": 80,
+        "venueName": "Ku Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2443272",
+        "ticketUrl": "https://ra.co/events/2443272",
+        "summary": "Multi-night OFFBCN run at Ku Barcelona with SIGHT-linked parties including SANITY, Hyperactive World, Lost Miracle, PIV, Kaluki and MVSON across house and tech-house lineups.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-laster-club-offbcn-2026",
+        "title": "LASTER CLUB - OFFBCN 26",
+        "type": "club-night",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-22",
+        "importance": 80,
+        "venueName": "SeaSea Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2351863",
+        "ticketUrl": "https://ra.co/events/2351863",
+        "summary": "Twelve-hour red-light techno session powered by Funktion-One, with Ben Klock, LAIA, Roll Dann, Shadow Hrym, Setaoc Mass and The Lady Machine.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-all-day-i-dream-off-2026",
+        "title": "All Day I Dream Off Barcelona",
+        "type": "beach-club",
+        "startDate": "2026-06-19",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "SeaSea Club",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/oeg8lm-all-day-i-dream-off-barcelona-19th-jun-seasea-club-barcelona-tickets",
+        "ticketUrl": "https://dice.fm/event/oeg8lm-all-day-i-dream-off-barcelona-19th-jun-seasea-club-barcelona-tickets",
+        "summary": "Lee Burridge’s globally recognized All Day I Dream brand lands at SeaSea Club for an OFF Barcelona daytime session with Sasha, Tim Green and more on the bill.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-barts-festival-2026",
+        "title": "BARTS Festival 2026",
+        "type": "festival",
+        "startDate": "2026-06-28",
+        "endDate": "2026-07-24",
+        "importance": 78,
+        "venueName": "Poble Espanyol",
+        "venueId": null,
+        "sourceUrl": "https://www.barcelonaturisme.com/wv3/en/agenda/amp/20541/barts-festival.html",
+        "ticketUrl": "https://www.barts.cat/landing_festival/",
+        "summary": "BARTS Festival launches at Poble Espanyol from 28 June to 24 July, carrying the legacy of the former Barcelona venue into an outdoor summer-concert format. The opening programme includes BEAT performing the music of King Crimson, with further confirmed names including Biffy Clyro, Belle & Sebastian, ZZ Top and Elvis Crespo.",
+        "genres": [
+          "festival",
+          "pop",
+          "latin"
         ]
       },
       {
@@ -209,21 +350,20 @@
         ]
       },
       {
-        "id": "barcelona-barts-festival-2026",
-        "title": "BARTS Festival 2026",
-        "type": "festival",
-        "startDate": "2026-06-28",
-        "endDate": "2026-07-24",
-        "importance": 78,
-        "venueName": "Poble Espanyol",
+        "id": "barcelona-kany-garcia-2026",
+        "title": "Kany García",
+        "type": "concert",
+        "startDate": "2026-06-18",
+        "endDate": "2026-06-18",
+        "importance": 72,
+        "venueName": "Palau Sant Jordi",
         "venueId": null,
-        "sourceUrl": "https://www.barcelonaturisme.com/wv3/en/agenda/amp/20541/barts-festival.html",
-        "ticketUrl": "https://www.barts.cat/landing_festival/",
-        "summary": "BARTS Festival launches at Poble Espanyol from 28 June to 24 July, carrying the legacy of the former Barcelona venue into an outdoor summer-concert format. The opening programme includes BEAT performing the music of King Crimson, with further confirmed names including Biffy Clyro, Belle & Sebastian, ZZ Top and Elvis Crespo.",
+        "sourceUrl": "https://palausantjordi.barcelona/en/kany-garcia-0",
+        "ticketUrl": "https://www.ticketmaster.es/",
+        "summary": "Puerto Rican singer-songwriter Kany García brings her European tour to Palau Sant Jordi. The venue confirms the Barcelona concert for Thursday 18 June at 20:30.",
         "genres": [
-          "festival",
-          "pop",
-          "latin"
+          "latin",
+          "pop"
         ]
       }
     ]

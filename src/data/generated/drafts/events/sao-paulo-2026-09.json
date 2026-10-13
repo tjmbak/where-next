@@ -2,9 +2,9 @@
   "slug": "sao-paulo",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:50:34.470Z",
-  "responseId": "resp_0a89839abba0f7ed0069ff657ec880819cbb53503132874466",
-  "searchCalls": 13,
+  "generatedAt": "2026-05-30T18:43:23.152Z",
+  "responseId": "augment:resp_04a1461ebd06d807006a1b2f820b948198b2e45fed15c56a4e",
+  "searchCalls": 15,
   "citations": [],
   "data": {
     "destinationSlug": "sao-paulo",
@@ -46,17 +46,68 @@
         ]
       },
       {
-        "id": "sao-paulo-mateus-asato-asatour-2026",
-        "title": "Mateus Asato - Asatour",
+        "id": "sao-paulo-5-seconds-of-summer-2026",
+        "title": "5 Seconds Of Summer - Everyone's A Star World Tour",
         "type": "concert",
-        "startDate": "2026-09-10",
-        "endDate": "2026-09-10",
-        "importance": 68,
-        "venueName": "Teatro Bradesco",
+        "startDate": "2026-09-18",
+        "endDate": "2026-09-18",
+        "importance": 82,
+        "venueName": "Suhai Music Hall",
         "venueId": null,
-        "sourceUrl": "https://uhuu.com/evento/sp/sao-paulo/mateus-asato-asatour-16139",
-        "ticketUrl": "https://uhuu.com/evento/sp/sao-paulo/mateus-asato-asatour-16139",
-        "summary": "Brazilian guitarist Mateus Asato brings Asatour to Teatro Bradesco on 10 September 2026, with Uhuu listed as the official ticket channel.",
+        "sourceUrl": "https://www.ticketmaster.com.br/event/5-seconds-of-summer-sao-paulo-venda-geral",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/5-seconds-of-summer-sao-paulo-venda-geral",
+        "summary": "Australian pop band 5 Seconds of Summer is confirmed at Suhai Music Hall on 18 September 2026, with the show scheduled for 21:00.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "sao-paulo-outworld-klangkuenstler-2026",
+        "title": "The Grid: OUTWORLD Klangkuenstler",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 81,
+        "venueName": "ARCA",
+        "venueId": null,
+        "sourceUrl": "https://betimelapse.com.br/eventos/the-grid-outworld-klangkuenstler",
+        "ticketUrl": "https://www.ingresse.com/thegrid-outworld-klangkuenstler/",
+        "summary": "Klangkuenstler brings his OUTWORLD hard-techno concept to São Paulo for a long-set, no-phone-policy event presented by The Grid at ARCA, billed as a larger-scale follow-up to the 2025 edition.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-sun-sp-2026",
+        "title": "SUN.SP 2026",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 80,
+        "venueName": "Arena Canindé",
+        "venueId": null,
+        "sourceUrl": "https://betimelapse.com.br/eventos/sunsp-2026",
+        "ticketUrl": "https://www.sympla.com.br/evento/sun-sp-sidney-charles-waff-nacho-scoppa-tomi-kesh-archie-hamilton-latmun-yaya-hector-couto-e/3309989",
+        "summary": "The 11th edition of SUN.SP is a 12-hour tech-house and house event at Arena Canindé, with Sidney Charles, wAFF, Archie Hamilton, Latmun b2b Yaya, Cuartero b2b Hector Couto, Nacho Scoppa b2b Bruno Furlan, Tomi & Kesh and resident Grecco confirmed.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "sao-paulo-helloween-40-years-2026",
+        "title": "Helloween - 40 Years Anniversary Show",
+        "type": "concert",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-19",
+        "importance": 78,
+        "venueName": "Suhai Music Hall",
+        "venueId": null,
+        "sourceUrl": "https://suhaimusichall.com.br/en/evento/helloween/",
+        "ticketUrl": "https://www.eventim.com.br/event/helloween-suhai-music-hall-21068671/?affiliate=30L",
+        "summary": "German metal band Helloween is confirmed for a 40th-anniversary concert at Suhai Music Hall on 19 September 2026, with the show scheduled for 21:00.",
         "genres": []
       },
       {
@@ -88,49 +139,31 @@
         "genres": []
       },
       {
-        "id": "sao-paulo-5-seconds-of-summer-2026",
-        "title": "5 Seconds Of Summer - Everyone's A Star World Tour",
+        "id": "sao-paulo-ben-howard-tour-2026",
+        "title": "Ben Howard 2026 Tour",
         "type": "concert",
-        "startDate": "2026-09-18",
-        "endDate": "2026-09-18",
-        "importance": 82,
-        "venueName": "Suhai Music Hall",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 72,
+        "venueName": "Audio",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/5-seconds-of-summer-sao-paulo-venda-geral",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/5-seconds-of-summer-sao-paulo-venda-geral",
-        "summary": "Australian pop band 5 Seconds of Summer is confirmed at Suhai Music Hall on 18 September 2026, with the show scheduled for 21:00.",
-        "genres": [
-          "pop"
-        ]
+        "sourceUrl": "https://www.ticketmaster.com.br/event/ben-howard",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/ben-howard",
+        "summary": "English singer-songwriter Ben Howard is confirmed for Audio in São Paulo on 26 September 2026, with the show scheduled for 21:00.",
+        "genres": []
       },
       {
-        "id": "sao-paulo-oktoberfest-2026",
-        "title": "São Paulo Oktoberfest 2026",
-        "type": "festival",
-        "startDate": "2026-09-18",
-        "endDate": "2026-10-04",
-        "importance": 65,
-        "venueName": "Parque Ibirapuera",
-        "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest",
-        "summary": "São Paulo Oktoberfest 2026 is confirmed from 18 September to 4 October, with music, culture, food and German-inspired celebration across 13 event days.",
-        "genres": [
-          "festival"
-        ]
-      },
-      {
-        "id": "sao-paulo-helloween-40-years-2026",
-        "title": "Helloween - 40 Years Anniversary Show",
+        "id": "sao-paulo-mateus-asato-asatour-2026",
+        "title": "Mateus Asato - Asatour",
         "type": "concert",
-        "startDate": "2026-09-19",
-        "endDate": "2026-09-19",
-        "importance": 78,
-        "venueName": "Suhai Music Hall",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 68,
+        "venueName": "Teatro Bradesco",
         "venueId": null,
-        "sourceUrl": "https://suhaimusichall.com.br/en/evento/helloween/",
-        "ticketUrl": "https://www.eventim.com.br/event/helloween-suhai-music-hall-21068671/?affiliate=30L",
-        "summary": "German metal band Helloween is confirmed for a 40th-anniversary concert at Suhai Music Hall on 19 September 2026, with the show scheduled for 21:00.",
+        "sourceUrl": "https://uhuu.com/evento/sp/sao-paulo/mateus-asato-asatour-16139",
+        "ticketUrl": "https://uhuu.com/evento/sp/sao-paulo/mateus-asato-asatour-16139",
+        "summary": "Brazilian guitarist Mateus Asato brings Asatour to Teatro Bradesco on 10 September 2026, with Uhuu listed as the official ticket channel.",
         "genres": []
       },
       {
@@ -148,18 +181,20 @@
         "genres": []
       },
       {
-        "id": "sao-paulo-ben-howard-tour-2026",
-        "title": "Ben Howard 2026 Tour",
-        "type": "concert",
-        "startDate": "2026-09-26",
-        "endDate": "2026-09-26",
-        "importance": 72,
-        "venueName": "Audio",
+        "id": "sao-paulo-oktoberfest-2026",
+        "title": "São Paulo Oktoberfest 2026",
+        "type": "festival",
+        "startDate": "2026-09-18",
+        "endDate": "2026-10-04",
+        "importance": 65,
+        "venueName": "Parque Ibirapuera",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.com.br/event/ben-howard",
-        "ticketUrl": "https://www.ticketmaster.com.br/event/ben-howard",
-        "summary": "English singer-songwriter Ben Howard is confirmed for Audio in São Paulo on 26 September 2026, with the show scheduled for 21:00.",
-        "genres": []
+        "sourceUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest",
+        "ticketUrl": "https://www.ticketmaster.com.br/event/sao-paulo-oktoberfest",
+        "summary": "São Paulo Oktoberfest 2026 is confirmed from 18 September to 4 October, with music, culture, food and German-inspired celebration across 13 event days.",
+        "genres": [
+          "festival"
+        ]
       }
     ]
   }

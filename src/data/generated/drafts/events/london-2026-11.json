@@ -2,31 +2,356 @@
   "slug": "london",
   "month": 11,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:00:29.400Z",
-  "responseId": "resp_0b21446c278c0a4d0069ff59c74c888190aafc605b39cdb65a",
-  "searchCalls": 12,
+  "generatedAt": "2026-10-13T02:36:42.507Z",
+  "responseId": "resp_070a1a30cff0c7c5006acd986d7fec87d092d1adff2d52a9b3+resp_0026332ef7baeb57006acd98e9785487d0aaed9ba73919f6c3",
+  "searchCalls": 36,
   "citations": [],
   "data": {
     "destinationSlug": "london",
     "month": 11,
     "year": 2026,
-    "notes": "November’s confirmed London calendar is already anchored by EFG London Jazz Festival and a dense run of arena-scale shows at The O2.",
+    "notes": "November is especially strong for London’s citywide festival circuit, large-scale club takeovers and UK-rooted electronic scenes, with Pitchfork, EFG London Jazz Festival, Drumsheds, fabric, FOLD/The Cause and KOKO all active.",
     "events": [
       {
-        "id": "london-efg-jazz-festival-nov-2026",
+        "id": "london-efg-jazz-festival-2026",
         "title": "EFG London Jazz Festival 2026",
         "type": "festival",
         "startDate": "2026-11-13",
         "endDate": "2026-11-22",
-        "importance": 95,
-        "venueName": "Southbank Centre and venues across London",
+        "importance": 91,
+        "venueName": "Multiple venues across London",
         "venueId": null,
-        "sourceUrl": "https://www.southbankcentre.co.uk/events/efg-london-jazz-festival/",
-        "ticketUrl": null,
-        "summary": "The citywide EFG London Jazz Festival returns from 13–22 November 2026. Southbank Centre’s confirmed programme includes Jazz Voice, Ben Folds, Kronos Quartet, Cécile McLorin Salvant with BBC Concert Orchestra, and Samara Joy.",
+        "sourceUrl": "https://efglondonjazzfestival.org.uk/?lang=en",
+        "ticketUrl": "https://efglondonjazzfestival.org.uk/?lang=en",
+        "summary": "EFG London Jazz Festival returns for ten days across the capital, with highlights including Jazz Voice, Goldie, Asha Puthli, Mariza, Caravan Palace, Robert Glasper, Samara Joy and Kyoto Jazz Massive.",
         "genres": [
           "jazz",
           "festival"
+        ]
+      },
+      {
+        "id": "london-pitchfork-music-festival-nov-2026",
+        "title": "Pitchfork Music Festival London 2026",
+        "type": "festival",
+        "startDate": "2026-11-02",
+        "endDate": "2026-11-08",
+        "importance": 89,
+        "venueName": "Multiple venues across London",
+        "venueId": null,
+        "sourceUrl": "https://pitchforkmusicfestival.co.uk/",
+        "ticketUrl": "https://pitchforkmusicfestival.co.uk/programme-tickets/",
+        "summary": "Pitchfork Music Festival London runs across multiple London venues, with announced artists including The Avalanches, Noname, Olof Dreijer, Hania Rani, Thaiboy Digital, The Radio Dept. and more.",
+        "genres": [
+          "festival",
+          "electronic",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-stevie-wonder-o2-nov-2026",
+        "title": "Stevie Wonder: Songs in the Key of Life",
+        "type": "concert",
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-05",
+        "importance": 88,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/stevie-wonder",
+        "ticketUrl": "https://www.theo2.co.uk/events/detail/stevie-wonder",
+        "summary": "Stevie Wonder brings his Songs in the Key of Life performances to The O2 on 3 and 5 November, marking the album’s 50th anniversary with the album performed in full.",
+        "genres": [
+          "r-and-b",
+          "pop"
+        ]
+      },
+      {
+        "id": "london-robert-glasper-blue-note-2026",
+        "title": "Robert Glasper at Blue Note London",
+        "type": "residency",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-22",
+        "importance": 86,
+        "venueName": "Blue Note London",
+        "venueId": null,
+        "sourceUrl": "https://efglondonjazzfestival.org.uk/events/robert-glasper-2",
+        "ticketUrl": "https://efglondonjazzfestival.org.uk/events/robert-glasper-2",
+        "summary": "Robert Glasper plays a sold-out run at Blue Note London during EFG London Jazz Festival, with special guests Marsha Ambrosius on 14–15 November and Common on 20–21 November.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-fuse-18-drumsheds-2026",
+        "title": "FUSE 18th Birthday at DRUMSHEDS",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 85,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2458554",
+        "ticketUrl": "https://ra.co/events/2458554",
+        "summary": "FUSE celebrates its 18th birthday with its biggest London show to date at DRUMSHEDS, featuring Enzo Siragusa B2B Rossi., Luciano, Apollonia, Traumer, Sweely, Dungeon Meat and more.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-worried-about-henry-drumsheds-2026",
+        "title": "Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-07",
+        "importance": 84,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2497386",
+        "ticketUrl": "https://ra.co/events/2497386",
+        "summary": "Worried About Henry takes over DRUMSHEDS for a large-scale day party led by Wilkinson, Bou, Kanine, Luude and Flowdan, spanning drum & bass, jungle, garage and UK bass music.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-piano-people-drumsheds-2026",
+        "title": "Piano People at DRUMSHEDS",
+        "type": "club-night",
+        "startDate": "2026-11-29",
+        "endDate": "2026-11-29",
+        "importance": 84,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2542186",
+        "ticketUrl": "https://ra.co/events/2542186",
+        "summary": "Piano People returns to DRUMSHEDS with an amapiano-rooted lineup including South Gidi with DJ Maphorisa and DJ Tunez, 2woBunnies B2B Thuto The Human, DJ LAG B2B General C’Mamane and more.",
+        "genres": [
+          "amapiano",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "london-fuse-18th-birthday-2026",
+        "title": "FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marlie b2b Natalia Roth, Marsolo",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": null,
+        "importance": 84,
+        "venueName": "DRUMSHEDS",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2458554",
+        "ticketUrl": "https://ra.co/events/2458554",
+        "summary": "FUSE marks 18 years with its biggest London show to date: a three-room Drumsheds takeover featuring Enzo Siragusa b2b Rossi., Luciano, Apollonia, Dungeon Meat and more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-goldie-dare-to-dream-2026",
+        "title": "Goldie ‘Dare to Dream’ with Live Band, Orchestra and Special Guests",
+        "type": "concert",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-14",
+        "importance": 83,
+        "venueName": "Royal Festival Hall",
+        "venueId": null,
+        "sourceUrl": "https://efglondonjazzfestival.org.uk/events/goldie-dare-to-dream-with-his-live-band-orchestra-and-special-guests",
+        "ticketUrl": "https://efglondonjazzfestival.org.uk/events/goldie-dare-to-dream-with-his-live-band-orchestra-and-special-guests",
+        "summary": "Goldie presents two EFG London Jazz Festival performances of Dare to Dream with Elysian Collective, choir, his live band and guests including anaiis, Yussef Dayes, Natalie Williams and Cleveland Watkiss.",
+        "genres": [
+          "electronic",
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-koko-francis-mercier-weekender-2026",
+        "title": "KOKO Electronic: Francis Mercier Weekender",
+        "type": "residency",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "importance": 82,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2545312",
+        "ticketUrl": "https://ra.co/events/2545312",
+        "summary": "Francis Mercier takes over KOKO Electronic for a three-part weekender on 20, 21 and 22 November, bringing Afro-house and Caribbean/African-influenced house to Camden.",
+        "genres": [
+          "afro-house",
+          "house"
+        ]
+      },
+      {
+        "id": "london-4by4-dj-ez-2026",
+        "title": "4by4: DJ EZ, Todd Edwards, MJ Cole, Matt Jam Lamont",
+        "type": "club-night",
+        "startDate": "2026-11-13",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Electric Brixton",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2518475",
+        "ticketUrl": "https://ra.co/events/2518475",
+        "summary": "DJ EZ’s 4by4 returns with Todd Edwards, MJ Cole and Matt Jam Lamont for an old-school/new-school UK garage night at Electric Brixton.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-kiki-magazine-london-2026",
+        "title": "KI/KI at Magazine London",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 81,
+        "venueName": "Magazine London",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2500099",
+        "ticketUrl": "https://ra.co/events/2500099",
+        "summary": "Dutch DJ/producer KI/KI headlines Magazine London for Origins and Broadwick Live, with the event billed around trance and acid-techno influences.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-fabric-dettmann-allien-2026",
+        "title": "fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more",
+        "type": "club-night",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476969",
+        "ticketUrl": "https://ra.co/events/2476969",
+        "summary": "fabric’s multi-room Saturday programme pairs Berlin techno institutions Marcel Dettmann and Ellen Allien with Shonky b2b Marie Montexier and local selectors across three rooms.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-calibre-roundhouse-2026",
+        "title": "Calibre at The Roundhouse",
+        "type": "concert",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 80,
+        "venueName": "The Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2512495",
+        "ticketUrl": "https://ra.co/events/2512495",
+        "summary": "Calibre performs a three-hour set at The Roundhouse with Mark Ernestus, SP:MC and RAZE Sound on support, billed across drum & bass and dubstep.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-hamdi-fc-outernet-2026",
+        "title": "Hamdi FC: Hamdi, Flava D, JAZ IMSKY, Sam Deeley",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-21",
+        "importance": 78,
+        "venueName": "Outernet Live",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2472101",
+        "ticketUrl": "https://ra.co/events/2472101",
+        "summary": "Hamdi brings Hamdi FC to HERE at Outernet with Flava D, JAZ IMSKY and Sam Deeley, focusing on dubstep, UK garage and grime-edged club music.",
+        "genres": [
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-public-assembly-2026",
+        "title": "Public Assembly '26",
+        "type": "festival",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "importance": 78,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2531912",
+        "ticketUrl": "https://ra.co/events/2531912",
+        "summary": "The Cause, SC&P and Small Talk launch a multi-stage winter day-and-night inner-city festival with live acts and DJs spanning acid, post-punk and leftfield electronics.",
+        "genres": [
+          "electronic",
+          "techno"
+        ]
+      },
+      {
+        "id": "london-fabric-palms-trax-ogazon-2026",
+        "title": "fabric: Palms Trax, Ogazón, Mathew Jonson (Live), Antal, Joe Claussell, DJ Subaru + more",
+        "type": "club-night",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-28",
+        "importance": 78,
+        "venueName": "fabric London",
+        "venueId": "fabric",
+        "sourceUrl": "https://ra.co/events/2476977",
+        "ticketUrl": "https://ra.co/events/2476977",
+        "summary": "fabric’s 28 November Saturday programme brings Palms Trax, Ogazón and Mathew Jonson live to Room 1, with Antal, Joe Claussell, DJ Subaru and floor length skirts across the other rooms.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-koko-kirollus-2026",
+        "title": "KOKO Electronic: Kirollus (All Night Long)",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "KOKO",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2532588",
+        "ticketUrl": "https://ra.co/events/2532588",
+        "summary": "London digger Kirollus takes KOKO’s theatre open-to-close for a disco, boogie, funk, soul and house all-night session under the KOKO Electronic banner.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-noah-kahan-o2-2026",
+        "title": "Noah Kahan",
+        "type": "concert",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-17",
+        "importance": 90,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/noah-kahan-2026",
+        "ticketUrl": null,
+        "summary": "Noah Kahan brings The Great Divide-era arena run to The O2 with special guest Bella Kay. The venue lists three London shows on 13, 14 and 17 November 2026.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-jungle-o2-2026",
+        "title": "Jungle",
+        "type": "concert",
+        "startDate": "2026-11-24",
+        "endDate": "2026-11-25",
+        "importance": 86,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/jungle-2026",
+        "ticketUrl": null,
+        "summary": "Jungle return to The O2 for two nights with special guest Rio Kosta. The venue confirms shows on Tuesday 24 and Wednesday 25 November 2026.",
+        "genres": [
+          "electronic",
+          "r-and-b",
+          "pop"
         ]
       },
       {
@@ -60,20 +385,6 @@
         ]
       },
       {
-        "id": "london-papa-roach-o2-2026",
-        "title": "Papa Roach",
-        "type": "concert",
-        "startDate": "2026-11-08",
-        "endDate": "2026-11-08",
-        "importance": 78,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/papa-roach",
-        "ticketUrl": null,
-        "summary": "Papa Roach are confirmed for The O2 on Sunday 8 November 2026. The O2 lists the show as on sale with doors at 5:30 PM.",
-        "genres": []
-      },
-      {
         "id": "london-hatsune-miku-expo-2026",
         "title": "HATSUNE MIKU EXPO 2026 EUROPE",
         "type": "concert",
@@ -91,35 +402,19 @@
         ]
       },
       {
-        "id": "london-noah-kahan-o2-2026",
-        "title": "Noah Kahan",
-        "type": "concert",
-        "startDate": "2026-11-13",
-        "endDate": "2026-11-17",
-        "importance": 90,
-        "venueName": "The O2 arena",
+        "id": "london-history-of-jungle-2026",
+        "title": "The History of Jungle",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 83,
+        "venueName": "HERE",
         "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/noah-kahan-2026",
-        "ticketUrl": null,
-        "summary": "Noah Kahan brings The Great Divide-era arena run to The O2 with special guest Bella Kay. The venue lists three London shows on 13, 14 and 17 November 2026.",
+        "sourceUrl": "https://ra.co/events/2435246",
+        "ticketUrl": "https://ra.co/events/2435246",
+        "summary": "An all-day HERE at Outernet session dedicated to jungle and drum & bass sound-system history, with Roni Size, DJ Hype, Grooverider, Nicky Blackmarket, DJ Rap, Kenny Ken, Ragga Twins and major MCs.",
         "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "london-fatoumata-diawara-2026",
-        "title": "Fatoumata Diawara",
-        "type": "concert",
-        "startDate": "2026-11-18",
-        "endDate": "2026-11-18",
-        "importance": 77,
-        "venueName": "Roundhouse",
-        "venueId": null,
-        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/fatoumata-diawara/",
-        "ticketUrl": null,
-        "summary": "Fatoumata Diawara plays the Roundhouse Main Space as part of EFG London Jazz Festival 2026. The Roundhouse confirms the concert for Wednesday 18 November 2026.",
-        "genres": [
-          "jazz"
+          "electronic"
         ]
       },
       {
@@ -136,40 +431,6 @@
         "summary": "Enter Shikari headline Alexandra Palace’s Great Hall on the LOSE YOUR SELF Tour with Holding Absence and The Callous Daoboys. Alexandra Palace confirms the run for 20–21 November 2026.",
         "genres": [
           "electronic"
-        ]
-      },
-      {
-        "id": "london-myles-smith-o2-2026",
-        "title": "Myles Smith",
-        "type": "concert",
-        "startDate": "2026-11-20",
-        "endDate": "2026-11-20",
-        "importance": 80,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/myles-smith",
-        "ticketUrl": null,
-        "summary": "Myles Smith plays his debut show at The O2 on Friday 20 November 2026. The venue lists the arena date in support of his 2026 album campaign.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
-        "id": "london-jungle-o2-2026",
-        "title": "Jungle",
-        "type": "concert",
-        "startDate": "2026-11-24",
-        "endDate": "2026-11-25",
-        "importance": 86,
-        "venueName": "The O2 arena",
-        "venueId": null,
-        "sourceUrl": "https://www.theo2.co.uk/events/detail/jungle-2026",
-        "ticketUrl": null,
-        "summary": "Jungle return to The O2 for two nights with special guest Rio Kosta. The venue confirms shows on Tuesday 24 and Wednesday 25 November 2026.",
-        "genres": [
-          "electronic",
-          "r-and-b",
-          "pop"
         ]
       },
       {
@@ -203,6 +464,172 @@
         "genres": [
           "pop",
           "electronic"
+        ]
+      },
+      {
+        "id": "london-myles-smith-o2-2026",
+        "title": "Myles Smith",
+        "type": "concert",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-20",
+        "importance": 80,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/myles-smith",
+        "ticketUrl": null,
+        "summary": "Myles Smith plays his debut show at The O2 on Friday 20 November 2026. The venue lists the arena date in support of his 2026 album campaign.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "london-dusky-originals-2026",
+        "title": "Dusky: Originals (2010 - 2025 Set)",
+        "type": "residency",
+        "startDate": "2026-11-21",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440113",
+        "ticketUrl": "https://ra.co/events/2440113",
+        "summary": "The sold-out main date of Dusky’s Phonox Originals concept, presenting an extended set made entirely from the London duo’s own catalogue.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-papa-roach-o2-2026",
+        "title": "Papa Roach",
+        "type": "concert",
+        "startDate": "2026-11-08",
+        "endDate": "2026-11-08",
+        "importance": 78,
+        "venueName": "The O2 arena",
+        "venueId": null,
+        "sourceUrl": "https://www.theo2.co.uk/events/detail/papa-roach",
+        "ticketUrl": null,
+        "summary": "Papa Roach are confirmed for The O2 on Sunday 8 November 2026. The O2 lists the show as on sale with doors at 5:30 PM.",
+        "genres": []
+      },
+      {
+        "id": "london-illuminaughty-20-years-2026",
+        "title": "IllumiNaughty: 20 Years Of Chaos",
+        "type": "festival",
+        "startDate": "2026-11-07",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Studio 338",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2370189",
+        "ticketUrl": "https://ra.co/events/2370189",
+        "summary": "The long-running psytrance brand celebrates 20 years with an indoor legacy edition at Studio 338 featuring Vini Vici, Electric Universe, Fabio Fusco, Hi Profile, Gaudi and more.",
+        "genres": [
+          "electronic",
+          "festival"
+        ]
+      },
+      {
+        "id": "london-cartulis-17th-anniversary-2026",
+        "title": "Cartulis 17th Year Anniversary",
+        "type": "club-night",
+        "startDate": "2026-11-21",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "FOLD",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2264992",
+        "ticketUrl": "https://ra.co/events/2264992",
+        "summary": "Cartulis marks 17 years with an overnight anniversary session at FOLD, continuing one of London’s key underground minimal and techno party legacies.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-dusky-originals-second-date-2026",
+        "title": "Dusky: Originals (2010 - 2025 Set) - [2nd Date]",
+        "type": "residency",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Phonox",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2445988",
+        "ticketUrl": "https://ra.co/events/2445988",
+        "summary": "A sold-out Phonox session from London duo Dusky built entirely around their own productions, added as a second date due to demand.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-soweto-kinch-trilogy-2026",
+        "title": "Soweto Kinch: Trilogy",
+        "type": "concert",
+        "startDate": "2026-11-19",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "Barbican",
+        "venueId": null,
+        "sourceUrl": "https://www.lso.co.uk/whats-on/efg-london-jazz-festival-soweto-kinch-19-nov-26/",
+        "ticketUrl": "https://www.lso.co.uk/whats-on/efg-london-jazz-festival-soweto-kinch-19-nov-26/",
+        "summary": "Saxophonist, rapper and composer Soweto Kinch revisits The Black Peril, White Juju and Soundtrack to the Apocalypse with the London Symphony Orchestra as part of EFG London Jazz Festival.",
+        "genres": [
+          "jazz",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "london-fatoumata-diawara-2026",
+        "title": "Fatoumata Diawara",
+        "type": "concert",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-18",
+        "importance": 77,
+        "venueName": "Roundhouse",
+        "venueId": null,
+        "sourceUrl": "https://www.roundhouse.org.uk/whats-on/fatoumata-diawara/",
+        "ticketUrl": null,
+        "summary": "Fatoumata Diawara plays the Roundhouse Main Space as part of EFG London Jazz Festival 2026. The Roundhouse confirms the concert for Wednesday 18 November 2026.",
+        "genres": [
+          "jazz"
+        ]
+      },
+      {
+        "id": "london-i-love-acid-2026",
+        "title": "I Love Acid",
+        "type": "club-night",
+        "startDate": "2026-11-06",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "The Cause",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2419498",
+        "ticketUrl": "https://ra.co/events/2419498",
+        "summary": "I Love Acid opens a new London home at The Cause with Chicago acid house originator DJ Pierre, Lauren Flax, Posthuman, Jon Dasilva and a special guest TBA.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "london-supa-dupa-fly-rnb-day-party-2026",
+        "title": "Supa Dupa Fly: R'n'B LDN Day Party",
+        "type": "club-night",
+        "startDate": "2026-11-14",
+        "endDate": null,
+        "importance": 75,
+        "venueName": null,
+        "venueId": null,
+        "sourceUrl": "https://www.supadupaflylove.com/club-nights/hip-hop",
+        "ticketUrl": "https://www.supadupaflylove.com/club-nights/hip-hop",
+        "summary": "A November edition of Supa Dupa Fly’s R'n'B LDN day party, from one of London’s long-running hip-hop and R&B party brands.",
+        "genres": [
+          "hip-hop",
+          "r-and-b"
         ]
       }
     ]

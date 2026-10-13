@@ -1,0 +1,306 @@
+{
+  "slug": "miami",
+  "month": 3,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:31:53.670Z",
+  "responseId": "resp_04a158ffab7eb83a006acda515011487d0b55b765dfaba41f9+resp_0df3c07b7a0dfb22006acda5af336487d0be42ca2fd1a06db7",
+  "searchCalls": 34,
+  "citations": [],
+  "data": {
+    "destinationSlug": "miami",
+    "month": 3,
+    "year": 2027,
+    "notes": "March 2027 is already anchored by Miami’s Latin street-festival season, GroundUP’s live-music weekend, and the Ultra/Miami Music Week electronic-music takeover, while individual club-party calendars are still largely unannounced.",
+    "events": [
+      {
+        "id": "miami-ultra-mar-2027",
+        "title": "Ultra Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-03-26",
+        "endDate": "2027-03-28",
+        "importance": 99,
+        "venueName": "Ultra Music Festival",
+        "venueId": "ultra-miami",
+        "sourceUrl": "https://ultramusicfestival.com/festival-info",
+        "ticketUrl": "https://ultramusicfestival.com/tickets/",
+        "summary": "Ultra Music Festival returns to Bayfront Park in Downtown Miami for three days, March 26-28, 2027. The official festival-info page confirms the daily hours and 18+ entry policy.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-music-week-mar-2027",
+        "title": "Miami Music Week 2027",
+        "type": "festival",
+        "startDate": "2027-03-22",
+        "endDate": "2027-03-28",
+        "importance": 92,
+        "venueName": "Venues across Greater Miami and Miami Beach",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/events/miami-music-week-guide",
+        "ticketUrl": null,
+        "summary": "Miami Music Week is the citywide electronic-music week of DJ sets, pool parties, club events and industry gatherings, with the 2027 edition set for March 22-28 and Ultra as the closing-weekend anchor.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-calle-ocho-mar-2027",
+        "title": "49th Annual Calle Ocho Music Festival",
+        "type": "festival",
+        "startDate": "2027-03-14",
+        "endDate": "2027-03-14",
+        "importance": 86,
+        "venueName": "Calle Ocho, Little Havana",
+        "venueId": null,
+        "sourceUrl": "https://carnavalmiami.com/events/calle-ocho/",
+        "ticketUrl": null,
+        "summary": "Carnaval Miami’s flagship Calle Ocho Music Festival takes over 15 blocks of Little Havana with music stages, food, folkloric dance and entertainment.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-don-omar-2027",
+        "title": "Don Omar - The Last King World Tour",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 82,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/don-omar-2",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/don-omar-2",
+        "summary": "Reggaeton pioneer Don Omar brings The Last King World Tour to Kaseya Center on March 12.",
+        "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "miami-winter-music-conference-2027",
+        "title": "Winter Music Conference 2027",
+        "type": "conference",
+        "startDate": "2027-03-24",
+        "endDate": "2027-03-26",
+        "importance": 82,
+        "venueName": "Kimpton EPIC Hotel",
+        "venueId": null,
+        "sourceUrl": "https://wintermusicconference.com/badges/",
+        "ticketUrl": "https://wintermusicconference.com/badges/",
+        "summary": "Winter Music Conference runs during Miami Music Week with WMC programming, networking mixers, two pool parties and access to WMC-sanctioned events.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "miami-morat-2027",
+        "title": "Morat - YEM World Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-20",
+        "endDate": "2027-03-20",
+        "importance": 79,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://www.kaseyacenter.com/events/detail/morat-1",
+        "ticketUrl": "https://www.kaseyacenter.com/events/detail/morat-1",
+        "summary": "Colombian pop band Morat brings the YEM World Tour 2027 to Kaseya Center on March 20.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-groundup-mar-2027",
+        "title": "GroundUP Music Festival 2027",
+        "type": "festival",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-14",
+        "importance": 78,
+        "venueName": "Miami Beach Bandshell",
+        "venueId": null,
+        "sourceUrl": "https://www.groundupmusicfestival.com/",
+        "ticketUrl": "https://www.groundupmusicfestival.com/",
+        "summary": "GroundUP returns to Miami Beach with Snarky Puppy performing full sets every night, plus Victoria Canal and Snarky Puppy Family Dinner with special guests.",
+        "genres": [
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-winter-party-2027",
+        "title": "Winter Party Festival 2027",
+        "type": "festival",
+        "startDate": "2027-03-05",
+        "endDate": "2027-03-08",
+        "importance": 78,
+        "venueName": "Miami Beach / National Hotel Miami Beach",
+        "venueId": null,
+        "sourceUrl": "https://winterparty.com/",
+        "ticketUrl": "https://events.leapevents.com/event/winter-party-festival-2027",
+        "summary": "Long-running LGBTQ+ circuit and dance-music festival returning to Miami Beach for its 34th year, with a host hotel/pool-party hub at the National Hotel and a multi-day program of beach, pool and night parties.",
+        "genres": [
+          "electronic",
+          "house",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-jay-wheeler-2027",
+        "title": "Jay Wheeler - La Voz Favorita Tour",
+        "type": "concert",
+        "startDate": "2027-03-11",
+        "endDate": "2027-03-11",
+        "importance": 75,
+        "venueName": "Kaseya Center",
+        "venueId": null,
+        "sourceUrl": "https://jaywheelermundial.com/tour.html",
+        "ticketUrl": "https://www.ticketmaster.com/jay-wheeler-lvf-tour-miami-florida-03-11-2027/event/0D00654119AE11EB",
+        "summary": "Puerto Rican singer Jay Wheeler brings his La Voz Favorita world tour to Kaseya Center for a Miami arena date.",
+        "genres": [
+          "latin",
+          "r-and-b"
+        ]
+      },
+      {
+        "id": "miami-laura-pausini-2027",
+        "title": "Laura Pausini - Yo Canto Tour",
+        "type": "concert",
+        "startDate": "2027-03-14",
+        "endDate": "2027-03-14",
+        "importance": 72,
+        "venueName": "Hard Rock Live, Hollywood",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/es/hollywood/newsroom/2026/09/laura-pausinis-yo-canto-tour-is-coming-to-hard-rock-live-at-seminole-hard-rock-hotel-and-casino-in-hollywood-fla-sunday-march-14-2027-at-730-pm",
+        "ticketUrl": "https://www.ticketmaster.com/laura-pausini-yo-canto-hollywood-florida-03-14-2027/event/0D00652A9BDE84B3",
+        "summary": "Italian global pop singer Laura Pausini brings her Yo Canto Tour to Hard Rock Live on March 14.",
+        "genres": [
+          "pop",
+          "latin"
+        ]
+      },
+      {
+        "id": "miami-death-cab-2027",
+        "title": "Death Cab For Cutie - I Built You A Tower Tour",
+        "type": "concert",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "importance": 72,
+        "venueName": "The Fillmore Miami Beach at Jackie Gleason Theater",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/death-cab-for-cutie-i-built-you-a-tower-tour-miami-beach-03-18-2027/event/0D00652AFFE5DAB9",
+        "ticketUrl": "https://www.ticketmaster.com/death-cab-for-cutie-i-built-you-a-tower-tour-miami-beach-03-18-2027/event/0D00652AFFE5DAB9",
+        "summary": "Death Cab for Cutie plays The Fillmore Miami Beach on the I Built You A Tower Tour, with Swapmeet listed on the bill.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-carnaval-mile-mar-2027",
+        "title": "Carnaval on the Mile 2027",
+        "type": "festival",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-07",
+        "importance": 70,
+        "venueName": "Miracle Mile, Coral Gables",
+        "venueId": null,
+        "sourceUrl": "https://carnavalmiami.com/events/carnaval-on-the-mile/",
+        "ticketUrl": null,
+        "summary": "Carnaval Miami’s Coral Gables weekend features local art, live music, food and family programming on Miracle Mile. The 2027 entertainment lineup is still listed as coming soon.",
+        "genres": [
+          "latin",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-rod-stewart-2027",
+        "title": "Rod Stewart",
+        "type": "concert",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-12",
+        "importance": 70,
+        "venueName": "Hard Rock Live, Hollywood",
+        "venueId": null,
+        "sourceUrl": "https://casino.hardrock.com/hollywood/events/rod-stewart",
+        "ticketUrl": "https://casino.hardrock.com/hollywood/events/rod-stewart",
+        "summary": "Rod Stewart performs at Hard Rock Live in Hollywood, a major South Florida concert venue just north of Miami.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "miami-carnaval-on-mile-2027",
+        "title": "28th Annual Carnaval on the Mile",
+        "type": "festival",
+        "startDate": "2027-03-06",
+        "endDate": "2027-03-07",
+        "importance": 70,
+        "venueName": "Miracle Mile, Coral Gables",
+        "venueId": null,
+        "sourceUrl": "https://carnavalmiami.com/events/carnaval-on-the-mile/",
+        "ticketUrl": null,
+        "summary": "Free two-day Carnaval Miami street festival on Miracle Mile with multiple concert stages, Latin/Caribbean community focus, jazz, funk, local art and food programming.",
+        "genres": [
+          "latin",
+          "jazz",
+          "festival"
+        ]
+      },
+      {
+        "id": "miami-stamped-ghana-2027",
+        "title": "STAMPED: AYA & Friends - Ghana Independence",
+        "type": "club-night",
+        "startDate": "2027-03-06",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "Higher Ground at Arlo Wynwood",
+        "venueId": null,
+        "sourceUrl": "https://www.miamiandbeaches.com/event/stamped-aya-x-friends-ghana-independence/43193",
+        "ticketUrl": "https://www.eventbrite.com/e/stamped-aya-friends-ghana-independence-afrobeats-amapiano-and-more-tickets-2003017108090",
+        "summary": "Ghana Independence edition of STAMPED, a recurring Miami rooftop party centered on African-continent sounds, with highlife, amapiano and afrobeats programmed by AYA and friends.",
+        "genres": [
+          "amapiano",
+          "afro-house"
+        ]
+      },
+      {
+        "id": "miami-cleveland-orchestra-residency-2027",
+        "title": "The Cleveland Orchestra Miami Residency 2027: March Concerts",
+        "type": "residency",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-20",
+        "importance": 73,
+        "venueName": "Knight Concert Hall, Adrienne Arsht Center",
+        "venueId": null,
+        "sourceUrl": "https://files.baskercdn.com/clevelandorchestra/files/2027%20Miami%20Residency%20announcement.pdf",
+        "ticketUrl": "https://www.arshtcenter.org/cleveland",
+        "summary": "The Cleveland Orchestra’s Miami Residency expands in March with three confirmed Arsht Center concerts: The Music of John Williams on March 12, Rachmaninoff’s Rhapsody on March 13 and Szeps-Znaider Plays Bruch on March 20.",
+        "genres": []
+      },
+      {
+        "id": "miami-cristian-castro-2027",
+        "title": "Cristian Castro: Nada Solo Éxitos Tour 2027",
+        "type": "concert",
+        "startDate": "2027-03-13",
+        "endDate": "2027-03-13",
+        "importance": 68,
+        "venueName": "James L. Knight Center",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-tour-miami-florida-03-13-2027/event/0D006455BC6ED1CF",
+        "ticketUrl": "https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-tour-miami-florida-03-13-2027/event/0D006455BC6ED1CF",
+        "summary": "Mexican Latin-pop vocalist Cristian Castro brings the Nada Solo Éxitos Tour 2027 to the James L. Knight Center on March 13, 2027 at 8:00 PM.",
+        "genres": [
+          "latin",
+          "pop"
+        ]
+      }
+    ]
+  }
+}

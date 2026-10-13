@@ -1,0 +1,84 @@
+{
+  "slug": "aspen",
+  "month": 2,
+  "year": 2027,
+  "generatedAt": "2026-10-13T03:22:58.456Z",
+  "responseId": "resp_00f094541f93fc83006acda35c369087d0a8a767ff5ceb36e4+resp_000b3c865e922c93006acda3bbb70887d093ebb6a5c749e7b4",
+  "searchCalls": 33,
+  "citations": [],
+  "data": {
+    "destinationSlug": "aspen",
+    "month": 2,
+    "year": 2027,
+    "notes": "Aspen’s February 2027 confirmed music calendar is anchored by Palm Tree Music Festival, with smaller confirmed theater and community dance events around it while several winter club/après lineups remain unannounced.",
+    "events": [
+      {
+        "id": "aspen-palm-tree-music-festival-2027",
+        "title": "Palm Tree Music Festival Aspen 2027",
+        "type": "festival",
+        "startDate": "2027-02-19",
+        "endDate": "2027-02-20",
+        "importance": 90,
+        "venueName": "Rio Grande Park",
+        "venueId": null,
+        "sourceUrl": "https://www.aspensnowmass.com/visit/events/palm-tree-music-festival",
+        "ticketUrl": "https://palmtreemusicfestivalaspen.frontgatetickets.com/",
+        "summary": "Palm Tree Music Festival returns to Aspen for two days of electronic music with The Chainsmokers, FISHER + Chris Lake, Disco Lines, HUGEL, The Martinez Brothers, Max Styler, and more.",
+        "genres": [
+          "electronic",
+          "house",
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-jesse-cook-2027",
+        "title": "Wheeler Presents: An Evening with Jesse Cook",
+        "type": "concert",
+        "startDate": "2027-02-04",
+        "endDate": "2027-02-04",
+        "importance": 70,
+        "venueName": "Wheeler Opera House",
+        "venueId": null,
+        "sourceUrl": "https://aspenshowtix.com/event/wheeler-presents-an-evening-with-jesse-cook/",
+        "ticketUrl": "https://aspenshowtix.com/choose-seats/?instance=124201AHSBPSMLDTGVBNKDJHSLBJTLQLB",
+        "summary": "Juno-winning guitarist Jesse Cook brings his flamenco, jazz, and global-fusion live show to Wheeler Opera House at 7:30 pm.",
+        "genres": [
+          "jazz",
+          "latin"
+        ]
+      },
+      {
+        "id": "aspen-abba-mania-2027",
+        "title": "Wheeler Presents MANIA: The ABBA Tribute",
+        "type": "concert",
+        "startDate": "2027-02-05",
+        "endDate": "2027-02-05",
+        "importance": 63,
+        "venueName": "Wheeler Opera House",
+        "venueId": null,
+        "sourceUrl": "https://aspenshowtix.com/event/wheeler-presents-mania-the-abba-tribute/",
+        "ticketUrl": "https://aspenshowtix.com/choose-seats/?instance=131401APRQDGKMQBQHKJDTBCCPDJTVGKG",
+        "summary": "MANIA: The ABBA Tribute performs a pop tribute concert at Wheeler Opera House at 7:30 pm.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "aspen-jas-salsa-night-feb-2027",
+        "title": "JAS Community Nights – Salsa Night with Mezcla Socials Dance",
+        "type": "club-night",
+        "startDate": "2027-02-02",
+        "endDate": "2027-02-02",
+        "importance": 60,
+        "venueName": "Paul JAS Center",
+        "venueId": null,
+        "sourceUrl": "https://jazzaspensnowmass.org/event/jas-community-nights-salsa-night-with-mezcla-socials-dance-feb-2027/",
+        "ticketUrl": null,
+        "summary": "Jazz Aspen Snowmass hosts a free salsa community night with Mezcla Socials Dance, including a 6:00 pm lesson and open dancing from 7:00 pm.",
+        "genres": [
+          "latin"
+        ]
+      }
+    ]
+  }
+}

@@ -2,9 +2,9 @@
   "slug": "barcelona",
   "month": 9,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:50:11.368Z",
-  "responseId": "resp_00d619fcb3fb30010069ff573d12f081a09d78d33f5ff16aeb",
-  "searchCalls": 16,
+  "generatedAt": "2026-05-30T18:06:57.093Z",
+  "responseId": "augment:resp_05cd82c8aef43baf006a1b26d789dc819aa5925963213c03ea",
+  "searchCalls": 14,
   "citations": [],
   "data": {
     "destinationSlug": "barcelona",
@@ -48,22 +48,6 @@
         ]
       },
       {
-        "id": "barcelona-jackies-open-air-2026",
-        "title": "Jackies Open Air Daytime w/ Very Special Guest",
-        "type": "club-night",
-        "startDate": "2026-09-05",
-        "endDate": "2026-09-05",
-        "importance": 78,
-        "venueName": "La Terrrazza",
-        "venueId": null,
-        "sourceUrl": "https://ra.co/events/2392549",
-        "ticketUrl": "https://ra.co/events/2392549",
-        "summary": "Barcelona house label and party brand Jackies hosts an open-air daytime session at La Terrrazza on 5 September 2026. The lineup is listed as a special guest TBA playing open-to-close.",
-        "genres": [
-          "house"
-        ]
-      },
-      {
         "id": "barcelona-output-apollonia-sonja-moonear-2026",
         "title": "Output pres. Apollonia + Sonja Moonear",
         "type": "club-night",
@@ -78,6 +62,73 @@
         "genres": [
           "house",
           "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-fat-freddys-drop-2026",
+        "title": "Fat Freddy's Drop: 21st Anniversary of Based On A True Story",
+        "type": "concert",
+        "startDate": "2026-09-27",
+        "endDate": "2026-09-27",
+        "importance": 82,
+        "venueName": "Razzmatazz 1",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/27-09-2026-fat-freddys-drop/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/27-09-2026-fat-freddys-drop/",
+        "summary": "New Zealand band Fat Freddy’s Drop play Razzmatazz 1 on 27 September 2026, celebrating the 21st anniversary of Based On A True Story. The venue highlights the group’s blend of reggae, soul, dub, jazz-funk and electronic influences.",
+        "genres": [
+          "jazz",
+          "r-and-b",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-blackworks-vii-anniversary-2026",
+        "title": "BlackWorks Barcelona - VII Anniversary",
+        "type": "festival",
+        "startDate": "2026-09-11",
+        "endDate": "2026-09-12",
+        "importance": 82,
+        "venueName": "Circuit de Barcelona-Catalunya",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2453562",
+        "ticketUrl": null,
+        "summary": "Hard-techno promoter BlackWorks marks its seventh Barcelona anniversary with a 17:00-05:00 event at Circuit de Barcelona-Catalunya headlined by Nico Moreno, with more lineup TBA.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-the-damned-2026",
+        "title": "The Damned",
+        "type": "concert",
+        "startDate": "2026-09-26",
+        "endDate": "2026-09-26",
+        "importance": 80,
+        "venueName": "Razzmatazz 2",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/26-09-2026-the-damned/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/26-09-2026-the-damned/",
+        "summary": "UK punk pioneers The Damned play Razzmatazz 2 on 26 September 2026 as part of a Spain run marking 50 years of the band. The venue notes a set spanning their punk and gothic-rock eras.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "barcelona-jackies-open-air-2026",
+        "title": "Jackies Open Air Daytime w/ Very Special Guest",
+        "type": "club-night",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-05",
+        "importance": 78,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2392549",
+        "ticketUrl": "https://ra.co/events/2392549",
+        "summary": "Barcelona house label and party brand Jackies hosts an open-air daytime session at La Terrrazza on 5 September 2026. The lineup is listed as a special guest TBA playing open-to-close.",
+        "genres": [
+          "house"
         ]
       },
       {
@@ -98,20 +149,21 @@
         ]
       },
       {
-        "id": "barcelona-sina-bathaie-2026",
-        "title": "Sina Bathaie: White Lotus World Tour",
-        "type": "concert",
-        "startDate": "2026-09-10",
-        "endDate": "2026-09-10",
-        "importance": 70,
-        "venueName": "Luz de Gas",
+        "id": "barcelona-closa-guy-gerber-2026",
+        "title": "CLOSA SELECTS: Guy Gerber at La Terrrazza",
+        "type": "club-night",
+        "startDate": "2026-09-26",
+        "endDate": null,
+        "importance": 78,
+        "venueName": "La Terrrazza",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2359241",
-        "ticketUrl": "https://ra.co/events/2359241",
-        "summary": "Multi-instrumentalist and producer Sina Bathaie brings the White Lotus World Tour to Luz de Gas on 10 September 2026. RA lists the show with deep-house and downtempo tags.",
+        "sourceUrl": "https://ra.co/events/2424885",
+        "ticketUrl": "https://ra.co/events/2424885",
+        "summary": "CLOSA Selects launches its cutting-edge electronic series at La Terrrazza with Guy Gerber plus TBA support, spanning house and afro-house-adjacent sounds.",
         "genres": [
-          "electronic",
-          "house"
+          "house",
+          "afro-house",
+          "electronic"
         ]
       },
       {
@@ -129,6 +181,58 @@
         "genres": [
           "latin",
           "pop"
+        ]
+      },
+      {
+        "id": "barcelona-tsoa-fritz-einmusik-2026",
+        "title": "TSOA: Fritz Kalkbrenner & Einmusik (Open Air)",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "importance": 76,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2444487",
+        "ticketUrl": "https://ra.co/events/2444487",
+        "summary": "The Society of Art brings a melodic/progressive-house open-air to Seaseaclub with Fritz Kalkbrenner, Einmusik, Agatha Pher and Envel.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-onirica-worakls-live-2026",
+        "title": "ONÍRICA pres Worakls LIVE",
+        "type": "club-night",
+        "startDate": "2026-09-12",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2413814",
+        "ticketUrl": "https://ra.co/events/2413814",
+        "summary": "ONÍRICA presents a daytime Seaseaclub live show from Worakls, joined by additional artists to be announced, in the progressive-house lane.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-waa-gordo-2026",
+        "title": "Waa! pres. Gordo",
+        "type": "club-night",
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-24",
+        "importance": 74,
+        "venueName": "Opium Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2441013",
+        "ticketUrl": "https://ra.co/events/2441013",
+        "summary": "Waa! presents Gordo at Opium Barcelona for a late-night tech-house event blending house, techno and Latin-influenced club rhythms on the seafront.",
+        "genres": [
+          "house",
+          "techno",
+          "latin"
         ]
       },
       {
@@ -150,22 +254,6 @@
         ]
       },
       {
-        "id": "barcelona-tylas-dogs-damour-2026",
-        "title": "Tyla's Dogs D'Amour: Celebrating 40 Years of Rains & 65 Years of Disgrace",
-        "type": "concert",
-        "startDate": "2026-09-12",
-        "endDate": "2026-09-12",
-        "importance": 70,
-        "venueName": "Razzmatazz 3",
-        "venueId": null,
-        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/12-09-2026-tylas-dogs-damour/",
-        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/12-09-2026-tylas-dogs-damour/",
-        "summary": "Tyla’s Dogs D’Amour play Razzmatazz 3 on 12 September 2026 as part of a September tour. The venue bills the show around Tyla’s rock’n’roll catalogue and 40 years of Rains & Disgrace.",
-        "genres": [
-          "pop"
-        ]
-      },
-      {
         "id": "barcelona-transvision-vamp-2026",
         "title": "Transvision Vamp - Spain 2026",
         "type": "concert",
@@ -182,37 +270,88 @@
         ]
       },
       {
-        "id": "barcelona-the-damned-2026",
-        "title": "The Damned",
-        "type": "concert",
-        "startDate": "2026-09-26",
-        "endDate": "2026-09-26",
-        "importance": 80,
-        "venueName": "Razzmatazz 2",
+        "id": "barcelona-happy-techno-opening-2026",
+        "title": "Opening Happy Techno Barcelona - Open Air / Daytime",
+        "type": "club-night",
+        "startDate": "2026-09-19",
+        "endDate": null,
+        "importance": 72,
+        "venueName": "La Terrrazza",
         "venueId": null,
-        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/26-09-2026-the-damned/",
-        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/26-09-2026-the-damned/",
-        "summary": "UK punk pioneers The Damned play Razzmatazz 2 on 26 September 2026 as part of a Spain run marking 50 years of the band. The venue notes a set spanning their punk and gothic-rock eras.",
+        "sourceUrl": "https://ra.co/events/2395469",
+        "ticketUrl": "https://ra.co/events/2395469",
+        "summary": "Lexlay's Happy Techno returns to La Terrrazza in daytime open-air format with Marco Lys, Lexlay, Javi Colina, Shitake and Mandiz.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-sina-bathaie-2026",
+        "title": "Sina Bathaie: White Lotus World Tour",
+        "type": "concert",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-10",
+        "importance": 70,
+        "venueName": "Luz de Gas",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2359241",
+        "ticketUrl": "https://ra.co/events/2359241",
+        "summary": "Multi-instrumentalist and producer Sina Bathaie brings the White Lotus World Tour to Luz de Gas on 10 September 2026. RA lists the show with deep-house and downtempo tags.",
+        "genres": [
+          "electronic",
+          "house"
+        ]
+      },
+      {
+        "id": "barcelona-tylas-dogs-damour-2026",
+        "title": "Tyla's Dogs D'Amour: Celebrating 40 Years of Rains & 65 Years of Disgrace",
+        "type": "concert",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-12",
+        "importance": 70,
+        "venueName": "Razzmatazz 3",
+        "venueId": null,
+        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/12-09-2026-tylas-dogs-damour/",
+        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/12-09-2026-tylas-dogs-damour/",
+        "summary": "Tyla’s Dogs D’Amour play Razzmatazz 3 on 12 September 2026 as part of a September tour. The venue bills the show around Tyla’s rock’n’roll catalogue and 40 years of Rains & Disgrace.",
         "genres": [
           "pop"
         ]
       },
       {
-        "id": "barcelona-fat-freddys-drop-2026",
-        "title": "Fat Freddy's Drop: 21st Anniversary of Based On A True Story",
-        "type": "concert",
-        "startDate": "2026-09-27",
-        "endDate": "2026-09-27",
-        "importance": 82,
-        "venueName": "Razzmatazz 1",
+        "id": "barcelona-summer-heroes-closing-2026",
+        "title": "Summer Heroes Closing: Open Air with Mystery Affair",
+        "type": "residency",
+        "startDate": "2026-09-10",
+        "endDate": null,
+        "importance": 69,
+        "venueName": "La Terrrazza",
         "venueId": null,
-        "sourceUrl": "https://www.salarazzmatazz.com/en/agenda/27-09-2026-fat-freddys-drop/",
-        "ticketUrl": "https://www.salarazzmatazz.com/en/agenda/27-09-2026-fat-freddys-drop/",
-        "summary": "New Zealand band Fat Freddy’s Drop play Razzmatazz 1 on 27 September 2026, celebrating the 21st anniversary of Based On A True Story. The venue highlights the group’s blend of reggae, soul, dub, jazz-funk and electronic influences.",
+        "sourceUrl": "https://ra.co/events/2436107",
+        "ticketUrl": "https://ra.co/events/2436107",
+        "summary": "The long-running Thursday open-air Summer Heroes residency closes its season at La Terrrazza with Mystery Affair, MøønkiZa, Daniel Aguilar and Cesar Martino.",
         "genres": [
-          "jazz",
-          "r-and-b",
+          "house",
           "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-hop-on-the-top-anniversary-2026",
+        "title": "Hop on The Top (8th Anniversary) - Hip Hop Throwback 90'-00' at La Terrrazza",
+        "type": "club-night",
+        "startDate": "2026-09-11",
+        "endDate": null,
+        "importance": 66,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433487",
+        "ticketUrl": "https://ra.co/events/2433487",
+        "summary": "Hop on The Top celebrates eight years with an open-air urban-culture tardeo focused on hip-hop, R&B, funk and soul, led by DJ Amazing plus TBA guests.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "pop"
         ]
       }
     ]

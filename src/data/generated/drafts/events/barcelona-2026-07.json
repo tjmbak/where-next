@@ -2,9 +2,9 @@
   "slug": "barcelona",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:49:42.335Z",
-  "responseId": "resp_03247a17695591280069ff5722b5388195820b3261e6945a6c",
-  "searchCalls": 19,
+  "generatedAt": "2026-05-30T18:06:08.647Z",
+  "responseId": "augment:resp_0a33a142e3986f22006a1b269df034819990421b8c71c430bf",
+  "searchCalls": 16,
   "citations": [],
   "data": {
     "destinationSlug": "barcelona",
@@ -12,6 +12,42 @@
     "year": 2026,
     "notes": "July 2026 is unusually dense in Barcelona, with major open-air festival programming at Parc del Fòrum/Pedralbes plus arena-scale Latin and pop concerts on Montjuïc.",
     "events": [
+      {
+        "id": "barcelona-cruilla-festival-2026",
+        "title": "Festival Cruïlla 2026",
+        "type": "festival",
+        "startDate": "2026-07-08",
+        "endDate": "2026-07-11",
+        "importance": 95,
+        "venueName": "Parc del Fòrum",
+        "venueId": null,
+        "sourceUrl": "https://www.cruillabarcelona.cat/es/festival-cruilla/",
+        "ticketUrl": "https://www.cruillabarcelona.cat/es/festival-cruilla/entradas/",
+        "summary": "Four-day flagship Barcelona festival at Parc del Fòrum with confirmed artists including Halsey, Pixies, David Byrne, Faithless, The Black Crowes, The Hives, Rigoberta Bandini, Garbage and Jon Batiste.",
+        "genres": [
+          "festival",
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-soundit-festival-2026",
+        "title": "SOUNDIT Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-18",
+        "importance": 90,
+        "venueName": "Parc Nou, El Prat de Llobregat",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2219904",
+        "ticketUrl": "https://ra.co/events/2219904",
+        "summary": "Two-day electronic festival returning to Parc Nou with four stages; the confirmed lineup includes 2ManyDJs, Helena Hauff, Honey Dijon, John Talabot, DVS1, Nina Kraviz, Oscar Mulero and Skee Mask b2b Stenny.",
+        "genres": [
+          "electronic",
+          "techno",
+          "house"
+        ]
+      },
       {
         "id": "barcelona-les-nits-occident-2026",
         "title": "Les Nits Occident 2026",
@@ -28,6 +64,23 @@
           "pop",
           "jazz",
           "latin"
+        ]
+      },
+      {
+        "id": "barcelona-cook-music-don-omar-beele-2026",
+        "title": "Cook Music Fest Special Edition: Don Omar + Beéle",
+        "type": "concert",
+        "startDate": "2026-07-23",
+        "endDate": "2026-07-23",
+        "importance": 86,
+        "venueName": "Estadi Olímpic Lluís Companys",
+        "venueId": null,
+        "sourceUrl": "https://cookmusicfest.es/especial-edition-barcelona/",
+        "ticketUrl": "https://cookmusicfest.es/especial-edition-barcelona/",
+        "summary": "Cook Music Fest’s Barcelona special edition brings Don Omar to Estadi Olímpic de Montjuïc, with Beéle confirmed as guest artist on the same July 23 date.",
+        "genres": [
+          "latin",
+          "hip-hop"
         ]
       },
       {
@@ -48,52 +101,88 @@
         ]
       },
       {
-        "id": "barcelona-cruilla-festival-2026",
-        "title": "Festival Cruïlla 2026",
-        "type": "festival",
-        "startDate": "2026-07-08",
-        "endDate": "2026-07-11",
-        "importance": 95,
-        "venueName": "Parc del Fòrum",
+        "id": "barcelona-zamna-on-the-beach-2026",
+        "title": "INPUT pres. ZAMNA ON THE BEACH",
+        "type": "beach-club",
+        "startDate": "2026-07-05",
+        "endDate": null,
+        "importance": 80,
+        "venueName": "Seaseaclub Barcelona",
         "venueId": null,
-        "sourceUrl": "https://www.cruillabarcelona.cat/es/festival-cruilla/",
-        "ticketUrl": "https://www.cruillabarcelona.cat/es/festival-cruilla/entradas/",
-        "summary": "Four-day flagship Barcelona festival at Parc del Fòrum with confirmed artists including Halsey, Pixies, David Byrne, Faithless, The Black Crowes, The Hives, Rigoberta Bandini, Garbage and Jon Batiste.",
+        "sourceUrl": "https://ra.co/events/2422599",
+        "ticketUrl": "https://ra.co/events/2422599",
+        "summary": "A Barcelona beach-club edition of the international ZAMNA brand, presented by INPUT, with Andrea Oliva, Chris Liebing and more across garden/gallery programming.",
         "genres": [
-          "festival",
-          "pop",
+          "techno",
+          "house",
           "electronic"
         ]
       },
       {
-        "id": "barcelona-ot-2025-palau-sant-jordi-2026",
-        "title": "OT 2025 en Concierto",
+        "id": "barcelona-yandel-palau-sant-jordi-2026",
+        "title": "Yandel",
         "type": "concert",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-10",
-        "importance": 72,
+        "startDate": "2026-07-17",
+        "endDate": "2026-07-17",
+        "importance": 79,
         "venueName": "Palau Sant Jordi",
         "venueId": null,
-        "sourceUrl": "https://palausantjordi.barcelona/en/ot-2025",
-        "ticketUrl": "https://www.entradas.com/event/operacion-triunfo-2025-conciertos-ot-2025-palau-sant-jordi-20896617/",
-        "summary": "The Operación Triunfo 2025 concert tour stops at Palau Sant Jordi for a large-scale pop show on July 10.",
+        "sourceUrl": "https://estadiolimpic.barcelona/en/yandel",
+        "ticketUrl": "https://www.ticketmaster.es/",
+        "summary": "Reggaeton artist Yandel brings a seated Palau Sant Jordi show to Barcelona on July 17, promoted by Iglesias Entertainment.",
         "genres": [
+          "latin",
+          "hip-hop"
+        ]
+      },
+      {
+        "id": "barcelona-swing-adam-beyer-2026",
+        "title": "SWING pres. Adam Beyer",
+        "type": "club-night",
+        "startDate": "2026-07-03",
+        "endDate": null,
+        "importance": 79,
+        "venueName": "INPUT High Fidelity Dance Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2396278",
+        "ticketUrl": "https://ra.co/events/2396278",
+        "summary": "SWING and INPUT bring Drumcode figurehead Adam Beyer to one of Barcelona’s key large-room techno clubs for a late-night session.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-chayanne-palau-sant-jordi-2026",
+        "title": "Chayanne — Bailemos Otra Vez Tour 2026",
+        "type": "concert",
+        "startDate": "2026-07-22",
+        "endDate": "2026-07-22",
+        "importance": 78,
+        "venueName": "Palau Sant Jordi",
+        "venueId": null,
+        "sourceUrl": "https://estadiolimpic.barcelona/en/chayanne-0",
+        "ticketUrl": "https://tickets.oneboxtds.com/",
+        "summary": "Chayanne brings the Bailemos Otra Vez Tour 2026 to Palau Sant Jordi, with the venue page confirming the July 22 Barcelona date.",
+        "genres": [
+          "latin",
           "pop"
         ]
       },
       {
-        "id": "barcelona-stephan-bodzin-seaseaclub-2026",
-        "title": "TSOA: Stephan Bodzin Live (Open Air)",
-        "type": "club-night",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-10",
-        "importance": 73,
-        "venueName": "Seaseaclub Barcelona",
+        "id": "barcelona-parallel-festival-2026",
+        "title": "Paral·lel Festival 2026",
+        "type": "festival",
+        "startDate": "2026-07-24",
+        "endDate": "2026-07-26",
+        "importance": 78,
+        "venueName": "Port del Comte",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2387915",
-        "ticketUrl": "https://ra.co/events/2387915",
-        "summary": "The Society of Art presents an open-air Seasea Club date headlined by Stephan Bodzin live, with Tharat, Agatha Pher and MøønkiZa also listed.",
+        "sourceUrl": "https://ra.co/events/2363407",
+        "ticketUrl": "https://ra.co/events/2363407",
+        "summary": "A three-day mountain electronic festival with a deep techno/ambient-leaning lineup including Dasha Rush, Marco Shuttle, Reeko, Refracted, Sandwell District, Shed, Sabla and Xiaolin; shuttle access from Barcelona is advertised by the festival.",
         "genres": [
+          "festival",
           "techno",
           "electronic"
         ]
@@ -116,72 +205,140 @@
         ]
       },
       {
-        "id": "barcelona-yandel-palau-sant-jordi-2026",
-        "title": "Yandel",
-        "type": "concert",
-        "startDate": "2026-07-17",
-        "endDate": "2026-07-17",
-        "importance": 79,
-        "venueName": "Palau Sant Jordi",
+        "id": "barcelona-sight-patrick-topping-2026",
+        "title": "SIGHT pres. Patrick Topping, ACA, Nicols",
+        "type": "club-night",
+        "startDate": "2026-07-12",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Ku Barcelona",
         "venueId": null,
-        "sourceUrl": "https://estadiolimpic.barcelona/en/yandel",
-        "ticketUrl": "https://www.ticketmaster.es/",
-        "summary": "Reggaeton artist Yandel brings a seated Palau Sant Jordi show to Barcelona on July 17, promoted by Iglesias Entertainment.",
+        "sourceUrl": "https://ra.co/events/2431711",
+        "ticketUrl": "https://ra.co/events/2431711",
+        "summary": "SIGHT’s long-running Sunday electronics residency brings UK tech-house draw Patrick Topping to Ku Barcelona with ACA and Nicols.",
         "genres": [
-          "latin",
-          "hip-hop"
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "barcelona-soundit-festival-2026",
-        "title": "SOUNDIT Festival 2026",
+        "id": "barcelona-anims-john-digweed-2026",
+        "title": "Ànims: John Digweed & Imbermind Live (Open Air + Afterparty)",
+        "type": "beach-club",
+        "startDate": "2026-07-25",
+        "endDate": null,
+        "importance": 76,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2431558",
+        "ticketUrl": "https://ra.co/events/2431558",
+        "summary": "Ànims lands at Seaseaclub for a sunset-to-night progressive house showcase led by John Digweed, with Imbermind live, Pole Position and Darlow.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-jackies-sam-divine-2026",
+        "title": "Jackies Open Air Daytime w/ Sam Divine",
+        "type": "club-night",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 75,
+        "venueName": "La Terrrazza",
+        "venueId": null,
+        "sourceUrl": "https://dice.fm/event/eoyvgd-jackies-open-air-daytime-w-sam-divine-11th-jul-la-terrrazza-barcelona-tickets",
+        "ticketUrl": "https://dice.fm/event/eoyvgd-jackies-open-air-daytime-w-sam-divine-11th-jul-la-terrrazza-barcelona-tickets",
+        "summary": "Barcelona house label and party brand Jackies returns to La Terrrazza for a daytime open-air house session headlined by Defected mainstay Sam Divine, with Piem, The Checkup and GIVIO.",
+        "genres": [
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-pinkcloud-open-air-2026",
+        "title": "PINKCLOUD Open Air Festival",
         "type": "festival",
-        "startDate": "2026-07-17",
-        "endDate": "2026-07-18",
-        "importance": 90,
-        "venueName": "Parc Nou, El Prat de Llobregat",
+        "startDate": "2026-07-18",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "Hotel El Bruc",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2219904",
-        "ticketUrl": "https://ra.co/events/2219904",
-        "summary": "Two-day electronic festival returning to Parc Nou with four stages; the confirmed lineup includes 2ManyDJs, Helena Hauff, Honey Dijon, John Talabot, DVS1, Nina Kraviz, Oscar Mulero and Skee Mask b2b Stenny.",
+        "sourceUrl": "https://ra.co/events/2443190",
+        "ticketUrl": "https://ra.co/events/2443190",
+        "summary": "A 12-hour summer open-air/pool festival built around hard bounce, trance and techno energy, presented by PINKCLOUD, unlockedbcn and Innova Group.",
         "genres": [
-          "electronic",
           "techno",
-          "house"
+          "electronic",
+          "festival"
         ]
       },
       {
-        "id": "barcelona-chayanne-palau-sant-jordi-2026",
-        "title": "Chayanne — Bailemos Otra Vez Tour 2026",
+        "id": "barcelona-input-stella-bossi-2026",
+        "title": "INPUT pres. STELLA BOSSI",
+        "type": "club-night",
+        "startDate": "2026-07-04",
+        "endDate": null,
+        "importance": 74,
+        "venueName": "INPUT High Fidelity Dance Club",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2412631",
+        "ticketUrl": "https://ra.co/events/2412631",
+        "summary": "INPUT hosts viral Berlin techno personality Stella Bossi for a peak-time Saturday night techno booking.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-stephan-bodzin-seaseaclub-2026",
+        "title": "TSOA: Stephan Bodzin Live (Open Air)",
+        "type": "club-night",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 73,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2387915",
+        "ticketUrl": "https://ra.co/events/2387915",
+        "summary": "The Society of Art presents an open-air Seasea Club date headlined by Stephan Bodzin live, with Tharat, Agatha Pher and MøønkiZa also listed.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-afrodanz-sona-2026",
+        "title": "Afrodanz – Open Air Afro House Experience with SONA",
+        "type": "beach-club",
+        "startDate": "2026-07-17",
+        "endDate": null,
+        "importance": 73,
+        "venueName": "Seaseaclub Barcelona",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2407322",
+        "ticketUrl": "https://ra.co/events/2407322",
+        "summary": "Afrodanz returns to Barcelona for a seaside Afro House open-air with international guest SONA plus MARTISTA and MARA BRAVO.",
+        "genres": [
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "barcelona-ot-2025-palau-sant-jordi-2026",
+        "title": "OT 2025 en Concierto",
         "type": "concert",
-        "startDate": "2026-07-22",
-        "endDate": "2026-07-22",
-        "importance": 78,
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-10",
+        "importance": 72,
         "venueName": "Palau Sant Jordi",
         "venueId": null,
-        "sourceUrl": "https://estadiolimpic.barcelona/en/chayanne-0",
-        "ticketUrl": "https://tickets.oneboxtds.com/",
-        "summary": "Chayanne brings the Bailemos Otra Vez Tour 2026 to Palau Sant Jordi, with the venue page confirming the July 22 Barcelona date.",
+        "sourceUrl": "https://palausantjordi.barcelona/en/ot-2025",
+        "ticketUrl": "https://www.entradas.com/event/operacion-triunfo-2025-conciertos-ot-2025-palau-sant-jordi-20896617/",
+        "summary": "The Operación Triunfo 2025 concert tour stops at Palau Sant Jordi for a large-scale pop show on July 10.",
         "genres": [
-          "latin",
           "pop"
-        ]
-      },
-      {
-        "id": "barcelona-cook-music-don-omar-beele-2026",
-        "title": "Cook Music Fest Special Edition: Don Omar + Beéle",
-        "type": "concert",
-        "startDate": "2026-07-23",
-        "endDate": "2026-07-23",
-        "importance": 86,
-        "venueName": "Estadi Olímpic Lluís Companys",
-        "venueId": null,
-        "sourceUrl": "https://cookmusicfest.es/especial-edition-barcelona/",
-        "ticketUrl": "https://cookmusicfest.es/especial-edition-barcelona/",
-        "summary": "Cook Music Fest’s Barcelona special edition brings Don Omar to Estadi Olímpic de Montjuïc, with Beéle confirmed as guest artist on the same July 23 date.",
-        "genres": [
-          "latin",
-          "hip-hop"
         ]
       },
       {

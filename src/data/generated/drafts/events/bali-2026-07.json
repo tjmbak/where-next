@@ -2,8 +2,8 @@
   "slug": "bali",
   "month": 7,
   "year": 2026,
-  "generatedAt": "2026-05-09T16:23:27.359Z",
-  "responseId": "resp_0109b1b81f264ddc0069ff5f00077c81969c0cc3ff31cafb1f",
+  "generatedAt": "2026-05-30T18:03:37.991Z",
+  "responseId": "augment:resp_0ecc9576b0d6f160006a1b2613f3f4819b8246dd911dbdaacd",
   "searchCalls": 16,
   "citations": [],
   "data": {
@@ -47,20 +47,38 @@
         ]
       },
       {
-        "id": "bali-lovefest-nuanu-2026",
-        "title": "Lovefest Bali",
-        "type": "festival",
-        "startDate": "2026-07-10",
-        "endDate": "2026-07-12",
-        "importance": 65,
-        "venueName": "Nuanu Creative City",
+        "id": "bali-zakes-bantwini-2026",
+        "title": "Zakes Bantwini at Savaya Bali",
+        "type": "beach-club",
+        "startDate": "2026-07-11",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Savaya Bali",
         "venueId": null,
-        "sourceUrl": "https://megatix.co.id/events/lovefest-bali",
-        "ticketUrl": "https://megatix.co.id/events/lovefest-bali",
-        "summary": "Megatix confirms Lovefest Bali for 10–12 July 2026 at Nuanu Creative City. The program includes dance, conscious music sets, movement sessions, sound healing, rituals, and workshops.",
+        "sourceUrl": "https://megatix.co.id/events/zakes-bantwini-110726",
+        "ticketUrl": "https://megatix.co.id/events/zakes-bantwini-110726",
+        "summary": "Savaya cliffside day-to-night booking for Grammy-winning South African artist Zakes Bantwini, a major Afro-house/electronic crossover draw and one of July’s most important Afro-house club-scale events in Bali.",
         "genres": [
-          "electronic",
-          "festival"
+          "afro-house",
+          "house",
+          "electronic"
+        ]
+      },
+      {
+        "id": "bali-dombresky-savaya-2026",
+        "title": "Dombresky at Savaya Bali",
+        "type": "club-night",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "importance": 76,
+        "venueName": "Savaya Bali",
+        "venueId": null,
+        "sourceUrl": "https://www.savaya.com/event-calendar/july-25-2026",
+        "ticketUrl": "https://www.savaya.com/event-calendar/july-25-2026",
+        "summary": "Savaya’s official calendar confirms Dombresky for 25 July 2026, with doors at 3:00 PM. The booking brings the French-born house producer to Savaya’s Uluwatu clifftop club setting.",
+        "genres": [
+          "house",
+          "electronic"
         ]
       },
       {
@@ -81,20 +99,37 @@
         ]
       },
       {
-        "id": "bali-dombresky-savaya-2026",
-        "title": "Dombresky at Savaya Bali",
+        "id": "bali-disco-dom-2026",
+        "title": "Disco Dom at Desa Kitsuné",
         "type": "club-night",
-        "startDate": "2026-07-25",
-        "endDate": "2026-07-25",
-        "importance": 76,
-        "venueName": "Savaya Bali",
+        "startDate": "2026-07-28",
+        "endDate": "2026-07-29",
+        "importance": 72,
+        "venueName": "Desa Kitsuné",
         "venueId": null,
-        "sourceUrl": "https://www.savaya.com/event-calendar/july-25-2026",
-        "ticketUrl": "https://www.savaya.com/event-calendar/july-25-2026",
-        "summary": "Savaya’s official calendar confirms Dombresky for 25 July 2026, with doors at 3:00 PM. The booking brings the French-born house producer to Savaya’s Uluwatu clifftop club setting.",
+        "sourceUrl": "https://megatix.co.id/events/disco-dom",
+        "ticketUrl": "https://megatix.co.id/events/disco-dom",
+        "summary": "Ticketed Desa Kitsuné club show from Disco Dom, extending Bali’s July house/disco-electronic run after the Savaya weekend into a midweek Canggu nightlife date.",
         "genres": [
           "house",
           "electronic"
+        ]
+      },
+      {
+        "id": "bali-lovefest-nuanu-2026",
+        "title": "Lovefest Bali",
+        "type": "festival",
+        "startDate": "2026-07-10",
+        "endDate": "2026-07-12",
+        "importance": 65,
+        "venueName": "Nuanu Creative City",
+        "venueId": null,
+        "sourceUrl": "https://megatix.co.id/events/lovefest-bali",
+        "ticketUrl": "https://megatix.co.id/events/lovefest-bali",
+        "summary": "Megatix confirms Lovefest Bali for 10–12 July 2026 at Nuanu Creative City. The program includes dance, conscious music sets, movement sessions, sound healing, rituals, and workshops.",
+        "genres": [
+          "electronic",
+          "festival"
         ]
       }
     ]

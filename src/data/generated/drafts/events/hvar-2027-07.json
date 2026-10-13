@@ -1,0 +1,72 @@
+{
+  "slug": "hvar",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:19:10.501Z",
+  "responseId": "resp_0a871f988bc22e89006acdb0bf763887d0a8f7b0537e1679f1+resp_0c28b3f2438e8217006acdb0f9903487d0b34f86456c8061c9",
+  "searchCalls": 26,
+  "citations": [],
+  "data": {
+    "destinationSlug": "hvar",
+    "month": 7,
+    "year": 2027,
+    "notes": "Only multi-stop Yacht Week diaspora/genre routes with Hvar explicitly on the route were verifiable; July 2027 venue-specific club calendars for Hvar were not yet published in the sources checked.",
+    "events": [
+      {
+        "id": "hvar-rum-music-yacht-week-2027",
+        "title": "Rum & Music Events x Yacht Week: Cruizin' Croatia",
+        "type": "festival",
+        "startDate": "2027-07-17",
+        "endDate": "2027-07-24",
+        "importance": 76,
+        "venueName": "Yacht Week Croatia route — Hvar stop",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/RUMANDMUSIC",
+        "ticketUrl": "https://www.theyachtweek.com/RUMANDMUSIC",
+        "summary": "A Caribbean-led Yacht Week collaboration bringing Rum & Music events, international DJs, yacht raft-ups, day-club and sunset parties to the Croatian island route, with Hvar/Fortica listed among the trip highlights.",
+        "genres": [
+          "amapiano",
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      },
+      {
+        "id": "hvar-yacht-week-ultra-carpe-diem-2027",
+        "title": "Yacht Week Croatia Ultra Route – Carpe Diem Beach Party",
+        "type": "festival",
+        "startDate": "2027-07-10",
+        "endDate": "2027-07-17",
+        "importance": 75,
+        "venueName": "Carpe Diem Beach",
+        "venueId": "carpe-diem-beach-hvar",
+        "sourceUrl": "https://www.theyachtweek.com/croatia-ultra",
+        "ticketUrl": "https://www.theyachtweek.com/croatia-ultra",
+        "summary": "Yacht Week’s Croatia Ultra route lists a 10–17 July sailing week with EDM, house and techno programming, Ultra Europe VIP access, exclusive Yacht Week parties, international DJs, and a Carpe Diem Beach Party stop in Hvar.",
+        "genres": [
+          "electronic",
+          "house",
+          "techno"
+        ]
+      },
+      {
+        "id": "hvar-rhythm-waves-2027",
+        "title": "Yacht Week Croatia: Hip Hop & R&B Week / Rhythm & Waves",
+        "type": "festival",
+        "startDate": "2027-06-26",
+        "endDate": "2027-07-03",
+        "importance": 72,
+        "venueName": "Yacht Week Croatia route — Hvar, Vis and Milna",
+        "venueId": null,
+        "sourceUrl": "https://www.theyachtweek.com/hip-hop-rnb-week",
+        "ticketUrl": "https://www.theyachtweek.com/hip-hop-rnb-week",
+        "summary": "A seven-day Croatia sailing takeover with hand-picked DJs, floating DJ decks, beach-club parties and a soundtrack spanning hip-hop, reggaeton, soca, dancehall, Moombahton and Afrobeats, with Hvar listed as part of the route.",
+        "genres": [
+          "hip-hop",
+          "r-and-b",
+          "latin"
+        ]
+      }
+    ]
+  }
+}

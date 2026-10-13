@@ -1,0 +1,132 @@
+{
+  "slug": "tokyo",
+  "month": 7,
+  "year": 2027,
+  "generatedAt": "2026-10-13T04:31:26.214Z",
+  "responseId": "resp_087b02382751c88a006acdb37195dc87d08671013f7a2c0dd9+resp_0eeaefb4beefb377006acdb3d5569887d093de4ce523e76391",
+  "searchCalls": 32,
+  "citations": [],
+  "data": {
+    "destinationSlug": "tokyo",
+    "month": 7,
+    "year": 2027,
+    "notes": "July 2027 is still early in the announcement cycle, so confirmed Tokyo-area listings currently skew toward J-pop/arena shows and announced festival date holds rather than club calendars.",
+    "events": [
+      {
+        "id": "tokyo-fuji-rock-jul-2027",
+        "title": "Fuji Rock Festival 2027",
+        "type": "festival",
+        "startDate": "2027-07-23",
+        "endDate": "2027-07-25",
+        "importance": 97,
+        "venueName": "Fuji Rock Festival",
+        "venueId": "fuji-rock-tokyo",
+        "sourceUrl": "https://fujirockexpress.net/26/p_5625.html",
+        "ticketUrl": null,
+        "summary": "Fuji Rock announced its 30th-anniversary 2027 edition for July 23–25; lineup details were not yet published on the confirmation source.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-tif-jul-2027",
+        "title": "TOKYO IDOL FESTIVAL 2027",
+        "type": "festival",
+        "startDate": "2027-07-30",
+        "endDate": "2027-08-01",
+        "importance": 83,
+        "venueName": "Odaiba / Aomi area",
+        "venueId": null,
+        "sourceUrl": "https://www.bluemusic.co.jp/events/event/20270730/",
+        "ticketUrl": null,
+        "summary": "An artist schedule page confirms TOKYO IDOL FESTIVAL 2027 for July 30–August 1 at the Aomi temporary parking area/HOT STAGE, listing Boccaccio, 321, Aoi Matsuyama and others.",
+        "genres": [
+          "pop",
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-sekai-no-owari-yokohama-jul-2027",
+        "title": "SEKAI NO OWARI ARENA TOUR 2027 — K-Arena Yokohama",
+        "type": "concert",
+        "startDate": "2027-07-23",
+        "endDate": "2027-07-25",
+        "importance": 78,
+        "venueName": "K-Arena Yokohama",
+        "venueId": null,
+        "sourceUrl": "https://www.sekainoowari-tour.jp/",
+        "ticketUrl": "https://www.sekainoowari-tour.jp/",
+        "summary": "SEKAI NO OWARI bring their Arena Tour 2027 to nearby Yokohama for three K-Arena dates on July 23, 24, and 25.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-triangle-kanto-jul-2027",
+        "title": "TRIANGLE 2027 — Kanto",
+        "type": "festival",
+        "startDate": "2027-07-31",
+        "endDate": "2027-08-01",
+        "importance": 76,
+        "venueName": "LaLa arena TOKYO-BAY",
+        "venueId": null,
+        "sourceUrl": "https://triangle-official.jp/",
+        "ticketUrl": "https://l-tike.com/triangle2027/",
+        "summary": "Fukuoka rock festival TRIANGLE makes its Kanto debut at LaLa arena TOKYO-BAY on July 31 and August 1, with both days listed on the official site.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "tokyo-himehina-budokan-jul-2027",
+        "title": "HIMEHINA LIVE 2027 “BUDOKAN”",
+        "type": "concert",
+        "startDate": "2027-07-13",
+        "endDate": "2027-07-13",
+        "importance": 74,
+        "venueName": "Nippon Budokan",
+        "venueId": null,
+        "sourceUrl": "https://spc.himehina.jp/LiveatBudokan27",
+        "ticketUrl": "https://spc.himehina.jp/LiveatBudokan27",
+        "summary": "Virtual artist duo HIMEHINA headline Nippon Budokan for a one-night solo concert, with the official page listing 16:30 doors and a planned 17:30 start.",
+        "genres": [
+          "pop",
+          "electronic"
+        ]
+      },
+      {
+        "id": "tokyo-natori-zepp-tour-jul-2027",
+        "title": "natori Zepp TOUR 2027 — Tokyo",
+        "type": "concert",
+        "startDate": "2027-07-01",
+        "endDate": "2027-07-02",
+        "importance": 72,
+        "venueName": "Zepp DiverCity (TOKYO)",
+        "venueId": null,
+        "sourceUrl": "https://www.sonymusic.co.jp/artist/natori/info/586179",
+        "ticketUrl": "https://eplus.tickets/natori27/",
+        "summary": "natori’s nationwide Zepp tour closes its Tokyo run with two consecutive nights at Zepp DiverCity on July 1 and July 2, with both shows listed as 18:00 doors and 19:00 start.",
+        "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "tokyo-arche-wwwx-jul-2027",
+        "title": "Arche LIVE TOUR -2027- — Tokyo",
+        "type": "concert",
+        "startDate": "2027-07-25",
+        "endDate": "2027-07-25",
+        "importance": 62,
+        "venueName": "Shibuya WWW X",
+        "venueId": null,
+        "sourceUrl": "https://www.creativeman.co.jp/event/arche_2027/",
+        "ticketUrl": "https://t.pia.jp/",
+        "summary": "R&B singer-songwriter Arche plays the Tokyo date of LIVE TOUR -2027- at Shibuya WWW X, with the promoter listing 16:30 doors and 17:15 start.",
+        "genres": [
+          "r-and-b",
+          "hip-hop"
+        ]
+      }
+    ]
+  }
+}

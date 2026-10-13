@@ -2,9 +2,9 @@
   "slug": "amsterdam",
   "month": 8,
   "year": 2026,
-  "generatedAt": "2026-05-09T15:56:26.311Z",
-  "responseId": "resp_0f7684d58885f9540069ff58b16e28819394f60e3b73fbd375",
-  "searchCalls": 20,
+  "generatedAt": "2026-05-30T17:59:54.603Z",
+  "responseId": "augment:resp_07a9b45e8fed147e006a1b252a9ad8819b828cf48cc54f2288",
+  "searchCalls": 15,
   "citations": [],
   "data": {
     "destinationSlug": "amsterdam",
@@ -31,6 +31,24 @@
         ]
       },
       {
+        "id": "amsterdam-loveland-festival-2026",
+        "title": "Loveland Festival 2026",
+        "type": "festival",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 92,
+        "venueName": "Sloterpark",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2302716",
+        "ticketUrl": "https://loveland.nl/festival/",
+        "summary": "Loveland Festival returns to Sloterpark on August 8–9 with a major house and techno lineup. Resident Advisor lists Eric Prydz, Fatboy Slim, Ben Klock, Sven Väth, Robert Hood, Joris Voorn, Nicole Moudaber, Hot Since 82, Sasha & John Digweed, and many more.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
         "id": "amsterdam-world-pride-music-festival-2026",
         "title": "World Pride Music Festival",
         "type": "festival",
@@ -46,6 +64,40 @@
           "pop",
           "electronic",
           "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-worldpride-closing-concert-2026",
+        "title": "WorldPride Closing Concert",
+        "type": "concert",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-08",
+        "importance": 84,
+        "venueName": "Museumplein",
+        "venueId": null,
+        "sourceUrl": "https://www.amsterdam.nl/stadspas/stadspasacties/worldpride-concerten-museumplein/",
+        "ticketUrl": "https://shop.weeztix.com/",
+        "summary": "The closing concert for Amsterdam WorldPride’s Museumplein programme is confirmed for August 8 from 18:00 to 00:00. Artist details were not yet published on the source page.",
+        "genres": [
+          "festival"
+        ]
+      },
+      {
+        "id": "amsterdam-ratherlost-24-hours-2026",
+        "title": "Ratherlost - 24 Hours",
+        "type": "club-night",
+        "startDate": "2026-08-15",
+        "endDate": "2026-08-16",
+        "importance": 84,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2423424",
+        "ticketUrl": "https://www.ratherlost.com/events",
+        "summary": "Ratherlost’s 20th gathering is a 24-hour full-venue Lofi ritual spanning darker techno, dubby morning grooves and sun-soaked progressive sounds, with artists including D.Dan, JakoJako live, Kangding Ray, Kia, Luke Vibert, Priori and Spekki Webu.",
+        "genres": [
+          "techno",
+          "house",
+          "electronic"
         ]
       },
       {
@@ -81,23 +133,6 @@
         ]
       },
       {
-        "id": "amsterdam-peaches-club-chrome-2026",
-        "title": "Peaches at Club Chrome",
-        "type": "concert",
-        "startDate": "2026-08-07",
-        "endDate": "2026-08-07",
-        "importance": 74,
-        "venueName": "Melkweg MAX",
-        "venueId": null,
-        "sourceUrl": "https://www.melkweg.nl/nl/agenda/peaches-07-08-2026/",
-        "ticketUrl": "https://www.ticketmaster.nl/",
-        "summary": "Peaches performs at Melkweg MAX on August 7 as part of Club Chrome, Melkweg’s WorldPride 2026 programme. The event page highlights her work as a feminist musician, producer, director, and performance artist.",
-        "genres": [
-          "electronic",
-          "pop"
-        ]
-      },
-      {
         "id": "amsterdam-grachtenfestival-2026",
         "title": "Grachtenfestival 2026",
         "type": "festival",
@@ -115,17 +150,17 @@
         ]
       },
       {
-        "id": "amsterdam-loveland-festival-2026",
-        "title": "Loveland Festival 2026",
-        "type": "festival",
-        "startDate": "2026-08-08",
-        "endDate": "2026-08-09",
-        "importance": 92,
-        "venueName": "Sloterpark",
+        "id": "amsterdam-adonis-spielraum-2026",
+        "title": "12HRS Adonis x SPIELRAUM",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-02",
+        "importance": 82,
+        "venueName": "CLUB RAUM",
         "venueId": null,
-        "sourceUrl": "https://ra.co/events/2302716",
-        "ticketUrl": "https://loveland.nl/festival/",
-        "summary": "Loveland Festival returns to Sloterpark on August 8–9 with a major house and techno lineup. Resident Advisor lists Eric Prydz, Fatboy Slim, Ben Klock, Sven Väth, Robert Hood, Joris Voorn, Nicole Moudaber, Hot Since 82, Sasha & John Digweed, and many more.",
+        "sourceUrl": "https://ra.co/events/2440421",
+        "ticketUrl": "https://shop.clubraum.nl/",
+        "summary": "A 12-hour WorldPride collaboration between London queer institution Adonis and Amsterdam’s SPIELRAUM, part of CLUB RAUM’s DESIRE Pride programme.",
         "genres": [
           "house",
           "techno",
@@ -133,37 +168,73 @@
         ]
       },
       {
-        "id": "amsterdam-worldpride-closing-concert-2026",
-        "title": "WorldPride Closing Concert",
-        "type": "concert",
+        "id": "amsterdam-tropikali-worldpride-2026",
+        "title": "Tropikali BY NIGHT | Worldpride Amsterdam",
+        "type": "club-night",
         "startDate": "2026-08-08",
-        "endDate": "2026-08-08",
-        "importance": 84,
-        "venueName": "Museumplein",
+        "endDate": "2026-08-09",
+        "importance": 82,
+        "venueName": "Paradiso",
         "venueId": null,
-        "sourceUrl": "https://www.amsterdam.nl/stadspas/stadspasacties/worldpride-concerten-museumplein/",
-        "ticketUrl": "https://shop.weeztix.com/",
-        "summary": "The closing concert for Amsterdam WorldPride’s Museumplein programme is confirmed for August 8 from 18:00 to 00:00. Artist details were not yet published on the source page.",
+        "sourceUrl": "https://ra.co/events/2375945",
+        "ticketUrl": "https://www.tropikali.nl/",
+        "summary": "Tropikali’s WorldPride closing night at Paradiso revives Rosario with Latin-spiced house/electronic sounds and Kalinichta’s Balkan, SWANA and Arabic-house energy.",
         "genres": [
-          "festival"
+          "house",
+          "electronic"
         ]
       },
       {
-        "id": "amsterdam-joji-solaris-2026",
-        "title": "JOJI: SOLARIS",
-        "type": "concert",
-        "startDate": "2026-08-25",
-        "endDate": "2026-08-25",
-        "importance": 77,
-        "venueName": "Ziggo Dome",
+        "id": "amsterdam-spielraum-isburning-2026",
+        "title": "SPIELRAUM ...IsBurning",
+        "type": "club-night",
+        "startDate": "2026-08-02",
+        "endDate": null,
+        "importance": 82,
+        "venueName": "Lofi",
         "venueId": null,
-        "sourceUrl": "https://www.ticketmaster.nl/event/joji-solaris-tickets/569279700?language=en-us",
-        "ticketUrl": "https://www.ticketmaster.nl/event/joji-solaris-tickets/569279700?language=en-us",
-        "summary": "Joji brings the SOLARIS tour to Ziggo Dome on August 25 at 20:00. Ticketmaster lists Joji with Tommy Richman on the Amsterdam date.",
+        "sourceUrl": "https://ra.co/events/2439706",
+        "ticketUrl": "https://ra.co/events/2439706",
+        "summary": "SPIELRAUM and IsBurning reunite for a WorldPride daytime Courtyard takeover at Lofi, billed for house and techno with a secret lineup.",
         "genres": [
-          "r-and-b",
-          "hip-hop",
-          "pop"
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-radion-gegen-2026",
+        "title": "RADION invites Gegen",
+        "type": "club-night",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "importance": 80,
+        "venueName": "RADION",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2433222",
+        "ticketUrl": "https://ra.co/events/2433222",
+        "summary": "Berlin-born queer/fetish rave brand Gegen returns to RADION for WorldPride with BOYCA, Boris, Yigit, Mila Haj Kasem, Mar/us, Nymed b2b Spikey Lee and Shadysnack.",
+        "genres": [
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-slpfnk-15-year-weekender-2026",
+        "title": "SLPFNK 15 YEAR AMS TOUR - BIRTHDAY WEEKENDER",
+        "type": "club-night",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-31",
+        "importance": 79,
+        "venueName": "Lofi / BRET",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2453662",
+        "ticketUrl": "https://www.slapfunk.com/",
+        "summary": "SlapFunk’s 15-year Amsterdam tour closes with a birthday weekender across Lofi and BRET, framed as the final stop of its anniversary club tour.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
         ]
       },
       {
@@ -201,6 +272,60 @@
         ]
       },
       {
+        "id": "amsterdam-bashkka-curates-2026",
+        "title": "Bashkka curates",
+        "type": "club-night",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-08",
+        "importance": 78,
+        "venueName": "CLUB RAUM",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2440428",
+        "ticketUrl": "https://shop.clubraum.nl/",
+        "summary": "A CLUB RAUM Pride-week curation by BASHKKA with 36framez, Clarisa Kimskii, Juliana Huxtable and more, positioned within RAUM’s DESIRE series.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-pride-isburning-2026",
+        "title": "Pride ...IsBurning",
+        "type": "club-night",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-02",
+        "importance": 78,
+        "venueName": "Lofi",
+        "venueId": null,
+        "sourceUrl": "https://ra.co/events/2439708",
+        "ticketUrl": "https://ra.co/events/2439708",
+        "summary": "IsBurning’s WorldPride Saturday night takeover at Lofi, billed as a hot, steamy house-and-techno Pride party with a surprise lineup.",
+        "genres": [
+          "house",
+          "techno",
+          "electronic"
+        ]
+      },
+      {
+        "id": "amsterdam-joji-solaris-2026",
+        "title": "JOJI: SOLARIS",
+        "type": "concert",
+        "startDate": "2026-08-25",
+        "endDate": "2026-08-25",
+        "importance": 77,
+        "venueName": "Ziggo Dome",
+        "venueId": null,
+        "sourceUrl": "https://www.ticketmaster.nl/event/joji-solaris-tickets/569279700?language=en-us",
+        "ticketUrl": "https://www.ticketmaster.nl/event/joji-solaris-tickets/569279700?language=en-us",
+        "summary": "Joji brings the SOLARIS tour to Ziggo Dome on August 25 at 20:00. Ticketmaster lists Joji with Tommy Richman on the Amsterdam date.",
+        "genres": [
+          "r-and-b",
+          "hip-hop",
+          "pop"
+        ]
+      },
+      {
         "id": "amsterdam-bini-signals-2026",
         "title": "BINI: Signals World Tour",
         "type": "concert",
@@ -213,6 +338,23 @@
         "ticketUrl": "https://www.ticketmaster.nl/event/bini-signals-world-tour-tickets/1176118530?language=en-us",
         "summary": "Filipino girl group BINI brings the Signals World Tour to AFAS Live on August 30, with doors at 18:30 and showtime at 20:00. The venue page describes their sound as global pop with layered vocals in English and Tagalog.",
         "genres": [
+          "pop"
+        ]
+      },
+      {
+        "id": "amsterdam-peaches-club-chrome-2026",
+        "title": "Peaches at Club Chrome",
+        "type": "concert",
+        "startDate": "2026-08-07",
+        "endDate": "2026-08-07",
+        "importance": 74,
+        "venueName": "Melkweg MAX",
+        "venueId": null,
+        "sourceUrl": "https://www.melkweg.nl/nl/agenda/peaches-07-08-2026/",
+        "ticketUrl": "https://www.ticketmaster.nl/",
+        "summary": "Peaches performs at Melkweg MAX on August 7 as part of Club Chrome, Melkweg’s WorldPride 2026 programme. The event page highlights her work as a feminist musician, producer, director, and performance artist.",
+        "genres": [
+          "electronic",
           "pop"
         ]
       }
