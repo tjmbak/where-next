@@ -12,6 +12,7 @@ import { EditorsPickStrip } from "@/components/discovery/EditorsPickStrip";
 import { WelcomeBack } from "@/components/home/WelcomeBack";
 import { IntentChips } from "@/components/discovery/IntentChips";
 import { SiteFooter } from "@/components/discovery/SiteFooter";
+import { MobileMapSheet } from "@/components/map/MobileMapSheet";
 import { WorldMap } from "@/components/map/WorldMap";
 import { usePreview } from "@/components/preview/PreviewContext";
 import { useToast } from "@/components/toast/Toaster";
@@ -435,7 +436,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
     <main className="mx-auto flex min-h-screen w-full max-w-[1180px] flex-col px-6 pb-10 pt-6 sm:px-10">
       <SiteHeader bare className="border-b border-[var(--border)] pb-5" />
 
-      <section className="pt-8 lg:pt-12">
+      <section className="pt-6 sm:pt-8 lg:pt-12">
         <div className="grid gap-6 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)] lg:items-end lg:gap-14">
           <div>
             <p className="animate-fade-in font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]" style={{ animationDelay: "0.05s" }}>
@@ -443,19 +444,19 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
               {"  ·  "}
               the music-travel index
             </p>
-            <h1 className="animate-fade-in mt-5 text-[clamp(2.25rem,5.5vw,4.5rem)] font-semibold leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]" style={{ animationDelay: "0.18s" }}>
+            <h1 className="animate-fade-in mt-3 text-[2rem] font-semibold sm:mt-5 sm:text-[clamp(2.25rem,5.5vw,4.5rem)] leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]" style={{ animationDelay: "0.18s" }}>
               Where should
               <br />
               <span className="text-[var(--accent)]">you go next</span>
               <span className="text-[var(--signal)]">.</span>
             </h1>
           </div>
-          <p className="animate-fade-in max-w-md text-[15px] leading-7 text-[var(--muted)] lg:justify-self-end lg:pb-2" style={{ animationDelay: "0.42s" }}>
+          <p className="animate-fade-in hidden max-w-md text-[15px] leading-7 text-[var(--muted)] sm:block lg:justify-self-end lg:pb-2" style={{ animationDelay: "0.42s" }}>
             Festivals, club seasons, and cultural moments worth flying for &mdash; curated city by city, month by month.
           </p>
         </div>
 
-        <div className="animate-fade-in relative -mx-6 mt-8 sm:-mx-10 lg:mx-0 lg:mt-10" style={{ animationDelay: "0.28s" }}>
+        <div className="animate-fade-in relative -mx-10 mt-8 hidden sm:block lg:mx-0 lg:mt-10" style={{ animationDelay: "0.28s" }}>
           <WorldMap
             month={filters.month}
             destinations={filteredDestinations}
@@ -486,7 +487,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
         <IntentChips intent={activeIntent} onClear={clearActiveIntent} />
       ) : null}
 
-      <section className="mt-6">
+      <section className="mt-6 empty:hidden">
         <WelcomeBack />
       </section>
 
@@ -521,7 +522,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
         </section>
       ) : null}
 
-      <section className="mt-8 pt-2">
+      <section className="mt-6 sm:mt-8 sm:pt-2">
         <DestinationRow
           destinations={displayedDestinations}
           selectedSlug={selectedSlug}
@@ -556,6 +557,13 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
       </section>
     </main>
     <SiteFooter month={filters.month} year={filters.year} />
+    <MobileMapSheet
+      month={filters.month}
+      destinations={filteredDestinations}
+      selectedSlug={effectiveSelectedSlug}
+      onSelect={openPreview}
+      pillHidden={comparePicks.length > 0}
+    />
     <AuthModal
       open={authModalOpen}
       onClose={() => setAuthModalOpen(false)}

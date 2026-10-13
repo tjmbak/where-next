@@ -81,7 +81,7 @@ export function CommandBar({
 
   return (
     <>
-    <div ref={sentinelRef} aria-hidden className="mt-12 h-px lg:mt-14" />
+    <div ref={sentinelRef} aria-hidden className="mt-5 h-px sm:mt-12 lg:mt-14" />
     <div
       className={`sticky top-0 z-40 -mx-6 border-y border-[var(--border)] px-6 transition-[padding,background-color,box-shadow] duration-300 sm:-mx-10 sm:px-10 ${
         stuck

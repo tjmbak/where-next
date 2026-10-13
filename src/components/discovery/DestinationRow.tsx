@@ -109,6 +109,8 @@ export function DestinationRow({
   useEffect(() => {
     const track = trackRef.current;
     if (!track || !selectedSlug) return;
+    // Phones stack cards vertically; scrolling there would yank the page.
+    if (track.scrollWidth <= track.clientWidth) return;
     const el = track.querySelector<HTMLElement>(`[data-slug="${CSS.escape(selectedSlug)}"]`);
     if (!el) return;
     el.scrollIntoView({
@@ -183,13 +185,13 @@ export function DestinationRow({
         <div className="group/row relative">
           <span
             aria-hidden
-            className={`pointer-events-none absolute inset-y-0 left-0 z-20 w-10 bg-gradient-to-r from-[var(--background)] via-[var(--background)]/70 to-transparent transition-opacity duration-200 sm:w-14 ${
+            className={`pointer-events-none absolute inset-y-0 left-0 z-20 hidden w-10 sm:block bg-gradient-to-r from-[var(--background)] via-[var(--background)]/70 to-transparent transition-opacity duration-200 sm:w-14 ${
               canScrollLeft ? "opacity-100" : "opacity-0"
             }`}
           />
           <span
             aria-hidden
-            className={`pointer-events-none absolute inset-y-0 right-0 z-20 w-10 bg-gradient-to-l from-[var(--background)] via-[var(--background)]/70 to-transparent transition-opacity duration-200 sm:w-14 ${
+            className={`pointer-events-none absolute inset-y-0 right-0 z-20 hidden w-10 sm:block bg-gradient-to-l from-[var(--background)] via-[var(--background)]/70 to-transparent transition-opacity duration-200 sm:w-14 ${
               canScrollRight ? "opacity-100" : "opacity-0"
             }`}
           />
@@ -223,7 +225,7 @@ export function DestinationRow({
 
           <ul
             ref={trackRef}
-            className="wn-row flex snap-x items-stretch gap-4 overflow-x-auto scroll-px-6 px-6 pb-4 sm:scroll-px-10 sm:px-10"
+            className="wn-row flex flex-col gap-5 px-6 pb-4 sm:snap-x sm:flex-row sm:items-stretch sm:gap-4 sm:overflow-x-auto sm:scroll-px-10 sm:px-10"
           >
             {items.map(({ destination, score }, index) => {
               const selected = destination.slug === selectedSlug;
@@ -247,7 +249,7 @@ export function DestinationRow({
                   data-slug={destination.slug}
                   onMouseEnter={onHoverCity ? () => onHoverCity(destination.slug) : undefined}
                   onMouseLeave={onHoverCity ? () => onHoverCity(null) : undefined}
-                  className="snap-start shrink-0 basis-[260px] min-w-0 overflow-hidden sm:basis-[280px]"
+                  className="min-w-0 overflow-hidden sm:shrink-0 sm:snap-start sm:basis-[280px]"
                 >
                   <DestinationCard
                     destination={destination}
@@ -280,6 +282,15 @@ export function DestinationRow({
           </ul>
         </div>
       </div>
+      {canExpand && !expanded ? (
+        <button
+          type="button"
+          onClick={() => setExpanded(true)}
+          className="mx-auto inline-flex h-11 items-center rounded-full border border-[var(--border-strong)] px-5 text-[14px] font-medium text-[var(--foreground)] active:scale-95 sm:hidden"
+        >
+          Show all {destinations.length} cities
+        </button>
+      ) : null}
     </div>
   );
 }
@@ -406,12 +417,12 @@ function DestinationCard({
         aria-label={`Quick look at ${destination.city}`}
         className="flex h-full flex-col rounded-xl text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--signal)]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--background)]"
       >
-        <div className="relative aspect-[16/10] w-full overflow-hidden">
+        <div className="relative aspect-[4/3] w-full overflow-hidden sm:aspect-[16/10]">
           <Image
             src={pickHeroForMonth(destination, month)}
             alt={destination.city}
             fill
-            sizes="(max-width: 640px) 260px, 280px"
+            sizes="(max-width: 640px) 100vw, 280px"
             loading={eager ? "eager" : "lazy"}
             fetchPriority={eager ? "high" : "auto"}
             className={`object-cover transition duration-500 ${selected ? "scale-105" : "scale-100 group-hover:scale-105"}`}

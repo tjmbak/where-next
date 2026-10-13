@@ -42,7 +42,7 @@ const LAND_PATH = (() => {
   return d;
 })();
 
-function toPercent(lat: number, lng: number) {
+export function toPercent(lat: number, lng: number) {
   return {
     x: ((lng - VIEW.west) / VIEW.width) * 100,
     y: ((VIEW.north - lat) / VIEW.height) * 100
