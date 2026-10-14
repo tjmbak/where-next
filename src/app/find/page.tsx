@@ -47,26 +47,22 @@ export default async function FindPage({ searchParams }: FindPageProps) {
   };
 
   return (
-    <main className="mx-auto min-h-screen w-full max-w-[880px] px-6 pb-24 pt-6 sm:px-10">
-      <SiteHeader bare className="border-b border-[var(--border)] pb-5" />
+    <main className="min-h-screen w-full bg-[var(--background)]">
+      <SiteHeader />
+      <div className="mx-auto w-full max-w-[880px] px-6 pb-24 sm:px-10">
+        <section className="pt-10 sm:pt-12">
+          <h1 className="text-[clamp(2rem,5vw,3.25rem)] font-medium leading-[1.04] tracking-[-0.03em] text-[var(--foreground)]">
+            Have dates? See where to go.
+          </h1>
+          <p className="mt-3 max-w-xl text-[15px] leading-7 text-[var(--muted)]">
+            Add your travel dates and every city gets ranked by what&apos;s on while you&apos;re free.
+          </p>
+        </section>
 
-      <section className="pt-10 sm:pt-14">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          reverse search
-        </p>
-        <h1 className="mt-3 text-[clamp(2rem,5vw,3.25rem)] font-semibold leading-[1.02] tracking-[-0.03em] text-[var(--foreground)]">
-          Have dates? <span className="text-[var(--accent)]">Find your window</span>
-          <span className="text-[var(--signal)]">.</span>
-        </h1>
-        <p className="mt-4 max-w-xl text-[14px] leading-7 text-[var(--muted)]">
-          Tell us when you can travel — and optionally your scene, budget, and region — and
-          every city gets ranked for your exact dates, with the events that make each one worth it.
-        </p>
-      </section>
-
-      <section className="pt-8">
-        <WindowFinder initial={initial} />
-      </section>
+        <section className="pt-8">
+          <WindowFinder initial={initial} />
+        </section>
+      </div>
     </main>
   );
 }

@@ -147,7 +147,7 @@ export function HeroGallery({ destination, month }: HeroGalleryProps) {
             <span aria-hidden className="text-[18px] leading-none sm:text-[14px]">›</span>
           </button>
           <span aria-hidden className="ml-1 hidden h-3 w-px bg-white/15 sm:block" />
-          <span className="hidden font-mono text-[10px] uppercase tracking-[0.22em] text-white/75 sm:inline">
+          <span className="hidden pr-2 text-[13px] font-medium text-white/80 sm:inline">
             {slides[active].caption}
           </span>
         </div>

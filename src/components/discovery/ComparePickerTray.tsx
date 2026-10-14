@@ -29,16 +29,16 @@ export function ComparePickerTray({ picks, onRemove, onClear, onCompare }: Compa
       className="fixed bottom-[calc(6rem+env(safe-area-inset-bottom))] left-1/2 z-[850] md:bottom-4 w-[min(560px,calc(100%-2rem))] -translate-x-1/2 rounded-full border border-[var(--border-strong)] bg-[var(--surface)]/95 px-4 py-2 shadow-[0_24px_64px_rgba(0,0,0,0.55)] backdrop-blur-md"
     >
       <div className="flex items-center gap-3">
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          compare
+        <span className="text-[13px] font-medium text-[var(--muted)]">
+          Compare
         </span>
         <ul className="flex min-w-0 flex-1 items-center gap-2 overflow-hidden">
           {destinations.map((destination) => (
             <li
               key={destination.slug}
-              className="inline-flex max-w-[180px] items-center gap-1 truncate rounded-full border border-[var(--signal)]/40 bg-[var(--signal)]/10 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--foreground)]"
+              className="inline-flex max-w-[180px] items-center gap-1 truncate rounded-full border border-[var(--signal)]/40 bg-[var(--signal)]/10 px-2 py-0.5 text-[13px] font-medium text-[var(--foreground)]"
             >
-              <span className="truncate">{destination.city.toLowerCase()}</span>
+              <span className="truncate">{destination.city}</span>
               <button
                 type="button"
                 aria-label={`remove ${destination.city} from compare`}
@@ -50,30 +50,30 @@ export function ComparePickerTray({ picks, onRemove, onClear, onCompare }: Compa
             </li>
           ))}
           {!ready ? (
-            <li className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-              · pick {2 - picks.length} more
+            <li className="text-[13px] font-medium text-[var(--muted-2)]">
+              · Pick {2 - picks.length} more
             </li>
           ) : null}
         </ul>
         <button
           type="button"
           onClick={onClear}
-          className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+          className="text-[13px] font-medium text-[var(--muted)] transition hover:text-[var(--foreground)]"
         >
-          clear
+          Clear
         </button>
         <button
           type="button"
           disabled={!ready}
           onClick={onCompare}
-          className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.22em] transition ${
+          className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] font-medium transition ${
             ready
               ? "border-[var(--signal)]/60 bg-[var(--signal)]/15 text-[var(--signal)] hover:border-[var(--signal)] hover:bg-[var(--signal)]/25"
               : "cursor-not-allowed border-[var(--border)] bg-transparent text-[var(--muted-2)]"
           }`}
         >
           <span aria-hidden>⇄</span>
-          compare
+          Compare
           <span aria-hidden>→</span>
         </button>
       </div>

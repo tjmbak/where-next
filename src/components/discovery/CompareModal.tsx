@@ -95,14 +95,14 @@ function CompareModalBody({
       >
         <div className="flex items-start justify-between gap-4 border-b border-[var(--border)] px-6 py-5">
           <div>
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-              compare · two cities
+            <p className="text-[13px] font-medium text-[var(--signal)]">
+              Compare
             </p>
             <h2 className="mt-2 text-2xl font-medium leading-tight text-[var(--foreground)]">
               {left.city} vs {right.city}
             </h2>
-            <p className="mt-1 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              anchor · {getMonthLabel(anchorMonth).toLowerCase()}
+            <p className="mt-1 text-[13px] font-medium text-[var(--muted)]">
+              Scored for {getMonthLabel(anchorMonth)}
             </p>
           </div>
           <button
@@ -121,28 +121,28 @@ function CompareModalBody({
             <CityHero destination={right} anchorMonth={anchorMonth} />
           </div>
 
-          <Section title="activity">
+          <Section title="Activity by month">
             <div className="grid grid-cols-1 gap-x-6 gap-y-4 md:grid-cols-2">
               <ActivityBlock destination={left} rangeSet={rangeSet} />
               <ActivityBlock destination={right} rangeSet={rangeSet} />
             </div>
           </Section>
 
-          <Section title="top events">
+          <Section title="Top events">
             <div className="grid grid-cols-1 gap-x-6 gap-y-4 md:grid-cols-2">
               <EventsList destination={left} />
               <EventsList destination={right} />
             </div>
           </Section>
 
-          <Section title="scenes & vibes">
+          <Section title="Sounds & vibes">
             <div className="grid grid-cols-1 gap-x-6 gap-y-4 md:grid-cols-2">
               <ChipBlock destination={left} />
               <ChipBlock destination={right} />
             </div>
           </Section>
 
-          <Section title="details">
+          <Section title="Details">
             <div className="grid grid-cols-1 gap-x-6 gap-y-4 md:grid-cols-2">
               <DetailsBlock destination={left} />
               <DetailsBlock destination={right} />
@@ -154,9 +154,9 @@ function CompareModalBody({
           <button
             type="button"
             onClick={onClose}
-            className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+            className="text-[13px] font-medium text-[var(--muted)] transition hover:text-[var(--foreground)]"
           >
-            close
+            Close
           </button>
           <div className="flex flex-wrap items-center gap-2">
             <Link
@@ -164,9 +164,9 @@ function CompareModalBody({
               onClick={() =>
                 trackEvent("compare_open_guide", { slug: left.slug, side: "left" })
               }
-              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border-strong)] bg-[var(--surface)] px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:border-[var(--foreground)]"
+              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border-strong)] bg-[var(--surface)] px-3 py-1.5 text-[13px] font-medium text-[var(--foreground)] transition hover:border-[var(--foreground)]"
             >
-              {left.city.toLowerCase()} guide
+              {left.city} guide
               <span aria-hidden>→</span>
             </Link>
             <Link
@@ -174,9 +174,9 @@ function CompareModalBody({
               onClick={() =>
                 trackEvent("compare_open_guide", { slug: right.slug, side: "right" })
               }
-              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--signal)]/55 bg-[var(--signal)]/15 px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)] transition hover:border-[var(--signal)] hover:bg-[var(--signal)]/25"
+              className="inline-flex items-center gap-1.5 rounded-full border border-[var(--signal)]/55 bg-[var(--signal)]/15 px-3 py-1.5 text-[13px] font-medium text-[var(--signal)] transition hover:border-[var(--signal)] hover:bg-[var(--signal)]/25"
             >
-              {right.city.toLowerCase()} guide
+              {right.city} guide
               <span aria-hidden>→</span>
             </Link>
           </div>
@@ -189,7 +189,7 @@ function CompareModalBody({
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <div className="mt-7 border-t border-[var(--border)] pt-5">
-      <h3 className="mb-3 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+      <h3 className="mb-3 text-[13px] font-medium text-[var(--muted)]">
         {title}
       </h3>
       {children}
@@ -218,14 +218,14 @@ function CityHero({
           sizes="(max-width: 768px) 100vw, 360px"
           className="object-cover"
         />
-        <span aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-black/30" />
+        <span aria-hidden className="absolute inset-x-0 bottom-0 h-3/5 bg-gradient-to-t from-black/75 via-black/25 to-transparent" />
         <div className="absolute inset-x-3 bottom-3">
-          <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-white/65">
-            {destination.country.toLowerCase()}
+          <p className="text-[13px] font-medium text-white/65">
+            {destination.country}
           </p>
           <h4 className="text-lg font-medium leading-tight text-white">{destination.city}</h4>
         </div>
-        <span className="absolute right-3 top-3 inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-white/90 backdrop-blur">
+        <span className="absolute right-3 top-3 inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-black/55 px-2 py-0.5 text-[13px] font-medium text-white/90 backdrop-blur">
           <span
             aria-hidden
             className="h-1 w-1 rounded-full"
@@ -240,10 +240,10 @@ function CityHero({
           {destination.tagline}
         </p>
         {bestMonth ? (
-          <p className="mt-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            best month ·{" "}
+          <p className="mt-2 text-[13px] font-medium text-[var(--muted)]">
+            Best month ·{" "}
             <span className="text-[var(--foreground)]">
-              {getMonthLabel(bestMonth.month).toLowerCase()}
+              {getMonthLabel(bestMonth.month)}
             </span>{" "}
             ·{" "}
             <span className="text-[var(--signal)]">
@@ -290,7 +290,7 @@ function ActivityBlock({
                 }}
                 title={`${getMonthLabel(m)} · ${overall || "—"}`}
               />
-              <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-[var(--muted-2)]">
+              <span className="text-[10px] font-medium text-[var(--muted-2)]">
                 {MONTHS[m - 1].shortLabel.charAt(0)}
               </span>
             </div>
@@ -321,10 +321,9 @@ function EventsList({ destination }: { destination: Destination }) {
     <ul className="space-y-2">
       {events.map((event) => (
         <li key={`${event.id}@${event.startDate}`} className="text-[12px] leading-5">
-          <span className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
+          <span className="text-[13px] font-medium text-[var(--muted-2)]">
             {new Date(`${event.startDate}T00:00:00Z`)
-              .toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })
-              .toLowerCase()}
+              .toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })}
           </span>
           <span className="ml-2 text-[var(--foreground)]">{event.title}</span>
         </li>
@@ -340,9 +339,9 @@ function ChipBlock({ destination }: { destination: Destination }) {
         {destination.genres.slice(0, 5).map((g) => (
           <span
             key={g}
-            className="rounded-full border border-[var(--border-strong)] bg-[var(--surface)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--foreground)]"
+            className="rounded-full border border-[var(--border-strong)] bg-[var(--surface)] px-2 py-0.5 text-[13px] font-medium text-[var(--foreground)]"
           >
-            {GENRE_LABELS[g].toLowerCase()}
+            {GENRE_LABELS[g]}
           </span>
         ))}
       </div>
@@ -350,9 +349,9 @@ function ChipBlock({ destination }: { destination: Destination }) {
         {destination.vibes.slice(0, 5).map((v) => (
           <span
             key={v}
-            className="rounded-full border border-[var(--border)] bg-transparent px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted)]"
+            className="rounded-full border border-[var(--border)] bg-transparent px-2 py-0.5 text-[13px] font-medium text-[var(--muted)]"
           >
-            {VIBE_LABELS[v].toLowerCase()}
+            {VIBE_LABELS[v]}
           </span>
         ))}
       </div>
@@ -362,20 +361,20 @@ function ChipBlock({ destination }: { destination: Destination }) {
 
 function DetailsBlock({ destination }: { destination: Destination }) {
   return (
-    <dl className="space-y-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+    <dl className="space-y-1.5 text-[13px] font-medium text-[var(--muted)]">
       <div className="flex items-center justify-between gap-3">
-        <dt>budget</dt>
+        <dt>Budget</dt>
         <dd className="text-[var(--foreground)]">
           {BUDGET_LABELS[destination.budget as Budget]} · {destination.budget}
         </dd>
       </div>
       <div className="flex items-center justify-between gap-3">
-        <dt>region</dt>
-        <dd className="text-[var(--foreground)]">{destination.region.toLowerCase()}</dd>
+        <dt>Region</dt>
+        <dd className="text-[var(--foreground)]">{destination.region}</dd>
       </div>
       <div className="flex items-center justify-between gap-3">
-        <dt>country</dt>
-        <dd className="text-[var(--foreground)]">{destination.country.toLowerCase()}</dd>
+        <dt>Country</dt>
+        <dd className="text-[var(--foreground)]">{destination.country}</dd>
       </div>
     </dl>
   );

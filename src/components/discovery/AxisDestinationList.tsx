@@ -30,8 +30,8 @@ export function AxisDestinationList({ items, month }: AxisDestinationListProps) 
           <li key={destination.slug} className="py-8">
             <div className="flex items-start justify-between gap-6">
               <div className="min-w-0 flex-1">
-                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                  {String(index + 1).padStart(2, "0")} · {destination.region} · {destination.country}
+                <p className="text-[13px] font-medium text-[var(--muted)]">
+                  {index + 1} · {destination.region} · {destination.country}
                 </p>
                 <h2 className="mt-2 text-2xl font-medium tracking-[-0.01em] text-[var(--foreground)]">
                   <Link href={href} className="transition hover:text-[var(--signal)]">
@@ -45,13 +45,13 @@ export function AxisDestinationList({ items, month }: AxisDestinationListProps) 
                   {score.editorialSummary}
                 </p>
                 <div className="mt-4 flex flex-wrap items-center gap-3 text-xs text-[var(--muted)]">
-                  <span className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-mono uppercase tracking-[0.16em]">
+                  <span className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-medium">
                     {BUDGET_LABELS[destination.budget]} {formatUsdRange(destination.averageDailySpendUsd)}
                   </span>
                   {destination.genres.slice(0, 3).map((genre) => (
                     <span
                       key={genre}
-                      className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-mono uppercase tracking-[0.16em]"
+                      className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-medium"
                     >
                       {GENRE_LABELS[genre]}
                     </span>
@@ -59,8 +59,8 @@ export function AxisDestinationList({ items, month }: AxisDestinationListProps) 
                 </div>
               </div>
               <div className="text-right">
-                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">activity</p>
-                <p className="mt-1 font-mono text-3xl font-medium text-[var(--foreground)]">
+                <p className="text-[13px] font-medium text-[var(--muted)]">Activity</p>
+                <p className="mt-1 text-3xl font-semibold text-[var(--foreground)]">
                   {score.overallScore}
                   <span className="text-base text-[var(--muted-2)]">/100</span>
                 </p>

@@ -14,7 +14,7 @@ type StayAndTravelProps = {
   homeAirport?: string | null;
 };
 
-function bookingUrl(
+export function bookingUrl(
   destination: Destination,
   args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber; year?: number }
 ) {
@@ -28,7 +28,7 @@ function bookingUrl(
   return `https://www.booking.com/searchresults.html?${params.toString()}`;
 }
 
-function skyscannerUrl(
+export function skyscannerUrl(
   destination: Destination,
   args: { startDate?: string | null; endDate?: string | null; month?: MonthNumber; year?: number; origin?: string | null }
 ) {
@@ -43,14 +43,14 @@ function skyscannerUrl(
   return `https://www.skyscanner.net/g/referrals/v1/flights/day-view/?${params.toString()}`;
 }
 
-function gygUrl(destination: Destination, args: { startDate?: string | null; endDate?: string | null }) {
+export function gygUrl(destination: Destination, args: { startDate?: string | null; endDate?: string | null }) {
   const params = new URLSearchParams({ q: `${destination.city} music` });
   if (args.startDate) params.set("date_from", args.startDate);
   if (args.endDate) params.set("date_to", args.endDate);
   return `https://www.getyourguide.com/s/?${params.toString()}`;
 }
 
-function resolveDateRange(args: {
+export function resolveDateRange(args: {
   startDate?: string | null;
   endDate?: string | null;
   month?: MonthNumber;
@@ -107,23 +107,21 @@ export function StayAndTravel({ destination, month, year, startDate, endDate, ho
     startDate && endDate
       ? `${startDate} → ${endDate}`
       : monthLabel
-        ? `${destination.city.toLowerCase()} · ${monthLabel}`
-        : destination.city.toLowerCase();
+        ? `${destination.city} · ${monthLabel}`
+        : destination.city;
 
   return (
     <section>
-      <div className="mb-7 flex items-center gap-4">
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">stay & travel</span>
-        <span className="h-px flex-1 bg-[var(--border)]" />
-        <h2 className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)]">
-          {dateLabel}
-        </h2>
+      <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
+        <h2 className="text-[24px] font-medium tracking-[-0.01em] text-[var(--foreground)] sm:text-[28px]">Stay & travel</h2>
+        <p className="text-[14px] text-[var(--muted)]">{dateLabel}</p>
       </div>
 
       <div className="grid gap-px overflow-hidden rounded-xl border border-[var(--border-strong)] bg-[var(--border)] sm:grid-cols-3">
         <Tile
           eyebrow="hotels"
-          label="search booking.com"
+          label="Find a place to stay"
+          cta="Booking.com"
           subtitle={
             startDate && endDate
               ? `${startDate} → ${endDate} in ${destination.city}`
@@ -138,7 +136,8 @@ export function StayAndTravel({ destination, month, year, startDate, endDate, ho
         />
         <Tile
           eyebrow="flights"
-          label="search skyscanner"
+          label="Find flights"
+          cta="Skyscanner"
           subtitle={
             startDate && endDate
               ? `Flights ${homeAirport ? `from ${homeAirport} ` : ""}for ${startDate} → ${endDate}`
@@ -151,7 +150,8 @@ export function StayAndTravel({ destination, month, year, startDate, endDate, ho
         />
         <Tile
           eyebrow="experiences"
-          label="getyourguide"
+          label="Book things to do"
+          cta="GetYourGuide"
           subtitle={`Day plans, transfers, music tours in ${destination.city}`}
           href={gygUrl(destination, { startDate, endDate })}
           provider="gyg"
@@ -160,8 +160,8 @@ export function StayAndTravel({ destination, month, year, startDate, endDate, ho
         />
       </div>
 
-      <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-        bookings made through these links support Where Next at no cost to you.
+      <p className="mt-3 text-[12px] text-[var(--muted-2)]">
+        Bookings made through these links support Where Next at no cost to you.
       </p>
     </section>
   );
@@ -170,6 +170,7 @@ export function StayAndTravel({ destination, month, year, startDate, endDate, ho
 function Tile({
   eyebrow,
   label,
+  cta,
   subtitle,
   href,
   provider,
@@ -178,6 +179,7 @@ function Tile({
 }: {
   eyebrow: string;
   label: string;
+  cta: string;
   subtitle: string;
   href: string;
   provider: "booking" | "skyscanner" | "gyg";
@@ -192,11 +194,11 @@ function Tile({
       eventLabel={eventLabel}
       className="group flex flex-col gap-2 bg-[var(--background)] p-6 transition hover:bg-[var(--surface)]"
     >
-      <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{eyebrow}</span>
-      <h3 className="text-[19px] font-medium text-[var(--foreground)]">{label}</h3>
+      <span className="text-[13px] capitalize text-[var(--muted)]">{eyebrow}</span>
+      <h3 className="text-[18px] font-medium leading-snug text-[var(--foreground)]">{label}</h3>
       <p className="text-[13px] leading-6 text-[var(--muted)]">{subtitle}</p>
-      <span className="mt-3 inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)]/70 transition group-hover:text-[var(--signal)]">
-        open
+      <span className="mt-3 inline-flex items-center gap-1.5 text-[14px] font-medium text-[var(--foreground)]/80 transition group-hover:text-[var(--signal)]">
+        {cta}
         <span aria-hidden>↗</span>
       </span>
     </TrackedOutboundLink>

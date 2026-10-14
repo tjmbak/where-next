@@ -9,9 +9,13 @@ import { createSupabaseBrowserClient } from "@/lib/supabase/client";
 import { DESTINATIONS } from "@/data/music-travel";
 import type { Itinerary, ItineraryDay, ItineraryDuration } from "@/lib/itineraries/generate";
 import type { Budget, Destination } from "@/types/content";
+import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
+import { bookingUrl, gygUrl, skyscannerUrl } from "@/components/destinations/StayAndTravel";
 
 type ItineraryPlannerProps = {
   destination: Destination;
+  initialStartDate?: string;
+  initialDays?: number;
 };
 
 type Leg = { destinationSlug: string; days: number };
@@ -20,11 +24,11 @@ const DURATIONS: ItineraryDuration[] = [3, 4, 5, 7];
 const BUDGET_LABELS: Record<Budget, string> = { low: "$", medium: "$$", high: "$$$", luxury: "$$$$" };
 const VIBE_OPTIONS = ["beach", "luxury", "underground", "festival", "city", "cultural", "group-trip", "late-night"] as const;
 
-export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
+export function ItineraryPlanner({ destination, initialStartDate, initialDays }: ItineraryPlannerProps) {
   const router = useRouter();
-  const [duration, setDuration] = useState<ItineraryDuration>(4);
+  const [duration, setDuration] = useState<ItineraryDuration>(closestDuration(initialDays));
   const [legs, setLegs] = useState<Leg[]>([]); // empty = single-city using `duration`
-  const [startDate, setStartDate] = useState<string>("");
+  const [startDate, setStartDate] = useState<string>(initialStartDate ?? "");
   const [budgetBand, setBudgetBand] = useState<Budget>(destination.budget);
   const [vibeTags, setVibeTags] = useState<string[]>(destination.vibes.slice(0, 2));
   const [generating, setGenerating] = useState(false);
@@ -111,7 +115,9 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
     setItinerary(body.itinerary);
     if (typeof window !== "undefined") {
       requestAnimationFrame(() => {
-        document.getElementById("itinerary-result")?.scrollIntoView({ behavior: "smooth" });
+        document.getElementById("itinerary-result")?.scrollIntoView({
+          behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"
+        });
       });
     }
   }
@@ -155,14 +161,14 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
       <section className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-6">
         {isMultiCity ? (
           <fieldset>
-            <legend className="flex w-full items-center justify-between font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              <span>circuit · {totalDays} days total</span>
+            <legend className="flex w-full items-center justify-between text-[15px] font-semibold text-[var(--foreground)]">
+              <span>Multi-city trip · {totalDays} days</span>
               <button
                 type="button"
                 onClick={() => setLegs([])}
-                className="text-[var(--muted-2)] transition hover:text-[var(--signal)]"
+                className="text-[13px] font-medium text-[var(--muted)] transition hover:text-[var(--foreground)]"
               >
-                ← back to single city
+                Back to one city
               </button>
             </legend>
             <ol className="mt-3 space-y-2">
@@ -173,8 +179,8 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
                     key={`${leg.destinationSlug}-${index}`}
                     className="flex items-center gap-3 rounded-md border border-[var(--border)] bg-[var(--background)] px-3 py-2"
                   >
-                    <span className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                      leg {String(index + 1).padStart(2, "0")}
+                    <span className="text-[13px] font-medium text-[var(--muted)]">
+                      Stop {index + 1}
                     </span>
                     <span className="flex-1 text-sm text-[var(--foreground)]">
                       {legDestination ? `${legDestination.city}, ${legDestination.country}` : leg.destinationSlug}
@@ -185,16 +191,16 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
                       max={14}
                       value={leg.days}
                       onChange={(event) => updateLegDays(index, Number(event.target.value) || 1)}
-                      className="w-14 border-b border-[var(--border)] bg-transparent pb-1 text-right font-mono text-[14px] text-[var(--foreground)] outline-none focus:border-[var(--foreground)]"
+                      className="w-14 border-b border-[var(--border)] bg-transparent pb-1 text-right text-[15px] tabular-nums text-[var(--foreground)] outline-none focus:border-[var(--foreground)]"
                     />
-                    <span className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">days</span>
+                    <span className="text-[13px] text-[var(--muted)]">days</span>
                     {legs.length > 1 ? (
                       <button
                         type="button"
                         onClick={() => removeLeg(index)}
-                        className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted-2)] transition hover:text-[var(--signal)]"
+                        className="text-[13px] font-medium text-[var(--muted)] transition hover:text-[var(--signal)]"
                       >
-                        remove
+                        Remove
                       </button>
                     ) : null}
                   </li>
@@ -204,14 +210,14 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
           </fieldset>
         ) : (
           <fieldset>
-            <legend className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">how many days</legend>
+            <legend className="text-[15px] font-semibold text-[var(--foreground)]">How many days</legend>
             <div className="mt-3 flex flex-wrap gap-2">
               {DURATIONS.map((d) => (
                 <button
                   key={d}
                   type="button"
                   onClick={() => setDuration(d)}
-                  className={`rounded-full border px-4 py-2 font-mono text-[11px] uppercase tracking-[0.16em] transition ${
+                  className={`h-10 rounded-full border px-4 text-[14px] font-medium transition ${
                     duration === d
                       ? "border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]"
                       : "border-[var(--border-strong)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
@@ -225,10 +231,12 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
         )}
 
         {otherDestinations.length > 0 ? (
-          <details className="mt-6 rounded-md border border-dashed border-[var(--border-strong)] px-4 py-3 [&[open]>summary]:mb-2">
-            <summary className="flex cursor-pointer list-none items-center justify-between font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              <span>{isMultiCity ? "+ add another city to the circuit" : "+ chain another city → multi-city circuit"}</span>
-              <span className="font-mono text-[10px] text-[var(--muted-2)]">click to expand</span>
+          <details className="group mt-6 rounded-xl border border-[var(--border)] px-4 py-3 [&[open]>summary]:mb-3">
+            <summary className="flex min-h-8 cursor-pointer list-none items-center justify-between text-[14px] font-medium text-[var(--foreground)]">
+              <span>{isMultiCity ? "Add another city" : "Add another city to this trip"}</span>
+              <span aria-hidden className="text-[18px] text-[var(--muted)] transition group-open:rotate-45">
+                +
+              </span>
             </summary>
             <div className="flex flex-wrap gap-2">
               {otherDestinations.slice(0, 24).map((d) => (
@@ -236,7 +244,7 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
                   key={d.slug}
                   type="button"
                   onClick={() => addLeg(d.slug)}
-                  className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 font-mono text-[11px] uppercase tracking-[0.16em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                  className="h-9 rounded-full border border-[var(--border-strong)] px-3.5 text-[14px] text-[var(--foreground)] transition hover:border-[var(--foreground)]"
                 >
                   + {d.city}
                 </button>
@@ -246,20 +254,20 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
         ) : null}
 
         <label className="mt-8 flex flex-col gap-2">
-          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">arrival date (optional)</span>
+          <span className="text-[15px] font-semibold text-[var(--foreground)]">Arrival date <span className="font-normal text-[var(--muted)]">(optional)</span></span>
           <input
             type="date"
             value={startDate}
             onChange={(event) => setStartDate(event.target.value)}
             className="w-full max-w-md border-b border-[var(--border)] bg-transparent pb-2 text-[15px] text-[var(--foreground)] outline-none transition focus:border-[var(--foreground)]"
           />
-          <span className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-            blank → we pick a peak weekend
+          <span className="text-[13px] text-[var(--muted)]">
+            Leave it blank and we&apos;ll pick a peak weekend.
           </span>
         </label>
 
         <fieldset className="mt-8">
-          <legend className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">vibe (up to 4)</legend>
+          <legend className="text-[15px] font-semibold text-[var(--foreground)]">Vibe <span className="font-normal text-[var(--muted)]">(up to 4)</span></legend>
           <div className="mt-3 flex flex-wrap gap-2">
             {VIBE_OPTIONS.map((tag) => {
               const active = vibeTags.includes(tag);
@@ -268,13 +276,13 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
                   key={tag}
                   type="button"
                   onClick={() => toggleVibe(tag)}
-                  className={`rounded-full border px-3 py-1.5 font-mono text-[11px] uppercase tracking-[0.16em] transition ${
+                  className={`h-10 rounded-full border px-4 text-[14px] font-medium transition ${
                     active
                       ? "border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]"
                       : "border-[var(--border-strong)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
                   }`}
                 >
-                  {tag.replace("-", " ")}
+                  {capitalize(tag.replace("-", " "))}
                 </button>
               );
             })}
@@ -282,20 +290,20 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
         </fieldset>
 
         <fieldset className="mt-8">
-          <legend className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">budget ceiling</legend>
+          <legend className="text-[15px] font-semibold text-[var(--foreground)]">Budget</legend>
           <div className="mt-3 flex flex-wrap gap-2">
             {(["low", "medium", "high", "luxury"] as Budget[]).map((b) => (
               <button
                 key={b}
                 type="button"
                 onClick={() => setBudgetBand(b)}
-                className={`rounded-full border px-4 py-2 font-mono text-[11px] uppercase tracking-[0.16em] transition ${
+                className={`h-10 rounded-full border px-4 text-[14px] font-medium transition ${
                   budgetBand === b
                     ? "border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]"
                     : "border-[var(--border-strong)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
                 }`}
               >
-                {b} {BUDGET_LABELS[b]}
+                {capitalize(b)} {BUDGET_LABELS[b]}
               </button>
             ))}
           </div>
@@ -305,30 +313,32 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
           type="button"
           onClick={handleGenerate}
           disabled={generating || vibeTags.length === 0}
-          className="mt-10 inline-flex items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-60"
+          className="mt-10 inline-flex h-12 items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 text-[15px] font-semibold text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-60"
         >
-          {generating ? "generating…" : itinerary ? "generate again" : "generate itinerary"}
+          {generating ? "Building…" : itinerary ? "Build again" : "Build my itinerary"}
           <span aria-hidden>→</span>
         </button>
 
         {error ? (
-          <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--signal)]">{error}</p>
+          <p className="mt-4 text-[14px] text-[var(--signal)]">{error}</p>
         ) : null}
       </section>
 
       {generating && !itinerary ? (
-        <section id="itinerary-result" className="animate-fade-in">
+        <section id="itinerary-result" className="animate-fade-in motion-reduce:animate-none">
           <ItineraryLoadingState destination={destination} durationDays={duration} />
         </section>
       ) : null}
 
       {itinerary ? (
-        <section id="itinerary-result" className="space-y-8 animate-fade-in">
-          <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            your draft trip
-          </p>
+        <section id="itinerary-result" className="space-y-8 animate-fade-in motion-reduce:animate-none">
+          <h2 className="text-[22px] font-semibold tracking-[-0.01em] text-[var(--foreground)]">Your draft trip</h2>
 
           <StatsPanel itinerary={itinerary} />
+
+          {itinerary.startDate && itinerary.endDate ? (
+            <BookTripStrip destination={destination} startDate={itinerary.startDate} endDate={itinerary.endDate} />
+          ) : null}
 
           <ItineraryView
             itinerary={itinerary}
@@ -353,14 +363,57 @@ export function ItineraryPlanner({ destination }: ItineraryPlannerProps) {
               type="button"
               onClick={handleSave}
               disabled={saving}
-              className="inline-flex items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-60"
+              className="inline-flex h-12 items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 text-[15px] font-semibold text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-60"
             >
-              {saving ? "saving…" : "save & share this itinerary"}
+              {saving ? "Saving…" : "Save and share"}
               <span aria-hidden>→</span>
             </button>
           </div>
         </section>
       ) : null}
+    </div>
+  );
+}
+
+function capitalize(value: string): string {
+  return value.charAt(0).toUpperCase() + value.slice(1);
+}
+
+function closestDuration(days?: number): ItineraryDuration {
+  if (!days || !Number.isFinite(days)) return 4;
+  return DURATIONS.reduce((best, d) => (Math.abs(d - days) < Math.abs(best - days) ? d : best), DURATIONS[0]);
+}
+
+function BookTripStrip({ destination, startDate, endDate }: { destination: Destination; startDate: string; endDate: string }) {
+  const checkout = new Date(Date.parse(`${endDate}T00:00:00Z`) + 86_400_000).toISOString().slice(0, 10);
+  const range = { startDate, endDate: checkout };
+  const links = [
+    { label: "Stays", provider: "booking" as const, href: bookingUrl(destination, range) },
+    { label: "Flights", provider: "skyscanner" as const, href: skyscannerUrl(destination, range) },
+    { label: "Things to do", provider: "gyg" as const, href: gygUrl(destination, range) }
+  ];
+  return (
+    <div className="flex flex-wrap items-center gap-x-3 gap-y-2 rounded-2xl border border-[var(--border)] px-4 py-3">
+      <span className="text-[14px] font-semibold text-[var(--foreground)]">Book this trip</span>
+      <span className="flex flex-wrap gap-2">
+        {links.map((link) => (
+          <TrackedOutboundLink
+            key={link.provider}
+            href={link.href}
+            provider={link.provider}
+            destinationSlug={destination.slug}
+            eventLabel={`itinerary-${link.provider}`}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex h-11 items-center gap-1 rounded-full px-4 text-[14px] font-medium text-[var(--foreground)] ring-1 ring-inset ring-[var(--border-strong)] transition hover:ring-[var(--foreground)]"
+          >
+            {link.label}
+            <span aria-hidden className="opacity-60">
+              ↗
+            </span>
+          </TrackedOutboundLink>
+        ))}
+      </span>
     </div>
   );
 }

@@ -15,8 +15,8 @@ export default function MethodologyPage() {
       <SiteHeader className="absolute inset-x-0 top-0 z-30" />
 
       <section className="mx-auto w-full max-w-[860px] px-6 pb-32 pt-32 sm:px-10 sm:pt-40">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          where next / methodology
+        <p className="text-[13px] font-medium text-[var(--muted)]">
+          Methodology
         </p>
         <h1 className="mt-4 text-[clamp(2.5rem,6vw,4.25rem)] font-medium leading-[1.02] tracking-[-0.03em]">
           How we score
@@ -32,7 +32,7 @@ export default function MethodologyPage() {
         <div className="mt-14 border-t border-[var(--border)]" />
 
         <section className="mt-14">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">01 / rubric</p>
+          <p className="text-[13px] font-medium text-[var(--muted)]">The rubric</p>
           <h2 className="mt-3 text-[28px] font-medium leading-tight">
             Five inputs, weighted
           </h2>
@@ -45,15 +45,15 @@ export default function MethodologyPage() {
           <ul className="mt-10 space-y-7">
             {ACTIVITY_RUBRIC.map((item, idx) => (
               <li key={item.id} className="flex items-start gap-6 border-l border-[var(--border)] pl-6">
-                <span className="mt-1 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                  {(idx + 1).toString().padStart(2, "0")}
+                <span className="mt-1 text-[13px] font-medium tabular-nums text-[var(--muted)]">
+                  {idx + 1}
                 </span>
                 <div className="flex-1">
                   <div className="flex items-baseline justify-between gap-4">
                     <h3 className="text-[19px] font-medium text-[var(--foreground)]">
                       {item.label}
                     </h3>
-                    <span className="font-mono text-[12px] text-[var(--signal)]">
+                    <span className="text-[13px] font-semibold tabular-nums text-[var(--signal)]">
                       {item.weight}%
                     </span>
                   </div>
@@ -67,7 +67,7 @@ export default function MethodologyPage() {
         </section>
 
         <section className="mt-20">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">02 / tiers</p>
+          <p className="text-[13px] font-medium text-[var(--muted)]">Tiers</p>
           <h2 className="mt-3 text-[28px] font-medium leading-tight">
             What the numbers mean
           </h2>
@@ -80,7 +80,7 @@ export default function MethodologyPage() {
         </section>
 
         <section className="mt-20">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">03 / sources</p>
+          <p className="text-[13px] font-medium text-[var(--muted)]">Sources</p>
           <h2 className="mt-3 text-[28px] font-medium leading-tight">
             Where the data comes from
           </h2>
@@ -88,7 +88,7 @@ export default function MethodologyPage() {
             Events, dates, and venue claims are researched against live
             festival lineups, official venue calendars, ticketing platforms,
             and music journalism. Every event card on a city guide links out
-            to its primary source — click <span className="font-mono text-[12px] uppercase tracking-[0.18em] text-[var(--signal)]">official source ↗</span> to verify
+            to its primary source — click <span className="font-medium text-[var(--signal)]">Official source ↗</span> to verify
             dates yourself before booking.
           </p>
           <p className="mt-5 max-w-2xl text-[16px] leading-8 text-[var(--foreground)]/80">
@@ -102,7 +102,7 @@ export default function MethodologyPage() {
         </section>
 
         <section className="mt-20">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">04 / caveats</p>
+          <p className="text-[13px] font-medium text-[var(--muted)]">Caveats</p>
           <h2 className="mt-3 text-[28px] font-medium leading-tight">
             What we don&apos;t do
           </h2>
@@ -130,8 +130,8 @@ export default function MethodologyPage() {
         </section>
 
         <section className="mt-24 rounded-2xl border border-[var(--border)] bg-[var(--surface)] px-7 py-8">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            see it in practice
+          <p className="text-[13px] font-medium text-[var(--muted)]">
+            See it in practice
           </p>
           <h2 className="mt-3 text-[24px] font-medium leading-tight">
             Read a city guide
@@ -142,9 +142,9 @@ export default function MethodologyPage() {
           </p>
           <Link
             href="/"
-            className="mt-5 inline-flex items-center gap-2 rounded-full border border-[var(--foreground)]/30 bg-[var(--foreground)] px-5 py-2.5 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--background)] transition hover:opacity-90"
+            className="mt-5 inline-flex items-center gap-2 rounded-full border border-[var(--foreground)]/30 bg-[var(--foreground)] px-5 py-2.5 text-[13px] font-medium text-[var(--background)] transition hover:opacity-90"
           >
-            browse the map
+            Browse cities
             <span aria-hidden>→</span>
           </Link>
         </section>
@@ -157,10 +157,10 @@ function Tier({ range, label, copy }: { range: string; label: string; copy: stri
   return (
     <li className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-5 py-5">
       <div className="flex items-baseline gap-3">
-        <span className="font-mono text-[12px] uppercase tracking-[0.22em] text-[var(--signal)]">
+        <span className="text-[13px] font-medium text-[var(--signal)]">
           {range}
         </span>
-        <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+        <span className="text-[13px] font-medium text-[var(--muted)]">
           {label}
         </span>
       </div>

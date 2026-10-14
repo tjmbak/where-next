@@ -123,8 +123,8 @@ export default async function WhereToGoGenrePage({ params }: PageProps) {
       <SiteHeader />
 
       <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          where to go · {monthLabel.toLowerCase()} {upcomingYearForMonth(month)}
+        <p className="text-[13px] font-medium text-[var(--muted)]">
+          Where to go · {monthLabel} {upcomingYearForMonth(month)}
         </p>
         <h1 className="mt-5 max-w-3xl text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           {GENRE_LABELS[genre]} cities to fly to in {monthLabel.toLowerCase()}.
@@ -139,15 +139,15 @@ export default async function WhereToGoGenrePage({ params }: PageProps) {
 
         <nav className="mt-16 grid gap-8 border-t border-[var(--border)] pt-10 sm:grid-cols-2">
           <div>
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              other genres in {monthLabel.toLowerCase()}
+            <p className="text-[13px] font-medium text-[var(--muted)]">
+              Other genres in {monthLabel}
             </p>
             <ul className="mt-4 flex flex-wrap gap-2">
               {GENRES.filter((g) => g !== genre).map((g) => (
                 <li key={g}>
                   <Link
                     href={`/where-to-go/${monthSlug(month)}/genre/${g}`}
-                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 font-mono text-[11px] uppercase tracking-[0.16em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 text-[13px] font-medium text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
                   >
                     {GENRE_LABELS[g]}
                   </Link>
@@ -156,7 +156,7 @@ export default async function WhereToGoGenrePage({ params }: PageProps) {
             </ul>
           </div>
           <div>
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+            <p className="text-[13px] font-medium text-[var(--muted)]">
               {GENRE_LABELS[genre].toLowerCase()} in other months
             </p>
             <ul className="mt-4 flex flex-wrap gap-2">
@@ -164,7 +164,7 @@ export default async function WhereToGoGenrePage({ params }: PageProps) {
                 <li key={m.value}>
                   <Link
                     href={`/where-to-go/${monthSlug(m.value)}/genre/${genre}`}
-                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 font-mono text-[11px] uppercase tracking-[0.16em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 text-[13px] font-medium text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
                   >
                     {m.shortLabel}
                   </Link>

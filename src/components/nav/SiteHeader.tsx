@@ -8,8 +8,8 @@ import { createSupabaseBrowserClient } from "@/lib/supabase/client";
 export const PRIMARY_NAV = [
   { href: "/", label: "Explore", match: (p: string) => p === "/" || p.startsWith("/destinations") || p.startsWith("/where-to-go") },
   { href: "/events", label: "Events", match: (p: string) => p.startsWith("/events") },
-  { href: "/find", label: "Find dates", match: (p: string) => p.startsWith("/find") },
-  { href: "/compose", label: "Plan with AI", match: (p: string) => p.startsWith("/compose") }
+  { href: "/find", label: "By dates", match: (p: string) => p.startsWith("/find") },
+  { href: "/compose", label: "Plan a trip", match: (p: string) => p.startsWith("/compose") }
 ] as const;
 
 export function useSignedIn(): boolean | null {

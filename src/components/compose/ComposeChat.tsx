@@ -181,7 +181,7 @@ export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
     }
 
     if (eventName === "thinking") {
-      setPhaseLabel("thinking…");
+      setPhaseLabel("Thinking…");
       return;
     }
     if (eventName === "tool_call_start") {
@@ -190,7 +190,7 @@ export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
       return;
     }
     if (eventName === "tool_call_result") {
-      setPhaseLabel("thinking…");
+      setPhaseLabel("Thinking…");
       const result = data.result as ComposeToolResult | undefined;
       if (!result) return;
       trackEvent("compose_tool_result", { kind: result.kind });
@@ -257,7 +257,7 @@ export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
       setMessages([...sendable, assistantMessage]);
       setDraft("");
       setPending(true);
-      setPhaseLabel("thinking…");
+      setPhaseLabel("Thinking…");
       trackEvent("compose_send", { length: trimmed.length });
 
       const controller = new AbortController();
@@ -377,7 +377,7 @@ export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
       ) : null}
 
       {error ? (
-        <p className="rounded-xl border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-3 py-2 font-mono text-[11px] uppercase tracking-[0.2em] text-[var(--signal)]">
+        <p className="rounded-xl border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-3 py-2 text-[13px] font-medium text-[var(--signal)]">
           {error}
         </p>
       ) : null}
@@ -399,7 +399,7 @@ export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
                 sendMessage(draft);
               }
             }}
-            placeholder="what kind of trip are you thinking…"
+            placeholder="What kind of trip are you thinking?"
             rows={1}
             // 16px font prevents iOS Safari from auto-zooming on focus.
             className="max-h-32 flex-1 resize-none bg-transparent px-2 py-2 text-[16px] leading-7 text-[var(--foreground)] outline-none placeholder:text-[var(--muted-2)]"
@@ -408,30 +408,30 @@ export function ComposeChat({ suggestions, initialDraft }: ComposeChatProps) {
             <button
               type="button"
               onClick={handleStop}
-              className="shrink-0 rounded-full border border-[var(--border-strong)] px-4 py-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+              className="shrink-0 rounded-full border border-[var(--border-strong)] px-4 py-2 text-[13px] font-medium text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
             >
-              stop
+              Stop
             </button>
           ) : (
             <button
               type="submit"
               disabled={draft.trim().length === 0}
-              className="shrink-0 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-4 py-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--background)] transition hover:bg-transparent hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-50"
+              className="shrink-0 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-4 py-2 text-[13px] font-medium text-[var(--background)] transition hover:bg-transparent hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-50"
             >
-              send →
+              Send →
             </button>
           )}
         </div>
 
-        <div className="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-          <span className="hidden sm:inline">enter to send · shift+enter for new line</span>
+        <div className="flex items-center justify-between text-[13px] font-medium text-[var(--muted-2)]">
+          <span className="hidden sm:inline">Enter to send · Shift+Enter for a new line</span>
           {messages.length > 0 ? (
             <button
               type="button"
               onClick={handleClear}
               className="transition hover:text-[var(--foreground)]"
             >
-              clear conversation
+              Clear conversation
             </button>
           ) : null}
         </div>
@@ -471,21 +471,21 @@ function AssistantBubble({
       <div className="flex items-start gap-3">
         <span
           aria-hidden
-          className="mt-1 inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[var(--signal)] font-mono text-[10px] font-bold text-[var(--background)]"
+          className="mt-1 inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[var(--signal)] text-[11px] font-bold text-[var(--background)]"
         >
           W
         </span>
         <div className="min-w-0 flex-1 text-[15px] leading-7 text-[var(--foreground)]">
           {showThinking ? (
-            <span className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+            <span className="inline-flex items-center gap-1.5 text-[13px] font-medium text-[var(--muted)]">
               <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-[var(--signal)]" />
-              {phaseLabel ?? "thinking…"}
+              {phaseLabel ?? "Thinking…"}
             </span>
           ) : content ? (
             <ChatMarkdown content={content} />
           ) : null}
           {pending && content.length > 0 && phaseLabel ? (
-            <p className="mt-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
+            <p className="mt-2 text-[13px] font-medium text-[var(--muted)]">
               {phaseLabel}
             </p>
           ) : null}
@@ -526,7 +526,7 @@ function ComposeEmptyState({
 }) {
   return (
     <div>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">or start from one of these</p>
+      <p className="text-[13px] font-medium text-[var(--muted)]">Or start from one of these</p>
       <ul className="mt-3 flex flex-wrap gap-2">
         {suggestions.map((s) => (
           <li key={s}>
@@ -545,7 +545,7 @@ function ComposeEmptyState({
 }
 
 function toolLabel(toolName: string): string {
-  if (toolName === "search_destinations") return "scanning the catalog…";
-  if (toolName === "suggest_itineraries") return "drafting your trip…";
-  return `running ${toolName}…`;
+  if (toolName === "search_destinations") return "Scanning the catalog…";
+  if (toolName === "suggest_itineraries") return "Drafting your trip…";
+  return `Running ${toolName}…`;
 }

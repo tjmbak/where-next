@@ -3,7 +3,7 @@ import { ComposeChat } from "@/components/compose/ComposeChat";
 import { SiteHeader } from "@/components/nav/SiteHeader";
 
 export const metadata: Metadata = {
-  title: "Plan with AI",
+  title: "Plan a trip",
   description:
     "Tell Where Next what kind of trip you want — vibe, dates, budget — and we draft a real trip you can save in one tap.",
   robots: { index: true }
@@ -29,8 +29,8 @@ export default async function ComposePage({ searchParams }: ComposePageProps) {
       <SiteHeader />
 
       <section className="mx-auto w-full max-w-[820px] px-6 pb-20 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--signal)]">
-          beta
+        <p className="text-[13px] font-medium text-[var(--signal)]">
+          Beta
         </p>
         <h1 className="mt-3 text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[0.95] tracking-[-0.03em] text-[var(--foreground)]">
           Tell me what kind of trip.<br />

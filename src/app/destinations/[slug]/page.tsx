@@ -3,13 +3,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import { TrackedOutboundLink } from "@/components/analytics/TrackedOutboundLink";
-import { EventAudio } from "@/components/audio/EventAudio";
+import { EventList } from "@/components/destinations/EventList";
 import { GuideVisitRecorder } from "@/components/destinations/GuideVisitRecorder";
 import { HeroGallery } from "@/components/destinations/HeroGallery";
 import { WatchButton } from "@/components/watch/WatchButton";
-import { artistFromTitle } from "@/lib/artist-from-title";
 import { hasVariant, heroVariantUrl, type HeroVariant } from "@/lib/hero-images";
-import { groupEventsByWeekend } from "@/lib/weekends";
 import { PopularTrips } from "@/components/destinations/PopularTrips";
 import { StayAndTravel } from "@/components/destinations/StayAndTravel";
 import { loadPopularItinerariesForDestination } from "@/lib/itineraries/popular";
@@ -151,21 +149,16 @@ export default async function DestinationPage({ params, searchParams }: Destinat
       ? [...upcomingThisMonth].sort((a, b) => b.importanceScore - a.importanceScore).slice(0, 3)
       : [];
   const marqueeVariants: HeroVariant[] = ["peak", "detail", "shoulder"];
-  const weekendGroups =
-    !isYearView && eventsThisMonth.length > 0
-      ? groupEventsByWeekend(eventsThisMonth, selectedMonth, selectedYear)
-      : [];
   const scoreDriver =
     !isYearView && upcomingThisMonth.length > 0
       ? [...upcomingThisMonth].sort((a, b) => b.importanceScore - a.importanceScore)[0]
       : null;
 
-  const issueNumber = destination.slug.length.toString().padStart(2, "0");
-  const monthLabelLower = getMonthLabel(selectedMonth).toLowerCase();
-  const periodLabel = isYearView ? "year-round" : monthLabelLower;
-  const periodLabelWithYear = isYearView ? `all year ${selectedYear}` : `${monthLabelLower} ${selectedYear}`;
-  const whyTitle = isYearView ? "Year overview" : `Why ${monthLabelLower}`;
-  const eventsTitle = isYearView ? "Events all year" : `Events in ${monthLabelLower}`;
+  const monthLabel = getMonthLabel(selectedMonth);
+  const monthLabelLower = monthLabel.toLowerCase();
+  const periodLabelWithYear = isYearView ? `All year ${selectedYear}` : `${monthLabel} ${selectedYear}`;
+  const whyTitle = isYearView ? "Year overview" : `Why ${monthLabel}`;
+  const eventsTitle = isYearView ? "Events all year" : `Events in ${monthLabel}`;
   const introWhy = score?.whyNow?.[0] ?? destination.summary;
   const remainingWhy = (score?.whyNow ?? []).slice(1).filter((line) => !/^best fit:/i.test(line));
   const normalizeLine = (line: string) => line.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -221,20 +214,13 @@ export default async function DestinationPage({ params, searchParams }: Destinat
           destination={destination}
           month={isYearView ? undefined : selectedMonth}
         />
-        <div className="pointer-events-none absolute inset-0 bg-[#08080a]/40 mix-blend-multiply" />
-        <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-black" />
-        <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-black/65 via-transparent to-transparent" />
+        <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-black/45 via-transparent to-black/80" />
+        <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-black/40 via-transparent to-transparent" />
 
         <div className="absolute inset-x-0 bottom-0 mx-auto w-full max-w-[1180px] px-5 pb-10 sm:px-10 sm:pb-14">
-          <div className="flex flex-wrap items-center gap-x-2.5 gap-y-1 font-mono text-[10px] uppercase tracking-[0.22em] text-white/70 sm:gap-x-3 sm:text-[11px] sm:tracking-[0.24em]">
-            <span>issue {issueNumber}</span>
-            <span aria-hidden className="h-1 w-1 rounded-full bg-white/40" />
-            <span>{destination.country}</span>
-            <span aria-hidden className="h-1 w-1 rounded-full bg-white/40" />
-            <span>{destination.region}</span>
-            <span aria-hidden className="h-1 w-1 rounded-full bg-white/40" />
-            <span>{periodLabelWithYear}</span>
-          </div>
+          <p className="text-[14px] font-medium text-white/80 sm:text-[15px]">
+            {destination.country} · {periodLabelWithYear}
+          </p>
           <h1 className="mt-5 break-words text-[clamp(2.75rem,11vw,10rem)] font-medium leading-[0.95] tracking-[-0.04em] text-white sm:mt-6 sm:leading-[0.92]">
             {destination.city}
           </h1>
@@ -244,18 +230,16 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
           <div className="mt-7 flex flex-wrap items-end gap-x-6 gap-y-5 sm:mt-9 sm:gap-x-10 sm:gap-y-6">
             <Stat
-              label={isYearView ? "peak score" : "activity"}
+              label={isYearView ? "Peak score" : "Activity score"}
               value={`${heroScore?.overallScore ?? 0}`}
               suffix="/100"
             />
-            <Stat label="budget" value={`${BUDGET_LABELS[destination.budget]}`} suffix={formatUsdRange(destination.averageDailySpendUsd)} />
-            <Stat label="confidence" value={(heroScore?.confidence ?? "medium").toUpperCase()} />
-            <Stat label="months" value={`${destination.activeMonths.length}`} suffix="active" />
+            <Stat label="Budget" value={`${BUDGET_LABELS[destination.budget]}`} suffix={formatUsdRange(destination.averageDailySpendUsd)} />
           </div>
 
           {scoreDriver ? (
-            <p className="mt-4 font-mono text-[10px] uppercase tracking-[0.2em] text-white/55">
-              score driven by{" "}
+            <p className="mt-4 text-[13px] text-white/65">
+              Score driven by{" "}
               <span className="text-white/85">{scoreDriver.title}</span>
               {upcomingThisMonth.length > 1 ? (
                 <span> + {upcomingThisMonth.length - 1} more this month</span>
@@ -282,41 +266,33 @@ export default async function DestinationPage({ params, searchParams }: Destinat
             ) : null}
             <Link
               href="/methodology"
-              className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.22em] text-white/55 transition hover:text-white"
+              className="inline-flex items-center gap-1.5 text-[13px] font-medium text-white/70 underline-offset-4 transition hover:text-white hover:underline"
             >
-              how scores work
+              How scores work
               <span aria-hidden>→</span>
             </Link>
           </div>
-        </div>
-
-        <div className="pointer-events-none absolute bottom-6 right-6 z-10 hidden font-mono text-[10px] uppercase tracking-[0.22em] text-white/50 md:block">
-          scroll ↓
         </div>
       </section>
 
       {/* ARTICLE BODY */}
       <section className="mx-auto w-full max-w-[1180px] px-5 pb-20 pt-14 sm:px-10 sm:pb-24 sm:pt-20">
-        <div className="mb-14 flex flex-col gap-2 border-b border-[var(--border)] pb-5 sm:flex-row sm:items-baseline sm:justify-between">
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            <span className="text-[var(--foreground)]">where next</span> / {destination.city.toLowerCase()} / {periodLabel}
-          </p>
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            <span className="inline-flex items-center gap-1.5">
-              <span
-                aria-hidden
-                className="h-1.5 w-1.5 rounded-full bg-[var(--signal)] shadow-[0_0_6px_var(--signal)]"
-              />
-              {lastEditedLabel ? `edited ${lastEditedLabel}` : `edition ${EDITION_YEAR}`} · curated
-            </span>
-          </p>
+        <div className="mb-12 flex flex-wrap items-baseline justify-between gap-2 text-[14px] text-[var(--muted)]">
+          <nav aria-label="Breadcrumb">
+            <Link href="/" className="font-medium transition hover:text-[var(--foreground)]">
+              Explore
+            </Link>
+            <span aria-hidden> / </span>
+            <span className="text-[var(--foreground)]">{destination.city}</span>
+          </nav>
+          <p>{lastEditedLabel ? `Updated ${lastEditedLabel}` : `${EDITION_YEAR} edition`}</p>
         </div>
 
         <div className="grid grid-cols-[minmax(0,1fr)] gap-x-16 gap-y-16 lg:grid-cols-[minmax(0,1.55fr)_minmax(0,1fr)]">
           {/* MAIN COLUMN */}
           <article className="space-y-16">
-            <Section eyebrow="01" title={whyTitle}>
-              <p className="wn-dropcap text-[18px] leading-9 text-[var(--foreground)]">{introWhy}</p>
+            <Section title={whyTitle}>
+              <p className="text-[18px] leading-9 text-[var(--foreground)]">{introWhy}</p>
               {remainingWhy.length > 0 ? (
                 <div className="mt-7 grid gap-4">
                   {remainingWhy.map((line) => (
@@ -330,7 +306,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
             {pullQuote ? <PullQuote>{pullQuote}</PullQuote> : null}
 
-            <Section eyebrow="02" id="events" title={eventsTitle}>
+            <Section id="events" title={eventsTitle}>
               {isPastView && SUPPORTED_YEARS.includes(selectedYear + 1) ? (
                 <p className="mb-7 rounded-md border border-[var(--border-strong)] bg-[var(--surface-2)] px-4 py-3 text-[13px] leading-6 text-[var(--muted)]">
                   <span className="font-medium text-[var(--foreground)]">{getMonthLabel(selectedMonth)} {selectedYear} has passed.</span>{" "}
@@ -365,9 +341,9 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                     {selectedYear > EDITION_YEAR ? (
                       <Link
                         href={`/destinations/${destination.slug}?month=${selectedMonth}&year=${selectedYear - 1}#events`}
-                        className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+                        className="text-[14px] font-medium text-[var(--foreground)] underline-offset-4 transition hover:text-[var(--signal)] hover:underline"
                       >
-                        see {monthLabelLower} {selectedYear - 1} →
+                        See {monthLabelLower} {selectedYear - 1} →
                       </Link>
                     ) : null}
                   </div>
@@ -376,184 +352,48 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
               {marqueeEvents.length > 0 ? (
                 <div className="mb-12">
-                  <p className="font-mono text-[10px] uppercase tracking-[0.24em] text-[var(--signal)]">
-                    if you only book around three things
-                  </p>
+                  <h3 className="text-[17px] font-semibold text-[var(--foreground)]">Don&apos;t miss</h3>
                   <div className="mt-4 grid items-start gap-4 sm:grid-cols-3">
                     {marqueeEvents.map((event, index) => {
                       const preferred = marqueeVariants[index] ?? "peak";
                       const variant = hasVariant(destination.heroImage, preferred) ? preferred : "peak";
                       return (
-                        <div
-                          key={event.id}
-                          className="group overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] shadow-[0_1px_2px_rgba(28,22,18,0.04)] transition-[transform,box-shadow] duration-300 hover:-translate-y-0.5 hover:shadow-[0_18px_40px_-18px_rgba(28,22,18,0.28)]"
-                        >
-                          <a href={`#event-${event.id}`} className="block">
-                            <div className="relative aspect-[16/7] overflow-hidden sm:aspect-[16/10]">
-                              <Image
-                                src={heroVariantUrl(destination.heroImage, variant)}
-                                alt=""
-                                fill
-                                sizes="(max-width: 640px) 100vw, 320px"
-                                className="object-cover transition duration-500 group-hover:scale-105"
-                              />
-                              <span aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/15 to-transparent" />
-                              <span className="absolute left-3 top-3 inline-flex items-center rounded-full border border-white/20 bg-black/55 px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.18em] text-white/90 backdrop-blur">
-                                {String(index + 1).padStart(2, "0")} · {event.type.replaceAll("-", " ")}
-                                {event.confirmed === false ? " · expected" : ""}
-                              </span>
-                              <div className="absolute inset-x-3 bottom-2.5">
-                                <p className="font-mono text-[9px] uppercase tracking-[0.18em] text-white/70">
-                                  {formatEventDate(event.startDate, event.endDate)}
-                                </p>
-                                <p className="line-clamp-2 text-[14px] font-medium leading-5 text-white">
-                                  {event.title}
-                                </p>
-                              </div>
-                            </div>
-                          </a>
-                        </div>
-                      );
-                    })}
-                  </div>
-                </div>
-              ) : null}
-
-              {weekendGroups.length > 0 ? (
-                <div className="mb-10">
-                  <p className="font-mono text-[10px] uppercase tracking-[0.24em] text-[var(--muted)]">
-                    weekend by weekend
-                  </p>
-                  <div className="wn-swipe -mx-5 mt-3 flex snap-x gap-2.5 overflow-x-auto scroll-px-5 px-5 sm:mx-0 sm:px-0">
-                    {(() => {
-                      const isPastWeekend = (fridayIso: string) => {
-                        const sunday = new Date(`${fridayIso}T00:00:00Z`);
-                        sunday.setUTCDate(sunday.getUTCDate() + 2);
-                        return sunday.toISOString().slice(0, 10) < today;
-                      };
-                      const ahead = weekendGroups.filter((weekend) => !isPastWeekend(weekend.fridayIso));
-                      return ahead.length > 0 ? ahead : weekendGroups;
-                    })().map((weekend) => {
-                      const headline = weekend.events[0] ?? null;
-                      const sunday = new Date(`${weekend.fridayIso}T00:00:00Z`);
-                      sunday.setUTCDate(sunday.getUTCDate() + 2);
-                      const weekendPast = sunday.toISOString().slice(0, 10) < today;
-                      return headline ? (
-                        <a
-                          key={weekend.fridayIso}
-                          href={`#event-${headline.id}`}
-                          className={`min-w-[190px] shrink-0 snap-start rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3.5 py-3 transition-colors hover:border-[var(--border-strong)] ${
-                            weekendPast ? "opacity-50" : ""
-                          }`}
-                        >
-                          <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--signal)]">
-                            {weekend.label}
+                        <a key={event.id} href={`#event-${event.id}`} className="group block">
+                          <div className="relative aspect-[16/9] overflow-hidden rounded-2xl bg-[var(--surface-2)] transition-shadow duration-300 group-hover:shadow-[0_18px_40px_-20px_rgba(28,22,18,0.45)] sm:aspect-[4/3]">
+                            <Image
+                              src={heroVariantUrl(destination.heroImage, variant)}
+                              alt=""
+                              fill
+                              sizes="(max-width: 640px) 100vw, 320px"
+                              className="object-cover transition duration-700 ease-out group-hover:scale-[1.04]"
+                            />
+                            <span className="absolute left-2.5 top-2.5 inline-flex items-center gap-1 rounded-full bg-white/95 px-2.5 py-1 text-[12px] font-semibold capitalize text-[#1c1612] shadow-[0_2px_8px_rgba(0,0,0,0.18)]">
+                              <span className="tabular-nums text-[var(--signal)]">{index + 1}</span>
+                              {event.type.replaceAll("-", " ")}
+                              {event.confirmed === false ? " · expected" : ""}
+                            </span>
+                          </div>
+                          <p className="mt-2.5 text-[13px] font-medium text-[var(--signal)]">
+                            {formatEventDate(event.startDate, event.endDate)}
                           </p>
-                          <p className="mt-1.5 line-clamp-2 text-[13px] font-medium leading-5 text-[var(--foreground)]">
-                            {headline.title}
+                          <p className="mt-0.5 line-clamp-2 text-[14px] font-medium leading-snug text-[var(--foreground)]">
+                            {event.title}
                           </p>
-                          {weekend.events.length > 1 ? (
-                            <p className="mt-1 font-mono text-[9px] uppercase tracking-[0.16em] text-[var(--muted)]">
-                              +{weekend.events.length - 1} more
-                            </p>
-                          ) : null}
                         </a>
-                      ) : (
-                        <div
-                          key={weekend.fridayIso}
-                          className={`min-w-[190px] shrink-0 snap-start rounded-xl border border-dashed border-[var(--border)] bg-transparent px-3.5 py-3 ${
-                            weekendPast ? "opacity-50" : ""
-                          }`}
-                        >
-                          <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-                            {weekend.label}
-                          </p>
-                          <p className="mt-1.5 text-[13px] leading-5 text-[var(--muted-2)]">
-                            quiet weekend
-                          </p>
-                        </div>
                       );
                     })}
                   </div>
                 </div>
               ) : null}
 
-              {(() => {
-                const upcomingFirst = events.filter((event) => !hasEnded(event));
-                const endedEvents = events.filter((event) => hasEnded(event));
-                const renderItem = (event: (typeof events)[number]) => (
-                  <li
-                    key={event.id}
-                    id={`event-${event.id}`}
-                    className={`wn-timeline-item scroll-mt-24 ${hasEnded(event) ? "opacity-55" : ""}`}
-                  >
-                    <span className="wn-timeline-dot" aria-hidden />
-                    <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
-                      <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                        {formatEventDate(event.startDate, event.endDate)}
-                      </span>
-                      {hasEnded(event) ? (
-                        <span className="rounded-full border border-[var(--border)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                          ended
-                        </span>
-                      ) : null}
-                      <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-                        {event.type.replaceAll("-", " ")}
-                      </span>
-                      {event.confirmed === false ? (
-                        <span className="rounded-full border border-dashed border-[var(--border-strong)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                          expected
-                        </span>
-                      ) : null}
-                      {(() => {
-                        const span = formatRunLength(event.startDate, event.endDate, event.type);
-                        return span ? (
-                          <span className="rounded-full border border-[var(--border)] bg-[var(--surface-2)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                            {span}
-                          </span>
-                        ) : null;
-                      })()}
-                    </div>
-                    <h3 className="mt-2 text-[18px] font-medium leading-snug text-[var(--foreground)] sm:text-[22px] sm:leading-tight">
-                      {event.title}
-                    </h3>
-                    <p className="mt-2 max-w-2xl text-[14px] leading-6 text-[var(--muted)] sm:mt-3 sm:text-[15px] sm:leading-7">{event.summary}</p>
-                    <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2">
-                      <TrackedOutboundLink
-                        href={event.ticketUrl ?? event.sourceUrl}
-                        eventLabel={event.title}
-                        destinationSlug={destination.slug}
-                        provider={event.ticketUrl ? "viagogo" : "raw"}
-                        preview={{ kind: "event", eventId: event.id }}
-                        className="inline-flex min-h-11 items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)] sm:min-h-0"
-                      >
-                        official source
-                        <span aria-hidden>↗</span>
-                      </TrackedOutboundLink>
-                      {(() => {
-                        const artist = artistFromTitle(event.title, event.type);
-                        return artist ? <EventAudio artist={artist} /> : null;
-                      })()}
-                    </div>
-                  </li>
-                );
-                return (
-                  <>
-                    {upcomingFirst.length > 0 ? <ol className="wn-timeline">{upcomingFirst.map(renderItem)}</ol> : null}
-                    {endedEvents.length > 0 ? (
-                      <details className="group mt-6 rounded-xl border border-[var(--border)]" open={upcomingFirst.length === 0}>
-                        <summary className="flex cursor-pointer list-none items-center justify-between px-5 py-4 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]">
-                          <span>
-                            {endedEvents.length} already happened this {isYearView ? "year" : "month"}
-                          </span>
-                          <span aria-hidden className="transition group-open:rotate-45">+</span>
-                        </summary>
-                        <ol className="wn-timeline px-5 pb-2">{endedEvents.map(renderItem)}</ol>
-                      </details>
-                    ) : null}
-                  </>
-                );
-              })()}
+              <EventList
+                events={events}
+                venues={venues}
+                destinationSlug={destination.slug}
+                today={today}
+                groupByMonth={isYearView}
+                periodLabel={isYearView ? "year" : "month"}
+              />
             </Section>
 
             {popularItineraries.length > 0 ? (
@@ -566,8 +406,8 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 
             <StayAndTravel destination={destination} month={isYearView ? undefined : selectedMonth} year={selectedYear} />
 
-            <Section eyebrow="04" title="Venues & scenes">
-              <div className="grid gap-px overflow-hidden rounded-xl border border-[var(--border-strong)] bg-[var(--border)] sm:grid-cols-2">
+            <Section title="Venues & scenes">
+              <div className={`grid gap-px overflow-hidden rounded-xl border border-[var(--border-strong)] bg-[var(--border)] ${venues.length > 1 ? "sm:grid-cols-2 sm:[&>*:last-child:nth-child(odd)]:col-span-2" : ""}`}>
                 {venues.map((venue) => (
                   <TrackedOutboundLink
                     key={venue.id}
@@ -577,15 +417,13 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                     preview={{ kind: "venue", venueId: venue.id }}
                     className="group flex flex-col gap-2 bg-[var(--background)] p-6 transition hover:bg-[var(--surface)]"
                   >
-                    <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                      {venue.type.replace("-", " ")}
-                    </span>
+                    <span className="text-[13px] capitalize text-[var(--muted)]">{venue.type.replace("-", " ")}</span>
                     <h3 className="text-[19px] font-medium text-[var(--foreground)]">{venue.name}</h3>
                     <p className="text-[13px] leading-6 text-[var(--muted)]">
                       {venue.sceneTags.map((tag) => VIBE_LABELS[tag]).join(" · ")}
                     </p>
-                    <span className="mt-2 inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)]/70 transition group-hover:text-[var(--signal)]">
-                      visit
+                    <span className="mt-2 inline-flex items-center gap-1.5 text-[14px] font-medium text-[var(--foreground)]/80 transition group-hover:text-[var(--signal)]">
+                      Visit site
                       <span aria-hidden>↗</span>
                     </span>
                   </TrackedOutboundLink>
@@ -593,7 +431,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
               </div>
             </Section>
 
-            <Section eyebrow="05" title="The full picture">
+            <Section title="The full picture">
               <p className="text-[16px] leading-8 text-[var(--foreground)]/85">{destination.summary}</p>
               <p className="mt-5 text-[15px] leading-8 text-[var(--muted)]">{destination.travelNotes}</p>
             </Section>
@@ -602,16 +440,16 @@ export default async function DestinationPage({ params, searchParams }: Destinat
           {/* SIDEBAR */}
           <aside className="lg:sticky lg:top-12 lg:self-start lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto">
             <div className="space-y-12 pt-2">
-              <SidePanel title="Snapshot" index="A">
+              <SidePanel title="At a glance">
                 <dl className="grid grid-cols-1 gap-4 text-sm">
-                  <Info label="best for" value={destination.whoFor.join(", ")} />
-                  <Info label="when to book" value={destination.whenToBook} />
-                  <Info label="genre signature" value={destination.genres.map((g) => GENRE_LABELS[g]).join(", ")} />
-                  <Info label="vibe" value={destination.vibes.map((v) => VIBE_LABELS[v]).join(", ")} />
+                  <Info label="Best for" value={destination.whoFor.join(", ")} />
+                  <Info label="When to book" value={destination.whenToBook} />
+                  <Info label="Sounds" value={destination.genres.map((g) => GENRE_LABELS[g]).join(", ")} />
+                  <Info label="Vibe" value={destination.vibes.map((v) => VIBE_LABELS[v]).join(", ")} />
                 </dl>
               </SidePanel>
 
-              <SidePanel title="Active months" index="B">
+              <SidePanel title="Pick a month">
                 {SUPPORTED_YEARS.length > 1 ? (
                   <div className="mb-3 inline-flex w-full items-center overflow-hidden rounded-md border border-[var(--border)]">
                     {SUPPORTED_YEARS.map((y) => {
@@ -624,7 +462,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                           href={`/destinations/${destination.slug}?${monthQuery}${yq}#events`}
                           aria-current={active ? "true" : undefined}
                           style={active ? { color: "#f7f0e1", backgroundColor: "#2a1c12" } : undefined}
-                          className={`flex flex-1 items-center justify-center px-3 py-2 font-mono text-[11px] uppercase tracking-[0.16em] transition ${
+                          className={`flex flex-1 items-center justify-center px-3 py-2 text-[14px] font-medium transition ${
                             active ? "font-bold" : "text-[var(--muted-2)] hover:text-[var(--foreground)]/85"
                           }`}
                         >
@@ -642,13 +480,13 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                       ? { color: "#f7f0e1", backgroundColor: "#2a1c12", borderColor: "#2a1c12" }
                       : undefined
                   }
-                  className={`mb-2 flex min-h-11 items-center justify-center rounded-md border px-3 py-2.5 text-center font-mono text-[11px] uppercase tracking-[0.18em] transition sm:min-h-0 sm:py-2 ${
+                  className={`mb-2 flex min-h-11 items-center justify-center rounded-md border px-3 py-2.5 text-center text-[14px] font-medium transition sm:min-h-0 sm:py-2 ${
                     isYearView
                       ? "font-bold"
                       : "border-[var(--border)] text-[var(--muted-2)] hover:border-[var(--border-strong)] hover:text-[var(--foreground)]/85"
                   }`}
                 >
-                  {isYearView ? "all year · viewing" : "view all year"}
+                  {isYearView ? "Viewing the whole year" : "See the whole year"}
                 </Link>
                 <div className="grid grid-cols-4 gap-1.5">
                   {MONTHS.map((month) => {
@@ -665,7 +503,7 @@ export default async function DestinationPage({ params, searchParams }: Destinat
                             ? { color: "#f7f0e1", backgroundColor: "#2a1c12", borderColor: "#2a1c12" }
                             : undefined
                         }
-                        className={`flex min-h-11 items-center justify-center rounded-md border px-2 py-2.5 text-center font-mono text-[11px] uppercase tracking-[0.12em] transition sm:min-h-0 sm:py-2 ${
+                        className={`flex min-h-11 items-center justify-center rounded-md border px-2 py-2.5 text-center text-[14px] font-medium transition sm:min-h-0 sm:py-2 ${
                           isSelected
                             ? "font-bold"
                             : isPeak
@@ -692,8 +530,8 @@ export default async function DestinationPage({ params, searchParams }: Destinat
 function Stat({ label, value, suffix }: { label: string; value: string; suffix?: string }) {
   return (
     <div>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-white/55">{label}</p>
-      <p className="mt-1.5 font-mono text-2xl font-medium text-white md:text-3xl">
+      <p className="text-[13px] font-medium text-white/65">{label}</p>
+      <p className="mt-1 text-2xl font-semibold text-white md:text-3xl">
         {value}
         {suffix ? <span className="ml-1.5 text-base text-white/55">{suffix}</span> : null}
       </p>
@@ -702,23 +540,17 @@ function Stat({ label, value, suffix }: { label: string; value: string; suffix?:
 }
 
 function Section({
-  eyebrow,
   title,
   id,
   children
 }: {
-  eyebrow: string;
   title: string;
   id?: string;
   children: React.ReactNode;
 }) {
   return (
     <section id={id} className={id ? "scroll-mt-20" : undefined}>
-      <div className="mb-7 flex items-center gap-4">
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{eyebrow}</span>
-        <span className="h-px flex-1 bg-[var(--border)]" />
-        <h2 className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)]">{title}</h2>
-      </div>
+      <h2 className="mb-6 text-[24px] font-medium tracking-[-0.01em] text-[var(--foreground)] sm:text-[28px]">{title}</h2>
       {children}
     </section>
   );
@@ -732,13 +564,10 @@ function PullQuote({ children }: { children: React.ReactNode }) {
   );
 }
 
-function SidePanel({ title, index, children }: { title: string; index: string; children: React.ReactNode }) {
+function SidePanel({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <section>
-      <div className="mb-5 flex items-center gap-3 border-b border-[var(--border)] pb-2">
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{index}</span>
-        <h3 className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--foreground)]">{title}</h3>
-      </div>
+      <h3 className="mb-4 border-b border-[var(--border)] pb-2 text-[16px] font-semibold text-[var(--foreground)]">{title}</h3>
       {children}
     </section>
   );
@@ -747,7 +576,7 @@ function SidePanel({ title, index, children }: { title: string; index: string; c
 function Info({ label, value }: { label: string; value: string }) {
   return (
     <div className="flex flex-col gap-1 border-b border-[var(--border)] pb-3 last:border-b-0 last:pb-0">
-      <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{label}</dt>
+      <dt className="text-[13px] font-medium text-[var(--muted)]">{label}</dt>
       <dd className="text-sm leading-6 text-[var(--foreground)]/95">{value}</dd>
     </div>
   );
@@ -792,33 +621,13 @@ function formatEventDate(start: string, end?: string) {
     day: "numeric",
     timeZone: "UTC"
   };
-  const startLabel = startDate.toLocaleDateString("en-US", opts).toLowerCase();
+  const startLabel = startDate.toLocaleDateString("en-US", opts);
   if (!end) return startLabel;
   const endDate = new Date(end);
   if (Number.isNaN(endDate.getTime())) return startLabel;
-  const endLabel = endDate.toLocaleDateString("en-US", opts).toLowerCase();
+  const endLabel = endDate.toLocaleDateString("en-US", opts);
   if (startLabel === endLabel) return startLabel;
   return `${startLabel} → ${endLabel}`;
-}
-
-function formatRunLength(start: string, end: string | undefined, type: string): string | null {
-  if (!end) return null;
-  const s = new Date(start);
-  const e = new Date(end);
-  if (Number.isNaN(s.getTime()) || Number.isNaN(e.getTime())) return null;
-  const days = Math.round((e.getTime() - s.getTime()) / 86400000) + 1;
-  if (days <= 1) return null;
-  if (type === "residency" && days >= 14) {
-    const weeks = Math.round(days / 7);
-    return `${weeks}-week run`;
-  }
-  if (days >= 7 && days < 14) return `${days} days`;
-  if (days >= 2 && days < 7) return `${days} days`;
-  if (days >= 14) {
-    const weeks = Math.round(days / 7);
-    return `recurring · ${weeks} weeks`;
-  }
-  return null;
 }
 
 function formatEditedDate(raw: string | null): string | null {
@@ -831,6 +640,5 @@ function formatEditedDate(raw: string | null): string | null {
       month: "short",
       year: "numeric",
       timeZone: "UTC"
-    })
-    .toLowerCase();
+    });
 }

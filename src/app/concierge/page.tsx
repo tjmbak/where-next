@@ -38,7 +38,7 @@ export default async function ConciergePage() {
       <SiteHeader />
 
       <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">concierge · $199</p>
+        <p className="text-[13px] font-medium text-[var(--muted)]">Concierge · $199</p>
         <h1 className="mt-5 text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           One brief. One trip. Fully planned.
         </h1>
@@ -74,7 +74,7 @@ export default async function ConciergePage() {
                 href="/auth/login?next=/concierge"
                 className="mt-4 inline-flex items-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)]"
               >
-                sign in to continue
+                Sign in to continue
                 <span aria-hidden>→</span>
               </Link>
             </div>

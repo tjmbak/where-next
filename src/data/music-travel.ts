@@ -12,7 +12,7 @@ import type {
 } from "@/types/content";
 import APPROVED_EVENTS_RAW from "./generated/approved-events.slim.json";
 import { EVENT_BLUEPRINTS } from "./event-blueprints";
-import { EDITION_YEAR, SUPPORTED_YEARS } from "./taxonomy";
+import { EDITION_YEAR, SUPPORTED_YEARS, upcomingYearForMonth } from "./taxonomy";
 import { isSearchResultsUrl } from "@/lib/research/event-identity";
 
 // The slim file is the public/runtime overlay (admin metadata stripped).
@@ -2036,21 +2036,54 @@ function bestScoreInRange(slug: string, months: MonthNumber[]) {
   return best;
 }
 
+/**
+ * Events in a city with the given sound across the window starting at
+ * `anchor`, rolling into the next year when the window crosses December.
+ */
+export function countGenreEventsInWindow(
+  slug: string,
+  genre: Genre,
+  months: MonthNumber[],
+  year: number
+) {
+  const anchor = months[0];
+  let count = 0;
+  for (const month of months) {
+    const monthYear = month < anchor ? year + 1 : year;
+    for (const event of getEventsForDestinationInMonth(slug, month, monthYear)) {
+      if (event.genres.includes(genre)) count += 1;
+    }
+  }
+  return count;
+}
+
+/**
+ * A sound matches a city that has events with it in the window, or that is
+ * known for it. Cities with more matching events rank higher.
+ */
 export function getFilteredDestinations(filters: DiscoveryFilters) {
   const months = getMonthsInRange(filters.month, filters.stayLength ?? 1);
+  const year = filters.year ?? upcomingYearForMonth(filters.month);
+  const genre = filters.genre && filters.genre !== "all" ? filters.genre : null;
   return DESTINATIONS.map((destination) => ({
     destination,
-    score: bestScoreInRange(destination.slug, months)
+    score: bestScoreInRange(destination.slug, months),
+    genreEventCount: genre ? countGenreEventsInWindow(destination.slug, genre, months, year) : 0
   }))
-    .filter(({ destination, score }) => {
+    .filter(({ destination, score, genreEventCount }) => {
       if (!score) return false;
-      if (filters.genre && filters.genre !== "all" && !destination.genres.includes(filters.genre)) return false;
+      if (genre && genreEventCount === 0 && !destination.genres.includes(genre)) return false;
       if (filters.vibe && filters.vibe !== "all" && !destination.vibes.includes(filters.vibe)) return false;
       if (filters.budget && filters.budget !== "all" && !budgetMatches(destination.budget, filters.budget)) return false;
       if (filters.region && filters.region !== "all" && destination.region !== filters.region) return false;
       return true;
     })
-    .sort((a, b) => (b.score?.overallScore ?? 0) - (a.score?.overallScore ?? 0));
+    .sort((a, b) => filterRank(b) - filterRank(a))
+    .map(({ destination, score }) => ({ destination, score }));
+}
+
+function filterRank({ score, genreEventCount }: { score?: { overallScore: number }; genreEventCount: number }) {
+  return (score?.overallScore ?? 0) + 3 * Math.min(genreEventCount, 5);
 }
 
 export function getTopDestinations(month: MonthNumber, limit = 6) {

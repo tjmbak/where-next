@@ -8,12 +8,13 @@ import { CommandBar } from "@/components/discovery/CommandBar";
 import { CompareModal } from "@/components/discovery/CompareModal";
 import { ComparePickerTray } from "@/components/discovery/ComparePickerTray";
 import { DestinationRow } from "@/components/discovery/DestinationRow";
+import { ComingUpRow } from "@/components/discovery/ComingUpRow";
 import { EditorsPickStrip } from "@/components/discovery/EditorsPickStrip";
 import { WelcomeBack } from "@/components/home/WelcomeBack";
 import { IntentChips } from "@/components/discovery/IntentChips";
 import { SiteFooter } from "@/components/discovery/SiteFooter";
-import { MobileMapSheet } from "@/components/map/MobileMapSheet";
-import { WorldMap } from "@/components/map/WorldMap";
+import { pickHeroForMonth } from "@/lib/hero-images";
+import { MapSheet } from "@/components/map/MapSheet";
 import { usePreview } from "@/components/preview/PreviewContext";
 import { useToast } from "@/components/toast/Toaster";
 import {
@@ -147,7 +148,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
   const preview = usePreview();
   const toaster = useToast();
 
-  const filters = useMemo<DiscoveryFiltersValue>(() => {
+  const urlFilters = useMemo<DiscoveryFiltersValue>(() => {
     // Default to the current month (not a hard-coded January) so the first
     // paint already shows the right month and there's no visible jump when
     // the URL-sync effect runs.
@@ -162,6 +163,21 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
       region: parseEnum(initial.region, REGIONS)
     };
   }, [initial]);
+
+  // Filters apply locally right away; the URL catches up after the server
+  // round-trip. Until it reflects the latest write, intermediate URL states
+  // are ignored so quick successive taps don't undo each other.
+  const [filters, setFilters] = useState(urlFilters);
+  const [syncedUrlFilters, setSyncedUrlFilters] = useState(urlFilters);
+  const [pendingQs, setPendingQs] = useState<string | null>(null);
+  if (urlFilters !== syncedUrlFilters) {
+    setSyncedUrlFilters(urlFilters);
+    const qs = filtersToParams(urlFilters);
+    if (pendingQs === null || qs === pendingQs) {
+      setFilters(urlFilters);
+      setPendingQs(null);
+    }
+  }
 
   const monthsInRange = useMemo(
     () => getMonthsInRange(filters.month, filters.stayLength ?? 1),
@@ -195,6 +211,10 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
       return b.score.overallScore - a.score.overallScore;
     });
   }, [filteredDestinations, forYouActive, affinity]);
+  const comingUpSlugs = useMemo(
+    () => filteredDestinations.map(({ destination }) => destination.slug),
+    [filteredDestinations]
+  );
 
   const savedCities = useMemo(
     () => saved.map((slug) => getDestinationBySlug(slug)).filter(Boolean) as Destination[],
@@ -219,6 +239,8 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
   const writeFiltersToUrl = useCallback(
     (next: DiscoveryFiltersValue) => {
       const qs = filtersToParams(next);
+      setFilters(next);
+      if (qs !== window.location.search.replace(/^\?/, "")) setPendingQs(qs);
       router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
     },
     [pathname, router]
@@ -239,10 +261,16 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
   const openPreview = useCallback(
     (slug: string) => {
       handleSelect(slug);
-      preview?.open({ kind: "destination", destinationSlug: slug, month: filters.month, year: filters.year });
+      preview?.open({
+        kind: "destination",
+        destinationSlug: slug,
+        month: filters.month,
+        year: filters.year,
+        siblings: displayedDestinations.map(({ destination }) => destination.slug)
+      });
       trackEvent("preview_open", { slug, month: filters.month });
     },
-    [handleSelect, preview, filters.month, filters.year]
+    [handleSelect, preview, filters.month, filters.year, displayedDestinations]
   );
 
   useEffect(() => {
@@ -337,6 +365,12 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
         }
         setSelectedSlug(action.slug);
         setSavedOnly(false);
+        preview?.open({
+          kind: "destination",
+          destinationSlug: action.slug,
+          month: action.month ?? filters.month,
+          year: filters.year
+        });
       } else if (action.kind === "applyFilter") {
         if (action.field === "genre") {
           handleFilterChange({ ...filters, genre: action.value as Genre });
@@ -345,7 +379,19 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
         }
       }
     },
-    [filters, handleFilterChange]
+    [filters, handleFilterChange, preview]
+  );
+
+  const popularCities = useMemo(
+    () =>
+      displayedDestinations.slice(0, 4).map(({ destination, score }) => ({
+        slug: destination.slug,
+        city: destination.city,
+        country: destination.country,
+        image: pickHeroForMonth(destination, filters.month),
+        score: score.overallScore
+      })),
+    [displayedDestinations, filters.month]
   );
 
   const handleSearchIntent = useCallback(
@@ -439,10 +485,10 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
       <section className="pt-6 sm:pt-8 lg:pt-12">
         <div className="grid gap-6 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)] lg:items-end lg:gap-14">
           <div>
-            <p className="animate-fade-in font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]" style={{ animationDelay: "0.05s" }}>
-              <span className="text-[var(--foreground)]">{getMonthLabel(filters.month).toLowerCase()} {filters.year ?? upcomingYearForMonth(filters.month)}</span>
-              {"  ·  "}
-              the music-travel index
+            <p className="animate-fade-in text-[13px] font-medium text-[var(--muted)]" style={{ animationDelay: "0.05s" }}>
+              <span className="text-[var(--foreground)]">{getMonthLabel(filters.month)} {filters.year ?? upcomingYearForMonth(filters.month)}</span>
+              {" · "}
+              The music-travel index
             </p>
             <h1 className="animate-fade-in mt-3 text-[2rem] font-semibold sm:mt-5 sm:text-[clamp(2.25rem,5.5vw,4.5rem)] leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]" style={{ animationDelay: "0.18s" }}>
               Where should
@@ -456,16 +502,6 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
           </p>
         </div>
 
-        <div className="animate-fade-in relative -mx-10 mt-8 hidden sm:block lg:mx-0 lg:mt-10" style={{ animationDelay: "0.28s" }}>
-          <WorldMap
-            month={filters.month}
-            destinations={filteredDestinations}
-            selectedSlug={effectiveSelectedSlug}
-            hoveredSlug={hoveredSlug}
-            onSelect={openPreview}
-            onHoverCity={setHoveredSlug}
-          />
-        </div>
       </section>
 
       <CommandBar
@@ -481,6 +517,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
         onClearAll={clearAllFilters}
         onSearchApply={handleSearchApply}
         onSearchIntent={handleSearchIntent}
+        popularCities={popularCities}
       />
 
       {activeIntent ? (
@@ -512,9 +549,9 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
               <Link
                 href={tripSeedHref}
                 onClick={() => trackEvent("trip_from_saved_click", { count: savedCount })}
-                className="group inline-flex items-center gap-2 rounded-full border border-[var(--signal)]/50 bg-[var(--signal)]/10 px-3.5 py-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--signal)] transition hover:bg-[var(--signal)]/15 hover:border-[var(--signal)]/70"
+                className="group inline-flex items-center gap-2 rounded-full border border-[var(--signal)]/50 bg-[var(--signal)]/10 px-3.5 py-1.5 text-[13px] font-medium text-[var(--signal)] transition hover:bg-[var(--signal)]/15 hover:border-[var(--signal)]/70"
               >
-                build a trip
+                Build a trip
                 <span aria-hidden className="transition group-hover:translate-x-0.5">→</span>
               </Link>
             </div>
@@ -531,6 +568,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
           month={filters.month}
           year={filters.year}
           monthsInRange={monthsInRange}
+          genre={filters.genre && filters.genre !== "all" ? filters.genre : undefined}
           isSaved={isSaved}
           onToggleSaved={handleToggleSaved}
           trendingSlugs={trendingSlugs}
@@ -552,12 +590,20 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
         />
       </section>
 
+      {!savedOnly ? (
+        <section className="mt-10">
+          <ComingUpRow month={filters.month} year={filters.year ?? upcomingYearForMonth(filters.month)} slugs={comingUpSlugs}
+            genre={filters.genre && filters.genre !== "all" ? filters.genre : undefined}
+          />
+        </section>
+      ) : null}
+
       <section className="mt-10">
         <EditorsPickStrip month={filters.month} year={filters.year} onSelect={handleSelect} />
       </section>
     </main>
     <SiteFooter month={filters.month} year={filters.year} />
-    <MobileMapSheet
+    <MapSheet
       month={filters.month}
       destinations={filteredDestinations}
       selectedSlug={effectiveSelectedSlug}

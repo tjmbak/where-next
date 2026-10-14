@@ -40,23 +40,14 @@ export function StatsPanel({
       {anchorMixOnly ? null : (
         <>
           <div className="grid grid-cols-3 gap-4">
-            <Stat label="days" value={String(itinerary.days.length)} />
-            <Stat label="cities" value={String(cities)} />
-            <Stat
-              label="vibes"
-              value={
-                itinerary.vibeTags.length
-                  ? itinerary.vibeTags.length.toString().padStart(2, "0")
-                  : "—"
-              }
-            />
+            <Stat label="Days" value={String(itinerary.days.length)} />
+            <Stat label="Cities" value={String(cities)} />
+            <Stat label="Vibes" value={itinerary.vibeTags.length ? String(itinerary.vibeTags.length) : "—"} />
           </div>
 
           <div className="mt-5 border-t border-[var(--border)] pt-4">
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              all-in · per person
-            </p>
-            <p className="mt-2 font-mono text-2xl font-medium tracking-tight text-[var(--foreground)]">
+            <p className="text-[13px] font-medium text-[var(--muted)]">All-in, per person</p>
+            <p className="mt-1 text-2xl font-semibold tracking-tight tabular-nums text-[var(--foreground)]">
               $<CountUp value={totalLow} />
               <span className="px-1 text-[var(--muted-2)]">–</span>
               $<CountUp value={totalHigh} />
@@ -70,9 +61,7 @@ export function StatsPanel({
           anchorMixOnly ? "" : "mt-5 border-t border-[var(--border)] pt-4"
         }
       >
-        <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          anchor mix
-        </p>
+        <p className="text-[13px] font-medium text-[var(--muted)]">What each day is built around</p>
         <div className="mt-3 flex h-2 overflow-hidden rounded-full bg-[var(--border-strong)]">
           {eventDays > 0 ? (
             <div
@@ -93,25 +82,25 @@ export function StatsPanel({
             />
           ) : null}
         </div>
-        <ul className="mt-3 grid grid-cols-3 gap-2 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
+        <ul className="mt-3 grid grid-cols-3 gap-2 text-[13px] text-[var(--muted)]">
           <li className="flex items-center gap-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-[var(--signal)]" />
-            <span>events {eventDays}</span>
+            <span>Events {eventDays}</span>
           </li>
           <li className="flex items-center gap-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-[var(--foreground)]/65" />
-            <span>venues {venueDays}</span>
+            <span>Venues {venueDays}</span>
           </li>
           <li className="flex items-center gap-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-[var(--muted-2)]" />
-            <span>open {freeDays}</span>
+            <span>Open {freeDays}</span>
           </li>
         </ul>
       </div>
 
       {itinerary.startDate && !anchorMixOnly ? (
-        <p className="mt-5 border-t border-[var(--border)] pt-4 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-          {itinerary.startDate} → {itinerary.endDate}
+        <p className="mt-5 border-t border-[var(--border)] pt-4 text-[13px] text-[var(--muted)]">
+          {formatDay(itinerary.startDate)} – {formatDay(itinerary.endDate)}
         </p>
       ) : null}
     </section>
@@ -121,10 +110,8 @@ export function StatsPanel({
 function Stat({ label, value }: { label: string; value: string }) {
   return (
     <div>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-        {label}
-      </p>
-      <p className="mt-1 font-mono text-xl font-medium tracking-tight text-[var(--foreground)]">
+      <p className="text-[13px] font-medium text-[var(--muted)]">{label}</p>
+      <p className="mt-1 text-xl font-semibold tracking-tight tabular-nums text-[var(--foreground)]">
         {value}
       </p>
     </div>
@@ -161,4 +148,14 @@ function CountUp({ value }: { value: number }) {
   }, [value]);
 
   return <>{display.toLocaleString()}</>;
+}
+
+function formatDay(iso: string | null | undefined): string {
+  if (!iso) return "";
+  return new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-US", {
+    weekday: "short",
+    month: "short",
+    day: "numeric",
+    timeZone: "UTC"
+  });
 }

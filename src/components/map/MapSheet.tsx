@@ -5,7 +5,7 @@ import { WorldMap, toPercent } from "@/components/map/WorldMap";
 import { getMonthLabel } from "@/data/taxonomy";
 import type { Destination, MonthNumber, MonthlyDestinationScore } from "@/types/content";
 
-type MobileMapSheetProps = {
+type MapSheetProps = {
   month: MonthNumber;
   destinations: Array<{ destination: Destination; score: MonthlyDestinationScore }>;
   selectedSlug?: string;
@@ -15,10 +15,10 @@ type MobileMapSheetProps = {
 };
 
 // A world map is ~2.5:1, so at phone width it's a strip with unreadable dots.
-// Render it wide and let it pan instead.
+// Below `lg` render it at this width and let it pan; above, it fits the screen.
 const MAP_WIDTH = 900;
 
-export function MobileMapSheet({ month, destinations, selectedSlug, onSelect, pillHidden = false }: MobileMapSheetProps) {
+export function MapSheet({ month, destinations, selectedSlug, onSelect, pillHidden = false }: MapSheetProps) {
   const [open, setOpen] = useState(false);
   const scrollerRef = useRef<HTMLDivElement | null>(null);
 
@@ -53,7 +53,7 @@ export function MobileMapSheet({ month, destinations, selectedSlug, onSelect, pi
         <button
           type="button"
           onClick={openSheet}
-          className="fixed bottom-[calc(env(safe-area-inset-bottom)+5.5rem)] left-1/2 z-40 inline-flex h-11 -translate-x-1/2 items-center gap-2 rounded-full bg-[var(--foreground)] px-5 text-[14px] font-medium text-[var(--background)] shadow-[0_12px_30px_-10px_rgba(28,22,18,0.6)] transition active:scale-95 sm:hidden"
+          className="wn-hide-while-searching fixed bottom-[calc(env(safe-area-inset-bottom)+5.5rem)] left-1/2 z-40 inline-flex h-11 -translate-x-1/2 items-center gap-2 rounded-full bg-[var(--foreground)] px-5 text-[14px] font-medium text-[var(--background)] shadow-[0_12px_30px_-10px_rgba(28,22,18,0.6)] transition hover:scale-105 active:scale-95 md:bottom-8"
         >
           Map
           <svg aria-hidden viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinejoin="round">
@@ -64,12 +64,12 @@ export function MobileMapSheet({ month, destinations, selectedSlug, onSelect, pi
       ) : null}
 
       {open ? (
-        <div role="dialog" aria-modal="true" aria-label="Map of cities" className="fixed inset-0 z-[60] flex flex-col bg-[var(--background)] sm:hidden">
-          <div className="flex items-center justify-between border-b border-[var(--border)] px-5 pb-3 pt-[calc(env(safe-area-inset-top)+0.875rem)]">
+        <div role="dialog" aria-modal="true" aria-label="Map of cities" className="fixed inset-0 z-[60] flex flex-col bg-[var(--background)]">
+          <div className="flex items-center justify-between border-b border-[var(--border)] px-5 pb-3 pt-[calc(env(safe-area-inset-top)+0.875rem)] sm:px-10">
             <div>
               <p className="text-[16px] font-medium text-[var(--foreground)]">{getMonthLabel(month)}</p>
-              <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                {destinations.length} cities · drag to explore
+              <p className="text-[13px] font-medium text-[var(--muted)]">
+                {destinations.length} cities<span className="lg:hidden"> · Drag to explore</span>
               </p>
             </div>
             <button
@@ -84,7 +84,7 @@ export function MobileMapSheet({ month, destinations, selectedSlug, onSelect, pi
             </button>
           </div>
           <div ref={scrollerRef} className="wn-swipe flex flex-1 items-center overflow-x-auto overscroll-contain">
-            <div style={{ width: MAP_WIDTH }} className="shrink-0 px-4">
+            <div style={{ "--map-w": `${MAP_WIDTH}px` } as React.CSSProperties} className="w-[var(--map-w)] shrink-0 px-4 lg:mx-auto lg:w-full lg:max-w-[1280px] lg:px-10">
               <WorldMap
                 month={month}
                 destinations={destinations}

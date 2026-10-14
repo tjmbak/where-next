@@ -1,21 +1,13 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { MonthScrubber } from "@/components/filters/MonthScrubber";
-import { FilterPopover } from "@/components/filters/FilterPopover";
-import { ScenePopover } from "@/components/filters/ScenePopover";
-import { AskSearch } from "@/components/discovery/AskSearch";
-import { BUDGET_LABELS, REGIONS } from "@/data/taxonomy";
+import { BUDGET_NAMES, FiltersSheet, countActiveFilters } from "@/components/filters/FiltersSheet";
+import { AskSearch, type PopularCity } from "@/components/discovery/AskSearch";
+import { BUDGET_LABELS, GENRE_LABELS, VIBE_LABELS, getMonthLabel } from "@/data/taxonomy";
 import type { SearchAction } from "@/lib/search";
 import type { SearchIntent } from "@/lib/search-intent";
-import type {
-  Budget,
-  DiscoveryFilters as DiscoveryFiltersValue,
-  Genre,
-  MonthNumber,
-  Region,
-  Vibe
-} from "@/types/content";
+import type { DiscoveryFilters as DiscoveryFiltersValue, MonthNumber } from "@/types/content";
 
 type CommandBarProps = {
   value: DiscoveryFiltersValue;
@@ -30,6 +22,7 @@ type CommandBarProps = {
   onClearAll: () => void;
   onSearchApply: (action: SearchAction, query: string) => void;
   onSearchIntent: (intent: SearchIntent) => void;
+  popularCities?: PopularCity[];
 };
 
 export function CommandBar({
@@ -44,28 +37,34 @@ export function CommandBar({
   onToggleSavedOnly,
   onClearAll,
   onSearchApply,
-  onSearchIntent
+  onSearchIntent,
+  popularCities
 }: CommandBarProps) {
-  const budgetOptions = (Object.keys(BUDGET_LABELS) as Budget[]).map((budget) => ({
-    label: `${BUDGET_LABELS[budget]} ${budget}`,
-    value: budget
-  }));
-  const regionOptions = (REGIONS as Region[]).map((region) => ({
-    label: region,
-    value: region
-  }));
+  const dirtyCount = countActiveFilters(value);
+  const [sheetOpen, setSheetOpen] = useState(false);
+  const closeSheet = useCallback(() => setSheetOpen(false), []);
+  const stayLength = value.stayLength ?? 1;
 
-  const stayLength = (value.stayLength ?? 1) as 1 | 2 | 3;
-  const dirtyCount =
-    [value.genre, value.vibe, value.budget, value.region].filter((v) => v && v !== "all")
-      .length + (stayLength > 1 ? 1 : 0);
-
-  // Progressive disclosure: power filters stay hidden until asked for (or
-  // until any of them is active, e.g. arriving via a filtered URL).
-  const [refineOpen, setRefineOpen] = useState(false);
-  const showRefine = refineOpen || dirtyCount > 0;
-
-  const nextStay = (stayLength === 3 ? 1 : ((stayLength + 1) as 1 | 2 | 3));
+  const activeChips: Array<{ key: string; label: string; clear: () => void }> = [];
+  if (value.genre && value.genre !== "all") {
+    activeChips.push({ key: "genre", label: GENRE_LABELS[value.genre], clear: () => onChange({ ...value, genre: "all" }) });
+  }
+  if (value.vibe && value.vibe !== "all") {
+    activeChips.push({ key: "vibe", label: VIBE_LABELS[value.vibe], clear: () => onChange({ ...value, vibe: "all" }) });
+  }
+  if (value.budget && value.budget !== "all") {
+    activeChips.push({
+      key: "budget",
+      label: `${BUDGET_LABELS[value.budget]} ${BUDGET_NAMES[value.budget]}`,
+      clear: () => onChange({ ...value, budget: "all" })
+    });
+  }
+  if (value.region && value.region !== "all") {
+    activeChips.push({ key: "region", label: value.region, clear: () => onChange({ ...value, region: "all" }) });
+  }
+  if (stayLength > 1) {
+    activeChips.push({ key: "stay", label: `${stayLength} months`, clear: () => onChange({ ...value, stayLength: 1 }) });
+  }
 
   const sentinelRef = useRef<HTMLDivElement | null>(null);
   const [stuck, setStuck] = useState(false);
@@ -81,50 +80,48 @@ export function CommandBar({
 
   return (
     <>
-    <div ref={sentinelRef} aria-hidden className="mt-5 h-px sm:mt-12 lg:mt-14" />
+    <div ref={sentinelRef} aria-hidden className="mt-5 h-px sm:mt-10" />
     <div
-      className={`sticky top-0 z-40 -mx-6 border-y border-[var(--border)] px-6 transition-[padding,background-color,box-shadow] duration-300 sm:-mx-10 sm:px-10 ${
+      className={`sticky top-0 z-40 -mx-6 px-6 py-3 before:pointer-events-none before:absolute before:inset-y-0 before:left-1/2 before:-z-10 before:w-screen before:-translate-x-1/2 before:border-y before:border-[var(--border)] before:transition-[background-color,box-shadow] before:duration-300 sm:-mx-10 sm:px-10 ${
         stuck
-          ? "border-b-white/60 bg-[var(--background)]/70 py-2.5 shadow-[inset_0_-1px_0_rgba(28,22,18,0.05),0_14px_32px_-18px_rgba(28,22,18,0.35)] backdrop-blur-2xl backdrop-saturate-[1.8]"
-          : "bg-[var(--background)] py-4"
+          ? "before:border-t-transparent before:bg-[var(--background)]/75 before:shadow-[0_14px_32px_-18px_rgba(28,22,18,0.35)] before:backdrop-blur-2xl before:backdrop-saturate-[1.8]"
+          : ""
       }`}
     >
-      <div className={`flex flex-col transition-[gap] duration-300 ${stuck ? "gap-2" : "gap-3"}`}>
+      <div className="flex flex-col gap-3">
         <MonthScrubber
-          compact={stuck}
           value={value.month}
           monthsInRange={monthsInRange}
           onChange={onMonthChange}
         />
 
         <div className="flex flex-wrap items-center gap-2">
-          <AskSearch onApply={onSearchApply} onIntent={onSearchIntent} />
-          <span aria-hidden className="hidden h-5 w-px bg-[var(--border)] sm:inline-block" />
+          <AskSearch
+            onApply={onSearchApply}
+            onIntent={onSearchIntent}
+            popular={popularCities}
+            monthLabel={getMonthLabel(value.month)}
+          />
 
           <button
             type="button"
-            aria-expanded={showRefine}
-            onClick={() => setRefineOpen((v) => !v)}
-            className={`inline-flex items-center gap-2 rounded-full border px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.18em] transition ${
-              showRefine
-                ? "border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]"
-                : "border-[var(--border-strong)] bg-[var(--surface)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+            aria-haspopup="dialog"
+            aria-expanded={sheetOpen}
+            onClick={() => setSheetOpen(true)}
+            className={`inline-flex h-10 items-center gap-2 rounded-full border px-4 text-[14px] font-medium transition active:scale-95 ${
+              dirtyCount > 0
+                ? "border-[var(--foreground)] bg-[var(--surface-2)] text-[var(--foreground)] shadow-[inset_0_0_0_1px_var(--foreground)]"
+                : "border-[var(--border-strong)] bg-[var(--surface)] text-[var(--foreground)] hover:border-[var(--foreground)]"
             }`}
           >
-            <svg aria-hidden viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round">
+            <svg aria-hidden viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round">
               <path d="M4 7h10M18 7h2M4 17h4M12 17h8" />
               <circle cx="16" cy="7" r="2" />
               <circle cx="10" cy="17" r="2" />
             </svg>
-            refine
+            Filters
             {dirtyCount > 0 ? (
-              <span
-                className={`inline-flex h-4 min-w-4 items-center justify-center rounded-full px-1 text-[9px] ${
-                  showRefine
-                    ? "bg-[var(--background)] text-[var(--foreground)]"
-                    : "bg-[var(--signal)] text-white"
-                }`}
-              >
+              <span className="inline-flex h-5 min-w-5 items-center justify-center rounded-full bg-[var(--foreground)] px-1.5 text-[11px] font-semibold text-[var(--background)]">
                 {dirtyCount}
               </span>
             ) : null}
@@ -135,86 +132,59 @@ export function CommandBar({
               type="button"
               aria-pressed={savedOnly}
               onClick={onToggleSavedOnly}
-              className={`group inline-flex items-center gap-2 rounded-full border px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.18em] transition ${
+              className={`group inline-flex h-10 items-center gap-2 rounded-full border px-4 text-[14px] font-medium transition active:scale-95 ${
                 savedOnly
-                  ? "border-[var(--signal)]/55 bg-[var(--signal)]/10 text-[var(--foreground)] hover:border-[var(--signal)]"
-                  : "border-[var(--border-strong)] bg-[var(--surface)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                  ? "border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]"
+                  : "border-[var(--border-strong)] bg-[var(--surface)] text-[var(--foreground)] hover:border-[var(--foreground)]"
               }`}
             >
-              <span aria-hidden className={savedOnly ? "text-[var(--signal)]" : "text-[var(--muted)]"}>
-                {savedOnly ? "♥" : "♡"}
-              </span>
-              <span>saved</span>
-              <span className="text-[var(--foreground)]">{savedCount}</span>
+              <span aria-hidden className={savedOnly ? "" : "text-[var(--signal)]"}>{savedOnly ? "♥" : "♡"}</span>
+              Saved
+              <span className={savedOnly ? "opacity-70" : "text-[var(--muted)]"}>{savedCount}</span>
             </button>
           ) : null}
 
-          <span className="ml-auto hidden font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] sm:inline">
-            <span className="text-[var(--foreground)]">{liveCount.toString().padStart(2, "0")}</span> cities ·{" "}
-            <span className="text-[var(--foreground)]">{peakCount.toString().padStart(2, "0")}</span> peak
+          <span className="ml-auto hidden text-[13px] text-[var(--muted)] lg:inline">
+            <span className="font-medium text-[var(--foreground)]">{liveCount}</span> cities ·{" "}
+            <span className="font-medium text-[var(--foreground)]">{peakCount}</span> at their peak
           </span>
         </div>
 
-        {showRefine ? (
-          <div className="flex flex-wrap items-center gap-2 border-t border-[var(--border)] pt-3">
-            <ScenePopover
-              value={{
-                genre: (value.genre ?? "all") as Genre | "all",
-                vibe: (value.vibe ?? "all") as Vibe | "all"
-              }}
-              onChange={(next) =>
-                onChange({ ...value, genre: next.genre, vibe: next.vibe })
-              }
-            />
-            <FilterPopover
-              label="budget"
-              value={value.budget ?? "all"}
-              defaultValue="all"
-              defaultLabel="any"
-              options={budgetOptions}
-              onChange={(v) => onChange({ ...value, budget: v as Budget | "all" })}
-            />
-            <FilterPopover
-              label="region"
-              value={value.region ?? "all"}
-              defaultValue="all"
-              options={regionOptions}
-              onChange={(v) => onChange({ ...value, region: v as Region | "all" })}
-            />
+        {activeChips.length > 0 ? (
+          <div className="flex flex-wrap items-center gap-2">
+            {activeChips.map((chip) => (
+              <button
+                key={chip.key}
+                type="button"
+                onClick={chip.clear}
+                aria-label={`Remove ${chip.label} filter`}
+                className="group inline-flex h-8 items-center gap-1.5 rounded-full bg-[var(--surface-2)] pl-3 pr-2 text-[13px] font-medium text-[var(--foreground)] transition hover:bg-[var(--border)]"
+              >
+                {chip.label}
+                <span aria-hidden className="inline-flex h-4 w-4 items-center justify-center rounded-full text-[var(--muted)] group-hover:text-[var(--foreground)]">
+                  ×
+                </span>
+              </button>
+            ))}
             <button
               type="button"
-              onClick={() => onChange({ ...value, stayLength: nextStay })}
-              aria-label={`stay length: ${stayLength} ${stayLength === 1 ? "month" : "months"}, click to change`}
-              className={`group inline-flex items-center gap-1.5 rounded-full border px-2.5 py-1.5 font-mono text-[10px] uppercase tracking-[0.18em] transition ${
-                stayLength > 1
-                  ? "border-[var(--signal)]/55 bg-[var(--signal)]/10 text-[var(--foreground)] hover:border-[var(--signal)]"
-                  : "border-[var(--border-strong)] bg-[var(--surface)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
-              }`}
+              onClick={onClearAll}
+              className="ml-1 text-[13px] font-medium text-[var(--muted)] underline underline-offset-4 transition hover:text-[var(--foreground)]"
             >
-              <span className="text-[var(--muted)]">stay</span>
-              <span className="text-[var(--foreground)]">
-                {stayLength} {stayLength === 1 ? "month" : "months"}
-              </span>
-              <span aria-hidden className="text-[var(--muted-2)] group-hover:text-[var(--foreground)]">↻</span>
+              Clear all
             </button>
-
-            {dirtyCount > 0 ? (
-              <button
-                type="button"
-                onClick={() => {
-                  onClearAll();
-                  setRefineOpen(false);
-                }}
-                className="ml-1 inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-              >
-                <span aria-hidden>↺</span>
-                clear all
-              </button>
-            ) : null}
           </div>
         ) : null}
       </div>
     </div>
+    <FiltersSheet
+      open={sheetOpen}
+      onClose={closeSheet}
+      value={value}
+      onChange={onChange}
+      onClearAll={onClearAll}
+      resultCount={liveCount}
+    />
     </>
   );
 }

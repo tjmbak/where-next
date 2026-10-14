@@ -1,8 +1,7 @@
 "use client";
 
-import { useMemo, useRef } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef } from "react";
 import { MONTHS, getCurrentMonth } from "@/data/taxonomy";
-import { MONTHLY_DESTINATION_SCORES } from "@/data/music-travel";
 import type { MonthNumber } from "@/types/content";
 
 type MonthScrubberProps = {
@@ -11,7 +10,6 @@ type MonthScrubberProps = {
   monthsInRange?: MonthNumber[];
   stayLength?: 1 | 2 | 3;
   onStayChange?: (next: 1 | 2 | 3) => void;
-  compact?: boolean;
 };
 
 /**
@@ -23,20 +21,8 @@ export function MonthScrubber({
   onChange,
   monthsInRange,
   stayLength = 1,
-  onStayChange,
-  compact = false
+  onStayChange
 }: MonthScrubberProps) {
-  const counts = useMemo(() => {
-    const active = new Array(12).fill(0);
-    const peak = new Array(12).fill(0);
-    for (const score of MONTHLY_DESTINATION_SCORES) {
-      const idx = score.month - 1;
-      active[idx] += 1;
-      if (score.overallScore >= 90) peak[idx] += 1;
-    }
-    return { active, peak };
-  }, []);
-
   const slots = useMemo(() => {
     const start = getCurrentMonth();
     const startYear = new Date().getFullYear();
@@ -62,8 +48,56 @@ export function MonthScrubber({
     return `${start} – ${end}`;
   }, [monthsInRange]);
 
-  const maxActive = Math.max(1, ...counts.active);
   const containerRef = useRef<HTMLDivElement | null>(null);
+  const trackRef = useRef<HTMLDivElement | null>(null);
+  const innerRef = useRef<HTMLDivElement | null>(null);
+  const lensRef = useRef<HTMLSpanElement | null>(null);
+  const hoverRef = useRef<HTMLSpanElement | null>(null);
+  const placedRef = useRef(false);
+
+  useLayoutEffect(() => {
+    const place = (still: boolean) => {
+      const lens = lensRef.current;
+      const chip = innerRef.current?.querySelector<HTMLElement>(`[data-month="${value}"]`);
+      if (!lens || !chip) return;
+      if (still) lens.dataset.still = "";
+      lens.style.left = `${chip.offsetLeft}px`;
+      lens.style.width = `${chip.offsetWidth}px`;
+      lens.style.opacity = "1";
+      if (still) requestAnimationFrame(() => delete lens.dataset.still);
+    };
+    place(!placedRef.current);
+    placedRef.current = true;
+    if (typeof ResizeObserver === "undefined" || !innerRef.current) return;
+    const observer = new ResizeObserver(() => place(true));
+    observer.observe(innerRef.current);
+    return () => observer.disconnect();
+  }, [value]);
+
+  useEffect(() => {
+    const track = trackRef.current;
+    const chip = innerRef.current?.querySelector<HTMLElement>(`[data-month="${value}"]`);
+    if (!track || !chip) return;
+    const left = chip.offsetLeft;
+    const right = left + chip.offsetWidth;
+    if (left < track.scrollLeft || right > track.scrollLeft + track.clientWidth) {
+      track.scrollTo({ left: Math.max(0, left - 24), behavior: "smooth" });
+    }
+  }, [value]);
+
+  function showHover(target: HTMLElement) {
+    const hover = hoverRef.current;
+    if (!hover) return;
+    if (hover.style.opacity !== "1") hover.dataset.still = "";
+    hover.style.left = `${target.offsetLeft}px`;
+    hover.style.width = `${target.offsetWidth}px`;
+    hover.style.opacity = "1";
+    requestAnimationFrame(() => delete hover.dataset.still);
+  }
+
+  function hideHover() {
+    if (hoverRef.current) hoverRef.current.style.opacity = "0";
+  }
 
   function focusMonth(month: MonthNumber) {
     const target = containerRef.current?.querySelector<HTMLButtonElement>(`[data-month="${month}"]`);
@@ -90,108 +124,62 @@ export function MonthScrubber({
       {rangeLabel || onStayChange ? (
         <div className="flex items-center gap-3">
           {rangeLabel ? (
-            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              months · <span className="text-[var(--foreground)]">{rangeLabel}</span>
+            <span className="text-[13px] font-medium text-[var(--muted)]">
+              Months · <span className="text-[var(--foreground)]">{rangeLabel}</span>
             </span>
           ) : null}
           {onStayChange ? <StayCycleButton stayLength={stayLength} onChange={onStayChange} /> : null}
         </div>
       ) : null}
 
-      <div className="wn-swipe -mx-1 overflow-x-auto px-1 sm:mx-0 sm:overflow-visible sm:px-0">
-      <div
-        role="radiogroup"
-        aria-label="Select month"
-        className="grid min-w-[620px] grid-cols-12 overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--surface)]/40 sm:min-w-0"
-      >
-        {slots.map((slot) => {
-          const month = MONTHS[slot.month - 1];
-          const isActive = slot.month === value;
-          const isInRange = !isActive && rangeSet.has(slot.month);
-          const startsYear = slot.index > 0 && slot.month === 1;
-          const activeRatio = counts.active[slot.month - 1] / maxActive;
-          const peakRatio = counts.peak[slot.month - 1] / maxActive;
-          const peakHeight = peakRatio * 100;
-          const stackHeight = Math.max(0, activeRatio - peakRatio) * 100;
-          return (
-            <button
-              key={`${slot.year}-${slot.month}`}
-              data-month={slot.month}
-              type="button"
-              role="radio"
-              aria-checked={isActive}
-              aria-label={`${month.label} ${slot.year}`}
-              tabIndex={isActive ? 0 : -1}
-              onClick={() => onChange(slot.month)}
-              onKeyDown={(event) => handleKeyDown(event, slot.index)}
-              className={`group relative flex flex-col items-center justify-end px-1 transition-[padding,background-color] duration-300 focus:outline-none ${
-                compact ? "gap-0 py-2" : "gap-2 pb-2.5 pt-3"
-              }  focus-visible:bg-[var(--surface)] ${
-                startsYear ? "border-l border-[var(--border)] " : ""
-              }${
-                isActive
-                  ? "bg-[var(--surface-2)]"
-                  : isInRange
-                    ? "bg-[var(--signal)]/10"
-                    : "bg-transparent hover:bg-[var(--surface)]"
-              }`}
-            >
-              {startsYear ? (
-                <span
-                  aria-hidden
-                  className="absolute left-1.5 top-1 font-mono text-[8px] tracking-[0.12em] text-[var(--muted-2)]"
-                >
-                  &rsquo;{String(slot.year).slice(2)}
-                </span>
-              ) : null}
-              <div
-                aria-hidden={compact}
-                className={`relative w-full overflow-hidden transition-[height,opacity] duration-300 ${
-                  compact ? "h-0 opacity-0" : "h-9 opacity-100"
-                }`}
-              >
-                <span
-                  aria-hidden
-                  className="absolute left-1/2 w-1.5 -translate-x-1/2 rounded-full transition-[height,opacity,background] duration-300"
-                  style={{
-                    bottom: 0,
-                    height: `${peakHeight}%`,
-                    background: "var(--signal)",
-                    opacity: isActive ? 1 : isInRange ? 0.85 : 0.5
-                  }}
-                />
-                <span
-                  aria-hidden
-                  className="absolute left-1/2 w-1.5 -translate-x-1/2 rounded-full transition-[height,opacity,bottom,background] duration-300"
-                  style={{
-                    bottom: `${peakHeight}%`,
-                    height: `${stackHeight}%`,
-                    background: "var(--muted)",
-                    opacity: isActive ? 0.7 : isInRange ? 0.55 : 0.25
-                  }}
-                />
-              </div>
+      <div className="-mx-6 px-6 sm:-mx-10 sm:px-10 lg:mx-0 lg:px-0">
+        <div className="wn-glass w-fit max-w-full rounded-full p-1">
+          <div
+            ref={trackRef}
+            role="radiogroup"
+            aria-label="Select month"
+            onMouseLeave={hideHover}
+            className="wn-swipe overflow-x-auto rounded-full"
+          >
+            <div ref={innerRef} className="relative flex w-max gap-0.5">
               <span
-                className={`font-mono text-[10px] uppercase tracking-[0.14em] transition ${
-                  isActive || isInRange
-                    ? "text-[var(--foreground)]"
-                    : "text-[var(--muted)] group-hover:text-[var(--foreground)]"
-                }`}
-              >
-                {slot.index === 0 ? "now" : month.shortLabel.toLowerCase()}
-              </span>
-              {isActive ? (
-                <span
-                  aria-hidden
-                  className="absolute inset-x-2 bottom-0 h-0.5 rounded-full bg-[var(--signal)] shadow-[0_0_8px_var(--signal)]"
-                />
-              ) : isInRange ? (
-                <span aria-hidden className="absolute inset-x-2 bottom-0 h-px bg-[var(--signal)]/45" />
-              ) : null}
-            </button>
-          );
-        })}
-      </div>
+                ref={hoverRef}
+                aria-hidden
+                className="wn-lens-hover pointer-events-none absolute inset-y-0 rounded-full bg-[var(--foreground)]/[0.06] opacity-0"
+              />
+              <span ref={lensRef} aria-hidden className="wn-lens pointer-events-none absolute inset-y-0 rounded-full opacity-0" />
+              {slots.map((slot) => {
+                const month = MONTHS[slot.month - 1];
+                const isActive = slot.month === value;
+                const isInRange = !isActive && rangeSet.has(slot.month);
+                const startsYear = slot.index > 0 && slot.month === 1;
+                return (
+                  <button
+                    key={`${slot.year}-${slot.month}`}
+                    data-month={slot.month}
+                    type="button"
+                    role="radio"
+                    aria-checked={isActive}
+                    aria-label={`${month.label} ${slot.year}`}
+                    tabIndex={isActive ? 0 : -1}
+                    onClick={() => onChange(slot.month)}
+                    onKeyDown={(event) => handleKeyDown(event, slot.index)}
+                    onMouseEnter={(event) => showHover(event.currentTarget)}
+                    className={`relative z-10 inline-flex h-9 shrink-0 items-center whitespace-nowrap rounded-full px-4 text-[14px] font-medium transition-[color,transform] duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--signal)]/60 active:scale-95 ${
+                      isActive
+                        ? "text-[var(--foreground)]"
+                        : isInRange
+                          ? "bg-[var(--signal)]/10 text-[var(--foreground)]"
+                          : "text-[var(--muted)] hover:text-[var(--foreground)]"
+                    }`}
+                  >
+                    {slot.index === 0 ? "This month" : startsYear ? `${month.shortLabel} ${slot.year}` : month.shortLabel}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -212,7 +200,7 @@ function StayCycleButton({
       type="button"
       onClick={() => onChange(next)}
       aria-label={`stay length: ${label}, click to change`}
-      className={`group inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.22em] transition ${
+      className={`group inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-[13px] font-medium transition ${
         isDirty
           ? "border-[var(--signal)]/55 bg-[var(--signal)]/10 text-[var(--foreground)] hover:border-[var(--signal)]"
           : "border-[var(--border-strong)] bg-[var(--surface)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"

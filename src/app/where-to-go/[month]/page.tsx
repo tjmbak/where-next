@@ -114,8 +114,8 @@ export default async function WhereToGoMonthPage({ params }: PageProps) {
       <SiteHeader />
 
       <section className="mx-auto w-full max-w-[1100px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-          where to go · {monthLabel.toLowerCase()} {upcomingYearForMonth(month)}
+        <p className="text-[13px] font-medium text-[var(--muted)]">
+          Where to go · {monthLabel} {upcomingYearForMonth(month)}
         </p>
         <h1 className="mt-5 max-w-3xl text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           Where to go in {monthLabel.toLowerCase()}.
@@ -130,15 +130,15 @@ export default async function WhereToGoMonthPage({ params }: PageProps) {
 
         <nav className="mt-16 grid gap-8 border-t border-[var(--border)] pt-10 sm:grid-cols-2">
           <div>
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              {monthLabel.toLowerCase()} by scene
+            <p className="text-[13px] font-medium text-[var(--muted)]">
+              {monthLabel} by sound
             </p>
             <ul className="mt-4 flex flex-wrap gap-2">
               {GENRES.map((g) => (
                 <li key={g}>
                   <Link
                     href={`/where-to-go/${monthSlug(month)}/genre/${g}`}
-                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 font-mono text-[11px] uppercase tracking-[0.16em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 text-[13px] font-medium text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
                   >
                     {GENRE_LABELS[g]}
                   </Link>
@@ -147,15 +147,15 @@ export default async function WhereToGoMonthPage({ params }: PageProps) {
             </ul>
           </div>
           <div>
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              {monthLabel.toLowerCase()} by region
+            <p className="text-[13px] font-medium text-[var(--muted)]">
+              {monthLabel} by region
             </p>
             <ul className="mt-4 flex flex-wrap gap-2">
               {REGIONS.map((r) => (
                 <li key={r}>
                   <Link
                     href={`/where-to-go/${monthSlug(month)}/region/${regionSlug(r)}`}
-                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 font-mono text-[11px] uppercase tracking-[0.16em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                    className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 text-[13px] font-medium text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
                   >
                     {r}
                   </Link>

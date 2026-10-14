@@ -57,20 +57,20 @@ export function heroVariantsForGallery(destination: Destination): Array<{
   caption: string;
 }> {
   const slides: Array<{ variant: HeroVariant; src: string; caption: string }> = [
-    { variant: "peak", src: heroVariantUrl(destination.heroImage, "peak"), caption: "peak season" }
+    { variant: "peak", src: heroVariantUrl(destination.heroImage, "peak"), caption: "Peak season" }
   ];
   if (hasVariant(destination.heroImage, "shoulder")) {
     slides.push({
       variant: "shoulder",
       src: heroVariantUrl(destination.heroImage, "shoulder"),
-      caption: "off-peak"
+      caption: "Off-peak"
     });
   }
   if (hasVariant(destination.heroImage, "detail")) {
     slides.push({
       variant: "detail",
       src: heroVariantUrl(destination.heroImage, "detail"),
-      caption: "venue & street"
+      caption: "Venue & street"
     });
   }
   return slides;

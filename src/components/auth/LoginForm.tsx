@@ -52,7 +52,7 @@ export function LoginForm({ next, initialError, compact, onSent }: LoginFormProp
   return (
     <form onSubmit={handleSubmit} className={compact ? "space-y-4" : "space-y-6"}>
       <label className="flex flex-col gap-2">
-        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">email</span>
+        <span className="text-[13px] font-medium text-[var(--muted)]">Email</span>
         <input
           required
           type="email"
@@ -70,13 +70,13 @@ export function LoginForm({ next, initialError, compact, onSent }: LoginFormProp
         disabled={status === "loading" || status === "sent"}
         className="group inline-flex w-full items-center justify-center gap-2 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-6 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)] disabled:cursor-not-allowed disabled:opacity-60"
       >
-        {status === "loading" ? "sending…" : status === "sent" ? "link sent" : "send magic link"}
+        {status === "loading" ? "Sending…" : status === "sent" ? "Link sent" : "Send magic link"}
         <span aria-hidden className="font-mono text-xs transition group-hover:translate-x-0.5">→</span>
       </button>
 
       {message ? (
         <p
-          className={`font-mono text-[11px] uppercase tracking-[0.18em] ${
+          className={`text-[13px] font-medium ${
             status === "error" ? "text-[var(--signal)]" : "text-[var(--muted)]"
           }`}
         >

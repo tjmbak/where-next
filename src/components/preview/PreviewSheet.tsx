@@ -1,31 +1,12 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
-import Link from "next/link";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { usePreview, type PreviewPayload } from "@/components/preview/PreviewContext";
 import { trackEvent } from "@/lib/analytics";
-import {
-  getDestinationBySlug,
-  getEventsForDestination,
-  getEventsForDestinationInMonth,
-  getScoreForDestinationMonth,
-  getScoresForDestination,
-  getVenuesForDestination
-} from "@/data/music-travel";
-import {
-  BUDGET_LABELS,
-  GENRE_LABELS,
-  SUPPORTED_YEARS,
-  VIBE_LABELS,
-  getMonthLabel,
-  upcomingYearForMonth,
-  yearQueryFor
-} from "@/data/taxonomy";
-import { WatchButton } from "@/components/watch/WatchButton";
-import { recordVisit } from "@/lib/last-visit";
+import { getDestinationBySlug, getEventsForDestination, getVenuesForDestination } from "@/data/music-travel";
+import { GENRE_LABELS, SUPPORTED_YEARS } from "@/data/taxonomy";
+import { CityQuickLook, QUICK_LOOK_DESC_ID, QUICK_LOOK_TITLE_ID } from "@/components/preview/CityQuickLook";
 import { pickHeroForMonth } from "@/lib/hero-images";
-import { useSavedDestinations } from "@/lib/saved-destinations";
-import { TIER_COLORS, tierFromScore } from "@/lib/tiers";
 import { isAffiliateProvider, resolveProvider, type AffiliateProvider } from "@/lib/affiliate/providers";
 import type { Event, Venue } from "@/types/content";
 
@@ -56,29 +37,138 @@ function hostnameOf(href: string): string {
 export function PreviewSheet() {
   const ctx = usePreview();
   if (!ctx) return null;
-  const { current, close } = ctx;
+  return <SheetFrame current={ctx.current} close={ctx.close} />;
+}
+
+const FOCUSABLE = 'a[href], button:not([disabled]), input, select, textarea, [tabindex]:not([tabindex="-1"])';
+
+function SheetFrame({ current, close }: { current: PreviewPayload | null; close: () => void }) {
+  const sheetRef = useRef<HTMLElement | null>(null);
+  const returnFocusRef = useRef<HTMLElement | null>(null);
+  const dragRef = useRef<{
+    startX: number;
+    startY: number;
+    dy: number;
+    lastY: number;
+    lastT: number;
+    velocity: number;
+    axis: "y" | "x" | null;
+  } | null>(null);
+  const isOpen = Boolean(current);
+
+  useEffect(() => {
+    if (!isOpen) return;
+    returnFocusRef.current = document.activeElement as HTMLElement | null;
+    const sheet = sheetRef.current;
+    const frame = requestAnimationFrame(() => {
+      const target = sheet?.querySelector<HTMLElement>("[data-autofocus]") ?? sheet;
+      target?.focus({ preventScroll: true });
+    });
+    const onKey = (event: KeyboardEvent) => {
+      if (event.key !== "Tab" || !sheet) return;
+      const items = [...sheet.querySelectorAll<HTMLElement>(FOCUSABLE)].filter((node) => node.offsetParent !== null);
+      if (items.length === 0) return;
+      const first = items[0];
+      const last = items[items.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      } else if (!sheet.contains(document.activeElement)) {
+        event.preventDefault();
+        first.focus();
+      }
+    };
+    document.addEventListener("keydown", onKey);
+    return () => {
+      cancelAnimationFrame(frame);
+      document.removeEventListener("keydown", onKey);
+      returnFocusRef.current?.focus?.({ preventScroll: true });
+    };
+  }, [isOpen]);
+
+  const onTouchStart = (event: React.TouchEvent) => {
+    if (window.innerWidth >= 640) return;
+    if (!(event.target as HTMLElement).closest("[data-sheet-grab]")) return;
+    const touch = event.touches[0];
+    dragRef.current = {
+      startX: touch.clientX,
+      startY: touch.clientY,
+      dy: 0,
+      lastY: touch.clientY,
+      lastT: event.timeStamp,
+      velocity: 0,
+      axis: null
+    };
+  };
+  const onTouchMove = (event: React.TouchEvent) => {
+    const drag = dragRef.current;
+    const sheet = sheetRef.current;
+    if (!drag || !sheet) return;
+    const touch = event.touches[0];
+    if (!drag.axis) {
+      const dx = Math.abs(touch.clientX - drag.startX);
+      const dy = Math.abs(touch.clientY - drag.startY);
+      if (dx < 8 && dy < 8) return;
+      drag.axis = dx > dy ? "x" : "y";
+    }
+    if (drag.axis === "x") return;
+    const elapsed = Math.max(1, event.timeStamp - drag.lastT);
+    drag.velocity = (touch.clientY - drag.lastY) / elapsed;
+    drag.lastY = touch.clientY;
+    drag.lastT = event.timeStamp;
+    drag.dy = Math.max(0, touch.clientY - drag.startY);
+    sheet.style.transition = "none";
+    sheet.style.transform = `translateY(${drag.dy}px)`;
+  };
+  const onTouchEnd = () => {
+    const drag = dragRef.current;
+    const sheet = sheetRef.current;
+    dragRef.current = null;
+    if (!drag || !sheet) return;
+    sheet.style.transition = "";
+    sheet.style.transform = "";
+    const flung = drag.velocity > 0.6 && drag.dy > 40;
+    const pulled = drag.dy > 110 && drag.velocity >= -0.05;
+    if (drag.axis === "y" && (flung || pulled)) close();
+  };
+
   return (
     <>
       <div
         aria-hidden
         onClick={close}
-        className={`fixed inset-0 z-40 bg-black/60 backdrop-blur-sm transition-opacity duration-300 ${
+        className={`fixed inset-0 z-40 bg-black/50 backdrop-blur-[2px] transition-opacity duration-300 motion-reduce:transition-none ${
           current ? "pointer-events-auto opacity-100" : "pointer-events-none opacity-0"
         }`}
       />
       <aside
+        ref={sheetRef}
         role="dialog"
         aria-modal="true"
         aria-hidden={!current}
-        className={`fixed right-0 top-0 z-50 flex h-[100dvh] w-full max-w-[520px] flex-col border-l border-[var(--border-strong)] bg-[var(--background)] transition-[transform,visibility,box-shadow] duration-300 ease-out ${
+        aria-labelledby={current?.kind === "destination" ? QUICK_LOOK_TITLE_ID : undefined}
+        aria-describedby={current?.kind === "destination" ? QUICK_LOOK_DESC_ID : undefined}
+        aria-label={current && current.kind !== "destination" ? "Preview" : undefined}
+        tabIndex={-1}
+        onTouchStart={onTouchStart}
+        onTouchMove={onTouchMove}
+        onTouchEnd={onTouchEnd}
+        className={`fixed inset-x-0 bottom-0 z-50 flex h-[94dvh] w-full flex-col overflow-hidden rounded-t-[28px] bg-[var(--background)] outline-none transition-[translate,visibility,box-shadow] duration-300 ease-out motion-reduce:transition-none sm:inset-x-auto sm:right-0 sm:top-0 sm:h-[100dvh] sm:max-w-[480px] sm:rounded-none sm:border-l sm:border-[var(--border-strong)] ${
           current
-            ? "visible translate-x-0 shadow-[0_0_60px_rgba(0,0,0,0.5)]"
-            : "invisible translate-x-full shadow-none"
+            ? "visible translate-x-0 translate-y-0 shadow-[0_0_60px_rgba(0,0,0,0.35)]"
+            : "invisible translate-y-full shadow-none sm:translate-x-full sm:translate-y-0"
         }`}
       >
         {current ? (
           current.kind === "destination" ? (
-            <DestinationSheetContent payload={current} onClose={close} />
+            <CityQuickLook
+              key={current.destinationSlug}
+              payload={current}
+              onClose={close}
+            />
           ) : (
             <SheetContent payload={current} onClose={close} />
           )
@@ -88,214 +178,20 @@ export function PreviewSheet() {
   );
 }
 
+function capitalize(value: string): string {
+  return value.charAt(0).toUpperCase() + value.slice(1);
+}
+
 function formatSheetDate(start: string, end?: string): string {
   const opts: Intl.DateTimeFormatOptions = { month: "short", day: "numeric", timeZone: "UTC" };
   const s = new Date(start);
-  if (Number.isNaN(s.getTime())) return "tba";
-  const startLabel = s.toLocaleDateString("en-US", opts).toLowerCase();
+  if (Number.isNaN(s.getTime())) return "TBA";
+  const startLabel = s.toLocaleDateString("en-US", opts);
   if (!end) return startLabel;
   const e = new Date(end);
   if (Number.isNaN(e.getTime())) return startLabel;
-  const endLabel = e.toLocaleDateString("en-US", opts).toLowerCase();
+  const endLabel = e.toLocaleDateString("en-US", opts);
   return startLabel === endLabel ? startLabel : `${startLabel} → ${endLabel}`;
-}
-
-function DestinationSheetContent({
-  payload,
-  onClose
-}: {
-  payload: Extract<PreviewPayload, { kind: "destination" }>;
-  onClose: () => void;
-}) {
-  const { destinationSlug, month, year = upcomingYearForMonth(payload.month) } = payload;
-  const destination = getDestinationBySlug(destinationSlug);
-  const { isSaved, toggle } = useSavedDestinations();
-
-  // Product memory: quick looks count as "where you left off".
-  useEffect(() => {
-    recordVisit({
-      slug: destinationSlug,
-      month,
-      year,
-      eventCount: getEventsForDestinationInMonth(destinationSlug, month, year).length
-    });
-  }, [destinationSlug, month, year]);
-
-  const score = useMemo(
-    () => getScoreForDestinationMonth(destinationSlug, month) ?? getScoresForDestination(destinationSlug)[0],
-    [destinationSlug, month]
-  );
-  const upcomingEvents = useMemo(() => {
-    const today = new Date().toISOString().slice(0, 10);
-    const upcoming = (list: ReturnType<typeof getEventsForDestination>) =>
-      list
-        .filter((e) => (e.endDate ?? e.startDate) >= today)
-        .sort((a, b) => b.importanceScore - a.importanceScore);
-    const inMonth = upcoming(getEventsForDestinationInMonth(destinationSlug, month, year));
-    const list = inMonth.length > 0 ? inMonth : upcoming(getEventsForDestination(destinationSlug, year));
-    // Pick the 3 most significant, then show them in chronological order.
-    return {
-      fromMonth: inMonth.length > 0,
-      list: list.slice(0, 3).sort((a, b) => a.startDate.localeCompare(b.startDate))
-    };
-  }, [destinationSlug, month, year]);
-  const events = upcomingEvents.list;
-  const monthHasEvents = upcomingEvents.fromMonth;
-  const isCurrentMonth = month === new Date().getMonth() + 1 && year === new Date().getFullYear();
-
-  if (!destination) return <div className="p-6 text-[var(--muted)]">not found</div>;
-
-  const overall = score?.overallScore ?? 0;
-  const tier = tierFromScore(overall);
-  const tierColor = TIER_COLORS[tier];
-  const why = score?.whyNow?.[0] ?? destination.summary;
-  const heroSrc = pickHeroForMonth(destination, month);
-  const monthLabel = getMonthLabel(month).toLowerCase();
-  const hasEstimates = events.some((e) => e.confirmed === false);
-  const guideHref = `/destinations/${destination.slug}?month=${month}${yearQueryFor(month, year)}`;
-  const planHref = `/destinations/${destination.slug}/plan`;
-  const saved = isSaved(destination.slug);
-  return (
-    <>
-      <header className="flex items-center justify-between gap-3 border-b border-[var(--border)] px-6 py-5">
-        <p className="font-mono text-[10px] uppercase tracking-[0.32em] text-[var(--muted)]">
-          where next · quick look
-        </p>
-        <button
-          type="button"
-          onClick={onClose}
-          aria-label="Close preview"
-          className="rounded-full border border-[var(--border-strong)] px-2.5 py-0.5 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-        >
-          esc
-        </button>
-      </header>
-
-      <div className="flex-1 overflow-y-auto">
-        <div className="relative aspect-[16/10] w-full overflow-hidden border-b border-[var(--border)] bg-[var(--surface)]">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={heroSrc} alt={destination.city} className="h-full w-full object-cover" loading="eager" />
-          <span aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-black/25" />
-          <span className="absolute right-3 top-3 inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-black/55 px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.18em] text-white/90 backdrop-blur">
-            <span aria-hidden className="h-1 w-1 rounded-full" style={{ background: tierColor, boxShadow: `0 0 6px ${tierColor}` }} />
-            <span className="text-white">{overall}</span>
-            <span className="text-white/60">{tier}</span>
-          </span>
-          <div className="absolute inset-x-4 bottom-3">
-            <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-white/65">
-              {destination.country.toLowerCase()} · {monthLabel} {year}
-            </p>
-            <h2 className="text-[clamp(1.7rem,4vw,2.4rem)] font-medium leading-none tracking-[-0.02em] text-white">
-              {destination.city}
-            </h2>
-          </div>
-        </div>
-
-        <div className="px-6 py-6">
-          <p className="text-[15px] leading-7 text-[var(--foreground)]/90">{why}</p>
-
-          <div className="mt-5 flex flex-wrap gap-2">
-            {destination.genres.slice(0, 3).map((g) => (
-              <span
-                key={g}
-                className="rounded-full border border-[var(--border)] bg-[var(--surface-2)] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]"
-              >
-                {GENRE_LABELS[g] ?? g}
-              </span>
-            ))}
-            <span className="rounded-full border border-[var(--border)] bg-[var(--surface-2)] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]">
-              {BUDGET_LABELS[destination.budget]}
-            </span>
-            {destination.vibes.slice(0, 1).map((v) => (
-              <span
-                key={v}
-                className="rounded-full border border-[var(--border)] bg-[var(--surface-2)] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]"
-              >
-                {VIBE_LABELS[v] ?? v}
-              </span>
-            ))}
-          </div>
-
-          <section className="mt-7">
-            <div className="flex items-center justify-between gap-2">
-              <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                {monthHasEvents
-                  ? `${isCurrentMonth ? "still to come in" : "happening in"} ${monthLabel}`
-                  : "coming up"}
-              </p>
-              {hasEstimates ? (
-                <span
-                  title="Forward estimate from the recurring calendar — exact dates confirm closer to the date"
-                  className="rounded-full border border-[var(--border-strong)] bg-[var(--surface-2)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.16em] text-[var(--muted)]"
-                >
-                  expected · dates to confirm
-                </span>
-              ) : null}
-            </div>
-            {events.length > 0 ? (
-              <ul className="mt-3 divide-y divide-[var(--border)]">
-                {events.map((event) => (
-                  <li key={event.id} className="py-3">
-                    <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted-2)]">
-                      {formatSheetDate(event.startDate, event.endDate)} · {event.type.replaceAll("-", " ")}
-                      {event.confirmed === false ? " · expected" : ""}
-                    </p>
-                    <p className="mt-1 text-[14px] font-medium leading-5 text-[var(--foreground)]">{event.title}</p>
-                  </li>
-                ))}
-              </ul>
-            ) : (
-              <p className="mt-3 text-[13px] leading-6 text-[var(--muted)]">
-                Lineups for {monthLabel} are still coming together.
-              </p>
-            )}
-          </section>
-        </div>
-      </div>
-
-      <footer className="flex items-center gap-2 border-t border-[var(--border)] bg-[var(--surface)] px-6 py-5">
-        <Link
-          href={guideHref}
-          onClick={() => {
-            trackEvent("preview_open_guide", { slug: destination.slug, month });
-            onClose();
-          }}
-          className="group inline-flex flex-1 items-center justify-between gap-3 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-5 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)]"
-        >
-          <span>open full guide</span>
-          <span aria-hidden className="transition group-hover:translate-x-0.5">→</span>
-        </Link>
-        <Link
-          href={planHref}
-          onClick={onClose}
-          className="hidden items-center justify-center rounded-full border border-[var(--border-strong)] px-4 py-3 font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)] transition hover:border-[var(--foreground)] hover:text-[var(--foreground)] sm:inline-flex"
-        >
-          plan
-        </Link>
-        <button
-          type="button"
-          aria-pressed={saved}
-          aria-label={saved ? `Unsave ${destination.city}` : `Save ${destination.city}`}
-          onClick={() => {
-            void toggle(destination.slug);
-            trackEvent("destination_saved_toggle", {
-              slug: destination.slug,
-              action: saved ? "unsave" : "save",
-              source: "preview-sheet"
-            });
-          }}
-          className={`inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-full border transition ${
-            saved
-              ? "border-[var(--signal)]/55 bg-[var(--signal)]/10 text-[var(--signal)]"
-              : "border-[var(--border-strong)] bg-transparent text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
-          }`}
-        >
-          <span aria-hidden className="text-[16px] leading-none">{saved ? "♥" : "♡"}</span>
-        </button>
-        <WatchButton slug={destination.slug} month={month} year={year} variant="icon" />
-      </footer>
-    </>
-  );
 }
 
 type RemoteMeta = {
@@ -374,16 +270,16 @@ function SheetContent({ payload, onClose }: { payload: OutboundPayload; onClose:
   return (
     <>
       <header className="flex items-center justify-between gap-3 border-b border-[var(--border)] px-6 py-5">
-        <p className="font-mono text-[10px] uppercase tracking-[0.32em] text-[var(--muted)]">
-          where next · preview
+        <p className="text-[13px] font-medium text-[var(--muted)]">
+          Preview
         </p>
         <button
           type="button"
           onClick={onClose}
           aria-label="Close preview"
-          className="rounded-full border border-[var(--border-strong)] px-2.5 py-0.5 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+          className="grid h-8 w-8 place-items-center rounded-full text-[14px] text-[var(--foreground)] transition hover:bg-[var(--surface-2)]"
         >
-          esc
+          <span aria-hidden>✕</span>
         </button>
       </header>
 
@@ -397,8 +293,8 @@ function SheetContent({ payload, onClose }: { payload: OutboundPayload; onClose:
 
         {meta && (meta.description || meta.title) && (meta.description !== null || meta.title !== null) ? (
           <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              what {meta.siteName ?? meta.hostname} says
+            <p className="text-[13px] font-medium text-[var(--muted)]">
+              What {meta.siteName ?? meta.hostname} says
             </p>
             {meta.title ? (
               <p className="mt-2 text-[14px] font-medium leading-6 text-[var(--foreground)]">{meta.title}</p>
@@ -411,13 +307,13 @@ function SheetContent({ payload, onClose }: { payload: OutboundPayload; onClose:
 
         {destination ? (
           <section className="mt-8 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
-            <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              about {destination.city.toLowerCase()}
+            <p className="text-[13px] font-medium text-[var(--muted)]">
+              About {destination.city}
             </p>
             <p className="mt-2 text-[14px] leading-7 text-[var(--foreground)]/90">
               {destination.tagline}
             </p>
-            <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
+            <p className="mt-3 text-[13px] font-medium text-[var(--muted-2)]">
               {destination.region} · {destination.country}
             </p>
           </section>
@@ -441,13 +337,13 @@ function SheetContent({ payload, onClose }: { payload: OutboundPayload; onClose:
           }
           className="group inline-flex w-full items-center justify-between gap-3 rounded-full border border-[var(--foreground)] bg-[var(--foreground)] px-5 py-3 text-sm font-medium text-[var(--background)] transition hover:bg-[var(--background)] hover:text-[var(--foreground)]"
         >
-          <span>continue to {partnerLabel}</span>
-          <span aria-hidden className="font-mono text-[11px] uppercase tracking-[0.22em] transition group-hover:translate-x-0.5">
+          <span>Continue to {partnerLabel}</span>
+          <span aria-hidden className="text-[13px] font-medium transition group-hover:translate-x-0.5">
             ↗
           </span>
         </a>
-        <p className="mt-3 text-center font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-          opens in a new tab · {hostnameOf(payload.href)}
+        <p className="mt-3 text-center text-[13px] font-medium text-[var(--muted-2)]">
+          Opens in a new tab · {hostnameOf(payload.href)}
         </p>
       </footer>
     </>
@@ -488,35 +384,34 @@ function EventBody({ payload }: { payload: Extract<PreviewPayload, { kind: "even
 
   return (
     <article>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+      <p className="text-[13px] font-medium capitalize text-[var(--signal)]">
         {event.type.replace("-", " ")}
       </p>
       <h2 className="mt-2 text-[clamp(1.6rem,3.5vw,2.2rem)] font-medium leading-[1.1] tracking-[-0.02em] text-[var(--foreground)]">
         {event.title}
       </h2>
-      <p className="mt-3 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-        {event.startDate}
-        {event.endDate && event.endDate !== event.startDate ? ` → ${event.endDate}` : ""}
+      <p className="mt-3 text-[13px] font-medium text-[var(--muted)]">
+        {formatSheetDate(event.startDate, event.endDate)}
         {venue ? ` · ${venue.name}` : ""}
       </p>
 
       <p className="mt-5 text-[15px] leading-7 text-[var(--foreground)]/90">{event.summary}</p>
 
       <dl className="mt-6 grid grid-cols-2 gap-x-4 gap-y-3">
-        <Cell label="importance" value={`${event.importanceScore}/100`} />
-        <Cell label="genres" value={event.genres.map((g) => GENRE_LABELS[g] ?? g).join(", ")} />
+        <Cell label="Importance" value={`${event.importanceScore}/100`} />
+        <Cell label="Sounds" value={event.genres.map((g) => GENRE_LABELS[g] ?? g).join(", ")} />
       </dl>
 
       {sameVenueOthers.length > 0 && venue ? (
         <section className="mt-8">
-          <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            also at {venue.name.toLowerCase()}
+          <p className="text-[13px] font-medium text-[var(--muted)]">
+            Also at {venue.name}
           </p>
           <ul className="mt-3 divide-y divide-[var(--border)]">
             {sameVenueOthers.map((other) => (
               <li key={other.id} className="py-3">
-                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-                  {other.startDate} · {other.type.replace("-", " ")}
+                <p className="text-[13px] font-medium text-[var(--muted-2)]">
+                  {formatSheetDate(other.startDate, other.endDate)} · {capitalize(other.type.replace("-", " "))}
                 </p>
                 <p className="mt-1 text-[14px] font-medium text-[var(--foreground)]">{other.title}</p>
               </li>
@@ -544,7 +439,7 @@ function VenueBody({ payload }: { payload: Extract<PreviewPayload, { kind: "venu
 
   return (
     <article>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+      <p className="text-[13px] font-medium capitalize text-[var(--signal)]">
         {venue.type.replace("-", " ")}
       </p>
       <h2 className="mt-2 text-[clamp(1.6rem,3.5vw,2.2rem)] font-medium leading-[1.1] tracking-[-0.02em] text-[var(--foreground)]">
@@ -555,7 +450,7 @@ function VenueBody({ payload }: { payload: Extract<PreviewPayload, { kind: "venu
           {venue.sceneTags.map((tag) => (
             <span
               key={tag}
-              className="rounded-full border border-[var(--border)] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]"
+              className="rounded-full border border-[var(--border)] px-2.5 py-0.5 text-[13px] font-medium capitalize text-[var(--muted)]"
             >
               {tag.replace("-", " ")}
             </span>
@@ -565,14 +460,14 @@ function VenueBody({ payload }: { payload: Extract<PreviewPayload, { kind: "venu
 
       {venueEvents.length > 0 ? (
         <section className="mt-7">
-          <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            upcoming programming
+          <p className="text-[13px] font-medium text-[var(--muted)]">
+            Coming up here
           </p>
           <ul className="mt-3 divide-y divide-[var(--border)]">
             {venueEvents.map((event) => (
               <li key={event.id} className="py-3">
-                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-                  {event.startDate} · {event.type.replace("-", " ")}
+                <p className="text-[13px] font-medium text-[var(--muted-2)]">
+                  {formatSheetDate(event.startDate, event.endDate)} · {capitalize(event.type.replace("-", " "))}
                 </p>
                 <p className="mt-1 text-[14px] font-medium text-[var(--foreground)]">{event.title}</p>
               </li>
@@ -587,11 +482,11 @@ function VenueBody({ payload }: { payload: Extract<PreviewPayload, { kind: "venu
 function ExternalBody({ payload }: { payload: Extract<PreviewPayload, { kind: "external" }> }) {
   return (
     <article>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">outbound link</p>
+      <p className="text-[13px] font-medium text-[var(--signal)]">External link</p>
       <h2 className="mt-2 text-[clamp(1.4rem,3vw,2rem)] font-medium leading-[1.1] tracking-[-0.02em] text-[var(--foreground)]">
         {payload.title}
       </h2>
-      <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+      <p className="mt-4 text-[13px] font-medium text-[var(--muted)]">
         {hostnameOf(payload.href)}
       </p>
       <p className="mt-6 text-[14px] leading-7 text-[var(--muted)]">
@@ -604,9 +499,9 @@ function ExternalBody({ payload }: { payload: Extract<PreviewPayload, { kind: "e
 function FallbackBody({ payload, title }: { payload: OutboundPayload; title: string }) {
   return (
     <article>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">preview</p>
+      <p className="text-[13px] font-medium text-[var(--signal)]">Preview</p>
       <h2 className="mt-2 text-2xl font-medium leading-tight text-[var(--foreground)]">{title}</h2>
-      <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
+      <p className="mt-4 text-[13px] font-medium text-[var(--muted)]">
         {hostnameOf(payload.href)}
       </p>
     </article>
@@ -616,7 +511,7 @@ function FallbackBody({ payload, title }: { payload: OutboundPayload; title: str
 function Cell({ label, value }: { label: string; value: string }) {
   return (
     <div>
-      <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">{label}</dt>
+      <dt className="text-[13px] font-medium text-[var(--muted)]">{label}</dt>
       <dd className="mt-1 text-[14px] leading-6 text-[var(--foreground)]">{value}</dd>
     </div>
   );
@@ -677,19 +572,19 @@ function RemoteHero({
                 <path d="M3 16l5-5 4 4 3-3 6 6" />
                 <circle cx="9" cy="10" r="1.4" fill="currentColor" />
               </svg>
-              <span className="font-mono text-[10px] uppercase tracking-[0.22em]">no preview available</span>
+              <span className="text-[13px] font-medium">No preview available</span>
             </div>
           </div>
         )}
       </div>
 
       <div className="absolute bottom-3 left-4 right-4 flex items-center gap-2">
-        <span className="rounded-full border border-[var(--border-strong)] bg-[var(--background)]/85 px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--foreground)] backdrop-blur">
+        <span className="rounded-full border border-[var(--border-strong)] bg-[var(--background)]/85 px-2.5 py-1 text-[13px] font-medium text-[var(--foreground)] backdrop-blur">
           {meta?.siteName ?? hostname}
         </span>
         {remoteImage ? (
-          <span className="rounded-full bg-[var(--background)]/65 px-2 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)] backdrop-blur">
-            live preview
+          <span className="rounded-full bg-[var(--background)]/65 px-2 py-1 text-[13px] font-medium text-[var(--muted)] backdrop-blur">
+            Live preview
           </span>
         ) : null}
       </div>

@@ -10,6 +10,9 @@ export type PreviewPayload =
       destinationSlug: string;
       month: MonthNumber;
       year?: number;
+      /** Ordered city slugs the sheet can step through with ‹ › and the arrow keys. */
+      siblings?: string[];
+      stepFocus?: "Previous city" | "Next city";
     }
   | {
       kind: "event";

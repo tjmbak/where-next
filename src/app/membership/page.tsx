@@ -52,7 +52,7 @@ export default async function MembershipPage() {
       <SiteHeader />
 
       <section className="mx-auto w-full max-w-[760px] px-6 pb-24 pt-12 sm:px-10">
-        <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">where next pro</p>
+        <p className="text-[13px] font-medium text-[var(--muted)]">Where Next Pro</p>
         <h1 className="mt-5 text-[clamp(2.5rem,6vw,4.5rem)] font-medium leading-[1.0] tracking-[-0.03em] text-[var(--foreground)]">
           Move first when it matters.
         </h1>
@@ -63,7 +63,7 @@ export default async function MembershipPage() {
         <div className="mt-12 rounded-3xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-[0_24px_60px_-32px_rgba(28,22,18,0.35)] sm:p-8">
           <div className="flex flex-wrap items-end justify-between gap-4 border-b border-[var(--border)] pb-6">
             <div>
-              <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--signal)]">pro</p>
+              <p className="text-[13px] font-medium text-[var(--signal)]">Pro</p>
               <p className="mt-2 flex items-baseline gap-1.5 text-[var(--foreground)]">
                 <span className="text-[44px] font-medium leading-none tracking-[-0.03em]">$12</span>
                 <span className="text-[15px] text-[var(--muted)]">/ month</span>
@@ -96,8 +96,8 @@ export default async function MembershipPage() {
           <div className="mt-8">
             {active ? (
               <div className="rounded-2xl bg-[var(--surface-2)] p-5">
-                <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                  you&apos;re on pro · {subscription?.status}
+                <p className="text-[13px] font-medium text-[var(--muted)]">
+                  You&apos;re on Pro · {subscription?.status}
                 </p>
                 <p className="mt-2 text-[15px] text-[var(--foreground)]">
                   {subscription?.current_period_end

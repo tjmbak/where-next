@@ -101,7 +101,7 @@ export function EventAudio({ artist }: EventAudioProps) {
       onClick={handleClick}
       aria-pressed={playing}
       aria-label={playing ? `Pause ${artist} preview` : `Play a 30 second ${artist} preview`}
-      className={`inline-flex max-w-full items-center gap-1.5 rounded-full border px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.16em] transition ${
+      className={`inline-flex max-w-full items-center gap-1.5 rounded-full border px-3 py-1 text-[13px] font-medium transition ${
         playing
           ? "border-[var(--signal)]/60 bg-[var(--signal)]/10 text-[var(--signal)]"
           : "border-[var(--border-strong)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
@@ -111,7 +111,7 @@ export function EventAudio({ artist }: EventAudioProps) {
         {status === "loading" ? "…" : playing ? "❚❚" : "▶"}
       </span>
       <span className="truncate">
-        {playing && data ? `${data.track}` : `hear ${artist}`}
+        {playing && data ? `${data.track}` : `Hear ${artist}`}
       </span>
     </button>
   );

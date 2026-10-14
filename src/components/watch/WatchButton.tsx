@@ -43,7 +43,7 @@ export function WatchButton({ slug, month, year, variant = "icon", tone = "light
   const toaster = useToast();
   const watch: Watch = { slug, month, year };
   const watching = isWatching(watch);
-  const monthLabel = getMonthLabel(month).toLowerCase();
+  const monthLabel = getMonthLabel(month);
 
   const handleToggle = () => {
     void toggle(watch).then((nowWatching) => {
@@ -106,7 +106,7 @@ export function WatchButton({ slug, month, year, variant = "icon", tone = "light
         aria-pressed={watching}
         title={title}
         onClick={handleToggle}
-        className={`inline-flex items-center gap-2 rounded-full border px-4 py-2 font-mono text-[10px] uppercase tracking-[0.2em] transition ${
+        className={`inline-flex items-center gap-2 rounded-full border px-4 py-2 text-[14px] font-medium transition ${
           watching
             ? dark
               ? "border-white bg-white text-black"
@@ -117,16 +117,16 @@ export function WatchButton({ slug, month, year, variant = "icon", tone = "light
         }`}
       >
         <BellIcon filled={watching} />
-        {watching ? `watching ${monthLabel}` : `watch ${monthLabel} ${year}`}
+        {watching ? `Watching ${monthLabel}` : `Get alerts for ${monthLabel}`}
       </button>
       {watching && isAuthReady && !isAuthenticated ? (
         <Link
           href="/auth/login?next=/settings"
-          className={`font-mono text-[9px] uppercase tracking-[0.18em] underline-offset-4 transition hover:underline ${
+          className={`text-[13px] underline-offset-4 transition hover:underline ${
             dark ? "text-white/60 hover:text-white" : "text-[var(--muted-2)] hover:text-[var(--foreground)]"
           }`}
         >
-          sign in to get email alerts
+          Sign in to get email alerts
         </Link>
       ) : null}
     </span>

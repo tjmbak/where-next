@@ -38,6 +38,7 @@
   body {
     min-height: 100vh;
     margin: 0;
+    overflow-x: clip;
     background:
       radial-gradient(circle at 18% -10%, rgba(232, 89, 12, 0.07), transparent 38rem),
       radial-gradient(circle at 90% 8%, rgba(138, 68, 35, 0.06), transparent 36rem),
@@ -192,6 +193,33 @@
 
 .animate-fade-in {
   animation: wn-fade-in 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+}
+
+@media (max-width: 767px) {
+  body[data-search-open] .wn-hide-while-searching {
+    display: none;
+  }
+}
+
+@keyframes wn-sheet-in {
+  from {
+    opacity: 0;
+    transform: translateY(32px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.wn-sheet-in {
+  animation: wn-sheet-in 0.32s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wn-sheet-in {
+    animation: none;
+  }
 }
 
 @keyframes wn-day-in {

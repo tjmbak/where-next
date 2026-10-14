@@ -34,35 +34,35 @@ export function SiteFooter({ month, year = upcomingYearForMonth(month) }: SiteFo
   return (
     <footer className="border-t border-[var(--border)] bg-[var(--surface)]">
       <div className="mx-auto w-full max-w-[1180px] px-6 py-14 sm:px-10">
-        <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
-          <FooterColumn title="by month">
+        <div className="grid grid-cols-2 gap-x-6 gap-y-10 lg:grid-cols-4">
+          <FooterColumn title="By month">
             {nextMonths.map((m) => (
               <FooterLink key={`${m.year}-${m.month}`} href={`/where-to-go/${monthSlug(m.month)}`}>
-                {getMonthLabel(m.month).toLowerCase()} {m.year}
+                {getMonthLabel(m.month)} {m.year}
               </FooterLink>
             ))}
           </FooterColumn>
 
-          <FooterColumn title="by scene">
+          <FooterColumn title="By sound">
             {FOOTER_GENRES.map((genre) => (
               <FooterLink key={genre} href={`/where-to-go/${slug}/genre/${genre}`}>
-                {GENRE_LABELS[genre].toLowerCase()}
+                {GENRE_LABELS[genre]}
               </FooterLink>
             ))}
           </FooterColumn>
 
-          <FooterColumn title="by region">
+          <FooterColumn title="By region">
             {REGIONS.map((region) => (
               <FooterLink key={region} href={`/where-to-go/${slug}/region/${regionSlug(region)}`}>
-                {region.toLowerCase()}
+                {region}
               </FooterLink>
             ))}
           </FooterColumn>
 
-          <FooterColumn title="where next">
-            <FooterLink href={`/events/${year}/${slug}`}>events in {slug}</FooterLink>
-            <FooterLink href="/methodology">how scores work</FooterLink>
-            <FooterLink href="/membership">membership</FooterLink>
+          <FooterColumn title="Where Next">
+            <FooterLink href={`/events/${year}/${slug}`}>Events in {getMonthLabel(month)}</FooterLink>
+            <FooterLink href="/methodology">How scores work</FooterLink>
+            <FooterLink href="/membership">Membership</FooterLink>
           </FooterColumn>
         </div>
 
@@ -73,8 +73,8 @@ export function SiteFooter({ month, year = upcomingYearForMonth(month) }: SiteFo
             </span>
             <span>where next</span>
           </Link>
-          <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-            © {new Date().getFullYear()} where next
+          <p className="text-[13px] font-medium text-[var(--muted-2)]">
+            © {new Date().getFullYear()} Where Next
           </p>
         </div>
       </div>
@@ -85,7 +85,7 @@ export function SiteFooter({ month, year = upcomingYearForMonth(month) }: SiteFo
 function FooterColumn({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <div>
-      <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">{title}</p>
+      <p className="text-[13px] font-medium text-[var(--muted-2)]">{title}</p>
       <ul className="mt-4 flex flex-col gap-2.5">{children}</ul>
     </div>
   );

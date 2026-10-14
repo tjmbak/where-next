@@ -101,23 +101,23 @@ export function ItineraryDayEditor({ destination, day, excludeAnchorIds, onSwap 
       <button
         type="button"
         onClick={handleOpen}
-        className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+        className="text-[13px] font-medium text-[var(--muted)] transition hover:text-[var(--foreground)]"
       >
-        {open ? "close alternatives" : "show alternatives ↗"}
+        {open ? "Hide alternatives" : "Swap this day"}
       </button>
 
       {open ? (
         <div className="mt-4 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5">
           {loading ? (
-            <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)]">loading…</p>
+            <p className="text-[13px] font-medium text-[var(--muted)]">Loading…</p>
           ) : error ? (
-            <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--signal)]">{error}</p>
+            <p className="text-[13px] font-medium text-[var(--signal)]">{error}</p>
           ) : alternatives ? (
             <div className="space-y-6">
               {alternatives.events.length > 0 ? (
                 <div>
-                  <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                    other events that day
+                  <p className="text-[13px] font-medium text-[var(--muted)]">
+                    Other events that day
                   </p>
                   <ul className="mt-3 space-y-2">
                     {alternatives.events.map((event) => (
@@ -127,20 +127,20 @@ export function ItineraryDayEditor({ destination, day, excludeAnchorIds, onSwap 
                           onClick={() => pickEvent(event)}
                           className="group flex w-full items-start gap-3 rounded-md border border-[var(--border)] px-3 py-2.5 text-left transition hover:border-[var(--border-strong)] hover:bg-[var(--background)]"
                         >
-                          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                            {event.startDate}
+                          <span className="text-[13px] font-medium text-[var(--muted)]">
+                            {new Date(`${event.startDate}T12:00:00Z`).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })}
                           </span>
                           <span className="flex-1 min-w-0">
                             <span className="block text-sm font-medium text-[var(--foreground)] truncate">
                               {event.title}
                             </span>
-                            <span className="block font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)] mt-0.5">
-                              {event.type.replace("-", " ")}
-                              {event.venueName ? ` · ${event.venueName}` : ""} · score {event.importanceScore}
+                            <span className="block text-[13px] font-medium text-[var(--muted-2)] mt-0.5">
+                              {capitalize(event.type.replace("-", " "))}
+                              {event.venueName ? ` · ${event.venueName}` : ""}
                             </span>
                           </span>
-                          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition group-hover:text-[var(--signal)]">
-                            pick →
+                          <span className="text-[13px] font-medium text-[var(--muted)] transition group-hover:text-[var(--signal)]">
+                            Pick →
                           </span>
                         </button>
                       </li>
@@ -151,8 +151,8 @@ export function ItineraryDayEditor({ destination, day, excludeAnchorIds, onSwap 
 
               {alternatives.venues.length > 0 ? (
                 <div>
-                  <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                    or anchor on a venue night
+                  <p className="text-[13px] font-medium text-[var(--muted)]">
+                    Or build it around a venue night
                   </p>
                   <ul className="mt-3 grid grid-cols-1 gap-2 sm:grid-cols-2">
                     {alternatives.venues.map((venue) => (
@@ -166,12 +166,12 @@ export function ItineraryDayEditor({ destination, day, excludeAnchorIds, onSwap 
                             <span className="block text-sm font-medium text-[var(--foreground)] truncate">
                               {venue.name}
                             </span>
-                            <span className="block font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)] mt-0.5">
-                              {venue.type.replace("-", " ")}
+                            <span className="block text-[13px] font-medium text-[var(--muted-2)] mt-0.5">
+                              {capitalize(venue.type.replace("-", " "))}
                             </span>
                           </span>
-                          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)] transition group-hover:text-[var(--signal)]">
-                            pick →
+                          <span className="text-[13px] font-medium text-[var(--muted)] transition group-hover:text-[var(--signal)]">
+                            Pick →
                           </span>
                         </button>
                       </li>
@@ -184,9 +184,9 @@ export function ItineraryDayEditor({ destination, day, excludeAnchorIds, onSwap 
                 <button
                   type="button"
                   onClick={pickFree}
-                  className="font-mono text-[11px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
+                  className="text-[13px] font-medium text-[var(--muted)] transition hover:text-[var(--foreground)]"
                 >
-                  ← leave this day open
+                  Leave this day open
                 </button>
               </div>
             </div>
@@ -195,4 +195,8 @@ export function ItineraryDayEditor({ destination, day, excludeAnchorIds, onSwap 
       ) : null}
     </div>
   );
+}
+
+function capitalize(value: string): string {
+  return value.charAt(0).toUpperCase() + value.slice(1);
 }

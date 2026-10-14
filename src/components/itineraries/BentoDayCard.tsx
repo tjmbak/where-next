@@ -7,7 +7,8 @@ import { ItineraryDayEditor } from "@/components/itineraries/ItineraryDayEditor"
 import type { ItineraryDay } from "@/lib/itineraries/generate";
 import type { Destination, Event, Venue } from "@/types/content";
 
-const DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+
+const GENERIC_MEALS = new Set(["neighborhood breakfast", "local dinner near tonight's anchor"]);
 
 type BentoDayCardProps = {
   day: ItineraryDay;
@@ -28,8 +29,21 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
     ? [4, 5, 6].includes(new Date(day.dateISO + "T12:00:00Z").getUTCDay())
     : false;
   const dateLabel = day.dateISO
-    ? `${DOW[new Date(day.dateISO + "T12:00:00Z").getUTCDay()]} ${day.dateISO}`
+    ? new Date(day.dateISO + "T12:00:00Z").toLocaleDateString("en-US", {
+        weekday: "short",
+        month: "short",
+        day: "numeric",
+        timeZone: "UTC"
+      })
     : `Day ${day.day}`;
+  const neighborhood = day.neighborhood && !day.neighborhood.startsWith("(") ? day.neighborhood : null;
+  const kindLabel = capitalize(
+    day.anchorKind === "event"
+      ? (event?.type.replace("-", " ") ?? "event")
+      : day.anchorKind === "venue"
+        ? (venue?.type.replace("-", " ") ?? "venue")
+        : "open day"
+  );
 
   const [swapping, setSwapping] = useState(false);
   const previousAnchorIdRef = useRef<string | null>(day.anchorId);
@@ -65,38 +79,33 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
         <div className="relative grid grid-cols-[56px_1fr] gap-3 p-4 sm:grid-cols-[88px_1fr] sm:gap-5 sm:p-6">
           <div className="flex flex-col items-center gap-2 sm:gap-3">
             <div className="text-center">
-              <p className="font-mono text-2xl font-medium leading-none tracking-tight text-[var(--foreground)] sm:text-3xl">
-                {String(day.day).padStart(2, "0")}
-              </p>
-              <p className="mt-1 font-mono text-[9px] uppercase tracking-[0.28em] text-[var(--muted)]">
-                {day.dateISO ? DOW[new Date(day.dateISO + "T12:00:00Z").getUTCDay()] : "—"}
+              <p className="text-[11px] font-medium text-[var(--muted)]">Day</p>
+              <p className="text-2xl font-semibold leading-none tracking-tight tabular-nums text-[var(--foreground)] sm:text-3xl">
+                {day.day}
               </p>
             </div>
             <div className="grid h-9 w-9 place-items-center rounded-full border border-[var(--border)] bg-[var(--background)]/65 text-[var(--foreground)]/85 sm:h-11 sm:w-11">
               <AnchorTypeIcon kind={iconKind} size={20} />
             </div>
             {isPeakNight && day.anchorKind !== "free" ? (
-              <span className="rounded-full border border-[var(--signal)]/45 bg-[var(--signal)]/10 px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--signal)]">
-                peak
+              <span className="rounded-full bg-[var(--signal)]/10 px-2 py-0.5 text-[11px] font-semibold text-[var(--signal)]">
+                Peak night
               </span>
             ) : null}
           </div>
 
           <div className="min-w-0">
-            <p className="flex flex-wrap items-baseline gap-x-2 gap-y-1 font-mono text-[9.5px] uppercase tracking-[0.18em] text-[var(--muted)] sm:gap-x-3 sm:text-[10px] sm:tracking-[0.22em]">
-              <span className="text-[var(--signal)]">
-                {day.anchorKind === "event"
-                  ? event?.type.replace("-", " ") ?? "event"
-                  : day.anchorKind === "venue"
-                    ? venue?.type.replace("-", " ") ?? "venue"
-                    : "open day"}
-              </span>
+            <p className="flex flex-wrap items-baseline gap-x-2 gap-y-1 text-[13px] text-[var(--muted)]">
+              <span className="font-semibold text-[var(--signal)]">{kindLabel}</span>
+              <span aria-hidden>·</span>
               <span>{dateLabel}</span>
-              <span className="basis-full truncate text-[var(--muted-2)] sm:ml-auto sm:basis-auto">{day.neighborhood}</span>
+              {neighborhood ? (
+                <span className="basis-full truncate sm:ml-auto sm:basis-auto">{neighborhood}</span>
+              ) : null}
             </p>
 
             <div key={`day-content-${day.anchorId ?? "free"}-${day.day}`} className="wn-day-content">
-              <h3 className="mt-2.5 break-words text-[clamp(1.05rem,4vw,1.75rem)] font-medium leading-[1.15] tracking-[-0.01em] text-[var(--foreground)] sm:mt-3">
+              <h3 className="mt-2 break-words text-[clamp(1.15rem,4vw,1.6rem)] font-semibold leading-[1.15] tracking-[-0.01em] text-[var(--foreground)] sm:mt-3">
                 {day.anchorTitle}
               </h3>
               {day.anchorWhy ? (
@@ -106,18 +115,22 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
               ) : null}
             </div>
 
-            <dl className="mt-5 grid gap-x-6 gap-y-2 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted-2)] sm:grid-cols-2">
-              <div>
-                <dt className="text-[var(--muted)]">am</dt>
-                <dd className="mt-0.5 truncate text-[var(--foreground)]/85">{day.meal_morning}</dd>
-              </div>
-              <div>
-                <dt className="text-[var(--muted)]">pm</dt>
-                <dd className="mt-0.5 truncate text-[var(--foreground)]/85">{day.meal_evening}</dd>
-              </div>
+            <dl className="mt-4 grid gap-x-6 gap-y-2.5 text-[14px] sm:grid-cols-2">
+              {GENERIC_MEALS.has(day.meal_morning) ? null : (
+                <div>
+                  <dt className="text-[12px] font-medium text-[var(--muted)]">Morning</dt>
+                  <dd className="mt-0.5 truncate text-[var(--foreground)]/85">{capitalize(day.meal_morning)}</dd>
+                </div>
+              )}
+              {GENERIC_MEALS.has(day.meal_evening) ? null : (
+                <div>
+                  <dt className="text-[12px] font-medium text-[var(--muted)]">Evening</dt>
+                  <dd className="mt-0.5 truncate text-[var(--foreground)]/85">{capitalize(day.meal_evening)}</dd>
+                </div>
+              )}
               {day.transferNote ? (
                 <div className="sm:col-span-2">
-                  <dt className="text-[var(--muted)]">getting around</dt>
+                  <dt className="text-[12px] font-medium text-[var(--muted)]">Getting around</dt>
                   <dd className="mt-0.5 text-[var(--foreground)]/85">{day.transferNote}</dd>
                 </div>
               ) : null}
@@ -126,8 +139,8 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
             <div className="mt-5 flex flex-wrap items-center gap-4 border-t border-[var(--border)] pt-4">
               <div className="flex items-center gap-2.5">
                 <CostMeter low={day.costBandUsd.low} high={day.costBandUsd.high} />
-                <span className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                  ${day.costBandUsd.low}–${day.costBandUsd.high}
+                <span className="text-[13px] tabular-nums text-[var(--muted)]">
+                  ${day.costBandUsd.low}–${day.costBandUsd.high}/day
                 </span>
               </div>
 
@@ -139,9 +152,9 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
                     destinationSlug={dayDestination.slug}
                     provider="viagogo"
                     preview={{ kind: "event", eventId: event.id }}
-                    className="inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+                    className="inline-flex h-10 items-center gap-1.5 text-[14px] font-semibold text-[var(--foreground)] transition hover:text-[var(--signal)]"
                   >
-                    grab tickets ↗
+                    Get tickets ↗
                   </TrackedOutboundLink>
                 ) : event?.sourceUrl ? (
                   <TrackedOutboundLink
@@ -149,9 +162,9 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
                     eventLabel={`itinerary-${event.id}-source`}
                     destinationSlug={dayDestination.slug}
                     preview={{ kind: "event", eventId: event.id }}
-                    className="inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+                    className="inline-flex h-10 items-center gap-1.5 text-[14px] font-semibold text-[var(--foreground)] transition hover:text-[var(--signal)]"
                   >
-                    official source ↗
+                    Official page ↗
                   </TrackedOutboundLink>
                 ) : venue?.officialUrl ? (
                   <TrackedOutboundLink
@@ -159,9 +172,9 @@ export function BentoDayCard({ day, event, venue, dayDestination, onSwapDay, exc
                     eventLabel={`itinerary-venue-${venue.id}`}
                     destinationSlug={dayDestination.slug}
                     preview={{ kind: "venue", venueId: venue.id }}
-                    className="inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
+                    className="inline-flex h-10 items-center gap-1.5 text-[14px] font-semibold text-[var(--foreground)] transition hover:text-[var(--signal)]"
                   >
-                    venue site ↗
+                    Venue site ↗
                   </TrackedOutboundLink>
                 ) : null}
               </div>
@@ -219,4 +232,8 @@ function costToSegments(usd: number): number {
   if (usd < 350) return 4;
   if (usd < 500) return 5;
   return 6;
+}
+
+function capitalize(value: string): string {
+  return value ? value.charAt(0).toUpperCase() + value.slice(1) : value;
 }

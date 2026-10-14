@@ -43,7 +43,7 @@ export function MobileTabBar() {
   return (
     <nav
       aria-label="Primary"
-      className="wn-glass fixed inset-x-3 bottom-[calc(env(safe-area-inset-bottom)+0.625rem)] z-40 mx-auto max-w-md rounded-[26px] p-1 md:hidden"
+      className="wn-glass wn-hide-while-searching fixed inset-x-3 bottom-[calc(env(safe-area-inset-bottom)+0.625rem)] z-40 mx-auto max-w-md rounded-[26px] p-1 md:hidden"
     >
       <ul className="relative grid grid-cols-4">
         <li

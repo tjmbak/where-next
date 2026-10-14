@@ -1,31 +1,43 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { searchUniverse } from "@/lib/search";
-import type { SearchAction, SearchResult, SearchResultType } from "@/lib/search";
+import Image from "next/image";
+import { useRouter } from "next/navigation";
+import { Fragment, useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { searchGrouped } from "@/lib/search";
+import type { SearchAction, SearchResult } from "@/lib/search";
 import type { SearchIntent } from "@/lib/search-intent";
+import type { Genre } from "@/types/content";
+import { GENRE_LABELS } from "@/data/taxonomy";
+
+export type PopularCity = {
+  slug: string;
+  city: string;
+  country: string;
+  image: string;
+  score: number;
+};
 
 type AskSearchProps = {
   onApply: (action: SearchAction, query: string) => void;
   onIntent: (intent: SearchIntent) => void;
-};
-
-const TYPE_LABELS: Record<SearchResultType, string> = {
-  destination: "city",
-  event: "event",
-  genre: "scene",
-  vibe: "vibe"
+  popular?: PopularCity[];
+  monthLabel?: string;
 };
 
 const PLACEHOLDER_OPTIONS = [
-  "ask · july beach with afro house",
-  "ask · new year's, mid budget, latin",
-  "ask · like ibiza but cheaper",
-  "ask · summer in europe, festivals",
-  "ask · underground techno, weekend"
+  "Try “afro house in july”",
+  "Try “like ibiza but cheaper”",
+  "Try “latin new year's”",
+  "Try “summer festivals”",
+  "Try “techno weekend”"
 ];
 
-export function AskSearch({ onApply, onIntent }: AskSearchProps) {
+const QUICK_SOUNDS: Genre[] = ["techno", "house", "afro-house", "amapiano", "hip-hop", "latin", "jazz"];
+
+const EXAMPLE_ASKS = ["july beach with afro house", "like ibiza but cheaper", "new year's, mid budget, latin"];
+
+export function AskSearch({ onApply, onIntent, popular = [], monthLabel }: AskSearchProps) {
+  const router = useRouter();
   const [query, setQuery] = useState("");
   const [open, setOpen] = useState(false);
   const [activeIndex, setActiveIndex] = useState(0);
@@ -35,11 +47,26 @@ export function AskSearch({ onApply, onIntent }: AskSearchProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const inputRef = useRef<HTMLInputElement | null>(null);
   const placeholder = PLACEHOLDER_OPTIONS[placeholderIdx];
+  const typed = query.trim().length >= 2;
 
+  const groups = useMemo(() => (typed ? searchGrouped(query) : null), [query, typed]);
   const results = useMemo<SearchResult[]>(
-    () => (query.trim().length >= 2 ? searchUniverse(query, 6) : []),
-    [query]
+    () =>
+      groups
+        ? groups.filtersFirst
+          ? [...groups.filters, ...groups.cities, ...groups.events]
+          : [...groups.cities, ...groups.filters, ...groups.events]
+        : [],
+    [groups]
   );
+
+  useEffect(() => {
+    if (open) document.body.dataset.searchOpen = "";
+    else delete document.body.dataset.searchOpen;
+    return () => {
+      delete document.body.dataset.searchOpen;
+    };
+  }, [open]);
 
   useEffect(() => {
     if (!open) return;
@@ -91,7 +118,7 @@ export function AskSearch({ onApply, onIntent }: AskSearchProps) {
         inputRef.current?.blur();
       } catch (err) {
         console.warn("[ask-search] failed", err);
-        setError("couldn't read that — try simpler words");
+        setError("Couldn't read that. Try simpler words, like “techno in march”.");
       } finally {
         setSubmitting(false);
       }
@@ -106,11 +133,19 @@ export function AskSearch({ onApply, onIntent }: AskSearchProps) {
     inputRef.current?.focus();
   }
 
-  function pickResult(result: SearchResult) {
-    onApply(result.apply, query);
+  function close() {
     setQuery("");
     setOpen(false);
     inputRef.current?.blur();
+  }
+
+  function apply(action: SearchAction) {
+    if (action.kind === "navigate") {
+      router.push(action.href);
+    } else {
+      onApply(action, query);
+    }
+    close();
   }
 
   function handleKeyDown(event: React.KeyboardEvent<HTMLInputElement>) {
@@ -130,7 +165,7 @@ export function AskSearch({ onApply, onIntent }: AskSearchProps) {
       }
       const result = results[activeIndex];
       if (result) {
-        pickResult(result);
+        apply(result.apply);
       } else {
         void submitIntent(query);
       }
@@ -142,25 +177,63 @@ export function AskSearch({ onApply, onIntent }: AskSearchProps) {
     }
   }
 
-  const showSuggestions = open && results.length > 0;
-  const showHint = open && query.trim().length < 2;
-  const showAskCta = open && query.trim().length >= 2;
+  const renderGroup = (title: string, items: SearchResult[], offset: number) =>
+    items.length > 0 ? (
+      <div className="py-1">
+        <p className={SECTION_TITLE}>{title}</p>
+        <ul role="listbox" aria-label={title}>
+          {items.map((result, i) => {
+            const index = offset + i;
+            const isFocused = index === activeIndex;
+            return (
+              <li key={result.id}>
+                <button
+                  type="button"
+                  role="option"
+                  aria-selected={isFocused}
+                  onMouseEnter={() => setActiveIndex(index)}
+                  onClick={() => apply(result.apply)}
+                  className={`flex w-full items-center gap-3 px-4 py-2 text-left transition ${isFocused ? "bg-[var(--surface-2)]" : ""}`}
+                >
+                  <ResultThumb result={result} />
+                  <span className="min-w-0 flex-1">
+                    <span className="block truncate text-[14px] leading-5 text-[var(--foreground)]">
+                      <Highlight text={result.label} query={query} />
+                    </span>
+                    {result.sublabel ? (
+                      <span className="block truncate text-[13px] leading-5 text-[var(--muted)]">
+                        {result.type === "genre" || result.type === "vibe"
+                          ? `${result.sublabel} · show matching cities`
+                          : result.sublabel}
+                      </span>
+                    ) : null}
+                  </span>
+                  {isFocused ? (
+                    <span aria-hidden className="hidden shrink-0 text-[12px] text-[var(--muted)] sm:inline">↵</span>
+                  ) : null}
+                </button>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ) : null;
 
   return (
-    <div ref={containerRef} className="relative w-full min-w-[200px] flex-1 sm:max-w-[360px]">
+    <div ref={containerRef} className="relative w-full min-w-[200px] flex-1 sm:max-w-[400px]">
       <form
         role="search"
         onSubmit={(event) => {
           event.preventDefault();
           void submitIntent(query);
         }}
-        className={`flex items-center gap-2 rounded-full border bg-[var(--surface)] px-3 py-1.5 transition ${
+        className={`flex h-10 items-center gap-2 rounded-full border bg-[var(--surface)] px-4 transition ${
           open
-            ? "border-[var(--signal)]/55"
+            ? "border-[var(--foreground)] shadow-[0_6px_20px_-10px_rgba(28,22,18,0.35)]"
             : "border-[var(--border-strong)] hover:border-[var(--foreground)]"
         }`}
       >
-        <span aria-hidden className={open || query ? "text-[var(--signal)]" : "text-[var(--muted-2)]"}>⌕</span>
+        <SearchIcon />
         <input
           ref={inputRef}
           type="text"
@@ -178,116 +251,195 @@ export function AskSearch({ onApply, onIntent }: AskSearchProps) {
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
           aria-label="ask anything"
-          className="min-w-0 flex-1 bg-transparent font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--foreground)] placeholder:text-[var(--muted-2)] placeholder:normal-case focus:outline-none"
+          enterKeyHint="search"
+          className="min-w-0 flex-1 bg-transparent text-[14px] text-[var(--foreground)] placeholder:text-[var(--muted)] focus:outline-none"
         />
         {submitting ? (
           <Spinner />
         ) : query ? (
           <button
             type="button"
-            aria-label="clear"
+            aria-label="Clear search"
             onClick={clearQuery}
-            className="text-[var(--muted-2)] transition hover:text-[var(--foreground)]"
+            className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-[var(--surface-2)] text-[13px] text-[var(--muted)] transition hover:text-[var(--foreground)]"
           >
             ×
           </button>
         ) : (
-          <kbd className="hidden rounded border border-[var(--border)] bg-[var(--surface-2)] px-1 py-px font-mono text-[9px] tracking-normal text-[var(--muted-2)] sm:inline">
+          <kbd className="hidden rounded-md border border-[var(--border)] bg-[var(--surface-2)] px-1.5 py-px text-[11px] text-[var(--muted)] sm:inline">
             ⌘K
           </kbd>
         )}
       </form>
 
       {open ? (
-        <div className="absolute left-0 right-0 z-[700] mt-2 w-[min(420px,calc(100vw-2rem))] overflow-hidden rounded-md border border-[var(--border-strong)] bg-[var(--surface)] shadow-[0_24px_64px_rgba(0,0,0,0.55)] backdrop-blur-md">
+        <div className="absolute left-0 z-[700] mt-2 max-h-[min(70vh,560px)] w-[min(440px,calc(100vw-3rem))] overflow-y-auto overscroll-contain rounded-2xl border border-[var(--border)] bg-[var(--surface)] py-1 shadow-[0_24px_60px_-12px_rgba(28,22,18,0.35)]">
           {submitting ? <ResearchingPanel query={query.trim()} /> : null}
-          {!submitting && showHint ? (
-            <div className="space-y-2 px-4 py-3">
-              <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                ask in plain language
-              </p>
-              <ul className="space-y-1 text-[12px] leading-5 text-[var(--foreground)]">
-                <li>&ldquo;<button type="button" onClick={() => quickAsk("july beach with afro house", setQuery, submitIntent)} className="underline decoration-[var(--muted-2)] underline-offset-2 transition hover:decoration-[var(--signal)]">july beach with afro house</button>&rdquo;</li>
-                <li>&ldquo;<button type="button" onClick={() => quickAsk("new year's, mid budget, latin", setQuery, submitIntent)} className="underline decoration-[var(--muted-2)] underline-offset-2 transition hover:decoration-[var(--signal)]">new year&apos;s, mid budget, latin</button>&rdquo;</li>
-                <li>&ldquo;<button type="button" onClick={() => quickAsk("like ibiza but cheaper", setQuery, submitIntent)} className="underline decoration-[var(--muted-2)] underline-offset-2 transition hover:decoration-[var(--signal)]">like ibiza but cheaper</button>&rdquo;</li>
-                <li>&ldquo;<button type="button" onClick={() => quickAsk("summer in europe, festivals", setQuery, submitIntent)} className="underline decoration-[var(--muted-2)] underline-offset-2 transition hover:decoration-[var(--signal)]">summer in europe, festivals</button>&rdquo;</li>
-              </ul>
-              <p className="font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-                or just type — ⌘↵ to ask, ↵ to pick a suggestion
-              </p>
-            </div>
-          ) : null}
 
-          {!submitting && showSuggestions ? (
-            <div>
-              <p className="border-b border-[var(--border)] px-4 py-2 font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--muted)]">
-                quick picks
-              </p>
-              <ul role="listbox" aria-label="suggestions">
-                {results.map((result, index) => {
-                  const isFocused = index === activeIndex;
-                  return (
-                    <li key={result.id}>
+          {!submitting && !typed ? (
+            <>
+              {popular.length > 0 ? (
+                <div className="py-1">
+                  <p className={SECTION_TITLE}>{monthLabel ? `Popular in ${monthLabel}` : "Popular right now"}</p>
+                  <ul>
+                    {popular.map((city) => (
+                      <li key={city.slug}>
+                        <button
+                          type="button"
+                          onClick={() => apply({ kind: "selectDestination", slug: city.slug })}
+                          className="flex w-full items-center gap-3 px-4 py-2 text-left transition hover:bg-[var(--surface-2)]"
+                        >
+                          <Thumb src={city.image} />
+                          <span className="min-w-0 flex-1">
+                            <span className="block truncate text-[14px] font-medium leading-5 text-[var(--foreground)]">{city.city}</span>
+                            <span className="block truncate text-[13px] leading-5 text-[var(--muted)]">{city.country}</span>
+                          </span>
+                          <span className="inline-flex shrink-0 items-center gap-1.5 text-[13px] font-semibold tabular-nums text-[var(--foreground)]">
+                            <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-[var(--signal)]" />
+                            {city.score}
+                          </span>
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+
+              <div className="border-t border-[var(--border)] py-3">
+                <p className={`${SECTION_TITLE} !pt-0`}>Browse by sound</p>
+                <div className="flex flex-wrap gap-2 px-4">
+                  {QUICK_SOUNDS.map((genre) => (
+                    <button
+                      key={genre}
+                      type="button"
+                      onClick={() => apply({ kind: "applyFilter", field: "genre", value: genre })}
+                      className="rounded-full border border-[var(--border-strong)] px-3 py-1.5 text-[13px] text-[var(--foreground)] transition hover:border-[var(--foreground)]"
+                    >
+                      {GENRE_LABELS[genre]}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className="border-t border-[var(--border)] py-3">
+                <p className={`${SECTION_TITLE} !pt-0`}>Or describe your trip</p>
+                <ul>
+                  {EXAMPLE_ASKS.map((text) => (
+                    <li key={text}>
                       <button
                         type="button"
-                        role="option"
-                        aria-selected={isFocused}
-                        onMouseEnter={() => setActiveIndex(index)}
-                        onClick={() => pickResult(result)}
-                        className={`flex w-full items-center justify-between gap-3 px-4 py-2 text-left transition ${
-                          isFocused ? "bg-[var(--surface-2)]" : ""
-                        }`}
+                        onClick={() => quickAsk(text, setQuery, submitIntent)}
+                        className="flex w-full items-center gap-3 px-4 py-1.5 text-left text-[14px] text-[var(--foreground)]/85 transition hover:bg-[var(--surface-2)] hover:text-[var(--foreground)]"
                       >
-                        <span className="min-w-0 flex-1">
-                          <span className="block truncate text-sm leading-5 text-[var(--foreground)]">
-                            {result.label}
-                          </span>
-                          {result.sublabel ? (
-                            <span className="block truncate font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                              {result.sublabel}
-                            </span>
-                          ) : null}
-                        </span>
-                        <span className="shrink-0 rounded-full border border-[var(--border)] bg-[var(--surface-2)] px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                          {TYPE_LABELS[result.type]}
-                        </span>
+                        <SparkIcon />
+                        &ldquo;{text}&rdquo;
                       </button>
                     </li>
-                  );
-                })}
-              </ul>
-            </div>
+                  ))}
+                </ul>
+              </div>
+            </>
           ) : null}
 
-          {!submitting && showAskCta ? (
-            <button
-              type="button"
-              onClick={() => void submitIntent(query)}
-              disabled={submitting}
-              className={`flex w-full items-center justify-between gap-3 px-4 py-2.5 text-left transition ${
-                results.length > 0 ? "border-t border-[var(--border)]" : ""
-              } ${submitting ? "cursor-not-allowed opacity-60" : "hover:bg-[var(--surface-2)]"}`}
-            >
-              <span className="flex min-w-0 items-center gap-2">
-                <span aria-hidden className="text-[var(--signal)]">↪</span>
-                <span className="truncate font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-                  ask: &ldquo;{query.trim()}&rdquo;
+          {!submitting && groups ? (
+            <>
+              {groups.filtersFirst ? (
+                <>
+                  {renderGroup("Sounds & vibes", groups.filters, 0)}
+                  {renderGroup("Cities", groups.cities, groups.filters.length)}
+                </>
+              ) : (
+                <>
+                  {renderGroup("Cities", groups.cities, 0)}
+                  {renderGroup("Sounds & vibes", groups.filters, groups.cities.length)}
+                </>
+              )}
+              {renderGroup("Upcoming events", groups.events, groups.cities.length + groups.filters.length)}
+              {results.length === 0 ? (
+                <p className="px-4 pb-1 pt-3 text-[13px] text-[var(--muted)]">
+                  No cities or events named &ldquo;{query.trim()}&rdquo;.
+                </p>
+              ) : null}
+              <button
+                type="button"
+                onClick={() => void submitIntent(query)}
+                className={`flex w-full items-center gap-3 px-4 py-3 text-left transition hover:bg-[var(--surface-2)] ${
+                  results.length > 0 ? "mt-1 border-t border-[var(--border)]" : ""
+                }`}
+              >
+                <span className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[var(--signal)]/10 text-[var(--signal)]">
+                  <SparkIcon />
                 </span>
-              </span>
-              <span className="shrink-0 font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                {submitting ? "reading…" : results.length > 0 ? "⌘↵" : "↵"}
-              </span>
-            </button>
+                <span className="min-w-0 flex-1">
+                  <span className="block truncate text-[14px] font-medium leading-5 text-[var(--foreground)]">
+                    Plan around &ldquo;{query.trim()}&rdquo;
+                  </span>
+                  <span className="block truncate text-[13px] leading-5 text-[var(--muted)]">
+                    We&rsquo;ll pick the month, sound and budget for you
+                  </span>
+                </span>
+                <span aria-hidden className="hidden shrink-0 text-[12px] text-[var(--muted)] sm:inline">
+                  {results.length > 0 ? "⌘↵" : "↵"}
+                </span>
+              </button>
+            </>
           ) : null}
 
           {error ? (
-            <p className="border-t border-[var(--border)] px-4 py-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
-              {error}
-            </p>
+            <p className="border-t border-[var(--border)] px-4 py-2.5 text-[13px] text-[var(--signal)]">{error}</p>
           ) : null}
         </div>
       ) : null}
     </div>
+  );
+}
+
+const SECTION_TITLE = "px-4 pb-1.5 pt-2 text-[12px] font-semibold text-[var(--muted)]";
+
+function ResultThumb({ result }: { result: SearchResult }) {
+  if (result.image) return <Thumb src={result.image} />;
+  return (
+    <span className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface-2)] text-[15px] text-[var(--foreground)]/70">
+      {result.type === "genre" ? "♪" : "◐"}
+    </span>
+  );
+}
+
+function Thumb({ src }: { src: string }) {
+  return (
+    <span className="relative h-10 w-10 shrink-0 overflow-hidden rounded-xl bg-[var(--surface-2)]">
+      <Image src={src} alt="" fill sizes="40px" className="object-cover" />
+    </span>
+  );
+}
+
+function Highlight({ text, query }: { text: string; query: string }) {
+  const q = query.trim();
+  const at = q ? text.toLowerCase().indexOf(q.toLowerCase()) : -1;
+  if (at < 0) return <>{text}</>;
+  return (
+    <Fragment>
+      {text.slice(0, at)}
+      <span className="font-semibold">{text.slice(at, at + q.length)}</span>
+      {text.slice(at + q.length)}
+    </Fragment>
+  );
+}
+
+function SearchIcon() {
+  return (
+    <svg aria-hidden viewBox="0 0 24 24" className="h-4 w-4 shrink-0 text-[var(--muted)]" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round">
+      <circle cx="11" cy="11" r="6.5" />
+      <path d="m16 16 4 4" />
+    </svg>
+  );
+}
+
+function SparkIcon() {
+  return (
+    <svg aria-hidden viewBox="0 0 24 24" className="h-4 w-4 shrink-0 text-[var(--signal)]" fill="currentColor">
+      <path d="M12 2.5c.4 4.6 2.9 7.1 7.5 7.5-4.6.4-7.1 2.9-7.5 7.5-.4-4.6-2.9-7.1-7.5-7.5 4.6-.4 7.1-2.9 7.5-7.5Z" />
+    </svg>
   );
 }
 
@@ -301,10 +453,10 @@ function Spinner() {
 }
 
 const RESEARCH_STEPS = [
-  "reading your ask…",
-  "searching live festival + venue listings…",
-  "cross-checking dates + ticket sources…",
-  "ranking matches by current calendar density…"
+  "Reading your request",
+  "Checking festival and venue listings",
+  "Cross-checking dates",
+  "Ranking the best matches"
 ];
 
 function ResearchingPanel({ query }: { query: string }) {
@@ -319,12 +471,12 @@ function ResearchingPanel({ query }: { query: string }) {
 
   return (
     <div className="px-4 py-3.5">
-      <p className="flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--signal)]">
+      <p className="flex items-center gap-2 text-[13px] font-semibold text-[var(--foreground)]">
         <Spinner />
-        researching live sources
+        Finding your trip
       </p>
       {query ? (
-        <p className="mt-2 text-[12px] leading-5 text-[var(--foreground)]">
+        <p className="mt-1 text-[13px] leading-5 text-[var(--muted)]">
           &ldquo;{query}&rdquo;
         </p>
       ) : null}
@@ -335,7 +487,7 @@ function ResearchingPanel({ query }: { query: string }) {
           return (
             <li
               key={label}
-              className={`flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.18em] transition ${
+              className={`flex items-center gap-2 text-[13px] transition ${
                 done
                   ? "text-[var(--muted)]"
                   : active
@@ -351,9 +503,7 @@ function ResearchingPanel({ query }: { query: string }) {
           );
         })}
       </ul>
-      <p className="mt-3 font-mono text-[9px] uppercase tracking-[0.18em] text-[var(--muted-2)]">
-        web search runs live — usually 8–20 seconds
-      </p>
+      <p className="mt-3 text-[12px] text-[var(--muted-2)]">Usually takes 8–20 seconds.</p>
     </div>
   );
 }

@@ -27,8 +27,8 @@ export default async function LoginPage({ searchParams }: LoginPageProps) {
 
       <section className="mx-auto flex w-full max-w-[480px] flex-col gap-8 px-6 py-16 sm:px-10">
         <div>
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            sign in
+          <p className="text-[13px] font-medium text-[var(--muted)]">
+            Sign in
           </p>
           <h1 className="mt-3 text-[clamp(2rem,4vw,2.5rem)] font-medium leading-[1.05] tracking-[-0.02em] text-[var(--foreground)]">
             One link. No password.
@@ -40,8 +40,8 @@ export default async function LoginPage({ searchParams }: LoginPageProps) {
 
         <LoginForm next={params.next} initialError={params.error} />
 
-        <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted-2)]">
-          we send a single magic link · no marketing spam
+        <p className="text-[13px] font-medium text-[var(--muted-2)]">
+          One sign-in link, no marketing spam.
         </p>
       </section>
     </main>

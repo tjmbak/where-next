@@ -28,7 +28,7 @@ type WindowFinderProps = {
 function shortDate(iso: string): string {
   const d = new Date(`${iso.slice(0, 10)}T00:00:00Z`);
   if (Number.isNaN(d.getTime())) return iso;
-  return d.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }).toLowerCase();
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 }
 
 function parseGenres(raw: string | null): Genre[] {
@@ -120,36 +120,35 @@ export function WindowFinder({ initial }: WindowFinderProps) {
 
   return (
     <div className="flex flex-col gap-8">
-      {/* QUERY FORM */}
-      <div className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-5 sm:p-6">
+      <div className="rounded-3xl border border-[var(--border)] bg-[var(--surface)] p-5 shadow-[0_10px_30px_-20px_rgba(28,22,18,0.3)] sm:p-6">
         <div className="grid gap-4 sm:grid-cols-2">
           <label className="flex flex-col gap-1.5">
-            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">from</span>
+            <span className="text-[13px] font-semibold text-[var(--foreground)]">From</span>
             <input
               type="date"
               value={from}
               min={minDate}
               max={maxDate}
               onChange={(e) => update({ from: e.target.value })}
-              className="rounded-md border border-[var(--border-strong)] bg-[var(--background)] px-3 py-2.5 text-[14px] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
+              className="h-11 rounded-xl border border-[var(--border-strong)] bg-[var(--background)] px-3 text-[15px] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
             />
           </label>
           <label className="flex flex-col gap-1.5">
-            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">to</span>
+            <span className="text-[13px] font-semibold text-[var(--foreground)]">To</span>
             <input
               type="date"
               value={to}
               min={from || minDate}
               max={maxDate}
               onChange={(e) => update({ to: e.target.value })}
-              className="rounded-md border border-[var(--border-strong)] bg-[var(--background)] px-3 py-2.5 text-[14px] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
+              className="h-11 rounded-xl border border-[var(--border-strong)] bg-[var(--background)] px-3 text-[15px] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
             />
           </label>
         </div>
 
         <div className="mt-5">
-          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">scene · optional</span>
-          <div className="mt-2 flex flex-wrap gap-1.5">
+          <span className="text-[13px] font-semibold text-[var(--foreground)]">Sound <span className="font-normal text-[var(--muted)]">· optional</span></span>
+          <div className="mt-2.5 flex flex-wrap gap-2">
             {GENRE_VALUES.map((genre) => {
               const active = genres.includes(genre);
               return (
@@ -158,10 +157,10 @@ export function WindowFinder({ initial }: WindowFinderProps) {
                   type="button"
                   aria-pressed={active}
                   onClick={() => toggleGenre(genre)}
-                  className={`rounded-full border px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.16em] transition ${
+                  className={`h-9 rounded-full border px-4 text-[14px] font-medium transition ${
                     active
-                      ? "border-[var(--signal)]/60 bg-[var(--signal)]/10 text-[var(--signal)]"
-                      : "border-[var(--border-strong)] text-[var(--muted)] hover:border-[var(--foreground)] hover:text-[var(--foreground)]"
+                      ? "border-[var(--foreground)] bg-[var(--foreground)] text-[var(--background)]"
+                      : "border-[var(--border-strong)] text-[var(--foreground)] hover:border-[var(--foreground)]"
                   }`}
                 >
                   {GENRE_LABELS[genre]}
@@ -173,13 +172,13 @@ export function WindowFinder({ initial }: WindowFinderProps) {
 
         <div className="mt-5 flex flex-wrap items-end gap-4">
           <label className="flex flex-col gap-1.5">
-            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">budget up to</span>
+            <span className="text-[13px] font-semibold text-[var(--foreground)]">Budget up to</span>
             <select
               value={budget}
               onChange={(e) => update({ budget: e.target.value as Budget | "all" })}
-              className="rounded-md border border-[var(--border-strong)] bg-[var(--background)] px-3 py-2 font-mono text-[11px] uppercase tracking-[0.14em] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
+              className="h-11 rounded-xl border border-[var(--border-strong)] bg-[var(--background)] px-3 text-[15px] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
             >
-              <option value="all">any</option>
+              <option value="all">Any</option>
               {BUDGET_VALUES.map((b) => (
                 <option key={b} value={b}>
                   {BUDGET_LABELS[b]} {b}
@@ -188,29 +187,28 @@ export function WindowFinder({ initial }: WindowFinderProps) {
             </select>
           </label>
           <label className="flex flex-col gap-1.5">
-            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">region</span>
+            <span className="text-[13px] font-semibold text-[var(--foreground)]">Region</span>
             <select
               value={region}
               onChange={(e) => update({ region: e.target.value as Region | "all" })}
-              className="rounded-md border border-[var(--border-strong)] bg-[var(--background)] px-3 py-2 font-mono text-[11px] uppercase tracking-[0.14em] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
+              className="h-11 rounded-xl border border-[var(--border-strong)] bg-[var(--background)] px-3 text-[15px] text-[var(--foreground)] outline-none transition focus:border-[var(--signal)]"
             >
-              <option value="all">anywhere</option>
+              <option value="all">Anywhere</option>
               {REGIONS.map((r) => (
                 <option key={r} value={r}>
-                  {r.toLowerCase()}
+                  {r}
                 </option>
               ))}
             </select>
           </label>
           {result.ok ? (
-            <p className="ml-auto pb-1 font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-              <span className="text-[var(--foreground)]">{result.matches.length}</span> options ranked
+            <p className="ml-auto pb-3 text-[14px] text-[var(--muted)]">
+              <span className="font-semibold text-[var(--foreground)]">{result.matches.length}</span> cities ranked
             </p>
           ) : null}
         </div>
       </div>
 
-      {/* RESULTS */}
       {!result.ok ? (
         <div className="rounded-xl border border-dashed border-[var(--border-strong)] bg-[var(--surface)]/40 px-6 py-10 text-center">
           <p className="text-[15px] text-[var(--foreground)]">{result.error}</p>
@@ -221,7 +219,7 @@ export function WindowFinder({ initial }: WindowFinderProps) {
           <p className="mt-2 text-[13px] text-[var(--muted)]">Try widening the dates, dropping a scene, or raising the budget cap.</p>
         </div>
       ) : (
-        <ol className="flex flex-col gap-4">
+        <ol className="flex flex-col divide-y divide-[var(--border)]">
           {result.matches.slice(0, 12).map((match, index) => {
             const tier = tierFromScore(match.score);
             const dotColor = TIER_COLORS[tier];
@@ -229,96 +227,72 @@ export function WindowFinder({ initial }: WindowFinderProps) {
               windowStart.month,
               windowStart.year
             )}`;
+            const openPreview = () =>
+              preview?.open({
+                kind: "destination",
+                destinationSlug: match.destination.slug,
+                month: windowStart.month,
+                year: windowStart.year
+              });
             return (
-              <li
-                key={match.destination.slug}
-                className="group overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] shadow-[0_1px_2px_rgba(28,22,18,0.04)] transition-[transform,box-shadow] duration-300 hover:-translate-y-0.5 hover:shadow-[0_18px_40px_-18px_rgba(28,22,18,0.28)]"
-              >
-                <div className="flex flex-col sm:flex-row">
-                  <button
-                    type="button"
-                    onClick={() =>
-                      preview?.open({
-                        kind: "destination",
-                        destinationSlug: match.destination.slug,
-                        month: windowStart.month,
-                        year: windowStart.year
-                      })
-                    }
-                    aria-label={`Quick look at ${match.destination.city}`}
-                    className="relative aspect-[16/9] w-full shrink-0 overflow-hidden sm:aspect-auto sm:w-[220px]"
-                  >
-                    <Image
-                      src={pickHeroForMonth(match.destination, windowStart.month)}
-                      alt={match.destination.city}
-                      fill
-                      sizes="(max-width: 640px) 100vw, 220px"
-                      loading={index < 4 ? "eager" : "lazy"}
-                      className="object-cover transition duration-500 group-hover:scale-105"
-                    />
-                    <span aria-hidden className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
-                    <span className="absolute bottom-2.5 left-3 font-mono text-[10px] uppercase tracking-[0.2em] text-white/85">
-                      {String(index + 1).padStart(2, "0")}
+              <li key={match.destination.slug} className="group flex gap-4 py-5 first:pt-0 sm:gap-6">
+                <button
+                  type="button"
+                  onClick={openPreview}
+                  aria-label={`Quick look at ${match.destination.city}`}
+                  className="relative aspect-square w-24 shrink-0 self-start overflow-hidden rounded-2xl bg-[var(--surface-2)] sm:aspect-[4/3] sm:w-52"
+                >
+                  <Image
+                    src={pickHeroForMonth(match.destination, windowStart.month)}
+                    alt={match.destination.city}
+                    fill
+                    sizes="(max-width: 640px) 96px, 208px"
+                    loading={index < 4 ? "eager" : "lazy"}
+                    className="object-cover transition duration-700 ease-out group-hover:scale-[1.04]"
+                  />
+                </button>
+
+                <div className="flex min-w-0 flex-1 flex-col">
+                  <div className="flex items-start justify-between gap-3">
+                    <h3 className="text-[17px] font-semibold leading-snug text-[var(--foreground)]">
+                      {match.destination.city}
+                      <span className="font-normal text-[var(--muted)]">, {match.destination.country}</span>
+                    </h3>
+                    <span className="mt-0.5 inline-flex shrink-0 items-center gap-1.5 text-[14px] font-medium text-[var(--foreground)]">
+                      <span aria-hidden className="h-2 w-2 rounded-full" style={{ background: dotColor }} />
+                      {match.score}
                     </span>
-                  </button>
+                  </div>
 
-                  <div className="flex min-w-0 flex-1 flex-col gap-2.5 p-4 sm:p-5">
-                    <div className="flex flex-wrap items-center justify-between gap-2">
-                      <div className="min-w-0">
-                        <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)]">
-                          {match.destination.country.toLowerCase()}
-                        </p>
-                        <h3 className="text-lg font-medium leading-tight text-[var(--foreground)]">
-                          {match.destination.city}
-                        </h3>
-                      </div>
-                      <span className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--surface-2)] px-2.5 py-1 font-mono text-[10px] uppercase tracking-[0.16em]">
-                        <span aria-hidden className="h-1.5 w-1.5 rounded-full" style={{ background: dotColor }} />
-                        <span className="text-[var(--foreground)]">{match.score}</span>
-                        <span className="text-[var(--muted)]">fit</span>
-                      </span>
-                    </div>
+                  <p className="mt-1 line-clamp-2 text-[14px] leading-6 text-[var(--muted)]">{match.reasons.join(" · ")}</p>
 
-                    <p className="text-[13px] leading-6 text-[var(--muted)]">
-                      {match.reasons.join(" · ")}
-                    </p>
+                  {match.events.length > 0 ? (
+                    <ul className="mt-2 hidden flex-col gap-1 sm:flex">
+                      {match.events.slice(0, 3).map((event) => (
+                        <li key={`${event.id}@${event.startDate}`} className="truncate text-[14px] text-[var(--foreground)]">
+                          <span className="font-medium text-[var(--signal)]">
+                            {event.startDate < from ? "Ongoing" : shortDate(event.startDate)}
+                          </span>{" "}
+                          · {event.title}
+                        </li>
+                      ))}
+                    </ul>
+                  ) : null}
 
-                    {match.events.length > 0 ? (
-                      <ul className="flex flex-wrap gap-x-4 gap-y-1">
-                        {match.events.slice(0, 3).map((event) => (
-                          <li key={`${event.id}@${event.startDate}`} className="min-w-0 font-mono text-[10px] uppercase tracking-[0.14em] text-[var(--muted-2)]">
-                            <span className="text-[var(--signal)]">
-                              {event.startDate < from ? "ongoing" : shortDate(event.startDate)}
-                            </span>{" "}
-                            <span className="text-[var(--foreground)]/80">{event.title.length > 44 ? `${event.title.slice(0, 42)}…` : event.title}</span>
-                          </li>
-                        ))}
-                      </ul>
-                    ) : null}
-
-                    <div className="mt-auto flex items-center gap-3 pt-1">
-                      <button
-                        type="button"
-                        onClick={() =>
-                          preview?.open({
-                            kind: "destination",
-                            destinationSlug: match.destination.slug,
-                            month: windowStart.month,
-                            year: windowStart.year
-                          })
-                        }
-                        className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--foreground)] transition hover:text-[var(--signal)]"
-                      >
-                        quick look
-                      </button>
-                      <Link
-                        href={guideHref}
-                        className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--muted)] transition hover:text-[var(--foreground)]"
-                      >
-                        full guide
-                        <span aria-hidden>→</span>
-                      </Link>
-                    </div>
+                  <div className="mt-3 flex items-center gap-5">
+                    <button
+                      type="button"
+                      onClick={openPreview}
+                      className="text-[14px] font-semibold text-[var(--foreground)] underline underline-offset-4 transition hover:text-[var(--signal)]"
+                    >
+                      Quick look
+                    </button>
+                    <Link
+                      href={guideHref}
+                      className="text-[14px] font-medium text-[var(--muted)] transition hover:text-[var(--foreground)]"
+                    >
+                      City guide →
+                    </Link>
                   </div>
                 </div>
               </li>
@@ -327,31 +301,31 @@ export function WindowFinder({ initial }: WindowFinderProps) {
         </ol>
       )}
 
-      {/* STRETCH PICKS */}
       {result.ok && result.stretch.length > 0 ? (
         <section>
-          <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-[var(--muted)]">
-            worth shifting your dates for
-          </p>
+          <h2 className="text-[18px] font-semibold text-[var(--foreground)]">Worth shifting your dates for</h2>
           <ul className="mt-3 grid gap-3 sm:grid-cols-2">
             {result.stretch.map((pick) => (
               <li
                 key={`${pick.destination.slug}:${pick.event.id}`}
-                className="rounded-xl border border-[var(--signal)]/30 bg-[var(--signal)]/5 p-4"
+                className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-4"
               >
-                <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-[var(--signal)]">
+                <p className="text-[13px] font-medium text-[var(--signal)]">
                   {pick.direction === "after"
                     ? `${pick.deltaDays} ${pick.deltaDays === 1 ? "day" : "days"} after your window`
-                    : `ends ${pick.deltaDays} ${pick.deltaDays === 1 ? "day" : "days"} before your window`}
+                    : `Ends ${pick.deltaDays} ${pick.deltaDays === 1 ? "day" : "days"} before your window`}
                 </p>
                 <p className="mt-1.5 text-[14px] font-medium leading-5 text-[var(--foreground)]">
                   {pick.event.title}
                 </p>
-                <p className="mt-1 font-mono text-[10px] uppercase tracking-[0.16em] text-[var(--muted)]">
+                <p className="mt-1 text-[13px] text-[var(--muted)]">
                   {pick.destination.city} ·{" "}
-                  {new Date(`${pick.event.startDate}T00:00:00Z`)
-                    .toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" })
-                    .toLowerCase()}
+                  {new Date(`${pick.event.startDate}T00:00:00Z`).toLocaleDateString("en-US", {
+                    month: "short",
+                    day: "numeric",
+                    year: "numeric",
+                    timeZone: "UTC"
+                  })}
                 </p>
               </li>
             ))}
