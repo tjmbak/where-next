@@ -257,10 +257,10 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
     [filters, pathname, router]
   );
 
-  // Open the in-page quick-look sheet (also selects the city + syncs the URL).
+  // Opens the city: a side sheet at the city's URL on desktop, the city page on phones.
   const openPreview = useCallback(
     (slug: string) => {
-      handleSelect(slug);
+      setSelectedSlug(slug);
       preview?.open({
         kind: "destination",
         destinationSlug: slug,
@@ -270,7 +270,7 @@ export function DiscoveryExperience({ initial }: DiscoveryExperienceProps) {
       });
       trackEvent("preview_open", { slug, month: filters.month });
     },
-    [handleSelect, preview, filters.month, filters.year, displayedDestinations]
+    [preview, filters.month, filters.year, displayedDestinations]
   );
 
   useEffect(() => {
